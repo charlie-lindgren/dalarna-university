@@ -275,6 +275,7 @@ EN_IGNORE = {
     "electrochemical","electromechanical","hydronic","incompressible",
     "pipings","microclimate",
     "socio","pre",
+    "arab","arabic","syrian",
 }
 
 

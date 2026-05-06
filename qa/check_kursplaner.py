@@ -260,7 +260,11 @@ def check_bloom(files: list[Path]) -> list[dict]:
 # ─────────────────────────────────────────────────────────────────────────────
 # Check 11 — Svenska/engelska paritet
 # ─────────────────────────────────────────────────────────────────────────────
-PARITY_THRESHOLD = 3
+PARITY_THRESHOLD = 2
+EN_LO_RE = re.compile(
+    r"^#{2,3}\s+Learning Outcomes\s*\n(.+?)(?=^#{2,3}\s|\Z)",
+    re.MULTILINE | re.DOTALL,
+)
 
 
 def check_sv_en_parity(files: list[Path]) -> list[dict]:
@@ -268,7 +272,8 @@ def check_sv_en_parity(files: list[Path]) -> list[dict]:
     for p in files:
         body = strip_frontmatter(p.read_text(encoding="utf-8"))
         sv_lo = extract_section(body, "Lärandemål")
-        en_lo = extract_section(body, "Learning Outcomes")
+        m = EN_LO_RE.search(body)
+        en_lo = m.group(1) if m else ""
         if not sv_lo or not en_lo:
             continue
         sv_n = len(LO_BULLET_RE.findall(sv_lo))
