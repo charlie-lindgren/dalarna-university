@@ -260,7 +260,7 @@ def check_bloom(files: list[Path]) -> list[dict]:
 # ─────────────────────────────────────────────────────────────────────────────
 # Check 11 — Svenska/engelska paritet
 # ─────────────────────────────────────────────────────────────────────────────
-PARITY_THRESHOLD = 2
+PARITY_THRESHOLD = 0
 EN_LO_RE = re.compile(
     r"^#{2,3}\s+Learning Outcomes\s*\n(.+?)(?=^#{2,3}\s|\Z)",
     re.MULTILINE | re.DOTALL,

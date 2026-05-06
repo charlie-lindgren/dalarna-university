@@ -8,7 +8,7 @@ status: första pass
 
 ## Problematiska kursplaner
 
-> [!example]- 145 fynd — klicka för att expandera
+> [!example]- 171 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -23,6 +23,7 @@ status: första pass
 > | [ABQ2AZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABQ2AZ) | BPO | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
 > | [ABQ2B2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABQ2B2) | BPO | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
 > | [ABQ2B4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABQ2B4) | BPO | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+> | [GBY2NG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2NG) | BYA | Paritetsskillnad | Svenska: 10 mål, engelska: 9 mål (diff 1) |
 > | [AEN25H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN25H) | ENA | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
 > | [AEN25J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN25J) | ENA | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
 > | [EN2043](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN2043) | ENA | Paritetsskillnad | Svenska: 25 mål, engelska: 0 mål (diff 25) |
@@ -58,24 +59,37 @@ status: första pass
 > | [GHI378](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI378) | HIA | Paritetsskillnad | Svenska: 14 mål, engelska: 0 mål (diff 14) |
 > | [GHI3JX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3JX) | HIA | Paritetsskillnad | Svenska: 17 mål, engelska: 0 mål (diff 17) |
 > | [GIH334](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH334) | IDA | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | [GIH35T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35T) | IDA | Paritetsskillnad | Svenska: 2 mål, engelska: 0 mål (diff 2) |
 > | [GIH35U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35U) | IDA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
 > | [GIH35W](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35W) | IDA | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
 > | [GIH37R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37R) | IDA | Paritetsskillnad | Svenska: 15 mål, engelska: 1 mål (diff 14) |
 > | [GIH37S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37S) | IDA | Paritetsskillnad | Svenska: 19 mål, engelska: 0 mål (diff 19) |
+> | [GIH38Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH38Y) | IDA | Paritetsskillnad | Svenska: 4 mål, engelska: 5 mål (diff 1) |
 > | [GIH39C](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH39C) | IDA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
 > | [GIH3AN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AN) | IDA | Paritetsskillnad | Svenska: 23 mål, engelska: 1 mål (diff 22) |
 > | [GIH3AP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AP) | IDA | Paritetsskillnad | Svenska: 23 mål, engelska: 1 mål (diff 22) |
 > | [GIH3AQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AQ) | IDA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [GIH3C2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3C2) | IDA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | [GIK23M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK23M) | IKA | Paritetsskillnad | Svenska: 6 mål, engelska: 5 mål (diff 1) |
+> | [GIK2KM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2KM) | IKA | Paritetsskillnad | Svenska: 10 mål, engelska: 9 mål (diff 1) |
 > | [AKI25K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKI25K) | KIA | Paritetsskillnad | Svenska: 12 mål, engelska: 1 mål (diff 11) |
 > | [GKI2W3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2W3) | KIA | Paritetsskillnad | Svenska: 27 mål, engelska: 1 mål (diff 26) |
 > | [AMC2BG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC2BG) | MCA | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
+> | [GMC37E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC37E) | MCA | Paritetsskillnad | Svenska: 1 mål, engelska: 0 mål (diff 1) |
 > | [AMD238](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMD238) | MDI | Paritetsskillnad | Svenska: 17 mål, engelska: 0 mål (diff 17) |
 > | [AMD239](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMD239) | MDI | Paritetsskillnad | Svenska: 17 mål, engelska: 0 mål (diff 17) |
 > | [GMD2AR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2AR) | MDI | Paritetsskillnad | Svenska: 28 mål, engelska: 0 mål (diff 28) |
 > | [GMD2GG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2GG) | MDI | Paritetsskillnad | Svenska: 24 mål, engelska: 1 mål (diff 23) |
+> | [GMD2H2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2H2) | MDI | Paritetsskillnad | Svenska: 9 mål, engelska: 8 mål (diff 1) |
 > | [GMD2MH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2MH) | MDI | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
 > | [GMD2TV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2TV) | MDI | Paritetsskillnad | Svenska: 32 mål, engelska: 0 mål (diff 32) |
+> | [GMT34R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34R) | MTA | Paritetsskillnad | Svenska: 10 mål, engelska: 11 mål (diff 1) |
+> | [MT1033](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT1033) | MTA | Paritetsskillnad | Svenska: 1 mål, engelska: 0 mål (diff 1) |
+> | [GNA3B8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA3B8) | NAA | Paritetsskillnad | Svenska: 5 mål, engelska: 6 mål (diff 1) |
+> | [NA2001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NA2001) | NAA | Paritetsskillnad | Svenska: 4 mål, engelska: 3 mål (diff 1) |
+> | [NA3001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NA3001) | NAA | Paritetsskillnad | Svenska: 10 mål, engelska: 9 mål (diff 1) |
+> | [NA3005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NA3005) | NAA | Paritetsskillnad | Svenska: 7 mål, engelska: 6 mål (diff 1) |
+> | [NA3007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NA3007) | NAA | Paritetsskillnad | Svenska: 8 mål, engelska: 9 mål (diff 1) |
 > | [GNV367](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV367) | NAV | Paritetsskillnad | Svenska: 16 mål, engelska: 0 mål (diff 16) |
 > | [APG244](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG244) | PGA | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
 > | [APG245](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG245) | PGA | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
@@ -88,6 +102,12 @@ status: första pass
 > | [GPG22J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG22J) | PGA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [GPG2E7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2E7) | PGA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [GPG2LZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2LZ) | PGA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [GPG2QP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2QP) | PGA | Paritetsskillnad | Svenska: 15 mål, engelska: 14 mål (diff 1) |
+> | [GPG2RH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2RH) | PGA | Paritetsskillnad | Svenska: 15 mål, engelska: 14 mål (diff 1) |
+> | [GPG2RR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2RR) | PGA | Paritetsskillnad | Svenska: 13 mål, engelska: 12 mål (diff 1) |
+> | [GPG2RS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2RS) | PGA | Paritetsskillnad | Svenska: 16 mål, engelska: 15 mål (diff 1) |
+> | [GPG2S7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2S7) | PGA | Paritetsskillnad | Svenska: 13 mål, engelska: 12 mål (diff 1) |
+> | [GPG2S8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2S8) | PGA | Paritetsskillnad | Svenska: 16 mål, engelska: 15 mål (diff 1) |
 > | [GPG2YG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2YG) | PGA | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
 > | [GPG2Z3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2Z3) | PGA | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
 > | [GPG326](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG326) | PGA | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
@@ -103,6 +123,9 @@ status: första pass
 > | [PG3024](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PG3024) | PGA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
 > | [PG3025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PG3025) | PGA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
 > | [PG3041](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PG3041) | PGA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | [GPR3GM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR3GM) | PRA | Paritetsskillnad | Svenska: 12 mål, engelska: 11 mål (diff 1) |
+> | [GPR3GN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR3GN) | PRA | Paritetsskillnad | Svenska: 11 mål, engelska: 10 mål (diff 1) |
+> | [GPR3GP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR3GP) | PRA | Paritetsskillnad | Svenska: 16 mål, engelska: 15 mål (diff 1) |
 > | [GRK2P3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2P3) | RKA | Paritetsskillnad | Svenska: 10 mål, engelska: 0 mål (diff 10) |
 > | [GRK2Q4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2Q4) | RKA | Paritetsskillnad | Svenska: 10 mål, engelska: 0 mål (diff 10) |
 > | [GRK2Q5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2Q5) | RKA | Paritetsskillnad | Svenska: 11 mål, engelska: 0 mål (diff 11) |
@@ -129,6 +152,8 @@ status: första pass
 > | [GSP2FQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2FQ) | SPA | Paritetsskillnad | Svenska: 33 mål, engelska: 0 mål (diff 33) |
 > | [GSP2FR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2FR) | SPA | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
 > | [GSP2W8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2W8) | SPA | Paritetsskillnad | Svenska: 31 mål, engelska: 0 mål (diff 31) |
+> | [GSQ33M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ33M) | SQQ | Paritetsskillnad | Svenska: 5 mål, engelska: 4 mål (diff 1) |
+> | [ASR29V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29V) | SRP | Paritetsskillnad | Svenska: 13 mål, engelska: 12 mål (diff 1) |
 > | [GSS2FK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2FK) | SSA | Paritetsskillnad | Svenska: 20 mål, engelska: 0 mål (diff 20) |
 > | [GSS3BL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3BL) | SSA | Paritetsskillnad | Svenska: 15 mål, engelska: 0 mål (diff 15) |
 > | [GSS3BN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3BN) | SSA | Paritetsskillnad | Svenska: 20 mål, engelska: 0 mål (diff 20) |
@@ -157,6 +182,7 @@ status: första pass
 > | [TY1038](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TY1038) | TYA | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
 > | [TY1066](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TY1066) | TYA | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
 > | [TY1067](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TY1067) | TYA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [AMI23A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI23A) | XYZ | Paritetsskillnad | Svenska: 5 mål, engelska: 4 mål (diff 1) |
 
 ## Syfte
 
