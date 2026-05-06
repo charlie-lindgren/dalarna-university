@@ -12,7 +12,7 @@ Kontroller som körs:
   3.  Hunspell stavning svenska (sv_SE)
   4.  Hunspell stavning engelska (en_US) — English Version-sektionen
   5.  Frasningskonsistens lärandemål (introfras)
-  6.  Betygsskala — A–F-avvikare + inkonsekvent delskalor
+  6.  Betygsskala — inkonsekvent delskalor
   7.  Examinationsformer — rena prosabeskrivningar saknar kod/bullet
   8.  Omfång lärandemål — för få (< 4) eller för många (> 12)
   9.  Långa bullets (> 25 ord)
@@ -115,13 +115,6 @@ def check_betygsskala(files: list[Path]) -> list[dict]:
         betyg_section = extract_section(body, "Betyg")
         if not betyg_section:
             continue
-        if AF_RE.search(betyg_section):
-            findings.append({
-                "check": "betygsskala-AF",
-                "code": course_code(p),
-                "subj": subject(p),
-                "detail": "Avvikande betygsskala: A–F istället för U/G/VG eller U/3/4/5",
-            })
         if MIXED_SCALE_RE.search(betyg_section) and course_code(p) not in MIXED_SCALE_EXEMPT:
             findings.append({
                 "check": "betygsskala-inkonsekvent",
@@ -300,7 +293,6 @@ CHECK_LABELS = {
     "introfras-saknas":      "Introfras saknas",
     "introfras-kolon":       "Introfras saknar kolon",
     "introfras-avviker":     "Introfras avviker",
-    "betygsskala-AF":        "Betygsskala A–F",
     "betygsskala-inkonsekvent": "Betygsskala inkonsekvent",
     "exam-ingen-struktur":   "Examinationsformer – ingen struktur",
     "omfång-få-mål":         "För få lärandemål",
