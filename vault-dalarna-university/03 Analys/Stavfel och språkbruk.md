@@ -8,7 +8,7 @@ status: första pass
 
 ## Problematiska kursplaner
 
-> [!example]- 779 fynd — klicka för att expandera
+> [!example]- 777 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -16,11 +16,9 @@ status: första pass
 > | [AR2012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR2012) | ARA | Felstavning (en) | `accademic` (en) |
 > | [AR2012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR2012) | ARA | Felstavning (en) | `timeframes` (en) |
 > | [GAR2HR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR2HR) | ARA | Felstavning | `lässtilar` (sv) |
-> | [GAR2HS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR2HS) | ARA | Felstavning (en) | `arab` (en) |
 > | [GAR2VU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR2VU) | ARA | Felstavning (en) | `formalia` (en) |
 > | [GAR38L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR38L) | ARA | Felstavning (en) | `egyptian` (en) |
 > | [GAR38L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR38L) | ARA | Felstavning (en) | `encyclopaedias` (en) |
-> | [GAR38L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR38L) | ARA | Felstavning (en) | `syrian` (en) |
 > | [GAR38M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR38M) | ARA | Felstavning | `samläses` (sv) |
 > | [GAR38N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR38N) | ARA | Felstavning | `samläses` (sv) |
 > | [GAR38N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR38N) | ARA | Felstavning (en) | `balagha` (en) |
