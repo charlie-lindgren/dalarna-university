@@ -1,0 +1,186 @@
+---
+aliases: [Pedagogiskt arbete]
+cssclasses: [moc-page]
+tags: [MOC, amne, PGA, IKS]
+up: "[[IKS MOC]]"
+---
+
+# Pedagogiskt arbete MOC
+
+> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+
+## Kurser (173 st)
+
+- [[APG22X]] — Tematisk fördjupning inom ett utbildningsvetenskapligt område
+- [[APG22X]] — Tematisk fördjupning inom ett utbildningsvetenskapligt område
+- [[APG244]] — Vetenskapsteori och utbildningsvetenskaplig forskning för grundlärare F-3
+- [[APG244]] — Vetenskapsteori och utbildningsvetenskaplig forskning för grundlärare F-3
+- [[APG245]] — Vetenskapsteori och utbildningsvetenskaplig forskning för grundlärare 4-6
+- [[APG245]] — Vetenskapsteori och utbildningsvetenskaplig forskning för grundlärare 4-6
+- [[APG246]] — Examensarbete för grundlärarexamen inriktning F-3 del 2
+- [[APG246]] — Examensarbete för grundlärarexamen inriktning F-3 del 2
+- [[APG247]] — Examensarbete för grundlärarexamen inriktning 4-6 del 2
+- [[APG247]] — Examensarbete för grundlärarexamen inriktning 4-6 del 2
+- [[APG24D]] — Bedömning och betygssättning för ämneslärare
+- [[APG24D]] — Bedömning och betygssättning för ämneslärare
+- [[APG24E]] — Vetenskapsteori och utbildningsvetenskaplig forskning för ämneslärare
+- [[APG24E]] — Vetenskapsteori och utbildningsvetenskaplig forskning för ämneslärare
+- [[APG24S]] — Utvärdering och utvecklingsarbete i grundskolans åk 7-9 och gymnasieskolan
+- [[APG24S]] — Utvärdering och utvecklingsarbete i grundskolans åk 7-9 och gymnasieskolan
+- [[APG24S]] — Utvärdering och utvecklingsarbete i grundskolans åk 7-9 och gymnasieskolan
+- [[APG25N]] — Vetenskap och beprövad erfarenhet i undervisning och handledning
+- [[APG25N]] — Vetenskap och beprövad erfarenhet i undervisning och handledning
+- [[APG25N]] — Vetenskap och beprövad erfarenhet i undervisning och handledning
+- [[APG275]] — Utvärdering och utvecklingsarbete i förskoleklass och grundskolans åk 1-3 (varav 7,5 hp VFU)
+- [[APG275]] — Utvärdering och utvecklingsarbete i förskoleklass och grundskolans åk 1-3 (varav 7,5 hp VFU)
+- [[APG275]] — Utvärdering och utvecklingsarbete i förskoleklass och grundskolans åk 1-3 (varav 7,5 hp VFU)
+- [[APG276]] — Utvärdering och utvecklingsarbete i grundskolans åk 4-6, (varav 7,5 hp VFU)
+- [[APG276]] — Utvärdering och utvecklingsarbete i grundskolans åk 4-6, (varav 7,5 hp VFU)
+- [[APG276]] — Utvärdering och utvecklingsarbete i grundskolans åk 4-6, (varav 7,5 hp VFU)
+- [[APG282]] — Examensarbete för ämneslärare (avancerad nivå)
+- [[APG282]] — Examensarbete för ämneslärare (avancerad nivå)
+- [[APG28M]] — Vetenskapsteori och utbildningsvetenskaplig forskning - VAL
+- [[APG28M]] — Vetenskapsteori och utbildningsvetenskaplig forskning - VAL
+- [[APG28R]] — Verksamhetsförlagd utbildning i gymnasieskolan
+- [[APG28R]] — Verksamhetsförlagd utbildning i gymnasieskolan
+- [[APG28R]] — Verksamhetsförlagd utbildning i gymnasieskolan
+- [[APG28S]] — Verksamhetsförlagd utbildning i grundskolan årskurs 7-9
+- [[APG28S]] — Verksamhetsförlagd utbildning i grundskolan årskurs 7-9
+- [[APG28S]] — Verksamhetsförlagd utbildning i grundskolan årskurs 7-9
+- [[APG29G]] — Att vägleda kollegor och lärarstudenter för professionsutveckling
+- [[APG29G]] — Att vägleda kollegor och lärarstudenter för professionsutveckling
+- [[APG2AJ]] — Verksamhetsförlagd utbildning för lärare - VAL
+- [[APG2AJ]] — Verksamhetsförlagd utbildning för lärare - VAL
+- [[APG2BC]] — Professionellt lärarskap och skolutveckling - KPU (varav 10 hp VFU)
+- [[APG2BC]] — Professionellt lärarskap och skolutveckling - KPU (varav 10 hp VFU)
+- [[APG2C3]] — Vidareutveckling och analys av kvalitet i undervisning
+- [[APG2C3]] — Vidareutveckling och analys av kvalitet i undervisning
+- [[APG2C3]] — Vidareutveckling och analys av kvalitet i undervisning
+- [[APG2C6]] — Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare F-3
+- [[APG2C6]] — Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare F-3
+- [[APG2C7]] — Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare 4-6
+- [[APG2C7]] — Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare 4-6
+- [[APG2CC]] — Mentorsutbildning för en kvalitativ introduktionsperiod
+- [[APG2CC]] — Mentorsutbildning för en kvalitativ introduktionsperiod
+- [[APG2CD]] — Perspektiv på pedagogisk praktik
+- [[APG2CD]] — Perspektiv på pedagogisk praktik
+- [[APG2CL]] — Undervisningsskicklighet i teori och praktik (USP) Ämneslärare
+- [[APG2CL]] — Undervisningsskicklighet i teori och praktik (USP) Ämneslärare
+- [[APG2CM]] — Undervisningsskicklighet i teori och praktik (USP) F-6
+- [[APG2CM]] — Undervisningsskicklighet i teori och praktik (USP) F-6
+- [[APG2CM]] — Undervisningsskicklighet i teori och praktik (USP) F-6
+- [[GPG22J]] — Att handleda lärarstuderande - kurs för verksamhetsförlagda lärarutbildare
+- [[GPG22J]] — Att handleda lärarstuderande - kurs för verksamhetsförlagda lärarutbildare
+- [[GPG22K]] — Examensarbete för ämneslärarexamen - KPU
+- [[GPG22K]] — Examensarbete för ämneslärarexamen - KPU
+- [[GPG2E6]] — Examensarbete för grundlärarexamen inriktning F-3 del 1
+- [[GPG2E6]] — Examensarbete för grundlärarexamen inriktning F-3 del 1
+- [[GPG2E7]] — Examensarbete för grundlärarexamen inriktning 4-6 del 1
+- [[GPG2E7]] — Examensarbete för grundlärarexamen inriktning 4-6 del 1
+- [[GPG2LZ]] — Sociala relationer, konflikter och makt i grundskolan åk 4-6 (varav 7,5 hp VFU)
+- [[GPG2LZ]] — Sociala relationer, konflikter och makt i grundskolan åk 4-6 (varav 7,5 hp VFU)
+- [[GPG2LZ]] — Sociala relationer, konflikter och makt i grundskolan åk 4-6 (varav 7,5 hp VFU)
+- [[GPG2M9]] — Sociala relationer, konflikter och makt i förskoleklass och grundskolan åk 1-3 (varav 7,5 hp VFU)
+- [[GPG2M9]] — Sociala relationer, konflikter och makt i förskoleklass och grundskolan åk 1-3 (varav 7,5 hp VFU)
+- [[GPG2M9]] — Sociala relationer, konflikter och makt i förskoleklass och grundskolan åk 1-3 (varav 7,5 hp VFU)
+- [[GPG2QP]] — Undervisning och ledarskap (varav 10 hp VFU)
+- [[GPG2QP]] — Undervisning och ledarskap (varav 10 hp VFU)
+- [[GPG2RH]] — Undervisning och ledarskap - KPU (varav 10 hp VFU)
+- [[GPG2RH]] — Undervisning och ledarskap - KPU (varav 10 hp VFU)
+- [[GPG2RR]] — Kunskap, lärande och bedömning
+- [[GPG2RR]] — Kunskap, lärande och bedömning
+- [[GPG2RS]] — Ämnesdidaktik och specialpedagogik (varav 10 hp VFU)
+- [[GPG2RS]] — Ämnesdidaktik och specialpedagogik (varav 10 hp VFU)
+- [[GPG2S7]] — Kunskap, lärande och bedömning - KPU
+- [[GPG2S7]] — Kunskap, lärande och bedömning - KPU
+- [[GPG2S8]] — Ämnesdidaktik och specialpedagogik - KPU (varav 10 hp VFU)
+- [[GPG2S8]] — Ämnesdidaktik och specialpedagogik - KPU (varav 10 hp VFU)
+- [[GPG2S9]] — Sociala relationer, konflikter och makt i grundskolan åk 7-9 och gymnasieskolan
+- [[GPG2S9]] — Sociala relationer, konflikter och makt i grundskolan åk 7-9 och gymnasieskolan
+- [[GPG2S9]] — Sociala relationer, konflikter och makt i grundskolan åk 7-9 och gymnasieskolan
+- [[GPG2VX]] — Självständigt arbete för yrkeslärare
+- [[GPG2VX]] — Självständigt arbete för yrkeslärare
+- [[GPG2WR]] — Examensarbete för ämneslärare (grundnivå)
+- [[GPG2WR]] — Examensarbete för ämneslärare (grundnivå)
+- [[GPG2YG]] — Kommunikation och berättande i ett flerspråkigt klassrum för grundlärare årskurs F-3
+- [[GPG2YG]] — Kommunikation och berättande i ett flerspråkigt klassrum för grundlärare årskurs F-3
+- [[GPG2YG]] — Kommunikation och berättande i ett flerspråkigt klassrum för grundlärare årskurs F-3
+- [[GPG2Z3]] — Bedömning och betygssättning - VAL
+- [[GPG2Z3]] — Bedömning och betygssättning - VAL
+- [[GPG2Z4]] — Utveckling och lärande - VAL
+- [[GPG2Z4]] — Utveckling och lärande - VAL
+- [[GPG2Z6]] — Sociala relationer och konflikthantering - VAL
+- [[GPG2Z6]] — Sociala relationer och konflikthantering - VAL
+- [[GPG2Z7]] — Skolans samhällsuppdrag - VAL
+- [[GPG2Z7]] — Skolans samhällsuppdrag - VAL
+- [[GPG326]] — Didaktik och ledarskap för ämneslärare inriktning gymnasieskolan (inkl 7,5 hp VFU)
+- [[GPG326]] — Didaktik och ledarskap för ämneslärare inriktning gymnasieskolan (inkl 7,5 hp VFU)
+- [[GPG327]] — Didaktik och ledarskap för ämneslärare inriktning årskurs 7-9 (inkl 7,5 hp VFU)
+- [[GPG327]] — Didaktik och ledarskap för ämneslärare inriktning årskurs 7-9 (inkl 7,5 hp VFU)
+- [[GPG328]] — Utveckling och lärande för ämneslärare inriktning åk 7-9 (varav 7,5 hp VFU)
+- [[GPG328]] — Utveckling och lärande för ämneslärare inriktning åk 7-9 (varav 7,5 hp VFU)
+- [[GPG329]] — Utveckling och lärande för ämneslärare inriktning gymnasieskolan (varav 7,5 hp VFU)
+- [[GPG329]] — Utveckling och lärande för ämneslärare inriktning gymnasieskolan (varav 7,5 hp VFU)
+- [[GPG32A]] — Skolväsendets historia och samhällsuppdrag - ämneslärare
+- [[GPG32A]] — Skolväsendets historia och samhällsuppdrag - ämneslärare
+- [[GPG33D]] — Utveckling, lärande och ledarskap - VAL
+- [[GPG33D]] — Utveckling, lärande och ledarskap - VAL
+- [[GPG33E]] — Sociala relationer, skolans historiska utveckling och samhällsuppdrag - VAL
+- [[GPG33E]] — Sociala relationer, skolans historiska utveckling och samhällsuppdrag - VAL
+- [[GPG33F]] — Didaktik och bedömning - VAL
+- [[GPG33F]] — Didaktik och bedömning - VAL
+- [[GPG3AB]] — Introduktion till läraryrket för ämneslärare årskurs 7–9 - AIL
+- [[GPG3AB]] — Introduktion till läraryrket för ämneslärare årskurs 7–9 - AIL
+- [[GPG3AC]] — Didaktik och ledarskap för ämneslärare årskurs 7–9 - AIL
+- [[GPG3AC]] — Didaktik och ledarskap för ämneslärare årskurs 7–9 - AIL
+- [[GPG3AE]] — Utveckling och lärande för ämneslärare årskurs 7-9 - AIL
+- [[GPG3AE]] — Utveckling och lärande för ämneslärare årskurs 7-9 - AIL
+- [[GPG3BE]] — Didaktik och ledarskap - VAL
+- [[GPG3BE]] — Didaktik och ledarskap - VAL
+- [[GPG3CF]] — Utveckling och lärande i förskoleklass och grundskolans åk 1-3 (varav 7,5 hp VFU)
+- [[GPG3CF]] — Utveckling och lärande i förskoleklass och grundskolans åk 1-3 (varav 7,5 hp VFU)
+- [[GPG3CF]] — Utveckling och lärande i förskoleklass och grundskolans åk 1-3 (varav 7,5 hp VFU)
+- [[GPG3CG]] — Utveckling och lärande i grundskolans åk 4-6 (varav 7,5 hp VFU)
+- [[GPG3CG]] — Utveckling och lärande i grundskolans åk 4-6 (varav 7,5 hp VFU)
+- [[GPG3CG]] — Utveckling och lärande i grundskolans åk 4-6 (varav 7,5 hp VFU)
+- [[GPG3CH]] — Didaktik och ledarskap i förskoleklass och grundskolans årskurs 1-3 (inkl 7,5 hp VFU)
+- [[GPG3CH]] — Didaktik och ledarskap i förskoleklass och grundskolans årskurs 1-3 (inkl 7,5 hp VFU)
+- [[GPG3CH]] — Didaktik och ledarskap i förskoleklass och grundskolans årskurs 1-3 (inkl 7,5 hp VFU)
+- [[GPG3CJ]] — Didaktik och ledarskap i grundskolans årskurs 4-6 (inkl 7,5 hp VFU)
+- [[GPG3CJ]] — Didaktik och ledarskap i grundskolans årskurs 4-6 (inkl 7,5 hp VFU)
+- [[GPG3CJ]] — Didaktik och ledarskap i grundskolans årskurs 4-6 (inkl 7,5 hp VFU)
+- [[GPG3CK]] — Skolväsendets historia och samhällsuppdrag - förskoleklass och grundskolan åk 1-6
+- [[GPG3CK]] — Skolväsendets historia och samhällsuppdrag - förskoleklass och grundskolan åk 1-6
+- [[GPG3CL]] — Samhällsorienterande ämnen, årskurs 4-6
+- [[GPG3CL]] — Samhällsorienterande ämnen, årskurs 4-6
+- [[GPG3CN]] — Undervisning och lärande genom rollspel - inriktning pedagogiskt arbete
+- [[GPG3CN]] — Undervisning och lärande genom rollspel - inriktning pedagogiskt arbete
+- [[GPG3EU]] — Didaktik och läroplansteori
+- [[GPG3EU]] — Didaktik och läroplansteori
+- [[GPG3EV]] — Professionellt lärarskap och skolutveckling (varav 10 hp VFU)
+- [[GPG3EV]] — Professionellt lärarskap och skolutveckling (varav 10 hp VFU)
+- [[GPG3FU]] — Utvärdering och utvecklingsarbete - VAL
+- [[GPG3FU]] — Utvärdering och utvecklingsarbete - VAL
+- [[GPG3FV]] — Självständigt arbete - VAL
+- [[GPG3FV]] — Självständigt arbete - VAL
+- [[GPG3JC]] — Utbildningssystemet i Sverige
+- [[GPG3JC]] — Utbildningssystemet i Sverige
+- [[GPG3JC]] — Utbildningssystemet i Sverige
+- [[GPG3JD]] — Att leda kollegiala lärprocesser i förskola och skola
+- [[GPG3JD]] — Att leda kollegiala lärprocesser i förskola och skola
+- [[GPG3JD]] — Att leda kollegiala lärprocesser i förskola och skola
+- [[GPG3JP]] — Interkulturell och inkluderande undervisning i globala sammanhang
+- [[GPG3JP]] — Interkulturell och inkluderande undervisning i globala sammanhang
+- [[GPG3JP]] — Interkulturell och inkluderande undervisning i globala sammanhang
+- [[PG3024]] — Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare F-3
+- [[PG3024]] — Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare F-3
+- [[PG3025]] — Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare 4-6
+- [[PG3025]] — Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare 4-6
+- [[PG3031]] — Utbildningsfilosofiska perspektiv
+- [[PG3031]] — Utbildningsfilosofiska perspektiv
+- [[PG3041]] — Utbildningsvetenskapliga teorier
+- [[PG3041]] — Utbildningsvetenskapliga teorier
+- [[PG3061]] — Att kritiskt granska utbildningsvetenskaplig forskning
+- [[PG3061]] — Att kritiskt granska utbildningsvetenskaplig forskning
+- [[PG3069]] — Utbildningsvetenskapliga ansatser - teoretisk och  metodologisk fördjupning
+- [[PG3069]] — Utbildningsvetenskapliga ansatser - teoretisk och  metodologisk fördjupning

@@ -1,0 +1,115 @@
+---
+kurskod: AEN29C
+kursnamn: "Interkulturella litteraturstudier: Masterexamensarbete med inriktning engelska"
+course_name: "Intercultural Literature Studies: Master‘s Degree Thesis with Specialisation in English"
+hp: 30 högskolepoäng
+niva: "Avancerad nivå"
+huvudomrade: "Interkulturella litteraturstudier 1"
+amne: "Engelska"
+amne_kod: "ENA"
+institution: "ISLL"
+tags: [kursplan, ENA, ISLL]
+scrape_hash: 5b657ba29d9c5dca
+up: "[[Engelska MOC]]"
+---
+
+# AEN29C
+
+**Kursnamn:** Interkulturella litteraturstudier: Masterexamensarbete med inriktning engelska
+**Course Name:** Intercultural Literature Studies: Master‘s Degree Thesis with Specialisation in English
+
+- **Poäng:** 30 högskolepoäng
+- **Nivå:** Avancerad nivå
+- **Kursen kan ingå i följande huvudområde(n):** Interkulturella litteraturstudier 1
+- **Ämnestillhörighet:** Engelska (ENA)
+- **Fastställd:** Fastställd 2023-06-28 . Kursplanen gäller fr.o.m. 2023-06-28.
+
+## Lärandemål
+
+Efter godkänd kurs ska den studerande kunna:
+
+  - visa fördjupade metod- och teorikunskaper och insikter i aktuella forskningsfrågor inom området interkulturella litteraturstudier med fokus på engelskspråkig litteratur
+
+  - analysera och hantera komplexa företeelser och frågeställningar
+
+  - utifrån en problemställning självständigt söka, samla, värdera samt kritiskt tolka och analysera relevant information
+
+  - inom givna tidsramar genomföra en självständig litteraturvetenskaplig studie med högt vetenskapligt värde, forskningsanknytning, tydlig metod och teorianknytning, samt argumentation som vilar på kvalificerade textanalyser
+
+  - med hög språklig kommunikationsförmåga, skriftligt såväl som muntligt presentera och argumentera för egna resultat
+
+  - kritiskt analysera och diskutera andras vetenskapliga arbeten genom att ge konstruktiv respons.
+
+## Innehåll
+
+I kursen genomförs en självständigt författad litteraturvetenskaplig studie inom ett avgränsat problemområde med relevans för interkulturella perspektiv inom engelskspråkig litteratur. Studien presenteras i form av ett vetenskapligt examensarbete som diskuteras vid ett ventileringsseminarium. Det skrivs på engelska och ska ha en omfattning på omkring 30 000 ord. Under kursens gång ges den studerande också tillfälle att presentera detta arbete vid ett högre forskningsseminarium.
+
+## Examinationsformer
+
+- Aktivt deltagande i handledning
+
+  - Självständigt författat examensarbete
+
+  - Opponering på medstuderandes examensarbete
+
+  - Försvar av det egna examensarbetet
+
+## Betyg
+
+Som betygsskala på hel kurs används A–F.
+
+Betyg rapporteras enligt följande:
+
+  - Examensarbete - 30 hp | A–F
+
+## Övrigt
+
+Undervisningsspråket vid seminarierna är engelska. Handledningen sker på engelska.
+
+Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
+
+Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Högskolan Dalarna på grund av funktionsnedsättning, har examinator rätt att anpassa examinationen. Examinator avgör utifrån kursplanens mål om examinationen kan anpassas i enlighet med beslutet/rekommendationen.
+
+## English Version
+
+### Learning Outcomes
+
+On completion of the course, students will be able to:
+
+  - demonstrate deep methodological and theoretical knowledge and insight into current research issues within the field of intercultural literature studies with focus on literature in English
+
+  - analyse and work with complex phenomena and issues
+
+  - independently search for, collect, evaluate, and critically interpret and analyse, relevant information relating to a particular question
+
+  - complete, within a set time frame, an independent study about literature that is of high academic value and that has a connection to research, and a clear method and theory, as well as argumentation that is based on informed text analyses
+
+  - in both written and oral form, while demonstrating sound communication skills, present and argue for their results
+
+  - critically analyse and discuss the academic work of others by providing constructive feedback.
+
+### Course Content
+
+In the course, students conduct an independently written literary study of a defined research topic that is relevant to intercultural perspectives on literature in English. Students present their study in the form of a scholarly thesis that they defend and discuss at a thesis defence seminar. The thesis is to be written in English and be about 30 000 words in length. In the course, students are given the opportunity to present their work at a higher research seminar.
+
+### Assessment
+
+- Active participation in supervision
+
+  - Independently written scholarly thesis
+
+  - Discussion of and constructive response to another student‘s scholarly thesis
+
+  - Defence of their own thesis
+
+### Grades
+
+The grading scale used for the final course grade is A–F.
+
+Grades are reported as follows:
+
+  - Degree Thesis - 30 Credits | A–F
+
+### Prerequisites
+
+- Bachelor‘s Degree in Languages or Literary Studies of at least 180 credits. 90 credits at Second cycle, including 30 credits within the main field of study Intercultural Literature Studies and 30 credits in literature in English.
