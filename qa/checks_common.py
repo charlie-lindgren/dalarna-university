@@ -276,6 +276,59 @@ EN_IGNORE = {
     "pipings","microclimate",
     "socio","pre",
     "arab","arabic","syrian",
+    # Proper nouns — places, nationalities, religions, writing systems
+    "angola","asian","australia","australian","berlin","brazil","brazilian",
+    "britain","british","buddhism","cambridge","canada","caribbean","christianity",
+    "cyrillic","egyptian","germanic","germany","hanzi","india","ireland","islam",
+    "latin","lusophone","mozambique","oceania","philip","qing","russia","russias",
+    "sahara","scandinavia","sao","slavic","slavonic","spain","verde","zeeland",
+    # Named theories, economists, mathematicians, concepts
+    "balagha","cantillon","cramer","hegelian","heimat","keynesian","kirzner",
+    "lagrange","marxism","marxist","nobel","pareto","phillips","poisson",
+    "pythagorean","schumpeter","shannon","sdgs",
+    # Literary, cultural, and humanities studies
+    "aesthetical","affective","assimilations","audiovisuality","bildungsroman",
+    "collegial","contrastively","decolonial","dramaturgy","dramaturgical",
+    "ecocriticism","encyclopaedias","epistemologies","essentialist","fieldnotes",
+    "formalia","franca","hermeneutics","hybridity","interculturality","intermedial",
+    "intermediality","intertextual","intertextuality","liminality","literatures",
+    "microhistory","narratological","ontologies","otaku","poetological",
+    "postcolonialism","postnationalism","redefinitions","roleplay","scriptwriting",
+    "situationally","sociocultural","syllabi","transculturality","transformative",
+    # Statistics, econometrics, mathematics
+    "autocorrelation","endogeneity","geostatistical","heteroskedasticity","logit",
+    "macroeconomically","multicollinearity","nonstationarity","optimality",
+    "overfitting","probit","regularisation","scientificity","tobit",
+    # Linguistics
+    "dialectology","diatopic","diatopical","diaphasic","diglossia","englishes",
+    "ideographical","languagevarieties","lexically","phonetical","romanization",
+    "sociolects","sociopragmatic","sociopragmatics","synchronic","typological",
+    "variationist",
+    # Medical, biological, sports, health science
+    "andrology","biomechanical","biomechanics","biopsychosocial","enthalpy",
+    "ergogenic","ergonomical","gynaecology","humanbiology","inductors","locomotor",
+    "motorical","multimorbidity","nociception","parenteral","pathogenesis",
+    "personcentered","prehabilitation","promotive","psychoacoustics",
+    "psycholinguistic","psycholinguistics","physiotherapeutic","salutogenesis",
+    "sportpedagogy","trainability",
+    # British / Commonwealth English spellings
+    "actualises","ageing","behavioural","characterisation","characterises",
+    "conceptualised","contextualised","contextualises","contextualising",
+    "datafication","democratisation","ehealth","emphasise","emphasised",
+    "emphasises","enquiry","esthetic","explorative","favourable","finalised",
+    "generalise","generalised","globalised","illhealth","individualised",
+    "internationalisation","laborative","maximise","mediatisation","microblogs",
+    "minimisation","minimise","minimising","multimodal","normalisation",
+    "operationalisation","periodisation","problematisation","problematised",
+    "problematization","problematizations","problematized","problematizing",
+    "realisation","regionalisation","scalable","specialisations","standardised",
+    "synthesise","systematise","thematised","thematises","theorisations",
+    "timeframes","urbanisation","virtualisation","visualisations","visualise",
+    "visualising","wellbeing","concretize",
+    # Domain compounds and other valid academic terms
+    "arithmetics","datasheets","exchangers","fronter","meso","netbased",
+    "opponentship","participations","projectwork","researchable","reviewable",
+    "systematics","uhr",
 }
 
 
