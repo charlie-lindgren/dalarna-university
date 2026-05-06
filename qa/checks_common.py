@@ -177,6 +177,12 @@ SV_IGNORE = {
     "utförandedel","uppnåelsen","problemlösandeprocess","förändringsbarhet",
     "cirkulärekonomiska",
     "högdimensionell","högdimensionella",
+    "samläses","bps-beräkning","språklaboratoriska","förseminarieuppgifter",
+    "språklabbar","göteborgs","inlärarkorpusar","marknadsföringsmixen",
+    "marknadsföringsmix","hbtqi-frågor","mödra","välargumenterad",
+    "rörelseverb","undervisningspråk","eu-rätt","eu-rättsliga",
+    "förrättsligande","eu-rättens","prejudikatsvärde","undersökningsbart",
+    "vfu-lärare","förskole",
 }
 HAS_SV = re.compile(r"[åäöÅÄÖ]")
 
@@ -329,6 +335,7 @@ EN_IGNORE = {
     "arithmetics","datasheets","exchangers","fronter","meso","netbased",
     "opponentship","participations","projectwork","researchable","reviewable",
     "systematics","uhr",
+    "childrens","continous","curriculums","eco","kerchoff","lingua","www",
 }
 
 
