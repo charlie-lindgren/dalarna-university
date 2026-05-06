@@ -13,7 +13,7 @@ Kontroller som körs:
   4.  Hunspell stavning engelska (en_US) — English Version-sektionen
   5.  Frasningskonsistens lärandemål (introfras)
   6.  Betygsskala — inkonsekvent delskalor
-  7.  Examinationsformer — rena prosabeskrivningar saknar kod/bullet
+  7.  Examinationsformer — hp-summa i Betyg matchar inte kursens hp
   8.  Omfång lärandemål — för få (< 4) eller för många (> 12)
   9.  Långa bullets (> 25 ord)
   10. Bloom-taxonomi — avancerade kurser med enbart låga nivåer
@@ -126,27 +126,37 @@ def check_betygsskala(files: list[Path]) -> list[dict]:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# Check 7 — Examinationsformer utan strukturerad lista
+# Check 7 — hp-summa i Betyg matchar inte kursens hp
 # ─────────────────────────────────────────────────────────────────────────────
-EXAM_CODE_RE = re.compile(r"\b(TEN|LAB|INL|SEM|PRO|MUN|UPP|OPP|HEM|KON)\b")
-BULLET_RE = re.compile(r"^\s*[-*]", re.MULTILINE)
+COMPONENT_HP_RE = re.compile(r"[-*].*?(\d+(?:[,.]\d+)?)\s*hp", re.IGNORECASE)
+TOTAL_HP_RE = re.compile(r"^hp:\s*(\d+(?:[,.]\d+)?)", re.MULTILINE)
+BETYG_SECTION_RE = re.compile(
+    r"^## Betyg\s*\n(.+?)(?=^## |\Z)", re.MULTILINE | re.DOTALL
+)
 
 
-def check_exam_structure(files: list[Path]) -> list[dict]:
+def check_hp_sum(files: list[Path]) -> list[dict]:
     findings = []
     for p in files:
-        body = strip_frontmatter(p.read_text(encoding="utf-8"))
-        exam_section = extract_section(body, "Examinationsformer")
-        if not exam_section:
+        raw = p.read_text(encoding="utf-8")
+        m_hp = TOTAL_HP_RE.search(raw)
+        if not m_hp:
             continue
-        has_code = EXAM_CODE_RE.search(exam_section)
-        has_bullets = BULLET_RE.search(exam_section)
-        if not has_code and not has_bullets:
+        course_hp = float(m_hp.group(1).replace(",", "."))
+        body = strip_frontmatter(raw)
+        m_betyg = BETYG_SECTION_RE.search(body)
+        if not m_betyg:
+            continue
+        components = COMPONENT_HP_RE.findall(m_betyg.group(1))
+        if not components:
+            continue
+        comp_sum = sum(float(x.replace(",", ".")) for x in components)
+        if abs(comp_sum - course_hp) > 0.1:
             findings.append({
-                "check": "exam-ingen-struktur",
+                "check": "betyg-hp-summa",
                 "code": course_code(p),
                 "subj": subject(p),
-                "detail": "Examinationsformer saknar examinationskod (TEN/LAB/INL…) och bullets",
+                "detail": f"Betygsmoduler summerar till {comp_sum} hp, kursäns hp är {course_hp} hp",
             })
     return findings
 
@@ -294,7 +304,7 @@ CHECK_LABELS = {
     "introfras-kolon":       "Introfras saknar kolon",
     "introfras-avviker":     "Introfras avviker",
     "betygsskala-inkonsekvent": "Betygsskala inkonsekvent",
-    "exam-ingen-struktur":   "Examinationsformer – ingen struktur",
+    "betyg-hp-summa":         "Betygsmoduler hp ≠ kurs hp",
     "omfång-få-mål":         "För få lärandemål",
     "omfång-många-mål":      "För många lärandemål",
     "långt-lärandemål":      "Långt lärandemål",
@@ -320,7 +330,7 @@ def main():
         ("Kända felstavningar",      check_known_typos),
         ("Frasningskonsistens",      check_framing),
         ("Betygsskala",              check_betygsskala),
-        ("Examinationsformer",       check_exam_structure),
+        ("Examinationsformer hp-summa", check_hp_sum),
         ("Omfång lärandemål",        check_omfang),
         ("Långa bullets",            check_long_bullets),
         ("Bloom-taxonomi",           check_bloom),
