@@ -9,7 +9,7 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (41 st)
+## Kurser (51 st)
 
 - [[ARK227]] — Mänskliga rättigheter och demokrati i Afrika söder om Sahara
 - [[ARK227]] — Mänskliga rättigheter och demokrati i Afrika söder om Sahara
@@ -21,6 +21,8 @@ up: "[[IKS MOC]]"
 - [[ARK25C]] — Examensarbete i religionsvetenskap för ämneslärarexamen, inriktning gymnasieskolan
 - [[ARK262]] — Religion och våld i samtiden
 - [[ARK262]] — Religion och våld i samtiden
+- [[ARK26T]] — Kabbala och judisk mystik från antiken till modern tid
+- [[ARK27Q]] — Kvinnor och gudinnor på gränsen till den äldsta förhistorien
 - [[ARK29H]] — Religionsvetenskaplig litteraturkurs
 - [[ARK29J]] — Religionsvetenskaplig vetenskapshistoria, teori och metod
 - [[ARK29K]] — Upplevelser av osynlig närvaro
@@ -32,15 +34,20 @@ up: "[[IKS MOC]]"
 - [[GRK2EF]] — Västerländsk buddhism
 - [[GRK2JJ]] — Mänskliga rättigheter: Migranter, barn och minoriteter
 - [[GRK2JK]] — Mänskliga rättigheters framtid: Hållbarhet och nutida sociala utmaningar
+- [[GRK2KL]] — Mänskliga rättigheter: Examensarbete för kandidatexamen
 - [[GRK2P3]] — Religionsvetenskap III: Aktuella religionsvetenskapliga teman
+- [[GRK2P4]] — Religionsvetenskap III med didaktisk inriktning för gymnasieskolan
 - [[GRK2Q4]] — Religionsvetenskap I
 - [[GRK2Q4]] — Religionsvetenskap I
 - [[GRK2Q5]] — Religionsvetenskap I med didaktisk inriktning
 - [[GRK2Q5]] — Religionsvetenskap I med didaktisk inriktning
+- [[GRK2R7]] — Religionsvetenskap III: Uppsats
+- [[GRK2R8]] — Religionsvetenskap III: Examensarbete för kandidatexamen
 - [[GRK2TW]] — Introduktion till mänskliga rättigheter i Afrika
 - [[GRK2TW]] — Introduktion till mänskliga rättigheter i Afrika
 - [[GRK2TY]] — Religionsvetenskap II
 - [[GRK2TZ]] — Religionsvetenskap II med didaktisk inriktning
+- [[GRK323]] — Jerusalem som religiöst, historiskt och politiskt konfliktfylld plats. Berättelser ur ämnesdidaktiska perspektiv
 - [[GRK324]] — Religionsvetenskap III med didaktisk inriktning för gymnasieskolan
 - [[GRK32C]] — Religionsdidaktik
 - [[GRK366]] — Barn och unga i slutna religiösa miljöer
@@ -50,5 +57,8 @@ up: "[[IKS MOC]]"
 - [[GRK36M]] — Religionsvetenskap III: Examensarbete för kandidatexamen
 - [[GRK36N]] — Religionsvetenskap III: Uppsats med didaktisk inriktning
 - [[GRK3B4]] — Levd religion: fältstudieresa utifrån ämnesteoretiska och religionsdidaktiska perspektiv
+- [[GRK3CQ]] — Undervisning och lärande genom rollspel – inriktning religionsdidaktik
+- [[RK1068]] — Religionsvetenskap II: Forskningsplan för fältarbete
 - [[RK2034]] — Mänskliga rättigheter som ideal: Historiska, filosofiska och politiska aspekter
 - [[RK2038]] — Kritik av mänskliga rättigheters normativa grund, tillämpning och universalisering
+- [[RK3043]] — Existentiell mening och medialisering: religiositet i populärkulturell kontext

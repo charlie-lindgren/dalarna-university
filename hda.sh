@@ -70,27 +70,21 @@ prompt_apply_mode() {
 run_scrape_all() {
     echo -e "${BOLD}Skrapa ALLA kursplaner från du.se${RESET}"
     echo ""
-    echo "Detta tar fram alla kursplaner som finns på du.se, inklusive"
-    echo "strö-/orphan-koder som inte syns i ämnes- eller programlistan."
-    echo "Strökoder upptäcks i två steg:"
-    echo "  1. Kanonisk sökning på du.se (~50 paginerade anrop, ~1 min)."
-    echo "  2. Valfri lucka-probing av kodserier när padding > 0 (parallell)."
+    echo "Detta tar fram alla aktiva kursplaner (även vilande) på du.se,"
+    echo "inklusive strö-/orphan-koder som inte syns i ämnes- eller"
+    echo "programlistan. Källan är du.se:s fullständiga kursplan-index"
+    echo "(ett enda anrop), och nedlagda kursplaner filtreras bort där."
     echo ""
-    echo -e "${YELLOW}Default (padding=0) är snabbt; padding > 0 lägger till djupare probing.${RESET}"
+    echo -e "${YELLOW}Skrapan parallelliseras (concurrency=6) — typiskt ett par minuter.${RESET}"
     echo ""
 
     prompt_apply_mode
-
-    local padding
-    read -rp "Strö-padding (utöka spann med N nummer i båda ändar) [0]: " padding
-    padding="${padding:-0}"
 
     echo ""
     echo -e "${YELLOW}Kör scrape --discover-stray ${APPLY_FLAG} …${RESET}"
     # shellcheck disable=SC2086
     "$PYTHON" scrape_hda_kursplaner.py \
         --discover-stray \
-        --stray-padding "$padding" \
         $APPLY_FLAG
 
     echo ""

@@ -9,7 +9,7 @@ up: "[[IIT MOC]]"
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
 
-## Kurser (81 st)
+## Kurser (89 st)
 
 - [[ABY22V]] — Energieffektiva installationssystem
 - [[ABY22V]] — Energieffektiva installationssystem
@@ -19,6 +19,7 @@ up: "[[IIT MOC]]"
 - [[ABY27W]] — Introduktion till bioklimatisk design
 - [[ABY2BL]] — Hållbar samhällsplanering
 - [[ABY2BL]] — Hållbar samhällsplanering
+- [[BY1047]] — Bärkraftigt byggande och boende
 - [[BY1053]] — Arkitektur och byggande
 - [[BY1053]] — Arkitektur och byggande
 - [[BY1054]] — Vägteknik
@@ -27,12 +28,18 @@ up: "[[IIT MOC]]"
 - [[BY1056]] — Byggfysik
 - [[BY1058]] — Bygg-CAD
 - [[BY1058]] — Bygg-CAD
+- [[BY1059]] — Praktisk byggteknik
+- [[BY1061]] — Installationsteknik och dimensionering
+- [[BY1065]] — BIM projekt och projektering
+- [[BY2016]] — Examensarbete i byggteknik för högskoleingenjörsexamen
+- [[BY2022]] — Energiprojekt
 - [[BY2025]] — Vetenskaplig metodik
 - [[BY2025]] — Vetenskaplig metodik
 - [[BY3001]] — Energieffektiva byggnader
 - [[BY3001]] — Energieffektiva byggnader
 - [[BY3004]] — Miljöklassningsverktyg
 - [[BY3004]] — Miljöklassningsverktyg
+- [[BY3005]] — Hållbar samhällsplanering
 - [[GBY2GB]] — Digitala ritverktyg
 - [[GBY2GB]] — Digitala ritverktyg
 - [[GBY2GC]] — BIM i byggprocessen
@@ -72,6 +79,7 @@ up: "[[IIT MOC]]"
 - [[GBY33L]] — Byggd miljö
 - [[GBY342]] — Bygg - CAD fortsättningskurs
 - [[GBY342]] — Bygg - CAD fortsättningskurs
+- [[GBY34B]] — Vägplanering
 - [[GBY34M]] — Examensarbete inom byggteknik för högskoleexamen
 - [[GBY34M]] — Examensarbete inom byggteknik för högskoleexamen
 - [[GBY34M]] — Examensarbete inom byggteknik för högskoleexamen

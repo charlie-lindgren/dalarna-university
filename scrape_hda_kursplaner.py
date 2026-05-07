@@ -439,106 +439,59 @@ def _extract_course_links(soup: BeautifulSoup, seen_codes: set) -> list[dict]:
 
 
 def kursplan_exists_by_code(code: str) -> bool:
-    """Returnerar True om kursplan-sidan finns för koden."""
+    """Returnerar True om kursplan-sidan finns för koden och kursen inte
+    är markerad som nedlagd/upphörd/avvecklad."""
     soup = fetch_page(SV_URL.format(code=code))
     if soup is None:
         return False
     h1 = soup.find("h1")
-    if not h1:
+    if not h1 or not h1.find("span", property="name"):
         return False
-    return h1.find("span", property="name") is not None
+    text_lower = soup.get_text(" ", strip=True).lower()
+    if "nedlagd" in text_lower or "upphörd" in text_lower or "avvecklad" in text_lower:
+        return False
+    return True
+
+
+KURSPLAN_INDEX_URL = "https://www.du.se/sv/utbildning/kursplaner/Search/"
 
 
 def discover_all_kursplan_codes() -> set[str]:
-    """Paginerar du.se:s oförfiltrerade kurssearch och returnerar samtliga
-    kurskoder som har en publicerad kursplan.
+    """Returnerar samtliga kurskoder som har en publicerad kursplan på du.se.
 
-    Detta är det kanoniska universummet av kurskoder på du.se. Det innebär
-    typiskt ~50 paginerade anrop i stället för tusentals enskilda kursplan-GETs.
+    Använder du.se:s fullständiga kursplan-index (DataTables-baserade
+    `/sv/utbildning/kursplaner/Search/` med wildcardet `code=%` och
+    `status=active`), vilket returnerar samtliga kursplaner som **inte**
+    är nedlagda — alltså både aktiva och vilande — i ett enda anrop.
+    Detta är det kanoniska universummet av kursplan-koder att skrapa
+    och innehåller även gamla legacy-kursplaner som inte syns i du.se:s
+    vanliga sökindex (t.ex. GIK375, GIK2YR).
+
+    Nedlagda kursplaner är redan bortfiltrerade här, men `scrape_course`
+    har en defensiv kontroll på sidnivå som skyddsnät.
     """
+    params = {"status": "active", "searchtype": "code", "code": "%"}
+    soup = fetch_page(KURSPLAN_INDEX_URL, params=params)
+    if soup is None:
+        return set()
     codes: set[str] = set()
-    page = 1
-    while True:
-        params = {
-            "search": "true", "q": "", "l": "sv", "sb": "Relevans",
-            "ssv": "1", "f": "2", "cs": "4", "pi": str(page), "et": "2",
-        }
-        soup = fetch_page(SEARCH_API, params=params)
-        if soup is None:
-            break
-        page_codes = {a["href"].split("code=")[1]
-                      for a in soup.find_all("a", href=True)
-                      if "/kurser/kurs/?code=" in a["href"]}
-        if not page_codes:
-            break
-        new_codes = page_codes - codes
-        codes |= page_codes
-        # Sluta när en sida inte ger några nya koder (paginering uttjänad).
-        if not new_codes:
-            break
-        page += 1
-        time.sleep(REQUEST_DELAY)
+    for a in soup.select("table#coursesTable tbody a[href*='code=']"):
+        m = re.search(r"code=([A-Z0-9]+)", a["href"])
+        if m:
+            codes.add(m.group(1))
     return codes
 
 
 def discover_stray_codes_from_known(known_codes: set[str], padding: int = 0) -> set[str]:
-    """Hittar strökoder genom (1) kanonisk sökning på du.se och (2) valfri
-    luckundersökning av befintliga kodserier.
+    """Hittar strökoder via du.se:s fullständiga kursplan-index.
 
-    Steg 1 är snabbt: ~50 paginerade anrop ger universummet av kursplaner
-    på du.se. Strökoder = universum − kända koder.
-
-    Steg 2 (när `padding > 0`) fyller luckor mellan kursnummer i varje
-    prefix och probar varje kandidat parallellt.
+    Sedan vi använder `/sv/utbildning/kursplaner/Search/?code=%` som källa
+    täcks hela katalogen (aktiva, vilande och nedlagda) i ett anrop, så
+    strökoder = index − kända. `padding` används inte längre men behålls
+    av bakåtkompatibilitet med `hda.sh`.
     """
-    found: set[str] = set()
-
-    # --- Steg 1: kanonisk sökning ---
     canonical = discover_all_kursplan_codes()
-    found |= canonical - known_codes
-
-    # --- Steg 2: lucka-probing endast om padding > 0 ---
-    if padding > 0:
-        by_prefix: dict[str, set[int]] = {}
-        for code in known_codes | canonical:
-            m = CODE_PATTERN_RE.match(code)
-            if not m:
-                continue
-            prefix, num, suffix = m.groups()
-            if suffix:
-                continue
-            by_prefix.setdefault(prefix, set()).add(int(num))
-
-        candidates: set[str] = set()
-        for prefix, nums in by_prefix.items():
-            if len(nums) < 2:
-                continue
-            lo = max(0, min(nums) - padding)
-            hi = min(999, max(nums) + padding)
-            if hi - lo > 500:
-                continue
-            for n in range(lo, hi + 1):
-                code = f"{prefix}{n:03d}"
-                if code in known_codes or code in canonical:
-                    continue
-                candidates.add(code)
-
-        if candidates:
-            from concurrent.futures import ThreadPoolExecutor, as_completed
-            with ThreadPoolExecutor(max_workers=8) as ex:
-                fut_to_code = {
-                    ex.submit(kursplan_exists_by_code, c): c
-                    for c in sorted(candidates)
-                }
-                for fut in as_completed(fut_to_code):
-                    code = fut_to_code[fut]
-                    try:
-                        if fut.result():
-                            found.add(code)
-                    except Exception:
-                        continue
-
-    return found
+    return canonical - known_codes
 
 
 # ---------------------------------------------------------------------------
@@ -660,12 +613,26 @@ def extract_sections(soup: BeautifulSoup, section_map: dict) -> dict:
 
 
 def scrape_course(code: str) -> dict | None:
-    sv_soup = fetch_page(SV_URL.format(code=code))
-    time.sleep(REQUEST_DELAY)
-    en_soup = fetch_page(EN_URL.format(code=code))
-    time.sleep(REQUEST_DELAY)
+    # Hämta svensk och engelsk kursplan parallellt — halverar väggtiden
+    # per kurs och besöker varje URL exakt en gång.
+    from concurrent.futures import ThreadPoolExecutor
+
+    with ThreadPoolExecutor(max_workers=2) as ex:
+        sv_fut = ex.submit(fetch_page, SV_URL.format(code=code))
+        en_fut = ex.submit(fetch_page, EN_URL.format(code=code))
+        sv_soup = sv_fut.result()
+        en_soup = en_fut.result()
 
     if sv_soup is None:
+        return None
+
+    # Hoppa över nedlagda kursplaner — de är inte intressanta för QA.
+    page_text_lower = sv_soup.get_text(" ", strip=True).lower()
+    if (
+        "nedlagd" in page_text_lower
+        or "upphörd" in page_text_lower
+        or "avvecklad" in page_text_lower
+    ):
         return None
 
     return {
@@ -1125,6 +1092,10 @@ def main():
         "--stray-padding", type=int, default=0,
         help="Utöka testspannet för strökoder med N nummer före/efter kända serier."
     )
+    parser.add_argument(
+        "--concurrency", type=int, default=6,
+        help="Antal parallella anrop vid kurssidshämtning (standard: 6)."
+    )
     args = parser.parse_args()
 
     # --- Lista institutioner ---
@@ -1282,6 +1253,54 @@ def main():
         if existing_codes:
             print(f"  --skip-existing: {len(existing_codes)} kurser redan i vaulten, hoppar över dem.")
 
+    # --- Pre-fetch alla kursplaner parallellt ---
+    # Vi samlar alla kurskoder som ska skrapas (per ämne + direktkoder),
+    # filtrerar bort de som ska hoppas över, och hämtar svensk + engelsk
+    # kursplan parallellt med ThreadPoolExecutor. Filskrivning förblir
+    # sekventiell i huvudslingorna nedan.
+    codes_to_prefetch: list[str] = []
+    seen_pf: set[str] = set()
+    for inst_code in ["IIT", "IHV", "IKS", "ISLL"]:
+        for s in all_subjects.get(inst_code, []):
+            for c in subject_courses.get(s["code"], []):
+                code = c["code"]
+                if code in existing_codes or code in seen_pf:
+                    continue
+                seen_pf.add(code)
+                codes_to_prefetch.append(code)
+    for code in direct_codes:
+        if code in existing_codes or code in seen_pf:
+            continue
+        seen_pf.add(code)
+        codes_to_prefetch.append(code)
+
+    prefetched: dict[str, dict | None] = {}
+    if codes_to_prefetch:
+        from concurrent.futures import ThreadPoolExecutor, as_completed
+        workers = max(1, args.concurrency)
+        print(f"\n  Pre-hämtar {len(codes_to_prefetch)} kursplaner parallellt "
+              f"(concurrency={workers})...")
+        t0 = time.time()
+        done = 0
+        with ThreadPoolExecutor(max_workers=workers) as ex:
+            fut_to_code = {ex.submit(scrape_course, c): c for c in codes_to_prefetch}
+            for fut in as_completed(fut_to_code):
+                code = fut_to_code[fut]
+                try:
+                    prefetched[code] = fut.result()
+                except Exception:
+                    prefetched[code] = None
+                done += 1
+                if done % 100 == 0 or done == len(codes_to_prefetch):
+                    rate = done / max(0.001, time.time() - t0)
+                    eta = (len(codes_to_prefetch) - done) / max(0.001, rate)
+                    print(f"    [{done}/{len(codes_to_prefetch)}] "
+                          f"{rate:.1f} kurser/s · ETA {eta:.0f}s",
+                          flush=True)
+        elapsed = time.time() - t0
+        print(f"  Klart på {elapsed:.1f}s "
+              f"({len(codes_to_prefetch)/max(0.001,elapsed):.1f} kurser/s).")
+
     # Collect real subject→courses mappings from Ämnestillhörighet.
     # Keys: subject_code → {"name", "code", "institution", "type", "courses": [...]}
     real_subjects: dict[str, dict] = {}
@@ -1340,7 +1359,8 @@ def main():
                           end=" ", flush=True)
 
                 try:
-                    scraped = scrape_course(code)
+                    scraped = (prefetched[code] if code in prefetched
+                               else scrape_course(code))
                     if scraped is None:
                         if not args.quiet:
                             print("misslyckades")
@@ -1410,7 +1430,8 @@ def main():
             print(f"  [{course_num}/{total_to_process}] {code} (direkt)...", end=" ", flush=True)
 
         try:
-            scraped = scrape_course(code)
+            scraped = (prefetched[code] if code in prefetched
+                       else scrape_course(code))
             if scraped is None:
                 if not args.quiet:
                     print("misslyckades")

@@ -9,7 +9,7 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (13 st)
+## Kurser (15 st)
 
 - [[ABP253]] — Examensarbete i bild för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 - [[ABP253]] — Examensarbete i bild för ämneslärarexamen, inriktning grundskolans årskurs 7-9
@@ -24,3 +24,5 @@ up: "[[IKS MOC]]"
 - [[GBP32W]] — Bild I med didaktisk inriktning
 - [[GBP34H]] — Bild II med didaktisk inriktning
 - [[GBP365]] — Bild III med didaktisk inriktning för gymnasieskolan
+- [[GBP3BB]] — Fotografiskt bildskapande A
+- [[GBP3BC]] — Fotografiskt bildskapande B

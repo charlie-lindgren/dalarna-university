@@ -1,0 +1,418 @@
+---
+kurskod: GSS2XE
+kursnamn: "Svenska som andraspråk för lärare i gymnasieskolan, 90 hp (1-90 hp). Ingår i Lärarlyftet."
+course_name: "Swedish as a Second Language for Teachers in Upper-Secondary School, 90 cr (1-90 cr). CPD for Teachers."
+hp: 90 högskolepoäng
+niva: "Grundnivå"
+huvudomrade: "Ej huvudområde 1"
+amne: "Svenska som andraspråk"
+amne_kod: "SSA"
+institution: "ISLL"
+tags: [kursplan, SSA, ISLL, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: b6c34bc1eb142e3d
+up: "[[Svenska som andraspråk MOC]]"
+---
+
+# GSS2XE
+
+**Kursnamn:** Svenska som andraspråk för lärare i gymnasieskolan, 90 hp (1-90 hp). Ingår i Lärarlyftet.
+**Course Name:** Swedish as a Second Language for Teachers in Upper-Secondary School, 90 cr (1-90 cr). CPD for Teachers.
+
+- **Poäng:** 90 högskolepoäng
+- **Nivå:** Grundnivå
+- **Kursen kan ingå i följande huvudområde(n):** Ej huvudområde 1
+- **Ämnestillhörighet:** Svenska som andraspråk (SSA)
+- **Fastställd:** Fastställd 2022-09-02 . Kursplanen gäller fr.o.m. 2022-09-02.
+
+## Lärandemål
+
+Det övergripande målet med kursen är att den studerande utvecklar fördjupade och vidgade kunskaper i svenska som andraspråk i ett didaktiskt perspektiv med fokus på gymnasieelevers språkutveckling och lärande.
+
+ 
+
+### Delkurser
+
+1.Andraspråksutveckling och flerspråkighet, 7,5 högskolepoäng
+
+Efter avslutad delkurs ska
+den studerande kunna:
+
+  - redogöra för centrala teorier om flerspråkighet och andraspråksutveckling
+  - diskutera och jämföra språkutveckling hos olika typer av inlärare utifrån centrala teorier om andraspråksutveckling 
+  - diskutera relationen mellan flerspråkighet, andraspråksutveckling och identitet med fokus på ungdomar och vuxna 
+  - genomföra en kvalitativ intervju med en andraspråkstalande gymnasieelev och diskutera resultatet av denna.
+
+2.Skriftspråksutveckling i ett flerspråkigt perspektiv med gymnasieelever i fokus, 7,5 högskolepoäng
+
+Efter avslutad delkurs ska den studerande kunna:
+
+  - redogöra för
+grundläggande villkor för flerspråkig skriftspråksutveckling, för såväl ungdomar som vuxna
+  - diskutera villkor
+för skriftspråksutveckling hos ungdomar och vuxna som tidigare inte haft
+möjlighet att lära sig läsa och skriva
+  - redogöra för
+några strategier för läsande och skrivande i gymnasieskolan
+  - beskriva svenskt
+skriftspråk i ett kontrastivt perspektiv
+  - redogöra för
+möjligheter för skriftspråksutveckling som fiktionstexter och digitala medier
+erbjuder för ungdomar och vuxna
+  - läsa och
+reflektera över en avhandling inom litteracitetsområdet
+med fokus på ungdomar och vuxna
+  - skriva en
+reflekterande rapport enligt vedertagna akademiska och skriftspråkliga normer.
+
+3.Andraspråksperspektiv på svenska språkets struktur med gymnasieelever i fokus, 7,5 högskolepoäng
+
+Efter avslutad delkurs ska den studerande kunna:
+
+  - analysera inlärarspråk vad gäller morfologi, syntax och lexikon
+  - använda grundläggande grammatiska begrepp vid analys av svenska språket
+  - utföra grammatiska analyser av unga och vuxna andraspråksinlärares språkbruk
+  - redogöra för svenska språkets struktur i ett tvärspråkligt perspektiv och i ett andraspråksperspektiv.
+
+4.Sociolingvistiskt perspektiv på interaktion, lärande och identitet hos ungdomar och vuxna, 7,5 högskolepoäng
+
+Efter avslutad delkurs ska den studerande kunna:
+
+  - analysera teoretiska perspektiv på relationer mellan språk, interaktion och lärande i ett
+samhällsperspektiv med ungdomar och vuxna i fokus
+  - redogöra för och
+diskutera språkliga varieteter och diskutera möjliga implikationer de kan ha i
+olika sociala kontexter
+  - redogöra för och
+diskutera språkideologiska och språkpolitiska aspekter på flerspråkighet 
+  - genomföra en
+transkription och mindre analys av talad interaktion och diskutera möjliga
+implikationer i ett undervisningsperspektiv med fokus på gymnasieelever
+  - skriva sakligt
+argumenterande och reflekterande texter enligt vedertagna svenska, akademiska
+skriftspråkliga normer.
+
+5.Språk, undervisning och lärande i ett andraspråksperspektiv med inriktning mot gymnasiet, 7,5 högskolepoäng
+
+Efter avslutad delkurs ska den studerande kunna:
+
+  - planera,
+analysera och reflektera över undervisning i svenska som andraspråk i gymnasieskolan utifrån centrala teorier om andraspråksinlärning samt
+skolverksamhetens styrdokument
+  - diskutera olika
+teorier gällande språk och lärande i ett andraspråk
+  - diskutera
+skillnader mellan vardagsspråk och skolspråk
+  - presentera och
+diskutera engelskspråkiga forskningstexter inom andraspråksfältet med ungdomars
+och vuxnas lärande i fokus
+  - skriva sakligt
+argumenterande och reflekterande texter enligt vedertagna svenska, akademiska
+skriftspråkliga normer.
+
+6.Bedömning och respons i ett andraspråksperspektiv med gymnasieelever i fokus, 7,5 högskolepoäng
+
+Efter avslutad delkurs ska den studerande kunna:
+
+  - bedöma unga och
+vuxna inlärares språkfärdighet ur olika perspektiv och utifrån olika modeller
+  - redogöra för
+centrala bedömningsteorier och olika syften med bedömning i gymnasieskolan
+  - använda
+bedömningsteoretiska begrepp
+  - redogöra för och
+diskutera olika metoder för bedömning och respons i relation till syfte och
+sammanhang samt dess konsekvenser 
+  - diskutera
+prioriteringar i samband med bedömning av ungdomars och vuxnas inlärarspråk.
+
+7.Fonetik och uttal i ett andraspråksperspektiv med gymnasieelever i fokus, 7,5 högskolepoäng
+
+Efter avslutad delkurs ska den studerande kunna:
+
+  - redogöra för svenska språkets fonologi i ett andraspråksperspektiv
+  - använda grundläggande fonologiska begrepp vid analys av inlärares uttal
+  - analysera andraspråkstalares uttal med särskilt fokus på prosodi
+  - diskutera utgångspunkter och prioriteringar för uttalsundervisning i gymnasieskolan
+  - diskutera aspekter av attityder till brytning.
+
+8.Fiktionsberättande och gymnasieelevers texter i ett flerspråkigt perspektiv, 7,5 högskolepoäng
+
+Efter avslutad delkurs ska den studerande kunna:
+
+  - analysera
+fiktionstext från olika genrer, olika tider och skilda delar av världen riktade
+till ungdomar och vuxna
+  - diskutera olika sätt att planera och stimulera lärande med fiktionstext i svenska som andraspråk i gymnasieskolan
+  - analysera gymnasieelevers
+texter språkligt och stilistiskt och identifiera tecken på språkutveckling på både grundläggande och avancerad nivå
+  - redogöra för hur läsning
+och lässtrategier på avancerad nivå kan stöttas i det flerspråkiga klassrummet.
+
+9.Andraspråksforskning, 7,5 högskolepoäng
+
+Efter avslutad delkurs ska den studerande kunna:
+
+  - redogöra för de
+huvudfrågor som behandlas i samtida nationell och internationell
+andraspråksforskning
+  - diskutera styrkor
+och svagheter hos olika typer av forskningsperspektiv inom andraspråksforskning
+  - relatera olika
+typer av kunskap som genererats inom andraspråksforskningen till teorier och
+vetenskapliga perspektiv.
+
+10.Lärande genom fiktionstext i gymnasieskolan, 7,5 högskolepoäng
+
+Efter avslutad delkurs ska den studerande kunna:
+
+  - analysera samband
+och skillnader mellan fiktionstext riktade till ungdomar och vuxna från olika
+tider och skilda delar av världen
+  - planera och
+stimulera lärande med fiktionstext i undervisningen i svenska som andraspråk
+  - diskutera
+relevanta metoder, begrepp och modeller vid analys av fiktionstext i svenska
+som andraspråk på gymnasiet
+  - reflektera kring
+hur estetiska lärprocesser kan planeras och utvärderas.
+
+11.Ämnesspecifikt språk i gymnasieskolan, 7,5 högskolepoäng
+
+Efter avslutad delkurs ska den studerande kunna:
+
+  - redogöra för och
+diskutera relationer mellan utveckling av språk och kunskap i olika skolämnen i
+gymnasiet
+  - beskriva och
+reflektera över språkliga aspekter vad gäller det specifika ämnesspråket i olika
+skolämnen i gymnasiet
+  - självständigt
+diskutera och kritiskt värdera relevant forskning inom ett
+ämnesspecifikt område.
+
+12.Bedömning och utveckling av språkfärdighet på avancerad nivå, 7,5 högskolepoäng
+
+Efter avslutad delkurs ska den studerande kunna:
+
+  - diskutera
+kvalitetssäkra bedömningar av språkfärdighet hos ungdomar och vuxna med stöd i teoretiska
+utgångspunkter
+  - redogöra för
+olika teoretiska perspektiv på språkfärdighet på avancerad språklig nivå och
+relatera dem till varandra
+  - planera för ett
+bedömningsmoment på gymnasiet med förankring i aktuell forskning
+  - kritiskt
+diskutera olika sätt att bedöma och betygssätta språkfärdighet hos ungdomar
+och vuxna i relation till syfte och sammanhang.
+
+## Innehåll
+
+I kursen utvecklar den studerande fördjupade ämneskunskaper och ämnesdidaktiska kunskaper inom svenska som andraspråk. Kursen innehåller tolv delkurser. Samtliga delkurser har en didaktisk inriktning där den studerande utvecklar sina färdigheter att planera, genomföra och analysera undervisning för nyanlända och flerspråkiga gymnasieelever, utifrån teorier om flerspråkighet och andraspråksutveckling. Innehållet relateras till aktuella styrdokument och relevant forskning inom området. I kursens fyra första delkurser utvecklar den studerande kunskaper inom flerspråkighet på individ- och samhällsnivå, svensk grammatik och lexikon i ett andraspråksperspektiv, flerspråkighet, migration och mångfald samt litteracitet utifrån ett flerspråkighets- och andraspråksperspektiv. De efterföljande fyra delkurserna behandlar lärande i det flerspråkiga och mångkulturella klassrummet, svenska språkets fonetik och fonologi ur ett andraspråksperspektiv, respons på och bedömning av unga och vuxna inlärares språkfärdighet ur olika perspektiv och utifrån olika bedömningsmodeller och fiktionstext i ett flerspråkigt perspektiv. I de avslutande fyra delkurserna fördjupas förståelsen för såväl ämnesteoretiska som
+ämnesdidaktiska frågor utifrån relevant forskning.
+
+### Delkurser
+
+1.Andraspråksutveckling och flerspråkighet, 7,5 högskolepoäng
+
+Denna delkurs
+behandlar flerspråkighet som fenomen samt villkor för utveckling av ett
+andraspråk. Inom delkursens ram diskuteras olika
+definitioner av begreppen flerspråkighet och olika kriterier för flerspråkig
+kompetens. Utveckling av ett andraspråk relateras till utveckling av ett förstaspråk,
+och centrala teorier om andraspråksutveckling och flerspråkig utveckling
+behandlas. Den studerande läser en skönlitterär bok som
+behandlar flerspråkighet, andraspråksutveckling och identitet hos ungdomar och
+vuxna. Dessutom genomför den studerande en intervju med en andraspråkstalande
+gymnasieelev vilken redovisas i form av en muntlig presentation.
+2.Skriftspråksutveckling i ett flerspråkigt perspektiv med gymnasieelever i fokus, 7,5 högskolepoäng
+
+I denna delkurs behandlas skriftspråksutveckling, i första hand på ett andraspråk, hos ungdomar och vuxna. Skriftspråksutveckling på svenska belyses både när det gäller elever som lär sig läsa och skriva för första gången och elever som redan har god skriftspråklig kompetens på annat språk. Olika typer av skriftspråk kontrasteras. Skriftspråkets roll för lärandet liksom användningen av olika digitala former av skriftspråksanvändning diskuteras. Skönlitteraturens och andra fiktionstexters roll i det flerspråkiga gymnasieklassrummet behandlas. Inom delkursens ram läses en avhandling inom litteracitetsområdet som redovisas muntligt. Dessutom berörs grundläggande principer för vetenskapligt skrivande. Som slutuppgift skrivs en enklare rapport med hänsyn till dessa principer.
+
+3.Andraspråksperspektiv på svenska språkets struktur med gymnasieelever i fokus, 7,5 högskolepoäng
+
+I delkursen behandlas det svenska språkets struktur i ett språktypologiskt och tvärspråkligt perspektiv främst vad gäller morfologi, syntax och lexikon. Särskild tyngdpunkt läggs vid sådana företeelser som brukar orsaka svårigheter hos inlärare av svenska som andraspråk. Analys av andraspråksinlärares språkbruk ingår. Vidare diskuteras grammatikens roll i undervisningen i svenska som andraspråk i gymnasieskolan. I delkursen berörs även användning av ord- och grammatikböcker i undervisning av gymnasieelever.
+
+4.Sociolingvistiskt perspektiv på interaktion, lärande och identitet hos ungdomar och vuxna, 7,5 högskolepoäng
+
+I delkursen
+behandlas sociolingvistiska perspektiv på flerspråkighet med ett särskilt fokus
+på interaktion hos gymnasieelever samt olika språkliga varieteter i ett
+samhällsperspektiv. I delkursen behandlas olika teoretiska perspektiv på
+relationen mellan interaktion, lärande och identitet hos ungdomar och vuxna.
+Vidare diskuteras språkpolitiska och språkideologiska aspekter på
+flerspråkighet. Fenomenet multietniskt
+ungdomsspråk belyses och diskuteras. Under delkursen behandlas vidare
+grundläggande redskap för att analysera talad interaktion. Inom delkursens ram
+genomför den studerande en transkription av talat språk hos en gymnasieelev samt en
+interaktionsanalys. 
+
+5.Språk, undervisning och lärande i ett andraspråksperspektiv med inriktning mot gymnasiet, 7,5 högskolepoäng
+
+I denna delkurs
+behandlas centrala didaktiska teorier om hur andraspråksutveckling kan stödjas
+genom undervisning samt olika arbetssätt som är relevanta för undervisning i
+svenska som andraspråk i gymnasieskolan. Inom delkursens ram behandlas relationer
+mellan utveckling av språk och lärande i undervisningssammanhang med fokus på
+ungdomar och vuxna. Olika sätt att organisera undervisning för
+elever som ännu inte uppnått den språkliga nivå i svenska som krävs för att ta till sig
+undervisningen i olika ämnen diskuteras i relation till de effekter det kan
+få. Dessutom behandlar delkursen olika sätt att arbeta språkstödjande i olika
+ämnen samt olika sätt att stödja gymnasieelevers utveckling av svenska som andraspråk utifrån gällande styrdokument. Inom delkursens ram genomför den
+studerande en mindre fältstudie i ett sammanhang där andraspråksundervisning bedrivs.
+
+6.Bedömning och respons i ett andraspråksperspektiv med gymnasieelever i fokus, 7,5 högskolepoäng
+
+Delkursen behandlar bedömning av inlärares språkfärdighet ur olika perspektiv och utifrån olika
+bedömningsmodeller. Bedömning problematiseras och diskuteras i relation till skolverksamhetens styrdokument och till olika
+modeller och teorier om språklig kompetens. Syften och konsekvenser av
+bedömning i gymnasieskolan diskuteras och problematiseras. Dessutom behandlas
+prioriteringar och avvägningar som bör göras i samband med bedömning av ungdomars
+och vuxnas inlärarspråk. Begreppen formativ och summativ bedömning behandlas översiktligt liksom olika typer av återkoppling och respons.
+
+7.Fonetik och uttal i ett andraspråksperspektiv med gymnasieelever i fokus, 7,5 högskolepoäng
+
+I delkursen studeras det svenska språkets fonetik
+och fonologi ur ett andraspråksperspektiv med fokus på ungdomar och
+vuxna. Särskild tyngdpunkt läggs vid sådana företeelser som är karaktäristiska
+för svenskan i förhållande till andra språk och sådana fenomen som brukar
+orsaka svårigheter för inlärare av svenska som andraspråk, exempelvis prosodi. Analys av andraspråksinlärares uttal ingår
+samt diskussioner om attityder till brytning. Delkursen behandlar även uttalspedagogiska
+perspektiv såsom utgångspunkter och prioriteringar i
+uttalsundervisningen för ungdomar och vuxna.
+
+8.Fiktionsberättande och gymnasieelevers texter i ett flerspråkigt perspektiv, 7,5 högskolepoäng
+
+I delkursen läses och diskuteras en större mängd
+fiktionstext. Forskningsbaserade modeller tillämpas med syfte att skapa
+intresse för fiktionstext. Uppslag till konkreta arbetssätt
+i det flerspråkiga klassrummet på gymnasiet diskuteras. I delkursen fördjupas även kunskaperna kring unga och vuxna andraspråkselevers läsande och
+skrivande både på grundläggande och avancerad nivå.  
+
+9.Andraspråksforskning, 7,5 högskolepoäng
+
+Delkursen ger
+en översikt över andraspråksforskningens huvudfrågor, teorier,
+forskningsmetoder och resultat. Delkursen fördjupar kunskaper om vetenskapligt
+arbetssätt inom ämnesområdet. Inom delkursen behandlas flerspråkighet ur tre
+perspektiv, ett samhällsperspektiv, ett individperspektiv samt ett språkligt
+perspektiv.
+10.Lärande genom fiktionstext i gymnasieskolan, 7,5 högskolepoäng
+
+I denna delkurs behandlas lärande genom
+fiktionstext i andraspråksundervisningen i gymnasieskolan. Metoder och modeller
+för att analysera fiktionstext tillämpas och en textanalys av ett eller flera
+verk genomförs. Kunskaper om fiktionstext samt förmågan att göra didaktiska
+ställningstaganden fördjupas liksom förhållningssättet till forskningsresultat
+kopplade till estetiska lärprocesser.  
+
+11.Ämnesspecifikt språk i gymnasieskolan, 7,5 högskolepoäng
+
+I delkursen fördjupas kunskapen om relationer
+mellan utveckling av språk och kunskap i gymnasieskolans olika ämnen, liksom
+insikten om specifika språkliga karakteristika av betydelse inom olika
+skolämnen. Implikationer för undervisning såväl i svenska som andraspråk som i
+skolans olika ämnen diskuteras. Särskilt fokus läggs på undervisningsformer som
+gynnar gymnasieelevers kunskapsutveckling i olika ämnen samtidigt som de
+stöds i sin utveckling av det språk som uttrycker denna kunskap. Inom delkursens
+ram diskuteras särskilt de specifika språkliga utmaningar som några valda
+skolämnen utgör för andraspråkselever i gymnasieskolan. Samtidigt ger
+delkursen en vägledning till aktuell forskning om språk- och
+kunskapsutvecklande arbetssätt.   
+
+12.Bedömning och utveckling av språkfärdighet på avancerad nivå, 7,5 högskolepoäng
+
+Denna delkurs behandlar olika teoretiska
+perspektiv på hur språkfärdighet på avancerad nivå kan analyseras och
+bedömas. Under delkursen fördjupas kunskapen om teori och tillvägagångssätt för
+att kvalitetssäkra bedömningar av språkfärdighet hos ungdomar och vuxna. I
+delkursen ingår att planera för ett bedömningsmoment i ett valt
+undervisningssammanhang och diskutera hur mål, undervisning, bedömning,
+återkoppling och betygssättning hänger samman samt kritiskt diskutera olika
+sätt att bedöma språkfärdighet i relation till syfte och sammanhang på
+gymnasieskolan.
+
+## Examinationsformer
+
+Samtliga delkurser:
+
+  - Aktivt deltagande i seminarier
+  - Muntliga redovisningar
+  - Skriftliga
+inlämningsuppgifter
+  
+Delkurs 1 samt delkurserna 4-12:
+
+  - Skriftlig hemtentamen
+
+  
+Delkurs 2:
+
+  - Skriftlig rapport
+  
+Delkurs 3:
+
+  - Skriftlig onlinetentamen
+
+## Arbetsformer
+
+Se kurshandbok.
+
+## Betyg
+
+Som betygsskala används U–VG.
+
+För att få VG på hela kursen krävs VG på 67,5 hp.
+  
+Betygsrapportering:
+
+  - Andraspråksutveckling och flerspråkighet - 7,5 hp
+  - Skriftspråksutveckling i ett flerspråkigt perspektiv med gymnasieelever i fokus - 7,5 hp
+  - Andraspråksperspektiv på svenska språkets struktur med gymnasieelever i fokus - 7,5 hp
+  - Sociolingvistiskt perspektiv på interaktion, lärande och identitet hos ungdomar och vuxna - 7,5 hp
+  - Språk, undervisning och lärande i ett andraspråksperspektiv med inriktning mot gymnasiet - 7,5 hp
+  - Bedömning och respons i ett andraspråksperspektiv med gymnasieelever i fokus - 7,5 hp
+  - Fonetik och uttal i ett andraspråksperspektiv med gymnasieelever i fokus - 7,5 hp
+  - Fiktionsberättande och gymnasieelevers texter i ett flerspråkigt perspektiv - 7,5 hp
+  - Andraspråksforskning - 7,5 hp
+  - Lärande genom fiktionstext i gymnasieskolan - 7,5 hp
+  - Ämnesspecifikt språk i gymnasieskolan . 7,5 hp
+  - Bedömning och utveckling av språkfärdighet på avancerad nivå - 7,5 hp
+
+## Förkunskapskrav
+
+- Lärarexamen
+
+## Övrigt
+
+Denna utbildning är en uppdragsutbildning och får endast sökas av lärare som deltar i Lärarlyftet.   
+För att delta i en kurs inom Lärarlyftet ska du ha en behörighetsgivande lärarexamen samt vara anställd av staten, en kommun eller fristående skola och ha en arbetsgivare som har godkänt ditt deltagande. Du som är anställd av annan som enligt avtal med kommunen utför uppgifter på entreprenad inom skolväsendet kan också gå kurser inom Lärarlyftet.  
+Kurser med inriktning mot gymnasieskolan riktar sig till de som är anställda som lärare och har en behörighetsgivande lärarexamen utan att vara ämnesbehöriga.  
+Den som söker till denna kurs utan godkännande från skolhuvudmannen är inte behörig att delta.  
+Se Skolverkets webbplats för mer information: https://www.skolverket.se/lararlyftet.
+ 
+
+Ersätter GSS2JA.
+
+## English Version
+
+### Learning Outcomes
+
+### Modules
+
+1.Second Language Development and Multilingualism, 7.5 Credits2.Literacy Development in a Multilingual Perspective with Focus on Upper-Secondary School Pupils, 7.5 Credits3.A Second Language Perspective on the Structure of Swedish with Focus on Upper-Secondary School Pupils, 7.5 Credits4.A Sociolinguistic Perspective on Interaction, Learning and Identity among Adolescents and Adults, 7.5 Credits5.Language, Teaching and Learning in a Second Language Perspective with Focus on Upper-Secondary School, 7.5 Credits6.Assessment and Feedback in a Second Language Perspective with Focus on Upper-Secondary School Pupils, 7.5 Credits7.Phonetics and Pronunciation in a Second Language Perspective with Focus on Upper-Secondary School Pupils, 7.5 Credits8.Fiction and the Written Production of Upper-Secondary School Pupils in a Multilingual Perspective, 7.5 Credits9.Second Language Research, 7.5 Credits10.Fiction as a Teaching Tool in Upper-Secondary School, 7.5 Credits11.Subject-Specific Language in Upper-Secondary School, 7.5 Credits12.Assessment and Development of Language Proficiency at an Advanced Level, 7.5 Credits
+
+### Course Content
+
+### Modules
+
+1.Second Language Development and Multilingualism, 7.5 Credits2.Literacy Development in a Multilingual Perspective with Focus on Upper-Secondary School Pupils, 7.5 Credits3.A Second Language Perspective on the Structure of Swedish with Focus on Upper-Secondary School Pupils, 7.5 Credits4.A Sociolinguistic Perspective on Interaction, Learning and Identity among Adolescents and Adults, 7.5 Credits5.Language, Teaching and Learning in a Second Language Perspective with Focus on Upper-Secondary School, 7.5 Credits6.Assessment and Feedback in a Second Language Perspective with Focus on Upper-Secondary School Pupils, 7.5 Credits7.Phonetics and Pronunciation in a Second Language Perspective with Focus on Upper-Secondary School Pupils, 7.5 Credits8.Fiction and the Written Production of Upper-Secondary School Pupils in a Multilingual Perspective, 7.5 Credits9.Second Language Research, 7.5 Credits10.Fiction as a Teaching Tool in Upper-Secondary School, 7.5 Credits11.Subject-Specific Language in Upper-Secondary School, 7.5 Credits12.Assessment and Development of Language Proficiency at an Advanced Level, 7.5 Credits
+
+### Grades
+
+The Swedish grades U–VG.
+
+### Prerequisites
+
+- A Teachers Education

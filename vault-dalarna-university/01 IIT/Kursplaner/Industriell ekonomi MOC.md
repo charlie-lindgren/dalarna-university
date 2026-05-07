@@ -9,12 +9,15 @@ up: "[[IIT MOC]]"
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
 
-## Kurser (25 st)
+## Kurser (30 st)
 
 - [[GIE26L]] — Industriell ekonomi - logistik och Supply Chain Management
 - [[GIE26M]] — Industriell ekonomi - organisation och ledarskap
 - [[GIE26N]] — Industriell ekonomi - underhåll och kvalitet
+- [[GIE26P]] — Industriell ekonomi - grundläggande kurs
+- [[GIE29N]] — Industriell ekonomi - Processer och projektledning
 - [[GIE2L7]] — Lean
+- [[GIE2MF]] — Industriell ekonomi - verksamhetsstyrning
 - [[GIE2QS]] — Verksamhetsutveckling
 - [[GIE2RF]] — Examensarbete för högskoleexamen i Industriell ekonomi
 - [[GIE2RF]] — Examensarbete för högskoleexamen i Industriell ekonomi
@@ -33,6 +36,8 @@ up: "[[IIT MOC]]"
 - [[GIE3JS]] — Examensarbete för kandidatexamen i Industriell ekonomi
 - [[GIE3JS]] — Examensarbete för kandidatexamen i Industriell ekonomi
 - [[GIE3JS]] — Examensarbete för kandidatexamen i Industriell ekonomi
+- [[GIE3JW]] — Innovation och entreprenörskap inom assisterande teknik
 - [[IE1068]] — Vetenskaplig metod
 - [[IE1069]] — Produktionslogistik
 - [[IE1076]] — Industriell ekonomi
+- [[IE2003]] — Examensarbete för kandidatexamen i Industriell ekonomi

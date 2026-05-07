@@ -9,14 +9,21 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (23 st)
+## Kurser (30 st)
 
+- [[GPA2FL]] — Samspel i organisationen - gruppen
 - [[GPA2FW]] — Personalekonomi och lön
 - [[GPA2FW]] — Personalekonomi och lön
+- [[GPA2K3]] — Marknadsföring för personalvetare
+- [[GPA2KU]] — Implementering av hållbar strategisk styrning
+- [[GPA2LM]] — Personal och arbetsliv - en introduktion
+- [[GPA2LN]] — Ekonomi- och verksamhetsstyrning för personalvetare
 - [[GPA2NY]] — Strategiskt och internationellt personalarbete
 - [[GPA2NY]] — Strategiskt och internationellt personalarbete
+- [[GPA2P7]] — Samhällsvetenskaplig metod och vetenskapsteori II
 - [[GPA2R6]] — Kompetensförsörjning - avveckling och förändring
 - [[GPA2R6]] — Kompetensförsörjning - avveckling och förändring
+- [[GPA32D]] — Individuella lärprocesser och kompetensutveckling
 - [[GPA32E]] — Kollektiva lärprocesser och lärande organisation
 - [[GPA32E]] — Kollektiva lärprocesser och lärande organisation
 - [[GPA353]] — Ledarskap

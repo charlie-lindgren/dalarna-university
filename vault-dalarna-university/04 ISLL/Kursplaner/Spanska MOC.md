@@ -9,7 +9,7 @@ up: "[[ISLL MOC]]"
 
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (37 st)
+## Kurser (40 st)
 
 - [[ASP25D]] — Examensarbete i spanska för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 - [[ASP25D]] — Examensarbete i spanska för ämneslärarexamen, inriktning grundskolans årskurs 7-9
@@ -20,6 +20,8 @@ up: "[[ISLL MOC]]"
 - [[GSP28C]] — Spanska III med didaktisk inriktning för gymnasieskolan
 - [[GSP2FQ]] — Spanska II med didaktisk inriktning
 - [[GSP2FR]] — Spanska, Språkdidaktik II
+- [[GSP2JH]] — Spanska för lärare åk 7-9, 45 hp (1-45 hp). Ingår i Lärarlyftet.
+- [[GSP2KS]] — Spanska III Lingvistisk inriktning: Kandidatexamensarbete
 - [[GSP2SK]] — Spanska I: Den spanskspråkiga världen - historia, kultur och samhälle
 - [[GSP2SK]] — Spanska I: Den spanskspråkiga världen - historia, kultur och samhälle
 - [[GSP2SL]] — Spanska I: Fonetik och muntlig språkfärdighet
@@ -33,6 +35,7 @@ up: "[[ISLL MOC]]"
 - [[GSP2W8]] — Spanska I med didaktisk inriktning
 - [[GSP2W8]] — Spanska I med didaktisk inriktning
 - [[GSP2YT]] — Spanska II: Akademiskt skrivande
+- [[GSP39N]] — Spanska: Förberedande kurs
 - [[GSP3GW]] — Spanska III Lingvistisk inriktning: Kandidatexamensarbete
 - [[GSP3GW]] — Spanska III Lingvistisk inriktning: Kandidatexamensarbete
 - [[SP1050]] — Spanska II: Skriftlig språkfärdighet och grammatik
