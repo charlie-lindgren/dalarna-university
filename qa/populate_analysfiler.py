@@ -91,12 +91,26 @@ def parse_rapport(path: Path) -> list[tuple[str, str, str, str]]:
 # Callout-byggare
 # ─────────────────────────────────────────────────────────────────────────────
 
+DOWNLOAD_ICON_SVG = (
+    '<svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" '
+    'fill="none" stroke="currentColor" stroke-width="2" '
+    'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
+    '<path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>'
+    '<polyline points="7 10 12 15 17 10"/>'
+    '<line x1="12" y1="15" x2="12" y2="3"/>'
+    '</svg>'
+)
+
+
 def build_callout(rows: list[tuple[str, str, str, str]], xlsx_filename: str) -> list[str]:
     """rows = [(code, subj, problem_label, detail), ...] -> callout + download link lines."""
     n = len(rows)
     href = xlsx_filename.replace(" ", "-")  # Quartz slugifies non-md asset names the same way
     lines = [
-        f'<a class="download-xlsx" href="{href}" download>⬇ Ladda ner som Excel-fil ({n} rader)</a>',
+        f'<a class="download-xlsx" href="{href}" download>'
+        f'{DOWNLOAD_ICON_SVG}'
+        f'<span>Ladda ner som Excel-fil ({n} rader)</span>'
+        f'</a>',
         "",
         f"> [!example]- {n} fynd — klicka för att expandera",
         ">",
@@ -213,11 +227,15 @@ def main():
         idx = args.index("--rapport")
         rapport_path = Path(args[idx + 1])
     else:
-        rapporter = sorted(RAPPORT_DIR.glob("rapport-*.md"))
+        # Pick the most recently modified report. Match both timestamped
+        # (`rapport-YYYY-MM-DD-HHMM.md`) and bare (`rapport.md`) forms — the
+        # latter is the default output of `qa/check_kursplaner.py --out …`
+        # so it's often the freshest one.
+        rapporter = list(RAPPORT_DIR.glob("rapport*.md"))
         if not rapporter:
             print("Fel: Ingen rapport hittad i qa/rapporter/.", file=sys.stderr)
             sys.exit(1)
-        rapport_path = rapporter[-1]
+        rapport_path = max(rapporter, key=lambda p: p.stat().st_mtime)
 
     print(f"\n{CYAN}{BOLD}Populera analysfilerna{RESET}")
     print(f"  Rapport: {rapport_path.name}")
