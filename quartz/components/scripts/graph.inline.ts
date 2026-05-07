@@ -202,11 +202,15 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   //   subject  — subject MOC (kursplaner) and programme files (mid-tone)
   //   leaf     — individual kursplan / utbildningsplan (pale)
   // Ej-aktiv overrides everything in warm red. Unrecognized nodes fade to gray.
+  // Hues are placed ~90° apart for max separation; each institution keeps a
+  // single hue across the moc/subject/leaf hierarchy (only luminance shifts).
+  // Leaf saturation is kept high enough that institution membership is obvious
+  // at a glance, even in dense regions of the global graph.
   const INSTITUTION_PALETTE: Record<string, { moc: string; subject: string; leaf: string }> = {
-    IIT:  { moc: "#2c6cb5", subject: "#5b8fc7", leaf: "#a0bedc" },  // blue
-    IHV:  { moc: "#2d8a6f", subject: "#5aaa8c", leaf: "#a3c9b8" },  // teal
-    IKS:  { moc: "#c47a2e", subject: "#d99c5a", leaf: "#e8caa1" },  // amber
-    ISLL: { moc: "#7d4f9c", subject: "#a07cb8", leaf: "#c8aed8" },  // violet
+    IIT:  { moc: "#0d57c2", subject: "#3b7fd9", leaf: "#7eaae6" },  // royal blue (~215°)
+    IHV:  { moc: "#0e8c5a", subject: "#2cb077", leaf: "#6ed5a3" },  // emerald   (~150°)
+    IKS:  { moc: "#d65a1c", subject: "#ef8534", leaf: "#f5b073" },  // orange    (~25°)
+    ISLL: { moc: "#a3268f", subject: "#cd4cbf", leaf: "#e08bd6" },  // magenta   (~315°)
   }
   const INSTITUTIONS = ["IIT", "IHV", "IKS", "ISLL"] as const
   const STRUCTURAL_GOLD = "#d4a843"   // Dashboard, Analys MOC — cross-institution structure
