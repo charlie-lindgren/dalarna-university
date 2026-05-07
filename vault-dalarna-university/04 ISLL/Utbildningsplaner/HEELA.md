@@ -17,63 +17,6 @@ up: "[[ISLL MOC]]"
 - **Fastställd:** Fastställd av Utbildnings- och Forskningsnämnden 2020-10-22 . Gäller fr.o.m.  HT 2021.
 - **Reviderad:** Reviderad 2023-09-27 . Revideringen är giltig fr.o.m. HT 2023.
 
-## 2. Huvudsaklig uppläggning
-
-Programmet består av sju obligatoriska kurser på avancerad nivå inom huvudområdet Engelskspråkig litteratur. Under programmets första termin läser alla fyra obligatoriska kurser om vardera 7,5 hp. Under programmets andra termin läser alla tre obligatoriska kurser, dvs. två kurser om vardera 7,5 hp och kursen Engelska: Magisterexamensarbete i litteratur (15 hp). Engelska: Magisterexamensarbete i litteratur läsas alltid sista terminen av programmet.
-
-## 3. Programmets kurser
-
-**Samtliga kurser ingår i huvudområdet Engelskspråkig litteratur. Samtliga kurser är på avancerad nivå.**
-
-- [[AEN26E|Engelska: Litteraturvetenskapligt skrivande]], 7,5 hp
-- [[AEN25S|Engelska: Litteratur och teori]], 7,5 hp
-- Engelska: Samtida irländsk skönlitteratur, 7,5 hp
-- [[AEN252|Migration, klimat och ångest i engelskspråkig litteratur]], 7,5 hp
-- Engelska: Avancerad litteraturteori, 7,5 hp
-- [[EN3062|Världslitteratur på engelska]], 7,5 hp
-- [[EN3063|Engelska: Magisterexamensarbete i litteratur]], 15 hp
-
-## 4. Examensbenämning
-
-Filosofie magisterexamen, huvudområde: Engelskspråkig litteratur (Degree of Master of Arts (60 Credits), Main Field of Study: Literature in English).
-
-## 6. Summary in English
-
-On completion of the programme the student will be able to
-
-  - demonstrate broad knowledge and understanding of the development of literary,
-
-  - demonstrate the ability to apply this knowledge in the form of individual literary text analyses with a high degree of theoretical awareness of the relationship between language, literature and culture,
-
-  - demonstrate advanced knowledge of literature in English,
-
-  - independently plan and carry out a well-defined literary research task in English-language literature which demonstrates a nuanced theoretical insight and the ability to problematise the assumptions and ambitions of theoretical standpoints,
-
-  - demonstrate the oral and written ability and proficiency necessary to argue effectively in clear academic English for complex interpretations and analyses of literary and critical texts and to actively be able to interact with others in a critical and constructive environment.
-
-## 7. Övrigt
-
-Student som erhållit godkänt resultat på programmets samtliga kurser erhåller efter ansökan examensbevis där även programnamnet kan synliggöras, om studenten så önskar.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __
-
 ## 1. Programmets mål
 
 ### 
@@ -132,6 +75,44 @@ Efter avslutad utbildning skall studenten
 
   - visa på sådan muntlig och skriftlig språklig förmåga och färdighet som krävs för att på en klar och tydlig akademisk engelska effektivt argumentera för komplexa tolkningar och analyser av skönlitterära och litteraturkritiska texter samt aktivt kunna interagera med andra i en kritisk och konstruktiv miljö.
 
+## 2. Huvudsaklig uppläggning
+
+Programmet består av sju obligatoriska kurser på avancerad nivå inom huvudområdet Engelskspråkig litteratur. Under programmets första termin läser alla fyra obligatoriska kurser om vardera 7,5 hp. Under programmets andra termin läser alla tre obligatoriska kurser, dvs. två kurser om vardera 7,5 hp och kursen Engelska: Magisterexamensarbete i litteratur (15 hp). Engelska: Magisterexamensarbete i litteratur läsas alltid sista terminen av programmet.
+
+## 3. Programmets kurser
+
+**Samtliga kurser ingår i huvudområdet Engelskspråkig litteratur. Samtliga kurser är på avancerad nivå.**
+
+- [[AEN26E|Engelska: Litteraturvetenskapligt skrivande]], 7,5 hp
+- [[AEN25S|Engelska: Litteratur och teori]], 7,5 hp
+- Engelska: Samtida irländsk skönlitteratur, 7,5 hp
+- [[AEN252|Migration, klimat och ångest i engelskspråkig litteratur]], 7,5 hp
+- Engelska: Avancerad litteraturteori, 7,5 hp
+- [[EN3062|Världslitteratur på engelska]], 7,5 hp
+- [[EN3063|Engelska: Magisterexamensarbete i litteratur]], 15 hp
+
+## 4. Examensbenämning
+
+Filosofie magisterexamen, huvudområde: Engelskspråkig litteratur (Degree of Master of Arts (60 Credits), Main Field of Study: Literature in English).
+
 ## 5. Behörighetskrav
 
 - Filosofie kandidatexamen med huvudområde engelska omfattande minst 180 hp innehållande en uppsats i ämnet Engelska om minst 5000 ord. Innehållet i uppsatsen och den metod som används ska vara relevant till vald specialisering i Magisterprogrammet
+
+## 6. Summary in English
+
+On completion of the programme the student will be able to
+
+  - demonstrate broad knowledge and understanding of the development of literary,
+
+  - demonstrate the ability to apply this knowledge in the form of individual literary text analyses with a high degree of theoretical awareness of the relationship between language, literature and culture,
+
+  - demonstrate advanced knowledge of literature in English,
+
+  - independently plan and carry out a well-defined literary research task in English-language literature which demonstrates a nuanced theoretical insight and the ability to problematise the assumptions and ambitions of theoretical standpoints,
+
+  - demonstrate the oral and written ability and proficiency necessary to argue effectively in clear academic English for complex interpretations and analyses of literary and critical texts and to actively be able to interact with others in a critical and constructive environment.
+
+## 7. Övrigt
+
+Student som erhållit godkänt resultat på programmets samtliga kurser erhåller efter ansökan examensbevis där även programnamnet kan synliggöras, om studenten så önskar.

@@ -17,6 +17,64 @@ up: "[[IKS MOC]]"
 - **Fastställd:** Fastställd av Områdesnämnden Utbildningsvetenskap 2020-12-17 . Gäller fr.o.m.  VT 2021.
 - **Reviderad:** Reviderad 2023-06-02 . Revideringen är giltig fr.o.m. VT 2023.
 
+## 1. Programmets mål
+
+### 
+1.1 Mål enligt Högskolelagen (1992:1434), 1 kap. 8 §:
+
+Utbildning på avancerad nivå ska väsentligen bygga på de kunskaper som studenterna får inom utbildning på grundnivå eller motsvarande kunskaper.
+
+Utbildning på avancerad nivå ska innebära fördjupning av kunskaper, färdigheter och förmågor i förhållande till utbildning på grundnivå och ska, utöver vad som gäller för utbildning på grundnivå,  
+• ytterligare utveckla studenternas förmåga att självständigt integrera och använda kunskaper,  
+• utveckla studenternas förmåga att hantera komplexa företeelser, frågeställningar och situationer, och  
+• utveckla studenternas förutsättningar för yrkesverksamhet som ställer stora krav på självständighet eller för forsknings- och utvecklingsarbete.
+
+### 
+1.2 Examensmål enligt Högskoleförordningen (1993:100), bilaga 2:
+
+För grundlärarexamen ska studenten visa sådan kunskap och förmåga som krävs för att självständigt arbeta som grundlärare i den verksamhet som utbildningen avser. Studenten ska även visa kunskap och förmåga för annan undervisning för vilken examen enligt gällande föreskrifter kan ge behörighet.
+
+**Kunskap och förståelse**  
+För grundlärarexamen med inriktning mot arbete i förskoleklass och grundskolans årskurs 1–3 ska studenten    
+- visa sådan kunskap om barns utveckling, lärande, behov och förutsättningar som krävs för yrkesutövningen,  
+- visa kunskap om och förståelse för sociala relationer, konflikthantering och ledarskap,   
+- visa kunskap om skolväsendets organisation, relevanta styrdokument, läroplansteori och olika pedagogisk-didaktiska perspektiv samt visa kännedom om skolväsendets historia,  
+- visa sådana ämneskunskaper, inbegripet insikt i aktuellt forsknings- och utvecklingsarbete, som krävs för yrkesutövningen,  
+- visa sådana kunskaper i didaktik och ämnesdidaktik inklusive metodik som krävs för undervisning och lärande inom det eller de ämnen som utbildningen avser och för yrkesutövningen i övrigt,  
+- visa kännedom om praktiska och estetiska läroprocesser,   
+- visa kunskap om vetenskapsteori och kvalitativa och kvantitativa forskningsmetoder samt om relationen mellan vetenskaplig grund och beprövad erfarenhet och dess betydelse för yrkesutövningen,  
+- visa fördjupad kunskap om grundläggande läs-, skriv- och matematikinlärning och om barns kommunikation och språkutveckling, och  
+- visa fördjupad kunskap om bedömning av elevers lärande och utveckling.
+
+**Färdighet och förmåga**  
+För grundlärarexamen med inriktning mot arbete i förskoleklass och grundskolans årskurs 1–3 ska studenten  
+- visa fördjupad förmåga att skapa förutsättningar för alla elever att lära och utvecklas,  
+- visa förmåga att ta till vara elevers kunskaper och erfarenheter för att stimulera varje elevs lärande och utveckling,  
+- visa förmåga att självständigt och tillsammans med andra planera, genomföra, utvärdera och utveckla undervisning och den pedagogiska verksamheten i övrigt i syfte att på bästa sätt stimulera varje elevs lärande och utveckling,  
+- visa förmåga att identifiera och i samverkan med andra tillgodose elevers behov av specialpedagogiska insatser, inbegripet specialpedagogiska insatser för elever med neuropsykiatriska svårigheter,  
+- visa förmåga att observera, dokumentera, analysera och bedöma elevers lärande och utveckling i förhållande till verksamhetens mål och informera och samarbeta med elever och deras vårdnadshavare,  
+- visa förmåga att kommunicera och förankra skolans värdegrund, inbegripet de mänskliga rättigheterna och de grundläggande demokratiska värderingarna,  
+- visa förmåga att förebygga och motverka diskriminering och annan kränkande behandling av elever,  
+ visa förmåga att beakta, kommunicera och förankra ett jämställdhets- och jämlikhetsperspektiv i den pedagogiska verksamheten,  
+- visa förmåga att kommunicera och reflektera kring frågor som rör identitet, sexualitet och relationer,  
+- visa kommunikativ förmåga i lyssnande, talande och skrivande till stöd för den pedagogiska verksamheten,  
+- visa förmåga att säkert och kritiskt använda digitala verktyg i den pedagogiska verksamheten och att beakta betydelsen av olika mediers och digitala miljöers roll för denna,  
+- visa förmåga att i den pedagogiska verksamheten tillägna sig färdigheter som är värdefulla för yrkesutövningen,  
+- visa fördjupad förmåga att kritiskt och självständigt tillvarata, systematisera och reflektera över egna och andras erfarenheter samt relevanta forskningsresultat för att därigenom bidra till utvecklingen av yrkesverksamheten och kunskapsutvecklingen inom yrkesområdet, och  
+- visa förmåga att tillämpa sådan didaktik och ämnesdidaktik inklusive metodik som krävs för undervisning och lärande inom det eller de ämnen som utbildningen avser och för yrkesutövningen i övrigt.
+
+**Värderingsförmåga och förhållningssätt **  
+För grundlärarexamen med inriktning mot arbete i förskoleklass och grundskolans årskurs 1–3 ska studenten  
+- visa självkännedom och empatisk förmåga,  
+- visa förmåga till ett professionellt förhållningssätt gentemot elever och deras vårdnadshavare,  
+- visa förmåga att i det pedagogiska arbetet göra bedömningar utifrån relevanta vetenskapliga, samhälleliga och etiska aspekter med särskilt beaktande av de mänskliga rättigheterna, i synnerhet barnets rättigheter enligt barnkonventionen, samt en hållbar utveckling, och  
+- visa förmåga att identifiera sitt behov av ytterligare kunskap och utveckla sin kompetens i det pedagogiska arbetet.
+
+### 
+1.3 Utbildningsprogrammets mål
+
+-
+
 ## 2. Huvudsaklig uppläggning
 
 **Omfattning enligt högskoleförordningen (1993:100); bilaga 2 samt Förordning om utbildning till lärare och förskollärare 2021:1335.  **  
@@ -121,87 +179,10 @@ Inom programmet ges internationella och globala perspektiv genom kurslitterature
 
 Grundlärarexamen med inriktning mot arbete i förskoleklass och grundskolans årskurs 1–3 (Degree of Master of Arts in Primary Education – Pre-School Class and School Years 1–3).
 
-## 6. Summary in English
-
-For a Degree of Bachelor/Master or Arts in Primary Education the student shall demonstrate the knowledge and skills required to work autonomously as a primary teacher in the specialisation for which the qualification is awarded. The student shall also demonstrate knowledge and skills for other forms of teaching for which the degree, pursuant to the applicable regulations, qualifies him or her.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __
-
-## 1. Programmets mål
-
-### 
-1.1 Mål enligt Högskolelagen (1992:1434), 1 kap. 8 §:
-
-Utbildning på avancerad nivå ska väsentligen bygga på de kunskaper som studenterna får inom utbildning på grundnivå eller motsvarande kunskaper.
-
-Utbildning på avancerad nivå ska innebära fördjupning av kunskaper, färdigheter och förmågor i förhållande till utbildning på grundnivå och ska, utöver vad som gäller för utbildning på grundnivå,  
-• ytterligare utveckla studenternas förmåga att självständigt integrera och använda kunskaper,  
-• utveckla studenternas förmåga att hantera komplexa företeelser, frågeställningar och situationer, och  
-• utveckla studenternas förutsättningar för yrkesverksamhet som ställer stora krav på självständighet eller för forsknings- och utvecklingsarbete.
-
-### 
-1.2 Examensmål enligt Högskoleförordningen (1993:100), bilaga 2:
-
-För grundlärarexamen ska studenten visa sådan kunskap och förmåga som krävs för att självständigt arbeta som grundlärare i den verksamhet som utbildningen avser. Studenten ska även visa kunskap och förmåga för annan undervisning för vilken examen enligt gällande föreskrifter kan ge behörighet.
-
-**Kunskap och förståelse**  
-För grundlärarexamen med inriktning mot arbete i förskoleklass och grundskolans årskurs 1–3 ska studenten    
-- visa sådan kunskap om barns utveckling, lärande, behov och förutsättningar som krävs för yrkesutövningen,  
-- visa kunskap om och förståelse för sociala relationer, konflikthantering och ledarskap,   
-- visa kunskap om skolväsendets organisation, relevanta styrdokument, läroplansteori och olika pedagogisk-didaktiska perspektiv samt visa kännedom om skolväsendets historia,  
-- visa sådana ämneskunskaper, inbegripet insikt i aktuellt forsknings- och utvecklingsarbete, som krävs för yrkesutövningen,  
-- visa sådana kunskaper i didaktik och ämnesdidaktik inklusive metodik som krävs för undervisning och lärande inom det eller de ämnen som utbildningen avser och för yrkesutövningen i övrigt,  
-- visa kännedom om praktiska och estetiska läroprocesser,   
-- visa kunskap om vetenskapsteori och kvalitativa och kvantitativa forskningsmetoder samt om relationen mellan vetenskaplig grund och beprövad erfarenhet och dess betydelse för yrkesutövningen,  
-- visa fördjupad kunskap om grundläggande läs-, skriv- och matematikinlärning och om barns kommunikation och språkutveckling, och  
-- visa fördjupad kunskap om bedömning av elevers lärande och utveckling.
-
-**Färdighet och förmåga**  
-För grundlärarexamen med inriktning mot arbete i förskoleklass och grundskolans årskurs 1–3 ska studenten  
-- visa fördjupad förmåga att skapa förutsättningar för alla elever att lära och utvecklas,  
-- visa förmåga att ta till vara elevers kunskaper och erfarenheter för att stimulera varje elevs lärande och utveckling,  
-- visa förmåga att självständigt och tillsammans med andra planera, genomföra, utvärdera och utveckla undervisning och den pedagogiska verksamheten i övrigt i syfte att på bästa sätt stimulera varje elevs lärande och utveckling,  
-- visa förmåga att identifiera och i samverkan med andra tillgodose elevers behov av specialpedagogiska insatser, inbegripet specialpedagogiska insatser för elever med neuropsykiatriska svårigheter,  
-- visa förmåga att observera, dokumentera, analysera och bedöma elevers lärande och utveckling i förhållande till verksamhetens mål och informera och samarbeta med elever och deras vårdnadshavare,  
-- visa förmåga att kommunicera och förankra skolans värdegrund, inbegripet de mänskliga rättigheterna och de grundläggande demokratiska värderingarna,  
-- visa förmåga att förebygga och motverka diskriminering och annan kränkande behandling av elever,  
- visa förmåga att beakta, kommunicera och förankra ett jämställdhets- och jämlikhetsperspektiv i den pedagogiska verksamheten,  
-- visa förmåga att kommunicera och reflektera kring frågor som rör identitet, sexualitet och relationer,  
-- visa kommunikativ förmåga i lyssnande, talande och skrivande till stöd för den pedagogiska verksamheten,  
-- visa förmåga att säkert och kritiskt använda digitala verktyg i den pedagogiska verksamheten och att beakta betydelsen av olika mediers och digitala miljöers roll för denna,  
-- visa förmåga att i den pedagogiska verksamheten tillägna sig färdigheter som är värdefulla för yrkesutövningen,  
-- visa fördjupad förmåga att kritiskt och självständigt tillvarata, systematisera och reflektera över egna och andras erfarenheter samt relevanta forskningsresultat för att därigenom bidra till utvecklingen av yrkesverksamheten och kunskapsutvecklingen inom yrkesområdet, och  
-- visa förmåga att tillämpa sådan didaktik och ämnesdidaktik inklusive metodik som krävs för undervisning och lärande inom det eller de ämnen som utbildningen avser och för yrkesutövningen i övrigt.
-
-**Värderingsförmåga och förhållningssätt **  
-För grundlärarexamen med inriktning mot arbete i förskoleklass och grundskolans årskurs 1–3 ska studenten  
-- visa självkännedom och empatisk förmåga,  
-- visa förmåga till ett professionellt förhållningssätt gentemot elever och deras vårdnadshavare,  
-- visa förmåga att i det pedagogiska arbetet göra bedömningar utifrån relevanta vetenskapliga, samhälleliga och etiska aspekter med särskilt beaktande av de mänskliga rättigheterna, i synnerhet barnets rättigheter enligt barnkonventionen, samt en hållbar utveckling, och  
-- visa förmåga att identifiera sitt behov av ytterligare kunskap och utveckla sin kompetens i det pedagogiska arbetet.
-
-### 
-1.3 Utbildningsprogrammets mål
-
--
-
 ## 5. Behörighetskrav
 
 - Grundläggande behörighet samt Matematik 2a eller 2b eller 2c, Engelska 6, Naturkunskap 1b eller 1a1+1a2, Samhällskunskap 1b eller 1a1+1a2. Eller: Matematik nivå 2a eller nivå 2b eller nivå 2c, Engelska nivå 2, Naturkunskap nivå 1b eller nivå 1a2, Samhällskunskap nivå 1b eller nivå 1a2
+
+## 6. Summary in English
+
+For a Degree of Bachelor/Master or Arts in Primary Education the student shall demonstrate the knowledge and skills required to work autonomously as a primary teacher in the specialisation for which the qualification is awarded. The student shall also demonstrate knowledge and skills for other forms of teaching for which the degree, pursuant to the applicable regulations, qualifies him or her.

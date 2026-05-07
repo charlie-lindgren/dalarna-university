@@ -110,7 +110,6 @@ Programmets tredje år ger en fördjupning inom företagsekonomins delämnesomr�
 
 *** För att programnamnet ska visas i examensbeviset, är kurser märkta med asterisk obligatoriska.**
 
-
 ## 4. Examensbenämning
 
 Ekonomie kandidatexamen, huvudområde: Företagsekonomi (Degree of Bachelor of Science in Business and Economics, Main Field of Study: Business Administration and Management)
@@ -170,22 +169,3 @@ For a Degree of Bachelor the student shall
 ## 7. Övrigt
 
 Undervisningsspråket på programmet är svenska, men vissa av programmets kurser eller kursmoment ges på engelska.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __

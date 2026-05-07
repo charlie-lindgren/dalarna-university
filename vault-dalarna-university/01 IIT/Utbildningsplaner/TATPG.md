@@ -203,22 +203,3 @@ On completion of the programme, students will be able to:
 ## 7. Övrigt
 
 Vissa kurser kan komma att ges på engelska.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __

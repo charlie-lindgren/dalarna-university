@@ -132,22 +132,3 @@ Filosofie masterexamen, huvudområde: Turismvetenskap.
 För antagning till programmets kurser krävs att behörigheten till respektive kurs uppfylls av studenten.  
   
 För att programmets namn ska anges i examensbeviset ska samtliga kurser med asterisk vara slutförda med godkänt resultat.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __

@@ -16,92 +16,6 @@ up: "[[IHV MOC]]"
 - **Programansvarig:** Elin Ternström
 - **Fastställd:** Fastställd av Områdesnämnden Vård och omsorg 2019-09-10 . Gäller fr.o.m.  HT 2020.
 
-## 2. Huvudsaklig uppläggning
-
-Programmet omfattar 90 högskolepoäng (hp), varav den verksamhetsförlagda utbildningen (VFU) utgör 45 hp. Studierna bedrivs på avancerad nivå och omfattar heltidsstudier.
-
-Huvudområdet sexuell, reproduktiv och perinatal hälsa omfattar mänsklig reproduktion och livets början. Området behandlar fysiska, psykiska, sociala och kulturella processer i samband med sexualitet och familjeplanering, graviditet, födande, nyföddhetsperiod samt föräldraskap och kvinnors hälsa i ett livscykel- och genusperspektiv. Inom huvudområdet studeras utredande och behandlande åtgärder.
-
-Barnmorskans verksamhet definieras i två internationella dokument: Essential Competencies for Midwifery Practice (ICM 2018) och International Code of Ethics for Midwife (2014)  Den svenska barnmorskans kompetens beskrivs i Svenska Barnmorskeförbundets Kompetensbeskrivning för legitimerad barnmorska (2018). Dessa dokument utgör grunden för barnmorskeprogrammet.
-
-Programmets första termin utgörs av teoretiska kurser där studenterna introduceras i såväl ny profession som till ett nytt ämnesområde. I dessa kurser introduceras teorier om såväl normala som komplicerade förlopp och processer relaterade till mänsklig reproduktion.  Under terminen introduceras evidens och vetenskapliga metoder samt det preventiva folkhälsoarbete som ingår i barnmorskans ansvarsområde. Under termin 2 och 3 tillämpas teorier i den verksamhetsförlagda utbildningen. Genom utbildningen sker en fördjupning av såväl teori som tillämpad kunskap genom att initialt fokusera på normala förlopp för att därefter övergå i att förstå, identifiera och handlägga komplicerade förlopp med successiv progression gällande frågeställningar, situationer, företeelser och behov i såväl teori som klinisk handläggning. Under handledning och med tilltagande självständighet skall studenten utveckla sin förmåga att bedöma kvinnan/barnets, familjens samt partnerns behov samt planera, vidta adekvata åtgärder, följa upp, utvärdera och dokumentera given omvårdnad i enlighet med gällande lagstiftning och riktlinjer. Studenten skall förena sina teoretiska och kliniska/praktiska kunskaper och fördjupa förståelsen av dem genom reflektion och analys, där integration av evidens och praktisk kunskap tydliggörs. Kommunikation, professionellt förhållningssätt och gott omdöme, genus, etnicitet och etiska frågor rörande sexuell, reproduktiv och perinatal hälsa beaktas i programmets kurser. Även barnmorskans roll i jämställdhetsarbetet belyses.
-
-## 3. Programmets kurser
-
-**Samtliga kurser är obligatoriska och ingår i huvudområdet sexuell, reproduktiv och perinatal hälsa. Programmets kurser presenteras terminsvis. Den inbördes ordningen mellan delkurser som innehåller verksamhetsförlagd utbildning i termin 2 och 3 kan variera inom aktuell termin.**
-
-- ) kurser som krävs för magisterexamen, 60 hp
-
-**Termin 1:**
-
-- [[SR3008|Profession, teori och metod]], 7,5 hp
-- [[SR3009|Sexuell och reproduktiv hälsa]], 9 hp
-- Gravididet, förlossning och postpartumvård 1, 7,5 hp
-- Gravididet, förlossning och postpartumvård 2, 6 hp
-
-**Termin 2:**
-
-- Gynekologisk och postpartumvård, verksamhetsförlagd utbildning, 9 hp
-- [[ASR29W|Förlossningsvård I, verksamhetsförlagd utbildning]], 9 hp
-- [[ASR29S|Examensarbete i sexuell, reproduktiv och perinatal hälsa]], 15 hp
-
-**Termin 3:**
-
-- [[SR3014|Förlossningsvård II, verksamhetsförlagd utbildning]], 13,5 hp
-- [[SR3015|Mödrahälsovård och folkhälsa, verksamhetsförlagd utbildning]], 13,5 hp
-
-## 4. Examensbenämning
-
-4. EXAMENSBENÄMNING
-
-Barnmorskeexamen (Postgraduate Diploma in Midwifery).
-
-Filosofie magisterexamen, huvudområde: Sexuell, reproduktiv och perinatal hälsa (Degree of Master of Science (60 credits), Main Field of Study: Sexual, Reproductive and Perinatal Health).
-
-## 6. Summary in English
-
-After completing the Postgraduate Programme in Midwifery, the student will fulfill the following requirements in addition to the national legislations mentioned   previously.
-
-The student will  
-- have knowledge regarding the importance of health supporting work in all areas of the reproductive cycle with respect of gender, ethnicity and conditions of living from a national as well as an international perspective. Also, religious and cultural aspects in relation to the different phases of reproductive life is   elaborated.  
-- provide care without supervision during normal pregnancy, birth and postpartum period according to current legislation and recommendations, and identify existent medical and psychosocial adversities.  
-   
-- counsel, plan and perform relevant examinations within the  responsibility  of  the  midwife, prescribe and administrate contraceptives in accordance with current legislation and recommendations without  supervision  
-- have the ability to search for relevant literature, analyze findings, critically evaluate research and adhere to evidence based knowledge  within midwifery,  and contribute  to  the development and research within sexual, reproductive and perinatal   health.  
-- show awareness of how norms and attitudes regarding sexuality and reproduction may effect treatment and care  
-- support and work for good sexual, reproductive and perinatal health during all stages of  the reproductive cycle among women and men by applying an emphatic and ethical attitude, and a holistic view of the individual’s situation of   life
-
-## 7. Övrigt
-
-Utbildningsplanen följer Europaparlamentets och Europarådets direktiv om ömsesidigt erkännande av yrkeskvalifikationer (2005/36/EG).
-
-Studenten skall under den verksamhetsförlagda utbildningen uppvisa dokumenterad vård av minst 100 kvinnor i samband med barnafödande varav vid minst 50 av dessa bistått kvinnans förlossning under handledning.
-
-För att uppnå Socialstyrelsens krav för förskrivningsrätt av läkemedel i födelsekontrollerande syfte skall studenten uppvisa minst 30 timmars dokumenterad och handledd handläggning inom preventivmedelsrådgivning. För att ansöka om förskrivningsrätt hos Socialstyrelsen ska även lokala riktlinjer hos respektive arbetsgivare uppfyllas.
-
-Verksamhetsförlagd utbildning genomförs inom de landsting där Högskolan Dalarna har avtal om utbildningsplatser. Verksamhetsförlagd utbildning på annan plats än studentens hemort kan medföra ökade omkostnader för resor samt tillfälligt boende för den enskilde studenten.
-
-Internationell samverkan bedrivs på Högskolan Dalarna, vilket innebär att studenter kan erbjudas deltagande i projekt av internationell karaktär samt deltagande i utbytesprogram.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __
-
 ## 1. Programmets mål
 
 ### 
@@ -178,6 +92,73 @@ Värderingsförmåga  och förhållningssätt
 - visa medvetenhet om hur värderingar och attityder som rör sexualitet och reproduktion kan påverka bemötande och vård  
 - genom att visa gott omdöme, tillämpa ett empatiskt och etiskt förhållningssätt och med helhetssyn på patientens livssituation stödja och verka för god sexuell, reproduktiv och perinatal hälsa under den reproduktiva livscykelns alla faser hos kvinnor och män.
 
+## 2. Huvudsaklig uppläggning
+
+Programmet omfattar 90 högskolepoäng (hp), varav den verksamhetsförlagda utbildningen (VFU) utgör 45 hp. Studierna bedrivs på avancerad nivå och omfattar heltidsstudier.
+
+Huvudområdet sexuell, reproduktiv och perinatal hälsa omfattar mänsklig reproduktion och livets början. Området behandlar fysiska, psykiska, sociala och kulturella processer i samband med sexualitet och familjeplanering, graviditet, födande, nyföddhetsperiod samt föräldraskap och kvinnors hälsa i ett livscykel- och genusperspektiv. Inom huvudområdet studeras utredande och behandlande åtgärder.
+
+Barnmorskans verksamhet definieras i två internationella dokument: Essential Competencies for Midwifery Practice (ICM 2018) och International Code of Ethics for Midwife (2014)  Den svenska barnmorskans kompetens beskrivs i Svenska Barnmorskeförbundets Kompetensbeskrivning för legitimerad barnmorska (2018). Dessa dokument utgör grunden för barnmorskeprogrammet.
+
+Programmets första termin utgörs av teoretiska kurser där studenterna introduceras i såväl ny profession som till ett nytt ämnesområde. I dessa kurser introduceras teorier om såväl normala som komplicerade förlopp och processer relaterade till mänsklig reproduktion.  Under terminen introduceras evidens och vetenskapliga metoder samt det preventiva folkhälsoarbete som ingår i barnmorskans ansvarsområde. Under termin 2 och 3 tillämpas teorier i den verksamhetsförlagda utbildningen. Genom utbildningen sker en fördjupning av såväl teori som tillämpad kunskap genom att initialt fokusera på normala förlopp för att därefter övergå i att förstå, identifiera och handlägga komplicerade förlopp med successiv progression gällande frågeställningar, situationer, företeelser och behov i såväl teori som klinisk handläggning. Under handledning och med tilltagande självständighet skall studenten utveckla sin förmåga att bedöma kvinnan/barnets, familjens samt partnerns behov samt planera, vidta adekvata åtgärder, följa upp, utvärdera och dokumentera given omvårdnad i enlighet med gällande lagstiftning och riktlinjer. Studenten skall förena sina teoretiska och kliniska/praktiska kunskaper och fördjupa förståelsen av dem genom reflektion och analys, där integration av evidens och praktisk kunskap tydliggörs. Kommunikation, professionellt förhållningssätt och gott omdöme, genus, etnicitet och etiska frågor rörande sexuell, reproduktiv och perinatal hälsa beaktas i programmets kurser. Även barnmorskans roll i jämställdhetsarbetet belyses.
+
+## 3. Programmets kurser
+
+**Samtliga kurser är obligatoriska och ingår i huvudområdet sexuell, reproduktiv och perinatal hälsa. Programmets kurser presenteras terminsvis. Den inbördes ordningen mellan delkurser som innehåller verksamhetsförlagd utbildning i termin 2 och 3 kan variera inom aktuell termin.**
+
+- ) kurser som krävs för magisterexamen, 60 hp
+
+**Termin 1:**
+
+- [[SR3008|Profession, teori och metod]], 7,5 hp
+- [[SR3009|Sexuell och reproduktiv hälsa]], 9 hp
+- Gravididet, förlossning och postpartumvård 1, 7,5 hp
+- Gravididet, förlossning och postpartumvård 2, 6 hp
+
+**Termin 2:**
+
+- Gynekologisk och postpartumvård, verksamhetsförlagd utbildning, 9 hp
+- [[ASR29W|Förlossningsvård I, verksamhetsförlagd utbildning]], 9 hp
+- [[ASR29S|Examensarbete i sexuell, reproduktiv och perinatal hälsa]], 15 hp
+
+**Termin 3:**
+
+- [[SR3014|Förlossningsvård II, verksamhetsförlagd utbildning]], 13,5 hp
+- [[SR3015|Mödrahälsovård och folkhälsa, verksamhetsförlagd utbildning]], 13,5 hp
+
+## 4. Examensbenämning
+
+4. EXAMENSBENÄMNING
+
+Barnmorskeexamen (Postgraduate Diploma in Midwifery).
+
+Filosofie magisterexamen, huvudområde: Sexuell, reproduktiv och perinatal hälsa (Degree of Master of Science (60 credits), Main Field of Study: Sexual, Reproductive and Perinatal Health).
+
 ## 5. Behörighetskrav
 
 - Av Socialstyrelsen utfärdad svensk legitimation som sjuksköterska och kandidatexamen i vårdvetenskap alternativt omvårdnad eller sjuksköterskeexamen 180 hp inklusive 15 hp examensarbete
+
+## 6. Summary in English
+
+After completing the Postgraduate Programme in Midwifery, the student will fulfill the following requirements in addition to the national legislations mentioned   previously.
+
+The student will  
+- have knowledge regarding the importance of health supporting work in all areas of the reproductive cycle with respect of gender, ethnicity and conditions of living from a national as well as an international perspective. Also, religious and cultural aspects in relation to the different phases of reproductive life is   elaborated.  
+- provide care without supervision during normal pregnancy, birth and postpartum period according to current legislation and recommendations, and identify existent medical and psychosocial adversities.  
+   
+- counsel, plan and perform relevant examinations within the  responsibility  of  the  midwife, prescribe and administrate contraceptives in accordance with current legislation and recommendations without  supervision  
+- have the ability to search for relevant literature, analyze findings, critically evaluate research and adhere to evidence based knowledge  within midwifery,  and contribute  to  the development and research within sexual, reproductive and perinatal   health.  
+- show awareness of how norms and attitudes regarding sexuality and reproduction may effect treatment and care  
+- support and work for good sexual, reproductive and perinatal health during all stages of  the reproductive cycle among women and men by applying an emphatic and ethical attitude, and a holistic view of the individual’s situation of   life
+
+## 7. Övrigt
+
+Utbildningsplanen följer Europaparlamentets och Europarådets direktiv om ömsesidigt erkännande av yrkeskvalifikationer (2005/36/EG).
+
+Studenten skall under den verksamhetsförlagda utbildningen uppvisa dokumenterad vård av minst 100 kvinnor i samband med barnafödande varav vid minst 50 av dessa bistått kvinnans förlossning under handledning.
+
+För att uppnå Socialstyrelsens krav för förskrivningsrätt av läkemedel i födelsekontrollerande syfte skall studenten uppvisa minst 30 timmars dokumenterad och handledd handläggning inom preventivmedelsrådgivning. För att ansöka om förskrivningsrätt hos Socialstyrelsen ska även lokala riktlinjer hos respektive arbetsgivare uppfyllas.
+
+Verksamhetsförlagd utbildning genomförs inom de landsting där Högskolan Dalarna har avtal om utbildningsplatser. Verksamhetsförlagd utbildning på annan plats än studentens hemort kan medföra ökade omkostnader för resor samt tillfälligt boende för den enskilde studenten.
+
+Internationell samverkan bedrivs på Högskolan Dalarna, vilket innebär att studenter kan erbjudas deltagande i projekt av internationell karaktär samt deltagande i utbytesprogram.

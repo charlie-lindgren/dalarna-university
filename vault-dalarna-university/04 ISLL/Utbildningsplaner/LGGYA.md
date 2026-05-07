@@ -209,7 +209,6 @@ Den verksamhetsförlagda utbildningen har en progression där den studerande fö
 
 **Inkluderas andra ämnen än de vid Högskolan Dalarna kan fler begränsningar finnas.**
 
-
 ## 4. Examensbenämning
 
 Ämneslärarexamen med inriktning mot arbete i gymnasieskolan (Degree of Master of Arts/Science in Secondary Education – Upper Secondary School,), omfattande 300/330 högskolepoäng.
@@ -225,22 +224,3 @@ Ersätter tidigare utbildningsplan LPGYA.
 ### Programingångar
 
 ingång bild
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __

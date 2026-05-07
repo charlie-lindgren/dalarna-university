@@ -17,64 +17,6 @@ up: "[[IKS MOC]]"
 - **Fastställd:** Fastställd av Utbildnings- och Forskningsnämnden 2017-09-14 . Gäller fr.o.m.  HT 2018.
 - **Reviderad:** Reviderad 2023-06-20 . Revideringen är giltig fr.o.m. HT 2023.
 
-## 2. Huvudsaklig uppläggning
-
-Programmet är ettårigt och efter studierna kan studenterna erhålla en Ekonomie magisterexamen inom huvudområdet företagsekonomi. Inom huvudområdet företagsekonomi kan studenten välja mellan en av de tre ovan nämnda inriktningarna.
-
-Programmets första termin omfattar tre forskningsrelaterade kurser. De två första kurserna (Företagens samhällsansvar i ett internationellt perspektiv and Knowledge Management) är obligatoriska för alla studenter. Efter dessa två kurser väljer studenterna en valbar inriktningkurs: Internationell handel och marknadsföring eller Redovisning och styrning av internationellt verksamma företag eller Studier i Internationell Human Resource Management. 
-
-Som en förberedelse för examensarbetet läser studenterna kursen Forskningsdesign, vetenskapsteori och metod under vårterminen, där fokus ligger på hur man kan genomföra en litteraturstudie, förstå de underliggande vetenskapliga teorierna om företagsekonomi och fördjupa sig i sig olika metoder och strategier som är relevanta för en magisteruppsats. Programmet avslutas med examensarbetet där studenterna självständigt arbetar med referensramar, datainsamling, bearbetning och presentation av data.
-
-## 3. Programmets kurser
-
-**Alla kurser i programmet ingår i huvudområdet företagsekonomi.**
-
-
-**Obligatoriska kurser (30 hp):**
-
-- [[FÖ3042|Företagens samhällsansvar i ett internationellt perspektiv]], 7,5 hp
-- [[FÖ3034|Knowledge Management]], 7,5 hp
-- [[FÖ3043|Forskningsdesign, vetenskapsteori och metod]], 15 hp
-
-**Valbar Inriktningskurs (15hp):**
-
-- [[FÖ3036|Internationell handel och marknadsföring]], 15 hp
-- [[FÖ3032|Redovisning och styrning av internationellt verksamma företag]], 15 hp
-- Studier i Internationell Human Resource Management, 15 hp
-
-**Examensarbete (15 hp)**
-
-- [[AFÖ26H|Examensarbete för magisterexamen i företagsekonomi]], 15 hp
-
-## 4. Examensbenämning
-
-Ekonomie magisterexamen, huvudområde: Företagsekonomi [Degree of Master of Science (60 credits) in Business and Economics, Main Field of Study: Business Administration and Management.]
-
-## 7. Övrigt
-
-Programnamnet kan på begäran redovisas i examensbeviset, om den studerande med godkänt resultat har genomfört programmets kurser enligt utbildningsplanen.
-
-Vilken eller vilka av de valbara kurser som erbjuds kan variera.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __
-
 ## 1. Programmets mål
 
 ### 
@@ -177,6 +119,45 @@ Värderingsförmåga och förhållningssätt
 Efter genomgången inriktning ska studenten kunna:  
 - Bedöma hur olika redovisningsprinciper och praxis speglar företags och organisationers internationella verksamhet ur ett etiskt perspektiv.
 
+## 2. Huvudsaklig uppläggning
+
+Programmet är ettårigt och efter studierna kan studenterna erhålla en Ekonomie magisterexamen inom huvudområdet företagsekonomi. Inom huvudområdet företagsekonomi kan studenten välja mellan en av de tre ovan nämnda inriktningarna.
+
+Programmets första termin omfattar tre forskningsrelaterade kurser. De två första kurserna (Företagens samhällsansvar i ett internationellt perspektiv and Knowledge Management) är obligatoriska för alla studenter. Efter dessa två kurser väljer studenterna en valbar inriktningkurs: Internationell handel och marknadsföring eller Redovisning och styrning av internationellt verksamma företag eller Studier i Internationell Human Resource Management. 
+
+Som en förberedelse för examensarbetet läser studenterna kursen Forskningsdesign, vetenskapsteori och metod under vårterminen, där fokus ligger på hur man kan genomföra en litteraturstudie, förstå de underliggande vetenskapliga teorierna om företagsekonomi och fördjupa sig i sig olika metoder och strategier som är relevanta för en magisteruppsats. Programmet avslutas med examensarbetet där studenterna självständigt arbetar med referensramar, datainsamling, bearbetning och presentation av data.
+
+## 3. Programmets kurser
+
+**Alla kurser i programmet ingår i huvudområdet företagsekonomi.**
+
+
+**Obligatoriska kurser (30 hp):**
+
+- [[FÖ3042|Företagens samhällsansvar i ett internationellt perspektiv]], 7,5 hp
+- [[FÖ3034|Knowledge Management]], 7,5 hp
+- [[FÖ3043|Forskningsdesign, vetenskapsteori och metod]], 15 hp
+
+**Valbar Inriktningskurs (15hp):**
+
+- [[FÖ3036|Internationell handel och marknadsföring]], 15 hp
+- [[FÖ3032|Redovisning och styrning av internationellt verksamma företag]], 15 hp
+- Studier i Internationell Human Resource Management, 15 hp
+
+**Examensarbete (15 hp)**
+
+- [[AFÖ26H|Examensarbete för magisterexamen i företagsekonomi]], 15 hp
+
+## 4. Examensbenämning
+
+Ekonomie magisterexamen, huvudområde: Företagsekonomi [Degree of Master of Science (60 credits) in Business and Economics, Main Field of Study: Business Administration and Management.]
+
 ## 5. Behörighetskrav
 
 - Kandidatexamen med huvudområde inom samhällsvetenskapligt område eller tekniskt område minst 180 hp. Den sökandes totala utbildningsbakgrund måste innehålla minst 30 hp i företagsekonomiska kurser (t.ex. redovisning, marknadsföring, organisationsteori) varav minst 7,5 hp i forskningsmetod med inriktning samhällsvetenskap eller företagsekonomi och Engelska 6
+
+## 7. Övrigt
+
+Programnamnet kan på begäran redovisas i examensbeviset, om den studerande med godkänt resultat har genomfört programmets kurser enligt utbildningsplanen.
+
+Vilken eller vilka av de valbara kurser som erbjuds kan variera.

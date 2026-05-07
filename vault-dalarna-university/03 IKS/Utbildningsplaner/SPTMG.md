@@ -168,22 +168,3 @@ For a Degree of Bachelor the student shall
 ## 7. Övrigt
 
 Undervisningsspråket på programmet är svenska, men vissa av programmets kurser eller kursmoment kan komma att ges på engelska.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __

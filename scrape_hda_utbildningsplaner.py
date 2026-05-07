@@ -59,16 +59,9 @@ PLAN_EN_URL = "https://www.du.se/en/study-at-du/Program/curriculum/?code={code}"
 REQUEST_DELAY = 1.0
 RESULTS_PER_PAGE = 20
 
-# Sektioner i utbildningsplaner, i ordning.
-SECTION_ORDER = [
-    "1. Mål",
-    "2. Huvudsaklig uppläggning",
-    "3. Programmets kurser",
-    "4. Examensbenämning",
-    "5. Behörighet",
-    "6. Summary in English",
-    "7. Övrigt",
-]
+# Sektioner i utbildningsplaner numreras 1.–N. på du.se. Vi sorterar på den ledande
+# siffran i stället för att hårdkoda namnen, eftersom programmen varierar:
+# "1. Mål" / "1. Programmets mål", "5. Behörighet" / "5. Behörighetskrav", osv.
 
 # Mappning: nyckelord i Fastställd-text → institutionskod
 _FASTSTALLD_INSTITUTION_MAP = {
@@ -459,8 +452,15 @@ def extract_programme_metadata(soup: BeautifulSoup) -> dict:
     return meta
 
 
+SECTION_NUM_RE = re.compile(r"^(\d+)\.\s+\S")
+
+
 def extract_plan_sections(soup: BeautifulSoup) -> dict:
-    """Extraherar sektioner från utbildningsplan."""
+    """Extraherar sektioner från utbildningsplan.
+
+    Endast formellt numrerade sektioner (`1. …`, `2. …`, …) behålls.
+    Sidnavigering ("Megameny", "Hjälp och stöd" m.fl.) filtreras bort.
+    """
     article = soup.find("article", id="PageArticleArea")
     if not article:
         article = soup
@@ -468,6 +468,8 @@ def extract_plan_sections(soup: BeautifulSoup) -> dict:
     sections = {}
     for h2 in article.find_all("h2"):
         heading = h2.get_text(strip=True)
+        if not SECTION_NUM_RE.match(heading):
+            continue
 
         content_parts = []
         sibling = h2.find_next_sibling()
@@ -572,16 +574,22 @@ def build_programme_markdown(scraped: dict, kursplan_index: dict) -> str:
     if any(k in meta for k in meta_keys):
         lines.append("")
 
-    # Sektioner — kursavsnittet cross-linkas
-    for section_name in SECTION_ORDER:
-        text = sections.get(section_name, "")
+    # Sektioner — sortera på den ledande siffran (du.se varierar headerorden:
+    # ibland "1. Mål", ibland "1. Programmets mål"). Kursavsnittet (3.) cross-linkas.
+    def _sec_sort_key(name: str) -> tuple[int, str]:
+        m = SECTION_NUM_RE.match(name)
+        return (int(m.group(1)) if m else 999, name)
+
+    for section_name, text in sorted(sections.items(), key=lambda kv: _sec_sort_key(kv[0])):
         if not text:
             continue
 
         lines.append(f"## {section_name}")
         lines.append("")
 
-        if section_name == "3. Programmets kurser":
+        m = SECTION_NUM_RE.match(section_name)
+        section_num = int(m.group(1)) if m else None
+        if section_num == 3:
             matched = match_courses_to_codes(text, kursplan_index)
             if matched:
                 current_heading = None
@@ -611,14 +619,6 @@ def build_programme_markdown(scraped: dict, kursplan_index: dict) -> str:
                 lines.append(text)
                 lines.append("")
         else:
-            lines.append(text)
-            lines.append("")
-
-    # Övriga sektioner som inte är i ordningen
-    for name, text in sections.items():
-        if name not in SECTION_ORDER and text:
-            lines.append(f"## {name}")
-            lines.append("")
             lines.append(text)
             lines.append("")
 

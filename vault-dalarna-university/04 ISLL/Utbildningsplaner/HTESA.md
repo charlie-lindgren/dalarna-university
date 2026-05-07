@@ -16,65 +16,6 @@ up: "[[ISLL MOC]]"
 - **Programansvarig:** Annelie Ädel
 - **Fastställd:** Fastställd av prefekt för institutionen för språk, litteratur och lärande 2023-12-20 . Gäller fr.o.m.  HT 2023.
 
-## 2. Huvudsaklig uppläggning
-
-Utbildningen har som övergripande mål att erbjuda studenten fördjupning inom tillämpad språkvetenskap, vilket inbegriper “studiet av språk och språkrelaterade problem i specifika situationer där människor använder och lär sig språk” (översättning av nyckelformulering i tidskriften Applied Linguistics) och då specifikt i relation till det engelska språket. Programmet profilerar sig mot diskursanalys, andraspråksinlärning, sociolingvistik, korpuslingvistik och datormedierad kommunikation.  
-Programmets första termin inleds med kurserna Kärnområden i tillämpad engelsk lingvistik och Teman inom tillämpad engelsk lingvistik på vardera 7,5 hp. Sedan läses kurserna Diskursanalys på 7,5 hp samt Metoder inom tillämpad engelsk lingvistik på 7,5 hp. Den andra terminen inleds med kursen Engelsk språkvetenskap i tal och skrift på 7,5 hp och avslutas med Magisterexamensarbete i tillämpad engelsk lingvistik på 15 hp. Programmet innehåller en valfri kurs om 7,5 hp som kan läsas vid valfritt lärosäte och som lämpligen ska vara relevant för examensarbetet och väljas i samråd med programansvarig.
-
-## 3. Programmets kurser
-
-**Alla kurser utom den valfria ingår i huvudområdet Tillämpad engelsk lingvistik**
-
-- Kärnområden i tillämpad engelsk lingvistik (7, 5 hp
-- Teman inom tillämpad engelsk lingvistik (7, 5 hp
-- Diskursanalys (7, 5 hp
-- Metoder inom tillämpad engelsk lingvistik (7, 5 hp
-- Engelsk språkvetenskap i tal och skrift (7, 5 hp
-- Valfri kurs (7, 5 hp
-
-**- Magisterexamensarbete i tillämpad engelsk lingvistik (15 hp)**
-
-
-## 4. Examensbenämning
-
-Filosofie magisterexamen, huvudområde: Tillämpad engelsk lingvistik (Degree of Master of Arts (60 Credits), Main Field of Study: Applied English Linguistics).
-
-## 6. Summary in English
-
-On completion of the programme the student will be able to:
-
-Knowledge and understanding  
-– demonstrate knowledge of the area of applied English linguistics,  
-– demonstrate knowledge of key methods and main issues in applied English linguistics,
-
-Competence and skills  
-– gather and process complex theoretical material of relevance to the field of study and the chosen research question,  
-– with a high degree of independence plan, delimit and carry out a research task in the area and then defend the work,  
-– demonstrate the oral and written ability and proficiency necessary to report on and discuss in clear academic English his or her conclusions and the knowledge and arguments on which they are based,
-
-Judgement and approach  
-– demonstrate the ability to interact with others in a critical and constructive environment,  
-– demonstrate the ability to reflect on the ethical dimensions of research.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __
-
 ## 1. Programmets mål
 
 ### 
@@ -139,6 +80,45 @@ Värderingsförmåga och förhållningssätt
 – visa förmåga att interagera med andra i en kritiskt granskande och konstruktiv miljö,  
 – visa förmåga att reflektera över forskningsetiska dimensioner.
 
+## 2. Huvudsaklig uppläggning
+
+Utbildningen har som övergripande mål att erbjuda studenten fördjupning inom tillämpad språkvetenskap, vilket inbegriper “studiet av språk och språkrelaterade problem i specifika situationer där människor använder och lär sig språk” (översättning av nyckelformulering i tidskriften Applied Linguistics) och då specifikt i relation till det engelska språket. Programmet profilerar sig mot diskursanalys, andraspråksinlärning, sociolingvistik, korpuslingvistik och datormedierad kommunikation.  
+Programmets första termin inleds med kurserna Kärnområden i tillämpad engelsk lingvistik och Teman inom tillämpad engelsk lingvistik på vardera 7,5 hp. Sedan läses kurserna Diskursanalys på 7,5 hp samt Metoder inom tillämpad engelsk lingvistik på 7,5 hp. Den andra terminen inleds med kursen Engelsk språkvetenskap i tal och skrift på 7,5 hp och avslutas med Magisterexamensarbete i tillämpad engelsk lingvistik på 15 hp. Programmet innehåller en valfri kurs om 7,5 hp som kan läsas vid valfritt lärosäte och som lämpligen ska vara relevant för examensarbetet och väljas i samråd med programansvarig.
+
+## 3. Programmets kurser
+
+**Alla kurser utom den valfria ingår i huvudområdet Tillämpad engelsk lingvistik**
+
+- Kärnområden i tillämpad engelsk lingvistik (7, 5 hp
+- Teman inom tillämpad engelsk lingvistik (7, 5 hp
+- Diskursanalys (7, 5 hp
+- Metoder inom tillämpad engelsk lingvistik (7, 5 hp
+- Engelsk språkvetenskap i tal och skrift (7, 5 hp
+- Valfri kurs (7, 5 hp
+
+**- Magisterexamensarbete i tillämpad engelsk lingvistik (15 hp)**
+
+## 4. Examensbenämning
+
+Filosofie magisterexamen, huvudområde: Tillämpad engelsk lingvistik (Degree of Master of Arts (60 Credits), Main Field of Study: Applied English Linguistics).
+
 ## 5. Behörighetskrav
 
 - Filosofie kandidatexamen med språkvetenskaplig inriktning omfattande minst 180 hp innehållande en uppsats i ämnet Engelska. Innehållet i uppsatsen och den metod som används ska vara relevanta för vald specialisering i magisterprogrammet. Uppsatsen måste vara skriven på engelska. Dessutom krävs dokumenterad språkfärdighet i engelska i form av något av följande internationella erkända språktest: TOEFL-test, inklusive TWE, med resultatet minst 630 poäng (skriftligt prov), 267 poäng (databaserat prov), 109 poäng (internetbaserat prov); Cambridge Certificate of Proficiency (A eller B) eller IELTS med resultatet minst 7,5 totalt (och ingen del under 7)
+
+## 6. Summary in English
+
+On completion of the programme the student will be able to:
+
+Knowledge and understanding  
+– demonstrate knowledge of the area of applied English linguistics,  
+– demonstrate knowledge of key methods and main issues in applied English linguistics,
+
+Competence and skills  
+– gather and process complex theoretical material of relevance to the field of study and the chosen research question,  
+– with a high degree of independence plan, delimit and carry out a research task in the area and then defend the work,  
+– demonstrate the oral and written ability and proficiency necessary to report on and discuss in clear academic English his or her conclusions and the knowledge and arguments on which they are based,
+
+Judgement and approach  
+– demonstrate the ability to interact with others in a critical and constructive environment,  
+– demonstrate the ability to reflect on the ethical dimensions of research.

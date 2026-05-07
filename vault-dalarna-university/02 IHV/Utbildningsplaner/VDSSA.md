@@ -17,78 +17,6 @@ up: "[[IHV MOC]]"
 - **Fastställd:** Fastställd av Områdesnämnden Vård och omsorg 2018-12-04 . Gäller fr.o.m.  VT 2019.
 - **Reviderad:** Reviderad 2022-06-22 . Revideringen är giltig fr.o.m. HT 2022.
 
-## 2. Huvudsaklig uppläggning
-
-Programmet leder till två examina: Specialistsjuksköterskeexamen och Magisterexamen i huvudområdet Omvårdnad. Programmet är utformat för att ge kompetens att som distriktssköterska kunna utföra ett kvalificerat och självständigt arbete i kommuner, landsting och privata verksamheter. Studenten blir väl förberedd för att leda, utveckla och organisera arbete inom de verksamheter som utbildningen avser. Arbetsområdena kan vara skolhälsovård, barnhälsovård, hemsjukvård och mottagningsverksamhet.   
-Distriktssköterskans kompetens omfattar att ha fördjupade kunskaper inom omvårdnad för att förstå individers/familjers resurser i ett hälsofrämjande perspektiv, samt att förstå den sociala kontextens betydelse och hur psykosociala förhållanden påverkar hälsan.
-
-Centralt i distriktssköterskans yrkesutövande är att arbeta hälsofrämjande med individer i alla åldrar. Utbildningens profilområde är hälsokommunikation vilket innebär att utgå från patientens behov och kunskap samt att göra individen delaktig i vård och behandling. Viktigt är att medvetandegöra individens riskbeteenden, dess konsekvenser och vilka hälsovinster en levnadsvaneförändring skulle innebära.
-
-I termin 1 ges den grundläggande teoretiska grunden för hälsofrämjande omvårdnad. Studenten får från början utveckla de färdigheter som behövs för att tillgodogöra sig forskningsresultat och tillämpa dessa kunskaper i omvårdnadsarbetet samt delta i forskning och förbättringsarbete. 
-
-Under termin 2 integreras teoretiska och kliniska studier på ett sätt som ställer krav på eget ansvar och som lägger grunden till reflekterande förmåga och aktivt kunskapssökande. I den verksamhetsförlagda utbildningen (9 högskolepoäng inom kursen Hälsa och omvårdnad av barn och ungdom och 9 högskolepoäng inom kursen Hälsa och omvårdnad av vuxna och äldre) ska studenten tillämpa sina fördjupade teoretiska kunskaper i omvårdnadsarbetet. Det innefattar även att bedöma komplexa behov av omvårdnad och självständigt utföra kliniska undersökningar samt medverka vid vård i livets slutskede. Studenten stärks i det livslånga lärandet relaterat till akademisk kompetens och fortsatt yrkesverksamhet.
-
-Termin 3 omfattas av ett examensarbete inom huvudområdet omvårdnad där studenten får tillämpa forskningsmetoder och fördjupa sina kunskaper i ett självständigt vetenskapligt arbete.
-
-## 3. Programmets kurser
-
-**Samtliga kurser tillhör huvudområdet omvårdnad, förutom ”Förskrivningsrätt för vissa läkemedel och förbrukningsartiklar” som tillhör medicinsk vetenskap. Alla kurser ges på avancerad nivå.**
-
-
-**Termin 1**
-
-- [[AVÅ2A3|Evidensbaserad vård och ledarskap]], 7,5 högskolepoäng
-- [[AVÅ2A4|Folkhälsa och folkhälsoarbete]], 7,5 högskolepoäng
-- [[AMC2BG|Förskrivningsrätt för vissa läkemedel och förbrukningsartiklar]], 15 högskolepoäng
-
-**Termin 2**
-
-- [[AVÅ2A5|Hälsa och omvårdnad av barn och ungdom]], 15 högskolepoäng
-- [[AVÅ2BH|Hälsa och omvårdnad av vuxna och äldre]], 15 högskolepoäng
-
-**Termin 3**
-
-- [[GVÅ36W|Examensarbete i omvårdnad]], 15 högskolepoäng
-
-## 4. Examensbenämning
-
-Specialistsjuksköterskeexamen - inriktning mot distriktssköterska (Postgraduate Diploma in Specialist Nursing – Primary Health Care) samt Filosofie magisterexamen, huvudområde: Omvårdnad (Degree of Master of Science, 60 credits, Main Field of Study: Nursing Science).
-
-## 6. Summary in English
-
-After completing the program the student must:  
-- demonstrate the ability to evaluate and apply knowledge of person-centered care regarding individuals of all ages with concerning their life-world, knowledge and their own resources  
-- demonstrate in-depth knowledge of evidence-based care and management with focus on improvement based district nursing profession and in interdisciplinary collaboration  
-- demonstrate the ability to evaluate and apply knowledge of sustainable development in relation to public health and health care  
-- demonstrate the ability to evaluate and apply an ethical approach in meeting with individuals of all ages in relation to dignity, privacy, self-determination and well-being  
-- demonstrate the knowledge in pharmacology and pathology that is necessary for prescribing certain medications and complimentary consumables in accordance with the Swedish National Board of Health and Welfare; SOSFS 2001:16 and 2001:5  
-- demonstrate in-depth knowledge of evidence-based health communication so that the conversation develops the individual‘s health knowledge, self-care and motivates to change of living habits with the aim of promoting health and preventing ill health.
-
-## 7. Övrigt
-
-Utbildningsprogrammet bedrivs i en nätbaserad lärmiljö där olika inlärningsverktyg skapar gynnsamma förutsättningar för möte mellan studenter och lärare. Studierna bedrivs genom nätbaserade träffar, campusträffar och verksamhetsförlagd utbildning. 
-
-Möjlighet finns att efter godkännande av programledning genomföra delar av studierna vid ett lärosäte utomlands.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __
-
 ## 1. Programmets mål
 
 ### 
@@ -164,6 +92,59 @@ Efter avslutad utbildning skall studenten:
 - visa sådan kunskap inom farmakologi och sjukdomslära som krävs för att förskriva vissa läkemedel och kostnadsfria förbrukningsartiklar i enlighet med Socialstyrelsens direktiv i SOSFS 2001:16 och 2001:5  
  -visa fördjupad kunskap i evidensbaserad hälsokommunikation så att samtalet utvecklar den enskilde individens kunskap om hälsa, om egenvård och som motiverar till levnadsvaneförändringar med syftet att främja hälsa och förebygga ohälsa.
 
+## 2. Huvudsaklig uppläggning
+
+Programmet leder till två examina: Specialistsjuksköterskeexamen och Magisterexamen i huvudområdet Omvårdnad. Programmet är utformat för att ge kompetens att som distriktssköterska kunna utföra ett kvalificerat och självständigt arbete i kommuner, landsting och privata verksamheter. Studenten blir väl förberedd för att leda, utveckla och organisera arbete inom de verksamheter som utbildningen avser. Arbetsområdena kan vara skolhälsovård, barnhälsovård, hemsjukvård och mottagningsverksamhet.   
+Distriktssköterskans kompetens omfattar att ha fördjupade kunskaper inom omvårdnad för att förstå individers/familjers resurser i ett hälsofrämjande perspektiv, samt att förstå den sociala kontextens betydelse och hur psykosociala förhållanden påverkar hälsan.
+
+Centralt i distriktssköterskans yrkesutövande är att arbeta hälsofrämjande med individer i alla åldrar. Utbildningens profilområde är hälsokommunikation vilket innebär att utgå från patientens behov och kunskap samt att göra individen delaktig i vård och behandling. Viktigt är att medvetandegöra individens riskbeteenden, dess konsekvenser och vilka hälsovinster en levnadsvaneförändring skulle innebära.
+
+I termin 1 ges den grundläggande teoretiska grunden för hälsofrämjande omvårdnad. Studenten får från början utveckla de färdigheter som behövs för att tillgodogöra sig forskningsresultat och tillämpa dessa kunskaper i omvårdnadsarbetet samt delta i forskning och förbättringsarbete. 
+
+Under termin 2 integreras teoretiska och kliniska studier på ett sätt som ställer krav på eget ansvar och som lägger grunden till reflekterande förmåga och aktivt kunskapssökande. I den verksamhetsförlagda utbildningen (9 högskolepoäng inom kursen Hälsa och omvårdnad av barn och ungdom och 9 högskolepoäng inom kursen Hälsa och omvårdnad av vuxna och äldre) ska studenten tillämpa sina fördjupade teoretiska kunskaper i omvårdnadsarbetet. Det innefattar även att bedöma komplexa behov av omvårdnad och självständigt utföra kliniska undersökningar samt medverka vid vård i livets slutskede. Studenten stärks i det livslånga lärandet relaterat till akademisk kompetens och fortsatt yrkesverksamhet.
+
+Termin 3 omfattas av ett examensarbete inom huvudområdet omvårdnad där studenten får tillämpa forskningsmetoder och fördjupa sina kunskaper i ett självständigt vetenskapligt arbete.
+
+## 3. Programmets kurser
+
+**Samtliga kurser tillhör huvudområdet omvårdnad, förutom ”Förskrivningsrätt för vissa läkemedel och förbrukningsartiklar” som tillhör medicinsk vetenskap. Alla kurser ges på avancerad nivå.**
+
+
+**Termin 1**
+
+- [[AVÅ2A3|Evidensbaserad vård och ledarskap]], 7,5 högskolepoäng
+- [[AVÅ2A4|Folkhälsa och folkhälsoarbete]], 7,5 högskolepoäng
+- [[AMC2BG|Förskrivningsrätt för vissa läkemedel och förbrukningsartiklar]], 15 högskolepoäng
+
+**Termin 2**
+
+- [[AVÅ2A5|Hälsa och omvårdnad av barn och ungdom]], 15 högskolepoäng
+- [[AVÅ2BH|Hälsa och omvårdnad av vuxna och äldre]], 15 högskolepoäng
+
+**Termin 3**
+
+- [[GVÅ36W|Examensarbete i omvårdnad]], 15 högskolepoäng
+
+## 4. Examensbenämning
+
+Specialistsjuksköterskeexamen - inriktning mot distriktssköterska (Postgraduate Diploma in Specialist Nursing – Primary Health Care) samt Filosofie magisterexamen, huvudområde: Omvårdnad (Degree of Master of Science, 60 credits, Main Field of Study: Nursing Science).
+
 ## 5. Behörighetskrav
 
 - Av Socialstyrelsen utfärdad svensk legitimation som sjuksköterska samt kandidatexamen eller sjuksköterskeexamen om minst 180 hp med minst 90 hp inom ämnet omvårdnad/vårdvetenskap varav 15 hp utgörs av ett examensarbete. Dessutom krävs yrkesverksamhet som sjuksköterska motsvarande minst 12 månaders heltidstjänstgöring
+
+## 6. Summary in English
+
+After completing the program the student must:  
+- demonstrate the ability to evaluate and apply knowledge of person-centered care regarding individuals of all ages with concerning their life-world, knowledge and their own resources  
+- demonstrate in-depth knowledge of evidence-based care and management with focus on improvement based district nursing profession and in interdisciplinary collaboration  
+- demonstrate the ability to evaluate and apply knowledge of sustainable development in relation to public health and health care  
+- demonstrate the ability to evaluate and apply an ethical approach in meeting with individuals of all ages in relation to dignity, privacy, self-determination and well-being  
+- demonstrate the knowledge in pharmacology and pathology that is necessary for prescribing certain medications and complimentary consumables in accordance with the Swedish National Board of Health and Welfare; SOSFS 2001:16 and 2001:5  
+- demonstrate in-depth knowledge of evidence-based health communication so that the conversation develops the individual‘s health knowledge, self-care and motivates to change of living habits with the aim of promoting health and preventing ill health.
+
+## 7. Övrigt
+
+Utbildningsprogrammet bedrivs i en nätbaserad lärmiljö där olika inlärningsverktyg skapar gynnsamma förutsättningar för möte mellan studenter och lärare. Studierna bedrivs genom nätbaserade träffar, campusträffar och verksamhetsförlagd utbildning. 
+
+Möjlighet finns att efter godkännande av programledning genomföra delar av studierna vid ett lärosäte utomlands.

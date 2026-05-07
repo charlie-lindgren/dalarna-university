@@ -16,96 +16,6 @@ up: "[[IIT MOC]]"
 - **Programansvarig:** Puneet Saini
 - **Fastställd:** Fastställd av Områdesnämnden Teknik och naturvetenskap 2018-10-11 . Gäller fr.o.m.  VT 2019.
 
-## 2. Huvudsaklig uppläggning
-
-Programmet är en ettårig magisterutbildning (60 hp) inom området energiteknik. Det består av nio kurser på avancerad nivå samt ett examensarbete, allt på engelska. Kurserna tillhör energiteknik (30 hp) och byggteknik (30 hp). Målet med utbildningen är att förbereda studenterna för arbete inom det tvärvetenskapliga området energi-, och byggnadsteknik, och/eller deltagande inom tillhörande forskningsområden.
-
-Programmet startar med att introducera grunderna för energieffektivt byggande: byggnadsskalets betydelse och uppbyggnad, vikten av termisk komfort och solstrålningens inverkan på byggnaders energibehov. Efter att ha lärt sig grunderna (som byggnadsfysik) omsätts kunskapen för att få verktyg för att kunna designa energieffektiva byggnader. Programmet innehåller kurser om energieffektiva installationssystem och lågenergibyggnader. Byggnadssimuleringsprogrammet IDA-ICE används för att förstå hur olika material och energibesparande åtgärder påverkar byggnadens energianvändning, samtidigt som det ger studenterna en förståelse för fördelarna och begränsningarna av byggnadssimulering. Studenternas perspektiv på energieffektiva byggnader breddas genom kurser i hur hållbar samhällsplanering kan användas som verktyg för att min ska den byggda miljöns energianvändning och miljöpåverkan. Efter programmets genomförande kommer studenterna att vara kunniga i olika energi- och miljöklassningssystem för byggnader och byggd miljö.
-
-Programmet avslutas med skrivandet av ett examensarbete. Examensarbetet kan utföras vid Högskolan eller, efter godkännande, i samarbete med ett företag eller annan organisation i Sverige eller utomlands.
-
-## 3. Programmets kurser
-
-**Alla kurser ges på avancerad nivå.**
-
-
-**Termin 1**
-
-- [[BY3001|Energieffektiva byggnader]], 7,5 hp
-- [[AEG2B6|Solstrålning och solgeometri]], 5,0 hp
-- [[ABY27W|Introduktion till bioklimatisk design]], 2,5 hp
-- [[ABY22W|Byggnaders energiprestanda – simulering och analys]], 5.0 hp
-- [[ABY22V|Energieffektiva installationssystem]], 5.0 hp
-- [[EG3014|Utformning av solenergibyggnader]], 5,0 hp
-
-**Termin 2**
-
-- [[ABY2BL|Hållbar samhällsplanering]], 7,5 hp
-- [[EG3019|Livscykelanalys och livscykelkostnadsanalys]], 5,0 hp
-- [[BY3004|Miljöklassningsverktyg]], 2,5 hp
-- [[EG3020|Examensarbete för magisterexamen i Energiteknik med fokus på energieffektivisering inom byggd miljö]], 15,0 hp
-
-## 4. Examensbenämning
-
-Teknologie magisterexamen, huvudområde: Energiteknik (Degree of Master of Science (60 credits), Main Field of Study: Energy Technology).
-
-## 6. Summary in English
-
-After completing the programme, the student will be able to:
-
-_Knowledge and understanding_
-
-  - demonstrate a basic understanding of how geographical location, adjacent environment and climate influences the solar and other renewable energy potential of premises,
-
-  - demonstrate a broad knowledge of low-energy building design strategies: their focus, their approach and main characteristics (i.e. advantages, disadvantages, applicability and limitations),
-
-  - demonstrate an in-depth knowledge of various energy efficiency measures and the ability to select the right ones for specific situations while taking into considerations material properties, building structures and technologies, economic and environmental costs, as well as personal or societal preferences,
-
-  - demonstrate a working knowledge of various sustainability certification schemes and energy efficiency assessment tools,
-
-  - demonstrate a critical understanding of how the technological, economic and social contexts—such as the available or dominant energy system, the existing urban infrastructure, the local building tradition, the development rules and regulations, and the individual or social attitudes—influence energy conservation targets, approaches and outcomes.
-
-_Competence and skills_
-
-  - integrate knowledge encompassing various physical scales and disciplines that influence the energy efficiency of the built environment, as well as to critically assess specific problems and situations,
-
-  - demonstrate the ability to identify problems, and to design and implement a plan—using suitable methods—to remedy the situation within a given timeframe,
-
-  - demonstrate the ability to deliver energy efficiency concepts and proposals during the design or retrofitting process of a building and to present the knowledge and the rationale behind the proposal to fellow professionals, to the public and to various other stakeholders,
-
-  - demonstrate advanced skills required for both participating in research and development and executing qualified independent work aiming to improve the energy efficiency of the built environment.
-
-_Judgment and approach_
-
-  - demonstrate the ability to critically evaluate design proposals and existing buildings, and to propose informed solutions for improving their thermal and environmental performance in a way that is both socially and environmentally sustainable and is also ethically legitimate,
-
-  - demonstrate a broad knowledge of the technical, social, economic and ethical drivers and barriers to achieving energy efficiency in the built environment,
-
-  - demonstrate the ability to identify personal needs for supplemental knowledge and to take responsibility for the development of his or her own knowledge.
-
-## 7. Övrigt
-
-Utbildningen ges på engelska.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __
-
 ## 1. Programmets mål
 
 ### 
@@ -186,6 +96,77 @@ _Värderingsförmåga och förhållningssätt_
 
   - Visa förmåga att identifiera personliga behov av kompletterande kunskap och ta ansvar för utvecklingen av sin egen kunskap.
 
+## 2. Huvudsaklig uppläggning
+
+Programmet är en ettårig magisterutbildning (60 hp) inom området energiteknik. Det består av nio kurser på avancerad nivå samt ett examensarbete, allt på engelska. Kurserna tillhör energiteknik (30 hp) och byggteknik (30 hp). Målet med utbildningen är att förbereda studenterna för arbete inom det tvärvetenskapliga området energi-, och byggnadsteknik, och/eller deltagande inom tillhörande forskningsområden.
+
+Programmet startar med att introducera grunderna för energieffektivt byggande: byggnadsskalets betydelse och uppbyggnad, vikten av termisk komfort och solstrålningens inverkan på byggnaders energibehov. Efter att ha lärt sig grunderna (som byggnadsfysik) omsätts kunskapen för att få verktyg för att kunna designa energieffektiva byggnader. Programmet innehåller kurser om energieffektiva installationssystem och lågenergibyggnader. Byggnadssimuleringsprogrammet IDA-ICE används för att förstå hur olika material och energibesparande åtgärder påverkar byggnadens energianvändning, samtidigt som det ger studenterna en förståelse för fördelarna och begränsningarna av byggnadssimulering. Studenternas perspektiv på energieffektiva byggnader breddas genom kurser i hur hållbar samhällsplanering kan användas som verktyg för att min ska den byggda miljöns energianvändning och miljöpåverkan. Efter programmets genomförande kommer studenterna att vara kunniga i olika energi- och miljöklassningssystem för byggnader och byggd miljö.
+
+Programmet avslutas med skrivandet av ett examensarbete. Examensarbetet kan utföras vid Högskolan eller, efter godkännande, i samarbete med ett företag eller annan organisation i Sverige eller utomlands.
+
+## 3. Programmets kurser
+
+**Alla kurser ges på avancerad nivå.**
+
+
+**Termin 1**
+
+- [[BY3001|Energieffektiva byggnader]], 7,5 hp
+- [[AEG2B6|Solstrålning och solgeometri]], 5,0 hp
+- [[ABY27W|Introduktion till bioklimatisk design]], 2,5 hp
+- [[ABY22W|Byggnaders energiprestanda – simulering och analys]], 5.0 hp
+- [[ABY22V|Energieffektiva installationssystem]], 5.0 hp
+- [[EG3014|Utformning av solenergibyggnader]], 5,0 hp
+
+**Termin 2**
+
+- [[ABY2BL|Hållbar samhällsplanering]], 7,5 hp
+- [[EG3019|Livscykelanalys och livscykelkostnadsanalys]], 5,0 hp
+- [[BY3004|Miljöklassningsverktyg]], 2,5 hp
+- [[EG3020|Examensarbete för magisterexamen i Energiteknik med fokus på energieffektivisering inom byggd miljö]], 15,0 hp
+
+## 4. Examensbenämning
+
+Teknologie magisterexamen, huvudområde: Energiteknik (Degree of Master of Science (60 credits), Main Field of Study: Energy Technology).
+
 ## 5. Behörighetskrav
 
 - Ingenjörs- eller kandidatexamen inom bygg- eller energiområdet (t ex energi-, bygg-, maskin- och konstruktionsteknik eller arkitektur) om minst 180 hp och Engelska 6
+
+## 6. Summary in English
+
+After completing the programme, the student will be able to:
+
+_Knowledge and understanding_
+
+  - demonstrate a basic understanding of how geographical location, adjacent environment and climate influences the solar and other renewable energy potential of premises,
+
+  - demonstrate a broad knowledge of low-energy building design strategies: their focus, their approach and main characteristics (i.e. advantages, disadvantages, applicability and limitations),
+
+  - demonstrate an in-depth knowledge of various energy efficiency measures and the ability to select the right ones for specific situations while taking into considerations material properties, building structures and technologies, economic and environmental costs, as well as personal or societal preferences,
+
+  - demonstrate a working knowledge of various sustainability certification schemes and energy efficiency assessment tools,
+
+  - demonstrate a critical understanding of how the technological, economic and social contexts—such as the available or dominant energy system, the existing urban infrastructure, the local building tradition, the development rules and regulations, and the individual or social attitudes—influence energy conservation targets, approaches and outcomes.
+
+_Competence and skills_
+
+  - integrate knowledge encompassing various physical scales and disciplines that influence the energy efficiency of the built environment, as well as to critically assess specific problems and situations,
+
+  - demonstrate the ability to identify problems, and to design and implement a plan—using suitable methods—to remedy the situation within a given timeframe,
+
+  - demonstrate the ability to deliver energy efficiency concepts and proposals during the design or retrofitting process of a building and to present the knowledge and the rationale behind the proposal to fellow professionals, to the public and to various other stakeholders,
+
+  - demonstrate advanced skills required for both participating in research and development and executing qualified independent work aiming to improve the energy efficiency of the built environment.
+
+_Judgment and approach_
+
+  - demonstrate the ability to critically evaluate design proposals and existing buildings, and to propose informed solutions for improving their thermal and environmental performance in a way that is both socially and environmentally sustainable and is also ethically legitimate,
+
+  - demonstrate a broad knowledge of the technical, social, economic and ethical drivers and barriers to achieving energy efficiency in the built environment,
+
+  - demonstrate the ability to identify personal needs for supplemental knowledge and to take responsibility for the development of his or her own knowledge.
+
+## 7. Övrigt
+
+Utbildningen ges på engelska.

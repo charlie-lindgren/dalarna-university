@@ -105,22 +105,3 @@ The programme offers an opportunity for students to specialise in a specific are
 ## 7. Övrigt
 
 Utbildningsprogrammets namn kan på begäran synliggöras i examensbeviset, om studenten godkänts i alla obligatoriska kurser som utbildningsplanen omfattar.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __

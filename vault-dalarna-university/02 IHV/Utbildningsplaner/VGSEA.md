@@ -16,69 +16,6 @@ up: "[[IHV MOC]]"
 - **Programansvarig:** Ulrika Byrskog
 - **Fastställd:** Fastställd av Utbildnings- och Forskningsnämnden 2021-03-04 . Gäller fr.o.m.  HT 2021.
 
-## 2. Huvudsaklig uppläggning
-
-Magisterprogrammet är utformat för att ge en global fördjupning inom ämnet sexuell, reproduktiv och perinatal hälsa. Första terminens kurser ger en översikt över området sexuell, reproduktiv hälsa och rättigheter ur ett globalt perspektiv och innebär parallellt fördjupning i relaterad forskningsmetodik och strategier för implementering av evidensbaserad kunskap. Under den andra terminen fokuserar kurserna på hälso-sjukvårds systemforskning, ledarskap och organisation. Andra delen av andra termin ägnas helt åt examensarbetet. Detta inkluderar djupgående studier inom ett valt område, analys och tolkning, framskrivande av examensarbetet, en presentation och ett försvar av examensarbetet vid ett seminarium.
-
-Bedömning av studentens kunskaper sker, förutom genom progression i examensarbetet, med hjälp av muntliga examinationer i seminarieform, skriftliga uppgifter och individuell skriftlig tentamen. Examinationsformerna framgår av respektive kursplan. Undervisningsspråket är engelska.
-
-## 3. Programmets kurser
-
-**I programmet ingår sex kurser. Samtliga kurser är på avancerad nivå och ingår i huvudområdet Sexuell, reproduktiv och perinatal hälsa.**
-
-
-**Termin1**
-
-- [[ASR2CE|Global sexuell reproduktiv hälsa och rättigheter]], 15 hp
-- [[ASR2CF|Forskningsmetodik inom global sexuell och reproduktiv hälsa]], 7,5 hp
-- Strategier för implementering av förbättringsarbete i hälso-sjukvård, 7,5 hp
-
-**Termin 2**
-
-- [[ASR25T|Hälso- och sjukvårdssystemforskning i låg-, medel- och höginkomstkontext]], 7,5 hp
-- [[ASR25U|Ledarskap och organisation inom hälso- och sjukvårdssystem]], 7,5 hp
-- [[ASR29S|Examensarbete i sexuell, reproduktiv och perinatal hälsa]], 15 hp
-
-## 4. Examensbenämning
-
-Filosofie magisterexamen, Huvudområde: Sexuell, reproduktiv och perinatal hälsa.
-
-Degree of Master of Science (60 hp), Main field of study: Sexual, Reproductive and Perinatal Health.
-
-## 6. Summary in English
-
-Upon completion of the programme, the student shall be able to:  
-   
-• demonstrate advanced knowledge of global sexual and reproductive health based on a number of disciplinary perspectives, including a gender-equity perspective, theories and methods.  
-• demonstrate advanced knowledge of social and cultural aspects in relation to global sexual and reproductive health, and in such a way integrate aspects of global sustainability development and human rights.  
-• demonstrate an ability to use research and subject knowledge in the design of field work.  
-• demonstrate an ability to independently search for and critically review scientific publications, and to review information with a critical review of sources.  
-• demonstrate advanced knowledge both of research methods used to collect evidence- based information and of the knowledge transfer of evidence-based information into health policies and interventions in clinical practice.  
-• demonstrate awareness of the significance of leadership in the pursuit of improved sexual, reproductive health and rights, and sustainable development that will ensure a sound and healthy environment, economic and social welfare, and justice for present and future generations.
-
-## 7. Övrigt
-
-Programnamnet kan på begäran redovisas i examensbeviset om den studerande med godkänt resultat har genomför programmets kurser enligt utbildningsplanen.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __
-
 ## 1. Programmets mål
 
 ### 
@@ -121,6 +58,50 @@ Efter avslutad utbildning skall studenten:
 • Visa fördjupad kunskap om olika forskningsmetoder för att samla evidensbaserad information och om kunskapsöverföring av vetenskaplig evidens till hälsopolicy och - interventioner i praktik.  
 • Visa insikt om ledarskapets betydelse för en förbättrad sexuell, reproduktiv hälsa och rättigheter och en hållbar utveckling som innebär att nuvarande och kommande generationer tillförsäkras en hälsosam och god miljö, ekonomisk och social välfärd och rättvisa.
 
+## 2. Huvudsaklig uppläggning
+
+Magisterprogrammet är utformat för att ge en global fördjupning inom ämnet sexuell, reproduktiv och perinatal hälsa. Första terminens kurser ger en översikt över området sexuell, reproduktiv hälsa och rättigheter ur ett globalt perspektiv och innebär parallellt fördjupning i relaterad forskningsmetodik och strategier för implementering av evidensbaserad kunskap. Under den andra terminen fokuserar kurserna på hälso-sjukvårds systemforskning, ledarskap och organisation. Andra delen av andra termin ägnas helt åt examensarbetet. Detta inkluderar djupgående studier inom ett valt område, analys och tolkning, framskrivande av examensarbetet, en presentation och ett försvar av examensarbetet vid ett seminarium.
+
+Bedömning av studentens kunskaper sker, förutom genom progression i examensarbetet, med hjälp av muntliga examinationer i seminarieform, skriftliga uppgifter och individuell skriftlig tentamen. Examinationsformerna framgår av respektive kursplan. Undervisningsspråket är engelska.
+
+## 3. Programmets kurser
+
+**I programmet ingår sex kurser. Samtliga kurser är på avancerad nivå och ingår i huvudområdet Sexuell, reproduktiv och perinatal hälsa.**
+
+
+**Termin1**
+
+- [[ASR2CE|Global sexuell reproduktiv hälsa och rättigheter]], 15 hp
+- [[ASR2CF|Forskningsmetodik inom global sexuell och reproduktiv hälsa]], 7,5 hp
+- Strategier för implementering av förbättringsarbete i hälso-sjukvård, 7,5 hp
+
+**Termin 2**
+
+- [[ASR25T|Hälso- och sjukvårdssystemforskning i låg-, medel- och höginkomstkontext]], 7,5 hp
+- [[ASR25U|Ledarskap och organisation inom hälso- och sjukvårdssystem]], 7,5 hp
+- [[ASR29S|Examensarbete i sexuell, reproduktiv och perinatal hälsa]], 15 hp
+
+## 4. Examensbenämning
+
+Filosofie magisterexamen, Huvudområde: Sexuell, reproduktiv och perinatal hälsa.
+
+Degree of Master of Science (60 hp), Main field of study: Sexual, Reproductive and Perinatal Health.
+
 ## 5. Behörighetskrav
 
 - Kandidatexamen om 180 hp i ett samhällsvetenskapligt/hälsovetenskapligt/ekonomiskt huvudområde och Engelska 6
+
+## 6. Summary in English
+
+Upon completion of the programme, the student shall be able to:  
+   
+• demonstrate advanced knowledge of global sexual and reproductive health based on a number of disciplinary perspectives, including a gender-equity perspective, theories and methods.  
+• demonstrate advanced knowledge of social and cultural aspects in relation to global sexual and reproductive health, and in such a way integrate aspects of global sustainability development and human rights.  
+• demonstrate an ability to use research and subject knowledge in the design of field work.  
+• demonstrate an ability to independently search for and critically review scientific publications, and to review information with a critical review of sources.  
+• demonstrate advanced knowledge both of research methods used to collect evidence- based information and of the knowledge transfer of evidence-based information into health policies and interventions in clinical practice.  
+• demonstrate awareness of the significance of leadership in the pursuit of improved sexual, reproductive health and rights, and sustainable development that will ensure a sound and healthy environment, economic and social welfare, and justice for present and future generations.
+
+## 7. Övrigt
+
+Programnamnet kan på begäran redovisas i examensbeviset om den studerande med godkänt resultat har genomför programmets kurser enligt utbildningsplanen.

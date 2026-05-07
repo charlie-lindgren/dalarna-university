@@ -200,22 +200,3 @@ T11: Examensarbete
 ## 7. Övrigt
 
 Den verksamhetsförlagda utbildningen genomförs inom ramen för egen, för utbildningen relevant, tjänst. Under VFU ska studenten följa de överenskommelser och styrdokument som finns vid högskolan och de som finns för den organisation där den verksamhetsförlagda utbildningen genomförs. Det kan exempelvis innebära att högskolan kan behöva göra undantag från platsgarantin på programmet vad gäller VFU, att utdrag ur belastningsregistret krävs samt att det finns reglerat vad som händer om en student får sin VFU avbruten. Mer information om detta finns på programmets webbsida, i lärplattform samt i respektive kursplan.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __

@@ -422,7 +422,6 @@ Examen avsedd för undervisning i grundskolans årskurs 1-7, grundskolans årsku
 
 ******För student som uppfyller kravet på självständigt arbete inom ramen för ämnesstudier.**
 
-
 ## 4. Examensbenämning
 
 Efter genomgånget utbildningsprogram kan studenten, efter ansökan, erhålla examen enligt 2011 års examensordning (Grundlärarexamen, Ämneslärarexamen, Yrkeslärarexamen) eller Lärarexamen enligt 2001 och 2007 års examensordning eller en examen motsvarande tidigare påbörjad utbildning till lärare (påbörjad före 2001). (Se Yrkesexamina – examensbeskrivningar C 2025/1028).
@@ -462,22 +461,3 @@ Kurser i programmet kan komma att ges av andra lärosäten.
 Undervisningsspråket i programmet är svenska, men vissa av programmets kurser eller kursmoment kan ges på andra språk. 
 
 Ersätter tidigare utbildningsplan LVALG och LVILA.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __

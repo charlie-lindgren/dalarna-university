@@ -16,6 +16,56 @@ up: "[[IKS MOC]]"
 - **Programansvarig:** Ulf Hansson Maria Melin
 - **Fastställd:** Fastställd av Områdesnämnden Samhällsvetenskap 2021-06-16 . Gäller fr.o.m.  HT 2021.
 
+## 1. Programmets mål
+
+### 
+1.1 Mål enligt Högskolelagen (1992:1434), 1 kap. 8 §:
+
+Utbildning på grundnivå ska väsentligen bygga på de kunskaper som eleverna får på nationella program i gymnasieskolan eller motsvarande kunskaper.
+
+Utbildning på grundnivå ska utveckla studenternas  
+– förmåga att göra självständiga och kritiska bedömningar,  
+– förmåga att självständigt urskilja, formulera och lösa problem, och  
+– beredskap att möta förändringar i arbetslivet.
+
+Inom det område som utbildningen avser ska studenterna, utöver kunskaper  
+och färdigheter, utveckla förmåga att  
+– söka och värdera kunskap på vetenskaplig nivå,  
+– följa kunskapsutvecklingen, och  
+– utbyta kunskaper även med personer utan specialkunskaper inom området.
+
+### 
+1.2 Examensmål enligt Högskoleförordningen (1993:100), bilaga 2:
+
+Kunskap och förståelse  
+För kandidatexamen ska studenten  
+- visa kunskap och förståelse inom huvudområdet för utbildningen, inbegripet metoder om områdets vetenskapliga grund, kunskap om tillämpbara metoder inom området, fördjupning inom någon del av området samt orientering om aktuella forskningsfrågor
+
+Färdighet och förmåga  
+För kandidatexamen ska studenten  
+- visa förmåga att söka, samla, värdera och kritiskt tolka relevant information i en problemställning samt att kritiskt diskutera företeelser, frågeställningar och situationer,  
+- visa förmåga att självständigt identifiera, formulera och lösa problem samt att genomföra uppgifter inom givna tidsramar,  
+- visa förmåga att muntligt och skriftligt redogöra för och diskutera information, problem och lösningar i dialog med olika grupper, och  
+- visa sådan färdighet som fordras för att självständigt arbeta inom det område som utbildningen avser.
+
+Värderingsförmåga och förhållningssätt  
+För kandidatexamen ska studenten  
+- visa förmåga att inom huvudområdet för utbildningen göra bedömningar med hänsyn till relevanta, vetenskapliga, samhälleliga och etiska aspekter,  
+- visa insikt om kunskapens roll i samhället och om människors ansvar för hur den används, och  
+- visa förmåga att identifiera sitt behov av ytterligare kunskap och att utveckla sin kompetens.
+
+### 
+1.3 Utbildningsprogrammets mål
+
+Efter fullbordad utbildning ska studenten kunna:
+
+- visa kunskaper och förståelse för sociala och samhälleliga processer;  
+- visa grundläggande kunskaper i hur politiska, juridiska och ekonomiska system är uppbyggda;  
+- tillämpa och kritiskt förhålla sig till samhällsvetenskapliga teorier och metoder på olika nivåer i samhället;  
+- utföra samhällsvetenskapligt analys- och utredningsarbete samt kunna arbeta med projektledande arbetsuppgifter inom både offentlig och privat verksamhet utifrån ett reflekterande och rättssäkert förhållningssätt;  
+- identifiera och reflektera över samhällsvetenskapliga problemställningar;  
+- göra självständiga och professionella värderingar utifrån ett etiskt förhållningssätt.
+
 ## 2. Huvudsaklig uppläggning
 
 Utbildningen har två inriktningar, en inriktad mot huvudområdet statsvetenskap och en inriktad mot huvudområdet sociologi. Den statsvetenskapliga inriktningens profil har ett fokus på internationella förhållanden, politiska system, politiskt deltagande och offentlig förvaltning. Den sociologiska inriktningen rymmer såväl klassisk som modern sociologisk teori med särskilt fokus på makt och avvikelse i det moderna samhället.
@@ -75,6 +125,10 @@ Programmet inbegriper ett tydligt internationaliseringsperspektiv, dels genom m�
 
 Filosofie kandidatexamen, huvudområde Statsvetenskap (Degree of Bachelor of Science, Main Field of Study: Political Science) eller Filosofie kandidatexamen, huvudområde Sociologi (Degree of Bachelor of Science, Main Field of Study: Sociology).
 
+## 5. Behörighetskrav
+
+- Grundläggande behörighet samt Matematik 2a eller 2b eller 2c, Samhällskunskap 1b eller 1a1+1a2. Eller: Matematik nivå 2a eller nivå 2b eller nivå 2c, Samhällskunskap nivå 1b eller nivå 1a2
+
 ## 6. Summary in English
 
 On completion of the course the student should be able to:  
@@ -88,76 +142,3 @@ On completion of the course the student should be able to:
 ## 7. Övrigt
 
 Studenten kan på begäran få programnamnet inkluderat i examensbeviset under  förutsättning att de i utbildningsplanen angivna kurserna är godkända.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __
-
-## 1. Programmets mål
-
-### 
-1.1 Mål enligt Högskolelagen (1992:1434), 1 kap. 8 §:
-
-Utbildning på grundnivå ska väsentligen bygga på de kunskaper som eleverna får på nationella program i gymnasieskolan eller motsvarande kunskaper.
-
-Utbildning på grundnivå ska utveckla studenternas  
-– förmåga att göra självständiga och kritiska bedömningar,  
-– förmåga att självständigt urskilja, formulera och lösa problem, och  
-– beredskap att möta förändringar i arbetslivet.
-
-Inom det område som utbildningen avser ska studenterna, utöver kunskaper  
-och färdigheter, utveckla förmåga att  
-– söka och värdera kunskap på vetenskaplig nivå,  
-– följa kunskapsutvecklingen, och  
-– utbyta kunskaper även med personer utan specialkunskaper inom området.
-
-### 
-1.2 Examensmål enligt Högskoleförordningen (1993:100), bilaga 2:
-
-Kunskap och förståelse  
-För kandidatexamen ska studenten  
-- visa kunskap och förståelse inom huvudområdet för utbildningen, inbegripet metoder om områdets vetenskapliga grund, kunskap om tillämpbara metoder inom området, fördjupning inom någon del av området samt orientering om aktuella forskningsfrågor
-
-Färdighet och förmåga  
-För kandidatexamen ska studenten  
-- visa förmåga att söka, samla, värdera och kritiskt tolka relevant information i en problemställning samt att kritiskt diskutera företeelser, frågeställningar och situationer,  
-- visa förmåga att självständigt identifiera, formulera och lösa problem samt att genomföra uppgifter inom givna tidsramar,  
-- visa förmåga att muntligt och skriftligt redogöra för och diskutera information, problem och lösningar i dialog med olika grupper, och  
-- visa sådan färdighet som fordras för att självständigt arbeta inom det område som utbildningen avser.
-
-Värderingsförmåga och förhållningssätt  
-För kandidatexamen ska studenten  
-- visa förmåga att inom huvudområdet för utbildningen göra bedömningar med hänsyn till relevanta, vetenskapliga, samhälleliga och etiska aspekter,  
-- visa insikt om kunskapens roll i samhället och om människors ansvar för hur den används, och  
-- visa förmåga att identifiera sitt behov av ytterligare kunskap och att utveckla sin kompetens.
-
-### 
-1.3 Utbildningsprogrammets mål
-
-Efter fullbordad utbildning ska studenten kunna:
-
-- visa kunskaper och förståelse för sociala och samhälleliga processer;  
-- visa grundläggande kunskaper i hur politiska, juridiska och ekonomiska system är uppbyggda;  
-- tillämpa och kritiskt förhålla sig till samhällsvetenskapliga teorier och metoder på olika nivåer i samhället;  
-- utföra samhällsvetenskapligt analys- och utredningsarbete samt kunna arbeta med projektledande arbetsuppgifter inom både offentlig och privat verksamhet utifrån ett reflekterande och rättssäkert förhållningssätt;  
-- identifiera och reflektera över samhällsvetenskapliga problemställningar;  
-- göra självständiga och professionella värderingar utifrån ett etiskt förhållningssätt.
-
-## 5. Behörighetskrav
-
-- Grundläggande behörighet samt Matematik 2a eller 2b eller 2c, Samhällskunskap 1b eller 1a1+1a2. Eller: Matematik nivå 2a eller nivå 2b eller nivå 2c, Samhällskunskap nivå 1b eller nivå 1a2

@@ -17,85 +17,6 @@ up: "[[IIT MOC]]"
 - **Fastställd:** Fastställd av Områdesnämnden Teknik och naturvetenskap 2018-12-20 . Gäller fr.o.m.  HT 2018.
 - **Reviderad:** Reviderad 2022-08-30 . Revideringen är giltig fr.o.m. HT 2022.
 
-## 2. Huvudsaklig uppläggning
-
-Under programmets första år skapar studenten korta, cinematiska, audiovisuella narrativ. Ljussättningsmetoder framför kameran och i datorn är viktiga moment i detta skapande, ljudinspelning och ljuddesign likaså. Regi-, scenografi-, foto- ljud -och klippövningar varvas med efterbearbetningslaborationer där färgkorrigering ingår. Somliga produktionsmoment utförs i grupp andra enskilt. Under slutet på första året studeras även relevanta perceptionsteorier kopplade till människans perception. Vissa av dessa teorier testas även i praktiken och utmynnar i kortare filmer som syftar till att visualisera en viss teoris validitet.
-
-Under programmets andra studeras en mängd olika produktionsrelaterade kunskaper som är specifika för reklamfilm, utbildningsfilm och instruktionsfilm. Dessa produktioner anpassas för webbdistribution och diverse skärmstorlekar. Arbetsflöden, produktionsprocesser och arkiveringsstrategier anpassas likaså. Arbetet utförs mestadels gruppvis. Under andra året fästes stor vikt vid producentens roll och produktionsekonomi.  Relevant kunskap om upphovsrätt studeras likaså. Därutöver används också enkla etiska modeller i värdering av korta audiovisuella narrativ och studenten analyserar audiovisuella mediers roll i samhället och värderar den kritiskt. Designbegreppet genomlyses i relation till konceptutveckling och användarnytta. Audiovisuella prototyper utvecklas i korta gruppövningar. Därutöver gör studenten multimodala analyser för att belysa potentialen till meningsskapande i både design och produktion.
-
-Under det tredje läsåret förbereder sig studenten för ett yrkesverksamt liv genom att studera och reflektera över medieentreprenörskapets villkor. Detta utmynnar sedan i genomförandet av en pitch inför representanter från mediebranschen. Därefter följer en metodkurs med påföljande examensarbete där en självständigt formulerad och genomförd undersökning utförs av studenten enligt gängse formalia och metodtillämpning. Därpå följer ett medieprojekt som består av en självständigt planerad och genomförd audiovisuell produktion i grupp med tydliga individuella ansvarsområden samt en skriftlig enskild reflektion över arbetet och projektets/produktens innovativa dimensioner. Programmet avslutas med en arbetsplatsförlagd utbildning där studenten diskuterar och reflekterar över vad det innebär att ha en roll i medieringen av audiovisuell retorik och/eller information utifrån en given arbetsplats och en specifik arbetsroll.
-
-## 3. Programmets kurser
-
-**Samtliga kurser ingår i huvudområdet Bildproduktion**
-
-
-**Första läsåret**
-
-- Det cinematiska språket: Mise-en-scène, 15 hp
-- Den korta filmens berättarstruktur, 7,5 hp
-- Tillämpad filmdesign 1, 7,5 hp
-- Tillämpad filmdesign 2, 7,5 hp
-- Ljudinspelning och ljudläggning inom filmdesign, 7,5 hp
-- Ljussättning och färgkorrigering inom filmdesign, 7,5 hp
-- Människan och den rörliga bilden, 7,5 hp
-
-**Andra läsåret**
-
-- Projektplanering och användarperspektiv, 15 hp
-- Informationsfilmsproduktion, 15 hp
-- Audiovisuell information och etik, 15 hp
-- Reklamfilmsproduktion, 15 hp
-
-**Tredje läsåret**
-
-- [[GBQ2U2|Vetenskapsteori och metod i Bildproduktion]], 7,5 hp
-- Kvalificerad filmdesign i transmedia, 7,5 hp
-- [[GBQ2UD|Exponeringsprojekt i Bildproduktion]], 15 hp
-- [[GBQ2U9|Kandidatexamensarbete i Bildproduktion]], 15 hp
-- [[GBQ36E|Arbetsplatsförlagd bildproduktion]], 15 hp
-
-## 4. Examensbenämning
-
-Filosofie kandidatexamen, huvudområde: Bildproduktion (Degree of Bachelor of Arts,   
-Main Field of Study: Moving Image Production).
-
-## 6. Summary in English
-
-After having completed the BA-program the student will be able to:  
-   
--      independently express rhetorical, informational and instructional short stories via the means of the filmic medium  
--      critically evaluate digital media workflows, digital storage and digital archiving   
--    cooperate with co-producers and clients in accordance with agile project management methods  
--      do principal photography, light different locations and sets, direct, edit, do post production work on commercials and instructional content   
--       manage audiovisual design processes by employing relevant scientific theories and methods  
--       to adapt audiovisual medial objects for specific audiences and uses  
--      relate new technologies and new production methods related to new forms of storytelling strategies   
--      critically assess certain ethical principles and decisions throughout the audiovisual production phases.
-
-## 7. Övrigt
-
-Programnamnet kan på begäran redovisas i examensbeviset om den studerande med godkänt resultat har genomfört samtliga programmets kurser. Vid eventuell validering av kurser från andra lärosäten är det lämpligt att kurserna från programmets tredje år ingår. Varje enskilt fall måste prövas.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __
-
 ## 1. Programmets mål
 
 ### 
@@ -147,6 +68,66 @@ Efter genomförd utbildning ska studenten kunna:
 - relatera ny teknologi och nya produktionsmetoder till möjliga nya berättarstrategier     
 - kritiskt bedöma och värdera den audiovisuella produktionsprocessen och produktioner utifrån etiska perspektiv.
 
+## 2. Huvudsaklig uppläggning
+
+Under programmets första år skapar studenten korta, cinematiska, audiovisuella narrativ. Ljussättningsmetoder framför kameran och i datorn är viktiga moment i detta skapande, ljudinspelning och ljuddesign likaså. Regi-, scenografi-, foto- ljud -och klippövningar varvas med efterbearbetningslaborationer där färgkorrigering ingår. Somliga produktionsmoment utförs i grupp andra enskilt. Under slutet på första året studeras även relevanta perceptionsteorier kopplade till människans perception. Vissa av dessa teorier testas även i praktiken och utmynnar i kortare filmer som syftar till att visualisera en viss teoris validitet.
+
+Under programmets andra studeras en mängd olika produktionsrelaterade kunskaper som är specifika för reklamfilm, utbildningsfilm och instruktionsfilm. Dessa produktioner anpassas för webbdistribution och diverse skärmstorlekar. Arbetsflöden, produktionsprocesser och arkiveringsstrategier anpassas likaså. Arbetet utförs mestadels gruppvis. Under andra året fästes stor vikt vid producentens roll och produktionsekonomi.  Relevant kunskap om upphovsrätt studeras likaså. Därutöver används också enkla etiska modeller i värdering av korta audiovisuella narrativ och studenten analyserar audiovisuella mediers roll i samhället och värderar den kritiskt. Designbegreppet genomlyses i relation till konceptutveckling och användarnytta. Audiovisuella prototyper utvecklas i korta gruppövningar. Därutöver gör studenten multimodala analyser för att belysa potentialen till meningsskapande i både design och produktion.
+
+Under det tredje läsåret förbereder sig studenten för ett yrkesverksamt liv genom att studera och reflektera över medieentreprenörskapets villkor. Detta utmynnar sedan i genomförandet av en pitch inför representanter från mediebranschen. Därefter följer en metodkurs med påföljande examensarbete där en självständigt formulerad och genomförd undersökning utförs av studenten enligt gängse formalia och metodtillämpning. Därpå följer ett medieprojekt som består av en självständigt planerad och genomförd audiovisuell produktion i grupp med tydliga individuella ansvarsområden samt en skriftlig enskild reflektion över arbetet och projektets/produktens innovativa dimensioner. Programmet avslutas med en arbetsplatsförlagd utbildning där studenten diskuterar och reflekterar över vad det innebär att ha en roll i medieringen av audiovisuell retorik och/eller information utifrån en given arbetsplats och en specifik arbetsroll.
+
+## 3. Programmets kurser
+
+**Samtliga kurser ingår i huvudområdet Bildproduktion**
+
+
+**Första läsåret**
+
+- Det cinematiska språket: Mise-en-scène, 15 hp
+- Den korta filmens berättarstruktur, 7,5 hp
+- Tillämpad filmdesign 1, 7,5 hp
+- Tillämpad filmdesign 2, 7,5 hp
+- Ljudinspelning och ljudläggning inom filmdesign, 7,5 hp
+- Ljussättning och färgkorrigering inom filmdesign, 7,5 hp
+- Människan och den rörliga bilden, 7,5 hp
+
+**Andra läsåret**
+
+- Projektplanering och användarperspektiv, 15 hp
+- Informationsfilmsproduktion, 15 hp
+- Audiovisuell information och etik, 15 hp
+- Reklamfilmsproduktion, 15 hp
+
+**Tredje läsåret**
+
+- [[GBQ2U2|Vetenskapsteori och metod i Bildproduktion]], 7,5 hp
+- Kvalificerad filmdesign i transmedia, 7,5 hp
+- [[GBQ2UD|Exponeringsprojekt i Bildproduktion]], 15 hp
+- [[GBQ2U9|Kandidatexamensarbete i Bildproduktion]], 15 hp
+- [[GBQ36E|Arbetsplatsförlagd bildproduktion]], 15 hp
+
+## 4. Examensbenämning
+
+Filosofie kandidatexamen, huvudområde: Bildproduktion (Degree of Bachelor of Arts,   
+Main Field of Study: Moving Image Production).
+
 ## 5. Behörighetskrav
 
 - Grundläggande behörighet
+
+## 6. Summary in English
+
+After having completed the BA-program the student will be able to:  
+   
+-      independently express rhetorical, informational and instructional short stories via the means of the filmic medium  
+-      critically evaluate digital media workflows, digital storage and digital archiving   
+-    cooperate with co-producers and clients in accordance with agile project management methods  
+-      do principal photography, light different locations and sets, direct, edit, do post production work on commercials and instructional content   
+-       manage audiovisual design processes by employing relevant scientific theories and methods  
+-       to adapt audiovisual medial objects for specific audiences and uses  
+-      relate new technologies and new production methods related to new forms of storytelling strategies   
+-      critically assess certain ethical principles and decisions throughout the audiovisual production phases.
+
+## 7. Övrigt
+
+Programnamnet kan på begäran redovisas i examensbeviset om den studerande med godkänt resultat har genomfört samtliga programmets kurser. Vid eventuell validering av kurser från andra lärosäten är det lämpligt att kurserna från programmets tredje år ingår. Varje enskilt fall måste prövas.

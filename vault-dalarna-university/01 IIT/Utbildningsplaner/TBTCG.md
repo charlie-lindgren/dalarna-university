@@ -16,102 +16,6 @@ up: "[[IIT MOC]]"
 - **Programansvarig:** Hans Persson
 - **Fastställd:** Fastställd av prefekt för institutionen för information och teknik 2023-02-14 . Gäller fr.o.m.  HT 2023.
 
-## 2. Huvudsaklig uppläggning
-
-Byggingenjörsprogrammet ger bred byggteknisk kunskap med profil mot resurseffektivt byggande, vilket också utgör grunden i de flesta kurser.   
-Energi- och materialanvändning är viktiga aspekter i ett livscykelperspektiv, både för nyproduktion och ombyggnation av byggnader och anläggningar. 
-
-Utbildningen utgår från byggprocessen och ger kunskaper som behövs för arbete inom många olika områden i branschen, såsom digitalisering, planering, projektering, produktion och förvaltning. I början av utbildningen behandlas kunskaper inom dessa olika områden och allt eftersom utbildningen fortskrider fördjupas kurserna. Många kurser är projektbaserade för att ge praktisk erfarenhet av byggbranschen. 
-
-Utbildningen avslutas med ett examensarbete på 15 högskolepoäng. Genom examensarbetet ska kunskaper från utbildningen tillämpas och fördjupas.
-
-## 3. Programmets kurser
-
-**Åk1**
-
-- [[BY1053|Arkitektur och byggande]], 5 hp
-- [[GBY2GC|BIM i byggprocessen]], 5 hp
-- [[BY1056|Byggfysik]], 7,5 hp
-- [[GBY2GB|Digitala ritverktyg]], 5 hp
-- [[GBY2J2|Husbyggnadsprojekt I – Små byggnader och bostadsområden]], 15 hp
-- [[GBY2VR|Hållbar utveckling]], 5 hp
-- [[IE1076|Industriell ekonomi]], 5 hp
-- [[BY1054|Vägteknik]], 7,5 hp
-
-**Åk2**
-
-- [[GMA2ZS|Analys i en variabel]], 7,5 hp
-- [[GBY2NG|Byggplanering och arbetsmiljö]], 7,5 hp
-- [[GBY2V5|Byggproduktion och arbetsmiljö]], 7,5 hp
-- [[GBY37D|Byggstatik och hållfasthetslära]], 7,5 hp
-- [[GEG38F|Grundläggande Energiteknik]], 4,5 hp
-- [[GBY2XF|Husbyggnadsprojekt II – Byggprojekt stora byggnader]], 7,5 hp
-- [[GMA2ZT|Inledande matematik]], 3 hp
-- [[GBY38E|Installationsteknik och dimensionering]], 7,5 hp
-- [[MD2025|Linjär algebra]], 7,5 hp
-
-**Åk3**
-
-- [[GBY34N|Examensarbete i Byggteknik för högskoleingenjörsexamen]], 15 hp
-- [[GBY2RX|Fastighetsförvaltning]], 7,5 hp
-- [[GBY38D|Geoteknik och konstruktionsteknik betong]], 7,5 hp
-- [[GBY3AX|Husbyggnadsprojekt III – Byggkonstruktionsprojekt]], 7,5 hp
-- [[GBY2V8|Konstruktionsteknik trä och stål]], 7,5 hp
-- [[GEU2QY|Ledarskap]], 5 hp
-- [[BY2025|Vetenskaplig metodik]], 2,5 hp
-
-**Valbara kurser**
-
-- Energiprojekt, 7,5 hp
-- [[GBY3DW|Resurseffektivt byggande]], 7,5 hp
-- [[GBY3DX|Väg- och trafikplanering]], 7,5 hp
-
-## 4. Examensbenämning
-
-Högskoleingenjörsexamen, Teknikområde: Byggteknik (Degree of Bachelor of Science in Engineering, Engineering Field: Construction Engineering).
-
-## 6. Summary in English
-
-After completing the programme, students will be able to:
-
-Knowledge and understanding  
-- demonstrate knowledge of the various stages of the construction process, and  
-- explain and demonstrate knowledge of the dimensioning and construction of roads.
-
-Competence and skills  
-- be able to dimension buildings,  
-- be able to carry out technical drawings of buildings using CAD systems as well as produce other documents for buildings,  
-- be able to apply the industry‘s governing documents in project planning and construction, and  
-- be able to apply applicable laws, rules and regulations for construction in Sweden.
-
-Judgement and approach  
-- be able to assess and choose alternative technical solutions for construction for the building of buildings and roads according to current standards and with regard to sustainable development and resource-efficient construction.
-
-## 7. Övrigt
-
-Vilken eller vilka av de valbara kurser som erbjuds kan variera. 
-
-Utbildningen ges främst på svenska, men kurser på engelska kan förekomma.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __
-
 ## 1. Programmets mål
 
 ### 
@@ -175,6 +79,83 @@ Färdighet och förmåga
 Värderingsförmåga och förhållningssätt  
 - kunna bedöma och välja alternativa byggtekniska lösningar för byggnader och vägar utifrån gällande normer och med hänsyn till hållbar utveckling och resurseffektivt byggande.
 
+## 2. Huvudsaklig uppläggning
+
+Byggingenjörsprogrammet ger bred byggteknisk kunskap med profil mot resurseffektivt byggande, vilket också utgör grunden i de flesta kurser.   
+Energi- och materialanvändning är viktiga aspekter i ett livscykelperspektiv, både för nyproduktion och ombyggnation av byggnader och anläggningar. 
+
+Utbildningen utgår från byggprocessen och ger kunskaper som behövs för arbete inom många olika områden i branschen, såsom digitalisering, planering, projektering, produktion och förvaltning. I början av utbildningen behandlas kunskaper inom dessa olika områden och allt eftersom utbildningen fortskrider fördjupas kurserna. Många kurser är projektbaserade för att ge praktisk erfarenhet av byggbranschen. 
+
+Utbildningen avslutas med ett examensarbete på 15 högskolepoäng. Genom examensarbetet ska kunskaper från utbildningen tillämpas och fördjupas.
+
+## 3. Programmets kurser
+
+**Åk1**
+
+- [[BY1053|Arkitektur och byggande]], 5 hp
+- [[GBY2GC|BIM i byggprocessen]], 5 hp
+- [[BY1056|Byggfysik]], 7,5 hp
+- [[GBY2GB|Digitala ritverktyg]], 5 hp
+- [[GBY2J2|Husbyggnadsprojekt I – Små byggnader och bostadsområden]], 15 hp
+- [[GBY2VR|Hållbar utveckling]], 5 hp
+- [[IE1076|Industriell ekonomi]], 5 hp
+- [[BY1054|Vägteknik]], 7,5 hp
+
+**Åk2**
+
+- [[GMA2ZS|Analys i en variabel]], 7,5 hp
+- [[GBY2NG|Byggplanering och arbetsmiljö]], 7,5 hp
+- [[GBY2V5|Byggproduktion och arbetsmiljö]], 7,5 hp
+- [[GBY37D|Byggstatik och hållfasthetslära]], 7,5 hp
+- [[GEG38F|Grundläggande Energiteknik]], 4,5 hp
+- [[GBY2XF|Husbyggnadsprojekt II – Byggprojekt stora byggnader]], 7,5 hp
+- [[GMA2ZT|Inledande matematik]], 3 hp
+- [[GBY38E|Installationsteknik och dimensionering]], 7,5 hp
+- [[MD2025|Linjär algebra]], 7,5 hp
+
+**Åk3**
+
+- [[GBY34N|Examensarbete i Byggteknik för högskoleingenjörsexamen]], 15 hp
+- [[GBY2RX|Fastighetsförvaltning]], 7,5 hp
+- [[GBY38D|Geoteknik och konstruktionsteknik betong]], 7,5 hp
+- [[GBY3AX|Husbyggnadsprojekt III – Byggkonstruktionsprojekt]], 7,5 hp
+- [[GBY2V8|Konstruktionsteknik trä och stål]], 7,5 hp
+- [[GEU2QY|Ledarskap]], 5 hp
+- [[BY2025|Vetenskaplig metodik]], 2,5 hp
+
+**Valbara kurser**
+
+- Energiprojekt, 7,5 hp
+- [[GBY3DW|Resurseffektivt byggande]], 7,5 hp
+- [[GBY3DX|Väg- och trafikplanering]], 7,5 hp
+
+## 4. Examensbenämning
+
+Högskoleingenjörsexamen, Teknikområde: Byggteknik (Degree of Bachelor of Science in Engineering, Engineering Field: Construction Engineering).
+
 ## 5. Behörighetskrav
 
 - Grundläggande behörighet samt Matematik 3c eller Matematik D, Fysik 2, Kemi 1. Eller: Matematik fortsättning nivå 1c, Fysik nivå 2, Kemi nivå 1
+
+## 6. Summary in English
+
+After completing the programme, students will be able to:
+
+Knowledge and understanding  
+- demonstrate knowledge of the various stages of the construction process, and  
+- explain and demonstrate knowledge of the dimensioning and construction of roads.
+
+Competence and skills  
+- be able to dimension buildings,  
+- be able to carry out technical drawings of buildings using CAD systems as well as produce other documents for buildings,  
+- be able to apply the industry‘s governing documents in project planning and construction, and  
+- be able to apply applicable laws, rules and regulations for construction in Sweden.
+
+Judgement and approach  
+- be able to assess and choose alternative technical solutions for construction for the building of buildings and roads according to current standards and with regard to sustainable development and resource-efficient construction.
+
+## 7. Övrigt
+
+Vilken eller vilka av de valbara kurser som erbjuds kan variera. 
+
+Utbildningen ges främst på svenska, men kurser på engelska kan förekomma.

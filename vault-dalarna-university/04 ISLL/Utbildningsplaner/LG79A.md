@@ -204,7 +204,6 @@ Den verksamhetsförlagda utbildningen har en progression där den studerande fö
 
 **Inkluderas andra ämnen än de vid Högskolan Dalarna kan fler begränsningar finnas.**
 
-
 ## 4. Examensbenämning
 
 Ämneslärarexamen med inriktning mot arbete i grundskolans årskurs 7-9 (Master of Arts/Science in Secondary Education – School Years 7-9), omfattande 240 eller 270 högskolepoäng.
@@ -220,22 +219,3 @@ Ersätter tidigare utbildningsplan LP79A.
 ### Programingångar
 
 ingång bild
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __

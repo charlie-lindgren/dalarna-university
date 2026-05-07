@@ -202,22 +202,3 @@ For a Degree of Master or Arts in Primary Education the student shall demonstrat
 Studieform: Nätbaserad undervisning med obligatoriska campusträffar.  
   
 Ersätter tidigare utbildningsplan LGP6A.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __

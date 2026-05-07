@@ -132,22 +132,3 @@ Undervisningsspråket på programmet är svenska, men vissa av programmets kurse
 För att programnamnet ska anges i examensbeviset krävs samtliga kurser utom de som ingår i den valbara terminen, markerade med*.
 
 Inom programmet finns särskilda behörighetskrav till programmets kurser. Behörighetskraven anges i respektive kursplan. Det innebär att en student endast kan fortsätta programmet när kursens anvisade behörighetskrav är uppfyllda.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __

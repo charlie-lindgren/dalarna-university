@@ -16,59 +16,6 @@ up: "[[IHV MOC]]"
 - **Programansvarig:** Tony Bohman
 - **Fastställd:** Fastställd av Utbildnings- och Forskningsnämnden 2026-01-14 . Gäller fr.o.m.  HT 2025.
 
-## 2. Huvudsaklig uppläggning
-
-Magisterprogrammet är utformat för att ge en fördjupning inom huvudområdet fysioterapi med en inriktning mot smärta och smärtbehandling, fysisk aktivitet i prevention och behandling samt implementering av evidensbaserade arbetssätt. Ett genomgående tema inom programmet är hållbar utveckling. Programmet innehåller fyra kurser och genomförs som deltidsstudier, till stor del nätbaserade i kombination med några obligatoriska examinerande moment på studieorten. Programmets första kurs har fokus på långvarig smärta och hållbar utveckling. Kurs 2 är en fördjupning inom fysisk aktivitet som prevention och behandling. Programmet avslutas med att studenterna i kurs 3 utvecklar en projektplan (kurs 3) som underlag till ett självständigt arbete (examensarbete, kurs 4) där studenten får tillämpa forskningsmetoder i relation till programmets profilområde samt planera, genomföra och sammanställa en vetenskaplig undersökning.
-
-## 3. Programmets kurser
-
-**Programmets samtliga kurser är obligatoriska och på avancerad nivå samt tillhör huvudområdet fysioterapi. Programmet ges på halvtid (50%).**
-
-
-**Läsår 1:**
-
-- [[AFT2CA|Fysioterapi med fokus på långvarig smärta och hållbar utveckling]], 15 hp
-- [[AFT2CB|Fysisk aktivitet som prevention och behandling]], 15 hp
-
-**Läsår 2:**
-
-- [[AMC29F|Examensarbete för magisterexamen i fysioterapi]], 15 hp
-- Forskningsmetodik och projektplan inför examensarbete för magisterexamen i fysioterapi, 15 hp
-
-## 4. Examensbenämning
-
-Filosofie magisterexamen, huvudområde Fysioterapi. (Degree of Master of Science (60 credits), Main Field of Study: Physiotherapy).
-
-## 6. Summary in English
-
-_Knowledge and understanding   
-_On completion of the programme, students will be able to: 
-
-  - demonstrate awareness of the importance of promoting sustainable development that ensures a good and healthy environment, economic and social welfare, and justice for both present and future generations.
-
-## 7. Övrigt
-
-För att programnamn ska framgå av examen måste de obligatoriska kurserna vara godkända. Undervisningsspråket på programmet är svenska, men vissa av programmets kurser eller kursmoment kan ges på engelska. Mer information finns på programmets webbsida och i programhandbok.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __
-
 ## 1. Programmets mål
 
 ### 
@@ -125,6 +72,40 @@ Efter avslutad utbildning skall studenten:
 
   - visa insikt om betydelsen av att arbeta för en hållbar utveckling som innebär att nuvarande och kommande generationer tillförsäkras en hälsosam och god miljö, ekonomisk och social välfärd och rättvisa
 
+## 2. Huvudsaklig uppläggning
+
+Magisterprogrammet är utformat för att ge en fördjupning inom huvudområdet fysioterapi med en inriktning mot smärta och smärtbehandling, fysisk aktivitet i prevention och behandling samt implementering av evidensbaserade arbetssätt. Ett genomgående tema inom programmet är hållbar utveckling. Programmet innehåller fyra kurser och genomförs som deltidsstudier, till stor del nätbaserade i kombination med några obligatoriska examinerande moment på studieorten. Programmets första kurs har fokus på långvarig smärta och hållbar utveckling. Kurs 2 är en fördjupning inom fysisk aktivitet som prevention och behandling. Programmet avslutas med att studenterna i kurs 3 utvecklar en projektplan (kurs 3) som underlag till ett självständigt arbete (examensarbete, kurs 4) där studenten får tillämpa forskningsmetoder i relation till programmets profilområde samt planera, genomföra och sammanställa en vetenskaplig undersökning.
+
+## 3. Programmets kurser
+
+**Programmets samtliga kurser är obligatoriska och på avancerad nivå samt tillhör huvudområdet fysioterapi. Programmet ges på halvtid (50%).**
+
+
+**Läsår 1:**
+
+- [[AFT2CA|Fysioterapi med fokus på långvarig smärta och hållbar utveckling]], 15 hp
+- [[AFT2CB|Fysisk aktivitet som prevention och behandling]], 15 hp
+
+**Läsår 2:**
+
+- [[AMC29F|Examensarbete för magisterexamen i fysioterapi]], 15 hp
+- Forskningsmetodik och projektplan inför examensarbete för magisterexamen i fysioterapi, 15 hp
+
+## 4. Examensbenämning
+
+Filosofie magisterexamen, huvudområde Fysioterapi. (Degree of Master of Science (60 credits), Main Field of Study: Physiotherapy).
+
 ## 5. Behörighetskrav
 
 - Kandidatexamen i fysioterapi eller fysioterapeutexamen om minst 180 hp
+
+## 6. Summary in English
+
+_Knowledge and understanding   
+_On completion of the programme, students will be able to: 
+
+  - demonstrate awareness of the importance of promoting sustainable development that ensures a good and healthy environment, economic and social welfare, and justice for both present and future generations.
+
+## 7. Övrigt
+
+För att programnamn ska framgå av examen måste de obligatoriska kurserna vara godkända. Undervisningsspråket på programmet är svenska, men vissa av programmets kurser eller kursmoment kan ges på engelska. Mer information finns på programmets webbsida och i programhandbok.

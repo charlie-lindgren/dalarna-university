@@ -198,22 +198,3 @@ Grundlärarexamen med inriktning mot arbete i grundskolans årskurs 4-6 omfattan
 ## 7. Övrigt
 
 Ersätter tidigare utbildningsplan LA46A.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __

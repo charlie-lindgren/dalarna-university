@@ -16,6 +16,56 @@ up: "[[IHV MOC]]"
 - **Programansvarig:** Marcus Falk Johansson
 - **Fastställd:** Fastställd av Områdesnämnden Vård och omsorg 2021-02-04 . Gäller fr.o.m.  HT 2020.
 
+## 1. Programmets mål
+
+### 
+1.1 Mål enligt Högskolelagen (1992:1434), 1 kap. 8 §:
+
+Utbildning på grundnivå ska väsentligen bygga på de kunskaper som eleverna får på nationella program i gymnasieskolan eller motsvarande kunskaper.
+
+Utbildning på grundnivå ska utveckla studenternas  
+- förmåga att göra självständiga och kritiska bedömningar,  
+- förmåga att självständigt urskilja, formulera och lösa problem, och  
+- beredskap att möta förändringar i arbetslivet.
+
+Inom det område som utbildningen avser ska studenterna, utöver kunskaper och färdigheter, utveckla förmåga att  
+- söka och värdera kunskap på vetenskaplig nivå,  
+- följa kunskapsutvecklingen, och  
+- utbyta kunskaper även med personer utan specialkunskaper inom området.
+
+### 
+1.2 Examensmål enligt Högskoleförordningen (1993:100), bilaga 2:
+
+För socionomexamen skall studenten visa sådan kunskap och förmåga som krävs för självständigt socialt arbete på individ-, grupp- och samhällsnivå.
+
+För socionomexamen skall studenten kunna:
+
+Kunskap och förståelse  
+- visa kunskap om områdets vetenskapliga grund samt kännedom om aktuellt forsknings- och utvecklingsarbete,  
+- visa kunskap om och förståelse för samspelet mellan individers och gruppers sociala situation, levnadsvillkor, fysiska och psykiska hälsa samt funktionsförmåga i förhållande till samhälleliga och andra bakomliggande faktorer,  
+- visa kunskap om ledning av socialt arbete,   
+- visa kunskap om och förståelse för barns behov och sådana samhälls- och familjeförhållanden som påverkar kvinnors och mäns livsbetingelser, och  
+- visa kunskap om mäns våld mot kvinnor och våld i nära relationer.
+
+Färdighet och förmåga  
+- visa sådan färdighet och förmåga som krävs för att utveckla och genomföra socialt arbete på olika nivåer i samhället i samarbete med de människor som berörs,  
+- visa förmåga att tillämpa relevanta författningar i synnerhet inom det sociala området,  
+- visa förmåga att förstå, utreda och analysera sociala processer och problem, och  
+- visa förmåga att identifiera, strukturera, utreda och utvärdera insatser på individ-, grupp- och samhällsnivå.
+
+Värderingsförmåga och förhållningssätt  
+- visa självkännedom och empatisk förmåga,  
+- visa förmåga att med helhetssyn på människan göra åtgärdsbedömningar utifrån relevanta vetenskapliga, samhälleliga och etiska aspekter med särskilt beaktande av de mänskliga rättigheterna,  
+- visa förmåga till ett professionellt bemötande och förhållningssätt,  
+- visa insikt om betydelsen av lagarbete och samverkan med andra yrkesgrupper, och  
+- visa förmåga att identifiera sitt behov av ytterligare kunskap och att fortlöpande utveckla sin kompetens.
+
+### 
+1.3 Utbildningsprogrammets mål
+
+För socionomexamen vid Högskolan Dalarna ska studenten, utöver de mål som anges i examensordningen  
+- visa förmåga att integrera teoretisk och praktisk kunskap i det professionella yrkesutövandet inom hela det sociala arbetets verksamhetsfält.
+
 ## 2. Huvudsaklig uppläggning
 
 Socionomprogrammet är en bred yrkes- och forskningsförberedande utbildning som ska förbereda för en framtida anställning inom välfärdsområden såsom socialtjänst, arbetsförmedling, försäkringskassa, skola, hälso- och sjukvård, frivård, frivilliga organisationer o.d. Generalistkompetens inom välfärdsområdet, brukarperspektiv och samverkan mellan olika aktörer inom det sociala verksamhetsområdet är centrala led i utbildningen. Efter genomförda programstudier ska studenten visa sådan kunskap och förmåga som krävs för självständigt socialt arbete på individ-, grupp- och samhällsnivå.
@@ -98,6 +148,10 @@ Professionsseminarier innehåller föreläsning och seminarium om aktuell forskn
 
 Socionomexamen (Degree of Bachelor of Science in Social Work).
 
+## 5. Behörighetskrav
+
+- Grundläggande behörighet samt Matematik 2a eller 2b eller 2c, Samhällskunskap 1b eller 1a1+1a2. Eller: Matematik nivå 2a eller nivå 2b eller nivå 2c, Samhällskunskap nivå 1b eller nivå 1a2
+
 ## 6. Summary in English
 
 For the Degree of Bachelor of Science in Social Work the student shall:
@@ -128,76 +182,3 @@ For the Degree of Bachelor of Science in Social Work the student shall also
 ## 7. Övrigt
 
 Under utbildningen på programmet är studenten knuten till yrkeslivet genom partnersamverkan med det sociala arbetets yrkesfält i regionen. Utöver socialtjänst ingår där arbetsförmedling, försäkringskassa, kriminalvård, skola, frivilliga organisationer med flera. Samverkan syftar till att skapa goda förutsättningar att utbilda väl kvalificerade och professionella socialarbetare i en ömsesidig växelverkan mellan Högskolan och yrkesfältet. Högskolan har ett utbildningsansvar för hela utbildningen inklusive den verksamhetsförlagda utbildningen.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __
-
-## 1. Programmets mål
-
-### 
-1.1 Mål enligt Högskolelagen (1992:1434), 1 kap. 8 §:
-
-Utbildning på grundnivå ska väsentligen bygga på de kunskaper som eleverna får på nationella program i gymnasieskolan eller motsvarande kunskaper.
-
-Utbildning på grundnivå ska utveckla studenternas  
-- förmåga att göra självständiga och kritiska bedömningar,  
-- förmåga att självständigt urskilja, formulera och lösa problem, och  
-- beredskap att möta förändringar i arbetslivet.
-
-Inom det område som utbildningen avser ska studenterna, utöver kunskaper och färdigheter, utveckla förmåga att  
-- söka och värdera kunskap på vetenskaplig nivå,  
-- följa kunskapsutvecklingen, och  
-- utbyta kunskaper även med personer utan specialkunskaper inom området.
-
-### 
-1.2 Examensmål enligt Högskoleförordningen (1993:100), bilaga 2:
-
-För socionomexamen skall studenten visa sådan kunskap och förmåga som krävs för självständigt socialt arbete på individ-, grupp- och samhällsnivå.
-
-För socionomexamen skall studenten kunna:
-
-Kunskap och förståelse  
-- visa kunskap om områdets vetenskapliga grund samt kännedom om aktuellt forsknings- och utvecklingsarbete,  
-- visa kunskap om och förståelse för samspelet mellan individers och gruppers sociala situation, levnadsvillkor, fysiska och psykiska hälsa samt funktionsförmåga i förhållande till samhälleliga och andra bakomliggande faktorer,  
-- visa kunskap om ledning av socialt arbete,   
-- visa kunskap om och förståelse för barns behov och sådana samhälls- och familjeförhållanden som påverkar kvinnors och mäns livsbetingelser, och  
-- visa kunskap om mäns våld mot kvinnor och våld i nära relationer.
-
-Färdighet och förmåga  
-- visa sådan färdighet och förmåga som krävs för att utveckla och genomföra socialt arbete på olika nivåer i samhället i samarbete med de människor som berörs,  
-- visa förmåga att tillämpa relevanta författningar i synnerhet inom det sociala området,  
-- visa förmåga att förstå, utreda och analysera sociala processer och problem, och  
-- visa förmåga att identifiera, strukturera, utreda och utvärdera insatser på individ-, grupp- och samhällsnivå.
-
-Värderingsförmåga och förhållningssätt  
-- visa självkännedom och empatisk förmåga,  
-- visa förmåga att med helhetssyn på människan göra åtgärdsbedömningar utifrån relevanta vetenskapliga, samhälleliga och etiska aspekter med särskilt beaktande av de mänskliga rättigheterna,  
-- visa förmåga till ett professionellt bemötande och förhållningssätt,  
-- visa insikt om betydelsen av lagarbete och samverkan med andra yrkesgrupper, och  
-- visa förmåga att identifiera sitt behov av ytterligare kunskap och att fortlöpande utveckla sin kompetens.
-
-### 
-1.3 Utbildningsprogrammets mål
-
-För socionomexamen vid Högskolan Dalarna ska studenten, utöver de mål som anges i examensordningen  
-- visa förmåga att integrera teoretisk och praktisk kunskap i det professionella yrkesutövandet inom hela det sociala arbetets verksamhetsfält.
-
-## 5. Behörighetskrav
-
-- Grundläggande behörighet samt Matematik 2a eller 2b eller 2c, Samhällskunskap 1b eller 1a1+1a2. Eller: Matematik nivå 2a eller nivå 2b eller nivå 2c, Samhällskunskap nivå 1b eller nivå 1a2

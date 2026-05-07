@@ -126,22 +126,3 @@ For a Higher Education Diploma in Vocational Education the student shall:
 Ersätter tidigare utbildningsplan LYRPA.   
   
 Beroende på den studerandes bakgrund och framtida yrkesverksamhetsområde kan fördjupningsarbeten eller motsvarande och verksamhetsförlagd utbildning komma att individanpassas.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __

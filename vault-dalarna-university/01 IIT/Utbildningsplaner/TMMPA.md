@@ -17,98 +17,6 @@ up: "[[IIT MOC]]"
 - **Fastställd:** Fastställd av Områdesnämnden Teknik och naturvetenskap 2018-06-13 . Gäller fr.o.m.  HT 2018.
 - **Reviderad:** Reviderad 2019-05-23 . Revideringen är giltig fr.o.m. VT 2019.
 
-## 2. Huvudsaklig uppläggning
-
-Programmet ger en detaljerad förståelse för sambandet mellan produktutveckling - produktion - mikrostruktur - egenskaper - prestanda - ekonomi för olika produkter. Efter utbildningen ska studenter ha utvecklat färdigheter och kompetenser för att vara innovativa tekniska problemlösare med kunskap inom materialteknik, produktkonstruktion och -utveckling.
-
-Programmets struktur är utformat för att underlätta för studenter att införliva fördjupad kunskap inom materialteknik, i produktutvecklingsprocessen, särskilt inom ytteknik och avancerad materialkarakterisering.
-
-Principerna och metoderna för materialkarakterisering med avseende på mekaniska egenskaper, struktur och sammansättning i teoretiska och praktiska termer ges i kurserna ”Metallers mekaniska egenskaper” och ”Material- och ytkarakterisering”. ”Pulvermetallurgi med additiv tillverkning” introducerar de grundläggande begreppen inom pulvermetallurgi med fokus på additiv tillverkning. ”Materialval och design” behandlar olika faktorer som påverkar materialvalet vid produktion, distribution, konsumtion och återvinning av olika produkter. I ”Industriell ytteknik och tribologi” täcks huvudaspekterna av olika ytbehandlingsmetoder för att förbättra ett materials mekaniska och tribologiska egenskaper. I kursen ”Material- och skadefallsanalys” tillämpas och kombineras teoretiska och praktiska kunskaper från programmets övriga kurser för att tolka och lösa industriella materialproblem och kritiskt föreslå nya tillverkningsprocesser alternativt materialval.
-
-Produktutvecklingsdelen i programmet fokuserar på att ge kunskap om modularitet och dess fördelar inom design, produktion, kostnad och kvalitet samt förståelse för de problem som kan uppstå vid utvecklingen av ett modulärt produktsortiment. Problemlösningen fokusera på att förbättra förmågan att hitta lösningar på allmänna tekniska problem genom att använda strukturerade metoder.
-
-Programmet avslutas med ett examensarbetet omfattande 30 högskolepoäng, vilket innebär fortsatt fördjupning inom både materialteknik och produktutveckling.
-
-## 3. Programmets kurser
-
-**År 1**
-
-- Projektledning, 7.5 hp
-- Metallers mekaniska egenskaper, 7.5 hp
-- Pulvermetallurgi med additiv tillverkning, 7.5 hp
-- Material- och ytkarakterisering, 7.5 hp
-- Industriell ytteknik och tribologi, 7.5 hp
-- Avancerad produktutveckling, 15 hp
-- Problemlösning, 7.5 hp
-
-**År 2**
-
-- Hållfasthetslära fortsättningskurs, 7.5 hp
-- Materialval och design, 7.5 hp
-- Avancerad FEM, 7.5 hp
-- Material- och skadefallsanalys, 7,5 hp
-- Examensarbete för Masterexamen i Materialteknik, 30 hp
-
-## 4. Examensbenämning
-
-Teknologie masterexamen Huvudområde: materialteknik. (Degree of Master of Science (120 credits), Main Field of Study: Materials Technology).
-
-## 6. Summary in English
-
-In addition to the objectives referred to in the Higher Education Act (see 1.2 above), a student graduating from the master programme in Materials Engineering and Product Development should have the following knowledge, skills and judgement abilities.
-
-_Knowledge and understanding_
-
-  - show in-depth understanding of various mechanical properties of metallic materials to develop more efficient processes and materials
-
-  - demonstrate advanced knowledge of characterisation methods of materials and their applications so as to understand the mechanical, surface, and tribological properties of various components produced by different methods and metallic materials
-
-  - demonstrate knowledge and understanding of various factors that influence materials and processes selection in production, distribution, usage, and recycling
-
-  - demonstrate knowledge and understanding of the product development process and the factors that drive the product modularisation
-
-  - demonstrate knowledge in non-linear finite element analysis with emphasis on material models
-
-  
-_Competence and skills_
-
-  - demonstrate the ability, with an engineering approach, to solve problems related to industrial materials
-
-  - demonstrate the skill and ability to plan, implement, evaluate, and present projects orally and in written form in English
-
-  - demonstrate the ability to analyse problems in a structured way using problem-solving methods
-
-  - demonstrate the ability to create modular product concepts and to assess the impact of different alternatives through the product lifecycle
-
-_Judgement and approach_
-
-  - evaluate complex engineering problems in terms of materials and/or product development from a holistic perspective, which can be incompletely defined and which can contain conflicting information
-
-  - demonstrate the ability to evaluate different materials engineering and product development solutions by taking technical, social, economic, and environmental aspects into account
-
-## 7. Övrigt
-
-Masterprogrammet i Materialteknik och Produktutveckling ges på engelska.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __
-
 ## 1. Programmets mål
 
 ### 
@@ -191,6 +99,79 @@ _Värderingsförmåga och förhållningssätt_
 
   - visa förmåga att utvärdera olika industriella lösningar inom materialteknik och produktutveckling genom att ta hänsyn till tekniska, sociala, ekonomiska och miljömässiga aspekter.
 
+## 2. Huvudsaklig uppläggning
+
+Programmet ger en detaljerad förståelse för sambandet mellan produktutveckling - produktion - mikrostruktur - egenskaper - prestanda - ekonomi för olika produkter. Efter utbildningen ska studenter ha utvecklat färdigheter och kompetenser för att vara innovativa tekniska problemlösare med kunskap inom materialteknik, produktkonstruktion och -utveckling.
+
+Programmets struktur är utformat för att underlätta för studenter att införliva fördjupad kunskap inom materialteknik, i produktutvecklingsprocessen, särskilt inom ytteknik och avancerad materialkarakterisering.
+
+Principerna och metoderna för materialkarakterisering med avseende på mekaniska egenskaper, struktur och sammansättning i teoretiska och praktiska termer ges i kurserna ”Metallers mekaniska egenskaper” och ”Material- och ytkarakterisering”. ”Pulvermetallurgi med additiv tillverkning” introducerar de grundläggande begreppen inom pulvermetallurgi med fokus på additiv tillverkning. ”Materialval och design” behandlar olika faktorer som påverkar materialvalet vid produktion, distribution, konsumtion och återvinning av olika produkter. I ”Industriell ytteknik och tribologi” täcks huvudaspekterna av olika ytbehandlingsmetoder för att förbättra ett materials mekaniska och tribologiska egenskaper. I kursen ”Material- och skadefallsanalys” tillämpas och kombineras teoretiska och praktiska kunskaper från programmets övriga kurser för att tolka och lösa industriella materialproblem och kritiskt föreslå nya tillverkningsprocesser alternativt materialval.
+
+Produktutvecklingsdelen i programmet fokuserar på att ge kunskap om modularitet och dess fördelar inom design, produktion, kostnad och kvalitet samt förståelse för de problem som kan uppstå vid utvecklingen av ett modulärt produktsortiment. Problemlösningen fokusera på att förbättra förmågan att hitta lösningar på allmänna tekniska problem genom att använda strukturerade metoder.
+
+Programmet avslutas med ett examensarbetet omfattande 30 högskolepoäng, vilket innebär fortsatt fördjupning inom både materialteknik och produktutveckling.
+
+## 3. Programmets kurser
+
+**År 1**
+
+- Projektledning, 7.5 hp
+- Metallers mekaniska egenskaper, 7.5 hp
+- Pulvermetallurgi med additiv tillverkning, 7.5 hp
+- Material- och ytkarakterisering, 7.5 hp
+- Industriell ytteknik och tribologi, 7.5 hp
+- Avancerad produktutveckling, 15 hp
+- Problemlösning, 7.5 hp
+
+**År 2**
+
+- Hållfasthetslära fortsättningskurs, 7.5 hp
+- Materialval och design, 7.5 hp
+- Avancerad FEM, 7.5 hp
+- Material- och skadefallsanalys, 7,5 hp
+- Examensarbete för Masterexamen i Materialteknik, 30 hp
+
+## 4. Examensbenämning
+
+Teknologie masterexamen Huvudområde: materialteknik. (Degree of Master of Science (120 credits), Main Field of Study: Materials Technology).
+
 ## 5. Behörighetskrav
 
 - Högskoleingenjörsexamen eller Civilingenjörsexamen med huvudområde inom maskinteknik, metallurgi, materialteknik, produktionsteknik och Engelska 6
+
+## 6. Summary in English
+
+In addition to the objectives referred to in the Higher Education Act (see 1.2 above), a student graduating from the master programme in Materials Engineering and Product Development should have the following knowledge, skills and judgement abilities.
+
+_Knowledge and understanding_
+
+  - show in-depth understanding of various mechanical properties of metallic materials to develop more efficient processes and materials
+
+  - demonstrate advanced knowledge of characterisation methods of materials and their applications so as to understand the mechanical, surface, and tribological properties of various components produced by different methods and metallic materials
+
+  - demonstrate knowledge and understanding of various factors that influence materials and processes selection in production, distribution, usage, and recycling
+
+  - demonstrate knowledge and understanding of the product development process and the factors that drive the product modularisation
+
+  - demonstrate knowledge in non-linear finite element analysis with emphasis on material models
+
+  
+_Competence and skills_
+
+  - demonstrate the ability, with an engineering approach, to solve problems related to industrial materials
+
+  - demonstrate the skill and ability to plan, implement, evaluate, and present projects orally and in written form in English
+
+  - demonstrate the ability to analyse problems in a structured way using problem-solving methods
+
+  - demonstrate the ability to create modular product concepts and to assess the impact of different alternatives through the product lifecycle
+
+_Judgement and approach_
+
+  - evaluate complex engineering problems in terms of materials and/or product development from a holistic perspective, which can be incompletely defined and which can contain conflicting information
+
+  - demonstrate the ability to evaluate different materials engineering and product development solutions by taking technical, social, economic, and environmental aspects into account
+
+## 7. Övrigt
+
+Masterprogrammet i Materialteknik och Produktutveckling ges på engelska.

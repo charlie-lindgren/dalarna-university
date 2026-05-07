@@ -16,100 +16,6 @@ up: "[[IIT MOC]]"
 - **Programansvarig:** Hans Ersson Johan Heier
 - **Fastställd:** Fastställd av Områdesnämnden Teknik och naturvetenskap 2022-12-20 . Gäller fr.o.m.  HT 2023.
 
-## 2. Huvudsaklig uppläggning
-
-Energisystem har idag hög grad av komplexitet vilket innebär att både breda och djupa ämneskunskaper, metodisk förmåga att hitta systemlösningar samt ett förhållningssätt med uthållighet, resurs- och kostnadseffektivitet i fokus är aspekter som behövs i arbetslivet. I programmet behandlas energiteknik och system ur ett brett perspektiv omfattande produktion och distribution av el och värme samt effektiv användning av el och värme/kyla i bebyggelse och industri. Dagens energisystem står inför stora utmaningar med att ställa om till att bli mer resurseffektiva och miljömässigt uthålliga. Programmet innehåller därför både särskilda kurser och moment i andra kurser som tar upp dessa viktiga aspekter. 
-
-Programmets upplägg syftar till att inledningsvis ge generell ingenjörskompetens med kurser i matematik, CAD och programmering. Denna generella bas byggs på med specialisering inom kraft- och värmeteknik. Krafttekniken omfattar en progression genom ellära, elkraftteknik, solel, elektriska maskiner, styr- och reglerteknik, förnybar energiteknik samt aktiva elnät. Värmetekniken omfattar i progression kurserna termodynamik, strömningslära, installationsteknik och dimensionering samt kraftvärmesystem. 
-
-Under programmets senare del knyts kraft- och värmeteknik ihop med energieffektivisering i byggnader och industri samt hållbara energisystem, som till stor del bygger på projektarbete kopplat till verkliga fall. Examensarbetet ger utrymme för fortsatt fördjupning inom kraft- och/eller värmeteknik, energieffektivisering eller relevanta energisystemrelaterade frågeställningar.
-
-## 3. Programmets kurser
-
-**År 1**
-
-- [[GMT338|3D-cad – grundkurs]], 7,5 hp
-- [[GMA2ZS|Analys i en variabel]], 7,5 hp
-- [[GET36T|Ellära]], 7,5 hp
-- [[GMA2ZT|Inledande matematik]], 3 hp
-- [[GIE3H2|Industriell ekonomi – grundläggande kurs]], 7,5 hp
-- [[GEG2ZR|Introduktion till hållbara energisystem]], 4,5 hp
-- [[MD2025|Linjär algebra]], 7,5 hp
-- [[GIK299|Objektorienterad programmering]], 7,5 hp
-- Utvecklingsprojekt, tillverkning av en solfångare, 7,5 hp
-
-**År 2**
-
-- [[GEG3BX|Elektriska maskiner]], 7,5 hp
-- [[GEG39Y|Elkraftteknik]], 7,5 hp
-- [[GBY38E|Installationsteknik och dimensionering]], 7,5 hp
-- [[GMT3BW|Mekanik]], 7,5 hp
-- Solel, 7,5 hp
-- [[EG1012|Strömningslära]], 7,5 hp
-- [[ET1029|Styr- och reglerteknik]], 7,5 hp
-- [[FY1018|Termodynamik]], 7,5 hp
-
-**År 3**
-
-- [[GEG39Z|Aktiva elnät]], 7,5 hp
-- [[GEG2UE|Energieffektivisering]], 7,5 hp
-- [[EG2004|Examensarbete för högskoleingenjörsexamen i energiteknik]], 15 hp
-- [[GEG3DV|Förnybar energiteknik]], 7,5 hp
-- [[GEG3DT|Hållbara energisystem]], 7,5 hp
-- [[GEG3DU|Kraftvärmesystem]], 7,5 hp
-- [[GEG3FM|Vetenskaplig metodik och kommunikation]], 7,5 hp
-
-## 4. Examensbenämning
-
-Högskoleingenjörsexamen, teknikområde: energiteknik (Degree of Bachelor of Science in Engineering, Engineering Field: Energy Engineering)
-
-## 6. Summary in English
-
-On completion of the programme, students will be able to:
-
-_Knowledge and understanding_
-
-  - demonstrate knowledge of basic concepts relating to electricity, thermodynamics and mechanics, as well as of the mathematical basis that these require,
-
-  - demonstrate knowledge of practical applications for energy systems and energy efficiency in industry and buildings,
-
-  - demonstrate knowledge of resource utilisation throughout the entire chain from the extraction of natural resources, processes of energy conversion, and distribution to the end user, and
-
-  - demonstrate theoretical knowledge of the structure of the electricity grid and understanding of how the electricity grid is affected by renewable power generation. 
-
-_Competence and skills_
-
-  - demonstrate the ability to use different types of computational software and based on relevant input, design technological energy systems, and
-
-  - demonstrate the ability to analyse and evaluate installations for energy and energy efficiency in industry and buildings while considering their need for electricity and heat/cold.
-
-_Judgment and approach_
-
-  - demonstrate the ability to evaluate various technological energy solutions for electricity and heat production or energy efficiency in industry and buildings from a sustainability perspective.
-
-## 7. Övrigt
-
-Vissa kurser inom programmet ges på engelska.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __
-
 ## 1. Programmets mål
 
 ### 
@@ -194,6 +100,81 @@ Värderingsförmåga och förhållningssätt
 
   - visa förmåga att ur ett hållbarhetsperspektiv värdera olika energitekniska lösningar för el- och värmeproduktion eller energieffektivisering i industri eller byggnader.
 
+## 2. Huvudsaklig uppläggning
+
+Energisystem har idag hög grad av komplexitet vilket innebär att både breda och djupa ämneskunskaper, metodisk förmåga att hitta systemlösningar samt ett förhållningssätt med uthållighet, resurs- och kostnadseffektivitet i fokus är aspekter som behövs i arbetslivet. I programmet behandlas energiteknik och system ur ett brett perspektiv omfattande produktion och distribution av el och värme samt effektiv användning av el och värme/kyla i bebyggelse och industri. Dagens energisystem står inför stora utmaningar med att ställa om till att bli mer resurseffektiva och miljömässigt uthålliga. Programmet innehåller därför både särskilda kurser och moment i andra kurser som tar upp dessa viktiga aspekter. 
+
+Programmets upplägg syftar till att inledningsvis ge generell ingenjörskompetens med kurser i matematik, CAD och programmering. Denna generella bas byggs på med specialisering inom kraft- och värmeteknik. Krafttekniken omfattar en progression genom ellära, elkraftteknik, solel, elektriska maskiner, styr- och reglerteknik, förnybar energiteknik samt aktiva elnät. Värmetekniken omfattar i progression kurserna termodynamik, strömningslära, installationsteknik och dimensionering samt kraftvärmesystem. 
+
+Under programmets senare del knyts kraft- och värmeteknik ihop med energieffektivisering i byggnader och industri samt hållbara energisystem, som till stor del bygger på projektarbete kopplat till verkliga fall. Examensarbetet ger utrymme för fortsatt fördjupning inom kraft- och/eller värmeteknik, energieffektivisering eller relevanta energisystemrelaterade frågeställningar.
+
+## 3. Programmets kurser
+
+**År 1**
+
+- [[GMT338|3D-cad – grundkurs]], 7,5 hp
+- [[GMA2ZS|Analys i en variabel]], 7,5 hp
+- [[GET36T|Ellära]], 7,5 hp
+- [[GMA2ZT|Inledande matematik]], 3 hp
+- [[GIE3H2|Industriell ekonomi – grundläggande kurs]], 7,5 hp
+- [[GEG2ZR|Introduktion till hållbara energisystem]], 4,5 hp
+- [[MD2025|Linjär algebra]], 7,5 hp
+- [[GIK299|Objektorienterad programmering]], 7,5 hp
+- Utvecklingsprojekt, tillverkning av en solfångare, 7,5 hp
+
+**År 2**
+
+- [[GEG3BX|Elektriska maskiner]], 7,5 hp
+- [[GEG39Y|Elkraftteknik]], 7,5 hp
+- [[GBY38E|Installationsteknik och dimensionering]], 7,5 hp
+- [[GMT3BW|Mekanik]], 7,5 hp
+- Solel, 7,5 hp
+- [[EG1012|Strömningslära]], 7,5 hp
+- [[ET1029|Styr- och reglerteknik]], 7,5 hp
+- [[FY1018|Termodynamik]], 7,5 hp
+
+**År 3**
+
+- [[GEG39Z|Aktiva elnät]], 7,5 hp
+- [[GEG2UE|Energieffektivisering]], 7,5 hp
+- [[EG2004|Examensarbete för högskoleingenjörsexamen i energiteknik]], 15 hp
+- [[GEG3DV|Förnybar energiteknik]], 7,5 hp
+- [[GEG3DT|Hållbara energisystem]], 7,5 hp
+- [[GEG3DU|Kraftvärmesystem]], 7,5 hp
+- [[GEG3FM|Vetenskaplig metodik och kommunikation]], 7,5 hp
+
+## 4. Examensbenämning
+
+Högskoleingenjörsexamen, teknikområde: energiteknik (Degree of Bachelor of Science in Engineering, Engineering Field: Energy Engineering)
+
 ## 5. Behörighetskrav
 
 - Grundläggande behörighet samt Matematik 3c eller Matematik D, Fysik 2, Kemi 1. Eller: Matematik fortsättning nivå 1c, Fysik nivå 2, Kemi nivå 1
+
+## 6. Summary in English
+
+On completion of the programme, students will be able to:
+
+_Knowledge and understanding_
+
+  - demonstrate knowledge of basic concepts relating to electricity, thermodynamics and mechanics, as well as of the mathematical basis that these require,
+
+  - demonstrate knowledge of practical applications for energy systems and energy efficiency in industry and buildings,
+
+  - demonstrate knowledge of resource utilisation throughout the entire chain from the extraction of natural resources, processes of energy conversion, and distribution to the end user, and
+
+  - demonstrate theoretical knowledge of the structure of the electricity grid and understanding of how the electricity grid is affected by renewable power generation. 
+
+_Competence and skills_
+
+  - demonstrate the ability to use different types of computational software and based on relevant input, design technological energy systems, and
+
+  - demonstrate the ability to analyse and evaluate installations for energy and energy efficiency in industry and buildings while considering their need for electricity and heat/cold.
+
+_Judgment and approach_
+
+  - demonstrate the ability to evaluate various technological energy solutions for electricity and heat production or energy efficiency in industry and buildings from a sustainability perspective.
+
+## 7. Övrigt
+
+Vissa kurser inom programmet ges på engelska.

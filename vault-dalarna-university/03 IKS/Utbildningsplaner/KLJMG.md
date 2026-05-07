@@ -17,6 +17,86 @@ up: "[[IKS MOC]]"
 - **Fastställd:** Fastställd av Utbildnings- och Forskningsnämnden 2021-03-23 . Gäller fr.o.m.  HT 2021.
 - **Reviderad:** Reviderad 2023-07-05 . Revideringen är giltig fr.o.m. HT 2023.
 
+## 1. Programmets mål
+
+### 
+1.1 Mål enligt Högskolelagen (1992:1434), 1 kap. 8 §:
+
+Utbildning på grundnivå ska väsentligen bygga på de kunskaper som eleverna får på nationella program i gymnasieskolan eller motsvarande kunskaper.
+
+Utbildning på grundnivå ska utveckla studenternas  
+- förmåga att göra självständiga och kritiska bedömningar,  
+- förmåga att självständigt urskilja, formulera och lösa problem, och  
+- beredskap att möta förändringar i arbetslivet.
+
+Inom det område som utbildningen avser ska studenterna, utöver kunskaper  
+och färdigheter, utveckla förmåga att  
+- söka och värdera kunskap på vetenskaplig nivå,  
+- följa kunskapsutvecklingen, och  
+- utbyta kunskaper även med personer utan specialkunskaper inom området
+
+### 
+1.2 Examensmål enligt Högskoleförordningen (1993:100), bilaga 2:
+
+För kandidatexamen skall studenten  
+
+Kunskap och förståelse  
+- visa kunskap och förståelse inom huvudområdet för utbildningen, inbegripet kunskap  
+om områdets vetenskapliga grund, kunskap om tillämpliga metoder inom området,  
+fördjupning inom någon del av området samt orientering om aktuella forskningsfrågor.  
+
+Färdighet och förmåga  
+- visa förmåga att söka, samla, värdera och kritiskt tolka relevant information i en  
+problemställning samt att kritiskt diskutera företeelser, frågeställningar och   
+situationer,  
+- visa förmåga att självständigt identifiera, formulera och lösa problem samt att  
+- genomföra uppgifter inom givna tidsramar,  
+- visa förmåga att muntligt och skriftligt redogöra för och diskutera information,   
+problem  
+- och lösningar i dialog med olika grupper, och  
+- visa sådan färdighet som fordras för att självständigt arbeta inom det område som  
+utbildningen avser.  
+
+Värderingsförmåga och förhållningssätt  
+- visa förmåga att inom huvudområdet för utbildningen göra bedömningar med hänsyn  
+till relevanta vetenskapliga, samhälleliga och etiska aspekter,  
+- visa insikt om kunskapens roll i samhället och om människors ansvar för hur den  
+används, och  
+- visa förmåga att identifiera sitt behov av ytterligare kunskap och att utveckla sin  
+kompetens.
+
+### 
+1.3 Utbildningsprogrammets mål
+
+Efter genomförd utbildning skall studenten kunna
+
+  
+Kunskap och förståelse  
+- såväl muntligt som skriftligt visa kunskaper i elektronik samt datateknik för   
+användning i ljudproduktion,  
+- såväl muntligt som skriftligt visa kunskaper om ljudets fysikaliska egenskaper och  
+lyssnandets funktioner,  
+- såväl muntligt som skriftligt visa kännedom om aktuella förändringar i  
+mediebranschens produktionsvillkor, särskilt vad gäller audioteknologins påverkan.  
+
+Färdighet och förmåga  
+- spela in, mixa och färdigställa medierade ljud- och musikproduktioner,  
+- identifiera och i såväl muntlig som skriftlig form beskriva ett antal förelagda  
+ljudhändelser,  
+- skapa och realisera musik i produktioner för bestämda målgrupper,  
+- beskriva och analysera ljud- och musikproduktioner,  
+- initiera, planera, leda, genomföra och redovisa ljud- och musikproduktioner inom flera  
+tillämpningsområden,  
+- initiera, planera, genomföra ett vetenskapligt arbete inom huvudområdet och  
+presentera detta i uppsatsform.  
+
+Värderingsförmåga och förhållningssätt  
+- värdera ljud- och musikproduktioner enligt genrekonventioner och enligt ljud- och  
+musikbranschens praxis,  
+- i ord och handling visa medvetenhet om etiska principer i samband med ljud- och  
+musikproduktion,  
+- kritiskt analysera och diskutera både produktionsuppgifter och vetenskapliga arbeten.
+
 ## 2. Huvudsaklig uppläggning
 
 Programmet omfattar sex terminer, 180 högskolepoäng. Samtliga av programmets kurser ges   
@@ -113,6 +193,10 @@ Under den sjätte terminens kurs Projektarbete inom medieproduktion, fördjupnin
 Filosofie kandidatexamen, huvudområde: Ljud- och musikproduktion (Degree of Bachelor  
 of Arts, Main Field of Study: Sound and Music Production).
 
+## 5. Behörighetskrav
+
+- Grundläggande behörighet
+
 ## 6. Summary in English
 
 Knowledge and Understanding  
@@ -148,106 +232,3 @@ De två sista terminerna läses tillsammans andra medieproduktionsprogram.
   
 För att inkludera programmets namn i examensbeviset fordras minst 150 hp av   
 programmets kurser. I dessa ska kursen Kandidatexamensarbete 15 hp ingå.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __
-
-## 1. Programmets mål
-
-### 
-1.1 Mål enligt Högskolelagen (1992:1434), 1 kap. 8 §:
-
-Utbildning på grundnivå ska väsentligen bygga på de kunskaper som eleverna får på nationella program i gymnasieskolan eller motsvarande kunskaper.
-
-Utbildning på grundnivå ska utveckla studenternas  
-- förmåga att göra självständiga och kritiska bedömningar,  
-- förmåga att självständigt urskilja, formulera och lösa problem, och  
-- beredskap att möta förändringar i arbetslivet.
-
-Inom det område som utbildningen avser ska studenterna, utöver kunskaper  
-och färdigheter, utveckla förmåga att  
-- söka och värdera kunskap på vetenskaplig nivå,  
-- följa kunskapsutvecklingen, och  
-- utbyta kunskaper även med personer utan specialkunskaper inom området
-
-### 
-1.2 Examensmål enligt Högskoleförordningen (1993:100), bilaga 2:
-
-För kandidatexamen skall studenten  
-
-Kunskap och förståelse  
-- visa kunskap och förståelse inom huvudområdet för utbildningen, inbegripet kunskap  
-om områdets vetenskapliga grund, kunskap om tillämpliga metoder inom området,  
-fördjupning inom någon del av området samt orientering om aktuella forskningsfrågor.  
-
-Färdighet och förmåga  
-- visa förmåga att söka, samla, värdera och kritiskt tolka relevant information i en  
-problemställning samt att kritiskt diskutera företeelser, frågeställningar och   
-situationer,  
-- visa förmåga att självständigt identifiera, formulera och lösa problem samt att  
-- genomföra uppgifter inom givna tidsramar,  
-- visa förmåga att muntligt och skriftligt redogöra för och diskutera information,   
-problem  
-- och lösningar i dialog med olika grupper, och  
-- visa sådan färdighet som fordras för att självständigt arbeta inom det område som  
-utbildningen avser.  
-
-Värderingsförmåga och förhållningssätt  
-- visa förmåga att inom huvudområdet för utbildningen göra bedömningar med hänsyn  
-till relevanta vetenskapliga, samhälleliga och etiska aspekter,  
-- visa insikt om kunskapens roll i samhället och om människors ansvar för hur den  
-används, och  
-- visa förmåga att identifiera sitt behov av ytterligare kunskap och att utveckla sin  
-kompetens.
-
-### 
-1.3 Utbildningsprogrammets mål
-
-Efter genomförd utbildning skall studenten kunna
-
-  
-Kunskap och förståelse  
-- såväl muntligt som skriftligt visa kunskaper i elektronik samt datateknik för   
-användning i ljudproduktion,  
-- såväl muntligt som skriftligt visa kunskaper om ljudets fysikaliska egenskaper och  
-lyssnandets funktioner,  
-- såväl muntligt som skriftligt visa kännedom om aktuella förändringar i  
-mediebranschens produktionsvillkor, särskilt vad gäller audioteknologins påverkan.  
-
-Färdighet och förmåga  
-- spela in, mixa och färdigställa medierade ljud- och musikproduktioner,  
-- identifiera och i såväl muntlig som skriftlig form beskriva ett antal förelagda  
-ljudhändelser,  
-- skapa och realisera musik i produktioner för bestämda målgrupper,  
-- beskriva och analysera ljud- och musikproduktioner,  
-- initiera, planera, leda, genomföra och redovisa ljud- och musikproduktioner inom flera  
-tillämpningsområden,  
-- initiera, planera, genomföra ett vetenskapligt arbete inom huvudområdet och  
-presentera detta i uppsatsform.  
-
-Värderingsförmåga och förhållningssätt  
-- värdera ljud- och musikproduktioner enligt genrekonventioner och enligt ljud- och  
-musikbranschens praxis,  
-- i ord och handling visa medvetenhet om etiska principer i samband med ljud- och  
-musikproduktion,  
-- kritiskt analysera och diskutera både produktionsuppgifter och vetenskapliga arbeten.
-
-## 5. Behörighetskrav
-
-- Grundläggande behörighet

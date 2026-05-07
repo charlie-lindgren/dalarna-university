@@ -16,51 +16,6 @@ up: "[[IKS MOC]]"
 - **Programansvarig:** Catia Cialani
 - **Fastställd:** Fastställd av Utbildnings- och Forskningsnämnden 2020-10-07 . Gäller fr.o.m.  HT 2020.
 
-## 2. Huvudsaklig uppläggning
-
-Programmet fokuserar på tillämpad ekonomisk analys. Samtliga kurser och all handledning ges på engelska. Programmets första termin (hösten) består av fyra kurser. Andra terminen (våren) innehåller två kurser, där slutkursen är en masteruppsats på 15 hp i Ekonomi.
-
-## 3. Programmets kurser
-
-**Alla kurser är på avancerad nivå och är i huvudområdet Nationalekonomi.**
-
-- [[NA3008|Matematik för ekonomisk statisk analys]], 7,5 hp
-- [[NA3001|Tillämpad mikroekonomi]], 7,5 hp
-- [[NA3011|Ekonometri]], 7,5 hp
-- [[ANA235|Ledarskapets ekonomi]], 7,5 hp
-- Avancerad mikroteori, 7,5 hp
-- Samhällsekonomisk utvärdering av offentliga projekt, 7,5 hp
-- [[NA3010|Examensarbete för Magisterexamen i Nationalekonomi]], 15 hp
-
-## 4. Examensbenämning
-
-Filosofie magisterexamen, huvudområde: Nationalekonomi (Degree of Master of Science [60 Credits], Main Field of Study: Economics)  
-or,   
-Ekonomie magisterexamen, huvudområde: Nationalekonomi (Degree of Master of Science [60 Credits] in Business and Economics, Main Field of Study: Economics)
-
-## 7. Övrigt
-
-Programnamnet kan anges i examensbeviset om den studerande med godkänt resultat har genomför programmets kurser enligt utbildningsplanen.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __
-
 ## 1. Programmets mål
 
 ### 
@@ -119,6 +74,32 @@ Värderingsförmåga och förhållningssätt
 - Förmåga att bedöma och visa medvetenhet om relevanta etiska aspekter för datainsamling, analys och presentation av ekonomiska resultat.   
 - Förmåga att bedöma och visa medvetenhet om implikationer för hållbarhet och sociala grupperingar.
 
+## 2. Huvudsaklig uppläggning
+
+Programmet fokuserar på tillämpad ekonomisk analys. Samtliga kurser och all handledning ges på engelska. Programmets första termin (hösten) består av fyra kurser. Andra terminen (våren) innehåller två kurser, där slutkursen är en masteruppsats på 15 hp i Ekonomi.
+
+## 3. Programmets kurser
+
+**Alla kurser är på avancerad nivå och är i huvudområdet Nationalekonomi.**
+
+- [[NA3008|Matematik för ekonomisk statisk analys]], 7,5 hp
+- [[NA3001|Tillämpad mikroekonomi]], 7,5 hp
+- [[NA3011|Ekonometri]], 7,5 hp
+- [[ANA235|Ledarskapets ekonomi]], 7,5 hp
+- Avancerad mikroteori, 7,5 hp
+- Samhällsekonomisk utvärdering av offentliga projekt, 7,5 hp
+- [[NA3010|Examensarbete för Magisterexamen i Nationalekonomi]], 15 hp
+
+## 4. Examensbenämning
+
+Filosofie magisterexamen, huvudområde: Nationalekonomi (Degree of Master of Science [60 Credits], Main Field of Study: Economics)  
+or,   
+Ekonomie magisterexamen, huvudområde: Nationalekonomi (Degree of Master of Science [60 Credits] in Business and Economics, Main Field of Study: Economics)
+
 ## 5. Behörighetskrav
 
 - Kandidatexamen i Nationalekonomi eller Matematik omfattande minst 180 hp eller ett ingenjörsprogram med kvantitativ eller matematisk inriktning och Engelska 6
+
+## 7. Övrigt
+
+Programnamnet kan anges i examensbeviset om den studerande med godkänt resultat har genomför programmets kurser enligt utbildningsplanen.

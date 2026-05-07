@@ -75,7 +75,6 @@ Programmet består av fem kurser. En kurs utforskar kunskapsproduktion genom aud
 - [[AU3005|Vetenskaplig teori och metod i Audiovisuella studier]], 7,5 hp
 **Samtliga kurser är på avancerad nivå och ingår i huvudområdet Audiovisuella studier.**
 
-
 ## 4. Examensbenämning
 
 Filosofie magisterexamen, huvudområde: Audiovisuella studier (Degree of Master of Arts [60 credits], Main Field of Study: Audiovisual Studies)
@@ -92,22 +91,3 @@ The program focuses on the interaction of sound and image, known as audiovisuali
 ## 7. Övrigt
 
 Då undervisningen ges på svenska så förutsätts goda kunskaper i svenska. Även engelsk litteratur kan förekomma.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __

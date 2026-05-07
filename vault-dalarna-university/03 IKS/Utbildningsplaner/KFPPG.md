@@ -127,22 +127,3 @@ Filosofie kandidatexamen, huvudområde Medieproduktion
 
 Programnamnet kan på begäran redovisas i examensbeviset om den studerande med godkänt resultat har genomfört samtliga programmets kurser.  
 Vissa kurser kan komma att ges på engelska.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __

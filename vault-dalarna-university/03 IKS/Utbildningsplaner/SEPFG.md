@@ -133,22 +133,3 @@ The student should have acquired the knowledge needed to start and run a small b
 ## 7. Övrigt
 
 För Högskoleexamen med inriktning mot entreprenöriellt företagande krävs godkänt betyg på samtliga kurser i programmet.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __

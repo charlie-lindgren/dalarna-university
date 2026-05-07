@@ -132,22 +132,3 @@ during the semester when they write their thesis.
 ## 7. Övrigt
 
 För att programnamnet ska anges i examensbeviset ska utbildningsplanens samtliga kurser vara minst godkända. Undervisning i programmet kan komma att ske på engelska.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __

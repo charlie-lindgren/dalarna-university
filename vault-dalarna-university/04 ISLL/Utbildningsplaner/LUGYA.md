@@ -197,22 +197,3 @@ Den verksamhetsförlagda utbildningen omfattar 30 högskolepoäng och är förla
 Ersätter tidigare utbildningsplan LGKYA.   
   
 Se programmets webbplats för särskilda behörighetskrav på ämneskunskapernas bredd och djup för de olika undervisningsämnena.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __

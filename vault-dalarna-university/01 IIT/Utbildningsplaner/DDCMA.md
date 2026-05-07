@@ -17,81 +17,6 @@ up: "[[IIT MOC]]"
 - **Fastställd:** Fastställd av Utbildnings- och Forskningsnämnden 2018-10-11 . Gäller fr.o.m.  HT 2018.
 - **Reviderad:** Reviderad 2022-03-01 . Revideringen är giltig fr.o.m. VT 2022.
 
-## 2. Huvudsaklig uppläggning
-
-Data Science-programmet ger en intensiv och bred utbildning i; datainsamling, databearbetning, informationsanalys, informationsmodellering och beslutsfattande, delar som hänger samman i den så kallade Business Intelligence-kedjan (BI). Den integrerar de viktigaste komponenterna från Artificiell intelligens, dataanalys av företagsdata, informationssystem med statistiska principer. Denna konstruktion syftar till att utveckla studenten för att möta ökande globala utmaningar i karriären och ge dem kompetens och kapacitet från avancerad dataanalysforskning till kompetens inom företagsledning
-
-År ett breddas kunskaper och färdigheter inom huvudområdet Mikrodataanalys. I början av programmet finns ett antal kurser som lägger grunden för de fortsatta studierna på programmet. Programmets kurser under första året fokuserar på analys av företagsdata med hjälp av såväl statistiska som datavetenskapliga metoder i en BI-kontext. Dessutom tas frågor rörande datainsamling och datakvalitet upp. Vid slutet av det första året har grunden för att kunna utnyttja olika teknologier lagts. Det första året på programmet ger praktisk färdighet i att samla in, lagra och analysera data.  
-   
-Under det andra året kommer studenterna att tränas i och testas på frågor som är relevanta för data modellering och dataanalys. Andra årets kurser syftar till att fördjupa samt bredda de kunskaper som studenterna har förvärvat under första året. Exempelvis fördjupas kunskaperna i datamodellering och studenterna lär sig dessutom att analysera rumslig data. Under andra året ska även en plan för examensarbetet utarbetas. I planen identifieras ett problem och ett undersökningsmål formuleras. Planen ska beskriva hur problemet lösas och vilket material arbetet kommer att bygga på samt hur tillgång till detta kan försäkras. Vidare ska det i planen redogöras för vilket lärandebehov som finns för att uppnå målet och på basis av den behovsinventeringen väljs lämpliga valbara kurser i programmet. Planen ska redovisas för en handledargrupp. Under den sista terminen färdigställs examensarbetet. Examensarbetet kan vara av metodologisk art och bidra till utveckling av metoder och tekniker inom mikrodataanalys. Det kan också vara ett praktiskt arbete som syftar till att förstärka en organisations BI-kedja eller förbättra den i någon del.
-
-## 3. Programmets kurser
-
-**Alla kurser ingår i huvudområdet mikrodatanalys.**
-
-- [[AMI295|Business Intelligence]], 7,5 hp
-- [[AMI23K|Datainsamling och datakvalitet]], 7,5 hp
-- Datadrivet ledarskap eller Ledarskapets ekonomi, 7,5 hp
-- [[AMI23G|Maskininlärning]], 7,5 hp
-- [[AMI22T|Statistisk inlärning]], 7,5 hp
-- [[MI4001|Examensarbete för masterexamen i mikrodataanalys]], 30 hp
-
-**Valbara kurser:**
-
-- [[AMI23A|Dataanalys och visualisering]], 7,5 hp
-- [[AIK232|Data Warehousing]], 7,5 hp
-- [[AMI23L|Rumslig data och GIS]], 7,5 hp
-- [[AMI23C|Komplexitet och operationsanalytiska metoder]], 7,5 hp
-- [[GMI23G|Logik och matematik för datavetenskap]], 7,5 hp
-- [[GIK29B|Python- och R-programmering]], 7,5 hp
-- [[AMI22Z|Riskanalys]], 7,5 hp
-- [[AMI23J|Arbetsplatsförlagd utbildning i Data Science]], 7,5 hp
-
-## 4. Examensbenämning
-
-Filosofie Masterexamen, huvudområde: Mikrodataanalys (Degree of Master of Science [120 Credits], Main Field of Study: Microdata Analysis).
-
-## 6. Summary in English
-
-This Data Science program gives an intensive and comprehensive training in data collection, data processing, information analysis, and decision making – so-called a BI chain training system – which integrate the core components from AI, Business Data Analysis, Information Systems with Statistics principles. Upon the completion of the programme students shall be able to:
-
-  
-- Demonstrate critical thinking and theoretical awareness of knowledge within the field of micro-data analysis.  
-- Expand and develop new insights into the modeling and analysis of data to be able to independently design and implement robust analytical models in organizations within a given time frame.  
-- Manage complex and large amounts of data in an organisation so as to be able to integrate and incorporate Data Science into day to day decision making.  
-- Apply specialised theoretical and practical knowledge to be able to critically analyse, evaluate, synthesise and model data.  
-- Communicate methods, results, and knowledge using appropriate techniques to both specialists and laymen within an organization.  
-- Critically analyze and evaluate the relevant tools that an organization uses to better understand their business and to improve decision making.  
-- Demonstrate leadership, innovation and independence in situations where many  
-factors interact.
-
-- Review and reflect on the social and ethical issues, norms and relationships and act to ensure and execute them. Proper care must be ensured while handling sensitive and confidential data. Typical examples include customers in a bank, credit card information, and patient information and so on.
-
-## 7. Övrigt
-
-Utbildningsprogrammet ges på engelska.
-
-Programmets namn kan på begäran rapporteras på examensbeviset om studenten har avslutat de obligatoriska kurserna på programmet.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __
-
 ## 1. Programmets mål
 
 ### 
@@ -136,6 +61,62 @@ För masterexamen skall studenten:
 - Uppvisa ledarskapsförmåga, nytänkande och självständighet i studie- och arbetssituationer som förutsätter problemlösningar där många faktorer samspelar.   
 - Granska och reflektera över sociala och etiska aspekter samt normer och förhållanden samt agera för att förändra dessa. Speciellt när det gäller hantering av känsliga och konfidentiella data, exempelvis information om kunder i en bank, kreditkortsinformation, patientinformation och sådana.
 
+## 2. Huvudsaklig uppläggning
+
+Data Science-programmet ger en intensiv och bred utbildning i; datainsamling, databearbetning, informationsanalys, informationsmodellering och beslutsfattande, delar som hänger samman i den så kallade Business Intelligence-kedjan (BI). Den integrerar de viktigaste komponenterna från Artificiell intelligens, dataanalys av företagsdata, informationssystem med statistiska principer. Denna konstruktion syftar till att utveckla studenten för att möta ökande globala utmaningar i karriären och ge dem kompetens och kapacitet från avancerad dataanalysforskning till kompetens inom företagsledning
+
+År ett breddas kunskaper och färdigheter inom huvudområdet Mikrodataanalys. I början av programmet finns ett antal kurser som lägger grunden för de fortsatta studierna på programmet. Programmets kurser under första året fokuserar på analys av företagsdata med hjälp av såväl statistiska som datavetenskapliga metoder i en BI-kontext. Dessutom tas frågor rörande datainsamling och datakvalitet upp. Vid slutet av det första året har grunden för att kunna utnyttja olika teknologier lagts. Det första året på programmet ger praktisk färdighet i att samla in, lagra och analysera data.  
+   
+Under det andra året kommer studenterna att tränas i och testas på frågor som är relevanta för data modellering och dataanalys. Andra årets kurser syftar till att fördjupa samt bredda de kunskaper som studenterna har förvärvat under första året. Exempelvis fördjupas kunskaperna i datamodellering och studenterna lär sig dessutom att analysera rumslig data. Under andra året ska även en plan för examensarbetet utarbetas. I planen identifieras ett problem och ett undersökningsmål formuleras. Planen ska beskriva hur problemet lösas och vilket material arbetet kommer att bygga på samt hur tillgång till detta kan försäkras. Vidare ska det i planen redogöras för vilket lärandebehov som finns för att uppnå målet och på basis av den behovsinventeringen väljs lämpliga valbara kurser i programmet. Planen ska redovisas för en handledargrupp. Under den sista terminen färdigställs examensarbetet. Examensarbetet kan vara av metodologisk art och bidra till utveckling av metoder och tekniker inom mikrodataanalys. Det kan också vara ett praktiskt arbete som syftar till att förstärka en organisations BI-kedja eller förbättra den i någon del.
+
+## 3. Programmets kurser
+
+**Alla kurser ingår i huvudområdet mikrodatanalys.**
+
+- [[AMI295|Business Intelligence]], 7,5 hp
+- [[AMI23K|Datainsamling och datakvalitet]], 7,5 hp
+- Datadrivet ledarskap eller Ledarskapets ekonomi, 7,5 hp
+- [[AMI23G|Maskininlärning]], 7,5 hp
+- [[AMI22T|Statistisk inlärning]], 7,5 hp
+- [[MI4001|Examensarbete för masterexamen i mikrodataanalys]], 30 hp
+
+**Valbara kurser:**
+
+- [[AMI23A|Dataanalys och visualisering]], 7,5 hp
+- [[AIK232|Data Warehousing]], 7,5 hp
+- [[AMI23L|Rumslig data och GIS]], 7,5 hp
+- [[AMI23C|Komplexitet och operationsanalytiska metoder]], 7,5 hp
+- [[GMI23G|Logik och matematik för datavetenskap]], 7,5 hp
+- [[GIK29B|Python- och R-programmering]], 7,5 hp
+- [[AMI22Z|Riskanalys]], 7,5 hp
+- [[AMI23J|Arbetsplatsförlagd utbildning i Data Science]], 7,5 hp
+
+## 4. Examensbenämning
+
+Filosofie Masterexamen, huvudområde: Mikrodataanalys (Degree of Master of Science [120 Credits], Main Field of Study: Microdata Analysis).
+
 ## 5. Behörighetskrav
 
 - Kandidatexamen 180 hp i ämnet datavetenskap och Engelska 6
+
+## 6. Summary in English
+
+This Data Science program gives an intensive and comprehensive training in data collection, data processing, information analysis, and decision making – so-called a BI chain training system – which integrate the core components from AI, Business Data Analysis, Information Systems with Statistics principles. Upon the completion of the programme students shall be able to:
+
+  
+- Demonstrate critical thinking and theoretical awareness of knowledge within the field of micro-data analysis.  
+- Expand and develop new insights into the modeling and analysis of data to be able to independently design and implement robust analytical models in organizations within a given time frame.  
+- Manage complex and large amounts of data in an organisation so as to be able to integrate and incorporate Data Science into day to day decision making.  
+- Apply specialised theoretical and practical knowledge to be able to critically analyse, evaluate, synthesise and model data.  
+- Communicate methods, results, and knowledge using appropriate techniques to both specialists and laymen within an organization.  
+- Critically analyze and evaluate the relevant tools that an organization uses to better understand their business and to improve decision making.  
+- Demonstrate leadership, innovation and independence in situations where many  
+factors interact.
+
+- Review and reflect on the social and ethical issues, norms and relationships and act to ensure and execute them. Proper care must be ensured while handling sensitive and confidential data. Typical examples include customers in a bank, credit card information, and patient information and so on.
+
+## 7. Övrigt
+
+Utbildningsprogrammet ges på engelska.
+
+Programmets namn kan på begäran rapporteras på examensbeviset om studenten har avslutat de obligatoriska kurserna på programmet.

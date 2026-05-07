@@ -17,6 +17,84 @@ up: "[[IKS MOC]]"
 - **Fastställd:** Fastställd av prefekt för institutionen för kultur och samhälle 2023-02-24 . Gäller fr.o.m.  VT 2023.
 - **Reviderad:** Reviderad 2023-10-31 . Revideringen är giltig fr.o.m. HT 2023.
 
+## 1. Programmets mål
+
+### 
+1.1 Mål enligt Högskolelagen (1992:1434), 1 kap. 8 §:
+
+Utbildning på grundnivå ska väsentligen bygga på de kunskaper som eleverna får på nationella program i gymnasieskolan eller motsvarande kunskaper.
+
+Utbildning på grundnivå ska utveckla studenternas  
+– förmåga att göra självständiga och kritiska bedömningar,  
+– förmåga att självständigt urskilja, formulera och lösa problem, och  
+– beredskap att möta förändringar i arbetslivet.
+
+Inom det område som utbildningen avser ska studenterna, utöver kunskaper  
+och färdigheter, utveckla förmåga att  
+– söka och värdera kunskap på vetenskaplig nivå,  
+– följa kunskapsutvecklingen, och  
+– utbyta kunskaper även med personer utan specialkunskaper inom området.
+
+### 
+1.2 Examensmål enligt Högskoleförordningen (1993:100), bilaga 2:
+
+För kandidatexamen ska studenten
+
+Kunskap och förståelse  
+- visa kunskap och förståelse inom huvudområdet för utbildningen, inbegripet kunskap om områdets vetenskapliga grund, kunskap om tillämpliga metoder inom området, fördjupning inom någon del av området samt orientering om aktuella forskningsfrågor.
+
+Färdighet och förmåga  
+- visa förmåga att söka, samla, värdera och kritiskt tolka relevant information i en problemställning samt att kritiskt diskutera företeelser, frågeställningar och situationer,  
+- visa förmåga att självständigt identifiera, formulera och lösa problem samt att genomföra uppgifter inom givna tidsramar,  
+- visa förmåga att muntligt och skriftligt redogöra för och diskutera information, problem och lösningar i dialog med olika grupper, och  
+- visa sådan färdighet som fordras för att självständigt arbeta inom det område som utbildningen avser
+
+Värderingsförmåga och förhållningssätt   
+- visa förmåga att inom huvudområdet för utbildningen göra bedömningar med hänsyn till relevanta vetenskapliga, samhälleliga och etiska aspekter,  
+- visa insikt om kunskapens roll i samhället och om människors ansvar för hur den används, och  
+- visa förmåga att identifiera sitt behov av ytterligare kunskap och att utveckla sin kompetens.
+
+### 
+1.3 Utbildningsprogrammets mål
+
+Ekonomprogrammets mål är att studenterna ska tillägna sig kunskaper som möjliggör för dem att efter avslutad utbildning utföra kvalificerade arbetsuppgifter med anknytning till ekonomi inom ett brett spektrum av företag och organisationer. Programmets mål är också att studenterna tillägnar sig fördjupade kunskaper inom något av huvudområdena nationalekonomi och företagsekonomi.  
+  
+Efter genomgången utbildning ska studenten kunna:   
+  
+Generella programmål för alla studenter
+
+Kunskap och förståelse  
+- visa kunskap om hur företag och organisationer är uppbyggda och vilka funktioner de har i samhället,  
+- visa kunskap om hur samhällsekonomin och marknadsekonomin är relaterade till varandra och hur ekonomiska effekter av företags och organisationers verksamhet kan förstås och bedömas,  
+- visa kunskap om begrepp, modeller och teorier inom delområdena organisation, marknadsföring, ekonomistyrning och redovisning,  
+- visa kunskap om hur kapitalmarknader fungerar, hur man beräknar kapitalbehov och hur detta behov kan tillgodoses, och   
+- visa kännedom om villkor och förutsättningar för att utveckla och driva företag.  
+  
+Färdighet och förmåga  
+- visa förmåga att genomföra grundläggande bokföring, göra bokslut samt kunna tolka ekonomiska rapporter och årsredovisningar,   
+- visa förmåga att genomföra produkt- och investeringskalkyler,  
+- visa förmåga att tillämpa statistiska metoder och modeller inom ekonomiområdet,   
+- visa förmåga att tillämpa principer för marknadsföring och marknadskommunikation av företags och organisationers produkter och tjänster,  
+- visa förmåga att analysera organisationer utifrån teorier om hur individer agerar, både självständigt och i grupp, i relation till varandra och till organisationens mål, och   
+- visa förmåga att självständigt identifiera relevanta problem och vetenskapliga problemställningar avseende det ekonomiska området.  
+  
+Värderingsförmåga och förhållningssätt  
+- visa förmåga att göra bedömningar inom det ekonomiska området med hänsyn till relevanta vetenskapliga, samhälleliga och etiska aspekter, såsom hållbar utveckling, internationalisering, jämställdhet och mångfald.
+
+   
+Specifika mål för inriktning nationalekonomi
+
+- ha fördjupat sina kunskaper och färdigheter inom det nationalekonomiska området med tonvikt på  
+tillämpad mikroekonomi och väldfärdsanalys, och    
+- visa förmåga att kunna arbeta med kvalificerade analytiska uppgifter både inom privat och offentlig sektor.
+
+Specifika mål för inriktning företagsekonomi
+
+ - ha fördjupat sina kunskaper och färdigheter inom det företagsekonomiska området med tonvikt på  
+redovisning, marknadsföring eller organisation i olika miljöer, och    
+- visa förmåga att kunna arbeta med kvalificerade företagsekonomiska uppgifter i företag  
+och organisationer.
+
 ## 2. Huvudsaklig uppläggning
 
 Programmet är treårigt och har två inriktningar, en inriktad mot huvudområdet företagsekonomi och en inriktad mot huvudområdet nationalekonomi. Den företagsekonomiska inriktningen fokuserar på organisations- och marknadsföringsteori samt redovisning och ekonomistyrning. Den nationalekonomiska inriktningen fokuserar på mikro- och makroekonomisk teori, ekonometri och samhällsekonomiska lönsamhetsberäkningar. Under de två första åren läser man både nationalekonomi och företagsekonomi för att under år tre välja någon av inriktningarna.
@@ -101,7 +179,6 @@ Studenter som väljer huvudområdet företagsekonomi och vill bli revisor rekomm
 
 *** För att programmålen ska anses vara uppfyllda och programnamn därmed ska visas i examensbeviset, är kurser märkta med asterisk obligatoriska.**
 
-
 ## 4. Examensbenämning
 
 Ekonomie kandidatexamen, huvudområde: Företagsekonomi (Degree of Bachelor of Science in Business and Economics, Main Field of Study: Business Administration and Management)  
@@ -111,6 +188,10 @@ eller
 Ekonomie kandidatexamen, huvudområde: Nationalekonomi (Degree of Bachelor of Science in Business and Economics, Main Field of Study: Economics)  
 eller     
 Filosofie kandidatexamen, huvudområde: Nationalekonomi (Degree of Bachelor of Science, Main Field of Study: Economics)
+
+## 5. Behörighetskrav
+
+- Grundläggande behörighet samt Matematik 3b eller 3c eller Matematik C, Samhällskunskap 1b eller 1a1+1a2, Engelska 6. Eller: Matematik fortsättning nivå 1b eller Matematik fortsättning nivå 1c, Samhällskunskap nivå 1b eller nivå 1a2, Engelska nivå 2
 
 ## 6. Summary in English
 
@@ -141,104 +222,3 @@ Judgement and approach
 För de studenter som väljer att specialisera sig mot redovisning ger programmet de grundläggande teoretiska kunskaper som krävs för att kunna utbilda sig till och i förlängningen ansöka om att bli auktoriserad revisor. 
 
 Undervisningsspråket på programmet är svenska, men vissa av programmets kurser eller kursmoment ges på engelska.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __
-
-## 1. Programmets mål
-
-### 
-1.1 Mål enligt Högskolelagen (1992:1434), 1 kap. 8 §:
-
-Utbildning på grundnivå ska väsentligen bygga på de kunskaper som eleverna får på nationella program i gymnasieskolan eller motsvarande kunskaper.
-
-Utbildning på grundnivå ska utveckla studenternas  
-– förmåga att göra självständiga och kritiska bedömningar,  
-– förmåga att självständigt urskilja, formulera och lösa problem, och  
-– beredskap att möta förändringar i arbetslivet.
-
-Inom det område som utbildningen avser ska studenterna, utöver kunskaper  
-och färdigheter, utveckla förmåga att  
-– söka och värdera kunskap på vetenskaplig nivå,  
-– följa kunskapsutvecklingen, och  
-– utbyta kunskaper även med personer utan specialkunskaper inom området.
-
-### 
-1.2 Examensmål enligt Högskoleförordningen (1993:100), bilaga 2:
-
-För kandidatexamen ska studenten
-
-Kunskap och förståelse  
-- visa kunskap och förståelse inom huvudområdet för utbildningen, inbegripet kunskap om områdets vetenskapliga grund, kunskap om tillämpliga metoder inom området, fördjupning inom någon del av området samt orientering om aktuella forskningsfrågor.
-
-Färdighet och förmåga  
-- visa förmåga att söka, samla, värdera och kritiskt tolka relevant information i en problemställning samt att kritiskt diskutera företeelser, frågeställningar och situationer,  
-- visa förmåga att självständigt identifiera, formulera och lösa problem samt att genomföra uppgifter inom givna tidsramar,  
-- visa förmåga att muntligt och skriftligt redogöra för och diskutera information, problem och lösningar i dialog med olika grupper, och  
-- visa sådan färdighet som fordras för att självständigt arbeta inom det område som utbildningen avser
-
-Värderingsförmåga och förhållningssätt   
-- visa förmåga att inom huvudområdet för utbildningen göra bedömningar med hänsyn till relevanta vetenskapliga, samhälleliga och etiska aspekter,  
-- visa insikt om kunskapens roll i samhället och om människors ansvar för hur den används, och  
-- visa förmåga att identifiera sitt behov av ytterligare kunskap och att utveckla sin kompetens.
-
-### 
-1.3 Utbildningsprogrammets mål
-
-Ekonomprogrammets mål är att studenterna ska tillägna sig kunskaper som möjliggör för dem att efter avslutad utbildning utföra kvalificerade arbetsuppgifter med anknytning till ekonomi inom ett brett spektrum av företag och organisationer. Programmets mål är också att studenterna tillägnar sig fördjupade kunskaper inom något av huvudområdena nationalekonomi och företagsekonomi.  
-  
-Efter genomgången utbildning ska studenten kunna:   
-  
-Generella programmål för alla studenter
-
-Kunskap och förståelse  
-- visa kunskap om hur företag och organisationer är uppbyggda och vilka funktioner de har i samhället,  
-- visa kunskap om hur samhällsekonomin och marknadsekonomin är relaterade till varandra och hur ekonomiska effekter av företags och organisationers verksamhet kan förstås och bedömas,  
-- visa kunskap om begrepp, modeller och teorier inom delområdena organisation, marknadsföring, ekonomistyrning och redovisning,  
-- visa kunskap om hur kapitalmarknader fungerar, hur man beräknar kapitalbehov och hur detta behov kan tillgodoses, och   
-- visa kännedom om villkor och förutsättningar för att utveckla och driva företag.  
-  
-Färdighet och förmåga  
-- visa förmåga att genomföra grundläggande bokföring, göra bokslut samt kunna tolka ekonomiska rapporter och årsredovisningar,   
-- visa förmåga att genomföra produkt- och investeringskalkyler,  
-- visa förmåga att tillämpa statistiska metoder och modeller inom ekonomiområdet,   
-- visa förmåga att tillämpa principer för marknadsföring och marknadskommunikation av företags och organisationers produkter och tjänster,  
-- visa förmåga att analysera organisationer utifrån teorier om hur individer agerar, både självständigt och i grupp, i relation till varandra och till organisationens mål, och   
-- visa förmåga att självständigt identifiera relevanta problem och vetenskapliga problemställningar avseende det ekonomiska området.  
-  
-Värderingsförmåga och förhållningssätt  
-- visa förmåga att göra bedömningar inom det ekonomiska området med hänsyn till relevanta vetenskapliga, samhälleliga och etiska aspekter, såsom hållbar utveckling, internationalisering, jämställdhet och mångfald.
-
-   
-Specifika mål för inriktning nationalekonomi
-
-- ha fördjupat sina kunskaper och färdigheter inom det nationalekonomiska området med tonvikt på  
-tillämpad mikroekonomi och väldfärdsanalys, och    
-- visa förmåga att kunna arbeta med kvalificerade analytiska uppgifter både inom privat och offentlig sektor.
-
-Specifika mål för inriktning företagsekonomi
-
- - ha fördjupat sina kunskaper och färdigheter inom det företagsekonomiska området med tonvikt på  
-redovisning, marknadsföring eller organisation i olika miljöer, och    
-- visa förmåga att kunna arbeta med kvalificerade företagsekonomiska uppgifter i företag  
-och organisationer.
-
-## 5. Behörighetskrav
-
-- Grundläggande behörighet samt Matematik 3b eller 3c eller Matematik C, Samhällskunskap 1b eller 1a1+1a2, Engelska 6. Eller: Matematik fortsättning nivå 1b eller Matematik fortsättning nivå 1c, Samhällskunskap nivå 1b eller nivå 1a2, Engelska nivå 2

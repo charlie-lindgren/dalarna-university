@@ -17,64 +17,6 @@ up: "[[IIT MOC]]"
 - **Fastställd:** Fastställd av Utbildnings- och Forskningsnämnden 2015-10-07 . Gäller fr.o.m.  HT .
 - **Reviderad:** Reviderad 2023-05-30 . Revideringen är giltig fr.o.m. VT 2023.
 
-## 2. Huvudsaklig uppläggning
-
-Utbildningen är ett masterprogram 60 hp inom huvudområdet solenergiteknik. Alla kurser ges på engelska.   
-Utbildningen syftar till att förbereda studenterna att arbeta inom solenergibranschen eller forska inom solvärmeteknik och system, solelteknik och system.
-
-Programmet inleds med kärnkurserna om solenergiteknik och system, solinstrålning, utnyttjande av solenergi i byggnader och tillämpad ekonomi. Kurserna är identiska med motsvarande kurser i det ettåriga masterprogrammet, och samläsning sker.
-
-I första terminens kurser behandlas teoretiska kunskaper om solenergiteknologi såsom grundläggande komponenter och delsystem för produktion av värme/kyla och el och hur dessa tekniker kan användas i byggnader. I projektkursen tillämpas dessa kunskaper för att utforma, konstruera och testa en verklig komponent såsom en solfångare. Projektkursen innehåller också moment som förbereder för examensarbetet såsom vetenskapligt skrivande och mätvärdesanalys.  
-   
-Termin 2 innehåller två kurser som bygger vidare med fördjupning om systemlösningar för solvärme och solelsystem inom olika användningsområden, givet olika förutsättningar lokalt och tekno-ekonomiska aspekter. Det är därför viktigt att studenterna har tillägnat sig kunskaperna i kurserna under första terminen för att kunna tillägna sig kunskaperna i dessa två kurser.  
-Programmet avslutas med ett examensarbete. Examensarbetet kan utföras i vid universitet/högskola eller i ett företag eller annan organisation i Sverige eller utomlands.
-
-## 3. Programmets kurser
-
-**Samtliga kurser är på avancerad nivå och tillhör huvudområdet Solenergiteknik.**
-
-
-****Termin 1****
-
-- [[AEG2B6|Solstrålning och solgeometri]], 5 hp
-- Solvärme, 7,5 hp
-- Solenergins ekonomi, 2,5 hp
-- Solel, 7,5 hp
-- Tillämpad solenergiteknik, 7,5 hp
-
-****Termin 2****
-
-- [[EG3009|Design av solvärmesystem]], 7,5 hp
-- Design av PV hybrid system, 7,5 hp
-- [[EG3022|Examensarbete för magisterexamen i Solenergiteknik]], 15hp
-
-## 4. Examensbenämning
-
-Teknologie magisterexamen, huvudområde: Solenergiteknik (Degree of Master of Science (60 credits), Main Field of Study: Solar Energy Technology).
-
-## 7. Övrigt
-
-Kandidatexamen ska företrädesvis innehålla ett examensarbete. Detta kriterium tillsammans med yrkeserfarenhet kommer att användas för urval av kandidater I det fall antalet sökande överstiger antalet utbildningsplatser på programmet.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __
-
 ## 1. Programmets mål
 
 ### 
@@ -158,6 +100,45 @@ _Värderingsförmåga och förhållningssätt_
 
   - Visa förmåga att ur ett teknikvetenskapligt perspektiv självständigt kunna värdera vilken roll olika solenergitekniker kan spela för energiförsörjningen i såväl värmesystem, elsystem som för byggnadens energibalans
 
+## 2. Huvudsaklig uppläggning
+
+Utbildningen är ett masterprogram 60 hp inom huvudområdet solenergiteknik. Alla kurser ges på engelska.   
+Utbildningen syftar till att förbereda studenterna att arbeta inom solenergibranschen eller forska inom solvärmeteknik och system, solelteknik och system.
+
+Programmet inleds med kärnkurserna om solenergiteknik och system, solinstrålning, utnyttjande av solenergi i byggnader och tillämpad ekonomi. Kurserna är identiska med motsvarande kurser i det ettåriga masterprogrammet, och samläsning sker.
+
+I första terminens kurser behandlas teoretiska kunskaper om solenergiteknologi såsom grundläggande komponenter och delsystem för produktion av värme/kyla och el och hur dessa tekniker kan användas i byggnader. I projektkursen tillämpas dessa kunskaper för att utforma, konstruera och testa en verklig komponent såsom en solfångare. Projektkursen innehåller också moment som förbereder för examensarbetet såsom vetenskapligt skrivande och mätvärdesanalys.  
+   
+Termin 2 innehåller två kurser som bygger vidare med fördjupning om systemlösningar för solvärme och solelsystem inom olika användningsområden, givet olika förutsättningar lokalt och tekno-ekonomiska aspekter. Det är därför viktigt att studenterna har tillägnat sig kunskaperna i kurserna under första terminen för att kunna tillägna sig kunskaperna i dessa två kurser.  
+Programmet avslutas med ett examensarbete. Examensarbetet kan utföras i vid universitet/högskola eller i ett företag eller annan organisation i Sverige eller utomlands.
+
+## 3. Programmets kurser
+
+**Samtliga kurser är på avancerad nivå och tillhör huvudområdet Solenergiteknik.**
+
+
+****Termin 1****
+
+- [[AEG2B6|Solstrålning och solgeometri]], 5 hp
+- Solvärme, 7,5 hp
+- Solenergins ekonomi, 2,5 hp
+- Solel, 7,5 hp
+- Tillämpad solenergiteknik, 7,5 hp
+
+****Termin 2****
+
+- [[EG3009|Design av solvärmesystem]], 7,5 hp
+- Design av PV hybrid system, 7,5 hp
+- [[EG3022|Examensarbete för magisterexamen i Solenergiteknik]], 15hp
+
+## 4. Examensbenämning
+
+Teknologie magisterexamen, huvudområde: Solenergiteknik (Degree of Master of Science (60 credits), Main Field of Study: Solar Energy Technology).
+
 ## 5. Behörighetskrav
 
 - Högskoleingenjörsexamen, Civilingenjörsexamen eller Teknologie kandidatexamen med huvudområde inom elektroteknik, maskinteknik, energiteknik, teknisk fysik och Engelska 6
+
+## 7. Övrigt
+
+Kandidatexamen ska företrädesvis innehålla ett examensarbete. Detta kriterium tillsammans med yrkeserfarenhet kommer att användas för urval av kandidater I det fall antalet sökande överstiger antalet utbildningsplatser på programmet.

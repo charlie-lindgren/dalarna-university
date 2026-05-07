@@ -16,44 +16,6 @@ up: "[[IKS MOC]]"
 - **Programansvarig:** Ioanna Farsari
 - **Fastställd:** Fastställd av Utbildnings- och Forskningsnämnden 2012-05-02 . Gäller fr.o.m.  2012-05-02.
 
-## 2. Huvudsaklig uppläggning
-
-Programmet ges på engelska. Programmets första termin, höstterminen, innehåller fyra forskningsanknutna kurser. Temat för dessa kurser är olika perspektiv på destinationers utveckling.   
-  
-Andra terminen, vårterminen, utgörs av en kurs i metod och turismens ämnesteori som förbereder studenterna för examensarbetet. Därefter följer ett examensarbete om 15 hp i turismvetenskap.
-
-## 3. Programmets kurser
-
-- [[KG3019|Hållbar destinationsutveckling]], 7,5 hp
-- Evenemangsturism, 7,5 hp
-- [[AKG27R|Management och tolkning av kulturarv]], 7,5 hp
-- [[ATR2AF|Marknadsföring av platser och destinationer]], 7,5 hp
-- [[TR3010|Teori och forskningsmetoder]], 15 hp
-- [[TR3008|Examensarbete för Magisterexamen i Turismvetenskap]], 15 hp
-
-## 4. Examensbenämning
-
-Filosofie Magisterexamen, huvudområde: Turismvetenskap (Degree of Master of Science [60 Credits], Main Field of Study: Tourism Studies).
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __
-
 ## 1. Programmets mål
 
 ### 
@@ -102,6 +64,25 @@ Efter avslutad utbildning skall studenten kunna visa på:
 – Förmåga att kritiskt förhålla sig till och skriftligt såväl som muntligt kunna redogöra för aktuella samhällsfrågor ur ett turismvetenskapligt perspektiv  
 – Förmåga att formulera teoretiskt och metodologiskt grundade frågeställningar  
 – Förmåga att samla in, bearbeta, analysera och presentera ett empiriskt material samt knyta detta till relevanta begrepp och teorier i form av ett examensarbete
+
+## 2. Huvudsaklig uppläggning
+
+Programmet ges på engelska. Programmets första termin, höstterminen, innehåller fyra forskningsanknutna kurser. Temat för dessa kurser är olika perspektiv på destinationers utveckling.   
+  
+Andra terminen, vårterminen, utgörs av en kurs i metod och turismens ämnesteori som förbereder studenterna för examensarbetet. Därefter följer ett examensarbete om 15 hp i turismvetenskap.
+
+## 3. Programmets kurser
+
+- [[KG3019|Hållbar destinationsutveckling]], 7,5 hp
+- Evenemangsturism, 7,5 hp
+- [[AKG27R|Management och tolkning av kulturarv]], 7,5 hp
+- [[ATR2AF|Marknadsföring av platser och destinationer]], 7,5 hp
+- [[TR3010|Teori och forskningsmetoder]], 15 hp
+- [[TR3008|Examensarbete för Magisterexamen i Turismvetenskap]], 15 hp
+
+## 4. Examensbenämning
+
+Filosofie Magisterexamen, huvudområde: Turismvetenskap (Degree of Master of Science [60 Credits], Main Field of Study: Tourism Studies).
 
 ## 5. Behörighetskrav
 

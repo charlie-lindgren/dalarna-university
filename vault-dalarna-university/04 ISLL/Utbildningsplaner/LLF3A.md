@@ -192,22 +192,3 @@ For a Degree of Master of Arts in Primary Education with a specialisation in tea
 Studieform: Campus.  
   
 Ersätter tidigare utbildningsplan LGF3A.
-
-## Megameny
-
-Studentwebb | 
-Bibliotek | 
-Medarbetarwebb | 
-English
-
-  - Hjälp och stöd
-
-  - Canvas
-
-  - Samtal
-
-  - Webbplatskarta
-
-Logga in
-
-Stäng menyn __
