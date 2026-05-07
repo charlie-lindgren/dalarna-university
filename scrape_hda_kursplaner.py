@@ -114,6 +114,7 @@ SECTION_ORDER_EN = [
 ]
 
 RESULTS_PER_PAGE = 20
+CODE_PATTERN_RE = re.compile(r"^([A-ZÅÄÖ]{3})(\d{3})([A-Z]?)$")
 
 
 # ---------------------------------------------------------------------------
@@ -437,6 +438,58 @@ def _extract_course_links(soup: BeautifulSoup, seen_codes: set) -> list[dict]:
     return courses
 
 
+def kursplan_exists_by_code(code: str) -> bool:
+    """Returnerar True om kursplan-sidan finns för koden."""
+    soup = fetch_page(SV_URL.format(code=code))
+    if soup is None:
+        return False
+    h1 = soup.find("h1")
+    if not h1:
+        return False
+    return h1.find("span", property="name") is not None
+
+
+def discover_stray_codes_from_known(known_codes: set[str], padding: int = 0) -> set[str]:
+    """Hittar sannolika strökoder genom att fylla luckor i befintliga kodserier.
+
+    Exempel: om GIK288 och GIK290 finns i kända koder, testas GIK289.
+    Endast kursplaner som faktiskt finns på du.se returneras.
+    """
+    by_prefix: dict[str, set[int]] = {}
+    for code in known_codes:
+        m = CODE_PATTERN_RE.match(code)
+        if not m:
+            continue
+        prefix, num, suffix = m.groups()
+        if suffix:
+            # Håll första passet strikt: numeriska baskoder utan suffix.
+            continue
+        by_prefix.setdefault(prefix, set()).add(int(num))
+
+    candidates: set[str] = set()
+    for prefix, nums in by_prefix.items():
+        if len(nums) < 2:
+            continue
+        lo = max(0, min(nums) - max(0, padding))
+        hi = min(999, max(nums) + max(0, padding))
+        # Skydd mot alltför stora spann.
+        if hi - lo > 500:
+            continue
+        for n in range(lo, hi + 1):
+            code = f"{prefix}{n:03d}"
+            if code in known_codes:
+                continue
+            candidates.add(code)
+
+    found: set[str] = set()
+    for code in sorted(candidates):
+        if kursplan_exists_by_code(code):
+            found.add(code)
+        time.sleep(REQUEST_DELAY)
+
+    return found
+
+
 # ---------------------------------------------------------------------------
 # Steg 3: Skrapa enskild kursplan
 # ---------------------------------------------------------------------------
@@ -626,7 +679,9 @@ def normalize_for_compare(text: str) -> str:
 
 
 def build_course_markdown(scraped: dict, subject_name: str, subject_code: str,
-                          inst_code: str) -> str:
+                          inst_code: str,
+                          extra_tags: list[str] | None = None,
+                          extra_cssclasses: list[str] | None = None) -> str:
     """Bygger en komplett kursplansfil från skrapade data."""
     code = scraped["code"]
     name_sv = scraped["name_sv"]
@@ -653,7 +708,19 @@ def build_course_markdown(scraped: dict, subject_name: str, subject_code: str,
     lines.append(f"amne: \"{subject_name}\"")
     lines.append(f"amne_kod: \"{subject_code}\"")
     lines.append(f"institution: \"{inst_code}\"")
-    lines.append(f"tags: [kursplan, {subject_code}, {inst_code}]")
+    tag_list = ["kursplan", subject_code, inst_code]
+    if extra_tags:
+        for tag in extra_tags:
+            if tag and tag not in tag_list:
+                tag_list.append(tag)
+    lines.append(f"tags: [{', '.join(tag_list)}]")
+    if extra_cssclasses:
+        css_unique = []
+        for css in extra_cssclasses:
+            if css and css not in css_unique:
+                css_unique.append(css)
+        if css_unique:
+            lines.append(f"cssclasses: [{', '.join(css_unique)}]")
     lines.append(f"scrape_hash: {s_hash}")
     lines.append(f"up: \"[[{subject_name} MOC]]\"")
     lines.append("---")
@@ -771,7 +838,9 @@ def update_existing_file(path: Path, scraped: dict, subject_name: str,
 
 def write_course_file(
     code: str, scraped: dict, subject_name: str, subject_code: str,
-    inst_code: str, subject_dir: Path, apply: bool, quiet: bool
+    inst_code: str, subject_dir: Path, apply: bool, quiet: bool,
+    extra_tags: list[str] | None = None,
+    extra_cssclasses: list[str] | None = None,
 ) -> int:
     """Skriver/uppdaterar en kursplansfil. Returnerar antal ändringar."""
     file_path = subject_dir / f"{code}.md"
@@ -789,7 +858,8 @@ def write_course_file(
                 print(c)
         if apply:
             new_text = build_course_markdown(scraped, subject_name, subject_code,
-                                             inst_code)
+                                             inst_code, extra_tags,
+                                             extra_cssclasses)
             file_path.write_text(new_text, encoding="utf-8")
             if not quiet:
                 print(f"  ✓ Uppdaterad: {file_path.relative_to(VAULT)}")
@@ -800,7 +870,8 @@ def write_course_file(
             print("ny kurs")
         if apply:
             new_text = build_course_markdown(scraped, subject_name, subject_code,
-                                             inst_code)
+                                             inst_code, extra_tags,
+                                             extra_cssclasses)
             file_path.write_text(new_text, encoding="utf-8")
             if not quiet:
                 print(f"  ✓ Skapad: {file_path.relative_to(VAULT)}")
@@ -845,6 +916,40 @@ def build_subject_moc(subject: dict, courses: list[dict]) -> str:
             lines.append(f"- [[{c['code']}]] — {c['name']}")
     else:
         lines.append("_Inga kurser hittade._")
+    lines.append("")
+
+    return "\n".join(lines)
+
+
+def build_subject_stray_moc(subject: dict, courses: list[dict]) -> str:
+    """Bygger separat MOC för strökurser inom ett ämne."""
+    name = subject["name"]
+    code = subject["code"]
+    inst_code = subject["institution"]
+    inst_name = INSTITUTIONS[inst_code]["name"]
+
+    lines = [
+        "---",
+        f"aliases: [Stray {name}]",
+        f"cssclasses: [moc-page, vilande]",
+        f"tags: [MOC, amne, stray, vilande, {code}, {inst_code}]",
+        f"up: \"[[{name} MOC]]\"",
+        "---",
+        "",
+        f"# Stray {name} MOC",
+        "",
+        f"> Strökurser i {name} vid {inst_name}, Högskolan Dalarna.",
+        "> Dessa ligger utanför ordinarie ämnes-/programindex och markeras som vilande.",
+        "",
+        f"## Kurser ({len(courses)} st)",
+        "",
+    ]
+
+    if courses:
+        for c in sorted(courses, key=lambda x: x["code"]):
+            lines.append(f"- [[{c['code']}]] — {c['name']}")
+    else:
+        lines.append("_Inga strökurser hittade._")
     lines.append("")
 
     return "\n".join(lines)
@@ -942,6 +1047,14 @@ def main():
         "--skip-existing", action="store_true",
         help="Hoppa över kurser som redan finns i vaulten (för att återuppta avbruten körning)."
     )
+    parser.add_argument(
+        "--discover-stray", action="store_true",
+        help="Försök hitta strökurser genom att testa luckor i kurskodsserier."
+    )
+    parser.add_argument(
+        "--stray-padding", type=int, default=0,
+        help="Utöka testspannet för strökoder med N nummer före/efter kända serier."
+    )
     args = parser.parse_args()
 
     # --- Lista institutioner ---
@@ -1029,6 +1142,7 @@ def main():
         return
 
     # Om specifika kurskoder angetts, filtrera
+    manual_codes_not_found: set[str] = set()
     if args.courses:
         target_codes = set(c.upper() for c in args.courses)
         for code in subject_courses:
@@ -1036,19 +1150,46 @@ def main():
                 c for c in subject_courses[code] if c["code"].upper() in target_codes
             ]
         total_courses = sum(len(v) for v in subject_courses.values())
-        not_found = target_codes - {
+        manual_codes_not_found = target_codes - {
             c["code"].upper()
             for courses in subject_courses.values()
             for c in courses
         }
-        if not_found:
-            print(f"\n  ⚠ Kurskoder ej funna i något ämne: {', '.join(sorted(not_found))}")
+        if manual_codes_not_found:
+            print(
+                f"\n  ⚠ Kurskoder ej funna i något ämne: "
+                f"{', '.join(sorted(manual_codes_not_found))}"
+            )
+
+    auto_stray_codes: set[str] = set()
+    if args.discover_stray:
+        known_codes = {
+            c["code"].upper()
+            for courses in subject_courses.values()
+            for c in courses
+        }
+        if known_codes:
+            print("\nSöker strökurser via luckor i kurskodsserier...")
+            auto_stray_codes = discover_stray_codes_from_known(
+                known_codes,
+                padding=args.stray_padding,
+            )
+            if auto_stray_codes:
+                print(
+                    f"  Hittade {len(auto_stray_codes)} möjlig(a) strökod(er): "
+                    f"{', '.join(sorted(auto_stray_codes))}"
+                )
+            else:
+                print("  Inga strökoder hittades.")
+
+    direct_codes = sorted(manual_codes_not_found | auto_stray_codes)
+    total_to_process = total_courses + len(direct_codes)
 
     # --- Steg 3: Skrapa och skriv ---
     mode = "SKRIVER" if args.apply else "DRY-RUN"
     print(f"\n╔══════════════════════════════════════════════╗")
     print(f"║  HDa Kursplan-scraper — {mode:8s}            ║")
-    print(f"║  {total_courses:4d} kurs(er) att bearbeta               ║")
+    print(f"║  {total_to_process:4d} kurs(er) att bearbeta               ║")
     print(f"╚══════════════════════════════════════════════╝\n")
 
     total_changes = 0
@@ -1095,7 +1236,7 @@ def main():
                 if code in existing_codes:
                     total_skipped += 1
                     if not args.quiet:
-                        print(f"  [{course_num}/{total_courses}] {code} — finns redan, hoppar över")
+                        print(f"  [{course_num}/{total_to_process}] {code} — finns redan, hoppar över")
                     # Still track for MOC generation by reading frontmatter
                     ep = existing_files.get(code)
                     if ep and ep.exists():
@@ -1105,6 +1246,8 @@ def main():
                             fm_kod = re.search(r'^amne_kod:\s*"?(\w+)"?', fm, re.MULTILINE)
                             fm_inst = re.search(r'^institution:\s*"?(\w+)"?', fm, re.MULTILINE)
                             fm_namn = re.search(r'^kursnamn:\s*"(.+)"', fm, re.MULTILINE)
+                            fm_tags = re.search(r'^tags:\s*\[(.+)\]', fm, re.MULTILINE)
+                            is_stray = bool(fm_tags and "stray" in fm_tags.group(1))
                             sc = fm_kod.group(1) if fm_kod else s["code"]
                             sn = fm_amne.group(1) if fm_amne else s["name"]
                             ic = fm_inst.group(1) if fm_inst else inst_code
@@ -1115,13 +1258,15 @@ def main():
                                     "institution": ic, "type": "subject",
                                     "courses": [],
                                 }
-                            real_subjects[sc]["courses"].append({"code": code, "name": cn})
+                            real_subjects[sc]["courses"].append(
+                                {"code": code, "name": cn, "stray": is_stray}
+                            )
                         except Exception:
                             pass
                     continue
 
                 if not args.quiet:
-                    print(f"  [{course_num}/{total_courses}] {code} ({c['name']})...",
+                      print(f"  [{course_num}/{total_to_process}] {code} ({c['name']})...",
                           end=" ", flush=True)
 
                 try:
@@ -1169,11 +1314,89 @@ def main():
                     real_subjects[subj_code]["courses"].append({
                         "code": code,
                         "name": scraped["name_sv"] or c["name"],
+                        "stray": False,
                     })
 
                 except Exception as e:
                     total_errors += 1
                     print(f"\n  ✗ Fel vid {code}: {e}", file=sys.stderr)
+
+    # Direktbearbetning av strökoder / manuellt angivna koder utanför ämneslistorna
+    if direct_codes and not args.quiet:
+        print("\n── Direktbearbetning av externa kurskoder ──")
+
+    selected_insts = set(c.upper() for c in args.institution) if args.institution else None
+
+    for code in direct_codes:
+        course_num += 1
+
+        if code in existing_codes:
+            total_skipped += 1
+            if not args.quiet:
+                print(f"  [{course_num}/{total_to_process}] {code} — finns redan, hoppar över")
+            continue
+
+        if not args.quiet:
+            print(f"  [{course_num}/{total_to_process}] {code} (direkt)...", end=" ", flush=True)
+
+        try:
+            scraped = scrape_course(code)
+            if scraped is None:
+                if not args.quiet:
+                    print("misslyckades")
+                total_errors += 1
+                continue
+
+            real_subj = parse_amnestillhorighet(scraped["metadata"])
+            real_inst = parse_institution_from_meta(scraped["metadata"])
+
+            if real_subj:
+                subj_name, subj_code = real_subj
+            else:
+                subj_name, subj_code = ("Okänt ämne", "OKANT")
+
+            if real_inst:
+                file_inst_code = real_inst
+            elif selected_insts and len(selected_insts) == 1:
+                file_inst_code = list(selected_insts)[0]
+            else:
+                file_inst_code = "IIT"
+
+            subject_dir = kursplaner_dir(file_inst_code) / subj_code
+            if args.apply:
+                subject_dir.mkdir(parents=True, exist_ok=True)
+
+            n = write_course_file(
+                code,
+                scraped,
+                subj_name,
+                subj_code,
+                file_inst_code,
+                subject_dir,
+                args.apply,
+                args.quiet,
+                extra_tags=["stray", "vilande"],
+                extra_cssclasses=["vilande"],
+            )
+            total_changes += n
+
+            if subj_code not in real_subjects:
+                real_subjects[subj_code] = {
+                    "name": subj_name,
+                    "code": subj_code,
+                    "institution": file_inst_code,
+                    "type": "subject",
+                    "courses": [],
+                }
+            real_subjects[subj_code]["courses"].append({
+                "code": code,
+                "name": scraped["name_sv"] or code,
+                "stray": True,
+            })
+
+        except Exception as e:
+            total_errors += 1
+            print(f"\n  ✗ Fel vid {code}: {e}", file=sys.stderr)
 
     # --- Steg 4: Uppdatera MOC-filer ---
     if args.apply:
@@ -1199,6 +1422,14 @@ def main():
             moc_path.write_text(moc_text, encoding="utf-8")
             if not args.quiet:
                 print(f"  ✓ {moc_path.name}")
+
+            stray_courses = [c for c in info["courses"] if c.get("stray")]
+            if stray_courses:
+                stray_moc_path = kursplaner_dir(ic) / f"Stray {info['name']} MOC.md"
+                stray_moc_text = build_subject_stray_moc(info, stray_courses)
+                stray_moc_path.write_text(stray_moc_text, encoding="utf-8")
+                if not args.quiet:
+                    print(f"  ✓ {stray_moc_path.name}")
 
         # Institutions-MOC:ar (med utbildningsplaner)
         inst_programmes: dict[str, list[dict]] = {ic: [] for ic in INSTITUTIONS}
