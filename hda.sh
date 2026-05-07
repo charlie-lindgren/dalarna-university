@@ -32,6 +32,7 @@ print_menu() {
     echo -e "  ${BOLD}5.${RESET}  Jämför kursplan-rapporter (lösta/nya fynd)"
     echo -e "  ${BOLD}6.${RESET}  Rensa analysfilerna (ta bort lösta fynd)"
     echo -e "  ${BOLD}7.${RESET}  Populera analysfilerna (från senaste rapport)"
+    echo -e "  ${BOLD}8.${RESET}  Identifiera ej-aktiva kursplaner (orphan-detektor)"
     echo -e "  ${BOLD}q.${RESET}  Avsluta"
     echo ""
 }
@@ -198,6 +199,26 @@ run_populate() {
 }
 
 
+# ── steg: identifiera ej-aktiva kursplaner ──────────────────────────────────
+run_ej_aktiv() {
+    echo -e "${BOLD}Identifiera ej-aktiva kursplaner${RESET}"
+    echo ""
+    echo "Hämtar nuvarande kurslistor från du.se och jämför mot vault."
+    echo "Tar några minuter."
+    echo ""
+    echo "Läge:"
+    echo "  a) Dry-run"
+    echo "  b) Apply"
+    echo ""
+    read -rp "Välj läge [a/b]: " mode
+    echo ""
+    case "$mode" in
+        b|B) "$PYTHON" qa/identify_ej_aktiv.py --apply ;;
+        *)   "$PYTHON" qa/identify_ej_aktiv.py ;;
+    esac
+}
+
+
 print_header
 while true; do
     print_menu
@@ -211,12 +232,13 @@ while true; do
         5) run_diff ;;
         6) run_prune ;;
         7) run_populate ;;
+        8) run_ej_aktiv ;;
         q|Q|quit|exit)
             echo "Hejdå."
             exit 0
             ;;
         *)
-            echo -e "${YELLOW}Ogiltigt val — ange 1–7 eller q.${RESET}"
+            echo -e "${YELLOW}Ogiltigt val — ange 1–8 eller q.${RESET}"
             ;;
     esac
     echo ""

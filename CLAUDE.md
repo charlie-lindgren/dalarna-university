@@ -27,8 +27,9 @@ qa/                         Quality-control pipeline (Python)
   check_utbildningsplaner.py Reduced check set for programme plans
   checks_common.py          Shared helpers + 4 reusable language checks
   diff_rapporter.py         Compare two QA reports — resolved vs new findings
-  populate_analysfiler.py   Fill 03 Analys/ from latest report
+  populate_analysfiler.py   Fill 03 Analys/ from latest report (also writes .xlsx alongside)
   prune_analysfiler.py      Remove resolved rows from 03 Analys/
+  identify_ej_aktiv.py      Tag courses no longer in du.se as ej-aktiv (orphan detector)
   rapporter/                Timestamped course-plan QA reports
   rapporter-utb/            Timestamped programme-plan QA reports
 hda.sh                      Interactive menu for the full workflow
@@ -108,6 +109,10 @@ python3 qa/prune_analysfiler.py --dry-run         # remove resolved rows
 Course-plan checks (11): duplicated words, known typos, hunspell sv/en, learning-outcome intro phrasing, grading scale, examination structure, learning-outcome count + length, Bloom verb level for advanced courses, Swedish/English parity. Programme-plan checks (4): duplicated words, known typos, hunspell sv/en. Hunspell requires `hunspell` + `sv_SE`/`en_US` dictionaries; without them, run with `--skip-hunspell`.
 
 The `vault-dalarna-university/03 Analys/` files are the editorial layer — `populate_analysfiler.py` writes the `> [!example]-` callout block from the latest QA report, while the surrounding prose (Syfte / Metod / Observationer / Rekommendationer) is curated by hand.
+
+## Ej-aktiv detection
+
+`qa/identify_ej_aktiv.py` rediscovers the current du.se course offering per subject (using the same logic as the kursplan scraper, without per-course scraping) and compares it to the vault. Course files in the vault whose codes are no longer on du.se are tagged `ej-aktiv` (in both `tags:` and `cssclasses:`) and re-pointed via `up:` to a generated `Ej Aktiv {Subject} MOC.md`. Re-emerged courses are auto-untagged. The graph view colors `ej-aktiv` nodes in warm red so they stand out.
 
 ## Four institutions
 
