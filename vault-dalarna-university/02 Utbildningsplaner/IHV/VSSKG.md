@@ -3,7 +3,7 @@ programkod: VSSKG
 programnamn: "Sjuksköterskeprogrammet"
 institution: "IHV"
 faststalld: "Fastställd av Områdesnämnden Vård och omsorg 2018-12-04 . Gäller fr.o.m.  HT 2018."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IHV]
 scrape_hash: 240eafc153e5bc5e
 up: "[[IHV MOC]]"
 ---

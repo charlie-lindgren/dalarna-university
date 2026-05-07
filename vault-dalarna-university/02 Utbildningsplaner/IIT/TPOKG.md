@@ -3,7 +3,7 @@ programkod: TPOKG
 programnamn: "Maskinteknik: Produkt- och Konstruktionsutveckling - Högskoleingenjörsprogram"
 institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2019-02-01 . Gäller fr.o.m.  HT 2019."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IIT]
 scrape_hash: 2e51bdb236fcfbb1
 up: "[[IIT MOC]]"
 ---

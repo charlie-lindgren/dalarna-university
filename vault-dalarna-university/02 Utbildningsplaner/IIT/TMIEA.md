@@ -3,7 +3,7 @@ programkod: TMIEA
 programnamn: "Magisterprogram i energieffektivt byggande"
 institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2018-10-11 . Gäller fr.o.m.  VT 2019."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IIT]
 scrape_hash: b89c6e0fb2c51103
 up: "[[IIT MOC]]"
 ---

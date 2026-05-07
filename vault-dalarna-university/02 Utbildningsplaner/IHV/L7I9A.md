@@ -3,7 +3,7 @@ programkod: L7I9A
 programnamn: "Ämneslärarprogrammet årskurs 7-9 arbetsintegrerad utbildning med inriktning matematik och idrott och hälsa"
 institution: "IHV"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-02-12 . Gäller fr.o.m.  HT 2025."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IHV]
 scrape_hash: ba364c12b645e4e4
 up: "[[IHV MOC]]"
 ---

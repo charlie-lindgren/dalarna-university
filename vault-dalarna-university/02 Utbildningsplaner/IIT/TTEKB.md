@@ -3,7 +3,7 @@ programkod: TTEKB
 programnamn: "Teknisk bastermin"
 institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2018-09-20 . Gäller fr.o.m.  HT 2018."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IIT]
 scrape_hash: 64887b6d60647651
 up: "[[IIT MOC]]"
 ---

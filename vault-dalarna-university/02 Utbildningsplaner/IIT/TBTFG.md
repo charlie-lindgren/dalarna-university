@@ -3,7 +3,7 @@ programkod: TBTFG
 programnamn: "Byggteknik – produktion och förvaltning"
 institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2022-03-01 . Gäller fr.o.m.  VT 2022."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IIT]
 scrape_hash: c4a9107dc2e04b16
 up: "[[IIT MOC]]"
 ---

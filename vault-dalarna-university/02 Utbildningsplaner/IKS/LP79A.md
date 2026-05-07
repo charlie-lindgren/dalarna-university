@@ -3,7 +3,7 @@ programkod: LP79A
 programnamn: "Ämneslärarprogrammet inriktning grundskolans årskurs 7-9"
 institution: "IKS"
 faststalld: "Fastställd av Områdesnämnden Utbildningsvetenskap 2017-12-19 . Gäller fr.o.m.  HT 2018."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IKS]
 scrape_hash: 5a847b5ca6134f11
 up: "[[IKS MOC]]"
 ---

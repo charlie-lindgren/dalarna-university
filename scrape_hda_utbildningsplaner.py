@@ -533,7 +533,10 @@ def build_programme_markdown(scraped: dict, kursplan_index: dict) -> str:
         lines.append(f"institution: \"{institution}\"")
     if meta.get("Fastställd"):
         lines.append(f"faststalld: \"{meta['Fastställd']}\"")
-    lines.append(f"tags: [utbildningsplan, program]")
+    if institution:
+        lines.append(f"tags: [utbildningsplan, program, {institution}]")
+    else:
+        lines.append(f"tags: [utbildningsplan, program]")
     lines.append(f"scrape_hash: {s_hash}")
     if institution:
         lines.append(f"up: \"[[{institution} MOC]]\"")

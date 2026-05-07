@@ -3,7 +3,7 @@ programkod: LLL3A
 programnamn: "Grundlärarprogrammet förskoleklass och grundskolans årskurs 1-3"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, ISLL]
 scrape_hash: b62ea54110729d9e
 up: "[[ISLL MOC]]"
 ---

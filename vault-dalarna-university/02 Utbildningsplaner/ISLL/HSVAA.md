@@ -3,7 +3,7 @@ programkod: HSVAA
 programnamn: "Magisterprogram i svenska som andraspråk"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för språk, litteratur och lärande 2020-04-17 . Gäller fr.o.m.  VT 2021."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, ISLL]
 scrape_hash: 99b45706b4b09105
 up: "[[ISLL MOC]]"
 ---

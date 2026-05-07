@@ -3,7 +3,7 @@ programkod: DETJG
 programnamn: "Utveckling av eTjänster"
 institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2018-02-06 . Gäller fr.o.m.  HT 2018."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IIT]
 scrape_hash: d883f0b1fa8332aa
 up: "[[IIT MOC]]"
 ---

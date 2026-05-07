@@ -3,7 +3,7 @@ programkod: LLP6A
 programnamn: "Grundlärarprogrammet grundskolans årskurs 4-6"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, ISLL]
 scrape_hash: 705366868e060710
 up: "[[ISLL MOC]]"
 ---

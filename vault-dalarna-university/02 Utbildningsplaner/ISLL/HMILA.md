@@ -3,7 +3,7 @@ programkod: HMILA
 programnamn: "Masterprogram i interkulturella litteraturstudier"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för språk, litteratur och lärande 2023-09-11 . Gäller fr.o.m.  HT 2023."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, ISLL]
 scrape_hash: 1afd42c37720b306
 up: "[[ISLL MOC]]"
 ---

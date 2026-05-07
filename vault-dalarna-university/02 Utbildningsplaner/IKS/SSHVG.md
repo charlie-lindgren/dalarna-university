@@ -3,7 +3,7 @@ programkod: SSHVG
 programnamn: "Samhällsvetarprogrammet"
 institution: "IKS"
 faststalld: "Fastställd av Områdesnämnden Samhällsvetenskap 2021-06-16 . Gäller fr.o.m.  HT 2021."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IKS]
 scrape_hash: 51d7bca5aa1753ec
 up: "[[IKS MOC]]"
 ---

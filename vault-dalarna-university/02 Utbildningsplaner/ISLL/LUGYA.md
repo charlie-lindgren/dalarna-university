@@ -3,7 +3,7 @@ programkod: LUGYA
 programnamn: "Kompletterande pedagogisk utbildning, inriktning gymnasieskolan"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, ISLL]
 scrape_hash: 73b76d36d8fe36fb
 up: "[[ISLL MOC]]"
 ---

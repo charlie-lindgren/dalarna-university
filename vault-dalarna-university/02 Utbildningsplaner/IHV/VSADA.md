@@ -3,7 +3,7 @@ programkod: VSADA
 programnamn: "Specialistsjuksköterska med inriktning demensvård"
 institution: "IHV"
 faststalld: "Fastställd av prefekt för institutionen för hälsa och välfärd 2023-01-09 . Gäller fr.o.m.  HT 2022."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IHV]
 scrape_hash: 7d9c21c6055f0233
 up: "[[IHV MOC]]"
 ---

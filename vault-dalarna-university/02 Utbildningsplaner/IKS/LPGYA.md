@@ -3,7 +3,7 @@ programkod: LPGYA
 programnamn: "Ämneslärarprogrammet inriktning gymnasieskolan"
 institution: "IKS"
 faststalld: "Fastställd av Områdesnämnden Utbildningsvetenskap 2017-12-19 . Gäller fr.o.m.  HT 2018."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IKS]
 scrape_hash: 7b59c06d8db03d95
 up: "[[IKS MOC]]"
 ---

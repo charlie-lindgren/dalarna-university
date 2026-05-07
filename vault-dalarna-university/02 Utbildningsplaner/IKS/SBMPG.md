@@ -3,7 +3,7 @@ programkod: SBMPG
 programnamn: "Business Managementprogrammet - Kandidatprogram i företagsekonomi"
 institution: "IKS"
 faststalld: "Fastställd av prefekt för institutionen för kultur och samhälle 2023-12-19 . Gäller fr.o.m.  HT 2023."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IKS]
 scrape_hash: 845849b75815f69e
 up: "[[IKS MOC]]"
 ---

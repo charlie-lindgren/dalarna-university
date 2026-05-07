@@ -3,7 +3,7 @@ programkod: SPTMG
 programnamn: "Sport Managementprogrammet"
 institution: "IKS"
 faststalld: "Fastställd av prefekt för institutionen för kultur och samhälle 2023-12-19 . Gäller fr.o.m.  HT 2023."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IKS]
 scrape_hash: 4e1388e12e808d94
 up: "[[IKS MOC]]"
 ---

@@ -3,7 +3,7 @@ programkod: VSJPG
 programnamn: "Sjuksköterskeprogrammet"
 institution: "IHV"
 faststalld: "Fastställd av prefekt för institutionen för hälsa och välfärd 2023-11-07 . Gäller fr.o.m.  HT 2023."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IHV]
 scrape_hash: 2e37af01d501b3b1
 up: "[[IHV MOC]]"
 ---

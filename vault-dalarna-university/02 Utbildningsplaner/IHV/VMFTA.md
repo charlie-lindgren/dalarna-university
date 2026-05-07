@@ -3,7 +3,7 @@ programkod: VMFTA
 programnamn: "Magisterprogram i fysioterapi"
 institution: "IHV"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2026-01-14 . Gäller fr.o.m.  HT 2025."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IHV]
 scrape_hash: 3a5928a612ea303f
 up: "[[IHV MOC]]"
 ---

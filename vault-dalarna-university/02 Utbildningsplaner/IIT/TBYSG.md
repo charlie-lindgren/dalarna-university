@@ -3,7 +3,7 @@ programkod: TBYSG
 programnamn: "Bygg- och samhällsplanerarprogrammet"
 institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2019-12-18 . Gäller fr.o.m.  HT 2020."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IIT]
 scrape_hash: d75a963a56fcf159
 up: "[[IIT MOC]]"
 ---

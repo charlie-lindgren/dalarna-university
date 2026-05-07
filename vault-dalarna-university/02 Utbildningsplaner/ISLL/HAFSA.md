@@ -3,7 +3,7 @@ programkod: HAFSA
 programnamn: "Magisterprogram i Afrikanska studier"
 institution: "ISLL"
 faststalld: "Fastställd av Områdesnämnden Humaniora och språk 2014-11-20 . Gäller fr.o.m.  HT 2015."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, ISLL]
 scrape_hash: 1d52e9a12ba686c3
 up: "[[ISLL MOC]]"
 ---

@@ -3,7 +3,7 @@ programkod: SMHTA
 programnamn: "Masterprogram i hållbarhet och turism"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2024-09-18 . Gäller fr.o.m.  HT 2024."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IKS]
 scrape_hash: 3bf466893a88cfe3
 up: "[[IKS MOC]]"
 ---

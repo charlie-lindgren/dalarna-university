@@ -3,7 +3,7 @@ programkod: KAVPA
 programnamn: "Magisterprogram i Audiovisuella studier"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2024-08-20 . Gäller fr.o.m.  HT 2024."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IKS]
 scrape_hash: e5ff20501149b8d5
 up: "[[IKS MOC]]"
 ---

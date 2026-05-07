@@ -3,7 +3,7 @@ programkod: HRVPA
 programnamn: "Magisterprogram i religionsvetenskap - Den heliga människan: religiositet i samtiden"
 institution: "ISLL"
 faststalld: "Fastställd av Områdesnämnden Humaniora och språk 2014-11-20 . Gäller fr.o.m.  HT 2015."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, ISLL]
 scrape_hash: 8d1be3d699ab2fbf
 up: "[[ISLL MOC]]"
 ---

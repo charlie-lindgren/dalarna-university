@@ -3,7 +3,7 @@ programkod: DDTHG
 programnamn: "Digitala tjänster – program för högskoleexamen"
 institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2022-12-20 . Gäller fr.o.m.  HT 2023."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IIT]
 scrape_hash: a8f0f6f39f80ae45
 up: "[[IIT MOC]]"
 ---

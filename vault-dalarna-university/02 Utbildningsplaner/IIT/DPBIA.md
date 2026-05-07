@@ -3,7 +3,7 @@ programkod: DPBIA
 programnamn: "Business Intelligence: Magisterprogram"
 institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2015-10-20 . Gäller fr.o.m.  HT 2015."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IIT]
 scrape_hash: 7ecb9760f7c9488b
 up: "[[IIT MOC]]"
 ---

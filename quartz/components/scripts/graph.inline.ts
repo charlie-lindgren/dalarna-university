@@ -195,43 +195,51 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     {} as Record<(typeof cssVars)[number], string>,
   )
 
-  // calculate color — UKU graph color scheme
-  // Design: muted, professional palette. Ej Aktiv stands out in warm red.
-  // MOCs get a slightly brighter accent. Subject courses are subtle, differentiated
-  // by a restrained analogous palette. Everything else fades to gray.
-  const colorGroups: { test: (d: NodeData) => boolean; color: string }[] = [
-    // Ej Aktiv — warm red, clearly flagged
-    { test: (d) => d.tags.includes("ej-aktiv"), color: "#c0392b" },
+  // Graph color scheme — Högskolan Dalarna
+  // Each of the four institutions gets its own hue family.
+  // Within an institution, three luminance steps mark hierarchy:
+  //   moc      — top-level institution MOC node (vivid)
+  //   subject  — subject MOC (kursplaner) and programme files (mid-tone)
+  //   leaf     — individual kursplan / utbildningsplan (pale)
+  // Ej-aktiv overrides everything in warm red. Unrecognized nodes fade to gray.
+  const INSTITUTION_PALETTE: Record<string, { moc: string; subject: string; leaf: string }> = {
+    IIT:  { moc: "#2c6cb5", subject: "#5b8fc7", leaf: "#a0bedc" },  // blue
+    IHV:  { moc: "#2d8a6f", subject: "#5aaa8c", leaf: "#a3c9b8" },  // teal
+    IKS:  { moc: "#c47a2e", subject: "#d99c5a", leaf: "#e8caa1" },  // amber
+    ISLL: { moc: "#7d4f9c", subject: "#a07cb8", leaf: "#c8aed8" },  // violet
+  }
+  const INSTITUTIONS = ["IIT", "IHV", "IKS", "ISLL"] as const
+  const STRUCTURAL_GOLD = "#d4a843"   // Dashboard, Analys MOC — cross-institution structure
+  const ANALYS_SLATE    = "#7e8a96"   // Analys leaf pages
+  const EJ_AKTIV_RED    = "#c0392b"   // not-running courses
 
-    // Structural MOCs — muted gold
-    { test: (d) => d.tags.includes("MOC"), color: "#d4a843" },
+  function institutionOf(d: NodeData): (typeof INSTITUTIONS)[number] | null {
+    for (const inst of INSTITUTIONS) {
+      if (d.tags.includes(inst)) return inst
+    }
+    return null
+  }
 
-    // Subject courses — subtle, analogous cool tones
-    { test: (d) => d.tags.includes("BYA"), color: "#8a9a5b" },   // sage
-    { test: (d) => d.tags.includes("DTA"), color: "#5b8a9a" },   // steel blue
-    { test: (d) => d.tags.includes("DVE"), color: "#6b8fa3" },   // slate
-    { test: (d) => d.tags.includes("ETA"), color: "#7a8b99" },   // cool gray-blue
-    { test: (d) => d.tags.includes("MÖY"), color: "#7b9a6b" },   // fern
-    { test: (d) => d.tags.includes("FYA"), color: "#9a8a6b" },   // khaki
-    { test: (d) => d.tags.includes("IEA"), color: "#9a7b6b" },   // sienna
-    { test: (d) => d.tags.includes("IKA"), color: "#6b7b9a" },   // lavender steel
-    { test: (d) => d.tags.includes("MTA"), color: "#7b8a7b" },   // muted olive
-    { test: (d) => d.tags.includes("MAA"), color: "#8a7b8a" },   // mauve
-    { test: (d) => d.tags.includes("MDI"), color: "#8a8a7b" },   // warm gray
-    { test: (d) => d.tags.includes("XYZ"), color: "#6b8a8a" },   // teal-gray
-    { test: (d) => d.tags.includes("SQQ"), color: "#8a7b6b" },   // stone
-    { test: (d) => d.tags.includes("STA"), color: "#7b6b8a" },   // plum-gray
-
-    // Möten, organisation — fade to background
-    { test: (d) => d.tags.includes("möten"), color: "#8e9298" },
-  ]
   const color = (d: NodeData) => {
-    if (d.id === slug) {
-      return computedStyleMap["--secondary"]
+    if (d.id === slug) return computedStyleMap["--secondary"]
+    if (d.tags.includes("ej-aktiv")) return EJ_AKTIV_RED
+
+    const inst = institutionOf(d)
+    if (inst) {
+      const palette = INSTITUTION_PALETTE[inst]
+      // Top-level institution MOC: tags include `institution`
+      if (d.tags.includes("institution")) return palette.moc
+      // Subject MOC: tags include `MOC` (and usually `amne`)
+      if (d.tags.includes("MOC")) return palette.subject
+      // Leaf: kursplan / utbildningsplan
+      return palette.leaf
     }
-    for (const group of colorGroups) {
-      if (group.test(d)) return group.color
-    }
+
+    // Cross-institution structural MOCs (Dashboard, Analys MOC)
+    if (d.tags.includes("dashboard") || d.tags.includes("MOC")) return STRUCTURAL_GOLD
+    // Analys leaf pages
+    if (d.tags.includes("analys")) return ANALYS_SLATE
+
     return computedStyleMap["--gray"]
   }
 

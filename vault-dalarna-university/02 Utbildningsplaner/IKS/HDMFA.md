@@ -3,7 +3,7 @@ programkod: HDMFA
 programnamn: "Magisterprogram: Demokrati, medborgarskap och förändring"
 institution: "IKS"
 faststalld: "Fastställd av Områdesnämnden Samhällsvetenskap 2018-11-07 . Gäller fr.o.m.  HT 2019."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IKS]
 scrape_hash: cec0125bab889e00
 up: "[[IKS MOC]]"
 ---

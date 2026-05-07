@@ -3,7 +3,7 @@ programkod: LPEDA
 programnamn: "Magisterprogram i pedagogiskt arbete"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-06-17 . Gäller fr.o.m.  HT 2025."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IKS]
 scrape_hash: 6832a94bdddde361
 up: "[[IKS MOC]]"
 ---

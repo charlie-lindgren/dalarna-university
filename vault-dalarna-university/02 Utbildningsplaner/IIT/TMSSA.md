@@ -3,7 +3,7 @@ programkod: TMSSA
 programnamn: "Masterprogram i solenergiteknik"
 institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2024-06-12 . Gäller fr.o.m.  HT 2025."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IIT]
 scrape_hash: e19c53e32f5948cc
 up: "[[IIT MOC]]"
 ---

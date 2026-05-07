@@ -3,7 +3,7 @@ programkod: LVALA
 programnamn: "Vidareutbildning av lärare som saknar lärarexamen"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-06-17 . Gäller fr.o.m.  HT 2025."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IKS]
 scrape_hash: eb1e397ba8dc54da
 up: "[[IKS MOC]]"
 ---

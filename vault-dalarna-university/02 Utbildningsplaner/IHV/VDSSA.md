@@ -3,7 +3,7 @@ programkod: VDSSA
 programnamn: "Specialistsjuksköterskeutbildning till distriktssköterska"
 institution: "IHV"
 faststalld: "Fastställd av Områdesnämnden Vård och omsorg 2018-12-04 . Gäller fr.o.m.  VT 2019."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IHV]
 scrape_hash: 08eb7b503a34ecd1
 up: "[[IHV MOC]]"
 ---

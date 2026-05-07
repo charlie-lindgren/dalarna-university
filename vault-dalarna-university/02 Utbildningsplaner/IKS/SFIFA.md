@@ -3,7 +3,7 @@ programkod: SFIFA
 programnamn: "Magisterprogram i företagsekonomi med ett internationellt fokus"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2017-09-14 . Gäller fr.o.m.  HT 2018."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IKS]
 scrape_hash: 87795d86df89adc2
 up: "[[IKS MOC]]"
 ---

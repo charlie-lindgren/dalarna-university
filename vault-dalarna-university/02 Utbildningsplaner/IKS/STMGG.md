@@ -3,7 +3,7 @@ programkod: STMGG
 programnamn: "International Tourism Management"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2017-11-15 . Gäller fr.o.m.  HT 2017."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IKS]
 scrape_hash: 5c11f4ce9161b8fd
 up: "[[IKS MOC]]"
 ---

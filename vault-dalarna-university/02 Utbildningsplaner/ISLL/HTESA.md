@@ -3,7 +3,7 @@ programkod: HTESA
 programnamn: "Magisterprogram i tillämpad engelsk språkvetenskap"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för språk, litteratur och lärande 2023-12-20 . Gäller fr.o.m.  HT 2023."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, ISLL]
 scrape_hash: 400cb21291994fd5
 up: "[[ISLL MOC]]"
 ---

@@ -3,7 +3,7 @@ programkod: VBSKA
 programnamn: "Barnmorskeprogrammet"
 institution: "IHV"
 faststalld: "Fastställd av Områdesnämnden Vård och omsorg 2019-09-10 . Gäller fr.o.m.  HT 2020."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IHV]
 scrape_hash: 1ed6b7ecfddc6d9b
 up: "[[IHV MOC]]"
 ---

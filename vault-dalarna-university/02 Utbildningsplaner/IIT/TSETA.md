@@ -3,7 +3,7 @@ programkod: TSETA
 programnamn: "Magisterprogram i solenergiteknik"
 institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2015-10-07 . Gäller fr.o.m.  HT ."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IIT]
 scrape_hash: b0bc44d0d41ed87d
 up: "[[IIT MOC]]"
 ---

@@ -3,7 +3,7 @@ programkod: KFTKG
 programnamn: "Manus för film och TV – kandidatprogram"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2021-03-23 . Gäller fr.o.m.  HT 2021."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IKS]
 scrape_hash: 9bfc0ea005170f59
 up: "[[IKS MOC]]"
 ---

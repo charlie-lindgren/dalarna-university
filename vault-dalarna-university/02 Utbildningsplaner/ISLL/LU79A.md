@@ -3,7 +3,7 @@ programkod: LU79A
 programnamn: "Kompletterande pedagogisk utbildning, inriktning årskurs 7–9"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, ISLL]
 scrape_hash: ae52a0f44eaee959
 up: "[[ISLL MOC]]"
 ---

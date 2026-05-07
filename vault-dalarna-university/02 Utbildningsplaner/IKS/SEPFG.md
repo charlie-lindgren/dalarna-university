@@ -3,7 +3,7 @@ programkod: SEPFG
 programnamn: "Entreprenöriellt företagande"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2024-03-12 . Gäller fr.o.m.  HT 2024."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IKS]
 scrape_hash: 4158f4e557ee5779
 up: "[[IKS MOC]]"
 ---

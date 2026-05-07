@@ -3,7 +3,7 @@ programkod: HEELA
 programnamn: "Magisterprogram i engelska med inriktning mot engelskspråkig litteratur"
 institution: "ISLL"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2020-10-22 . Gäller fr.o.m.  HT 2021."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, ISLL]
 scrape_hash: 15ed69044987a188
 up: "[[ISLL MOC]]"
 ---

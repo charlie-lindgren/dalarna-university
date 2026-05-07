@@ -3,7 +3,7 @@ programkod: LG79A
 programnamn: "Ämneslärarprogrammet inriktning grundskolans årskurs 7-9"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, ISLL]
 scrape_hash: 8f790149552023d9
 up: "[[ISLL MOC]]"
 ---

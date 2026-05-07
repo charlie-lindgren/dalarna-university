@@ -3,7 +3,7 @@ programkod: LBF3A
 programnamn: "Grundlärarprogrammet Förskoleklass och grundskolans årskurs 1–3 arbetsintegrerad utbildning"
 institution: "IKS"
 faststalld: "Fastställd av Områdesnämnden Utbildningsvetenskap 2020-12-17 . Gäller fr.o.m.  VT 2021."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IKS]
 scrape_hash: aaea0d377ef573c6
 up: "[[IKS MOC]]"
 ---

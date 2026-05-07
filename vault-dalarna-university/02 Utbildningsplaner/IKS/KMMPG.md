@@ -3,7 +3,7 @@ programkod: KMMPG
 programnamn: "Manus och medieproduktion"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-01-15 . Gäller fr.o.m.  HT 2024."
-tags: [utbildningsplan, program]
+tags: [utbildningsplan, program, IKS]
 scrape_hash: 66d68c97ee972bd6
 up: "[[IKS MOC]]"
 ---
