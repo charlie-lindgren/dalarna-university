@@ -8,9 +8,10 @@ huvudomrade: "Italienska 1"
 amne: "Italienska"
 amne_kod: "ITA"
 institution: "ISLL"
-tags: [kursplan, ITA, ISLL]
+tags: [kursplan, ITA, ISLL, ej-aktiv]
 scrape_hash: 17ff6bd86160bf29
-up: "[[Italienska MOC]]"
+up: "[[Ej Aktiv Italienska MOC]]"
+cssclasses: [ej-aktiv]
 ---
 
 # GIT26V

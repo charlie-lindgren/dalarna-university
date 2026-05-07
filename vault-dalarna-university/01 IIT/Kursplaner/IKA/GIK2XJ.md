@@ -8,9 +8,10 @@ huvudomrade: "Informatik 1 Mikrodataanalys 2"
 amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
-tags: [kursplan, IKA, IIT]
+tags: [kursplan, IKA, IIT, ej-aktiv]
 scrape_hash: 55247e81b4675370
-up: "[[Informatik MOC]]"
+up: "[[Ej Aktiv Informatik MOC]]"
+cssclasses: [ej-aktiv]
 ---
 
 # GIK2XJ

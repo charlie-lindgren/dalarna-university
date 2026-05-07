@@ -8,9 +8,10 @@ huvudomrade: "Mikrodataanalys 1"
 amne: "Mikrodataanalys"
 amne_kod: "XYZ"
 institution: "IIT"
-tags: [kursplan, XYZ, IIT]
+tags: [kursplan, XYZ, IIT, ej-aktiv]
 scrape_hash: f1b4ba1e91b62aaa
-up: "[[Mikrodataanalys MOC]]"
+up: "[[Ej Aktiv Mikrodataanalys MOC]]"
+cssclasses: [ej-aktiv]
 ---
 
 # GMI26H

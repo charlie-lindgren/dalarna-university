@@ -8,9 +8,10 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
-tags: [kursplan, PGA, IKS]
+tags: [kursplan, PGA, IKS, ej-aktiv]
 scrape_hash: f328fa233183f048
-up: "[[Pedagogiskt arbete MOC]]"
+up: "[[Ej Aktiv Pedagogiskt arbete MOC]]"
+cssclasses: [ej-aktiv]
 ---
 
 # GPG3CN

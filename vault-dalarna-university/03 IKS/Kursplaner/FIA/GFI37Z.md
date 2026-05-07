@@ -8,9 +8,10 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Filosofi"
 amne_kod: "FIA"
 institution: "IKS"
-tags: [kursplan, FIA, IKS]
+tags: [kursplan, FIA, IKS, ej-aktiv]
 scrape_hash: f8d7041dfc8bdf31
-up: "[[Filosofi MOC]]"
+up: "[[Ej Aktiv Filosofi MOC]]"
+cssclasses: [ej-aktiv]
 ---
 
 # GFI37Z

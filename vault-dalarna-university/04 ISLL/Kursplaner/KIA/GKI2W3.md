@@ -8,9 +8,10 @@ huvudomrade: "Kinesiska 1"
 amne: "Kinesiska"
 amne_kod: "KIA"
 institution: "ISLL"
-tags: [kursplan, KIA, ISLL]
+tags: [kursplan, KIA, ISLL, ej-aktiv]
 scrape_hash: 7908222d310995a7
-up: "[[Kinesiska MOC]]"
+up: "[[Ej Aktiv Kinesiska MOC]]"
+cssclasses: [ej-aktiv]
 ---
 
 # GKI2W3

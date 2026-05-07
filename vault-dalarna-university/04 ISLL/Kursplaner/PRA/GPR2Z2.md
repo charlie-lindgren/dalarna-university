@@ -8,9 +8,10 @@ huvudomrade: "Kinesiska 1 Portugisiska 2 Ryska 3"
 amne: "Portugisiska"
 amne_kod: "PRA"
 institution: "ISLL"
-tags: [kursplan, PRA, ISLL]
+tags: [kursplan, PRA, ISLL, ej-aktiv]
 scrape_hash: 86b633002946a1d8
-up: "[[Portugisiska MOC]]"
+up: "[[Ej Aktiv Portugisiska MOC]]"
+cssclasses: [ej-aktiv]
 ---
 
 # GPR2Z2
