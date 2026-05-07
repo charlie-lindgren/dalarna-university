@@ -23,3 +23,6 @@ public/
 qa/rapporter/
 qa/rapporter-utb/
 tsconfig.tsbuildinfo
+
+# docs folder
+docs/
