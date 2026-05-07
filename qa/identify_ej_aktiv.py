@@ -262,10 +262,20 @@ def read_course_established_date(path: Path) -> str | None:
 def build_vilande_analysis_callout(
     rows: list[tuple[str, str, str, str, str, str | None]],
     xlsx_filename: str,
+    inst_code: str | None = None,
 ) -> list[str]:
-    """Bygg download-knapp + callout för Vilande kursplaner."""
+    """Bygg download-knapp + callout för Vilande kursplaner.
+
+    inst_code prefixas i href:en så att Quartz' "shortest" länkresolver
+    hittar exakt en match (varje institutions Analys-mapp har samma filnamn).
+    """
     n = len(rows)
-    href = xlsx_filename.replace(" ", "-")
+    xlsx_slug = xlsx_filename.replace(" ", "-")
+    if inst_code:
+        inst_slug = INST_DIR_NAME[inst_code].replace(" ", "-")
+        href = f"{inst_slug}/Analys/{xlsx_slug}"
+    else:
+        href = xlsx_slug
     lines = [
         f'<a class="download-xlsx" href="{href}" download>'
         f'{DOWNLOAD_ICON_SVG}'
@@ -396,7 +406,7 @@ def write_vilande_analysis(
         md_path = vilande_md_for(inst_code)
         xlsx_path = vilande_xlsx_for(inst_code)
         inst_rows = sorted(rows_by_inst.get(inst_code, []), key=row_sort_key)
-        callout_lines = build_vilande_analysis_callout(inst_rows, xlsx_path.name)
+        callout_lines = build_vilande_analysis_callout(inst_rows, xlsx_path.name, inst_code=inst_code)
 
         if md_path.exists():
             original_md = md_path.read_text(encoding="utf-8")

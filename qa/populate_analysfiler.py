@@ -147,10 +147,26 @@ DOWNLOAD_ICON_SVG = (
 )
 
 
-def build_callout(rows: list[tuple[str, str, str, str]], xlsx_filename: str) -> list[str]:
-    """rows = [(code, subj, problem_label, detail), ...] -> callout + download link lines."""
+def build_callout(
+    rows: list[tuple[str, str, str, str]],
+    xlsx_filename: str,
+    inst_code: str | None = None,
+) -> list[str]:
+    """rows = [(code, subj, problem_label, detail), ...] -> callout + download link lines.
+
+    With per-institution Analys folders, the same xlsx basename exists in 4 places
+    (one per institution). Quartz's "shortest" link resolver sees multiple matches
+    and falls back to vault-root → 404. We avoid that by writing the full
+    institution-prefixed slug path so transformLink's suffix-match yields a unique hit.
+    """
     n = len(rows)
-    href = xlsx_filename.replace(" ", "-")  # Quartz slugifies non-md asset names the same way
+    xlsx_slug = xlsx_filename.replace(" ", "-")  # Quartz slugifies asset names the same way
+    if inst_code:
+        # e.g. "01 IIT" → "01-IIT" (Quartz slug convention)
+        inst_slug = INST_DIR_NAME[inst_code].replace(" ", "-")
+        href = f"{inst_slug}/Analys/{xlsx_slug}"
+    else:
+        href = xlsx_slug
     lines = [
         f'<a class="download-xlsx" href="{href}" download>'
         f'{DOWNLOAD_ICON_SVG}'
@@ -328,7 +344,7 @@ def main():
 
             xlsx_filename = analys_path.stem + ".xlsx"
             xlsx_path = analys_path.with_suffix(".xlsx")
-            callout_lines = build_callout(rows, xlsx_filename)
+            callout_lines = build_callout(rows, xlsx_filename, inst_code=inst_code)
 
             original = analys_path.read_text(encoding="utf-8")
             new_text = replace_callout(original, callout_lines)

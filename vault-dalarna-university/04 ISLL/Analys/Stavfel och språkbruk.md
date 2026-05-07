@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (189 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (168 rader)</span></a>
 
-> [!example]- 175 fynd — klicka för att expandera
+> [!example]- 168 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -23,7 +23,6 @@ status: första pass
 > | [AR1003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR1003) | ARA | Felstavning (en) | `yousef` (en) |
 > | [AR1003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR1003) | ARA | Felstavning (en) | `zakaria` (en) |
 > | [AR1004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR1004) | ARA | Felstavning (en) | `hec` (en) |
-> | [AR1012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR1012) | ARA | Felstavning (en) | `roleplays` (en) |
 > | [AR1012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR1012) | ARA | Felstavning (en) | `syriand` (en) |
 > | [AR1025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR1025) | ARA | Felstavning (en) | `proficiencythrough` (en) |
 > | [AR2001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR2001) | ARA | Dubblerat ord | `the` — …resentations of varying length.  ### Assessment  Grades for the the _Grammar and Texts_ module are based on continuous assesmen… |
@@ -43,14 +42,11 @@ status: första pass
 > | [AEN2BZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BZ) | ENA | Felstavning | `ochspanskspråkiga` (sv) |
 > | [EN2028](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN2028) | ENA | Felstavning (en) | `analye` (en) |
 > | [EN2043](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN2043) | ENA | Felstavning (en) | `knowlege` (en) |
-> | [EN2046](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN2046) | ENA | Felstavning | `engelskämnet` (sv) |
 > | [EN2046](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN2046) | ENA | Felstavning | `ämnesdidaktiskområde` (sv) |
 > | [EN3029](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3029) | ENA | Felstavning (en) | `irish` (en) |
-> | [EN3029](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3029) | ENA | Felstavning (en) | `poststructuralism` (en) |
 > | [EN3063](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3063) | ENA | Felstavning (en) | `coomprising` (en) |
 > | [EN3063](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3063) | ENA | Felstavning (en) | `sidor` (en) |
 > | [EN3064](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3064) | ENA | Felstavning (en) | `historicism` (en) |
-> | [EN3064](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3064) | ENA | Felstavning (en) | `poststructuralism` (en) |
 > | [EN3071](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3071) | ENA | Felstavning | `samtidafrågor` (sv) |
 > | [EN3075](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3075) | ENA | Felstavning (en) | `vgs` (en) |
 > | [EN3076](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3076) | ENA | Felstavning (en) | `vgs` (en) |
@@ -76,7 +72,6 @@ status: första pass
 > | [GFR2A8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2A8) | FRA | Dubblerat ord | `writing` — …y basic French grammar in their own text production such as writing writing simple texts or summarizing a newspaper article in good Fre… |
 > | [GFR2HZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2HZ) | FRA | Felstavning (en) | `orbally` (en) |
 > | [GFR2W9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2W9) | FRA | Felstavning | `forsättning` (sv) |
-> | [GFR3BS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3BS) | FRA | Felstavning | `franskämnets` (sv) |
 > | [GFR3BS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3BS) | FRA | Felstavning (en) | `defens` (en) |
 > | [GFR3BS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3BS) | FRA | Felstavning (en) | `ehtics` (en) |
 > | [GFR3D3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3D3) | FRA | Felstavning | `godänd` (sv) |
@@ -144,7 +139,6 @@ status: första pass
 > | [GSS2L2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2L2) | SSA | Felstavning | `jämörs` (sv) |
 > | [GSS2L2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2L2) | SSA | Felstavning | `lärsituation` (sv) |
 > | [GSS39U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS39U) | SSA | Felstavning | `ochförhållningssätt` (sv) |
-> | [GSS3BH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3BH) | SSA | Felstavning (en) | `studenta` (en) |
 > | [GSS3BH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3BH) | SSA | Felstavning (en) | `writtem` (en) |
 > | [GSS3BH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3BH) | SSA | Felstavning (en) | `writtten` (en) |
 > | [GSS3BK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3BK) | SSA | Felstavning | `framställing` (sv) |
@@ -180,7 +174,6 @@ status: första pass
 > | [ATY2B8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY2B8) | TYA | Felstavning (en) | `schlarly` (en) |
 > | [GTY2N5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2N5) | TYA | Felstavning | `sjävständighet` (sv) |
 > | [GTY3CU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3CU) | TYA | Felstavning | `samhällssyttringar` (sv) |
-> | [GTY3CU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3CU) | TYA | Felstavning | `tyskämnet` (sv) |
 > | [GTY3J5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3J5) | TYA | Felstavning | `tilllämpa` (sv) |
 > | [GTY3J7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3J7) | TYA | Felstavning (en) | `aachieve` (en) |
 > | [GTY3JB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3JB) | TYA | Felstavning | `sjävständighet` (sv) |
