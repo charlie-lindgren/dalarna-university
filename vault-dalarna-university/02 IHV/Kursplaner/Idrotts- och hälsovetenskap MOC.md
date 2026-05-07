@@ -9,7 +9,7 @@ up: "[[IHV MOC]]"
 
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 
-## Kurser (76 st)
+## Kurser (75 st)
 
 - [[AIH237]] — Examensarbete i idrott och hälsa för ämneslärarexamen inriktning grundskolans årskurs 7-9
 - [[AIH237]] — Examensarbete i idrott och hälsa för ämneslärarexamen inriktning grundskolans årskurs 7-9
@@ -63,7 +63,6 @@ up: "[[IHV MOC]]"
 - [[GIH3AN]] — Idrott och hälsa I med didaktisk inriktning åk 4-6
 - [[GIH3AP]] — Idrott och hälsa I med didaktisk inriktning
 - [[GIH3AP]] — Idrott och hälsa I med didaktisk inriktning
-- [[GIH3AQ]] — Styrketräningens teori och praktiska tillämpning
 - [[GIH3C2]] — Journalistik: Sportreportage och sportkommentering
 - [[GIH3D4]] — Träningslära för tävlingsinriktad idrott
 - [[GIH3D5]] — Träningslära för hälsoinriktad fysisk aktivitet

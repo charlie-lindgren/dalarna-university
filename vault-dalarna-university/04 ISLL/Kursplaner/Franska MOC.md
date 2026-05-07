@@ -9,7 +9,7 @@ up: "[[ISLL MOC]]"
 
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (44 st)
+## Kurser (45 st)
 
 - [[AFR236]] — Den fransktalande världen: Litteratur, kultur och översättning
 - [[AFR24A]] — Examensarbete i franska för ämneslärarexamen, inriktning grundskolans årskurs 7-9
@@ -19,6 +19,7 @@ up: "[[ISLL MOC]]"
 - [[AFR24B]] — Examensarbete i franska för ämneslärarexamen, inriktning gymnasieskolan
 - [[AFR24B]] — Examensarbete i franska för ämneslärarexamen, inriktning gymnasieskolan
 - [[AFR26Q]] — Franska IV: Franskspråkig litteraturkritik
+- [[AFR26R]] — Franska IV: Språkvetenskap med fokus på språkinlärning
 - [[AFR27P]] — Franska IV: Franskspråkig chanson i original och översättning
 - [[AFR27P]] — Franska IV: Franskspråkig chanson i original och översättning
 - [[AFR298]] — Franska: Sociala medier ur ett diskursanalytiskt perspektiv

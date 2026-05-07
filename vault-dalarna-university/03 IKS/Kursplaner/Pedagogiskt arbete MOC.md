@@ -9,7 +9,7 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (173 st)
+## Kurser (170 st)
 
 - [[APG22X]] — Tematisk fördjupning inom ett utbildningsvetenskapligt område
 - [[APG22X]] — Tematisk fördjupning inom ett utbildningsvetenskapligt område
@@ -60,10 +60,9 @@ up: "[[IKS MOC]]"
 - [[APG2C6]] — Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare F-3
 - [[APG2C7]] — Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare 4-6
 - [[APG2C7]] — Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare 4-6
-- [[APG2CC]] — Mentorsutbildning för en kvalitativ introduktionsperiod
-- [[APG2CC]] — Mentorsutbildning för en kvalitativ introduktionsperiod
 - [[APG2CD]] — Perspektiv på pedagogisk praktik
 - [[APG2CD]] — Perspektiv på pedagogisk praktik
+- [[APG2CL]] — Undervisningsskicklighet i teori och praktik (USP) Ämneslärare
 - [[APG2CL]] — Undervisningsskicklighet i teori och praktik (USP) Ämneslärare
 - [[APG2CL]] — Undervisningsskicklighet i teori och praktik (USP) Ämneslärare
 - [[APG2CM]] — Undervisningsskicklighet i teori och praktik (USP) F-6
@@ -153,8 +152,6 @@ up: "[[IKS MOC]]"
 - [[GPG3CK]] — Skolväsendets historia och samhällsuppdrag - förskoleklass och grundskolan åk 1-6
 - [[GPG3CL]] — Samhällsorienterande ämnen, årskurs 4-6
 - [[GPG3CL]] — Samhällsorienterande ämnen, årskurs 4-6
-- [[GPG3CN]] — Undervisning och lärande genom rollspel - inriktning pedagogiskt arbete
-- [[GPG3CN]] — Undervisning och lärande genom rollspel - inriktning pedagogiskt arbete
 - [[GPG3EU]] — Didaktik och läroplansteori
 - [[GPG3EU]] — Didaktik och läroplansteori
 - [[GPG3EV]] — Professionellt lärarskap och skolutveckling (varav 10 hp VFU)

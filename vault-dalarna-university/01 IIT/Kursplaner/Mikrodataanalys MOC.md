@@ -9,7 +9,7 @@ up: "[[IIT MOC]]"
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
 
-## Kurser (70 st)
+## Kurser (71 st)
 
 - [[AMI22T]] — Statistisk inlärning
 - [[AMI22T]] — Statistisk inlärning
@@ -37,6 +37,7 @@ up: "[[IIT MOC]]"
 - [[AMI23L]] — Rumslig data och GIS
 - [[AMI23L]] — Rumslig data och GIS
 - [[AMI23L]] — Rumslig data och GIS
+- [[AMI27V]] — Datadrivet ledarskap
 - [[AMI27V]] — Datadrivet ledarskap
 - [[AMI27V]] — Datadrivet ledarskap
 - [[AMI295]] — Business Intelligence

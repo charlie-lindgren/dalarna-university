@@ -9,7 +9,7 @@ up: "[[ISLL MOC]]"
 
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (37 st)
+## Kurser (34 st)
 
 - [[AKI25K]] — Examensarbete i kinesiska för ämneslärarexamen, inriktning gymnasieskolan
 - [[AKI25K]] — Examensarbete i kinesiska för ämneslärarexamen, inriktning gymnasieskolan
@@ -31,11 +31,8 @@ up: "[[ISLL MOC]]"
 - [[GKI2QA]] — Kinesiska: Kandidatexamensarbete
 - [[GKI2QA]] — Kinesiska: Kandidatexamensarbete
 - [[GKI2VM]] — Kinesiska: Språkinlärning och språkundervisning
-- [[GKI2W3]] — Kinesiska I med didaktisk inriktning
-- [[GKI2W3]] — Kinesiska I med didaktisk inriktning
 - [[GKI3C8]] — Kinesiska för affärslivet I
 - [[GKI3C8]] — Kinesiska för affärslivet I
-- [[GKI3C9]] — Kinesiska för affärslivet II
 - [[GKI3CA]] — Kinesiska i tal och skrift III
 - [[GKI3CA]] — Kinesiska i tal och skrift III
 - [[GKI3CB]] — Kinesiska i tal och skrift IV

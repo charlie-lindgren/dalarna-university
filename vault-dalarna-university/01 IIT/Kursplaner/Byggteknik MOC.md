@@ -9,7 +9,7 @@ up: "[[IIT MOC]]"
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
 
-## Kurser (83 st)
+## Kurser (81 st)
 
 - [[ABY22V]] — Energieffektiva installationssystem
 - [[ABY22V]] — Energieffektiva installationssystem
@@ -19,8 +19,6 @@ up: "[[IIT MOC]]"
 - [[ABY27W]] — Introduktion till bioklimatisk design
 - [[ABY2BL]] — Hållbar samhällsplanering
 - [[ABY2BL]] — Hållbar samhällsplanering
-- [[BY1047]] — Bärkraftigt byggande och boende
-- [[BY1047]] — Bärkraftigt byggande och boende
 - [[BY1053]] — Arkitektur och byggande
 - [[BY1053]] — Arkitektur och byggande
 - [[BY1054]] — Vägteknik

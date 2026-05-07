@@ -21,6 +21,7 @@ up: "[[IKS MOC]]"
 - [[ARK25C]] — Examensarbete i religionsvetenskap för ämneslärarexamen, inriktning gymnasieskolan
 - [[ARK262]] — Religion och våld i samtiden
 - [[ARK262]] — Religion och våld i samtiden
+- [[ARK29H]] — Religionsvetenskaplig litteraturkurs
 - [[ARK29J]] — Religionsvetenskaplig vetenskapshistoria, teori och metod
 - [[ARK29K]] — Upplevelser av osynlig närvaro
 - [[ARK29L]] — Religionssociologiska perspektiv på barn och unga i slutna religiösa miljöer
@@ -49,6 +50,5 @@ up: "[[IKS MOC]]"
 - [[GRK36M]] — Religionsvetenskap III: Examensarbete för kandidatexamen
 - [[GRK36N]] — Religionsvetenskap III: Uppsats med didaktisk inriktning
 - [[GRK3B4]] — Levd religion: fältstudieresa utifrån ämnesteoretiska och religionsdidaktiska perspektiv
-- [[GRK3CQ]] — Undervisning och lärande genom rollspel – inriktning religionsdidaktik
 - [[RK2034]] — Mänskliga rättigheter som ideal: Historiska, filosofiska och politiska aspekter
 - [[RK2038]] — Kritik av mänskliga rättigheters normativa grund, tillämpning och universalisering

@@ -9,7 +9,7 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (46 st)
+## Kurser (43 st)
 
 - [[AHI23V]] — Examensarbete i historia för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 - [[AHI23V]] — Examensarbete i historia för ämneslärarexamen, inriktning grundskolans årskurs 7-9
@@ -22,8 +22,6 @@ up: "[[IKS MOC]]"
 - [[AHI29P]] — Examensarbete, magisterexamen i historia
 - [[AHI29P]] — Examensarbete, magisterexamen i historia
 - [[AHI29P]] — Examensarbete, magisterexamen i historia
-- [[AHI29Q]] — Historievetenskaplig litteraturkurs
-- [[AHI29R]] — Historievetenskapens teori och metod
 - [[AS2004]] — Afrikanska studier: Utbildning och förändring i afrikanska samhällen
 - [[AS2004]] — Afrikanska studier: Utbildning och förändring i afrikanska samhällen
 - [[AS2005]] — Afrikanska studier: Afrikanska samhällen i förändring
@@ -55,5 +53,4 @@ up: "[[IKS MOC]]"
 - [[GHI362]] — Historia III, med examensarbete för kandidatexamen
 - [[GHI374]] — Historia II med didaktisk inriktning för gymnasieskolan
 - [[GHI378]] — Historia II med didaktisk inriktning för grundskolans årskurs 7-9
-- [[GHI3CP]] — Undervisning och lärande genom rollspel – inriktning historiedidaktik
 - [[GHI3JX]] — Historia III med didaktisk inriktning för utökad behörighet mot gymnasieskolan

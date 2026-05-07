@@ -9,7 +9,7 @@ up: "[[ISLL MOC]]"
 
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (26 st)
+## Kurser (25 st)
 
 - [[GRY284]] — Det postsovjetiska ryska samhället
 - [[GRY285]] — Ryska II: Muntlig språkfärdighet
@@ -24,7 +24,6 @@ up: "[[ISLL MOC]]"
 - [[GRY28U]] — Ryska III: Rysk litteratur mellan 1800 och 1917
 - [[GRY2B3]] — Ryska IV: Muntlig språkfärdighet
 - [[GRY2B4]] — Ryska IV: Rysk litteratur mellan 1917 och 1991
-- [[GRY2BR]] — Ryska V: Samtida rysk litteratur och kultur
 - [[GRY2BS]] — Ryska V: Kandidatexamensarbete
 - [[GRY2BS]] — Ryska V: Kandidatexamensarbete
 - [[GRY2LE]] — Rysk folklore: Tro, magi och fruktan genom tiderna

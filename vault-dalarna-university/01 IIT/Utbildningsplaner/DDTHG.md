@@ -4,7 +4,7 @@ programnamn: "Digitala tjänster – program för högskoleexamen"
 institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2022-12-20 . Gäller fr.o.m.  HT 2023."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: a8f0f6f39f80ae45
+scrape_hash: 8d7fedda67b7464c
 up: "[[IIT MOC]]"
 ---
 
@@ -124,6 +124,7 @@ Under utbildningen ges möjlighet att välja mellan valbara kurser.
 - Nätjuridik, 7,5 hp
 
 ***Kurser som krävs för att programmålen ska uppfyllas**
+
 
 ## 4. Examensbenämning
 

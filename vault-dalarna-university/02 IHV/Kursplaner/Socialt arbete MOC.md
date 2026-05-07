@@ -9,7 +9,7 @@ up: "[[IHV MOC]]"
 
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 
-## Kurser (64 st)
+## Kurser (65 st)
 
 - [[ASA24K]] — Etik i socialt arbete
 - [[ASA24K]] — Etik i socialt arbete
@@ -27,6 +27,7 @@ up: "[[IHV MOC]]"
 - [[ASA28Q]] — Äldre personers levnadsvillkor
 - [[ASA293]] — Internationellt socialt arbete: samtida debatter och praktiker
 - [[ASA293]] — Internationellt socialt arbete: samtida debatter och praktiker
+- [[ASA2BA]] — Ledarskap och verksamhetsutveckling i socialt arbete
 - [[ASA2BA]] — Ledarskap och verksamhetsutveckling i socialt arbete
 - [[ASA2BA]] — Ledarskap och verksamhetsutveckling i socialt arbete
 - [[GSA27Y]] — Psykologiska perspektiv på socialt arbete

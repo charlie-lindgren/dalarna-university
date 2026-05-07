@@ -9,7 +9,7 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (12 st)
+## Kurser (11 st)
 
 - [[AFI273]] — Humanvetenskapernas vetenskapsteori
 - [[FI1028]] — Filosofi: Filosofi I
@@ -21,5 +21,4 @@ up: "[[IKS MOC]]"
 - [[FI1040]] — Etik för idrottsledare
 - [[GFI282]] — Vetenskapligt tänkande och skrivande
 - [[GFI293]] — Samhällsvetenskapernas vetenskapsteori
-- [[GFI37Z]] — Gud och bevisen: filosofiska argument för och mot Guds existens
 - [[GFI3BT]] — Introduktion till hermeneutiken

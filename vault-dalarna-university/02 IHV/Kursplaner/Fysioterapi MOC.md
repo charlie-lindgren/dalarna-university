@@ -9,6 +9,7 @@ up: "[[IHV MOC]]"
 
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 
-## Kurser (1 st)
+## Kurser (2 st)
 
+- [[AFT2CA]] — Fysioterapi med fokus på långvarig smärta och hållbar utveckling
 - [[AFT2CB]] — Fysisk aktivitet som prevention och behandling

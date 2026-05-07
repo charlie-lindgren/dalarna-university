@@ -9,7 +9,7 @@ up: "[[ISLL MOC]]"
 
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (48 st)
+## Kurser (49 st)
 
 - [[ATY255]] — Examensarbete i tyska för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 - [[ATY255]] — Examensarbete i tyska för ämneslärarexamen, inriktning grundskolans årskurs 7-9
@@ -42,6 +42,7 @@ up: "[[ISLL MOC]]"
 - [[TY1038]] — Tyska: Språkdidaktik I
 - [[TY1038]] — Tyska: Språkdidaktik I
 - [[TY1049]] — Tyskspråkig litteratur och litteraturhistoria
+- [[TY1050]] — Tyska: Skriftlig språkfärdighet II
 - [[TY1066]] — Tyska, Språkdidaktik II
 - [[TY1067]] — Tyska grundläggande kurs I
 - [[TY1067]] — Tyska grundläggande kurs I

@@ -9,9 +9,10 @@ up: "[[IHV MOC]]"
 
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 
-## Kurser (13 st)
+## Kurser (14 st)
 
 - [[AMC288]] — Fysisk aktivitet och träning som prevention och behandling
+- [[AMC28N]] — Evidensbaserat arbetssätt och forskningsmetodik inom fysioterapi
 - [[AMC28N]] — Evidensbaserat arbetssätt och forskningsmetodik inom fysioterapi
 - [[AMC29F]] — Examensarbete för magisterexamen i fysioterapi
 - [[AMC29F]] — Examensarbete för magisterexamen i fysioterapi

@@ -4,7 +4,7 @@ programnamn: "Data Science: Masterprogram"
 institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2018-10-11 . Gäller fr.o.m.  HT 2018."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: 15bf7d0da35c513b
+scrape_hash: a6a2d451b891be4b
 up: "[[IIT MOC]]"
 ---
 

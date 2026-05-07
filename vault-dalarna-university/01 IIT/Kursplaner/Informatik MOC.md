@@ -9,8 +9,9 @@ up: "[[IIT MOC]]"
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
 
-## Kurser (51 st)
+## Kurser (52 st)
 
+- [[AIK232]] — Data Warehousing
 - [[AIK232]] — Data Warehousing
 - [[GIK23M]] — Introduktion till relationsdatabaser
 - [[GIK23M]] — Introduktion till relationsdatabaser
