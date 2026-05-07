@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, IKA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 0cb3707e63d3e8b6
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK38G
 up: "[[Informatik MOC]]"
 ---
 
 # GIK38G
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK38G)
 
 **Kursnamn:** Design av digitala tjänster
 **Course Name:** Design of Digital Services

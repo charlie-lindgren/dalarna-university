@@ -10,10 +10,13 @@ amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
 scrape_hash: 9835f53021d23ca3
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI2J3
 up: "[[Mikrodataanalys MOC]]"
 ---
 
 # GMI2J3
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI2J3)
 
 **Kursnamn:** Mjukvarutestning 1
 **Course Name:** Software Testing 1

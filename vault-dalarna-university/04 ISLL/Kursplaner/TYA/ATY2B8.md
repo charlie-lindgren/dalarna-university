@@ -10,10 +10,13 @@ amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
 scrape_hash: c37c8abffbb9decf
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY2B8
 up: "[[Tyska MOC]]"
 ---
 
 # ATY2B8
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY2B8)
 
 **Kursnamn:** Tyska: identitet och genus i tyskspråkig litteratur
 **Course Name:** German: Identity and Gender in Literature in German

@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, LPU, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: bb889f47880cf608
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP3AH
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
 
 # GLP3AH
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP3AH)
 
 **Kursnamn:** Hårdrock och metal: musikproduktion, kultur och kreativa konventioner
 **Course Name:** Heavy Metal: Music Production, Culture and Creative Conventions

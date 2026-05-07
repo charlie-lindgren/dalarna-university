@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: 7623f5eb122ee85d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3D5
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3D5
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3D5)
 
 **Kursnamn:** Träningslära för hälsoinriktad fysisk aktivitet
 **Course Name:** Training Science for Physical Activity and Health

@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: c8c37a83fb21c193
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2UL
 up: "[[Energiteknik MOC]]"
 ---
 
 # GEG2UL
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2UL)
 
 **Kursnamn:** Förnybar kraftgenerering
 **Course Name:** Renewable Power Generation

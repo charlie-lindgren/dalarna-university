@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 238ebca8cff4c43d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37P
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH37P
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37P)
 
 **Kursnamn:** Idrott och hälsa I med didaktisk inriktning åk 4-6
 **Course Name:** Physical Education and Health I for Teacher Students Year 4-6

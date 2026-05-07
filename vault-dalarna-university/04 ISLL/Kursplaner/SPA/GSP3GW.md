@@ -10,10 +10,13 @@ amne_kod: "SPA"
 institution: "ISLL"
 tags: [kursplan, SPA, ISLL]
 scrape_hash: 501d1b06bcd08176
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3GW
 up: "[[Spanska MOC]]"
 ---
 
 # GSP3GW
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3GW)
 
 **Kursnamn:** Spanska III Lingvistisk inriktning: Kandidatexamensarbete
 **Course Name:** Spanish III Focus on Linguistics: Bachelor’s Degree Thesis

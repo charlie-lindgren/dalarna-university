@@ -10,10 +10,13 @@ amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
 scrape_hash: a394fb2c274c4f6c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29H
 up: "[[Religionsvetenskap MOC]]"
 ---
 
 # ARK29H
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29H)
 
 **Kursnamn:** Religionsvetenskaplig litteraturkurs
 **Course Name:** Reading Course in Religious Studies

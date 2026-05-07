@@ -10,10 +10,13 @@ amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
 scrape_hash: 34b32f3a473a6ca5
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ37Y
 up: "[[Omvårdnad MOC]]"
 ---
 
 # GVÅ37Y
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ37Y)
 
 **Kursnamn:** Metoder och teorier vid symtom och tecken på hälsa/ohälsa II
 **Course Name:** Methods and Theories Regarding Signs and Symptoms of Health/Ill Health II

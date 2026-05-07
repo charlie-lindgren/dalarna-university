@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, NAA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 99714555a1c09bb8
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA2NT
 up: "[[Nationalekonomi MOC]]"
 ---
 
 # GNA2NT
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA2NT)
 
 **Kursnamn:** Finansiella marknader och penningpolitik
 **Course Name:** Financial Markets and Monetary Policy

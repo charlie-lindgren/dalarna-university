@@ -10,10 +10,13 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
 scrape_hash: a5bd44780d530db4
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA28A
 up: "[[Socialt arbete MOC]]"
 ---
 
 # ASA28A
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA28A)
 
 **Kursnamn:** Välfärdsteknik i vård och omsorg
 **Course Name:** Welfare Technology in Health and Social Care

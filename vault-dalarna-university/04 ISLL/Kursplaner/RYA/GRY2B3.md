@@ -10,10 +10,13 @@ amne_kod: "RYA"
 institution: "ISLL"
 tags: [kursplan, RYA, ISLL]
 scrape_hash: bee109ac291415e1
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY2B3
 up: "[[Ryska MOC]]"
 ---
 
 # GRY2B3
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY2B3)
 
 **Kursnamn:** Ryska IV: Muntlig språkfärdighet
 **Course Name:** Russian IV: Oral Language Proficiency

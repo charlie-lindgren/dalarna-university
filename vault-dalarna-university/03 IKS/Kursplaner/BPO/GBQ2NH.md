@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 1989ee6a3cc5694d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2NH
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ2NH
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2NH)
 
 **Kursnamn:** Projektplanering och användarperspektiv
 **Course Name:** Film Project Management and Usability

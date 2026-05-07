@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: 32cfee78494ff8ca
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AP
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3AP
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AP)
 
 **Kursnamn:** Idrott och hälsa I med didaktisk inriktning
 **Course Name:** Physical Education and Health I for Teacher Students

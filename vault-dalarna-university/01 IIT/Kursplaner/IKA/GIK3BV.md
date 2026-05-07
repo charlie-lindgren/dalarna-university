@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, IKA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 6d3c203ad32bec41
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK3BV
 up: "[[Informatik MOC]]"
 ---
 
 # GIK3BV
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK3BV)
 
 **Kursnamn:** E-samhället: e-förvaltning och digitala tjänster
 **Course Name:** E-society: e-governance and Digital Services

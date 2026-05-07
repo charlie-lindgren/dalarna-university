@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, LPU, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: d1cf27a4880ae868
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2FZ
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
 
 # GLP2FZ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2FZ)
 
 **Kursnamn:** Fördjupningskurs i Ljud- och musikproduktion med kandidatexamensarbete
 **Course Name:** Specialisation Course in Sound and Music Production with Bachelor‘s Degree Thesis

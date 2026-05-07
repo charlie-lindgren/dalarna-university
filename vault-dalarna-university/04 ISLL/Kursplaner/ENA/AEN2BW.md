@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: 23384554c83a0dbf
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BW
 up: "[[Engelska MOC]]"
 ---
 
 # AEN2BW
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BW)
 
 **Kursnamn:** Interkulturella litteraturstudier: Litteratur och politik i det samtida Afrika
 **Course Name:** Intercultural Literature Studies: Literature and Politics in Contemporary Africa

@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 1d0138f1aa90b3dc
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ22U
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ22U
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ22U)
 
 **Kursnamn:** Kvalificerad filmproduktion
 **Course Name:** High End Film Production

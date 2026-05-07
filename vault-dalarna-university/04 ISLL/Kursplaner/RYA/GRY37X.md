@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, RYA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: c0a0e235d226071d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY37X
 up: "[[Ryska MOC]]"
 ---
 
 # GRY37X
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY37X)
 
 **Kursnamn:** Ryska för modersmålslärare: språkets struktur i ett kontrastivt perspektiv
 **Course Name:** Russian for Mother Tongue Teachers: Language Structure in a Contrastive Perspective

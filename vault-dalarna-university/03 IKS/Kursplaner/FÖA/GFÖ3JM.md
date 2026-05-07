@@ -10,10 +10,13 @@ amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
 scrape_hash: cc19adbc793b7df1
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ3JM
 up: "[[Företagsekonomi MOC]]"
 ---
 
 # GFÖ3JM
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ3JM)
 
 **Kursnamn:** Ledning och marknadsföring i tjänsteföretag
 **Course Name:** Service Management and Marketing

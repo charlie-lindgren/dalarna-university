@@ -10,10 +10,13 @@ amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
 scrape_hash: 883bdf4bccaa39c3
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26L
 up: "[[Industriell ekonomi MOC]]"
 ---
 
 # GIE26L
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26L)
 
 **Kursnamn:** Industriell ekonomi - logistik och Supply Chain Management
 **Course Name:** Industrial Management - Logistics and Supply Chain Management

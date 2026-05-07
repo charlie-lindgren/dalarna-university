@@ -10,10 +10,13 @@ amne_kod: "FYS"
 institution: "IHV"
 tags: [kursplan, FYS, IHV]
 scrape_hash: 86660034aa36e3c1
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFT2CB
 up: "[[Fysioterapi MOC]]"
 ---
 
 # AFT2CB
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFT2CB)
 
 **Kursnamn:** Fysisk aktivitet som prevention och behandling
 **Course Name:** Physical activity in the prevention and treatment of disease

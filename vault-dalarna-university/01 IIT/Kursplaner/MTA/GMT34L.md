@@ -10,10 +10,13 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT]
 scrape_hash: 877ddeb640bf20ab
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34L
 up: "[[Maskinteknik MOC]]"
 ---
 
 # GMT34L
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34L)
 
 **Kursnamn:** Automation - styrteknik
 **Course Name:** Automation Control

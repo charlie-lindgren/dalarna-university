@@ -10,10 +10,13 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
 scrape_hash: 6366c5674f3f35fe
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR35E
 up: "[[Franska MOC]]"
 ---
 
 # GFR35E
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR35E)
 
 **Kursnamn:** Franska I: Kultur och samhälle
 **Course Name:** French I: Culture and Society

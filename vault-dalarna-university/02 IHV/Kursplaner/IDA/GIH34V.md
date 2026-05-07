@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 167006d22e14b5e3
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34V
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH34V
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34V)
 
 **Kursnamn:** Arbetsmiljö, ergonomi och näringslära (VAL)
 **Course Name:** Working Environment, Ergonomics and Nutrition (CPD for teachers)

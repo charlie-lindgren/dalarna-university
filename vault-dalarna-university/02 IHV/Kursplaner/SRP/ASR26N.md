@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, SRP, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: f7a9f4ac59efa73d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR26N
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
 
 # ASR26N
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR26N)
 
 **Kursnamn:** Konstruktiv länkning av utbildnings- och kursplaner, läraktiviteter och examinationsformer för lärare i högre utbildning
 **Course Name:** Constructive Alignment of Curricula, Syllabi, Learning Activities and Examinations for Teachers in Higher Education

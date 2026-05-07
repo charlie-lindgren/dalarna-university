@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: a84994820e706696
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK23M
 up: "[[Informatik MOC]]"
 ---
 
 # GIK23M
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK23M)
 
 **Kursnamn:** Introduktion till relationsdatabaser
 **Course Name:** Introduction to Relational Databases

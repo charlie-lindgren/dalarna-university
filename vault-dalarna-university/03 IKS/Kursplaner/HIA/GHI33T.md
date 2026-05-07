@@ -10,10 +10,13 @@ amne_kod: "HIA"
 institution: "IKS"
 tags: [kursplan, HIA, IKS]
 scrape_hash: 4c89843c38c48523
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI33T
 up: "[[Historia MOC]]"
 ---
 
 # GHI33T
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI33T)
 
 **Kursnamn:** Historia II
 **Course Name:** History II

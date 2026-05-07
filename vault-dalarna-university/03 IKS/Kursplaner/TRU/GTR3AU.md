@@ -10,10 +10,13 @@ amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
 scrape_hash: 76f4c486650650d3
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR3AU
 up: "[[Turismvetenskap MOC]]"
 ---
 
 # GTR3AU
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR3AU)
 
 **Kursnamn:** Turismmarknadsföring
 **Course Name:** Tourism Marketing

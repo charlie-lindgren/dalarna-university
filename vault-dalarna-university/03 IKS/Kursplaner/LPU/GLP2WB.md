@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, LPU, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 968359006350ae89
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2WB
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
 
 # GLP2WB
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2WB)
 
 **Kursnamn:** Liveljud och liveinspelning
 **Course Name:** Live Sound and Live Recording

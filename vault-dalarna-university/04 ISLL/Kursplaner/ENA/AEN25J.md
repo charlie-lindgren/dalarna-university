@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: 383a008a0b4d2e8a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN25J
 up: "[[Engelska MOC]]"
 ---
 
 # AEN25J
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN25J)
 
 **Kursnamn:** Examensarbete i engelska för ämneslärarexamen, inriktning gymnasieskolan
 **Course Name:** Degree Thesis in English for Master of Arts in Education, Upper Secondary School

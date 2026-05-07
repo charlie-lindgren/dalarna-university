@@ -10,10 +10,13 @@ amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
 scrape_hash: a9240e797211a16f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ2F4
 up: "[[Företagsekonomi MOC]]"
 ---
 
 # GFÖ2F4
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ2F4)
 
 **Kursnamn:** Organisation och marknadsföring A
 **Course Name:** Organisation and Marketing A

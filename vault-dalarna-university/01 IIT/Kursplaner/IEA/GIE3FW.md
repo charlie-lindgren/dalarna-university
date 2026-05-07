@@ -10,10 +10,13 @@ amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
 scrape_hash: 06f6ea81d01a212b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3FW
 up: "[[Industriell ekonomi MOC]]"
 ---
 
 # GIE3FW
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3FW)
 
 **Kursnamn:** Industriell marknadsföring
 **Course Name:** Industrial Marketing

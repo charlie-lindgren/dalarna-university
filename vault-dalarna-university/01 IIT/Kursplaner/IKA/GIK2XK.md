@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: 76b9af02d0de4aa6
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2XK
 up: "[[Informatik MOC]]"
 ---
 
 # GIK2XK
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2XK)
 
 **Kursnamn:** Design av webbapplikationer
 **Course Name:** Design of Web Applications

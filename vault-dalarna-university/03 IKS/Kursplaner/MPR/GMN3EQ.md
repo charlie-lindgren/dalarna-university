@@ -10,10 +10,13 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
 scrape_hash: 158838b4175d484c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EQ
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3EQ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EQ)
 
 **Kursnamn:** Professionella filmproduktionsprocesser
 **Course Name:** Professional Film Production Practices

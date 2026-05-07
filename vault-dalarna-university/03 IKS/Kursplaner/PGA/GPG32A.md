@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 0a1a17678c2d177b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG32A
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG32A
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG32A)
 
 **Kursnamn:** Skolväsendets historia och samhällsuppdrag - ämneslärare
 **Course Name:** The History and Civic Mission of the School System - Secondary and Upper Secondary School

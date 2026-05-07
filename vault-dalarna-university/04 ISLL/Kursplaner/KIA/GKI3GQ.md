@@ -10,10 +10,13 @@ amne_kod: "KIA"
 institution: "ISLL"
 tags: [kursplan, KIA, ISLL]
 scrape_hash: e62e4f1c94f2517c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3GQ
 up: "[[Kinesiska MOC]]"
 ---
 
 # GKI3GQ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3GQ)
 
 **Kursnamn:** Kinesisk modern litteratur
 **Course Name:** Chinese Modern Literature

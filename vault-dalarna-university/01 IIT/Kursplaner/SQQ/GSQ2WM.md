@@ -10,10 +10,13 @@ amne_kod: "SQQ"
 institution: "IIT"
 tags: [kursplan, SQQ, IIT]
 scrape_hash: 105060cf4bcd1acf
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2WM
 up: "[[Samhällsbyggnadsteknik MOC]]"
 ---
 
 # GSQ2WM
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2WM)
 
 **Kursnamn:** Introduktion till Geografiska Informationssystem för samhällsplanering
 **Course Name:** Introduction to Geographical Information Systems in Urban Planning

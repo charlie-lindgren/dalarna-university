@@ -10,10 +10,13 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: b938df841ab5d942
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2B6
 up: "[[Energiteknik MOC]]"
 ---
 
 # AEG2B6
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2B6)
 
 **Kursnamn:** Solstrålning och solgeometri
 **Course Name:** Solar Radiation and Solar Geometry

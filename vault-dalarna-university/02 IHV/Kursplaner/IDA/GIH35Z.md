@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 14063ae529c0c84a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35Z
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH35Z
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35Z)
 
 **Kursnamn:** Medier och kommunikation inom hälsa och idrott
 **Course Name:** Media and Communication in Health and Sports

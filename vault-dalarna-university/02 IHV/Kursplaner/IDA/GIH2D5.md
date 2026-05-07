@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 52974f9cedcc8559
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2D5
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2D5
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2D5)
 
 **Kursnamn:** Grundläggande styrkelyftsdidaktik
 **Course Name:** Introductory Powerlifting Didactics

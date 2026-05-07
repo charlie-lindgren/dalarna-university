@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 9c5984ba7c13f880
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2C7
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # APG2C7
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2C7)
 
 **Kursnamn:** Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare 4-6
 **Course Name:** Special Education, Pedagogical Documentation and Assessment for Teachers Years 4-6

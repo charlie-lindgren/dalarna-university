@@ -10,10 +10,13 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS]
 scrape_hash: 9acda600ddab4415
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ38V
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ38V
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ38V)
 
 **Kursnamn:** Introduktion till redigering av rörliga bilder med Media Composer
 **Course Name:** Editing moving images with Media Composer

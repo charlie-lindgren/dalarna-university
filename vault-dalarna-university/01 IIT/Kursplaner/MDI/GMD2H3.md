@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MDI, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 5c12eeea74927bc6
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2H3
 up: "[[Matematikdidaktik MOC]]"
 ---
 
 # GMD2H3
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2H3)
 
 **Kursnamn:** Statistik och sannolikhetslära
 **Course Name:** Statistics and Probability

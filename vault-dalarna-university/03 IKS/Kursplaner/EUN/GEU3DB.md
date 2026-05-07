@@ -10,10 +10,13 @@ amne_kod: "EUN"
 institution: "IKS"
 tags: [kursplan, EUN, IKS]
 scrape_hash: 00f0567815913201
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU3DB
 up: "[[Entreprenörskap och innovationsteknik MOC]]"
 ---
 
 # GEU3DB
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU3DB)
 
 **Kursnamn:** Kreativitet för entreprenörer och företag
 **Course Name:** Creativity for Entrepreneurs and Businesses

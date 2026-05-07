@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: 283ad790d9912811
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2BJ
 up: "[[Engelska MOC]]"
 ---
 
 # GEN2BJ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2BJ)
 
 **Kursnamn:** Engelska för grundlärare F-3
 **Course Name:** English for Primary School Teachers years F-3

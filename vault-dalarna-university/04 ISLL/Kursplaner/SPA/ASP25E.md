@@ -10,10 +10,13 @@ amne_kod: "SPA"
 institution: "ISLL"
 tags: [kursplan, SPA, ISLL]
 scrape_hash: ccc3028f31651c27
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASP25E
 up: "[[Spanska MOC]]"
 ---
 
 # ASP25E
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASP25E)
 
 **Kursnamn:** Examensarbete i spanska för ämneslärarexamen, inriktning gymnasieskolan
 **Course Name:** Degree Thesis in Spanish for Master of Arts in Education, Upper Secondary School

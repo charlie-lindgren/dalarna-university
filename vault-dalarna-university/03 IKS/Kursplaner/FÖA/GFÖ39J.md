@@ -10,10 +10,13 @@ amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
 scrape_hash: bfcb4f3e5c6b103a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ39J
 up: "[[Företagsekonomi MOC]]"
 ---
 
 # GFÖ39J
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ39J)
 
 **Kursnamn:** Marknadsföring B
 **Course Name:** Marketing B

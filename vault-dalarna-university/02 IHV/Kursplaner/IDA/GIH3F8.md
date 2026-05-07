@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: f62818a6380e6525
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3F8
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3F8
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3F8)
 
 **Kursnamn:** Idrottens funktionella anatomi och biomekanik
 **Course Name:** Functional Anatomy and Biomechanics in Sport

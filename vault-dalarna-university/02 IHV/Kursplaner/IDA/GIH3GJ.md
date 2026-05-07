@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: 45f77a67b7944598
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GJ
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3GJ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GJ)
 
 **Kursnamn:** Tillämpad motorisk färdighetsträning
 **Course Name:** Motor Skills In Practice

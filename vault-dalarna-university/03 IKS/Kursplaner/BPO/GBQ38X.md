@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 92e39f4ba0a0ddec
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ38X
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ38X
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ38X)
 
 **Kursnamn:** Fortsätt berätta med film om kulturarv och historia
 **Course Name:** Film as a Narrative Medium for Cultural Heritage and History - Continuation Course

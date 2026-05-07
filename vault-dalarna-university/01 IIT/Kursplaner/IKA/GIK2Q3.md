@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: 738507d33d047e4a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2Q3
 up: "[[Informatik MOC]]"
 ---
 
 # GIK2Q3
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2Q3)
 
 **Kursnamn:** Tillämpad Big Data och Cloud Computing
 **Course Name:** Applied Big Data and Cloud Computing

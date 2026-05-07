@@ -10,10 +10,13 @@ amne_kod: "SPA"
 institution: "ISLL"
 tags: [kursplan, SPA, ISLL]
 scrape_hash: 3455d615269c4d56
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2SK
 up: "[[Spanska MOC]]"
 ---
 
 # GSP2SK
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2SK)
 
 **Kursnamn:** Spanska I: Den spanskspråkiga världen - historia, kultur och samhälle
 **Course Name:** Spanish I: The Spanish-Speaking World - History, Culture and Society

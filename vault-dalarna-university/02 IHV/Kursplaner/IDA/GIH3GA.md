@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 19b4b8de09953776
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GA
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3GA
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GA)
 
 **Kursnamn:** Examensarbete för kandidatexamen i idrotts- och hälsovetenskap
 **Course Name:** Bachelor Thesis in Sport and Health Science

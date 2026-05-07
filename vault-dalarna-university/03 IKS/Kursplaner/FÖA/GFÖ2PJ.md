@@ -10,10 +10,13 @@ amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
 scrape_hash: 1a2a306e0b7dabe4
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ2PJ
 up: "[[Företagsekonomi MOC]]"
 ---
 
 # GFÖ2PJ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ2PJ)
 
 **Kursnamn:** Ekonomistyrning A
 **Course Name:** Financial Management A

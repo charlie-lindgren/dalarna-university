@@ -10,10 +10,13 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
 scrape_hash: c03a6b2bab03556e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3DZ
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3DZ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3DZ)
 
 **Kursnamn:** Grunder i filmproduktion
 **Course Name:** Film Production Basics

@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: fdb2a556ca32bb3c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG27Z
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # APG27Z
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG27Z)
 
 **Kursnamn:** Professionellt lärarskap och skolutveckling - KPU (varav 10 hp VFU)
 **Course Name:** Professional Teaching and School Development (of which 10 credits Placement)

@@ -10,10 +10,13 @@ amne_kod: "SQQ"
 institution: "IIT"
 tags: [kursplan, SQQ, IIT]
 scrape_hash: 1e54e6d4a1bc22fe
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25N
 up: "[[Samhällsbyggnadsteknik MOC]]"
 ---
 
 # GSQ25N
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25N)
 
 **Kursnamn:** Examensarbete för kandidatexamen i Samhällsbyggnadsteknik
 **Course Name:** Thesis for Bachelor Degree in Urban Planning

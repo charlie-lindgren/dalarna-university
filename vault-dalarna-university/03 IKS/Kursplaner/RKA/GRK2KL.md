@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, RKA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: aca902de06070a22
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2KL
 up: "[[Religionsvetenskap MOC]]"
 ---
 
 # GRK2KL
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2KL)
 
 **Kursnamn:** Mänskliga rättigheter: Examensarbete för kandidatexamen
 **Course Name:** Human Rights: Bachelor Degree Thesis

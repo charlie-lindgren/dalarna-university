@@ -10,10 +10,13 @@ amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
 scrape_hash: 16da335dfcd1349f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3J8
 up: "[[Tyska MOC]]"
 ---
 
 # GTY3J8
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3J8)
 
 **Kursnamn:** Tyska II: Tyskspråkig barn- och ungdomslitteratur
 **Course Name:** German II: Children‘s and Young Adult Literature in German

@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, IEA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 33b8f6aef572d980
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE29N
 up: "[[Industriell ekonomi MOC]]"
 ---
 
 # GIE29N
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE29N)
 
 **Kursnamn:** Industriell ekonomi - Processer och projektledning
 **Course Name:** Industrial Management - Processes and Project Management

@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: 521440cf156a9394
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BQ
 up: "[[Engelska MOC]]"
 ---
 
 # AEN2BQ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BQ)
 
 **Kursnamn:** Interkulturella litteraturstudier: Akademiskt skrivande
 **Course Name:** Intercultural Literature Studies: Academic Writing

@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, SRP, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: ef2638c82f56f5ce
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSR2A5
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
 
 # GSR2A5
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSR2A5)
 
 **Kursnamn:** Ungdomar och unga vuxnas reproduktiva hälsa och rättigheter I
 **Course Name:** Reproductive Health and Rights of Young People and Young Adults I

@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, IKA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: aa711e3922356ee2
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YR
 up: "[[Informatik MOC]]"
 ---
 
 # GIK2YR
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YR)
 
 **Kursnamn:** Designprinciper och användargränssnitt
 **Course Name:** Design Principles and User Interfaces

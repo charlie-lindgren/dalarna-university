@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, LPU, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 42b5df44c8d42a77
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP29X
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
 
 # GLP29X
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP29X)
 
 **Kursnamn:** Inspelning i studio
 **Course Name:** Studio Recording

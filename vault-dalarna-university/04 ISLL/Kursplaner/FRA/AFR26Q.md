@@ -10,10 +10,13 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
 scrape_hash: 352d2aa7faece356
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR26Q
 up: "[[Franska MOC]]"
 ---
 
 # AFR26Q
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR26Q)
 
 **Kursnamn:** Franska IV: Franskspråkig litteraturkritik
 **Course Name:** French IV: French Literary Criticism

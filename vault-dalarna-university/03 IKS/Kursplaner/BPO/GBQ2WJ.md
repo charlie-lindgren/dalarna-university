@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 6f563b1bd4a83f27
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2WJ
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ2WJ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2WJ)
 
 **Kursnamn:** Reklamfilmsproduktion
 **Course Name:** Production of Advertising Films

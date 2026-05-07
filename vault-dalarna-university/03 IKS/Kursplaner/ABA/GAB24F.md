@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, ABA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 19bfdd936e4a9082
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB24F
 up: "[[Arbetsvetenskap MOC]]"
 ---
 
 # GAB24F
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB24F)
 
 **Kursnamn:** Arbetsmiljöarbete - i praktiken
 **Course Name:** Better Work Environment - in Practise

@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: c3ca2430f1bbad83
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2QL
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2QL
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2QL)
 
 **Kursnamn:** Motorisk kontroll, lärande och utveckling med didaktisk inriktning
 **Course Name:** Motor Control, Learning and Development with a Didactic Approach

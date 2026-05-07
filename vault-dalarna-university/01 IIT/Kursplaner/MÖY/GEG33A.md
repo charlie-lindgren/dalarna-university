@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 45435ae728c1e76f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG33A
 up: "[[Energiteknik MOC]]"
 ---
 
 # GEG33A
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG33A)
 
 **Kursnamn:** Installation av solcellssystem
 **Course Name:** Installation of Photovoltaic Systems

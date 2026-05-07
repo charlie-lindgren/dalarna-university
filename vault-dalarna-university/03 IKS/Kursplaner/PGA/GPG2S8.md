@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: ffcfdbf027a8f537
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2S8
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG2S8
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2S8)
 
 **Kursnamn:** Ämnesdidaktik och specialpedagogik - KPU (varav 10 hp VFU)
 **Course Name:** Subject Didactics and Special Education (of which 10 credits VFU placement)

@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, ENA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: e7540635dd937756
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3BR
 up: "[[Engelska MOC]]"
 ---
 
 # GEN3BR
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3BR)
 
 **Kursnamn:** Kulturella texter och kontexter
 **Course Name:** Cultural Texts and Contexts

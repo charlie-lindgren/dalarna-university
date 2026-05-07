@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, ENA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 59ae92aac2508bed
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2HB
 up: "[[Engelska MOC]]"
 ---
 
 # GEN2HB
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2HB)
 
 **Kursnamn:** Engelska för internationellt företagande: kommunikation och kultur
 **Course Name:** English for International Business: Communication and Culture

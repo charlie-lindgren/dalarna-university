@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, FYS, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 77414eaf92b4c9d9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFT2C9
 up: "[[Fysioterapi MOC]]"
 ---
 
 # AFT2C9
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFT2C9)
 
 **Kursnamn:** Examensarbete för magisterexamen i fysioterapi
 **Course Name:** Thesis for master´s degree in physiotherapy

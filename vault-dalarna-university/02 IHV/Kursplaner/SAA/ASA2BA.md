@@ -10,10 +10,13 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
 scrape_hash: 03bbcc3f0e3caf2b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA2BA
 up: "[[Socialt arbete MOC]]"
 ---
 
 # ASA2BA
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA2BA)
 
 **Kursnamn:** Ledarskap och verksamhetsutveckling i socialt arbete
 **Course Name:** Leadership and Operational Management in Social Work

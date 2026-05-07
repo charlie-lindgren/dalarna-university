@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 5e13bb98f087a671
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37B
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH37B
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37B)
 
 **Kursnamn:** Mål- och nätspel (VAL)
 **Course Name:** Ball and Netgames (CPD for teachers)

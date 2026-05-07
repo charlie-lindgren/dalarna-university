@@ -10,10 +10,13 @@ amne_kod: "MCA"
 institution: "IHV"
 tags: [kursplan, MCA, IHV]
 scrape_hash: 9fcf0be6841552eb
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC29F
 up: "[[Medicinsk vetenskap MOC]]"
 ---
 
 # AMC29F
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC29F)
 
 **Kursnamn:** Examensarbete för magisterexamen i fysioterapi
 **Course Name:** Master Degree Thesis in Physiotherapy

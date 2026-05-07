@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, VÅE, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: e9f0529808c0d063
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVV26K
 up: "[[Vårdvetenskap MOC]]"
 ---
 
 # AVV26K
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVV26K)
 
 **Kursnamn:** Säker hälso- och sjukvård samt vård och omsorg - komplexa system och förbättringskunskap
 **Course Name:** Safe Health Care and Social Care - Complex Systems and Improvement Knowledge

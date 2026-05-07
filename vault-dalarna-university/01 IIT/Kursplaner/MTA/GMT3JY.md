@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MTA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: d3a04c4472b33065
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JY
 up: "[[Maskinteknik MOC]]"
 ---
 
 # GMT3JY
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JY)
 
 **Kursnamn:** Tillverkning
 **Course Name:** Manufacturing

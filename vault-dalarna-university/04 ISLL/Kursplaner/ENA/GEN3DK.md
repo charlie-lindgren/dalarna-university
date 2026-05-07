@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: 70b4a13071a42466
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DK
 up: "[[Engelska MOC]]"
 ---
 
 # GEN3DK
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DK)
 
 **Kursnamn:** Engelska III: Fokus litteratur
 **Course Name:** English III: Focus on Literature

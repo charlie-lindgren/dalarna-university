@@ -10,10 +10,13 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
 scrape_hash: a5094111aadb32cb
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EE
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3EE
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EE)
 
 **Kursnamn:** Medier och samhälle
 **Course Name:** Media and Society

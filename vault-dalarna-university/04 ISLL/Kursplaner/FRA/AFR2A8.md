@@ -10,10 +10,13 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
 scrape_hash: c8fe56e564cbee94
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR2A8
 up: "[[Franska MOC]]"
 ---
 
 # AFR2A8
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR2A8)
 
 **Kursnamn:** Franska IV: Talad franska; syntax, fonetik och perception
 **Course Name:** French IV: Spoken French; syntax, phonetics and perception

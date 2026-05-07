@@ -10,10 +10,13 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
 scrape_hash: f7dedf8e4ec1f55d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EF
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3EF
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EF)
 
 **Kursnamn:** Filmklippning
 **Course Name:** Film Editing

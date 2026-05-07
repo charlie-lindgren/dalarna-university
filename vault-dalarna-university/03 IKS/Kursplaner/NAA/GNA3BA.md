@@ -10,10 +10,13 @@ amne_kod: "NAA"
 institution: "IKS"
 tags: [kursplan, NAA, IKS]
 scrape_hash: 0bdb47fa84975a15
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA3BA
 up: "[[Nationalekonomi MOC]]"
 ---
 
 # GNA3BA
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA3BA)
 
 **Kursnamn:** Finansiella marknader och penningpolitik
 **Course Name:** Financial Markets and Monetary Policy

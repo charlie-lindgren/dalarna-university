@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, ITA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 8405ff80bb1e6aed
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2T6
 up: "[[Italienska MOC]]"
 ---
 
 # GIT2T6
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2T6)
 
 **Kursnamn:** Italienska nobelpristagare i litteratur
 **Course Name:** Italian Nobel Price Winners in Literature

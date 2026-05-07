@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: 1ba58f0f1c8cc26c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GB
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3GB
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GB)
 
 **Kursnamn:** Introduktion till vetenskapligt skrivande och forskningsmetodik
 **Course Name:** Introduction to scientific writing and research methods

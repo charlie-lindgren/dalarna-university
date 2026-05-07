@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: b4e1397b2e2af56e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG33F
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG33F
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG33F)
 
 **Kursnamn:** Didaktik och bedömning - VAL
 **Course Name:** Didactics and Assessment - Professional Qualification Course for Teachers

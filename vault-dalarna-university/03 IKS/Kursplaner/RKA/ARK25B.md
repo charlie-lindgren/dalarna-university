@@ -10,10 +10,13 @@ amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
 scrape_hash: 628a8231201966cb
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK25B
 up: "[[Religionsvetenskap MOC]]"
 ---
 
 # ARK25B
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK25B)
 
 **Kursnamn:** Examensarbete i religionsvetenskap  för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 **Course Name:** Degree Thesis in Religious Studies for Master of Arts in Education, Secondary School

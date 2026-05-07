@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: 0b65029ab71621c7
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH39B
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH39B
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH39B)
 
 **Kursnamn:** Mål- och nätspel
 **Course Name:** Ball and Netgames

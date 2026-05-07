@@ -10,10 +10,13 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
 scrape_hash: 91e8eb8df8c4893a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2A8
 up: "[[Franska MOC]]"
 ---
 
 # GFR2A8
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2A8)
 
 **Kursnamn:** Franska: Skriftlig språkfärdighet I
 **Course Name:** French: Written Language Proficiency I

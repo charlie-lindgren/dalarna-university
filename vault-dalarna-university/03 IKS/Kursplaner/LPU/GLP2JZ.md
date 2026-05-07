@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, LPU, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 18e30466c4ed61e4
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2JZ
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
 
 # GLP2JZ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2JZ)
 
 **Kursnamn:** Audioteknologi 1
 **Course Name:** Audio Technology 1

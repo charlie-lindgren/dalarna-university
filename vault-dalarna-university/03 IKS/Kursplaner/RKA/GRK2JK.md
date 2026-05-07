@@ -10,10 +10,13 @@ amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
 scrape_hash: 70aceaacd785d527
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2JK
 up: "[[Religionsvetenskap MOC]]"
 ---
 
 # GRK2JK
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2JK)
 
 **Kursnamn:** Mänskliga rättigheters framtid: Hållbarhet och nutida sociala utmaningar
 **Course Name:** The Future of Human Rights: Sustainability and Contemporary Social Challenges

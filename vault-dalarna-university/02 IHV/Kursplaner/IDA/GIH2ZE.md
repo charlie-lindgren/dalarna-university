@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: 844e2a409c7a9fb6
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZE
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2ZE
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZE)
 
 **Kursnamn:** Bedömning och betygssättning i idrott och hälsa (VAL)
 **Course Name:** Assessment And Grading In Physical Education And Health (CPD For Teachers)

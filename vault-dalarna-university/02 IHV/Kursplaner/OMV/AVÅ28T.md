@@ -10,10 +10,13 @@ amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
 scrape_hash: 13cb3c2dbd19e371
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ28T
 up: "[[Omvårdnad MOC]]"
 ---
 
 # AVÅ28T
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ28T)
 
 **Kursnamn:** Examensarbete i omvårdnad - distriktssköterska
 **Course Name:** Degree Thesis in Nursing Science - Primary Health Care

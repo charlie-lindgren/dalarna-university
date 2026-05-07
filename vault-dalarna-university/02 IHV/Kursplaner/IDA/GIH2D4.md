@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 30477fd439a29a01
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2D4
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2D4
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2D4)
 
 **Kursnamn:** Grundläggande judohistoria, judo i samhället och judodidaktik
 **Course Name:** Introduction to Judo History, Judo in Society and Judo Didactics

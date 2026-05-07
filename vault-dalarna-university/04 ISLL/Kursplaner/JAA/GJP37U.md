@@ -10,10 +10,13 @@ amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
 scrape_hash: aa4cb34669a52f5c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP37U
 up: "[[Japanska MOC]]"
 ---
 
 # GJP37U
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP37U)
 
 **Kursnamn:** Japanska III: Den moderna novellen
 **Course Name:** Japanese III: The Modern Short Story

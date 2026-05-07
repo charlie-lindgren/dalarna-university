@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, SSA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 4c34d4b7c9e37f35
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2JA
 up: "[[Svenska som andraspråk MOC]]"
 ---
 
 # GSS2JA
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2JA)
 
 **Kursnamn:** Svenska som andraspråk för lärare i gymnasieskolan, 90 hp (1-90 hp). Ingår i Lärarlyftet.
 **Course Name:** Swedish as a Second Langauge for Teachers in Upper Secondary School, 90 cr (1-90 cr). CPD forTeachers.

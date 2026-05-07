@@ -10,10 +10,13 @@ amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
 scrape_hash: a22a42a594885f11
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2JJ
 up: "[[Religionsvetenskap MOC]]"
 ---
 
 # GRK2JJ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2JJ)
 
 **Kursnamn:** Mänskliga rättigheter: Migranter, barn och minoriteter
 **Course Name:** Human Rights: Migrants, Children and Minorities

@@ -10,10 +10,13 @@ amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
 scrape_hash: 8020c01c29108dac
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI35R
 up: "[[Mikrodataanalys MOC]]"
 ---
 
 # GMI35R
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI35R)
 
 **Kursnamn:** Operativsystem
 **Course Name:** Operating Systems

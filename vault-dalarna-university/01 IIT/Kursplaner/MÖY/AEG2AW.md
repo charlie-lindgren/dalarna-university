@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 8dc61727a89c404f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AW
 up: "[[Energiteknik MOC]]"
 ---
 
 # AEG2AW
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AW)
 
 **Kursnamn:** Urbana energisystem
 **Course Name:** Urban Energy Systems

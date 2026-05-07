@@ -10,10 +10,13 @@ amne_kod: "NAA"
 institution: "IKS"
 tags: [kursplan, NAA, IKS]
 scrape_hash: bc66b874f1ca87b3
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA3FN
 up: "[[Nationalekonomi MOC]]"
 ---
 
 # GNA3FN
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA3FN)
 
 **Kursnamn:** Mikroekonomi, introduktion
 **Course Name:** Introductory Microeconomics

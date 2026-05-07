@@ -10,10 +10,13 @@ amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
 scrape_hash: b1c26d6735b07243
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29L
 up: "[[Religionsvetenskap MOC]]"
 ---
 
 # ARK29L
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29L)
 
 **Kursnamn:** Religionssociologiska perspektiv på barn och unga i slutna religiösa miljöer
 **Course Name:** Sociology of Religion Perspectives on Children and Young Adults in Closed Religious Communities

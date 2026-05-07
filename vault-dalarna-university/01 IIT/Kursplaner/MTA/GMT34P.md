@@ -9,10 +9,13 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT]
 scrape_hash: 1ab45a4bb0689b07
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34P
 up: "[[Maskinteknik MOC]]"
 ---
 
 # GMT34P
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34P)
 
 **Kursnamn:** CAM/CNC
 

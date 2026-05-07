@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 696ea4b6b44cc256
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CF
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG3CF
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CF)
 
 **Kursnamn:** Utveckling och lärande i förskoleklass och grundskolans åk 1-3 (varav 7,5 hp VFU)
 **Course Name:** Development and Learning in Preschool Class and Primary School Years 1-3 (of which 7.5 credits school placement)

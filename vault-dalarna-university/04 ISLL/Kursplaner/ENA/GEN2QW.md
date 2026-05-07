@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: fca12bbad3170179
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2QW
 up: "[[Engelska MOC]]"
 ---
 
 # GEN2QW
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2QW)
 
 **Kursnamn:** Engelska, Språkdidaktik l
 **Course Name:** English, Language Learning and Teaching l

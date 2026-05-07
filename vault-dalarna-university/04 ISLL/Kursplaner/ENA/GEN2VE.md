@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, ENA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: ab570c4ed3e61a72
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2VE
 up: "[[Engelska MOC]]"
 ---
 
 # GEN2VE
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2VE)
 
 **Kursnamn:** Engelskspråkig litteratur
 **Course Name:** Literature in English

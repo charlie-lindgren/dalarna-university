@@ -10,10 +10,13 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
 scrape_hash: e323ff06423e90fb
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2BV
 up: "[[Socialt arbete MOC]]"
 ---
 
 # GSA2BV
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2BV)
 
 **Kursnamn:** Socialt arbete i praktik och teori
 **Course Name:** Social Work in Practice and Theory

@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, IKA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: bd4e76f83f9bc182
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK38H
 up: "[[Informatik MOC]]"
 ---
 
 # GIK38H
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK38H)
 
 **Kursnamn:** Introduktion till IT och digitala tjänster
 **Course Name:** Introduction to IT and Digital Services

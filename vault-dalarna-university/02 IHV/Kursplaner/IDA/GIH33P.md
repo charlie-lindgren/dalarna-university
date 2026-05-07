@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: ba063fd4d5c0bb1f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH33P
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH33P
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH33P)
 
 **Kursnamn:** Biomekanik (Klättring)
 **Course Name:** Biomechanics (Climbing)

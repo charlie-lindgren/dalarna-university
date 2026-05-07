@@ -10,10 +10,13 @@ amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL]
 scrape_hash: 17ff6bd86160bf29
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT26V
 up: "[[Italienska MOC]]"
 ---
 
 # GIT26V
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT26V)
 
 **Kursnamn:** Italienska B: Grammatik och skriftlig produktion
 **Course Name:** Italian B: Grammar and Written Production

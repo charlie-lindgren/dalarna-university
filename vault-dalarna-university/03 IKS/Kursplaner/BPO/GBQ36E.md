@@ -10,10 +10,13 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS]
 scrape_hash: 7b0ba1f6f48551a7
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ36E
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ36E
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ36E)
 
 **Kursnamn:** Arbetsplatsförlagd bildproduktion
 **Course Name:** Moving Image Production Internship

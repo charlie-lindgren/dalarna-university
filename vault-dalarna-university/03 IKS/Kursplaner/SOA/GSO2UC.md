@@ -10,10 +10,13 @@ amne_kod: "SOA"
 institution: "IKS"
 tags: [kursplan, SOA, IKS]
 scrape_hash: 2650f9678efa0371
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO2UC
 up: "[[Sociologi MOC]]"
 ---
 
 # GSO2UC
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO2UC)
 
 **Kursnamn:** Kriminologi i ett sociologiskt perspektiv
 **Course Name:** Criminology from a sociological perspective

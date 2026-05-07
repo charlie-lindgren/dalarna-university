@@ -10,10 +10,13 @@ amne_kod: "MDI"
 institution: "IIT"
 tags: [kursplan, MDI, IIT]
 scrape_hash: cd8a029636271445
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2TV
 up: "[[Matematikdidaktik MOC]]"
 ---
 
 # GMD2TV
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2TV)
 
 **Kursnamn:** Matematik II med didaktisk inriktning
 **Course Name:** Mathematics Education II

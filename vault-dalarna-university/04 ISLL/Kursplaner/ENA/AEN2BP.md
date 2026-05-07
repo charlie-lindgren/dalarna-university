@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: 4773067a2cc41b49
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BP
 up: "[[Engelska MOC]]"
 ---
 
 # AEN2BP
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BP)
 
 **Kursnamn:** Introduktion till interkulturella litteraturstudier
 **Course Name:** Introduction to Intercultural Literature Studies

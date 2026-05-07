@@ -10,10 +10,13 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
 scrape_hash: 33371f823f1b74df
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2E3
 up: "[[Socialt arbete MOC]]"
 ---
 
 # GSA2E3
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2E3)
 
 **Kursnamn:** Forskningsmetoder och vetenskaplighet i socialt arbete
 **Course Name:** Research Methods and Scientific Practice in Social Work

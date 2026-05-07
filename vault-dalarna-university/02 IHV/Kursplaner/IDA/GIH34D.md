@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: d2af0e0dae323ade
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34D
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH34D
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34D)
 
 **Kursnamn:** Kvalitativ och kvantitativ vetenskaplig metod
 **Course Name:** Qualitative And Quantitative Scientific Method

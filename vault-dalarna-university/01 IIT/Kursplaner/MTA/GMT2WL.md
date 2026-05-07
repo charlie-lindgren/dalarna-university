@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MTA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 9ec0a6a96e299ce6
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT2WL
 up: "[[Maskinteknik MOC]]"
 ---
 
 # GMT2WL
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT2WL)
 
 **Kursnamn:** 3D-printing översiktskurs
 **Course Name:** Survey Course in 3D-Printing

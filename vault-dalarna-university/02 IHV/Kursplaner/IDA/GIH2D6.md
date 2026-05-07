@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 19ddd76e2b8373e0
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2D6
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2D6
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2D6)
 
 **Kursnamn:** Grundläggande fysiologi och tillämpad idrottsfysiologi (Judo)
 **Course Name:** Introductory Physiology and Applied Exercise Physiology (Judo)

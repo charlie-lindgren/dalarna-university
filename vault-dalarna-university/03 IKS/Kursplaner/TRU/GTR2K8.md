@@ -10,10 +10,13 @@ amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
 scrape_hash: 29a89bdf40e5d97c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2K8
 up: "[[Turismvetenskap MOC]]"
 ---
 
 # GTR2K8
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2K8)
 
 **Kursnamn:** Eventstudier
 **Course Name:** Event Studies

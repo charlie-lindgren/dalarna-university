@@ -10,10 +10,13 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
 scrape_hash: d17b71e5ca733509
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASS28X
 up: "[[Svenska som andraspråk MOC]]"
 ---
 
 # ASS28X
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASS28X)
 
 **Kursnamn:** Examensarbete i modersmål arabiska för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 **Course Name:** Degree Thesis in Mother Tongue Tuition: Arabic for Master of Arts in Education, Secondary School

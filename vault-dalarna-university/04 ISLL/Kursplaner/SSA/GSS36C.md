@@ -10,10 +10,13 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
 scrape_hash: abe568c740a9ff91
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS36C
 up: "[[Svenska som andraspråk MOC]]"
 ---
 
 # GSS36C
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS36C)
 
 **Kursnamn:** Sociolingvistik i ett flerspråkigt perspektiv
 **Course Name:** Sociolinguistic in a Multilingual Perspective

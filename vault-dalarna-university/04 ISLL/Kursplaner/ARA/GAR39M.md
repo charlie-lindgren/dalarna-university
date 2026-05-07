@@ -10,10 +10,13 @@ amne_kod: "ARA"
 institution: "ISLL"
 tags: [kursplan, ARA, ISLL]
 scrape_hash: 5c09211446aaf523
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR39M
 up: "[[Arabiska MOC]]"
 ---
 
 # GAR39M
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR39M)
 
 **Kursnamn:** Ekokritik och miljöaspekter i arabisk litteratur
 **Course Name:** Eco Criticism and Environmental Aspects in Arabic Literature

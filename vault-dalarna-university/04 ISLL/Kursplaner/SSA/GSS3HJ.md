@@ -10,10 +10,13 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
 scrape_hash: 04d662cfd0086d02
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HJ
 up: "[[Svenska som andraspråk MOC]]"
 ---
 
 # GSS3HJ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HJ)
 
 **Kursnamn:** Svenska som andraspråk II med didaktisk inriktning
 **Course Name:** Swedish as a Second Language II for Teacher Education Students

@@ -10,10 +10,13 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
 scrape_hash: 1061d4c475fd2c10
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DP
 up: "[[Socialt arbete MOC]]"
 ---
 
 # GSA3DP
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DP)
 
 **Kursnamn:** Missbruk och beroende
 **Course Name:** Substance Abuse and Addiction

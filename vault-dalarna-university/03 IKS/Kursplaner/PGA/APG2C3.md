@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 8b6669c90d7a9751
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2C3
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # APG2C3
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2C3)
 
 **Kursnamn:** Vidareutveckling och analys av kvalitet i undervisning
 **Course Name:** Further Development and Analysis of Teaching Quality

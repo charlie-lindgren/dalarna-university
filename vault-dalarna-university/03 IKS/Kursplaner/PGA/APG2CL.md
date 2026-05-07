@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 004ef156da2c2d06
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2CL
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # APG2CL
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2CL)
 
 **Kursnamn:** Undervisningsskicklighet i teori och praktik (USP) Ämneslärare
 **Course Name:** Teaching skills in theory and pratice Subject teachers

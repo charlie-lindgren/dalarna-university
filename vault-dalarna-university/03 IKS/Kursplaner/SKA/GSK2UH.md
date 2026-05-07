@@ -10,10 +10,13 @@ amne_kod: "SKA"
 institution: "IKS"
 tags: [kursplan, SKA, IKS]
 scrape_hash: 2d7143716cf1a9b9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK2UH
 up: "[[Statsvetenskap MOC]]"
 ---
 
 # GSK2UH
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK2UH)
 
 **Kursnamn:** Examensarbete för högskoleexamen i statsvetenskap
 **Course Name:** Degree Project for Higher Education Diploma in Political Science

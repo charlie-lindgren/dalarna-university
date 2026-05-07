@@ -10,10 +10,13 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: 1157764d74c17ccb
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG29N
 up: "[[Energiteknik MOC]]"
 ---
 
 # AEG29N
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG29N)
 
 **Kursnamn:** Solcellsteknik
 **Course Name:** PV System Engineering

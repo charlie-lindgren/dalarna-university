@@ -10,11 +10,14 @@ amne_kod: "HIA"
 institution: "IKS"
 tags: [kursplan, HIA, IKS, vilande]
 scrape_hash: dc6851cb47dbb721
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI29R
 up: "[[Historia MOC]]"
 cssclasses: [vilande]
 ---
 
 # AHI29R
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI29R)
 
 **Kursnamn:** Historievetenskapens teori och metod
 **Course Name:** History - Theory and Method

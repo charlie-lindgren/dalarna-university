@@ -10,10 +10,13 @@ amne_kod: "KIA"
 institution: "ISLL"
 tags: [kursplan, KIA, ISLL]
 scrape_hash: 1a81f595f160efbc
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKI28Z
 up: "[[Kinesiska MOC]]"
 ---
 
 # AKI28Z
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKI28Z)
 
 **Kursnamn:** Kinesiska: Praktik för undervisning i högre utbildning I
 **Course Name:** Chinese: Internship for Teaching in Higher Education I

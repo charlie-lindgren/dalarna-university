@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: 1d85064eb3fe15a4
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK29B
 up: "[[Informatik MOC]]"
 ---
 
 # GIK29B
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK29B)
 
 **Kursnamn:** Python- och R-programmering
 **Course Name:** Python- and R-programming

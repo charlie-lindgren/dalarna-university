@@ -10,10 +10,13 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: e7a13849d29b20ab
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2GC
 up: "[[Byggteknik MOC]]"
 ---
 
 # GBY2GC
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2GC)
 
 **Kursnamn:** BIM i byggprocessen
 **Course Name:** BIM in the Construction Process

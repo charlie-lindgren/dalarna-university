@@ -10,10 +10,13 @@ amne_kod: "SQQ"
 institution: "IIT"
 tags: [kursplan, SQQ, IIT]
 scrape_hash: f0af40e1f2ed6ae0
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ33N
 up: "[[Samhällsbyggnadsteknik MOC]]"
 ---
 
 # GSQ33N
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ33N)
 
 **Kursnamn:** Stadsbyggnad
 **Course Name:** Urban Development and Design

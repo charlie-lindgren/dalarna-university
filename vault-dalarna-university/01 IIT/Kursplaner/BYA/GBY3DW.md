@@ -10,10 +10,13 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: 38c7f3df1b1a6456
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY3DW
 up: "[[Byggteknik MOC]]"
 ---
 
 # GBY3DW
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY3DW)
 
 **Kursnamn:** Resurseffektivt byggande
 **Course Name:** Resource-Efficient Construction

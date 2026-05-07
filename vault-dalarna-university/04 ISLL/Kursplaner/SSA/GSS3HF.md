@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, SSA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 79f34438fad3248d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HF
 up: "[[Svenska som andraspråk MOC]]"
 ---
 
 # GSS3HF
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HF)
 
 **Kursnamn:** Flerspråkiga perspektiv på skriftspråksutveckling
 **Course Name:** Multilingual Perspectives on Written Language Development

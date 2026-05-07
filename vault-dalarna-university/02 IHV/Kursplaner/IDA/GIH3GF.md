@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: 01b19b086425b2ac
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GF
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3GF
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GF)
 
 **Kursnamn:** Medier och kommunikation inom idrott
 **Course Name:** Media and Communication in Sports

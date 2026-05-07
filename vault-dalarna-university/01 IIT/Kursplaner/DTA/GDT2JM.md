@@ -10,10 +10,13 @@ amne_kod: "DTA"
 institution: "IIT"
 tags: [kursplan, DTA, IIT]
 scrape_hash: 28a46634662d6d29
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT2JM
 up: "[[Datateknik MOC]]"
 ---
 
 # GDT2JM
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT2JM)
 
 **Kursnamn:** Datakommunikation 1
 **Course Name:** Data Communication 1

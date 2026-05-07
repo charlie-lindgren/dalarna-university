@@ -10,10 +10,13 @@ amne_kod: "SVE"
 institution: "ISLL"
 tags: [kursplan, SVE, ISLL]
 scrape_hash: 8d391589f7f282c9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2P9
 up: "[[Svenska MOC]]"
 ---
 
 # GSV2P9
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2P9)
 
 **Kursnamn:** Läs- och skrivinlärning för förskollärare i förskoleklass
 **Course Name:** Literacy Learning for Preschool Teachers in Preschool Class

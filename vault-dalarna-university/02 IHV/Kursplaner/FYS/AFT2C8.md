@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, FYS, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: ab9e73397096a9f8
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFT2C8
 up: "[[Fysioterapi MOC]]"
 ---
 
 # AFT2C8
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFT2C8)
 
 **Kursnamn:** Forskningsmetodik och projektplan inför examensarbete för magisterexamen i fysioterapi
 **Course Name:** Research methodology and project plan for master’s thesis in physiotherapy

@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: be0ae17091a26a4a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2VF
 up: "[[Engelska MOC]]"
 ---
 
 # GEN2VF
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2VF)
 
 **Kursnamn:** Den moderna engelskans struktur
 **Course Name:** The Structure of Modern English

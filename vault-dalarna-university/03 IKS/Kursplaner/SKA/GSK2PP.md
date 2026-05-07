@@ -10,10 +10,13 @@ amne_kod: "SKA"
 institution: "IKS"
 tags: [kursplan, SKA, IKS]
 scrape_hash: d3e55fbdc75fcd8b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK2PP
 up: "[[Statsvetenskap MOC]]"
 ---
 
 # GSK2PP
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK2PP)
 
 **Kursnamn:** Politiska system i jämförande perspektiv
 **Course Name:** Comparative Political Systems

@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, SSA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 65f9108f2d7f0bcb
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HE
 up: "[[Svenska som andraspråk MOC]]"
 ---
 
 # GSS3HE
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HE)
 
 **Kursnamn:** Sociolingvistiska perspektiv på modersmålsundervisning
 **Course Name:** Sociolinguistic Perspectives on Mother Tongue Instruction

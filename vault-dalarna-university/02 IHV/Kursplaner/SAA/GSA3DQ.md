@@ -10,10 +10,13 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
 scrape_hash: b47a305f88d70c15
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DQ
 up: "[[Socialt arbete MOC]]"
 ---
 
 # GSA3DQ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DQ)
 
 **Kursnamn:** Familjeperspektiv på socialt arbete
 **Course Name:** Family Perspective on Social Work

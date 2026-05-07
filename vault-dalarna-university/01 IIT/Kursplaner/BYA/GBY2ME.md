@@ -10,10 +10,13 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: 6c105cbd8ede7d58
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2ME
 up: "[[Byggteknik MOC]]"
 ---
 
 # GBY2ME
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2ME)
 
 **Kursnamn:** Husbyggnadssystem
 **Course Name:** Building Construction Systems

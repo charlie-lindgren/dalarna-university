@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: f0a4e14dc99c5494
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2WR
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG2WR
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2WR)
 
 **Kursnamn:** Examensarbete för ämneslärare (grundnivå)
 **Course Name:** Degree Thesis for Subject Teachers (First Cycle)

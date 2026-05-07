@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, EUN, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 78c865aa90994764
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2CA
 up: "[[Entreprenörskap och innovationsteknik MOC]]"
 ---
 
 # GEU2CA
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2CA)
 
 **Kursnamn:** Det entreprenöriella företagets förutsättningar
 **Course Name:** Conditions for Entrepreneurial Companies

@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, FIA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 55246d343106ee58
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFI3BU
 up: "[[Filosofi MOC]]"
 ---
 
 # GFI3BU
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFI3BU)
 
 **Kursnamn:** Introduktion till existentialismen
 **Course Name:** Introduction to Existentialism

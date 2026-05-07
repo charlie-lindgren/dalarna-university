@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, SPA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: d4791e5766ef931b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2JH
 up: "[[Spanska MOC]]"
 ---
 
 # GSP2JH
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2JH)
 
 **Kursnamn:** Spanska för lärare åk 7-9, 45 hp (1-45 hp). Ingår i Lärarlyftet.
 **Course Name:** Spanish for Teachers in School Years 7-9, 45 cr (1-45 cr). CPD for Teachers.

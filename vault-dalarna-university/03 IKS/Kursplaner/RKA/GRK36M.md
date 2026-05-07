@@ -10,10 +10,13 @@ amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
 scrape_hash: 84af27a0049b4d57
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK36M
 up: "[[Religionsvetenskap MOC]]"
 ---
 
 # GRK36M
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK36M)
 
 **Kursnamn:** Religionsvetenskap III: Examensarbete för kandidatexamen
 **Course Name:** Religious Studies III: Bachelor‘s Degree Thesis

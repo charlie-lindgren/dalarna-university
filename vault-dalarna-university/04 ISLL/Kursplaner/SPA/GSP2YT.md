@@ -10,10 +10,13 @@ amne_kod: "SPA"
 institution: "ISLL"
 tags: [kursplan, SPA, ISLL]
 scrape_hash: 3fa8ce9101b81959
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2YT
 up: "[[Spanska MOC]]"
 ---
 
 # GSP2YT
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2YT)
 
 **Kursnamn:** Spanska II: Akademiskt skrivande
 **Course Name:** Spanish II: Academic Writing

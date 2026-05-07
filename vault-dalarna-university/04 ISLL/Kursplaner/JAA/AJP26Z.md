@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, JAA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 8d8b7092d87f8fde
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP26Z
 up: "[[Japanska MOC]]"
 ---
 
 # AJP26Z
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP26Z)
 
 **Kursnamn:** Interkulturella litteraturstudier: Litteratur och politik i det samtida Afrika
 **Course Name:** Intercultural Literature Studies: Literature and Politics in Contemporary Africa

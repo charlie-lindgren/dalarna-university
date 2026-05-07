@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, LPU, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: f78d1d1ed5434495
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2VT
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
 
 # GLP2VT
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2VT)
 
 **Kursnamn:** Produktionsprocesser inom musikproduktion
 **Course Name:** Production Processes in Music Production

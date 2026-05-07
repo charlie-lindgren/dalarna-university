@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, LPU, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 04f29f78c5a78375
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2VS
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
 
 # GLP2VS
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2VS)
 
 **Kursnamn:** Arbetsplatsförlagd utbildning i medieproduktion
 **Course Name:** Media Production in the Workplace

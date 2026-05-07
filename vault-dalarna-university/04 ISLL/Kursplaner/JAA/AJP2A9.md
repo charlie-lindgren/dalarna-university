@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, JAA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 9b7a045625af2ac2
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP2A9
 up: "[[Japanska MOC]]"
 ---
 
 # AJP2A9
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP2A9)
 
 **Kursnamn:** Interkulturella litteraturstudier: Masterexamensarbete
 **Course Name:** Intercultural Literature Studies: Master‘s Degree Thesis

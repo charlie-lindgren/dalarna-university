@@ -10,10 +10,13 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
 scrape_hash: 6159906636e31aee
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR27P
 up: "[[Franska MOC]]"
 ---
 
 # AFR27P
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR27P)
 
 **Kursnamn:** Franska IV: Franskspråkig chanson i original och översättning
 **Course Name:** French IV: The French Chanson in Original Form and in Translation

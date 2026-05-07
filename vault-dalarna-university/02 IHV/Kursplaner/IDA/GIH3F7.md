@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: 33f9486f2201445f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3F7
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3F7
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3F7)
 
 **Kursnamn:** Idrottspedagogik
 **Course Name:** Sport Pedagogy

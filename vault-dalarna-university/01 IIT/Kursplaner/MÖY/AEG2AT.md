@@ -10,10 +10,13 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: a291f59afd3fc3ae
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AT
 up: "[[Energiteknik MOC]]"
 ---
 
 # AEG2AT
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AT)
 
 **Kursnamn:** Design av nätkopplade solcellssystem
 **Course Name:** PV On-grid System Design

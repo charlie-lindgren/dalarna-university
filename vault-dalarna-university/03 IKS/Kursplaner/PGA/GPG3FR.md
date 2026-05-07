@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 606e677225ebaf10
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FR
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG3FR
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FR)
 
 **Kursnamn:** Introduktion till studier i program - VAL
 **Course Name:** Introduction to Programme Studies - Professional Qualification Course for Teachers and Pre-School Teachers

@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, ABA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: d39d4bfd431ea4be
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB2AJ
 up: "[[Arbetsvetenskap MOC]]"
 ---
 
 # GAB2AJ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB2AJ)
 
 **Kursnamn:** Att vara ledare
 **Course Name:** Being a Leader

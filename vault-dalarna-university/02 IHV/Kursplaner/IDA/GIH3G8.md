@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 7c5930663653359e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G8
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3G8
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G8)
 
 **Kursnamn:** Coachning och träningsprocesser i praktiken
 **Course Name:** Coaching and training processes in practice

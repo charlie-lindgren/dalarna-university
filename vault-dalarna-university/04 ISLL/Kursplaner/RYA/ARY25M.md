@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, RYA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: dc5c755bbbec0c9f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARY25M
 up: "[[Ryska MOC]]"
 ---
 
 # ARY25M
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARY25M)
 
 **Kursnamn:** Ryska VI: Det virtuella Ryssland: politik, språk och nya medier
 **Course Name:** Russian VI: Virtual Russia: Politics, Language and New Media

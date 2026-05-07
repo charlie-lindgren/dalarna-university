@@ -10,10 +10,13 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
 scrape_hash: b02f56bac209f62d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2AB
 up: "[[Franska MOC]]"
 ---
 
 # GFR2AB
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2AB)
 
 **Kursnamn:** Franskspråkig litteratur I: Från 1900 till idag
 **Course Name:** French Literature I : From 1900 to the Present Day

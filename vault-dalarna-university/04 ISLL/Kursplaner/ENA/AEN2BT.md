@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: c1735f009e30a497
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BT
 up: "[[Engelska MOC]]"
 ---
 
 # AEN2BT
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BT)
 
 **Kursnamn:** Interkulturella litteraturstudier: Skönlitteratur på originalspråk
 **Course Name:** Intercultural Literature Studies: Fiction in its Original Language

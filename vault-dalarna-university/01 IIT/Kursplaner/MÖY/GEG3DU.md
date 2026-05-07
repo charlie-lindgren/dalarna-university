@@ -10,10 +10,13 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: ff923b78569a9efd
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG3DU
 up: "[[Energiteknik MOC]]"
 ---
 
 # GEG3DU
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG3DU)
 
 **Kursnamn:** Kraftvärmesystem
 **Course Name:** Combined Heat and Power Systems

@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, SRP, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 05e12e55fb52805f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSR2KZ
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
 
 # GSR2KZ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSR2KZ)
 
 **Kursnamn:** Människa, hälsa, hållbarhet i ett mångkulturellt samhälle
 **Course Name:** Humans, Health and Sustainability in a Multicultural Society

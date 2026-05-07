@@ -10,11 +10,14 @@ amne_kod: "HIA"
 institution: "IKS"
 tags: [kursplan, HIA, IKS, vilande]
 scrape_hash: cb059ee72d011232
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI29Q
 up: "[[Historia MOC]]"
 cssclasses: [vilande]
 ---
 
 # AHI29Q
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI29Q)
 
 **Kursnamn:** Historievetenskaplig litteraturkurs
 **Course Name:** Reading Course in History

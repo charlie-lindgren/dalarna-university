@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PEE, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: c06df9ebcff237f6
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2P7
 up: "[[Personal och arbetsliv MOC]]"
 ---
 
 # GPA2P7
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2P7)
 
 **Kursnamn:** Samhällsvetenskaplig metod och vetenskapsteori II
 **Course Name:** Scientific Method in the Social Sciences and the Theory of Science II

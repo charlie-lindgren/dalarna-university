@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: c305886c6ab2c97d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32L
 up: "[[Informatik MOC]]"
 ---
 
 # GIK32L
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32L)
 
 **Kursnamn:** Grafisk design
 **Course Name:** Graphic Design

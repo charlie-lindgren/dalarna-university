@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, IEA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 00db39f0ccf09993
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26P
 up: "[[Industriell ekonomi MOC]]"
 ---
 
 # GIE26P
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26P)
 
 **Kursnamn:** Industriell ekonomi - grundläggande kurs
 **Course Name:** Industrial Management - Basic Overview Course

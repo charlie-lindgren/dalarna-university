@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, BYA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 0d7a330db32592fe
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY34B
 up: "[[Byggteknik MOC]]"
 ---
 
 # GBY34B
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY34B)
 
 **Kursnamn:** Vägplanering
 **Course Name:** Road Planning and Design

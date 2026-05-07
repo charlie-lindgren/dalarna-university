@@ -10,10 +10,13 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: 2b0bf51ada8ba1d6
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY3DX
 up: "[[Byggteknik MOC]]"
 ---
 
 # GBY3DX
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY3DX)
 
 **Kursnamn:** Väg- och trafikplanering
 **Course Name:** Road and Traffic Planning and Design

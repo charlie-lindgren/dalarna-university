@@ -10,10 +10,13 @@ amne_kod: "NAA"
 institution: "IKS"
 tags: [kursplan, NAA, IKS]
 scrape_hash: f3bb837fff74ed63
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA3D9
 up: "[[Nationalekonomi MOC]]"
 ---
 
 # GNA3D9
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA3D9)
 
 **Kursnamn:** Statistik för ekonomer
 **Course Name:** Statistics for Economists

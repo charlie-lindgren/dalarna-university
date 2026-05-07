@@ -10,10 +10,13 @@ amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
 scrape_hash: 25dd2c47aa1c65dc
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ2XB
 up: "[[Företagsekonomi MOC]]"
 ---
 
 # GFÖ2XB
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ2XB)
 
 **Kursnamn:** Företagsekonomi C
 **Course Name:** Business administration C

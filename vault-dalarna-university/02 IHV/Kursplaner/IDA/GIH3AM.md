@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 20771ce574fd1636
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AM
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3AM
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AM)
 
 **Kursnamn:** Klättringens tränarskap
 **Course Name:** Climbing Coach

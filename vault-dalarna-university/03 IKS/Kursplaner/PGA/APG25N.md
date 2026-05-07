@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 3e75bc5d95793653
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG25N
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # APG25N
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG25N)
 
 **Kursnamn:** Vetenskap och beprövad erfarenhet i undervisning och handledning
 **Course Name:** Science and Proven Experience in Teaching and Supervision

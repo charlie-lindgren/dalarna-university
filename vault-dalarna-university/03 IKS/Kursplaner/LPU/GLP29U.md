@@ -10,10 +10,13 @@ amne_kod: "LPU"
 institution: "IKS"
 tags: [kursplan, LPU, IKS]
 scrape_hash: a127a82b43fab2fe
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP29U
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
 
 # GLP29U
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP29U)
 
 **Kursnamn:** Inspelning i studio för Musik- och ljuddesign
 **Course Name:** Studio Recording for Music and Sound Design

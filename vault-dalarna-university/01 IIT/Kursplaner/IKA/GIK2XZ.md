@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: 0b545cc9fd06d315
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2XZ
 up: "[[Informatik MOC]]"
 ---
 
 # GIK2XZ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2XZ)
 
 **Kursnamn:** System och verksamhetsutveckling
 **Course Name:** Business and Systems Development

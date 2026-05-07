@@ -10,10 +10,13 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: b18ad464a8212e08
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY38E
 up: "[[Byggteknik MOC]]"
 ---
 
 # GBY38E
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY38E)
 
 **Kursnamn:** Installationsteknik och dimensionering
 **Course Name:** Building Services

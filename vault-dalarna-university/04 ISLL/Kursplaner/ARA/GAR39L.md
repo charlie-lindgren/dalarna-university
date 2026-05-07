@@ -10,10 +10,13 @@ amne_kod: "ARA"
 institution: "ISLL"
 tags: [kursplan, ARA, ISLL]
 scrape_hash: 13b63ce1044cc842
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR39L
 up: "[[Arabiska MOC]]"
 ---
 
 # GAR39L
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR39L)
 
 **Kursnamn:** Modern arabisk litteratur: social och politisk förändring
 **Course Name:** Modern Arabic Literature: Social and Political Change

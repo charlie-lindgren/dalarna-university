@@ -10,10 +10,13 @@ amne_kod: "MDI"
 institution: "IIT"
 tags: [kursplan, MDI, IIT]
 scrape_hash: ecfd79f1fb3f0c6b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2PA
 up: "[[Matematikdidaktik MOC]]"
 ---
 
 # GMD2PA
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2PA)
 
 **Kursnamn:** Matematikinlärning för förskollärare som undervisar i förskoleklass
 **Course Name:** Mathematics Learning for Preschool Teachers Who Teach in Preschool Class

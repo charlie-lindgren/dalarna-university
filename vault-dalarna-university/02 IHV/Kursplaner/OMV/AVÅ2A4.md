@@ -10,10 +10,13 @@ amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
 scrape_hash: 728cf924693995d9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ2A4
 up: "[[Omvårdnad MOC]]"
 ---
 
 # AVÅ2A4
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ2A4)
 
 **Kursnamn:** Folkhälsa och folkhälsoarbete
 **Course Name:** Public Health and Public Health Care

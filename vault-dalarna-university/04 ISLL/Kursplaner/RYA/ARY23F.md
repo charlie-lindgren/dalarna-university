@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, RYA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: f8c6022dd2232c94
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARY23F
 up: "[[Ryska MOC]]"
 ---
 
 # ARY23F
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARY23F)
 
 **Kursnamn:** Ryska VI: Stalintidens ideologi och estetik
 **Course Name:** Russian VI: Ideology and Aesthetics during the Stalin Era

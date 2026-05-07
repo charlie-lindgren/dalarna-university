@@ -10,10 +10,13 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
 scrape_hash: 39092ff3ce1b87b4
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3ER
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3ER
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3ER)
 
 **Kursnamn:** Konstnärliga skrivmetoder och processer
 **Course Name:** Artistic Writing Methods and Processes

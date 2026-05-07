@@ -10,10 +10,13 @@ amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
 scrape_hash: c1af94bb4e82b4f7
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE36Z
 up: "[[Industriell ekonomi MOC]]"
 ---
 
 # GIE36Z
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE36Z)
 
 **Kursnamn:** Industriell ekonomi - verksamhetsstyrning
 **Course Name:** Industrial Management - Business Process Management

@@ -10,10 +10,13 @@ amne_kod: "MCA"
 institution: "IHV"
 tags: [kursplan, MCA, IHV]
 scrape_hash: fbc6c7227ceac00b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC2BG
 up: "[[Medicinsk vetenskap MOC]]"
 ---
 
 # AMC2BG
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC2BG)
 
 **Kursnamn:** Förskrivningsrätt för vissa läkemedel och förbrukningsartiklar
 **Course Name:** Prescribing of Specific Drugs and Consumers´ Articles

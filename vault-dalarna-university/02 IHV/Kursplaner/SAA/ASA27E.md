@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, SAA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: fb86a129e0f134fc
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA27E
 up: "[[Socialt arbete MOC]]"
 ---
 
 # ASA27E
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA27E)
 
 **Kursnamn:** Socialt arbete i skolan - skolan som en arena för stöd och utveckling
 **Course Name:** Social Work in the School - the School as an Arena for Support and Development

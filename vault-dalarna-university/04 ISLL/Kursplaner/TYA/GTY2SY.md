@@ -10,10 +10,13 @@ amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
 scrape_hash: 5f71af66618155b1
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2SY
 up: "[[Tyska MOC]]"
 ---
 
 # GTY2SY
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2SY)
 
 **Kursnamn:** Tyska: Processkrivning
 **Course Name:** German: Process Writing

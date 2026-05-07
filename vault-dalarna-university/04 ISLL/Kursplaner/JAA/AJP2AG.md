@@ -10,10 +10,13 @@ amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
 scrape_hash: bafb1e7ab9c1ddc2
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP2AG
 up: "[[Japanska MOC]]"
 ---
 
 # AJP2AG
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP2AG)
 
 **Kursnamn:** Japanska: Översättningens praktik
 **Course Name:** Japanese: Practical Translation

@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: c9801968d8395ff4
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BZ
 up: "[[Engelska MOC]]"
 ---
 
 # AEN2BZ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BZ)
 
 **Kursnamn:** Migrationslitteratur i dåtid och nutid
 **Course Name:** Literatures of Migration: Past and Present

@@ -10,10 +10,13 @@ amne_kod: "BIL"
 institution: "IKS"
 tags: [kursplan, BIL, IKS]
 scrape_hash: 4f508286b8a30258
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBP34H
 up: "[[Bild MOC]]"
 ---
 
 # GBP34H
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBP34H)
 
 **Kursnamn:** Bild II med didaktisk inriktning
 **Course Name:** Art Education II for Teacher Education Students

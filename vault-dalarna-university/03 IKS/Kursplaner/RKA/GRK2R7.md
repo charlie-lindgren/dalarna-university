@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, RKA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: b581b2a8ade0860a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2R7
 up: "[[Religionsvetenskap MOC]]"
 ---
 
 # GRK2R7
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2R7)
 
 **Kursnamn:** Religionsvetenskap III: Uppsats
 **Course Name:** Religious Studies III: Essay

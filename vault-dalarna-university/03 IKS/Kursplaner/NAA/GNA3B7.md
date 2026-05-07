@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, NAA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 107c0cf7425fdc1e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA3B7
 up: "[[Nationalekonomi MOC]]"
 ---
 
 # GNA3B7
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA3B7)
 
 **Kursnamn:** Mikroekonomi, introduktion
 **Course Name:** Introductory Microeconomics

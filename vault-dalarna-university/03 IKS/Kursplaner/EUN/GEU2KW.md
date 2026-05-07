@@ -10,10 +10,13 @@ amne_kod: "EUN"
 institution: "IKS"
 tags: [kursplan, EUN, IKS]
 scrape_hash: bbe320236b6f9ddb
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2KW
 up: "[[Entreprenörskap och innovationsteknik MOC]]"
 ---
 
 # GEU2KW
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2KW)
 
 **Kursnamn:** Entreprenörskapets teoretiska klassiker
 **Course Name:** Classical Entrepreneurial Theories

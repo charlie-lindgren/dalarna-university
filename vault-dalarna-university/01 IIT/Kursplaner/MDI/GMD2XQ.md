@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MDI, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: af73bfe1c08ec5db
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2XQ
 up: "[[Matematikdidaktik MOC]]"
 ---
 
 # GMD2XQ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2XQ)
 
 **Kursnamn:** Matematik för lärare i gymnasieskolan, 90 hp (1-90 hp). Ingår i lärarlyftet
 **Course Name:** Mathematics for Teachers in Upper Secondary School, 90 cr (1-90 cr). CPD for Teachers

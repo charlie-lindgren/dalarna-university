@@ -10,10 +10,13 @@ amne_kod: "EUN"
 institution: "IKS"
 tags: [kursplan, EUN, IKS]
 scrape_hash: f24c7a6f7cfd9e41
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2KV
 up: "[[Entreprenörskap och innovationsteknik MOC]]"
 ---
 
 # GEU2KV
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2KV)
 
 **Kursnamn:** Entreprenörskap i regional utveckling och tillväxt
 **Course Name:** Entrepreneurship in Regional Development and Growth

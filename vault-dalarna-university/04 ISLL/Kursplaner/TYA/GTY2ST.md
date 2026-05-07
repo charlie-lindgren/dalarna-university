@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, TYA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 2b19d9105b490307
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2ST
 up: "[[Tyska MOC]]"
 ---
 
 # GTY2ST
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2ST)
 
 **Kursnamn:** Tyska: Tysk grammatik med textkommentar
 **Course Name:** German: German Grammar

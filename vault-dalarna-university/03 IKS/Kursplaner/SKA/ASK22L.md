@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, SKA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: aadb4e1df0e502c5
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASK22L
 up: "[[Statsvetenskap MOC]]"
 ---
 
 # ASK22L
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASK22L)
 
 **Kursnamn:** Samhällsvetenskapliga metoder III - inriktning statsvetenskap
 **Course Name:** Social Science Methods III - Political Science

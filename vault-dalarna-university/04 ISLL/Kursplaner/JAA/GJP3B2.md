@@ -10,10 +10,13 @@ amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
 scrape_hash: 3cfcc476a70b7abd
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP3B2
 up: "[[Japanska MOC]]"
 ---
 
 # GJP3B2
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP3B2)
 
 **Kursnamn:** Japanska IV: Introduktion till översättning
 **Course Name:** Japanese IV: Introduction to Translation

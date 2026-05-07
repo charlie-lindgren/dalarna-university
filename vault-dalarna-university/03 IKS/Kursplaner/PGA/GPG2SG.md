@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: f43314aab0dd4dba
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2SG
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG2SG
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2SG)
 
 **Kursnamn:** Omsorg, relationer och etik i förskolläraryrket
 **Course Name:** Care, Relations and Ethics in the Preschool Teacher Profession

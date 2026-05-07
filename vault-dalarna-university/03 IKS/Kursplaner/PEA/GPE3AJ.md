@@ -10,10 +10,13 @@ amne_kod: "PEA"
 institution: "IKS"
 tags: [kursplan, PEA, IKS]
 scrape_hash: 87d4a025de675ae2
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPE3AJ
 up: "[[Pedagogik MOC]]"
 ---
 
 # GPE3AJ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPE3AJ)
 
 **Kursnamn:** Att leda kollegiala lärprocesser i förskola och skola
 **Course Name:** Leading Collegial Learning Processes in Preschool and School

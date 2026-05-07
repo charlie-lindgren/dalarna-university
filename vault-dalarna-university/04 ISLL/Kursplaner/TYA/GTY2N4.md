@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, TYA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: f3a04f864d74577f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2N4
 up: "[[Tyska MOC]]"
 ---
 
 # GTY2N4
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2N4)
 
 **Kursnamn:** Tyskspråkig nutidslitteratur och litteraturkritik
 **Course Name:** German Contemporary Literature and Literary Criticism

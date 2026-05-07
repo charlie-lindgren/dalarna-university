@@ -10,10 +10,13 @@ amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
 scrape_hash: 63f71e7b469786a6
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ2BH
 up: "[[Omvårdnad MOC]]"
 ---
 
 # AVÅ2BH
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ2BH)
 
 **Kursnamn:** Hälsa och omvårdnad av vuxna och äldre
 **Course Name:** Health and Care Among Adult and Elderly

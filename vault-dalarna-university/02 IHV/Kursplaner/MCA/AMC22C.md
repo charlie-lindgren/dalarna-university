@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, MCA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: f108bc369f832cd7
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC22C
 up: "[[Medicinsk vetenskap MOC]]"
 ---
 
 # AMC22C
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC22C)
 
 **Kursnamn:** Personcentrerad vård vid astma/KOL/allergi, del 2
 **Course Name:** Person-Centred Care in Asthma/COPD/Allergies, Part II

@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 49053d8e57c2f298
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2AJ
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # APG2AJ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2AJ)
 
 **Kursnamn:** Verksamhetsförlagd utbildning för lärare - VAL
 **Course Name:** Placement for Teachers - Professional Qualification Course for Teachers

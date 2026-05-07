@@ -10,10 +10,13 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: 2fe5bfd29014f915
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABY22V
 up: "[[Byggteknik MOC]]"
 ---
 
 # ABY22V
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABY22V)
 
 **Kursnamn:** Energieffektiva installationssystem
 **Course Name:** Low-Energy HVAC Systems

@@ -10,10 +10,13 @@ amne_kod: "NAA"
 institution: "IKS"
 tags: [kursplan, NAA, IKS]
 scrape_hash: f43688b56851c92c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA3B9
 up: "[[Nationalekonomi MOC]]"
 ---
 
 # GNA3B9
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA3B9)
 
 **Kursnamn:** Internationell ekonomi
 **Course Name:** International Economics

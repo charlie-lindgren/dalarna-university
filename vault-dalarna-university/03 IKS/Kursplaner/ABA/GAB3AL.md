@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, ABA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: cf01389ae641a1ad
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3AL
 up: "[[Arbetsvetenskap MOC]]"
 ---
 
 # GAB3AL
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3AL)
 
 **Kursnamn:** Ledarskapets juridik
 **Course Name:** The Legal Aspects of Leadership

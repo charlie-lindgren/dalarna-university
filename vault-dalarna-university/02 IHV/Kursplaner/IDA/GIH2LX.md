@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: a0c947ab3418af97
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2LX
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2LX
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2LX)
 
 **Kursnamn:** Motorisk kontroll och lärande (judo)
 **Course Name:** Motor Control and Learning (Judo)

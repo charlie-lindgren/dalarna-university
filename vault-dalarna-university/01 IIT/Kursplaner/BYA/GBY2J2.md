@@ -10,10 +10,13 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: 08fba62e431daaf1
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2J2
 up: "[[Byggteknik MOC]]"
 ---
 
 # GBY2J2
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2J2)
 
 **Kursnamn:** Husbyggnadsprojekt I - Små byggnader och bostadsområden
 **Course Name:** Housing Construction Project I - Small Buildings and Residential Areas

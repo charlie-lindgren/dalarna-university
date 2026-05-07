@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 0782b6e3d34ac55f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37C
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH37C
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37C)
 
 **Kursnamn:** Rörelse, rytm och dans (VAL)
 **Course Name:** Movement, Rhythm and Dance (CPD for teachers)

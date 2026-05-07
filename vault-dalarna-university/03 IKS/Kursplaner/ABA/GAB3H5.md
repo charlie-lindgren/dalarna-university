@@ -10,10 +10,13 @@ amne_kod: "ABA"
 institution: "IKS"
 tags: [kursplan, ABA, IKS]
 scrape_hash: 385799181fae36de
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3H5
 up: "[[Arbetsvetenskap MOC]]"
 ---
 
 # GAB3H5
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3H5)
 
 **Kursnamn:** Arbetsmiljökunskap
 **Course Name:** Work environment knowledge

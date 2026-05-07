@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: a1c0d6aa5bd89aa7
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG27U
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # APG27U
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG27U)
 
 **Kursnamn:** Utvärdering och verksamhetsutveckling i förskola och förskoleklass (varav 7,5 hp VFU)
 **Course Name:** Evaluation and Development Work in Preschool and Preschool Class (of which 7.5 credits VFU placement)

@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, IKA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 0c284dbbebe7e446
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2V4
 up: "[[Informatik MOC]]"
 ---
 
 # GIK2V4
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2V4)
 
 **Kursnamn:** Datasäkerhet och integritet
 **Course Name:** Data Security and Integrity

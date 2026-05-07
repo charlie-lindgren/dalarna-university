@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, HIA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 0de81214c6d5d099
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI26P
 up: "[[Historia MOC]]"
 ---
 
 # AHI26P
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI26P)
 
 **Kursnamn:** Afrikanska studier: Islam och islamiska samhällen i Afrika
 **Course Name:** African Studies: Islam and Islamic Societies in Africa

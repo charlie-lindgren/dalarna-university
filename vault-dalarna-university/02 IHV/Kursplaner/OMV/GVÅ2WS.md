@@ -10,10 +10,13 @@ amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
 scrape_hash: af726a07178b6639
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ2WS
 up: "[[Omvårdnad MOC]]"
 ---
 
 # GVÅ2WS
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ2WS)
 
 **Kursnamn:** Global hälsa
 **Course Name:** Global Health

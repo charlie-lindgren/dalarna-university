@@ -10,10 +10,13 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
 scrape_hash: 70bd91f719f8fc2b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA26U
 up: "[[Socialt arbete MOC]]"
 ---
 
 # ASA26U
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA26U)
 
 **Kursnamn:** Forskningsdesign och forskningsmetod inom socialt arbete
 **Course Name:** Research Design and Research Method for Social Work

@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: 983f729900db71e8
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2UK
 up: "[[Informatik MOC]]"
 ---
 
 # GIK2UK
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2UK)
 
 **Kursnamn:** Data- och informationshantering
 **Course Name:** Data and Information Management

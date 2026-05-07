@@ -10,10 +10,13 @@ amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
 scrape_hash: ba50cece93403ea3
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK3B4
 up: "[[Religionsvetenskap MOC]]"
 ---
 
 # GRK3B4
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK3B4)
 
 **Kursnamn:** Levd religion: fältstudieresa utifrån ämnesteoretiska och religionsdidaktiska perspektiv
 **Course Name:** Lived Religion: Field Studies Trip Based on Perspectives from Subject Theory and Religious Didactics

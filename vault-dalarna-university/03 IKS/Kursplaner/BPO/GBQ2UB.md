@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 4c89fbe039e9f883
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2UB
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ2UB
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2UB)
 
 **Kursnamn:** Introduktion till produktion av rörlig bild
 **Course Name:** Introduction to Production of Moving Images

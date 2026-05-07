@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, JAA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 60e51df7a244d133
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP25X
 up: "[[Japanska MOC]]"
 ---
 
 # AJP25X
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP25X)
 
 **Kursnamn:** Interkulturella litteraturstudier: Litteratur och genus - teori och kritik
 **Course Name:** Intercultural Literature Studies: Literature and Gender - Literary Theory and Criticism

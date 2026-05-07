@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: 48ebf24f531f511a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2KM
 up: "[[Informatik MOC]]"
 ---
 
 # GIK2KM
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2KM)
 
 **Kursnamn:** Data Science och maskininlärning
 **Course Name:** Data Science & Machine Learning

@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 1fcb4f66f734c54c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3BE
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG3BE
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3BE)
 
 **Kursnamn:** Didaktik och ledarskap - VAL
 **Course Name:** Didactics and Leadership - Professional Qualification Course for Teachers

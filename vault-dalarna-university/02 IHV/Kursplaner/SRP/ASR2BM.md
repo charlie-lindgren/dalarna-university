@@ -10,10 +10,13 @@ amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV]
 scrape_hash: ddad29d155f1bbda
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2BM
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
 
 # ASR2BM
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2BM)
 
 **Kursnamn:** Kvinnors vårdbehov under klimakteriet – evidensbaserad vård med genusperspektiv
 **Course Name:** Women’s Healthcare Needs During Menopause - Evidence-Based Care with a Gender Perspective

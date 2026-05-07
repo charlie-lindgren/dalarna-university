@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 9531b197acff0fc2
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2LT
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2LT
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2LT)
 
 **Kursnamn:** Idrottspedagogik (judo)
 **Course Name:** Sport Pedagogy (Judo)

@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 7d15b13ba055039c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AV
 up: "[[Energiteknik MOC]]"
 ---
 
 # AEG2AV
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AV)
 
 **Kursnamn:** Hållbarhet hos solenergisystem
 **Course Name:** Sustainability of Solar Energy Systems

@@ -10,10 +10,13 @@ amne_kod: "RYA"
 institution: "ISLL"
 tags: [kursplan, RYA, ISLL]
 scrape_hash: f5e85e31c6a5ace7
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY28P
 up: "[[Ryska MOC]]"
 ---
 
 # GRY28P
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY28P)
 
 **Kursnamn:** Ryska V: Ryska språkets historia: Från näverbrev till Twitter
 **Course Name:** Russian V: The History of the Russian Language: From Birch Bark Letters to Twitter

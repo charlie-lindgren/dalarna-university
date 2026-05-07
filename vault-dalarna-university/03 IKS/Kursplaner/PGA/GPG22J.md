@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 8181661692d7afba
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG22J
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG22J
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG22J)
 
 **Kursnamn:** Att handleda lärarstuderande - kurs för verksamhetsförlagda lärarutbildare
 **Course Name:** Supervising Teacher Students - Course for Placement Supervisors within the Teacher Education

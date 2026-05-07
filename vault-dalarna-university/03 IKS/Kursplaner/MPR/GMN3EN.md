@@ -10,10 +10,13 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
 scrape_hash: d1ef8b983d6956d9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EN
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3EN
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EN)
 
 **Kursnamn:** Komposition och musikskapande
 **Course Name:** Music Composition and Creation

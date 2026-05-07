@@ -10,10 +10,13 @@ amne_kod: "IEA"
 institution: "IKS"
 tags: [kursplan, IEA, IKS]
 scrape_hash: f794765bb7610b8a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3HX
 up: "[[Industriell ekonomi MOC]]"
 ---
 
 # GIE3HX
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3HX)
 
 **Kursnamn:** Projektledning I
 **Course Name:** Project Management I

@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 8af45ca143eb3ed3
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3AW
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ3AW
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3AW)
 
 **Kursnamn:** Explainers med rörlig grafik
 **Course Name:** Explainers with Motion Graphics

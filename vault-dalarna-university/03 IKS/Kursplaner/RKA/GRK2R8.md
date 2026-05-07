@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, RKA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 12b2afd58af85b8b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2R8
 up: "[[Religionsvetenskap MOC]]"
 ---
 
 # GRK2R8
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2R8)
 
 **Kursnamn:** Religionsvetenskap III: Examensarbete för kandidatexamen
 **Course Name:** Religious Studies III: Bachelor‘s Degree Thesis

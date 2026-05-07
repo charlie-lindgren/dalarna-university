@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, LPU, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 750e6d3f6c012ef8
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP33C
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
 
 # GLP33C
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP33C)
 
 **Kursnamn:** Audiovisuell produktion för pedagogisk verksamhet
 **Course Name:** Audiovisual Production in Education

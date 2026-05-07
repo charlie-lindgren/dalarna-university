@@ -10,10 +10,13 @@ amne_kod: "SKA"
 institution: "IKS"
 tags: [kursplan, SKA, IKS]
 scrape_hash: e65a9b6815c3a7c3
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASK22M
 up: "[[Statsvetenskap MOC]]"
 ---
 
 # ASK22M
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASK22M)
 
 **Kursnamn:** Examensarbete för magisterexamen i statsvetenskap
 **Course Name:** Master`s Degree Thesis in Political Science

@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PEA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 69fd3413584c23d2
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPE2SA
 up: "[[Pedagogik MOC]]"
 ---
 
 # GPE2SA
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPE2SA)
 
 **Kursnamn:** Utbildningssystemet i Sverige
 **Course Name:** The Swedish Education System

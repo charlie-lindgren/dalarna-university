@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: 55247e81b4675370
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2XJ
 up: "[[Informatik MOC]]"
 ---
 
 # GIK2XJ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2XJ)
 
 **Kursnamn:** Objektorienterad design och problemlösning
 **Course Name:** Object-Oriented Design and Problem-Solving

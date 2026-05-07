@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: bd1adfac0fe6eba5
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH39D
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH39D
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH39D)
 
 **Kursnamn:** Vinterfriluftsliv genom skidor och skridskor
 **Course Name:** Winter Outdoor Education Through Skiing and Skating

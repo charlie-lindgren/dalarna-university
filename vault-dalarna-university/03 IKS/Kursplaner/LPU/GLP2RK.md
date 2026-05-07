@@ -10,10 +10,13 @@ amne_kod: "LPU"
 institution: "IKS"
 tags: [kursplan, LPU, IKS]
 scrape_hash: c1f37159d4109ad5
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2RK
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
 
 # GLP2RK
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2RK)
 
 **Kursnamn:** Musikproduktionsanalys
 **Course Name:** Analysing Music Productions

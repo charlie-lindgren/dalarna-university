@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, SAA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 3c411e7c40eaf589
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA24V
 up: "[[Socialt arbete MOC]]"
 ---
 
 # GSA24V
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA24V)
 
 **Kursnamn:** Familjeperspektiv på socialt arbete
 **Course Name:** Family Perspective on Social Work

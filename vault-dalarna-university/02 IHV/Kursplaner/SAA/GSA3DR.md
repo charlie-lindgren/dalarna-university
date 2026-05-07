@@ -10,10 +10,13 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
 scrape_hash: 79d129daee937800
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DR
 up: "[[Socialt arbete MOC]]"
 ---
 
 # GSA3DR
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DR)
 
 **Kursnamn:** Perspektiv på våld
 **Course Name:** Perspectives on Violence

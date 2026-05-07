@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 155b2e6bb541b3f1
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2Z3
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG2Z3
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2Z3)
 
 **Kursnamn:** Bedömning och betygssättning - VAL
 **Course Name:** Assessment and Grading - Continuing Professional Development for Teachers

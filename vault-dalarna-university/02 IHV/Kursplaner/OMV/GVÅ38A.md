@@ -10,10 +10,13 @@ amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
 scrape_hash: e687ca586716853f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ38A
 up: "[[Omvårdnad MOC]]"
 ---
 
 # GVÅ38A
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ38A)
 
 **Kursnamn:** Examensarbete i omvårdnad
 **Course Name:** Thesis in Nursing Science

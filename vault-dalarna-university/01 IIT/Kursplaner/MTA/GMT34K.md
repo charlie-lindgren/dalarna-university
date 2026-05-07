@@ -10,10 +10,13 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT]
 scrape_hash: 23dd7787b8b5ebe1
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34K
 up: "[[Maskinteknik MOC]]"
 ---
 
 # GMT34K
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34K)
 
 **Kursnamn:** Automation - robotik
 **Course Name:** Automation Robotics

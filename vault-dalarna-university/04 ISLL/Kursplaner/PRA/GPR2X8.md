@@ -10,10 +10,13 @@ amne_kod: "PRA"
 institution: "ISLL"
 tags: [kursplan, PRA, ISLL]
 scrape_hash: 78db9cfca1c89e6b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR2X8
 up: "[[Portugisiska MOC]]"
 ---
 
 # GPR2X8
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR2X8)
 
 **Kursnamn:** Portugisiska: Introduktion till studier av samtida litteratur på portugisiska
 **Course Name:** Portuguese: Introduction to the Study of Contemporary Literature in Portuguese

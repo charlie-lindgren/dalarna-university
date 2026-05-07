@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: 790e8a683f7e5d38
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GK
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3GK
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GK)
 
 **Kursnamn:** Idrottsmedicin
 **Course Name:** Sports Medicine

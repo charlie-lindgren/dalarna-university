@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, MPR, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 0cc43c8e43ba7b84
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3F3
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3F3
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3F3)
 
 **Kursnamn:** Verksamhetsförlagd utbildning inom medieproduktion
 **Course Name:** Professional Internship in Media Production

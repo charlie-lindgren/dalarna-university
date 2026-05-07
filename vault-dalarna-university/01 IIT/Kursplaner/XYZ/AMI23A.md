@@ -10,10 +10,13 @@ amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
 scrape_hash: 73478ece58c7f298
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI23A
 up: "[[Mikrodataanalys MOC]]"
 ---
 
 # AMI23A
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI23A)
 
 **Kursnamn:** Dataanalys och visualisering
 **Course Name:** Data Analysis and Visualization

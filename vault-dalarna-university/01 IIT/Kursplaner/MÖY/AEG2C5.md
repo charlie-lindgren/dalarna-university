@@ -10,10 +10,13 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: b1f503c9cd1d7c07
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2C5
 up: "[[Energiteknik MOC]]"
 ---
 
 # AEG2C5
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2C5)
 
 **Kursnamn:** Hållbara värmesystem
 **Course Name:** Sustainable Heating Technologies

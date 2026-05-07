@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: 3cfd24e14e29ee1e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZC
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2ZC
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZC)
 
 **Kursnamn:** Humanbiologi 1 (VAL)
 **Course Name:** Human Biology 1 (CPD For Teachers)

@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PEE, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 4a3036dc4c7eeb74
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2LN
 up: "[[Personal och arbetsliv MOC]]"
 ---
 
 # GPA2LN
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2LN)
 
 **Kursnamn:** Ekonomi- och verksamhetsstyrning för personalvetare
 **Course Name:** Managemet Accounting for HR Professionals

@@ -10,10 +10,13 @@ amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
 scrape_hash: fd87d2f789ece110
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE36Y
 up: "[[Industriell ekonomi MOC]]"
 ---
 
 # GIE36Y
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE36Y)
 
 **Kursnamn:** Cirkulär ekonomi och hållbar utveckling
 **Course Name:** Circular Economy and Sustainable Development

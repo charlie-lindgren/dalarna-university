@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, TYA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 1a77b797852c61f3
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2SV
 up: "[[Tyska MOC]]"
 ---
 
 # GTY2SV
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2SV)
 
 **Kursnamn:** Tyska: Tyskspråkig litteratur och litteraturdidaktik i teori och praktik
 **Course Name:** German: German Literature and Didactics in Theory and Practice

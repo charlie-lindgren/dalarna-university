@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, FRA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: b3983f868300348f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR35F
 up: "[[Franska MOC]]"
 ---
 
 # GFR35F
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR35F)
 
 **Kursnamn:** Franska III: Franskspråkig litteratur och litteraturanalys
 **Course Name:** French III: Literature in French and Literary Analysis

@@ -10,10 +10,13 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
 scrape_hash: 6fdfaa535584dfc1
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3HA
 up: "[[Socialt arbete MOC]]"
 ---
 
 # GSA3HA
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3HA)
 
 **Kursnamn:** Försörjning, rehabilitering och aktivering i socialt arbete
 **Course Name:** Support, Rehabilitation and Enablement in Social Work

@@ -10,10 +10,13 @@ amne_kod: "HIA"
 institution: "IKS"
 tags: [kursplan, HIA, IKS]
 scrape_hash: a3a0022c1eb9b01f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI33W
 up: "[[Historia MOC]]"
 ---
 
 # GHI33W
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI33W)
 
 **Kursnamn:** Historia I med didaktisk inriktning
 **Course Name:** History I for Teacher Education Students

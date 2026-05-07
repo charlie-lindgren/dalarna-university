@@ -10,10 +10,13 @@ amne_kod: "ABA"
 institution: "IKS"
 tags: [kursplan, ABA, IKS]
 scrape_hash: a83a85843eedb214
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3G3
 up: "[[Arbetsvetenskap MOC]]"
 ---
 
 # GAB3G3
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3G3)
 
 **Kursnamn:** Motivation och lärande
 **Course Name:** Motivation and Learning

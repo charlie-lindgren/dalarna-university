@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 3f239ed2b50215cd
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2CD
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # APG2CD
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2CD)
 
 **Kursnamn:** Perspektiv på pedagogisk praktik
 **Course Name:** Perspectives on Educational Practices

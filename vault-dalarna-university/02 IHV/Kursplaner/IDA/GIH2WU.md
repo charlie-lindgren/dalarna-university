@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: 51fa82480af07e13
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2WU
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2WU
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2WU)
 
 **Kursnamn:** Fotbollstränare - inriktning senior- och elitförberedande ungdomsverksamhet
 **Course Name:** Coach in Football - Specialisation Senior and Elite Adolescent Athletes

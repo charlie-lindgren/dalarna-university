@@ -10,10 +10,13 @@ amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
 scrape_hash: 8fd9bb149bb9a3c9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26N
 up: "[[Industriell ekonomi MOC]]"
 ---
 
 # GIE26N
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26N)
 
 **Kursnamn:** Industriell ekonomi - underhåll och kvalitet
 **Course Name:** Industrial Management - Maintenance and Quality

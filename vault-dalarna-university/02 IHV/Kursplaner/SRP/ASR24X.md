@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, SRP, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 16a228a0876dff5b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR24X
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
 
 # ASR24X
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR24X)
 
 **Kursnamn:** Strategier för implementering av förbättringsarbete i hälso- och sjukvård
 **Course Name:** Implementing Strategies for Quality Improvements in Health Care Settings

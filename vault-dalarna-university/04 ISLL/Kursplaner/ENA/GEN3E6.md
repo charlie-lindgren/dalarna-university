@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: 7c0960f5e6dbe7ca
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3E6
 up: "[[Engelska MOC]]"
 ---
 
 # GEN3E6
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3E6)
 
 **Kursnamn:** Introduktion till engelsk lingvistik
 **Course Name:** Introduction to English Linguistics

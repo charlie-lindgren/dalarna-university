@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: bb71441b01b157c0
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3C2
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3C2
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3C2)
 
 **Kursnamn:** Journalistik: Sportreportage och sportkommentering
 **Course Name:** Journalism: Sport reportage and sport commentary

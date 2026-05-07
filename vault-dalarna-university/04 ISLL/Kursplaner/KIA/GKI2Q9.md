@@ -10,10 +10,13 @@ amne_kod: "KIA"
 institution: "ISLL"
 tags: [kursplan, KIA, ISLL]
 scrape_hash: e1a82af2e7d0dbd9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2Q9
 up: "[[Kinesiska MOC]]"
 ---
 
 # GKI2Q9
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2Q9)
 
 **Kursnamn:** Kinesiska: Det kinesiska samhället
 **Course Name:** Chinese: Chinese Society

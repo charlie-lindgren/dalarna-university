@@ -10,10 +10,13 @@ amne_kod: "MDI"
 institution: "IIT"
 tags: [kursplan, MDI, IIT]
 scrape_hash: 737ffc64eb4853e6
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2GG
 up: "[[Matematikdidaktik MOC]]"
 ---
 
 # GMD2GG
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2GG)
 
 **Kursnamn:** Matematik för lärare i åk 4-6, 30 hp (1-30). Ingår i Lärarlyftet.
 **Course Name:** Mathematics for Teachers in Primary School, Years 4-6, 30 Credits (1-30)

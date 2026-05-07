@@ -10,10 +10,13 @@ amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
 scrape_hash: 94a0ea77e9610639
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26M
 up: "[[Industriell ekonomi MOC]]"
 ---
 
 # GIE26M
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26M)
 
 **Kursnamn:** Industriell ekonomi - organisation och ledarskap
 **Course Name:** Industrial Management  - Organization and Leadership

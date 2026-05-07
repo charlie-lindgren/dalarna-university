@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: 4fe442d0891c1f9d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AIH24T
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # AIH24T
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AIH24T)
 
 **Kursnamn:** Examensarbete i idrott och hälsa för ämneslärarexamen inriktning gymnasieskolan
 **Course Name:** Degree Thesis in Physical Education and Health for Master of Arts in Education in Upper Secondary School

@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, SVE, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: db0d41cfcda17a6a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2BN
 up: "[[Svenska MOC]]"
 ---
 
 # GSV2BN
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2BN)
 
 **Kursnamn:** Svenska: Text och tal
 **Course Name:** Swedish: Text and Speech

@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, ARA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 03a44cda197b3f93
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR2SQ
 up: "[[Arabiska MOC]]"
 ---
 
 # GAR2SQ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR2SQ)
 
 **Kursnamn:** Modern arabisk litteratur
 **Course Name:** Modern Arabic Literature

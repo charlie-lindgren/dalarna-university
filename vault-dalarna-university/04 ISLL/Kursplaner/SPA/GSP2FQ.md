@@ -10,10 +10,13 @@ amne_kod: "SPA"
 institution: "ISLL"
 tags: [kursplan, SPA, ISLL]
 scrape_hash: a2720347cc742a1d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2FQ
 up: "[[Spanska MOC]]"
 ---
 
 # GSP2FQ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2FQ)
 
 **Kursnamn:** Spanska II med didaktisk inriktning
 **Course Name:** Spanish II for Teacher Education Students

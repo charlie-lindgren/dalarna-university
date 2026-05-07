@@ -10,10 +10,13 @@ amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
 scrape_hash: 5eb7d1b1051d4634
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP37V
 up: "[[Japanska MOC]]"
 ---
 
 # GJP37V
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP37V)
 
 **Kursnamn:** Japanska: Projektbeskrivning
 **Course Name:** Japanese: Research Proposal

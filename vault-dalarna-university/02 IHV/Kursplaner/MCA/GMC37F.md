@@ -10,10 +10,13 @@ amne_kod: "MCA"
 institution: "IHV"
 tags: [kursplan, MCA, IHV]
 scrape_hash: 392ee0e86602f5ed
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC37F
 up: "[[Medicinsk vetenskap MOC]]"
 ---
 
 # GMC37F
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC37F)
 
 **Kursnamn:** Farmakologi, mikrobiologi och immunologi
 **Course Name:** Pharmacology, Microbiology and Immunology

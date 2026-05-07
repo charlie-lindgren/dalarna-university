@@ -10,10 +10,13 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: 72ceb409fb782260
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2MA
 up: "[[Byggteknik MOC]]"
 ---
 
 # GBY2MA
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2MA)
 
 **Kursnamn:** Byggprojektering
 **Course Name:** Construction Planning

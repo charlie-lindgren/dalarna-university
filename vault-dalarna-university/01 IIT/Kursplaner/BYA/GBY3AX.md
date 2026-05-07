@@ -10,10 +10,13 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: 34a9985f5edfca7b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY3AX
 up: "[[Byggteknik MOC]]"
 ---
 
 # GBY3AX
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY3AX)
 
 **Kursnamn:** Husbyggnadsprojekt III - Byggkonstruktionsprojekt
 **Course Name:** Housing Construction Project III - Structural Engineering Project

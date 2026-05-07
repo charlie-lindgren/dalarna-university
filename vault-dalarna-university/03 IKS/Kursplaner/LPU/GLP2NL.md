@@ -10,10 +10,13 @@ amne_kod: "LPU"
 institution: "IKS"
 tags: [kursplan, LPU, IKS]
 scrape_hash: c7cae12a62ace96c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2NL
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
 
 # GLP2NL
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2NL)
 
 **Kursnamn:** Vetenskapsteori och metod i Ljud- och musikproduktion
 **Course Name:** Scientific Theory and Method for Sound and Music Production

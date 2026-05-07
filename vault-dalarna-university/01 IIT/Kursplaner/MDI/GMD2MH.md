@@ -10,10 +10,13 @@ amne_kod: "MDI"
 institution: "IIT"
 tags: [kursplan, MDI, IIT]
 scrape_hash: b02427cf12544f3f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2MH
 up: "[[Matematikdidaktik MOC]]"
 ---
 
 # GMD2MH
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2MH)
 
 **Kursnamn:** Statistik och sannolikhetslära
 **Course Name:** Statistics and Probability

@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 47bdc0c8d1943f34
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34T
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH34T
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34T)
 
 **Kursnamn:** Humanbiologi 2 (VAL)
 **Course Name:** Human Biology 2 (CPD for teachers)

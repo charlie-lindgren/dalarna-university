@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, TRU, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 6910faebd283028a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR3B6
 up: "[[Turismvetenskap MOC]]"
 ---
 
 # GTR3B6
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR3B6)
 
 **Kursnamn:** Sälenfjällen - Platsen och besöksnäringen
 **Course Name:** Sälenfjällen - the Place and the Tourism and Hospitality Industry

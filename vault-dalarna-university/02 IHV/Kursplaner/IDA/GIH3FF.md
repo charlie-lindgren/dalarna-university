@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: c149aa9f42b969d6
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3FF
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3FF
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3FF)
 
 **Kursnamn:** Tillämpad Idrottsfysiologi
 **Course Name:** Applied Exercise Physiology

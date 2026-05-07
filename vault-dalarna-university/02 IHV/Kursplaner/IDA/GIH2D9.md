@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 1ae1b9343aa6e39a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2D9
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2D9
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2D9)
 
 **Kursnamn:** Styrkelyftets tränarskap
 **Course Name:** Coaching Powerlifting

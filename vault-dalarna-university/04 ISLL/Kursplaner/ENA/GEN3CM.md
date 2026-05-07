@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: b4bed0c853173512
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3CM
 up: "[[Engelska MOC]]"
 ---
 
 # GEN3CM
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3CM)
 
 **Kursnamn:** Engelska II med didaktisk inriktning
 **Course Name:** English II for Teacher Education Students

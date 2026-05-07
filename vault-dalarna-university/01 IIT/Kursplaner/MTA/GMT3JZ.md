@@ -10,10 +10,13 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT]
 scrape_hash: 45fe85410e784339
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JZ
 up: "[[Maskinteknik MOC]]"
 ---
 
 # GMT3JZ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JZ)
 
 **Kursnamn:** Fysik för tekniker
 **Course Name:** Physics for Technicians

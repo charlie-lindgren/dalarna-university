@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, KIA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: fa0a3efabdee471e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3CD
 up: "[[Kinesiska MOC]]"
 ---
 
 # GKI3CD
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3CD)
 
 **Kursnamn:** Kinesiska: Kandidatexamensarbete
 **Course Name:** Chinese: Bachelor’s Degree Thesis

@@ -10,10 +10,13 @@ amne_kod: "SOA"
 institution: "IKS"
 tags: [kursplan, SOA, IKS]
 scrape_hash: a98b3f79b30a607e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO36X
 up: "[[Sociologi MOC]]"
 ---
 
 # GSO36X
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO36X)
 
 **Kursnamn:** Digitalisering och samhälle
 **Course Name:** Digitalisation and Society

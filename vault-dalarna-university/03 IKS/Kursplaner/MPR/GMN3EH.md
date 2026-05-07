@@ -10,10 +10,13 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
 scrape_hash: f63b012d5fd35df8
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EH
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3EH
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EH)
 
 **Kursnamn:** TV-produktion och nyhetsmedier
 **Course Name:** TV Production and News Media

@@ -10,10 +10,13 @@ amne_kod: "ARA"
 institution: "ISLL"
 tags: [kursplan, ARA, ISLL]
 scrape_hash: 16c4fd5f40a7a4fb
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR39K
 up: "[[Arabiska MOC]]"
 ---
 
 # GAR39K
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR39K)
 
 **Kursnamn:** Modern arabisk ungdomslitteratur
 **Course Name:** Modern Arabic Young Adult Fiction

@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 8fa6ec09bb45a5d6
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2AB
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # APG2AB
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2AB)
 
 **Kursnamn:** Bedömning och betygssättning för ämneslärare årskurs 7-9 - AIL
 **Course Name:** Assessment and Grading for Secondary Teachers - School Years 7-9 - Work-Ingegrated programme

@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, NAA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: a7da1f3f549b071d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA2RY
 up: "[[Nationalekonomi MOC]]"
 ---
 
 # GNA2RY
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA2RY)
 
 **Kursnamn:** Statistik för ekonomer
 **Course Name:** Statistics for Economists

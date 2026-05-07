@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: e4baaf571040d23d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3E7
 up: "[[Engelska MOC]]"
 ---
 
 # GEN3E7
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3E7)
 
 **Kursnamn:** Brittisk och amerikansk litteratur- och idéhistoria
 **Course Name:** The History of British and American Literature and Ideas

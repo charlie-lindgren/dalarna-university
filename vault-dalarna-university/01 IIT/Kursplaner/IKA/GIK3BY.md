@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: cda8fca8b9309cdb
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK3BY
 up: "[[Informatik MOC]]"
 ---
 
 # GIK3BY
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK3BY)
 
 **Kursnamn:** Examensarbete för Högskoleexamen i Informatik
 **Course Name:** Thesis Project for Higher Education Diploma in Information Systems

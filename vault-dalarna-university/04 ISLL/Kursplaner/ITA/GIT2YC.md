@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, ITA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 3d63d28765ef439e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2YC
 up: "[[Italienska MOC]]"
 ---
 
 # GIT2YC
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2YC)
 
 **Kursnamn:** Italienska A: Textanalys, 1900-talets skönlitteratur
 **Course Name:** Italian A: Text Analysis, 20th Century Fiction

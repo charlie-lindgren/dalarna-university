@@ -10,10 +10,13 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
 scrape_hash: 338bb85a19a6ae13
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3ES
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3ES
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3ES)
 
 **Kursnamn:** Medieproduktion för beställare
 **Course Name:** Media Production for a Client

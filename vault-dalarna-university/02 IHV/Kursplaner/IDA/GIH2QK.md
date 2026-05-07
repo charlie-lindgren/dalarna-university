@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 1315147cd045b988
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2QK
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2QK
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2QK)
 
 **Kursnamn:** Tillämpad anatomi och idrottsfysiologi
 **Course Name:** Applied Anatomy and Exercise Physiology

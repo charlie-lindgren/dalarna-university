@@ -10,10 +10,13 @@ amne_kod: "RYA"
 institution: "ISLL"
 tags: [kursplan, RYA, ISLL]
 scrape_hash: e619ad17c2cc02d2
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY38R
 up: "[[Ryska MOC]]"
 ---
 
 # GRY38R
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY38R)
 
 **Kursnamn:** Ryska I: Grundläggande kurs 1
 **Course Name:** Russian I: Basic Course 1

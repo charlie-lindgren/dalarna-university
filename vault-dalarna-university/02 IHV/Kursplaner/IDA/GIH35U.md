@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: 1a3a2b5e31e4a418
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35U
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH35U
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35U)
 
 **Kursnamn:** Idrottsvetenskaplig metod
 **Course Name:** Sports Scientific Methodology

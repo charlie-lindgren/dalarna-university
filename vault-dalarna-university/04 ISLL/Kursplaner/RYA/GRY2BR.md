@@ -10,11 +10,14 @@ amne_kod: "RYA"
 institution: "ISLL"
 tags: [kursplan, RYA, ISLL, vilande]
 scrape_hash: a054f783d7e19953
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY2BR
 up: "[[Ryska MOC]]"
 cssclasses: [vilande]
 ---
 
 # GRY2BR
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY2BR)
 
 **Kursnamn:** Ryska V: Samtida rysk litteratur och kultur
 **Course Name:** Russian V: Contemporary Russian Literature and Culture

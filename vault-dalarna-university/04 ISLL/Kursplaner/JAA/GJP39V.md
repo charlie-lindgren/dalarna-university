@@ -10,10 +10,13 @@ amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
 scrape_hash: 1d2cc5b13572194e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP39V
 up: "[[Japanska MOC]]"
 ---
 
 # GJP39V
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP39V)
 
 **Kursnamn:** Nutida Japan: Kultur och samhälle
 **Course Name:** Modern Japan: Culture and Society

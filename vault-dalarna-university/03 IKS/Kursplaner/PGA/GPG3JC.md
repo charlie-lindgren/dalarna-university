@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 6615fada325479b7
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3JC
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG3JC
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3JC)
 
 **Kursnamn:** Utbildningssystemet i Sverige
 **Course Name:** The Swedish Education System

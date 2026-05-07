@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, TYA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 59dca4fa1dfba885
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY23C
 up: "[[Tyska MOC]]"
 ---
 
 # GTY23C
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY23C)
 
 **Kursnamn:** Tyskspråkig barn- och ungdomslitteratur
 **Course Name:** Children‘s and Young Adult Literature in German

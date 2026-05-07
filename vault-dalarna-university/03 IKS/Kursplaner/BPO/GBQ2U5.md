@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 030e73db1784e516
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2U5
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ2U5
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2U5)
 
 **Kursnamn:** Kvalificerad filmdesign i transmedia
 **Course Name:** High End Transmedia Filmmaking

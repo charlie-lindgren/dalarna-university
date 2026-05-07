@@ -10,10 +10,13 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT]
 scrape_hash: b2f534f5c5d4bd3a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3HZ
 up: "[[Maskinteknik MOC]]"
 ---
 
 # GMT3HZ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3HZ)
 
 **Kursnamn:** Assisterande produkter
 **Course Name:** Assistive products

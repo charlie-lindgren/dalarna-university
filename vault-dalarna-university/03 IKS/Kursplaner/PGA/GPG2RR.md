@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 0b03b972cf31dbd2
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2RR
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG2RR
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2RR)
 
 **Kursnamn:** Kunskap, lärande och bedömning
 **Course Name:** Knowledge, Learning and Assessment

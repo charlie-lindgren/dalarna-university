@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, KGA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 68db9574cc766f92
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG2CS
 up: "[[Kulturgeografi MOC]]"
 ---
 
 # GKG2CS
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG2CS)
 
 **Kursnamn:** Marknadsanalyser med hjälp av GIS
 **Course Name:** GIS Applied to Market Analyses

@@ -10,10 +10,13 @@ amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
 scrape_hash: c511c6beb52fc6da
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3JB
 up: "[[Tyska MOC]]"
 ---
 
 # GTY3JB
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3JB)
 
 **Kursnamn:** Tyska III med didaktisk inriktning
 **Course Name:** German III for Teacher Education Students

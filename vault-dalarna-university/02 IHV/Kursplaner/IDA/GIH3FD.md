@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: d713a9da193c1722
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3FD
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3FD
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3FD)
 
 **Kursnamn:** Träningslära
 **Course Name:** Training Principles and Practice

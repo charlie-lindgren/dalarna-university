@@ -10,10 +10,13 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: b0920b3716ea0814
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2XF
 up: "[[Byggteknik MOC]]"
 ---
 
 # GBY2XF
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2XF)
 
 **Kursnamn:** Husbyggnadsprojekt II – Byggprojekt stora byggnader
 **Course Name:** Housing Construction Project II - Building Project Large Buildings

@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 72390ab9b886d411
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG33D
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG33D
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG33D)
 
 **Kursnamn:** Utveckling, lärande och ledarskap - VAL
 **Course Name:** Development, Learning and Leadership - Professional Qualification Course for Teachers

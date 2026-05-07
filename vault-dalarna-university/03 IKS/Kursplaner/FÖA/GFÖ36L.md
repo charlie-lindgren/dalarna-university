@@ -10,10 +10,13 @@ amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
 scrape_hash: a8fab8a1006b1d31
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ36L
 up: "[[Företagsekonomi MOC]]"
 ---
 
 # GFÖ36L
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ36L)
 
 **Kursnamn:** Kommunikation i en interkulturell affärsmiljö
 **Course Name:** Communication in an Intercultural Business Environment

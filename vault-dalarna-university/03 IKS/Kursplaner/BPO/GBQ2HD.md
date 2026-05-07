@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 2e7bf7e9919704f8
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2HD
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ2HD
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2HD)
 
 **Kursnamn:** Grunderna i filmproduktion för Manus för film och TV
 **Course Name:** The Basics of Film Production for Scriptwriting for Film & TV

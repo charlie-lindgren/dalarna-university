@@ -10,10 +10,13 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
 scrape_hash: 4bcb4e1b1692c188
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3GS
 up: "[[Franska MOC]]"
 ---
 
 # GFR3GS
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3GS)
 
 **Kursnamn:** Franska III: Språkhistoria
 **Course Name:** French III: History of the French Language

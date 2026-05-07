@@ -10,10 +10,13 @@ amne_kod: "MCA"
 institution: "IHV"
 tags: [kursplan, MCA, IHV]
 scrape_hash: ee7afdd9623cebdf
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC32X
 up: "[[Medicinsk vetenskap MOC]]"
 ---
 
 # GMC32X
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC32X)
 
 **Kursnamn:** Vård och behandling vid blås- och tarmdysfunktion
 **Course Name:** Care and Treatment of Bladder and Bowel Dysfunction

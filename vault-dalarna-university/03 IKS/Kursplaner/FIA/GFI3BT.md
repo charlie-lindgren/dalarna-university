@@ -10,10 +10,13 @@ amne_kod: "FIA"
 institution: "IKS"
 tags: [kursplan, FIA, IKS]
 scrape_hash: bfdf76a0b12a741b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFI3BT
 up: "[[Filosofi MOC]]"
 ---
 
 # GFI3BT
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFI3BT)
 
 **Kursnamn:** Introduktion till hermeneutiken
 **Course Name:** Introduction to Hermeneutics

@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, RYA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: be800984ea3a63f1
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY36G
 up: "[[Ryska MOC]]"
 ---
 
 # GRY36G
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY36G)
 
 **Kursnamn:** Introduktion till rysk film
 **Course Name:** Introduction to Russian Cinema

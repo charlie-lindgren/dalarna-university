@@ -10,10 +10,13 @@ amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
 scrape_hash: 0304b4da1ef4cf4b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2W5
 up: "[[Tyska MOC]]"
 ---
 
 # GTY2W5
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2W5)
 
 **Kursnamn:** Tyska: Skriftlig språkfärdighet I
 **Course Name:** German: Written Language Proficiency I

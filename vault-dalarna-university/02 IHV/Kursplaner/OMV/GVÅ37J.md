@@ -10,10 +10,13 @@ amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
 scrape_hash: cdeba0d931b7f299
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ37J
 up: "[[Omvårdnad MOC]]"
 ---
 
 # GVÅ37J
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ37J)
 
 **Kursnamn:** Omvårdnadsprocessen och kliniska färdigheter
 **Course Name:** The Nursing Process and Clinical Skills

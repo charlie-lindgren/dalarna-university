@@ -10,10 +10,13 @@ amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL]
 scrape_hash: 479ee9eb713b4682
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TQ
 up: "[[Italienska MOC]]"
 ---
 
 # GIT2TQ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TQ)
 
 **Kursnamn:** Italienska A: Textanalys, en litterär resa i mellersta Italien
 **Course Name:** Italian A: Text Analysis, a Literary Journey in Central Italy

@@ -10,10 +10,13 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
 scrape_hash: ea2fe5ccad7f28b8
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2RE
 up: "[[Socialt arbete MOC]]"
 ---
 
 # GSA2RE
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2RE)
 
 **Kursnamn:** Socialpolitikens betydelse för socialt arbete
 **Course Name:** The Importance of Social Policy for Social Work

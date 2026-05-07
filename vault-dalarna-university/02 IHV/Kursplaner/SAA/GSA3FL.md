@@ -10,10 +10,13 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
 scrape_hash: 9d8cb5ad08d05f4a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3FL
 up: "[[Socialt arbete MOC]]"
 ---
 
 # GSA3FL
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3FL)
 
 **Kursnamn:** Organisation, grupp och samverkan
 **Course Name:** Organisation, Group and Collaboration

@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: bc6163c730c7dafa
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG24D
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # APG24D
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG24D)
 
 **Kursnamn:** Bedömning och betygssättning för ämneslärare
 **Course Name:** Assessment and Grading for Teachers in Secondary School

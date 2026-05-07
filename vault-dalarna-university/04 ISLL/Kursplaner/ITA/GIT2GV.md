@@ -10,10 +10,13 @@ amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL]
 scrape_hash: 492234aba26b81a9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2GV
 up: "[[Italienska MOC]]"
 ---
 
 # GIT2GV
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2GV)
 
 **Kursnamn:** Italienska C: Äldre litteratur med textanalys
 **Course Name:** Italian C: Older Literature with Text Analysis

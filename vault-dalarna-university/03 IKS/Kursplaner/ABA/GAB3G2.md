@@ -10,10 +10,13 @@ amne_kod: "ABA"
 institution: "IKS"
 tags: [kursplan, ABA, IKS]
 scrape_hash: cb0b0a8804d78991
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3G2
 up: "[[Arbetsvetenskap MOC]]"
 ---
 
 # GAB3G2
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3G2)
 
 **Kursnamn:** Kompetensförsörjning
 **Course Name:** Competence Supply

@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: a6d14568da931039
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2UR
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2UR
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2UR)
 
 **Kursnamn:** Grundläggande vetenskaplig metod
 **Course Name:** Basic Scientific Method

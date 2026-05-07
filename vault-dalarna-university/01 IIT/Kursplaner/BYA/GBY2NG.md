@@ -10,10 +10,13 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: ed28a4f01a23f661
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2NG
 up: "[[Byggteknik MOC]]"
 ---
 
 # GBY2NG
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2NG)
 
 **Kursnamn:** Byggplanering och arbetsmiljö
 **Course Name:** Construction Management and Working Environment

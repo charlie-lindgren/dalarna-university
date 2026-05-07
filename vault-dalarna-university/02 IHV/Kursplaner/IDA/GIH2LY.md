@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 93bbf2b3df55e6a6
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2LY
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2LY
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2LY)
 
 **Kursnamn:** Motorisk kontroll och lärande (styrkelyft)
 **Course Name:** Motor Control and Learning (Powerlifting)

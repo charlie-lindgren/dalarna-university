@@ -10,10 +10,13 @@ amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
 scrape_hash: 6965b1c687fa34ce
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ2WQ
 up: "[[Företagsekonomi MOC]]"
 ---
 
 # GFÖ2WQ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ2WQ)
 
 **Kursnamn:** Examensarbete för kandidatexamen i företagsekonomi
 **Course Name:** Thesis for Bachelor Degree in Business Administration

@@ -10,10 +10,13 @@ amne_kod: "HIA"
 institution: "IKS"
 tags: [kursplan, HIA, IKS]
 scrape_hash: 56c2d0a802b336c0
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3JX
 up: "[[Historia MOC]]"
 ---
 
 # GHI3JX
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3JX)
 
 **Kursnamn:** Historia III med didaktisk inriktning för utökad behörighet mot gymnasieskolan
 **Course Name:** History III for Teacher Students for Upper Seconday School

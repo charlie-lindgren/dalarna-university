@@ -10,10 +10,13 @@ amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV]
 scrape_hash: 0fe6628f7321d8d3
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CK
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
 
 # ASR2CK
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CK)
 
 **Kursnamn:** Hälso- och sjukvårdssystemforskning i låg-, medel- och höginkomstkontext
 **Course Name:** Health Care System Research in Low-, Middle- and High-Income Settings

@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: 19397826038a961a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2LP
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2LP
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2LP)
 
 **Kursnamn:** Tränarskap, idrott, friluftsliv och hälsa i samhället
 **Course Name:** Coaching, Sports, Outdoor Life and Health Within Society

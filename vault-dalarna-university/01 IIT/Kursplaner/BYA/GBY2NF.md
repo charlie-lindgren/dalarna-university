@@ -10,10 +10,13 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: 71a2d927ae1321d0
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2NF
 up: "[[Byggteknik MOC]]"
 ---
 
 # GBY2NF
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2NF)
 
 **Kursnamn:** Byggkonstruktioner
 **Course Name:** Structural Engineering

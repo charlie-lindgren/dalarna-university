@@ -10,10 +10,13 @@ amne_kod: "MCA"
 institution: "IHV"
 tags: [kursplan, MCA, IHV]
 scrape_hash: e07a61eb5b1c9c09
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC37T
 up: "[[Medicinsk vetenskap MOC]]"
 ---
 
 # GMC37T
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC37T)
 
 **Kursnamn:** Anatomi och fysiologi för sjuksköterskor I
 **Course Name:** Anatomy and Physiology for Registered Nurses I

@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, SPA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: e49dca08537a5091
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP39N
 up: "[[Spanska MOC]]"
 ---
 
 # GSP39N
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP39N)
 
 **Kursnamn:** Spanska: Förberedande kurs
 **Course Name:** Spanish: Basic Course

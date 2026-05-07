@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 199aa811342dde3c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2AC
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # APG2AC
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2AC)
 
 **Kursnamn:** Rektors pedagogiska ledarskap med fokus på förskolans utbildningsuppdrag
 **Course Name:** The Principal´s Educational Leadership with Focus on the Preschool´s Educational Mission

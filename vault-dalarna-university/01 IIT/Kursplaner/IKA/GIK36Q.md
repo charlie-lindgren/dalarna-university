@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: 0cdbb50db936e9ad
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK36Q
 up: "[[Informatik MOC]]"
 ---
 
 # GIK36Q
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK36Q)
 
 **Kursnamn:** Kollaborativt projekt
 **Course Name:** Collaborative Project

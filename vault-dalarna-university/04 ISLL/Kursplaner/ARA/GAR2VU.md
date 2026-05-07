@@ -10,10 +10,13 @@ amne_kod: "ARA"
 institution: "ISLL"
 tags: [kursplan, ARA, ISLL]
 scrape_hash: 046d398151470e3e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR2VU
 up: "[[Arabiska MOC]]"
 ---
 
 # GAR2VU
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR2VU)
 
 **Kursnamn:** Arabiska: Att skriva akademiskt
 **Course Name:** Arabic: Academic Writing

@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, SSA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: b82e21b285f819c9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2J5
 up: "[[Svenska som andraspråk MOC]]"
 ---
 
 # GSS2J5
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2J5)
 
 **Kursnamn:** Svenska i vardags-, samhälls- och arbetsliv för internationella studenter
 **Course Name:** Swedish for International Students: Life, Society and Work

@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: f493b0604bc6e40a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2FB
 up: "[[Informatik MOC]]"
 ---
 
 # GIK2FB
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2FB)
 
 **Kursnamn:** Artificiell Intelligens
 **Course Name:** Artificial Intelligence

@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: 5daa02bee2ea75b1
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BX
 up: "[[Engelska MOC]]"
 ---
 
 # AEN2BX
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BX)
 
 **Kursnamn:** Världslitteraturer: Asien och Europa
 **Course Name:** World Literatures: Asia and Europe

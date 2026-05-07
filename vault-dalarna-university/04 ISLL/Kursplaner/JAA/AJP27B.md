@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, JAA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 620f347f877d771e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP27B
 up: "[[Japanska MOC]]"
 ---
 
 # AJP27B
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP27B)
 
 **Kursnamn:** Interkulturella litteraturstudier: Akademisk läsning
 **Course Name:** Intercultural Literature Studies: Academic Reading

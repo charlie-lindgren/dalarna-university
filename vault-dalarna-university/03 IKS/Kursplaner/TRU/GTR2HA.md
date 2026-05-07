@@ -10,10 +10,13 @@ amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
 scrape_hash: 16618d3c1c52461f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2HA
 up: "[[Turismvetenskap MOC]]"
 ---
 
 # GTR2HA
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2HA)
 
 **Kursnamn:** Verksamhetsförlagt projekt i Turismvetenskap
 **Course Name:** Applied Project in Tourism

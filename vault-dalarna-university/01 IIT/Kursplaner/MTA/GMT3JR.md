@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MTA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: ff6c75909137c89f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JR
 up: "[[Maskinteknik MOC]]"
 ---
 
 # GMT3JR
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JR)
 
 **Kursnamn:** Termodynamik
 **Course Name:** Thermodynamics

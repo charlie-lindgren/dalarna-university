@@ -10,10 +10,13 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
 scrape_hash: 11f1e9cd3fe108d7
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HD
 up: "[[Svenska som andraspråk MOC]]"
 ---
 
 # GSS3HD
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HD)
 
 **Kursnamn:** Språkdidaktik med fokus på modersmål och flerspråkighet
 **Course Name:** Language Didactics with a Focus on the Mother Tongue and Multilingualism

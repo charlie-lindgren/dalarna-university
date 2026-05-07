@@ -10,10 +10,13 @@ amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV]
 scrape_hash: 5d922804047f1cc2
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29W
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
 
 # ASR29W
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29W)
 
 **Kursnamn:** Förlossningsvård I, verksamhetsförlagd utbildning
 **Course Name:** Care in Childbirth I, Clinical Practice

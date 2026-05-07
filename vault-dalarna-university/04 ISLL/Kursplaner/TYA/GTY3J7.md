@@ -10,10 +10,13 @@ amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
 scrape_hash: 3d56dcf2e42bcd64
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3J7
 up: "[[Tyska MOC]]"
 ---
 
 # GTY3J7
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3J7)
 
 **Kursnamn:** Tyska II: Muntlig språkfärdighet och kulturkunskap
 **Course Name:** German II: Oral Language Proficiency and Cultural Studies

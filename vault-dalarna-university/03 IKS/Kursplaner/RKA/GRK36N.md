@@ -10,10 +10,13 @@ amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
 scrape_hash: a92bc42b13c389d6
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK36N
 up: "[[Religionsvetenskap MOC]]"
 ---
 
 # GRK36N
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK36N)
 
 **Kursnamn:** Religionsvetenskap III: Uppsats med didaktisk inriktning
 **Course Name:** Religious Studies III: Essay with a didactic focus

@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 6ebb2c509e531b3b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2UN
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ2UN
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2UN)
 
 **Kursnamn:** Filmanalys och gestaltning
 **Course Name:** Film Analysis and screenwriting

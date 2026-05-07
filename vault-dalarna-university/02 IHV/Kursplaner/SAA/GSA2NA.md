@@ -10,10 +10,13 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
 scrape_hash: 814c7b71c3b81c28
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2NA
 up: "[[Socialt arbete MOC]]"
 ---
 
 # GSA2NA
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2NA)
 
 **Kursnamn:** Introduktion till vetenskapligt arbete
 **Course Name:** Introduction to Scientific Work

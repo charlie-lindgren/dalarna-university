@@ -10,10 +10,13 @@ amne_kod: "RYA"
 institution: "ISLL"
 tags: [kursplan, RYA, ISLL]
 scrape_hash: 3a30ebb63acb0c2d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY2BS
 up: "[[Ryska MOC]]"
 ---
 
 # GRY2BS
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY2BS)
 
 **Kursnamn:** Ryska V: Kandidatexamensarbete
 **Course Name:** Russian V: Bachelor Degree Thesis

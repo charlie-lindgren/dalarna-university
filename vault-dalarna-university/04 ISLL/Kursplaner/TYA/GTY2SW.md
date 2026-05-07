@@ -10,10 +10,13 @@ amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
 scrape_hash: 34273583122b9014
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2SW
 up: "[[Tyska MOC]]"
 ---
 
 # GTY2SW
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2SW)
 
 **Kursnamn:** Tyska: Modern tyskspråkig litteratur
 **Course Name:** German: Modern German Literature

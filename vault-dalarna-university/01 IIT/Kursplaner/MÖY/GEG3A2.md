@@ -10,10 +10,13 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: 52cf045ea6f27d79
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG3A2
 up: "[[Energiteknik MOC]]"
 ---
 
 # GEG3A2
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG3A2)
 
 **Kursnamn:** Solel (grundnivå)
 **Course Name:** Photovoltaics (First Cycle)

@@ -10,10 +10,13 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS]
 scrape_hash: e8136ec554814a25
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ36K
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ36K
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ36K)
 
 **Kursnamn:** Flerkameraproduktion, fördjupning
 **Course Name:** Multi-Camera Production, Specialisation Course

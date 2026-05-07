@@ -10,10 +10,13 @@ amne_kod: "LPU"
 institution: "IKS"
 tags: [kursplan, LPU, IKS]
 scrape_hash: c0060a27d526acea
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP32S
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
 
 # GLP32S
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP32S)
 
 **Kursnamn:** Arbetsplatsförlagd utbildning i medieproduktion
 **Course Name:** Media Production in the Workplace

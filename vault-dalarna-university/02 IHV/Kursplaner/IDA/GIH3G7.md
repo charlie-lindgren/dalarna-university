@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: fc146da30ec561f8
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G7
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3G7
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G7)
 
 **Kursnamn:** Prestationsanalys och träningsplanering
 **Course Name:** Performance analysis and training planning

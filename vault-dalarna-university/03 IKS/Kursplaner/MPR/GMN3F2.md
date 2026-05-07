@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, MPR, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 28cf1c5943097c67
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3F2
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3F2
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3F2)
 
 **Kursnamn:** Exponeringsprojekt inom Medieproduktion
 **Course Name:** Exposure Project in Media Production

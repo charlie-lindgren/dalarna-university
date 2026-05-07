@@ -10,10 +10,13 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
 scrape_hash: e4dcd2c855663a37
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3BS
 up: "[[Franska MOC]]"
 ---
 
 # GFR3BS
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3BS)
 
 **Kursnamn:** Franska III med didaktisk inriktning för gymnasieskolan
 **Course Name:** French III for Teacher Students for Upper Secondary School

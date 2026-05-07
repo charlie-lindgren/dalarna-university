@@ -10,10 +10,13 @@ amne_kod: "PEE"
 institution: "IKS"
 tags: [kursplan, PEE, IKS]
 scrape_hash: ea21fa142de68212
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA32E
 up: "[[Personal och arbetsliv MOC]]"
 ---
 
 # GPA32E
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA32E)
 
 **Kursnamn:** Kollektiva lärprocesser och lärande organisation
 **Course Name:** Processes of Collective Learning and Learning Organisations

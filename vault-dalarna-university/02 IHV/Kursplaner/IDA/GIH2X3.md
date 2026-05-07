@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: f9e3ab323d8ccdcc
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2X3
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2X3
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2X3)
 
 **Kursnamn:** Träningslära för tävlingsinriktad idrott
 **Course Name:** Training Science for Performance Sport

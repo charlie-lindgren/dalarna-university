@@ -10,10 +10,13 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
 scrape_hash: 09eeb4cf6b004776
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2C4
 up: "[[Svenska som andraspråk MOC]]"
 ---
 
 # GSS2C4
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2C4)
 
 **Kursnamn:** Bedömning och respons i ett andraspråksperspektiv
 **Course Name:** Assessment and Feedback in a Second Language Perspective

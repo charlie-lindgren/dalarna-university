@@ -10,10 +10,13 @@ amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
 scrape_hash: 17261bf42a175121
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATR2BB
 up: "[[Turismvetenskap MOC]]"
 ---
 
 # ATR2BB
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATR2BB)
 
 **Kursnamn:** Examensarbete för masterexamen i turismvetenskap
 **Course Name:** Master’s Degree Thesis in Tourism Studies

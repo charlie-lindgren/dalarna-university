@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: a5416cef47cc0f86
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CL
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG3CL
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CL)
 
 **Kursnamn:** Samhällsorienterande ämnen, årskurs 4-6
 **Course Name:** Social Studies Subjects, Primary School Years 4-6

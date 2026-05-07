@@ -10,10 +10,13 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT]
 scrape_hash: 9929da23cdd56df2
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34A
 up: "[[Maskinteknik MOC]]"
 ---
 
 # GMT34A
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34A)
 
 **Kursnamn:** Additiv tillverkning (3D printing)
 **Course Name:** Additive Manufacturing (3D printing)

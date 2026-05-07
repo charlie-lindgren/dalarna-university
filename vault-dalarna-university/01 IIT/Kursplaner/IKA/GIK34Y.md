@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: b59c894296211ef8
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK34Y
 up: "[[Informatik MOC]]"
 ---
 
 # GIK34Y
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK34Y)
 
 **Kursnamn:** Forskningsmetodik
 **Course Name:** Research Methodology

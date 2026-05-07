@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: a43b62df9c08acab
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2WH
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ2WH
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2WH)
 
 **Kursnamn:** Tillämpad filmdesign 2
 **Course Name:** Applied Film Design 2

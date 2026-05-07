@@ -10,10 +10,13 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: d8ba7a31653c3c0b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY37D
 up: "[[Byggteknik MOC]]"
 ---
 
 # GBY37D
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY37D)
 
 **Kursnamn:** Byggstatik och hållfasthetslära
 **Course Name:** Structural Design and Strength

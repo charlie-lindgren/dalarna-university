@@ -9,10 +9,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: 7713e168b40d5c78
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2NX
 up: "[[Informatik MOC]]"
 ---
 
 # GIK2NX
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2NX)
 
 **Kursnamn:** Distributed Computing
 

@@ -10,10 +10,13 @@ amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
 scrape_hash: bd23711265bf8c43
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI23G
 up: "[[Mikrodataanalys MOC]]"
 ---
 
 # GMI23G
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI23G)
 
 **Kursnamn:** Logik och matematik för datavetenskap
 **Course Name:** Logic and Mathematics for Computer Science

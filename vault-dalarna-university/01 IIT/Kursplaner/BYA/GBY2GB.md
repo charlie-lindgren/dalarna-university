@@ -10,10 +10,13 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: 853ce0808f727fd6
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2GB
 up: "[[Byggteknik MOC]]"
 ---
 
 # GBY2GB
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2GB)
 
 **Kursnamn:** Digitala ritverktyg
 **Course Name:** Digital Drawing Tools

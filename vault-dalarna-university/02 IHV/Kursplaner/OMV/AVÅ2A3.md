@@ -10,10 +10,13 @@ amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
 scrape_hash: 3522c339ef3f22d0
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ2A3
 up: "[[Omvårdnad MOC]]"
 ---
 
 # AVÅ2A3
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ2A3)
 
 **Kursnamn:** Evidensbaserad vård och ledarskap
 **Course Name:** Evidence Based Practice and Leadership

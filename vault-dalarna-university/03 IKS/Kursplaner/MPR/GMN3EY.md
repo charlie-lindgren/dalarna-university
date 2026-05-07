@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, MPR, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 6e5e673ccf25c5a9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EY
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3EY
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EY)
 
 **Kursnamn:** Vetenskapsteori och metod i Medieproduktion
 **Course Name:** Theory of Science and Method in Media Production

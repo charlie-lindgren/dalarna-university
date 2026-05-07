@@ -10,10 +10,13 @@ amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
 scrape_hash: 96c498a893a734e1
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI22Z
 up: "[[Mikrodataanalys MOC]]"
 ---
 
 # AMI22Z
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI22Z)
 
 **Kursnamn:** Riskanalys
 **Course Name:** Risk Analysis

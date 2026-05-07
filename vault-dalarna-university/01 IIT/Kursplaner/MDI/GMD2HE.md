@@ -10,10 +10,13 @@ amne_kod: "MDI"
 institution: "IIT"
 tags: [kursplan, MDI, IIT]
 scrape_hash: 21bf43ed2f5ef9d7
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2HE
 up: "[[Matematikdidaktik MOC]]"
 ---
 
 # GMD2HE
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2HE)
 
 **Kursnamn:** Matematik 1a för grundlärare F-3
 **Course Name:** Mathematics 1a for Primary School Teachers in Pre-School and Years 1-3

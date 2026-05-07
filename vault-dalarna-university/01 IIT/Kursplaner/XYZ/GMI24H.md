@@ -10,10 +10,13 @@ amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
 scrape_hash: 79bab3c45dd7ef10
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI24H
 up: "[[Mikrodataanalys MOC]]"
 ---
 
 # GMI24H
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI24H)
 
 **Kursnamn:** Algoritmer och mjukvarudesign
 **Course Name:** Algorithms and Software Design

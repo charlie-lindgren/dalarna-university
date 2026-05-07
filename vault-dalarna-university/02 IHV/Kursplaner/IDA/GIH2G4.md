@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: ccfc6071c7ee3569
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2G4
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2G4
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2G4)
 
 **Kursnamn:** Tillämpad rörelse- och prestationsanalys
 **Course Name:** Applied Movement and Performance Analysis

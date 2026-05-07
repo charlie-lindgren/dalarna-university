@@ -10,10 +10,13 @@ amne_kod: "SQQ"
 institution: "IIT"
 tags: [kursplan, SQQ, IIT]
 scrape_hash: 49741f4846ddadb5
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2Y2
 up: "[[Samhällsbyggnadsteknik MOC]]"
 ---
 
 # GSQ2Y2
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2Y2)
 
 **Kursnamn:** Vetenskaplig metod
 **Course Name:** Scientific Research Methods

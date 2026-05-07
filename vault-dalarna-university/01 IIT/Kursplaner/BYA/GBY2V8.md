@@ -10,10 +10,13 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: bfc71ae61a6bafd9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2V8
 up: "[[Byggteknik MOC]]"
 ---
 
 # GBY2V8
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2V8)
 
 **Kursnamn:** Konstruktionsteknik trä och stål
 **Course Name:** Structural Engineering Wood and Steel

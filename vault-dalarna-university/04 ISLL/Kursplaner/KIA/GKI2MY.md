@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, KIA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 0aaa144c14541649
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2MY
 up: "[[Kinesiska MOC]]"
 ---
 
 # GKI2MY
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2MY)
 
 **Kursnamn:** Kinesiska II med didaktisk inriktning
 **Course Name:** Chinese II for Teacher Education Students

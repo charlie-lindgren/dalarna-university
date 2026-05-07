@@ -10,10 +10,13 @@ amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL]
 scrape_hash: ebdd50f2fcdd14d7
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TE
 up: "[[Italienska MOC]]"
 ---
 
 # GIT2TE
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TE)
 
 **Kursnamn:** Italienska A: Fonetik och muntlig språkfärdighet
 **Course Name:** Italian A: Phonetics and Oral Proficiency

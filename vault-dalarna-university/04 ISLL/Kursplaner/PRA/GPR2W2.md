@@ -10,10 +10,13 @@ amne_kod: "PRA"
 institution: "ISLL"
 tags: [kursplan, PRA, ISLL]
 scrape_hash: e39f63cfa93a8c18
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR2W2
 up: "[[Portugisiska MOC]]"
 ---
 
 # GPR2W2
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR2W2)
 
 **Kursnamn:** Portugisiska: Språk i samhället – teoretiska perspektiv
 **Course Name:** Portuguese: Language in Society – Theoretical Perspectives

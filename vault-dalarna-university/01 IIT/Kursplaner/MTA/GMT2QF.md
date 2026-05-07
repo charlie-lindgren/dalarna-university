@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MTA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 9f9537034f97c938
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT2QF
 up: "[[Maskinteknik MOC]]"
 ---
 
 # GMT2QF
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT2QF)
 
 **Kursnamn:** Finita element metoden i praktiken
 **Course Name:** Finite Element Analysis in Practice

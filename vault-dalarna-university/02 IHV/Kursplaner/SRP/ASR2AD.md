@@ -10,10 +10,13 @@ amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV]
 scrape_hash: add481d97140b24b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2AD
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
 
 # ASR2AD
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2AD)
 
 **Kursnamn:** Graviditet, förlossning och postpartumvård II
 **Course Name:** Pregnancy, Childbirth and Postpartum Care II

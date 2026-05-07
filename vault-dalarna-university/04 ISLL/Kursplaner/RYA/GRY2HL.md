@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, RYA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 81a99f3629f4cf8f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY2HL
 up: "[[Ryska MOC]]"
 ---
 
 # GRY2HL
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY2HL)
 
 **Kursnamn:** Introduktion till rysk opera 1
 **Course Name:** Introduction to Russian Opera 1

@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 82f30c46711a0787
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2Z6
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG2Z6
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2Z6)
 
 **Kursnamn:** Sociala relationer och konflikthantering - VAL
 **Course Name:** Social Relations and Conflict Management - Continuing Professional Development for Teachers

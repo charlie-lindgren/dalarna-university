@@ -10,10 +10,13 @@ amne_kod: "SQQ"
 institution: "IIT"
 tags: [kursplan, SQQ, IIT]
 scrape_hash: b319151a2864eb6c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2VY
 up: "[[Samhällsbyggnadsteknik MOC]]"
 ---
 
 # GSQ2VY
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2VY)
 
 **Kursnamn:** Demografisk och social planering
 **Course Name:** Demographic and Social Planning

@@ -10,10 +10,13 @@ amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
 scrape_hash: 135a6831e3b8638b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR22D
 up: "[[Turismvetenskap MOC]]"
 ---
 
 # GTR22D
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR22D)
 
 **Kursnamn:** Samhällsvetenskaplig forskningsmetod
 **Course Name:** Research and Knowledge for the Social Sciences

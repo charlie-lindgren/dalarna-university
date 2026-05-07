@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: fe5d45fdd47e70e9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2LW
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2LW
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2LW)
 
 **Kursnamn:** Tränings- och tävlingslära (styrkelyft)
 **Course Name:** Methodology of Training and Competition (Powerlifting)

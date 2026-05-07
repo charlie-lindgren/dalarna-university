@@ -10,10 +10,13 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS]
 scrape_hash: 10dc7fef45c947b4
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABQ2B4
 up: "[[Bildproduktion MOC]]"
 ---
 
 # ABQ2B4
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABQ2B4)
 
 **Kursnamn:** Magisterexamensarbete i Audiovisuella studier
 **Course Name:** One Year Master Degree Thesis in Audiovisual Studies

@@ -10,10 +10,13 @@ amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
 scrape_hash: 4900f366b83ef091
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3JA
 up: "[[Tyska MOC]]"
 ---
 
 # GTY3JA
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3JA)
 
 **Kursnamn:** Tyska III: Introduktion till tysk språkvetenskap
 **Course Name:** German III: Introduction to German Linguistics

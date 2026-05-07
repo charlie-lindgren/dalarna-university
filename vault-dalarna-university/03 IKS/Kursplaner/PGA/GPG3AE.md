@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 85ceda05b32663f1
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AE
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG3AE
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AE)
 
 **Kursnamn:** Utveckling och lärande för ämneslärare årskurs 7-9 - AIL
 **Course Name:** Development and Learning for Secondary Teachers, School Years 7-9 - Work-Integrated Programme

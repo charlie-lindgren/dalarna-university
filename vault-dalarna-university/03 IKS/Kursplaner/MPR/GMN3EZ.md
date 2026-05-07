@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, MPR, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 4a248e35428f7002
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EZ
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3EZ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EZ)
 
 **Kursnamn:** Kandidatexamensarbete i Medieproduktion
 **Course Name:** Bachelor’s Thesis in Media Production

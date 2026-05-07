@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, NAV, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 9b71f39494834f82
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV2KY
 up: "[[Naturvetenskap MOC]]"
 ---
 
 # GNV2KY
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV2KY)
 
 **Kursnamn:** Naturvetenskap och teknik i förskolan - med didaktisk inriktning
 **Course Name:** Science and Technology in Preschool - with Specialisation in Didactics

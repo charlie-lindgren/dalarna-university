@@ -10,10 +10,13 @@ amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
 scrape_hash: 4949164dbe3f78ae
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ28K
 up: "[[Omvårdnad MOC]]"
 ---
 
 # AVÅ28K
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ28K)
 
 **Kursnamn:** Personcentrerad vård vid multisjuklighet, psykisk ohälsa och demenssjukdom
 **Course Name:** Person-Centred Care In Cases of Comorbidity, Mental Illness And Dementia

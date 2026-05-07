@@ -10,10 +10,13 @@ amne_kod: "KIA"
 institution: "ISLL"
 tags: [kursplan, KIA, ISLL]
 scrape_hash: ea601c94e73b7a6e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2HT
 up: "[[Kinesiska MOC]]"
 ---
 
 # GKI2HT
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2HT)
 
 **Kursnamn:** Kinesisk lingvistik
 **Course Name:** Chinese Linguistics

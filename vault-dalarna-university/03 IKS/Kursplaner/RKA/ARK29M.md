@@ -10,10 +10,13 @@ amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
 scrape_hash: a4173999569c9622
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29M
 up: "[[Religionsvetenskap MOC]]"
 ---
 
 # ARK29M
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29M)
 
 **Kursnamn:** Examensarbete, magisterexamen i religionsvetenskap
 **Course Name:** Master‘s Degree Thesis in Religious Studies

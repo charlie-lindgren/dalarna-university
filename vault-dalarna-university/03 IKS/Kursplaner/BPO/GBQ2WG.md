@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: b755ca5a90e77846
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2WG
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ2WG
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2WG)
 
 **Kursnamn:** Audiovisuell information och etik
 **Course Name:** Audiovisual Information and Ethics

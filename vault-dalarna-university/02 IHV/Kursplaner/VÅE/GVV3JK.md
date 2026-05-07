@@ -10,10 +10,13 @@ amne_kod: "VÅE"
 institution: "IHV"
 tags: [kursplan, VÅE, IHV]
 scrape_hash: b8c2bc19e9ead66b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVV3JK
 up: "[[Vårdvetenskap MOC]]"
 ---
 
 # GVV3JK
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVV3JK)
 
 **Kursnamn:** Mätmetoder för tillämpningar inom assisterande teknik
 **Course Name:** Measurement methods for applications in assistive technology

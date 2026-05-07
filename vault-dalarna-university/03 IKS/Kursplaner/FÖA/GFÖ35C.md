@@ -10,10 +10,13 @@ amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
 scrape_hash: 3dcb219e60523545
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ35C
 up: "[[Företagsekonomi MOC]]"
 ---
 
 # GFÖ35C
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ35C)
 
 **Kursnamn:** Ekonomistyrning, grundläggande
 **Course Name:** Management Accounting

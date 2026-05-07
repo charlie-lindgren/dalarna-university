@@ -10,10 +10,13 @@ amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV]
 scrape_hash: 3936ca15f46afabb
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CG
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
 
 # ASR2CG
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CG)
 
 **Kursnamn:** Strategier för implementering av förbättringsarbete i hälso- och sjukvård
 **Course Name:** Strategies for Implementing Quality Improvements in Health Care Settings

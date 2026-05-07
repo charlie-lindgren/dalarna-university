@@ -10,10 +10,13 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: 81a387f47c1261a0
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG3FM
 up: "[[Energiteknik MOC]]"
 ---
 
 # GEG3FM
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG3FM)
 
 **Kursnamn:** Vetenskaplig metodik och kommunikation
 **Course Name:** Scientific Method and Communication

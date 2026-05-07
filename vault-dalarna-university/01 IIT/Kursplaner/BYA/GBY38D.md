@@ -10,10 +10,13 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: dc9625e43884e316
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY38D
 up: "[[Byggteknik MOC]]"
 ---
 
 # GBY38D
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY38D)
 
 **Kursnamn:** Geoteknik och konstruktionsteknik betong
 **Course Name:** Soil Mechanics and Structural Engineering Concrete

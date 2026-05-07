@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 015475bec8ad7f0e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2E7
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG2E7
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2E7)
 
 **Kursnamn:** Examensarbete för grundlärarexamen inriktning 4-6 del 1
 **Course Name:** Degree Thesis for Master of Arts in Education, Primary School Years 4-6, Part 1

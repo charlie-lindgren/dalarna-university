@@ -10,10 +10,13 @@ amne_kod: "SKA"
 institution: "IKS"
 tags: [kursplan, SKA, IKS]
 scrape_hash: 957ab4d4a420695a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASK22G
 up: "[[Statsvetenskap MOC]]"
 ---
 
 # ASK22G
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASK22G)
 
 **Kursnamn:** Transnationell integration och nationell fragmentering
 **Course Name:** Politics of Transnational Integration and National Fragmentation

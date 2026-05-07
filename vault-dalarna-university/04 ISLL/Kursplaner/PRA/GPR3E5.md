@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, PRA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: c86f852498fdc768
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR3E5
 up: "[[Portugisiska MOC]]"
 ---
 
 # GPR3E5
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR3E5)
 
 **Kursnamn:** Kommunikation på arbetsplatsen: Interkulturalitet och inkludering
 **Course Name:** Communication in the Workplace: Interculturality and Inclusion

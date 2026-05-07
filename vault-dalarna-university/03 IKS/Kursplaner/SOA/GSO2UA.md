@@ -10,10 +10,13 @@ amne_kod: "SOA"
 institution: "IKS"
 tags: [kursplan, SOA, IKS]
 scrape_hash: b820b2bcd0eb3a54
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO2UA
 up: "[[Sociologi MOC]]"
 ---
 
 # GSO2UA
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO2UA)
 
 **Kursnamn:** Sociologi I
 **Course Name:** Sociology I

@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 91336ac8b7996b11
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3AA
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ3AA
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3AA)
 
 **Kursnamn:** Filmhistoria: En introduktion
 **Course Name:** Film History: An Introduction

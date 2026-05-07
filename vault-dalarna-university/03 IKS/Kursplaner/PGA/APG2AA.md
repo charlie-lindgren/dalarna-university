@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: fba69df61e5ef90c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2AA
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # APG2AA
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2AA)
 
 **Kursnamn:** Lärarskicklighet - utveckling av lärarskicklighet i förskola och skola utifrån forskning
 **Course Name:** Teaching Expertise – Research-Based Development of Teaching Expertise in Preschool and School

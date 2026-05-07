@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: f7495d6ab1d7106a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2DC
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2DC
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2DC)
 
 **Kursnamn:** Biomekanik (Styrkelyft)
 **Course Name:** Biomechanics (Powerlifting)

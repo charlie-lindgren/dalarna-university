@@ -10,10 +10,13 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
 scrape_hash: efbf903424bb4af9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3HN
 up: "[[Franska MOC]]"
 ---
 
 # GFR3HN
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3HN)
 
 **Kursnamn:** Franska II med didaktisk inriktning
 **Course Name:** French II for Teacher Education Students

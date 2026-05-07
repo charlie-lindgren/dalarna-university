@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 986e8c1da71d640d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2U3
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ2U3
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2U3)
 
 **Kursnamn:** Människan och den rörliga bilden
 **Course Name:** Humankind and Moving Images

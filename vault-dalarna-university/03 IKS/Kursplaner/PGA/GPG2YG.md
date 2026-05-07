@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 7c3d11a6e00512d7
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2YG
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG2YG
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2YG)
 
 **Kursnamn:** Kommunikation och berättande i ett flerspråkigt klassrum för grundlärare årskurs F-3
 **Course Name:** Communication and Storytelling in a Multilingual Classroom for Primary School Teachers of Preschool - School Year 3

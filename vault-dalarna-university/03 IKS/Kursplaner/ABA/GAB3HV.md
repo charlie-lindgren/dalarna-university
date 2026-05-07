@@ -10,10 +10,13 @@ amne_kod: "ABA"
 institution: "IKS"
 tags: [kursplan, ABA, IKS]
 scrape_hash: 855541000e6d409f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3HV
 up: "[[Arbetsvetenskap MOC]]"
 ---
 
 # GAB3HV
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3HV)
 
 **Kursnamn:** Hållbar utveckling i personalarbetets praktik
 **Course Name:** Sustainable development in human resources practice

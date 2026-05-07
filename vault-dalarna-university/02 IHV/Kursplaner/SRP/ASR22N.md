@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, SRP, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 5f3ddf4f15b8e379
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR22N
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
 
 # ASR22N
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR22N)
 
 **Kursnamn:** Kvalitetsförbättringsarbete inom barnmorskans område för barnmorskelärare
 **Course Name:** Scholarly Project Completion in Sexual, Reproductive and Perinatal Health

@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, EUN, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 44acc6d2c371faa8
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU35N
 up: "[[Entreprenörskap och innovationsteknik MOC]]"
 ---
 
 # GEU35N
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU35N)
 
 **Kursnamn:** Projektledning II
 **Course Name:** Project Management II

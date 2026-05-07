@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: c296248e2b59284a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZB
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2ZB
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZB)
 
 **Kursnamn:** Hälsopedagogik (VAL)
 **Course Name:** Health Pedagogy (CPD For Teachers)

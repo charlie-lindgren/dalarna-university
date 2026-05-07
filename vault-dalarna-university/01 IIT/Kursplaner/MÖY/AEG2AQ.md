@@ -10,10 +10,13 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: 5cb486369b28abf0
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AQ
 up: "[[Energiteknik MOC]]"
 ---
 
 # AEG2AQ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AQ)
 
 **Kursnamn:** Samhällets energiomställning
 **Course Name:** Energy Transition in Society

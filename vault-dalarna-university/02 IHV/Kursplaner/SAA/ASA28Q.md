@@ -10,10 +10,13 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
 scrape_hash: cd29ce39c0f19e21
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA28Q
 up: "[[Socialt arbete MOC]]"
 ---
 
 # ASA28Q
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA28Q)
 
 **Kursnamn:** Äldre personers levnadsvillkor
 **Course Name:** Older Adults Living Conditions

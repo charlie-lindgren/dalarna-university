@@ -10,10 +10,13 @@ amne_kod: "PRA"
 institution: "ISLL"
 tags: [kursplan, PRA, ISLL]
 scrape_hash: e04471477dec757b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR3GR
 up: "[[Portugisiska MOC]]"
 ---
 
 # GPR3GR
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR3GR)
 
 **Kursnamn:** Kommunikation på arbetsplatsen: Interkulturalitet och inkludering
 **Course Name:** Communication in the Workplace: Interculturality and Inclusion

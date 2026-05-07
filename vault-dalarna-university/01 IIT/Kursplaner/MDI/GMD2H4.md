@@ -10,10 +10,13 @@ amne_kod: "MDI"
 institution: "IIT"
 tags: [kursplan, MDI, IIT]
 scrape_hash: c95744f6fa55525f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2H4
 up: "[[Matematikdidaktik MOC]]"
 ---
 
 # GMD2H4
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2H4)
 
 **Kursnamn:** Geometri
 **Course Name:** Geometry

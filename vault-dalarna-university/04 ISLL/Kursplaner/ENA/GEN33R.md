@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: 20d597df7175e9c9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN33R
 up: "[[Engelska MOC]]"
 ---
 
 # GEN33R
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN33R)
 
 **Kursnamn:** Engelskspråkig barn- och ungdomslitteratur
 **Course Name:** Children‘s and Young Adult Literature in English

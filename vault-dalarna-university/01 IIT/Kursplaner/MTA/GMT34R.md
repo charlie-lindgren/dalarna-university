@@ -10,10 +10,13 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT]
 scrape_hash: 77a19cb6b2587eef
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34R
 up: "[[Maskinteknik MOC]]"
 ---
 
 # GMT34R
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34R)
 
 **Kursnamn:** Materialprovning och materialanalys
 **Course Name:** Materials Testing and Analysis

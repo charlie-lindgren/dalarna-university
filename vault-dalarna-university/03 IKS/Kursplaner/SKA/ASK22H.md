@@ -10,10 +10,13 @@ amne_kod: "SKA"
 institution: "IKS"
 tags: [kursplan, SKA, IKS]
 scrape_hash: 89c247516a213d57
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASK22H
 up: "[[Statsvetenskap MOC]]"
 ---
 
 # ASK22H
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASK22H)
 
 **Kursnamn:** Statsbyggnad och medborgarskap
 **Course Name:** State Formation and Citizenship

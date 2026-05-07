@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, FRA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 4c6de0cabba94b2b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2KR
 up: "[[Franska MOC]]"
 ---
 
 # GFR2KR
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2KR)
 
 **Kursnamn:** Franska: Examensarbete för kandidatexamen
 **Course Name:** French: Bachelor Degree Thesis

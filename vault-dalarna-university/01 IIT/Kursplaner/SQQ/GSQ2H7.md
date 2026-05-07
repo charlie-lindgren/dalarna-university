@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, SQQ, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: e645161e1fbd4f55
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2H7
 up: "[[Samhällsbyggnadsteknik MOC]]"
 ---
 
 # GSQ2H7
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2H7)
 
 **Kursnamn:** Gestaltad livsmiljö
 **Course Name:** Designed Living Environment

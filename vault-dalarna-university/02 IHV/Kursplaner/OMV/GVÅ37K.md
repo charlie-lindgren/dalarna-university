@@ -10,10 +10,13 @@ amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
 scrape_hash: d44266a01e7e1115
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ37K
 up: "[[Omvårdnad MOC]]"
 ---
 
 # GVÅ37K
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ37K)
 
 **Kursnamn:** Personcentrerad omvårdnad inom äldreomsorg
 **Course Name:** Person-Centred Care for Older Persons

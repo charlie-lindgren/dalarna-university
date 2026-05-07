@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 97ac6e39b27fcb3b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2AZ
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ2AZ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2AZ)
 
 **Kursnamn:** Ljussättning och färgkorrigering inom filmdesign
 **Course Name:** Lighting and Grading in Film Design

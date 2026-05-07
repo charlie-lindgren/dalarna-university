@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: 28ddcbb9013f26e0
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35T
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH35T
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35T)
 
 **Kursnamn:** Fördjupning inom idrottsvetenskap
 **Course Name:** Specialised Study in Sport Science

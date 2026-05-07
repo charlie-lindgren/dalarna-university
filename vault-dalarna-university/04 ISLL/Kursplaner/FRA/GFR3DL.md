@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, FRA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 0890859fe25ec37c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3DL
 up: "[[Franska MOC]]"
 ---
 
 # GFR3DL
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3DL)
 
 **Kursnamn:** Franska för lärare i gymnasieskolan, 90 hp (1-90 hp). Ingår i Lärarlyftet
 **Course Name:** French for Teachers in Upper Secondary School, 90 cr (1-90 cr). CPD for Teachers

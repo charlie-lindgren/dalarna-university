@@ -10,10 +10,13 @@ amne_kod: "KGA"
 institution: "IKS"
 tags: [kursplan, KGA, IKS]
 scrape_hash: 0a06bd4b56f5e564
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKG27R
 up: "[[Kulturgeografi MOC]]"
 ---
 
 # AKG27R
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKG27R)
 
 **Kursnamn:** Management och tolkning av kulturarv
 **Course Name:** Management and Interpretation of Cultural Heritage Sites

@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: cf5d84e6c5de3edd
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35P
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH35P
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35P)
 
 **Kursnamn:** Träningslära: styrkelyft för öppen klass och veteraner
 **Course Name:** Training Science: Powerlifting for Open Class and Veterans

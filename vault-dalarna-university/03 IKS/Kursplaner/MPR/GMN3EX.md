@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, MPR, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: f36c6c0284063c35
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EX
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3EX
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EX)
 
 **Kursnamn:** Alternativa gestaltningsformer
 **Course Name:** Alternative Forms of Design

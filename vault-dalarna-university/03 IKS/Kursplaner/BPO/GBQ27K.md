@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 264009b671d4f070
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ27K
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ27K
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ27K)
 
 **Kursnamn:** Manus för TV och film 1. Filmberättandets grundelement och gestaltning
 **Course Name:** Scriptwriting for TV and Film 1. Elements of Storytelling. Form and Style in Film

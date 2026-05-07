@@ -10,10 +10,13 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: 81aebdd3f6dcf1d2
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AR
 up: "[[Energiteknik MOC]]"
 ---
 
 # AEG2AR
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AR)
 
 **Kursnamn:** Elektrisk lagrings- och omvandlingsteknik
 **Course Name:** Electrical Storage Technology and Conversion Technology

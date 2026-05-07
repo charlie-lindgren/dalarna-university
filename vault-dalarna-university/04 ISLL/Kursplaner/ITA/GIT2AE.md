@@ -10,10 +10,13 @@ amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL]
 scrape_hash: c4da2d780486a2a5
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2AE
 up: "[[Italienska MOC]]"
 ---
 
 # GIT2AE
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2AE)
 
 **Kursnamn:** Italienska B: Italienska förr och nu
 **Course Name:** Italian B: The Italian Language - Past and Present

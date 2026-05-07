@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, ABA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: abbb39cdad5490c7
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB2S5
 up: "[[Arbetsvetenskap MOC]]"
 ---
 
 # GAB2S5
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB2S5)
 
 **Kursnamn:** Arbetsmiljö
 **Course Name:** Work Environment

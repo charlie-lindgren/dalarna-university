@@ -10,10 +10,13 @@ amne_kod: "DTA"
 institution: "IIT"
 tags: [kursplan, DTA, IIT]
 scrape_hash: cbab799a13417ce1
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT34Z
 up: "[[Datateknik MOC]]"
 ---
 
 # GDT34Z
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT34Z)
 
 **Kursnamn:** Nätverkssäkerhet och systemadministration
 **Course Name:** Network Security and System Administration

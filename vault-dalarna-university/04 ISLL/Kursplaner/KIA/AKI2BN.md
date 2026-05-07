@@ -10,10 +10,13 @@ amne_kod: "KIA"
 institution: "ISLL"
 tags: [kursplan, KIA, ISLL]
 scrape_hash: cb9228bc6f810dd4
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKI2BN
 up: "[[Kinesiska MOC]]"
 ---
 
 # AKI2BN
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKI2BN)
 
 **Kursnamn:** Avancerad kinesisk konversation: kultur, samhälle och argumentation
 **Course Name:** Advanced Chinese Conversation: Culture, Society and Argumentation

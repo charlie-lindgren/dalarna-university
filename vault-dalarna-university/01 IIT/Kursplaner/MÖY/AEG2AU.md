@@ -10,10 +10,13 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: 70f160d20ec487cf
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AU
 up: "[[Energiteknik MOC]]"
 ---
 
 # AEG2AU
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AU)
 
 **Kursnamn:** Projektkurs 2 - mätsystem
 **Course Name:** Project Course 2 – Measurement Systems

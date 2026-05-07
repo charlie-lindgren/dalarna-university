@@ -10,10 +10,13 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT]
 scrape_hash: 3c513b6f98fe7db9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3J3
 up: "[[Maskinteknik MOC]]"
 ---
 
 # GMT3J3
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3J3)
 
 **Kursnamn:** Grundläggande materialteknik med materialval
 **Course Name:** Fundamentals of Materials Engineering with Materials Selection

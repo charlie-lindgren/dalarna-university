@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: aee2eaed02360fed
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2Z7
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG2Z7
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2Z7)
 
 **Kursnamn:** Skolans samhällsuppdrag - VAL
 **Course Name:** The Civic Mission of the School System - Continuing Professional Development for Teachers

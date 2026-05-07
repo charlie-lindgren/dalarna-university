@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: c15c4c39c7c2ec7b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3BQ
 up: "[[Engelska MOC]]"
 ---
 
 # GEN3BQ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3BQ)
 
 **Kursnamn:** Teman inom populärlitteraturen
 **Course Name:** Themes in Popular Literature

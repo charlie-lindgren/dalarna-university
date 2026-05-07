@@ -10,10 +10,13 @@ amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
 scrape_hash: 6dd4685c9ef2a6d8
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2G6
 up: "[[Turismvetenskap MOC]]"
 ---
 
 # GTR2G6
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2G6)
 
 **Kursnamn:** Fokusområden inom turism
 **Course Name:** Special Interest Tourism

@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: e15ffe5e7bd7824d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3EV
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG3EV
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3EV)
 
 **Kursnamn:** Professionellt lärarskap och skolutveckling (varav 10 hp VFU)
 **Course Name:** Professional Teaching and School Development (including 10 credits Placement)

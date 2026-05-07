@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: ee676bcd89d367a0
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH32Z
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH32Z
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH32Z)
 
 **Kursnamn:** Verksamhetsförlagt projekt inom tränarskap
 **Course Name:** Placement Project - Coaching

@@ -10,10 +10,13 @@ amne_kod: "RYA"
 institution: "ISLL"
 tags: [kursplan, RYA, ISLL]
 scrape_hash: ecee72abb278b713
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY28L
 up: "[[Ryska MOC]]"
 ---
 
 # GRY28L
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY28L)
 
 **Kursnamn:** Ryska III: Grammatik och skriftlig språkfärdighet
 **Course Name:** Russian III: Grammar and Written Language Proficiency

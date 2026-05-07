@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BIL, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 654581d98ae46160
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBP3BB
 up: "[[Bild MOC]]"
 ---
 
 # GBP3BB
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBP3BB)
 
 **Kursnamn:** Fotografiskt bildskapande A
 **Course Name:** Photographic Image-Making A

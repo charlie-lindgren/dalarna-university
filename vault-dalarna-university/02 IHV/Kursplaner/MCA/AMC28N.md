@@ -10,10 +10,13 @@ amne_kod: "MCA"
 institution: "IHV"
 tags: [kursplan, MCA, IHV]
 scrape_hash: 00b97b3b5fcb4c73
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC28N
 up: "[[Medicinsk vetenskap MOC]]"
 ---
 
 # AMC28N
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC28N)
 
 **Kursnamn:** Evidensbaserat arbetssätt och forskningsmetodik inom fysioterapi
 **Course Name:** Evidence-Based Practices and Research Methods in Physiotherapy

@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, RVA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 88a64b80a6841548
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRV2MK
 up: "[[Rättsvetenskap MOC]]"
 ---
 
 # GRV2MK
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRV2MK)
 
 **Kursnamn:** Småföretagens regelverk I
 **Course Name:** Small Business and Regulations I

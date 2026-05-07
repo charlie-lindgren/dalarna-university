@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, SAA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 817a49cfcd9b73ac
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3AS
 up: "[[Socialt arbete MOC]]"
 ---
 
 # GSA3AS
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3AS)
 
 **Kursnamn:** Samsjuklighet - skadligt bruk eller beroende och samtidig psykisk ohälsa
 **Course Name:** Comorbidity - harmful use or addiction and concurrent mental illness

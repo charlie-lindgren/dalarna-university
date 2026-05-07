@@ -10,10 +10,13 @@ amne_kod: "SQQ"
 institution: "IIT"
 tags: [kursplan, SQQ, IIT]
 scrape_hash: 6dae166d62beefa4
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2R5
 up: "[[Samhällsbyggnadsteknik MOC]]"
 ---
 
 # GSQ2R5
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2R5)
 
 **Kursnamn:** Urban och regional analys
 **Course Name:** Urban and Regional Analysis

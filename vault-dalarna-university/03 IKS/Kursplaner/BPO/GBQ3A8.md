@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: e5fd83cfc4310e6f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3A8
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ3A8
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3A8)
 
 **Kursnamn:** Kreativt skrivande
 **Course Name:** Creative Writing

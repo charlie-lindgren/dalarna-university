@@ -10,11 +10,14 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, vilande]
 scrape_hash: 6e49a31301e96bca
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AQ
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 cssclasses: [vilande]
 ---
 
 # GIH3AQ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AQ)
 
 **Kursnamn:** Styrketräningens teori och praktiska tillämpning
 **Course Name:** Strength Training Theory and Its Practical Application

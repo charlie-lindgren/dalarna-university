@@ -10,10 +10,13 @@ amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
 scrape_hash: 0a33561d2fa06bbc
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ28L
 up: "[[Omvårdnad MOC]]"
 ---
 
 # AVÅ28L
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ28L)
 
 **Kursnamn:** Multisjuklighet, diagnostik och behandling för äldre ur ett omvårdnadsperspektiv
 **Course Name:** Comorbidity, Diagnostics And Treatment For The Older Person From A Nursing Perspective

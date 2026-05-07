@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MTA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: b6a4d5e9e72012da
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT25Z
 up: "[[Maskinteknik MOC]]"
 ---
 
 # GMT25Z
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT25Z)
 
 **Kursnamn:** Examensarbete Högskoleingenjör Maskinteknik
 **Course Name:** Degree Project Mechanical Engineering

@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: d4b70dd46319f56e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AC
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG3AC
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AC)
 
 **Kursnamn:** Didaktik och ledarskap för ämneslärare årskurs 7–9 - AIL
 **Course Name:** Teaching, Learning and Leadership for Secondary Teachers - School Years 7-9 - Work-Integraded Programme

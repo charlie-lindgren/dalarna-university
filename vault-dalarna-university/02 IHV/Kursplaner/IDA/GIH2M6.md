@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: b3ebee691ee295fa
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2M6
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2M6
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2M6)
 
 **Kursnamn:** Idrottspedagogik (klättring)
 **Course Name:** Sport Pedagogy (Climbing)

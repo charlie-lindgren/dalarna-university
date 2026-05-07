@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: e14c169499eec564
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FU
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG3FU
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FU)
 
 **Kursnamn:** Utvärdering och utvecklingsarbete - VAL
 **Course Name:** Evaluation and Development - Professional Qualification Course for Teachers and Pre-School Teachers

@@ -10,10 +10,13 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS]
 scrape_hash: c893cdb308ee75aa
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2NJ
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ2NJ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2NJ)
 
 **Kursnamn:** Konceptutveckling inom medieproduktion för Bildproduktion
 **Course Name:** Concept Development in Media Production for Moving Image Production

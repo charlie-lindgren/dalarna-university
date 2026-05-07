@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, SVE, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: bf840cdb0b639fb6
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2BP
 up: "[[Svenska MOC]]"
 ---
 
 # GSV2BP
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2BP)
 
 **Kursnamn:** Svenska: Barn- och ungdomslitteratur i samhällsdialog
 **Course Name:** Swedish: Literature for Children and Young Adults in Dialogue with Society

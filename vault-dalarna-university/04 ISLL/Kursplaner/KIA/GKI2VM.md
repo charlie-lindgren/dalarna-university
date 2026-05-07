@@ -10,10 +10,13 @@ amne_kod: "KIA"
 institution: "ISLL"
 tags: [kursplan, KIA, ISLL]
 scrape_hash: b246a9e0ac68221c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2VM
 up: "[[Kinesiska MOC]]"
 ---
 
 # GKI2VM
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2VM)
 
 **Kursnamn:** Kinesiska: Språkinlärning och språkundervisning
 **Course Name:** Chinese: Language Learning and Teaching

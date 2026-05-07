@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: 9a4f00c3172c8f8f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BY
 up: "[[Engelska MOC]]"
 ---
 
 # AEN2BY
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BY)
 
 **Kursnamn:** Världslitteraturer: Nord- och Sydamerika
 **Course Name:** World Literatures: North and South America

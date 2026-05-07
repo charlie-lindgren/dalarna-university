@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: a9cea81dfc958dc3
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG27T
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # APG27T
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG27T)
 
 **Kursnamn:** Rektors ledning och organisering för utveckling av barns och elevers lärandemiljö
 **Course Name:** The Principal‘s Management and Organisation in the Development of the Learning Environment of Children and Pupils

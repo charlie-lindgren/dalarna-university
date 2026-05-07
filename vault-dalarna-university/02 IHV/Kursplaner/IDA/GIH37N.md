@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: a8b48e6f5ce2ab55
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37N
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH37N
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37N)
 
 **Kursnamn:** Friluftsliv och bedömning i ämnet idrott och hälsa
 **Course Name:** Outdoor Education and Assessment in Physical Education and Health

@@ -10,10 +10,13 @@ amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
 scrape_hash: 6de537c7b4d60857
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2SU
 up: "[[Tyska MOC]]"
 ---
 
 # GTY2SU
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2SU)
 
 **Kursnamn:** Tyska: Tysk grammatik
 **Course Name:** German: German Grammar

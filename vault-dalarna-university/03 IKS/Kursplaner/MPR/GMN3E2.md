@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, MPR, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 095a47b4759082e7
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3E2
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3E2
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3E2)
 
 **Kursnamn:** Dramaturgi, manusskrivande och medieproduktionens villkor
 **Course Name:** Dramaturgy, Scriptwriting and Conditions for Media Production

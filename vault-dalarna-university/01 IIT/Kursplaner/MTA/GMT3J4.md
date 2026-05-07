@@ -10,10 +10,13 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT]
 scrape_hash: 56bd0d2dd6301d80
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3J4
 up: "[[Maskinteknik MOC]]"
 ---
 
 # GMT3J4
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3J4)
 
 **Kursnamn:** Introduktion till assisterande teknik
 **Course Name:** Introduction to assistive technology

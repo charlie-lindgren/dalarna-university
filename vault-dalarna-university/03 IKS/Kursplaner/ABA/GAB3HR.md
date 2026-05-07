@@ -10,10 +10,13 @@ amne_kod: "ABA"
 institution: "IKS"
 tags: [kursplan, ABA, IKS]
 scrape_hash: 60c7d3012b7f4fa4
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3HR
 up: "[[Arbetsvetenskap MOC]]"
 ---
 
 # GAB3HR
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3HR)
 
 **Kursnamn:** Personalarbete - med case
 **Course Name:** Human Resources - with case

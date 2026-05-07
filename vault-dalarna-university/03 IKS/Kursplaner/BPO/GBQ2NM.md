@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: fd8e79f55bf38b28
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2NM
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ2NM
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2NM)
 
 **Kursnamn:** Vetenskapsteori och metod i Bildproduktion
 **Course Name:** Scientific Theory and Method for Moving Image Production

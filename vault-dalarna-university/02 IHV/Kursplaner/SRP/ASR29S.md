@@ -10,10 +10,13 @@ amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV]
 scrape_hash: bcd78055508eb570
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29S
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
 
 # ASR29S
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29S)
 
 **Kursnamn:** Examensarbete i sexuell, reproduktiv och perinatal hälsa
 **Course Name:** Degree Thesis in Sexual, Reproductive and Perinatal Health

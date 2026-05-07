@@ -10,10 +10,13 @@ amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
 scrape_hash: e656864fd7903099
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2P3
 up: "[[Religionsvetenskap MOC]]"
 ---
 
 # GRK2P3
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2P3)
 
 **Kursnamn:** Religionsvetenskap III: Aktuella religionsvetenskapliga teman
 **Course Name:** Religious Studies III: Contemporary Themes in the Field of Religious Studies

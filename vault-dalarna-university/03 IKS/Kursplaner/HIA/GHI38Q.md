@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, HIA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 4c8781a6b9d2b52a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI38Q
 up: "[[Historia MOC]]"
 ---
 
 # GHI38Q
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI38Q)
 
 **Kursnamn:** Global miljöhistoria
 **Course Name:** Global environmental history

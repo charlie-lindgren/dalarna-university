@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, HIA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 281ea4f5fc417d7b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI37M
 up: "[[Historia MOC]]"
 ---
 
 # GHI37M
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI37M)
 
 **Kursnamn:** De nationella minoriteternas samhällshistoria
 **Course Name:** Social History of the National Minorities

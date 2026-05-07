@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 4f1f8485d267cd3d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH33K
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH33K
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH33K)
 
 **Kursnamn:** Funktionell anatomi (Klättring)
 **Course Name:** Functional Anatomy (Climbing)

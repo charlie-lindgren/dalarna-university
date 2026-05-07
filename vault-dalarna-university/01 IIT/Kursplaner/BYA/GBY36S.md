@@ -10,10 +10,13 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: 4dd676463d4f1304
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY36S
 up: "[[Byggteknik MOC]]"
 ---
 
 # GBY36S
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY36S)
 
 **Kursnamn:** En introduktion till byggprocessen
 **Course Name:** An Introduction to the Construction Process

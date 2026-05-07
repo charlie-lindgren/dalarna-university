@@ -10,10 +10,13 @@ amne_kod: "HIA"
 institution: "IKS"
 tags: [kursplan, HIA, IKS]
 scrape_hash: f9d513754c6e35f2
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI29P
 up: "[[Historia MOC]]"
 ---
 
 # AHI29P
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI29P)
 
 **Kursnamn:** Examensarbete, magisterexamen i historia
 **Course Name:** Master’s Degree Thesis in History

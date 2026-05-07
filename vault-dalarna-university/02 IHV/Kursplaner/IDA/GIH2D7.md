@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 88f547be89b0bca0
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2D7
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2D7
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2D7)
 
 **Kursnamn:** Grundläggande fysiologi och tillämpad idrottsfysiologi (Styrkelyft)
 **Course Name:** Introductory Physiology and Applied Exercise Physiology (Powerlifting)

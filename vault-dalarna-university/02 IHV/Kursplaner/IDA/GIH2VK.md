@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 6d93e0a08ca568c8
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2VK
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2VK
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2VK)
 
 **Kursnamn:** Grundläggande upplevelseproduktion
 **Course Name:** Basic Experience Production

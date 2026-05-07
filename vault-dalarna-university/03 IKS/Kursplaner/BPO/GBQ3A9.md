@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 84f76b9f8478ef4f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3A9
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ3A9
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3A9)
 
 **Kursnamn:** Introduktion till att skriva filmadaption
 **Course Name:** Introduction to Writing Film Adaptations

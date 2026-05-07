@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: aba965b526839bf9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3EU
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG3EU
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3EU)
 
 **Kursnamn:** Didaktik och läroplansteori
 **Course Name:** Education and Curriculum Theory

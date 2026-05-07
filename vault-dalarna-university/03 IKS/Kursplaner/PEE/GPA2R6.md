@@ -10,10 +10,13 @@ amne_kod: "PEE"
 institution: "IKS"
 tags: [kursplan, PEE, IKS]
 scrape_hash: ecad3ed386aafb54
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2R6
 up: "[[Personal och arbetsliv MOC]]"
 ---
 
 # GPA2R6
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2R6)
 
 **Kursnamn:** Kompetensförsörjning - avveckling och förändring
 **Course Name:** Human Resourcing - Downsizing and Organisational Change

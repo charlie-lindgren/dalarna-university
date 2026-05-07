@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 0f8a2d9e4db35477
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG28M
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # APG28M
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG28M)
 
 **Kursnamn:** Vetenskapsteori och utbildningsvetenskaplig forskning - VAL
 **Course Name:** Theory of Science and Educational Research - Continuing Professional Development for Teachers

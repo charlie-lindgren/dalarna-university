@@ -10,10 +10,13 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: 3c0ac7d56dd043cc
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABY2BL
 up: "[[Byggteknik MOC]]"
 ---
 
 # ABY2BL
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABY2BL)
 
 **Kursnamn:** Hållbar samhällsplanering
 **Course Name:** Energy and Urban Planning

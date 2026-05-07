@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: ea56a07dd7a6a050
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2A6
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2A6
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2A6)
 
 **Kursnamn:** Idrottspsykologi
 **Course Name:** Sports Psychology

@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: ddb2265000960038
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AD
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG3AD
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AD)
 
 **Kursnamn:** Verksamhetsförlagd utbildning 1 för ämneslärare årskurs 7–9 - AIL
 **Course Name:** Placement 1 for Secondary Teachers - School Years 7-9 - Work-Integrated Programme

@@ -10,10 +10,13 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: 2a05a6b65feee4a0
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2JP
 up: "[[Energiteknik MOC]]"
 ---
 
 # GEG2JP
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2JP)
 
 **Kursnamn:** Utvecklingsprojekt, tillverkning av en solfångare
 **Course Name:** Development Project Manufacturing of a Solar Collector

@@ -10,10 +10,13 @@ amne_kod: "NAV"
 institution: "IHV"
 tags: [kursplan, NAV, IHV]
 scrape_hash: b66a5edb93ab2c47
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3GU
 up: "[[Naturvetenskap MOC]]"
 ---
 
 # GNV3GU
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3GU)
 
 **Kursnamn:** Teknik för lärare i årskurs 4-6. Ingår i lärarlyftet.
 **Course Name:** Technology for Primary School Teachers, Years 4-6

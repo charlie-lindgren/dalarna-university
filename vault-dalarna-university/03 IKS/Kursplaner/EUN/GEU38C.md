@@ -10,10 +10,13 @@ institution: "IKS"
 tags: [kursplan, EUN, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: c56be6d5b7a9926f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU38C
 up: "[[Entreprenörskap och innovationsteknik MOC]]"
 ---
 
 # GEU38C
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU38C)
 
 **Kursnamn:** Innovation
 

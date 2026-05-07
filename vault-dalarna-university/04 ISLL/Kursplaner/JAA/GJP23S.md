@@ -10,10 +10,13 @@ amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
 scrape_hash: 67d7ffc01c1d8342
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP23S
 up: "[[Japanska MOC]]"
 ---
 
 # GJP23S
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP23S)
 
 **Kursnamn:** Japanska I: Språkfärdighet
 **Course Name:** Japanese I: Language Proficiency

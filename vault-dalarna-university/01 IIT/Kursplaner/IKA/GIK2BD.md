@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: e8919298d51462ee
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2BD
 up: "[[Informatik MOC]]"
 ---
 
 # GIK2BD
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2BD)
 
 **Kursnamn:** IT-projekthantering
 **Course Name:** IT Project Management

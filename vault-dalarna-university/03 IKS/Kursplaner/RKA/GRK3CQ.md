@@ -10,11 +10,14 @@ amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS, vilande]
 scrape_hash: 9248de516a8a897a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK3CQ
 up: "[[Religionsvetenskap MOC]]"
 cssclasses: [vilande]
 ---
 
 # GRK3CQ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK3CQ)
 
 **Kursnamn:** Undervisning och lärande genom rollspel – inriktning religionsdidaktik
 **Course Name:** Teaching and Learning Through Roleplay - Specialisation Didactics of Religion

@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: fa22edc08873f7b8
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34S
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH34S
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34S)
 
 **Kursnamn:** Lek, dans samt mål- och nätspel (VAL)
 **Course Name:** Play, Dance and Ball- and Netgames (CPD for teachers)

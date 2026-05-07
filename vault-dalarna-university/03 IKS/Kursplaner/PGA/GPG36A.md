@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: e45c71379eeda709
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG36A
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG36A
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG36A)
 
 **Kursnamn:** Didaktik och läroplansteori - KPU
 **Course Name:** Curriculum Theory and Didactics - Supplementary Teacher Education

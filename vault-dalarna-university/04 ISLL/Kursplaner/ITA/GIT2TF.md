@@ -10,10 +10,13 @@ amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL]
 scrape_hash: c98f24282222956d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TF
 up: "[[Italienska MOC]]"
 ---
 
 # GIT2TF
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TF)
 
 **Kursnamn:** Italienska A: Grammatik och skriftlig språkfärdighet
 **Course Name:** Italian A: Grammar and Written Proficiency

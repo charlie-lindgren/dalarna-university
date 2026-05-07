@@ -10,10 +10,13 @@ amne_kod: "SVE"
 institution: "ISLL"
 tags: [kursplan, SVE, ISLL]
 scrape_hash: 168eac74af799ba7
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2ZU
 up: "[[Svenska MOC]]"
 ---
 
 # GSV2ZU
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2ZU)
 
 **Kursnamn:** Svenska 1 för grundlärare 4-6
 **Course Name:** Swedish 1 for Primary School Teachers Years 4-6

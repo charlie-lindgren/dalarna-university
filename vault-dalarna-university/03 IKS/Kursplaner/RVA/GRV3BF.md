@@ -10,10 +10,13 @@ amne_kod: "RVA"
 institution: "IKS"
 tags: [kursplan, RVA, IKS]
 scrape_hash: 550ed6d55b97e00f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRV3BF
 up: "[[Rättsvetenskap MOC]]"
 ---
 
 # GRV3BF
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRV3BF)
 
 **Kursnamn:** IT-rätt
 **Course Name:** IT Law

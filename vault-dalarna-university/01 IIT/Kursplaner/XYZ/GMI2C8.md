@@ -10,10 +10,13 @@ amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
 scrape_hash: 99424ba0f1d0c958
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI2C8
 up: "[[Mikrodataanalys MOC]]"
 ---
 
 # GMI2C8
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI2C8)
 
 **Kursnamn:** Examensarbete för kandidatexamen i Mikrodataanalys
 **Course Name:** Thesis for Bachelor’s Degree in Microdata Analysis

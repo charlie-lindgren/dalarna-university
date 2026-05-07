@@ -10,10 +10,13 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: a64e913600d32bdb
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2MB
 up: "[[Byggteknik MOC]]"
 ---
 
 # GBY2MB
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2MB)
 
 **Kursnamn:** Projektmetodik
 **Course Name:** Project Methodology

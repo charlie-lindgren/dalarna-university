@@ -10,10 +10,13 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT]
 scrape_hash: 9029498390e34955
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34Q
 up: "[[Maskinteknik MOC]]"
 ---
 
 # GMT34Q
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34Q)
 
 **Kursnamn:** Hållbar produktion
 **Course Name:** Sustainable Manufacturing

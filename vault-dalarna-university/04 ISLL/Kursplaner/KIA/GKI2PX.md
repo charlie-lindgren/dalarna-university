@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, KIA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 93d373f5fc1bdab1
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2PX
 up: "[[Kinesiska MOC]]"
 ---
 
 # GKI2PX
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2PX)
 
 **Kursnamn:** Kinesiska: skriftlig tillämpning
 **Course Name:** Chinese Practical Writing

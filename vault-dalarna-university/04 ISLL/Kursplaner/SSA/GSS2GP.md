@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, SSA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: dd47c38c64dec1d6
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2GP
 up: "[[Svenska som andraspråk MOC]]"
 ---
 
 # GSS2GP
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2GP)
 
 **Kursnamn:** Modersmål: Arabiska III med didaktisk inriktning
 **Course Name:** Mother Tongue Tuition: Arabic III for Teacher Education Students

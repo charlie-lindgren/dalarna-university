@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: 347dbe180a54d9dc
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK36R
 up: "[[Informatik MOC]]"
 ---
 
 # GIK36R
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK36R)
 
 **Kursnamn:** Applikationsutveckling och testning
 **Course Name:** Application Development and Testing

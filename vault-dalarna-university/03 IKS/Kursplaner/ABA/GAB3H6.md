@@ -10,10 +10,13 @@ amne_kod: "ABA"
 institution: "IKS"
 tags: [kursplan, ABA, IKS]
 scrape_hash: 9bb57a9ea24d0296
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3H6
 up: "[[Arbetsvetenskap MOC]]"
 ---
 
 # GAB3H6
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3H6)
 
 **Kursnamn:** Arbetsorganisation
 **Course Name:** Work organization

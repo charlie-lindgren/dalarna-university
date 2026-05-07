@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, LPU, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 9591df7d6d1c6f0f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP23B
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
 
 # GLP23B
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP23B)
 
 **Kursnamn:** Audiovisuellt berättande
 **Course Name:** Audiovisual Narration

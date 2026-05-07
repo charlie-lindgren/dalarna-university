@@ -10,10 +10,13 @@ amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
 scrape_hash: f4c8b54b22291ef6
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3J6
 up: "[[Tyska MOC]]"
 ---
 
 # GTY3J6
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3J6)
 
 **Kursnamn:** Tyska II: Språk- och litteraturhistoria
 **Course Name:** German II: The History of German Language and Literature

@@ -10,10 +10,13 @@ amne_kod: "SPA"
 institution: "ISLL"
 tags: [kursplan, SPA, ISLL]
 scrape_hash: fcce364eb2d0300a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2SR
 up: "[[Spanska MOC]]"
 ---
 
 # GSP2SR
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2SR)
 
 **Kursnamn:** Spanska I: Språkfärdighet och grammatik
 **Course Name:** Spanish I: Language Proficiency and Grammar

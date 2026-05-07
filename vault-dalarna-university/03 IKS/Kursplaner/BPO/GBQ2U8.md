@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 0406ca4a816ddaa2
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2U8
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ2U8
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2U8)
 
 **Kursnamn:** Den korta filmens berättarstruktur
 **Course Name:** Narrative Structures in Short Films

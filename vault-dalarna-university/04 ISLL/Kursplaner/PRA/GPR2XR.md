@@ -10,10 +10,13 @@ amne_kod: "PRA"
 institution: "ISLL"
 tags: [kursplan, PRA, ISLL]
 scrape_hash: 4932ee9ba2ca0ad5
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR2XR
 up: "[[Portugisiska MOC]]"
 ---
 
 # GPR2XR
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR2XR)
 
 **Kursnamn:** Portugisiska: Grammatik och skriftlig språkfärdighet I
 **Course Name:** Portuguese: Grammar and Written Language Proficiency I

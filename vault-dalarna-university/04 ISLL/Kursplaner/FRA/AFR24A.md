@@ -10,10 +10,13 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
 scrape_hash: 78004cafe7e321da
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR24A
 up: "[[Franska MOC]]"
 ---
 
 # AFR24A
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR24A)
 
 **Kursnamn:** Examensarbete i franska för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 **Course Name:** Degree Thesis in French for Master of Arts in Education, Secondary School

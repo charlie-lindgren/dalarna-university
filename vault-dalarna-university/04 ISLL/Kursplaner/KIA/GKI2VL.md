@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, KIA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 65558311a4d04902
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2VL
 up: "[[Kinesiska MOC]]"
 ---
 
 # GKI2VL
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2VL)
 
 **Kursnamn:** Kinas kultur och samhälle - introduktionskurs
 **Course Name:** Chinese Culture and Society - Introduction Course

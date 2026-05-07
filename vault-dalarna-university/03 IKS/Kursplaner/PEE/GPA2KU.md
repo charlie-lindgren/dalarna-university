@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PEE, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: c86cd09811f01fad
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2KU
 up: "[[Personal och arbetsliv MOC]]"
 ---
 
 # GPA2KU
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2KU)
 
 **Kursnamn:** Implementering av hållbar strategisk styrning
 **Course Name:** Implementation of Sustainable Strategic Management

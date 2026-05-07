@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 57642f5fe0546a9e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2B5
 up: "[[Energiteknik MOC]]"
 ---
 
 # AEG2B5
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2B5)
 
 **Kursnamn:** Projektkurs 3 - grupprojekt och kommunikation
 **Course Name:** Project Course 3 – Group Project and Communication

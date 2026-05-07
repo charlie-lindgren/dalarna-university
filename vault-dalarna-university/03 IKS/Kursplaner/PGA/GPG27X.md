@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: db22e0c67710620e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG27X
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG27X
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG27X)
 
 **Kursnamn:** Lärares ledarskap
 **Course Name:** Classroom Management

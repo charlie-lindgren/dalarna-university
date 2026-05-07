@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, SAA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 483718a0ddabdf11
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DN
 up: "[[Socialt arbete MOC]]"
 ---
 
 # GSA3DN
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DN)
 
 **Kursnamn:** Försörjning, rehabilitering och aktivering i socialt arbete
 **Course Name:** Support, Rehabilitation and Enablement in Social Work

@@ -10,10 +10,13 @@ amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL]
 scrape_hash: e4438fedf4fe21dd
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT26W
 up: "[[Italienska MOC]]"
 ---
 
 # GIT26W
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT26W)
 
 **Kursnamn:** Italienska B: Litteraturhistoria med textanalys
 **Course Name:** Italian B: History of Literature with Text Analysis

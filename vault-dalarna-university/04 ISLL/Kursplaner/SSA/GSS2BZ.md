@@ -10,10 +10,13 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
 scrape_hash: 503d0e48a685dd7c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2BZ
 up: "[[Svenska som andraspråk MOC]]"
 ---
 
 # GSS2BZ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2BZ)
 
 **Kursnamn:** Skriftspråksutveckling i ett flerspråkigt perspektiv
 **Course Name:** Literacy Development in a Multilingual Perspective

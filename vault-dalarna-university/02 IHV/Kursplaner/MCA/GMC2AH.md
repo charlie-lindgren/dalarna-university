@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, MCA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 4fadfa0450c88748
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC2AH
 up: "[[Medicinsk vetenskap MOC]]"
 ---
 
 # GMC2AH
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC2AH)
 
 **Kursnamn:** Medicinsk baskurs - Anatomi och fysiologi
 **Course Name:** Basic Medicine - Anatomy and Physiology

@@ -10,10 +10,13 @@ amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
 scrape_hash: 325206e00fc7d523
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ2N9
 up: "[[Omvårdnad MOC]]"
 ---
 
 # GVÅ2N9
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ2N9)
 
 **Kursnamn:** Metoder för evidensbaserad vård I
 **Course Name:** Methods for Evidence-Based Nursing I

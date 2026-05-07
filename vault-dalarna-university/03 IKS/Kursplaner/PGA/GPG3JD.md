@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 2ab2910539a7fdc9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3JD
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG3JD
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3JD)
 
 **Kursnamn:** Att leda kollegiala lärprocesser i förskola och skola
 **Course Name:** Leading Collegial Learning Processes in Preschool and School

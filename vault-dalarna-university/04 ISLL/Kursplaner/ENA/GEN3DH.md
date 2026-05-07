@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: 0c563aad381f95d3
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DH
 up: "[[Engelska MOC]]"
 ---
 
 # GEN3DH
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DH)
 
 **Kursnamn:** Engelska: Introduktion till litteraturkritikens teorier och metoder
 **Course Name:** English: Introduction to Theories and Methodologies of Literary Criticism

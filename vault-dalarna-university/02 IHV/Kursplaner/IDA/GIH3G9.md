@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: a3c34c18b6029c1f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G9
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3G9
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G9)
 
 **Kursnamn:** Entreprenörskap inom idrott och hälsa
 **Course Name:** Entrepreneurship in Sport and Health

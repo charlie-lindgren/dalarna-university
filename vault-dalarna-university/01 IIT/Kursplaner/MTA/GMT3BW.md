@@ -10,10 +10,13 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT]
 scrape_hash: 498d2281d591a453
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3BW
 up: "[[Maskinteknik MOC]]"
 ---
 
 # GMT3BW
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3BW)
 
 **Kursnamn:** Mekanik
 **Course Name:** Mechanics

@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: ba00197571f4abd5
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2BF
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # APG2BF
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2BF)
 
 **Kursnamn:** Att främja en professionsdriven verksamhetsutveckling i förskola, skola och fritidshem
 **Course Name:** Promoting the Professional Development of Preschools, Schools and Extended Schools

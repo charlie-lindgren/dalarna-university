@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: 5b657ba29d9c5dca
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN29C
 up: "[[Engelska MOC]]"
 ---
 
 # AEN29C
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN29C)
 
 **Kursnamn:** Interkulturella litteraturstudier: Masterexamensarbete med inriktning engelska
 **Course Name:** Intercultural Literature Studies: Master‘s Degree Thesis with Specialisation in English

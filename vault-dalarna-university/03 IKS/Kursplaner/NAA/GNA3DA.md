@@ -10,10 +10,13 @@ amne_kod: "NAA"
 institution: "IKS"
 tags: [kursplan, NAA, IKS]
 scrape_hash: 839e3b5965c537d7
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA3DA
 up: "[[Nationalekonomi MOC]]"
 ---
 
 # GNA3DA
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA3DA)
 
 **Kursnamn:** Finansiell ekonomi
 **Course Name:** Financial Economics

@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 856022fe6bef7c94
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2QP
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG2QP
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2QP)
 
 **Kursnamn:** Undervisning och ledarskap (varav 10 hp VFU)
 **Course Name:** Teaching and Leadership (of which 10 Credits Placement)

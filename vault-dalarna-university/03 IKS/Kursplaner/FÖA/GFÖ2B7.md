@@ -10,10 +10,13 @@ amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
 scrape_hash: 67028e0f3c4c498a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ2B7
 up: "[[Företagsekonomi MOC]]"
 ---
 
 # GFÖ2B7
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ2B7)
 
 **Kursnamn:** Vetenskap och metod II
 **Course Name:** Social Science and Method II

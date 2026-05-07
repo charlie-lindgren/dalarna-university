@@ -10,10 +10,13 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
 scrape_hash: 9ce8888f8dd0b555
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EK
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3EK
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EK)
 
 **Kursnamn:** Dokumentärfilmsproduktion
 **Course Name:** Documentary Film Production

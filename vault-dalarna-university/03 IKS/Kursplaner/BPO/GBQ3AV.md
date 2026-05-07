@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: c80247be3641e107
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3AV
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ3AV
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3AV)
 
 **Kursnamn:** Content för sociala medier
 **Course Name:** Content for Social Media

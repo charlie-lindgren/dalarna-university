@@ -10,10 +10,13 @@ amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
 scrape_hash: 1d6aa4718d50ef14
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK32C
 up: "[[Religionsvetenskap MOC]]"
 ---
 
 # GRK32C
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK32C)
 
 **Kursnamn:** Religionsdidaktik
 **Course Name:** Learning and Teaching Religion

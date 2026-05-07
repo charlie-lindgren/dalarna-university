@@ -10,10 +10,13 @@ amne_kod: "SVE"
 institution: "ISLL"
 tags: [kursplan, SVE, ISLL]
 scrape_hash: 48962d3d52679e23
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DE
 up: "[[Svenska MOC]]"
 ---
 
 # GSV3DE
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DE)
 
 **Kursnamn:** Svenska med didaktisk inriktning II
 **Course Name:** Swedish for Teacher Education Students II

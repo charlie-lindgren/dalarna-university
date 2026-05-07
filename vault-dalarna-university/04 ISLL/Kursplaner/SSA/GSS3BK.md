@@ -10,10 +10,13 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
 scrape_hash: 2b36ddf303ece41a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3BK
 up: "[[Svenska som andraspråk MOC]]"
 ---
 
 # GSS3BK
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3BK)
 
 **Kursnamn:** Grundläggande svenska som andraspråk IV (nivå CEFR B1.2)
 **Course Name:** Basic Swedish as a Second Language IV (level CEFR B1.2)

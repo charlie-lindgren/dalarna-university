@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: ee08c13ff1459aff
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG22R
 up: "[[Energiteknik MOC]]"
 ---
 
 # AEG22R
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG22R)
 
 **Kursnamn:** Tillämpad solenergiteknik
 **Course Name:** Applied Solar Energy Engineering

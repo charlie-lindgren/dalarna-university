@@ -10,10 +10,13 @@ amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
 scrape_hash: 16025d9aa4d14f5b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP3AZ
 up: "[[Japanska MOC]]"
 ---
 
 # GJP3AZ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP3AZ)
 
 **Kursnamn:** Japanska: Introduktion till akademiskt skrivande
 **Course Name:** Japanese: Introduction to Academic Writing

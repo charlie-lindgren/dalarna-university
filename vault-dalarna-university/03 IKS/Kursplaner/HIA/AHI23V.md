@@ -10,10 +10,13 @@ amne_kod: "HIA"
 institution: "IKS"
 tags: [kursplan, HIA, IKS]
 scrape_hash: 10915516366c907a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI23V
 up: "[[Historia MOC]]"
 ---
 
 # AHI23V
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI23V)
 
 **Kursnamn:** Examensarbete i historia för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 **Course Name:** Degree Thesis in History for Master of Arts in Education, Secondary School

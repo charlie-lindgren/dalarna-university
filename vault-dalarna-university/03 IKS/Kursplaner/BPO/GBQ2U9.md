@@ -10,10 +10,13 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS]
 scrape_hash: f676f10a7ae242a3
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2U9
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ2U9
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2U9)
 
 **Kursnamn:** Kandidatexamensarbete i Bildproduktion
 **Course Name:** Bachelor‘s Degree Thesis in Moving Image Production

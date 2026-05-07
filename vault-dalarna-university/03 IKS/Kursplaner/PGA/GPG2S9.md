@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: cf2f729f93a5b799
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2S9
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG2S9
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2S9)
 
 **Kursnamn:** Sociala relationer, konflikter och makt i grundskolan åk 7-9 och gymnasieskolan
 **Course Name:** Social Relations, Conflicts and Power in Secondary School (7-9) and Upper-Secondary School

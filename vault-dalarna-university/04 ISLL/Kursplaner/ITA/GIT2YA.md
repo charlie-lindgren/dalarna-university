@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, ITA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 86a37e0ae0478763
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2YA
 up: "[[Italienska MOC]]"
 ---
 
 # GIT2YA
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2YA)
 
 **Kursnamn:** Italienska A: Textanalys, krig och fred
 **Course Name:** Italian A: Text Analysis, War and Peace

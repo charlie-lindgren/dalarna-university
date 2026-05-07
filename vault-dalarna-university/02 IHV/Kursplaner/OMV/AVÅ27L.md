@@ -10,10 +10,13 @@ amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
 scrape_hash: ee3834fe44b9af1c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ27L
 up: "[[Omvårdnad MOC]]"
 ---
 
 # AVÅ27L
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ27L)
 
 **Kursnamn:** Vård och omsorg för personer med demens (fristående kurs)
 **Course Name:** Health Care and Social Care for People with Dementia (freestanding course)

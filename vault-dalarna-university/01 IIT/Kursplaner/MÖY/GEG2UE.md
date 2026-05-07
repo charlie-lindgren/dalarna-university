@@ -10,10 +10,13 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: b1fd43d66b3d62dd
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2UE
 up: "[[Energiteknik MOC]]"
 ---
 
 # GEG2UE
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2UE)
 
 **Kursnamn:** Energieffektivisering
 **Course Name:** Energy Efficiency

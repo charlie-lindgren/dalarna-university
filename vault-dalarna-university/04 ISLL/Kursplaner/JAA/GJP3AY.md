@@ -10,10 +10,13 @@ amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
 scrape_hash: c923da28a1310406
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP3AY
 up: "[[Japanska MOC]]"
 ---
 
 # GJP3AY
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP3AY)
 
 **Kursnamn:** Japansk populärkultur representerad i Anime och Manga
 **Course Name:** Japanese Pop Culture Represented in Anime and Manga

@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 9c30897c47f6da76
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2LV
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2LV
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2LV)
 
 **Kursnamn:** Tränings- och tävlingslära (judo)
 **Course Name:** Methodology of Training and Competition (Judo)

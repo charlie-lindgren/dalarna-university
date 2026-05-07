@@ -10,10 +10,13 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
 scrape_hash: 777dc962d73e5b30
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3GY
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3GY
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3GY)
 
 **Kursnamn:** Postproduktion
 **Course Name:** Post-production

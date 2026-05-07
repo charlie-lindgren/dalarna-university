@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: 13ecc45123e3720a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GE
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3GE
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GE)
 
 **Kursnamn:** Idrottens organisation i samhället
 **Course Name:** Organisation of Sport in Society

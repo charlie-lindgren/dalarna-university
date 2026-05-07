@@ -10,10 +10,13 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS]
 scrape_hash: 1b1cc521ca329516
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABQ2B2
 up: "[[Bildproduktion MOC]]"
 ---
 
 # ABQ2B2
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABQ2B2)
 
 **Kursnamn:** Audiovisuella studier: Kunskapsproduktion genom gestaltning
 **Course Name:** Audiovisual Studies: Knowledge Production Through Design

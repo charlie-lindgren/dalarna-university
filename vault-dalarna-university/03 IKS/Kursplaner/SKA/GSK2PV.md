@@ -10,10 +10,13 @@ amne_kod: "SKA"
 institution: "IKS"
 tags: [kursplan, SKA, IKS]
 scrape_hash: 4c8df5cc81fe1b1e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK2PV
 up: "[[Statsvetenskap MOC]]"
 ---
 
 # GSK2PV
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK2PV)
 
 **Kursnamn:** Samhällsvetenskapliga metoder II - inriktning statsvetenskap
 **Course Name:** Methods in Social Science II - Political Science

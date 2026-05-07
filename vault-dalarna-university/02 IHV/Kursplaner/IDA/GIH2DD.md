@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 5ffee2e1443055bf
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2DD
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2DD
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2DD)
 
 **Kursnamn:** Funktionell anatomi (Judo)
 **Course Name:** Functional Anatomy (Judo)

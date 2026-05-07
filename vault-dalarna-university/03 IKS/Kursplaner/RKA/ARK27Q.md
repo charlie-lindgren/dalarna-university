@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, RKA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 52bb07ee270489c7
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK27Q
 up: "[[Religionsvetenskap MOC]]"
 ---
 
 # ARK27Q
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK27Q)
 
 **Kursnamn:** Kvinnor och gudinnor på gränsen till den äldsta förhistorien
 **Course Name:** Women and Goddesses at the Beginning of History

@@ -10,10 +10,13 @@ amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL]
 scrape_hash: 45837b6742782ac4
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2GW
 up: "[[Italienska MOC]]"
 ---
 
 # GIT2GW
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2GW)
 
 **Kursnamn:** Italienska C: Italiensk språkvetenskap
 **Course Name:** Italian C: Italian Linguistics

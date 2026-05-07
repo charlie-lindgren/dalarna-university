@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 1c6f2a3fc9fab5e0
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2EB
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ2EB
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2EB)
 
 **Kursnamn:** Fakta, fiktion och flerkameraproduktion
 **Course Name:** Fact, Fiction and Multicamera Production

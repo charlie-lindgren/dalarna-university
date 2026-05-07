@@ -10,10 +10,13 @@ amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL]
 scrape_hash: 1ddac3d5f73243fe
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TP
 up: "[[Italienska MOC]]"
 ---
 
 # GIT2TP
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TP)
 
 **Kursnamn:** Italienska A: Kultur och samhälle, mellersta Italien
 **Course Name:** Italian A: Culture and Society, Central Italy

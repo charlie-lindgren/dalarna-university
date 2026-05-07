@@ -10,10 +10,13 @@ amne_kod: "PRA"
 institution: "ISLL"
 tags: [kursplan, PRA, ISLL]
 scrape_hash: 7b17b56ec85949e4
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR3GP
 up: "[[Portugisiska MOC]]"
 ---
 
 # GPR3GP
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR3GP)
 
 **Kursnamn:** Portugisiska II
 **Course Name:** Portuguese II

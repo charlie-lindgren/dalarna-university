@@ -10,10 +10,13 @@ amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
 scrape_hash: 9190d8eb72d2bb4b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ29X
 up: "[[Omvårdnad MOC]]"
 ---
 
 # AVÅ29X
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ29X)
 
 **Kursnamn:** Handledning inom omvårdnad vid Verksamhetsförlagd utbildning (VFU)
 **Course Name:** Supervision in Nursing at the Placement

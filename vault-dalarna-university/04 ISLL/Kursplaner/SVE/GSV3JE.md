@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, SVE, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 67fbc902672ac373
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3JE
 up: "[[Svenska MOC]]"
 ---
 
 # GSV3JE
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3JE)
 
 **Kursnamn:** Språk-, läs- och skrivutveckling i åldrarna 5–9 år
 **Course Name:** Language, reading and writing development at ages 5–9

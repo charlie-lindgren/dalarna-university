@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 31587a5fd6f1688b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG26J
 up: "[[Energiteknik MOC]]"
 ---
 
 # GEG26J
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG26J)
 
 **Kursnamn:** Vetenskaplig kommunikation
 **Course Name:** Scientific Communication

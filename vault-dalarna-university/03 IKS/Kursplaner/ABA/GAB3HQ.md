@@ -10,10 +10,13 @@ amne_kod: "ABA"
 institution: "IKS"
 tags: [kursplan, ABA, IKS]
 scrape_hash: db0d22e46db7ea91
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3HQ
 up: "[[Arbetsvetenskap MOC]]"
 ---
 
 # GAB3HQ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3HQ)
 
 **Kursnamn:** Personalarbete - med praktik
 **Course Name:** Personnel work - with internship

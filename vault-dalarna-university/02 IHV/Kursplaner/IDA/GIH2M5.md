@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 54a609c229179685
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2M5
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2M5
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2M5)
 
 **Kursnamn:** Tränings- och tävlingslära (Klättring)
 **Course Name:** Methodology of Training and Competition (Climbing)

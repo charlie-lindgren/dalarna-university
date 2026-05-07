@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: 3cc1e6f255c18007
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32N
 up: "[[Informatik MOC]]"
 ---
 
 # GIK32N
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32N)
 
 **Kursnamn:** Grafisk produktion
 **Course Name:** Graphic Production

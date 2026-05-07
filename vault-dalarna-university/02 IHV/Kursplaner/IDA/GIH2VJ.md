@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 3eb42484e653f167
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2VJ
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2VJ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2VJ)
 
 **Kursnamn:** Idrottsmedicin
 **Course Name:** Sports Medicine

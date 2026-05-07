@@ -10,10 +10,13 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: 6a310e8fbee2b19e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG39Y
 up: "[[Energiteknik MOC]]"
 ---
 
 # GEG39Y
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG39Y)
 
 **Kursnamn:** Elkraftteknik
 **Course Name:** Electrical Power Engineering

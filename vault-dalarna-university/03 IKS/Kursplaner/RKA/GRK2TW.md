@@ -10,10 +10,13 @@ amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
 scrape_hash: 9a766ea2147f55a2
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2TW
 up: "[[Religionsvetenskap MOC]]"
 ---
 
 # GRK2TW
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2TW)
 
 **Kursnamn:** Introduktion till mänskliga rättigheter i Afrika
 **Course Name:** Introduction to Human Rights in Africa

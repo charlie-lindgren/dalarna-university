@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, SSA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 697f636102cc9f0f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS22P
 up: "[[Svenska som andraspråk MOC]]"
 ---
 
 # GSS22P
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS22P)
 
 **Kursnamn:** Den globala skolan - förskola och grundskola
 **Course Name:** The Global School - Preschool, Primary School and Lower-Secondary School

@@ -10,10 +10,13 @@ amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
 scrape_hash: 0c5c72c046fc40cb
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ2AP
 up: "[[Omvårdnad MOC]]"
 ---
 
 # GVÅ2AP
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ2AP)
 
 **Kursnamn:** Människa, hälsa och samhälle
 **Course Name:** Humanity and Health in a Societal Perspective

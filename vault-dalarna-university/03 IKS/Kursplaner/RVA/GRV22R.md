@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, RVA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: e10e742235726fa9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRV22R
 up: "[[Rättsvetenskap MOC]]"
 ---
 
 # GRV22R
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRV22R)
 
 **Kursnamn:** Dataskyddsjuridik
 **Course Name:** Data Protection Law

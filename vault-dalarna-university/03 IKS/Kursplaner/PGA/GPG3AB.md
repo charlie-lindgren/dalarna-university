@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: cb228a1d749eca0e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AB
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG3AB
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AB)
 
 **Kursnamn:** Introduktion till läraryrket för ämneslärare årskurs 7–9 - AIL
 **Course Name:** Introduction to the Teaching Profession for Secondary Teachers - School Years 7–9 - Work-Integrated Programme

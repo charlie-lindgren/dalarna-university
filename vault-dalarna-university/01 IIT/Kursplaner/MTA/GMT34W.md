@@ -10,10 +10,13 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT]
 scrape_hash: 74a4e71db1ed6795
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34W
 up: "[[Maskinteknik MOC]]"
 ---
 
 # GMT34W
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34W)
 
 **Kursnamn:** Examensarbete för högskoleexamen i maskinteknik
 **Course Name:** Degree Project for a Higher Education Diploma in Mechanical Engineering

@@ -10,10 +10,13 @@ amne_kod: "KGA"
 institution: "IKS"
 tags: [kursplan, KGA, IKS]
 scrape_hash: 16afdf4eeed20692
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG3AT
 up: "[[Kulturgeografi MOC]]"
 ---
 
 # GKG3AT
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG3AT)
 
 **Kursnamn:** Geografiska Informationssystem (GIS) 2: Rumslig analys
 **Course Name:** Geographic Information Systems (GIS) 2: Spatial Analysis

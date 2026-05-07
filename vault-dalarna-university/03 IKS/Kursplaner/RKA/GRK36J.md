@@ -10,10 +10,13 @@ amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
 scrape_hash: 6fd0ce0537eca645
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK36J
 up: "[[Religionsvetenskap MOC]]"
 ---
 
 # GRK36J
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK36J)
 
 **Kursnamn:** Från populärkultur till fiktionsbaserad religion
 **Course Name:** From Popular Culture to Fiction-Based Religion

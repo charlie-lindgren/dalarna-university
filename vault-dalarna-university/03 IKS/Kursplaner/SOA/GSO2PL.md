@@ -10,10 +10,13 @@ amne_kod: "SOA"
 institution: "IKS"
 tags: [kursplan, SOA, IKS]
 scrape_hash: d5f819e557cc91a5
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO2PL
 up: "[[Sociologi MOC]]"
 ---
 
 # GSO2PL
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO2PL)
 
 **Kursnamn:** Sociala exkluderingsprocesser
 **Course Name:** Social Exclusion Processes

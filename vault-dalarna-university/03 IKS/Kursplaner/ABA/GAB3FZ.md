@@ -10,10 +10,13 @@ amne_kod: "ABA"
 institution: "IKS"
 tags: [kursplan, ABA, IKS]
 scrape_hash: b05fedf045d6032c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3FZ
 up: "[[Arbetsvetenskap MOC]]"
 ---
 
 # GAB3FZ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3FZ)
 
 **Kursnamn:** Hållbart arbetsliv, personalarbete och vetenskap
 **Course Name:** Sustainable Working Life, Human Resources and Science

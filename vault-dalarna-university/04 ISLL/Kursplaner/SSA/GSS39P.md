@@ -10,10 +10,13 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
 scrape_hash: f20529c80aadba62
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS39P
 up: "[[Svenska som andraspråk MOC]]"
 ---
 
 # GSS39P
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS39P)
 
 **Kursnamn:** Svenska som andraspråk III - Andraspråksforskning: en forskningsöversikt
 **Course Name:** Swedish as a Second Language III - Second Language Research: A Research Review

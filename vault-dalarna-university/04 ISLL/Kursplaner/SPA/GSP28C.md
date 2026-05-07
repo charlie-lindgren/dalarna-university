@@ -10,10 +10,13 @@ amne_kod: "SPA"
 institution: "ISLL"
 tags: [kursplan, SPA, ISLL]
 scrape_hash: 69fd6ed76f52981a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP28C
 up: "[[Spanska MOC]]"
 ---
 
 # GSP28C
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP28C)
 
 **Kursnamn:** Spanska III med didaktisk inriktning för gymnasieskolan
 **Course Name:** Spanish III for Teacher Students for Upper Secondary School

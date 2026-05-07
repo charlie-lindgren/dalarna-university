@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, SRP, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: b2706aa0e81b5b5e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR24V
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
 
 # ASR24V
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR24V)
 
 **Kursnamn:** Global sexuell reproduktiv hälsa och rättigheter
 **Course Name:** Global Sexual, Reproductive Health and Rights

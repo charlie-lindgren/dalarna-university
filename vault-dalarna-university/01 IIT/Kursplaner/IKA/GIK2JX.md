@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: 76780a6ca5557f64
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2JX
 up: "[[Informatik MOC]]"
 ---
 
 # GIK2JX
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2JX)
 
 **Kursnamn:** Webbaserade geografiska informationssystem (GIS)
 **Course Name:** Web-based Geographic Information Systems (GIS)

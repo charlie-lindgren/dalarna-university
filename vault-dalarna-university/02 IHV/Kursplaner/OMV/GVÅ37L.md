@@ -10,10 +10,13 @@ amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
 scrape_hash: 4cd888fb7163e09a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ37L
 up: "[[Omvårdnad MOC]]"
 ---
 
 # GVÅ37L
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ37L)
 
 **Kursnamn:** Leda och samverka i personcentrerad vård
 **Course Name:** To Lead and Collaborate in Person-Centred Care

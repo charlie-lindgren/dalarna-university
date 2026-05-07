@@ -10,10 +10,13 @@ amne_kod: "ABA"
 institution: "IKS"
 tags: [kursplan, ABA, IKS]
 scrape_hash: c8c672f798736733
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3H7
 up: "[[Arbetsvetenskap MOC]]"
 ---
 
 # GAB3H7
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3H7)
 
 **Kursnamn:** Kvalitativ och kvantitativ metod
 **Course Name:** Qualitative and Quantitative Methods

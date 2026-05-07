@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 4632e6df111359eb
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2BC
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # APG2BC
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2BC)
 
 **Kursnamn:** Professionellt lärarskap och skolutveckling - KPU (varav 10 hp VFU)
 **Course Name:** Professional Teaching and School Development (including 10 credits Placement)

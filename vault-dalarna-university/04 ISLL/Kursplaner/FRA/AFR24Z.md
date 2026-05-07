@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, FRA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 5844d06f85aef7b5
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR24Z
 up: "[[Franska MOC]]"
 ---
 
 # AFR24Z
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR24Z)
 
 **Kursnamn:** Franska: Argumentation och retorik
 **Course Name:** French: Argumentation and Rhetoric

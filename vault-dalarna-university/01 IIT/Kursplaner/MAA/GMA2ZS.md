@@ -10,10 +10,13 @@ amne_kod: "MAA"
 institution: "IIT"
 tags: [kursplan, MAA, IIT]
 scrape_hash: 2481d437a95ec34e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2ZS
 up: "[[Matematik MOC]]"
 ---
 
 # GMA2ZS
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2ZS)
 
 **Kursnamn:** Analys i en variabel
 **Course Name:** Single Variable Calculus

@@ -10,10 +10,13 @@ amne_kod: "MAA"
 institution: "IIT"
 tags: [kursplan, MAA, IIT]
 scrape_hash: fc58e0e37b618db8
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2ZT
 up: "[[Matematik MOC]]"
 ---
 
 # GMA2ZT
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2ZT)
 
 **Kursnamn:** Inledande matematik
 **Course Name:** Introductory Course in Mathematics

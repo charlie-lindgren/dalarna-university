@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, SQQ, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 7b1a21ed674ce82f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ23K
 up: "[[Samhällsbyggnadsteknik MOC]]"
 ---
 
 # GSQ23K
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ23K)
 
 **Kursnamn:** Planeringsprojekt
 **Course Name:** Planning Project

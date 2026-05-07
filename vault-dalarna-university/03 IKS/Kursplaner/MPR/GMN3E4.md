@@ -10,10 +10,13 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
 scrape_hash: 373e4babc3d3aba6
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3E4
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3E4
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3E4)
 
 **Kursnamn:** Musikproduktion i studio
 **Course Name:** Music Production in the Studio

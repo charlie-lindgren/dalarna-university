@@ -10,10 +10,13 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
 scrape_hash: f0e19c7ca55821a6
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA24L
 up: "[[Socialt arbete MOC]]"
 ---
 
 # ASA24L
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA24L)
 
 **Kursnamn:** Barn och ungas olika utvecklingsnivåer
 **Course Name:** Children and Young People‘s Different Stages of Development

@@ -10,10 +10,13 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: 8c8859f8cce6edb4
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZR
 up: "[[Energiteknik MOC]]"
 ---
 
 # GEG2ZR
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZR)
 
 **Kursnamn:** Introduktion till hållbara energisystem
 **Course Name:** Introduction to Sustainable Energy Systems

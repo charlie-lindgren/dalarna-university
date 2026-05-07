@@ -10,10 +10,13 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
 scrape_hash: 62ef3e52c4db391e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EB
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3EB
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EB)
 
 **Kursnamn:** Audioteknologi och -teori
 **Course Name:** Audio Technology and Theory

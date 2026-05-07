@@ -10,10 +10,13 @@ amne_kod: "SQQ"
 institution: "IIT"
 tags: [kursplan, SQQ, IIT]
 scrape_hash: 0c5215183d690c5b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2J4
 up: "[[Samhällsbyggnadsteknik MOC]]"
 ---
 
 # GSQ2J4
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2J4)
 
 **Kursnamn:** Regional och ekonomisk planering
 **Course Name:** Regional and Economic Planning

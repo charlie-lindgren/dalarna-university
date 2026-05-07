@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: 8286a56276bf8e3b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BU
 up: "[[Engelska MOC]]"
 ---
 
 # AEN2BU
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BU)
 
 **Kursnamn:** Interkulturella litteraturstudier: Översättningsprojekt
 **Course Name:** Intercultural Literature Studies: Translation Project

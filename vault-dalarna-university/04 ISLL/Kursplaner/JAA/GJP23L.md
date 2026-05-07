@@ -10,10 +10,13 @@ amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
 scrape_hash: 45d5bd493030fe0c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP23L
 up: "[[Japanska MOC]]"
 ---
 
 # GJP23L
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP23L)
 
 **Kursnamn:** Japanska III: Att läsa manga
 **Course Name:** Japanese III: Reading Manga

@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, RKA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: f8b18162578c6b9f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2P4
 up: "[[Religionsvetenskap MOC]]"
 ---
 
 # GRK2P4
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2P4)
 
 **Kursnamn:** Religionsvetenskap III med didaktisk inriktning för gymnasieskolan
 **Course Name:** Religious Studies III for Teacher Education Students for Upper Secondary School

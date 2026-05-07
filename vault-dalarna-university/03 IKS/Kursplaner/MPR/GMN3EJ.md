@@ -10,10 +10,13 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
 scrape_hash: 518c90743f8ea27f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EJ
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3EJ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EJ)
 
 **Kursnamn:** Liveljud
 **Course Name:** Live Sound

@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 59dc50b10285ed3c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2DE
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2DE
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2DE)
 
 **Kursnamn:** Funktionell anatomi (Styrkelyft)
 **Course Name:** Functional Anatomy (Powerlifting)

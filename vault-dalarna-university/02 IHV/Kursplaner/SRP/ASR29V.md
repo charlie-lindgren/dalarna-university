@@ -10,10 +10,13 @@ amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV]
 scrape_hash: 72df84754091606c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29V
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
 
 # ASR29V
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29V)
 
 **Kursnamn:** Gynekologisk vård och postpartumvård, verksamhetsförlagd utbildning
 **Course Name:** Gynecological and Postpartum Care, Clinical Practice

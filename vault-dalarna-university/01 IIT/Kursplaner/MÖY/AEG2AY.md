@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: ed0c1deba898391e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AY
 up: "[[Energiteknik MOC]]"
 ---
 
 # AEG2AY
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AY)
 
 **Kursnamn:** Elektriska lagringssystem och tjänster
 **Course Name:** Electrical Storage Systems and Services

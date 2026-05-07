@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, SQQ, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 85cffa5f8df99613
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25J
 up: "[[Samhällsbyggnadsteknik MOC]]"
 ---
 
 # GSQ25J
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25J)
 
 **Kursnamn:** Vetenskaplig metod
 **Course Name:** Scientific Research Methods

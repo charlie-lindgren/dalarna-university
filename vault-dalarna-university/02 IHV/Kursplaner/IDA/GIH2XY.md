@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: 44254b3e3a0e7423
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2XY
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2XY
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2XY)
 
 **Kursnamn:** Idrottsvetenskaplig uppsats
 **Course Name:** Sport Science Essay

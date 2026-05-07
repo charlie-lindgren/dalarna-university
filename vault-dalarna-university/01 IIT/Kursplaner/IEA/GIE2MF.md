@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, IEA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 86eab14410ccd352
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2MF
 up: "[[Industriell ekonomi MOC]]"
 ---
 
 # GIE2MF
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2MF)
 
 **Kursnamn:** Industriell ekonomi - verksamhetsstyrning
 **Course Name:** Industrial Management - Business Process Management

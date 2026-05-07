@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, SAA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 7162660c3f50060f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA24M
 up: "[[Socialt arbete MOC]]"
 ---
 
 # ASA24M
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA24M)
 
 **Kursnamn:** Välfärdsteknik i vård och omsorg
 **Course Name:** Welfare Technology in Health and Social Care

@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 4351336a4b5a37e6
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ29E
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ29E
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ29E)
 
 **Kursnamn:** Exponeringsprojekt i bildproduktion
 **Course Name:** Project in Media Production

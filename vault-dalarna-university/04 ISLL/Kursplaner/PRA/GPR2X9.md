@@ -10,10 +10,13 @@ amne_kod: "PRA"
 institution: "ISLL"
 tags: [kursplan, PRA, ISLL]
 scrape_hash: 58aee8de1ce338a2
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR2X9
 up: "[[Portugisiska MOC]]"
 ---
 
 # GPR2X9
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR2X9)
 
 **Kursnamn:** Det nutida Portugal: Litteratur och samhälle
 **Course Name:** Contemporary Portugal: Literature and Society

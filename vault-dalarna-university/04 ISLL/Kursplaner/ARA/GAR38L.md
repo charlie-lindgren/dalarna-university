@@ -10,10 +10,13 @@ amne_kod: "ARA"
 institution: "ISLL"
 tags: [kursplan, ARA, ISLL]
 scrape_hash: 9337fb2f64fb83ec
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR38L
 up: "[[Arabiska MOC]]"
 ---
 
 # GAR38L
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR38L)
 
 **Kursnamn:** Arabiska III
 **Course Name:** Arabic III

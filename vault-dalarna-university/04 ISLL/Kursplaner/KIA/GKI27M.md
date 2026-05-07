@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, KIA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 869fad9bedcd202b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI27M
 up: "[[Kinesiska MOC]]"
 ---
 
 # GKI27M
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI27M)
 
 **Kursnamn:** Kinesiska V: Fördjupningskurs i modern kinesiska
 **Course Name:** Chinese V: Specialisation Course in Modern Chinese

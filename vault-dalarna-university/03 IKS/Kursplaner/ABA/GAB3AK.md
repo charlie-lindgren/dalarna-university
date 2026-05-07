@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, ABA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: e9a0159638c3881e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3AK
 up: "[[Arbetsvetenskap MOC]]"
 ---
 
 # GAB3AK
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3AK)
 
 **Kursnamn:** Kommunal styrning och förändringsarbete
 **Course Name:** Municipal Governance and Development

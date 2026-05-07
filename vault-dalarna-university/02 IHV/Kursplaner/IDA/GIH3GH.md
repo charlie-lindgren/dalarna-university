@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: a942d0f9ac4eef83
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GH
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3GH
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GH)
 
 **Kursnamn:** Åldersanpassad träning
 **Course Name:** Age-adapted training

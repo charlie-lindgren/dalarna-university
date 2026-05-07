@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: a509153d5e08554a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG3FY
 up: "[[Energiteknik MOC]]"
 ---
 
 # GEG3FY
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG3FY)
 
 **Kursnamn:** Praktik inom energiteknik
 **Course Name:** Energy Engineering Internship

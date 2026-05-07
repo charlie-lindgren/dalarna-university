@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, ITA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: d25ffe6b6f1c60a4
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TK
 up: "[[Italienska MOC]]"
 ---
 
 # GIT2TK
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TK)
 
 **Kursnamn:** Italienska A: Kultur och samhälle, de italienska öarna
 **Course Name:** Italian A: Culture and Society, the Italian Islands

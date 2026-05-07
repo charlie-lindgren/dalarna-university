@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, NAV, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: ad77fb51736a87d0
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3GV
 up: "[[Naturvetenskap MOC]]"
 ---
 
 # GNV3GV
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3GV)
 
 **Kursnamn:** Naturorienterande ämnen och teknik för lärare i årskurs 1-3. Ingår i lärarlyftet.
 **Course Name:** Science and Technology for Primary School Teachers, Years 1-3

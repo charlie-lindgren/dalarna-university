@@ -10,10 +10,13 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
 scrape_hash: 9b598c1c43df08e5
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3E9
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3E9
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3E9)
 
 **Kursnamn:** Dialog och personregi för manusbundet berättande för olika medieplattformar
 **Course Name:** Dialogue and Character Directing in Scripted Storytelling for Media Platforms

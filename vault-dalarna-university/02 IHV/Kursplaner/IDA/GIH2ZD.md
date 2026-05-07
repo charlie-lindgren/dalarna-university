@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: 06b961674e15827c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZD
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2ZD
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZD)
 
 **Kursnamn:** Simning (VAL)
 **Course Name:** Swimming (CPD For Teachers)

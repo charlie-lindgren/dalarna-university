@@ -10,10 +10,13 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: 125721af8fb186c9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG26X
 up: "[[Energiteknik MOC]]"
 ---
 
 # AEG26X
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG26X)
 
 **Kursnamn:** Design av PV- och hybridsystem
 **Course Name:** Design of PV and PV Hybrid Systems

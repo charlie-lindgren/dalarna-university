@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 35140fb4043488d8
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CH
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG3CH
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CH)
 
 **Kursnamn:** Didaktik och ledarskap i förskoleklass och grundskolans årskurs 1-3 (inkl 7,5 hp VFU)
 **Course Name:** Didactics and Leadership in Preschool Class and Primary School Years 1-3 (incl. 7.5 credits, school placement)

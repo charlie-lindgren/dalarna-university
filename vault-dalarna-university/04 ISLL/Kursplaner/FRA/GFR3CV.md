@@ -10,10 +10,13 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
 scrape_hash: e762b64283b68806
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3CV
 up: "[[Franska MOC]]"
 ---
 
 # GFR3CV
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3CV)
 
 **Kursnamn:** Franska II: Muntlig franska
 **Course Name:** French II: Spoken French

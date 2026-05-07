@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: f7ec3e84087abb8a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BV
 up: "[[Engelska MOC]]"
 ---
 
 # AEN2BV
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BV)
 
 **Kursnamn:** Interkulturella litteraturstudier: Litteratur och genus - teori och kritik
 **Course Name:** Intercultural Literature Studies: Literature and Gender - Literary Theory and Criticism

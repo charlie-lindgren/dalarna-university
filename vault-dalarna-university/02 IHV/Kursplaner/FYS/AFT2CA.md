@@ -10,10 +10,13 @@ amne_kod: "FYS"
 institution: "IHV"
 tags: [kursplan, FYS, IHV]
 scrape_hash: 120aec259fb5f0a9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFT2CA
 up: "[[Fysioterapi MOC]]"
 ---
 
 # AFT2CA
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFT2CA)
 
 **Kursnamn:** Fysioterapi med fokus på långvarig smärta och hållbar utveckling
 **Course Name:** Physiotherapy with focus on chronic pain and sustainable development

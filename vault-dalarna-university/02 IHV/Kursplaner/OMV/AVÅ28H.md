@@ -10,10 +10,13 @@ amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
 scrape_hash: 9a3b3ac04fd5843c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ28H
 up: "[[Omvårdnad MOC]]"
 ---
 
 # AVÅ28H
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ28H)
 
 **Kursnamn:** Nutrition och ätande (fristående kurs)
 **Course Name:** Nutrition And Eating (freestanding course)

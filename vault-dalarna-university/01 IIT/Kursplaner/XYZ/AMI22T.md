@@ -10,10 +10,13 @@ amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
 scrape_hash: 422c760bdde4f205
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI22T
 up: "[[Mikrodataanalys MOC]]"
 ---
 
 # AMI22T
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI22T)
 
 **Kursnamn:** Statistisk inlärning
 **Course Name:** Statistical Learning

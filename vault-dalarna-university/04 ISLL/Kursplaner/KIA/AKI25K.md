@@ -10,10 +10,13 @@ amne_kod: "KIA"
 institution: "ISLL"
 tags: [kursplan, KIA, ISLL]
 scrape_hash: 610f02d5389e9409
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKI25K
 up: "[[Kinesiska MOC]]"
 ---
 
 # AKI25K
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKI25K)
 
 **Kursnamn:** Examensarbete i kinesiska för ämneslärarexamen, inriktning gymnasieskolan
 **Course Name:** Degree Thesis in Chinese for Master of Arts in Education, Upper Secondary School

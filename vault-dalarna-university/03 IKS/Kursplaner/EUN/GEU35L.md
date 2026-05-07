@@ -10,10 +10,13 @@ amne_kod: "EUN"
 institution: "IKS"
 tags: [kursplan, EUN, IKS]
 scrape_hash: e4588b667892bf66
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU35L
 up: "[[Entreprenörskap och innovationsteknik MOC]]"
 ---
 
 # GEU35L
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU35L)
 
 **Kursnamn:** Projektledning I
 **Course Name:** Project Management I

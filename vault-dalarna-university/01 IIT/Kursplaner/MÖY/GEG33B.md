@@ -10,10 +10,13 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: 842919df0006bfba
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG33B
 up: "[[Energiteknik MOC]]"
 ---
 
 # GEG33B
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG33B)
 
 **Kursnamn:** Installation av solcellsanläggningar
 **Course Name:** Installation of PV-systems

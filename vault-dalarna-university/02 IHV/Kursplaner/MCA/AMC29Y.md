@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, MCA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 97dce5146ace79e3
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC29Y
 up: "[[Medicinsk vetenskap MOC]]"
 ---
 
 # AMC29Y
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC29Y)
 
 **Kursnamn:** Förskrivningsrätt för vissa läkemedel och förbrukningsartiklar
 **Course Name:** Prescribing of Specific Drugs and Consumers´ Articles

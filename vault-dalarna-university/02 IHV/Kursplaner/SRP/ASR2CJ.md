@@ -10,10 +10,13 @@ amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV]
 scrape_hash: 8885797473b7c8d5
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CJ
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
 
 # ASR2CJ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CJ)
 
 **Kursnamn:** Ledarskap och organisation inom hälso- och sjukvårdssystem
 **Course Name:** Leadership and Management within Health Care Systems

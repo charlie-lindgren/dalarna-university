@@ -10,10 +10,13 @@ amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
 scrape_hash: f1f540778b20e9e4
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ2WE
 up: "[[Företagsekonomi MOC]]"
 ---
 
 # GFÖ2WE
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ2WE)
 
 **Kursnamn:** Extern redovisning A
 **Course Name:** Financial Accounting A

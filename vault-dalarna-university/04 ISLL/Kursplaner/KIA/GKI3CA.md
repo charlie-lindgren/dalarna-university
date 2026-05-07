@@ -10,10 +10,13 @@ amne_kod: "KIA"
 institution: "ISLL"
 tags: [kursplan, KIA, ISLL]
 scrape_hash: b8bfe1d0024cdf35
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3CA
 up: "[[Kinesiska MOC]]"
 ---
 
 # GKI3CA
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3CA)
 
 **Kursnamn:** Kinesiska i tal och skrift III
 **Course Name:** Chinese in Speech and Writing III

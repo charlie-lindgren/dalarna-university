@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 7aa7038a4e6e65ef
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3JP
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG3JP
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3JP)
 
 **Kursnamn:** Interkulturell och inkluderande undervisning i globala sammanhang
 **Course Name:** Intercultural and Inclusive Teaching in Global Contexts

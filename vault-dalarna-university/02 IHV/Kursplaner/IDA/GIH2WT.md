@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 8ebb90277334088f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2WT
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2WT
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2WT)
 
 **Kursnamn:** Fotbollstränare - inriktning barn och ungdom (6-15 år)
 **Course Name:** Football Coach - Specialisation Children and Adolescents (6-15 Years)

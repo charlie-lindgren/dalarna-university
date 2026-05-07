@@ -10,10 +10,13 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: 28009b85e74676af
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG38F
 up: "[[Energiteknik MOC]]"
 ---
 
 # GEG38F
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG38F)
 
 **Kursnamn:** Grundläggande energiteknik
 **Course Name:** Basic Energy Technology

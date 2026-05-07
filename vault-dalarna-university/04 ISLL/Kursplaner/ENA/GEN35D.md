@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: 7bd867aabc015c37
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN35D
 up: "[[Engelska MOC]]"
 ---
 
 # GEN35D
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN35D)
 
 **Kursnamn:** Introduktion till akademisk engelska
 **Course Name:** Introduction to Academic English

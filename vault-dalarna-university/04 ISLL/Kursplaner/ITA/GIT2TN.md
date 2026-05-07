@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, ITA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: f1bc2280ec7bf826
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TN
 up: "[[Italienska MOC]]"
 ---
 
 # GIT2TN
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TN)
 
 **Kursnamn:** Italienska A: Textanalys, deckargenren
 **Course Name:** Italian A: Text Analysis, the Detective Genre

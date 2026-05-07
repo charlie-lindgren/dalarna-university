@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 9a3c93f7e360078c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG26D
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # APG26D
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG26D)
 
 **Kursnamn:** Didaktisk analys för fortsatt professionsutveckling
 **Course Name:** Didactical Analysis for Continued Professional Development

@@ -10,10 +10,13 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS]
 scrape_hash: 93050ba0f1c7aabc
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2QB
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ2QB
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2QB)
 
 **Kursnamn:** Kvalificerat filmmanusprojekt
 **Course Name:** Advanced Project in Scriptwriting for Film

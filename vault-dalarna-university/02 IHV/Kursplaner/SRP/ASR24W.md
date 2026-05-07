@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, SRP, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 61520f09f801e3cd
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR24W
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
 
 # ASR24W
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR24W)
 
 **Kursnamn:** Forskningsmetodik inom global sexuell och reproduktiv hälsa
 **Course Name:** Research Methods in Global Sexual, Reproductive Health

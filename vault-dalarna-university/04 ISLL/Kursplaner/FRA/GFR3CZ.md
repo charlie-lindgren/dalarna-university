@@ -10,10 +10,13 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
 scrape_hash: a79ff5249565f784
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3CZ
 up: "[[Franska MOC]]"
 ---
 
 # GFR3CZ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3CZ)
 
 **Kursnamn:** Franska III: Examensarbete för kandidatexamen
 **Course Name:** French III: Bachelor’s Degree Thesis

@@ -9,10 +9,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: 8d7f974aa835b4fc
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2NV
 up: "[[Informatik MOC]]"
 ---
 
 # GIK2NV
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2NV)
 
 **Kursnamn:** Data Storage and Management Technologies
 

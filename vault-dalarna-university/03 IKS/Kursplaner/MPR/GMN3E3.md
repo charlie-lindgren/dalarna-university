@@ -10,10 +10,13 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
 scrape_hash: b3519f50f002e6c4
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3E3
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3E3
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3E3)
 
 **Kursnamn:** Konceptutveckling
 **Course Name:** Concept Development

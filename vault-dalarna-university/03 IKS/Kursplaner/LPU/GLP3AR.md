@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, LPU, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 338a97fe79f19b46
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP3AR
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
 
 # GLP3AR
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP3AR)
 
 **Kursnamn:** Ljud- och musikproduktion med Pro Tools
 **Course Name:** Sound and Music Production with Pro Tools

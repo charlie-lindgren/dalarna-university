@@ -10,10 +10,13 @@ amne_kod: "ARA"
 institution: "ISLL"
 tags: [kursplan, ARA, ISLL]
 scrape_hash: 0d3ccd1e086b4d2c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR2HR
 up: "[[Arabiska MOC]]"
 ---
 
 # GAR2HR
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR2HR)
 
 **Kursnamn:** Arabisk barnlitteratur
 **Course Name:** Arabic: Children‘s Literature

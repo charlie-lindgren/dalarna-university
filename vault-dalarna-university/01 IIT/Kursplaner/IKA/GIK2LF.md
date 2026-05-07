@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: 37bf80d95f1f92c0
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2LF
 up: "[[Informatik MOC]]"
 ---
 
 # GIK2LF
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2LF)
 
 **Kursnamn:** Digital bild
 **Course Name:** Digital Imaging

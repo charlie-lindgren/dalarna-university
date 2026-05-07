@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, FRA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: c622e3d5654b0b2f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2KQ
 up: "[[Franska MOC]]"
 ---
 
 # GFR2KQ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2KQ)
 
 **Kursnamn:** Franska III: Språkhistoria
 **Course Name:** French III: History of the French Language

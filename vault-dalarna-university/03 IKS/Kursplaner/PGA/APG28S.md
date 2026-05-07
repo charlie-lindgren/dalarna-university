@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 86c7a0268cab9cc3
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG28S
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # APG28S
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG28S)
 
 **Kursnamn:** Verksamhetsförlagd utbildning i grundskolan årskurs 7-9
 **Course Name:** Placement in Secondary School, School Years 7-9

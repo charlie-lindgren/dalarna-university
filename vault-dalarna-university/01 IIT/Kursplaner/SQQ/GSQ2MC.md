@@ -10,10 +10,13 @@ amne_kod: "SQQ"
 institution: "IIT"
 tags: [kursplan, SQQ, IIT]
 scrape_hash: ab24dc43eb0fc4c5
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2MC
 up: "[[Samhällsbyggnadsteknik MOC]]"
 ---
 
 # GSQ2MC
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2MC)
 
 **Kursnamn:** Trafikplanering
 **Course Name:** Traffic Planning

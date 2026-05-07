@@ -10,10 +10,13 @@ amne_kod: "LPU"
 institution: "IKS"
 tags: [kursplan, LPU, IKS]
 scrape_hash: 3462611c02aef378
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP29T
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
 
 # GLP29T
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP29T)
 
 **Kursnamn:** Musikproduktion i praktiken
 **Course Name:** Music Production in Practice

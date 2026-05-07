@@ -10,10 +10,13 @@ amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
 scrape_hash: 21b7ddfd8792fc93
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ2UF
 up: "[[Företagsekonomi MOC]]"
 ---
 
 # GFÖ2UF
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ2UF)
 
 **Kursnamn:** Hållbar företagsstrategi
 **Course Name:** Sustainable Business Strategy

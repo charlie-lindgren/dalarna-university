@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 4d6a88a60089e600
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG33E
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG33E
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG33E)
 
 **Kursnamn:** Sociala relationer, skolans historiska utveckling och samhällsuppdrag - VAL
 **Course Name:** Social Relations, the History and Civic Mission of the School System - Professional Qualification Course

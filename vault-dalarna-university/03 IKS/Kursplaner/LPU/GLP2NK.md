@@ -10,10 +10,13 @@ amne_kod: "LPU"
 institution: "IKS"
 tags: [kursplan, LPU, IKS]
 scrape_hash: f0412e39974f1b3b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2NK
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
 
 # GLP2NK
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2NK)
 
 **Kursnamn:** Konceptutveckling inom medieproduktion för Ljud- och musikproduktion
 **Course Name:** Concept Development in Media Production for Sound and Music Production

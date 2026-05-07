@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: f2223113427ef188
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2NR
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2NR
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2NR)
 
 **Kursnamn:** Grundläggande funktionell anatomi, biomekanik och rörelseanalys
 **Course Name:** Basic Functional Anatomy, Biomechanics and Movement Analysis

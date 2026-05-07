@@ -10,10 +10,13 @@ amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
 scrape_hash: 4f2d40451e8da44e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2UP
 up: "[[Turismvetenskap MOC]]"
 ---
 
 # GTR2UP
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2UP)
 
 **Kursnamn:** Turismens principer och praktiker
 **Course Name:** Tourism Principles and Practice

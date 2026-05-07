@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PEE, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 0f196b21225d7922
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA32D
 up: "[[Personal och arbetsliv MOC]]"
 ---
 
 # GPA32D
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA32D)
 
 **Kursnamn:** Individuella lärprocesser och kompetensutveckling
 **Course Name:** Individual Learning Processes and Competence Development

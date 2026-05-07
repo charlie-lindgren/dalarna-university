@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, IKA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: c0416536e047c306
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YP
 up: "[[Informatik MOC]]"
 ---
 
 # GIK2YP
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YP)
 
 **Kursnamn:** Webbdesign
 **Course Name:** Web Design

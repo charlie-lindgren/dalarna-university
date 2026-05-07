@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, SSA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: d8e934168b396183
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS22M
 up: "[[Svenska som andraspråk MOC]]"
 ---
 
 # GSS22M
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS22M)
 
 **Kursnamn:** Studiehandledning på modersmål
 **Course Name:** Study Guidance in the Pupil‘s Native Language

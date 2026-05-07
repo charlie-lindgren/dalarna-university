@@ -10,10 +10,13 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT]
 scrape_hash: 53a296b1ab7c429f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3J2
 up: "[[Maskinteknik MOC]]"
 ---
 
 # GMT3J2
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3J2)
 
 **Kursnamn:** Grunderna i fysisk och kognitiv tillgänglighet
 **Course Name:** Basics of physical and cognitive accessibility

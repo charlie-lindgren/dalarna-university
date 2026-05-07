@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MTA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 86f3241934e4b653
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JV
 up: "[[Maskinteknik MOC]]"
 ---
 
 # GMT3JV
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JV)
 
 **Kursnamn:** Assisterande robotik
 **Course Name:** Assistive Robotics

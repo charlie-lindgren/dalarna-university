@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 2a650bfa0ebe7326
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2VX
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG2VX
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2VX)
 
 **Kursnamn:** Självständigt arbete för yrkeslärare
 **Course Name:** Independent Work for Vocational Education Teacher

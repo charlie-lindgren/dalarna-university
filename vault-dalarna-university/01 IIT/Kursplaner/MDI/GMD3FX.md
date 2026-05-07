@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MDI, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 1248f69d5a14e20d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD3FX
 up: "[[Matematikdidaktik MOC]]"
 ---
 
 # GMD3FX
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD3FX)
 
 **Kursnamn:** Matematikutveckling i förskoleklass och årskurs 1–3 utifrån första- och andraspråksperspektiv
 **Course Name:** Mathematics Development in Preschool Class and Grades 1–3 from a First and Second Language Perspective

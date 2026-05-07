@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: 4a5ad92dbb592748
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK28T
 up: "[[Informatik MOC]]"
 ---
 
 # GIK28T
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK28T)
 
 **Kursnamn:** Examensarbete för kandidatexamen i Informatik
 **Course Name:** Thesis for Bachelor Degree in Informatics

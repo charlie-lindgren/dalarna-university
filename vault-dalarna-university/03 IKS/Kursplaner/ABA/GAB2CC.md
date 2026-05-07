@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, ABA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: c58c8aa5405306ee
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB2CC
 up: "[[Arbetsvetenskap MOC]]"
 ---
 
 # GAB2CC
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB2CC)
 
 **Kursnamn:** Ny som ledare
 **Course Name:** New as Manager

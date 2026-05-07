@@ -10,11 +10,14 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS, vilande]
 scrape_hash: b3925daf1e88b644
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2CC
 up: "[[Pedagogiskt arbete MOC]]"
 cssclasses: [vilande]
 ---
 
 # APG2CC
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2CC)
 
 **Kursnamn:** Mentorsutbildning för en kvalitativ introduktionsperiod
 **Course Name:** Mentor training for a high-quality introduction

@@ -10,10 +10,13 @@ amne_kod: "VÅE"
 institution: "IHV"
 tags: [kursplan, VÅE, IHV]
 scrape_hash: 26032288dbf6db18
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVV3JJ
 up: "[[Vårdvetenskap MOC]]"
 ---
 
 # GVV3JJ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVV3JJ)
 
 **Kursnamn:** Människokroppen och funktionsnedsättningar
 **Course Name:** The human body and impairments

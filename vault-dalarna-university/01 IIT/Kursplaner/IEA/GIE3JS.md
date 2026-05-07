@@ -10,10 +10,13 @@ amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
 scrape_hash: 7977367c9923895a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3JS
 up: "[[Industriell ekonomi MOC]]"
 ---
 
 # GIE3JS
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3JS)
 
 **Kursnamn:** Examensarbete för kandidatexamen i Industriell ekonomi
 **Course Name:** Thesis for Bachelor´s degree in Industrial Engineering and Management

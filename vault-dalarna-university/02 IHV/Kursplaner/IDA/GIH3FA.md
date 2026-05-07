@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: 2c2dbe99b7e662af
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3FA
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3FA
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3FA)
 
 **Kursnamn:** Coachning och idrottsdidaktik
 **Course Name:** Coaching and sport didactics

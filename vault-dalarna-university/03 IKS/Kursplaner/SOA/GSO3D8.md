@@ -10,10 +10,13 @@ amne_kod: "SOA"
 institution: "IKS"
 tags: [kursplan, SOA, IKS]
 scrape_hash: fca2250bdc62ca38
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO3D8
 up: "[[Sociologi MOC]]"
 ---
 
 # GSO3D8
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO3D8)
 
 **Kursnamn:** Introduktion till samhällsvetenskap
 **Course Name:** Introduction to Social Science

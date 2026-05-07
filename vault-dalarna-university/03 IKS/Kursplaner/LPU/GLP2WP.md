@@ -10,10 +10,13 @@ amne_kod: "LPU"
 institution: "IKS"
 tags: [kursplan, LPU, IKS]
 scrape_hash: c3c2dec715094df2
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2WP
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
 
 # GLP2WP
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2WP)
 
 **Kursnamn:** Projektarbete inom medieproduktion, fördjupningskurs
 **Course Name:** Project Work in Media Production, Specialisation Course

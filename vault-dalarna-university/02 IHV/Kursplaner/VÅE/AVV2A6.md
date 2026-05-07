@@ -10,10 +10,13 @@ amne_kod: "VÅE"
 institution: "IHV"
 tags: [kursplan, VÅE, IHV]
 scrape_hash: 561699a67d6db005
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVV2A6
 up: "[[Vårdvetenskap MOC]]"
 ---
 
 # AVV2A6
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVV2A6)
 
 **Kursnamn:** Säker hälso- och sjukvård samt omsorg - komplexa system och förbättringskunskap
 **Course Name:** Safe Health Care and Social Care - Complex Systems and Improvement Knowledge

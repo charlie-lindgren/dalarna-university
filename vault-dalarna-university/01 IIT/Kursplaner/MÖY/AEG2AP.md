@@ -10,10 +10,13 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: 209e2d7c653e8ef7
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AP
 up: "[[Energiteknik MOC]]"
 ---
 
 # AEG2AP
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AP)
 
 **Kursnamn:** Solenergins ekonomi och förvaltning av solcellssystem
 **Course Name:** Solar Economics and PV Asset Management

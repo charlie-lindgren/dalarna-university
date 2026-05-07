@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, FRA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 0fba96dd71693c71
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR27R
 up: "[[Franska MOC]]"
 ---
 
 # GFR27R
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR27R)
 
 **Kursnamn:** Franskspråkig litteratur II: Fram till 1900
 **Course Name:** French Literature II: Up to 1900

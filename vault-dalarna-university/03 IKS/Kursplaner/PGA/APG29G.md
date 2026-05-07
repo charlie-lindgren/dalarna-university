@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 82b640faedc8cde6
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG29G
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # APG29G
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG29G)
 
 **Kursnamn:** Att vägleda kollegor och lärarstudenter för professionsutveckling
 **Course Name:** Professional Development Guidance for Colleagues and Student Teachers

@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MDI, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 8e453955ff5d584c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2H5
 up: "[[Matematikdidaktik MOC]]"
 ---
 
 # GMD2H5
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2H5)
 
 **Kursnamn:** Envariabelanalys
 **Course Name:** Calculus in One Variable

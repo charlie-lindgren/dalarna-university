@@ -10,10 +10,13 @@ amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
 scrape_hash: 7ff647a4b1ecaa35
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP37W
 up: "[[Japanska MOC]]"
 ---
 
 # GJP37W
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP37W)
 
 **Kursnamn:** Japanska IV: Haiku
 **Course Name:** Japanese IV: Haiku

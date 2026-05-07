@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, HIA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 06868bc8f219cb39
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI32G
 up: "[[Historia MOC]]"
 ---
 
 # GHI32G
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI32G)
 
 **Kursnamn:** Historia II med didaktisk inriktning
 **Course Name:** History II for Teacher Education Students

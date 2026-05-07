@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, HIA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: a0d34188b7768038
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI2CK
 up: "[[Historia MOC]]"
 ---
 
 # GHI2CK
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI2CK)
 
 **Kursnamn:** Introduktion till svensk kultur och samhälle
 **Course Name:** Introduction to Swedish Culture and Society

@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MTA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: a5ad53282618cf9e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JU
 up: "[[Maskinteknik MOC]]"
 ---
 
 # GMT3JU
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JU)
 
 **Kursnamn:** Smarta hem och e-hälsoteknik
 **Course Name:** Smart Homes and e-health Technology

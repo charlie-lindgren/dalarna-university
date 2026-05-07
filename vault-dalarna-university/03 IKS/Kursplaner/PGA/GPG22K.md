@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 627f024442651a6b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG22K
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG22K
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG22K)
 
 **Kursnamn:** Examensarbete för ämneslärarexamen - KPU
 **Course Name:** Degree Thesis for Teacher Students, Secondary School - Supplementary Teacher Education

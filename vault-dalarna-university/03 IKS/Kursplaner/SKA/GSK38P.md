@@ -10,10 +10,13 @@ amne_kod: "SKA"
 institution: "IKS"
 tags: [kursplan, SKA, IKS]
 scrape_hash: 3f8066e3755c5da5
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK38P
 up: "[[Statsvetenskap MOC]]"
 ---
 
 # GSK38P
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK38P)
 
 **Kursnamn:** Svensk politik och samhälle - kontinuitet och förändring
 **Course Name:** Swedish Politics and Society-continuity and change

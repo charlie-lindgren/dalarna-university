@@ -10,10 +10,13 @@ amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
 scrape_hash: b3025bcc563797ad
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3JG
 up: "[[Industriell ekonomi MOC]]"
 ---
 
 # GIE3JG
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3JG)
 
 **Kursnamn:** Impact innovation - innovation för samhällsnytta
 **Course Name:** Impact Innovation

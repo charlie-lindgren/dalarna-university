@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MDI, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 154227edaec1c33b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2GF
 up: "[[Matematikdidaktik MOC]]"
 ---
 
 # GMD2GF
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2GF)
 
 **Kursnamn:** Matematik för lärare i åk 1-3, 30 hp (1-30). Ingår i Lärarlyftet.
 **Course Name:** Mathematics for Teachers in Primary School, Years 1-3, 30 Credits (1-30)

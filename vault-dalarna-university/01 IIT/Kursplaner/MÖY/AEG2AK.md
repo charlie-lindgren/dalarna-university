@@ -10,10 +10,13 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: 6d739116d87a310b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AK
 up: "[[Energiteknik MOC]]"
 ---
 
 # AEG2AK
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AK)
 
 **Kursnamn:** Projektkurs 1 - dataanalys för solenergisystem
 **Course Name:** Project Course 1 - Data Analysis for Solar Energy Systems

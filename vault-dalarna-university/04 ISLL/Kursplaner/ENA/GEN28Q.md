@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: aabfd30651d0925e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN28Q
 up: "[[Engelska MOC]]"
 ---
 
 # GEN28Q
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN28Q)
 
 **Kursnamn:** Engelska III med didaktisk inriktning för gymnasieskolan
 **Course Name:** English III for Teacher Students for Upper Secondary School

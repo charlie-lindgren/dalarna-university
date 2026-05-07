@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, FRA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 61846b66f3fbb200
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2R3
 up: "[[Franska MOC]]"
 ---
 
 # GFR2R3
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2R3)
 
 **Kursnamn:** Franska II: Muntlig franska
 **Course Name:** French II: Spoken French

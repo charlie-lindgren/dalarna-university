@@ -10,10 +10,13 @@ amne_kod: "LPU"
 institution: "IKS"
 tags: [kursplan, LPU, IKS]
 scrape_hash: 394b74745fb2e7f2
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2NN
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
 
 # GLP2NN
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2NN)
 
 **Kursnamn:** Kandidatexamensarbete i Ljud- och musikproduktion
 **Course Name:** Bachelor‘s Degree Thesis in Sound and Music Production

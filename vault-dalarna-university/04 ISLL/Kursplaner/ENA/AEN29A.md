@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: 928ea33cf0a59d45
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN29A
 up: "[[Engelska MOC]]"
 ---
 
 # AEN29A
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN29A)
 
 **Kursnamn:** Konflikt och kreativitet i engelskspråkig litteratur
 **Course Name:** Conflict and Creativity in Literature in English

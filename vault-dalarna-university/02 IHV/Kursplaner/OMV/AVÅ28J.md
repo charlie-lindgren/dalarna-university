@@ -10,10 +10,13 @@ amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
 scrape_hash: bdb74d5a04a546ab
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ28J
 up: "[[Omvårdnad MOC]]"
 ---
 
 # AVÅ28J
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ28J)
 
 **Kursnamn:** Att vårda äldre personer, VFU
 **Course Name:** Caring For Older People

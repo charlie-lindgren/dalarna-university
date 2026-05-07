@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: 211a336daf37fe4e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DJ
 up: "[[Engelska MOC]]"
 ---
 
 # GEN3DJ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DJ)
 
 **Kursnamn:** Den samtida Bildungsromanen på engelska: Kvinnliga, etniska och åldrandeperspektiv
 **Course Name:** The Contemporary Coming-of-Age Novel in English: Female, Ethnic and Ageing Perspectives

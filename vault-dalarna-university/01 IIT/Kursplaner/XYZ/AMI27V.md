@@ -10,10 +10,13 @@ amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
 scrape_hash: 2bf8f66e421d9f98
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI27V
 up: "[[Mikrodataanalys MOC]]"
 ---
 
 # AMI27V
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI27V)
 
 **Kursnamn:** Datadrivet ledarskap
 **Course Name:** Data-Driven Leadership

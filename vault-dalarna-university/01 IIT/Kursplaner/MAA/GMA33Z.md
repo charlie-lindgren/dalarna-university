@@ -10,10 +10,13 @@ amne_kod: "MAA"
 institution: "IIT"
 tags: [kursplan, MAA, IIT]
 scrape_hash: bf1f0a5f76d4f86a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA33Z
 up: "[[Matematik MOC]]"
 ---
 
 # GMA33Z
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA33Z)
 
 **Kursnamn:** Matematik för tekniker
 **Course Name:** Mathematics for Technicians

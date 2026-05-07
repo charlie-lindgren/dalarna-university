@@ -10,10 +10,13 @@ amne_kod: "SKA"
 institution: "IKS"
 tags: [kursplan, SKA, IKS]
 scrape_hash: bfca2c586cfa4855
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK2QE
 up: "[[Statsvetenskap MOC]]"
 ---
 
 # GSK2QE
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK2QE)
 
 **Kursnamn:** Tematisk forskningsintroduktion i statsvetenskap
 **Course Name:** Introduction to Research Themes in Political Science

@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MDI, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 612a20b014fcf7df
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2BH
 up: "[[Matematikdidaktik MOC]]"
 ---
 
 # GMD2BH
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2BH)
 
 **Kursnamn:** Matematikdidaktik I
 **Course Name:** Mathematics Education I

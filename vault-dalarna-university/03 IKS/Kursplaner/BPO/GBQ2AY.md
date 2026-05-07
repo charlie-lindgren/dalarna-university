@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: a5cbf1b766250084
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2AY
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ2AY
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2AY)
 
 **Kursnamn:** Digital efterbearbetning av ljud och bild
 **Course Name:** Digital Post-Production of Sound and Images

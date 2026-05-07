@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, JAA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 5e084bfd27355157
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP23Q
 up: "[[Japanska MOC]]"
 ---
 
 # AJP23Q
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP23Q)
 
 **Kursnamn:** Världslitteraturer: Asien och Europa
 **Course Name:** World Literatures: Asia and Europe

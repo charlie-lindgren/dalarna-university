@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, EUN, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 5a8e40f6dab2d5aa
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2CB
 up: "[[Entreprenörskap och innovationsteknik MOC]]"
 ---
 
 # GEU2CB
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2CB)
 
 **Kursnamn:** Ledarskap och grupprocesser
 **Course Name:** Leadership and Group Dynamics

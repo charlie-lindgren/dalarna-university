@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 8bebccc458e5987f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CK
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG3CK
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CK)
 
 **Kursnamn:** Skolväsendets historia och samhällsuppdrag - förskoleklass och grundskolan åk 1-6
 **Course Name:** The History and Role in Society of the School System - Preschool Class and Primary School Years 1-6

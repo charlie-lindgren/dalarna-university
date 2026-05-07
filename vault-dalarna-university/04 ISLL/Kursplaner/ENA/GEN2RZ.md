@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, ENA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 29c5dbab0abb0f74
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2RZ
 up: "[[Engelska MOC]]"
 ---
 
 # GEN2RZ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2RZ)
 
 **Kursnamn:** Engelska för specifika ändamål: Presentationer i akademiska och professionella sammanhang
 **Course Name:** English for Specific Purposes: Presenting in Academic and Professional Contexts

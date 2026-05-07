@@ -10,10 +10,13 @@ amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
 scrape_hash: 63ac1cae52811e7f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ28U
 up: "[[Omvårdnad MOC]]"
 ---
 
 # AVÅ28U
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ28U)
 
 **Kursnamn:** Examensarbete i omvårdnad - vård av äldre
 **Course Name:** Degree Thesis in Nursing Science - Care for Older People

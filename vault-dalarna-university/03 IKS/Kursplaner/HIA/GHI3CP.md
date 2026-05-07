@@ -10,11 +10,14 @@ amne_kod: "HIA"
 institution: "IKS"
 tags: [kursplan, HIA, IKS, vilande]
 scrape_hash: b3b22f840b45e119
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3CP
 up: "[[Historia MOC]]"
 cssclasses: [vilande]
 ---
 
 # GHI3CP
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3CP)
 
 **Kursnamn:** Undervisning och lärande genom rollspel – inriktning historiedidaktik
 **Course Name:** Teaching and Learning Through Roleplay – Specialisation Didactics of History

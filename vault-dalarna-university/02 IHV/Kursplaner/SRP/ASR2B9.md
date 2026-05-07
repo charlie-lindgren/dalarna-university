@@ -10,10 +10,13 @@ amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV]
 scrape_hash: 611c8e488e9afe94
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2B9
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
 
 # ASR2B9
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2B9)
 
 **Kursnamn:** Teoretisk kunskap och praktiska färdigheter för att förbättra hälsan hos mödrar och nyfödda vid komplikationer kring födandet
 **Course Name:** Theoretical Knowledge and Practical Skills to Improve the Health of Mothers and Newborns in Pregnancy and Childbirth Complications

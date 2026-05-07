@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: 40914970708f077c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2QZ
 up: "[[Informatik MOC]]"
 ---
 
 # GIK2QZ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2QZ)
 
 **Kursnamn:** Visuell identitet
 **Course Name:** Visual Identity

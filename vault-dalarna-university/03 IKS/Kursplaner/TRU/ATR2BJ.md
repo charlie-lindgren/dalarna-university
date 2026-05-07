@@ -10,10 +10,13 @@ amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
 scrape_hash: 0f7b8d1bde80b369
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATR2BJ
 up: "[[Turismvetenskap MOC]]"
 ---
 
 # ATR2BJ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATR2BJ)
 
 **Kursnamn:** Projektarbete i turismvetenskap
 **Course Name:** Project Work in Tourism Studies

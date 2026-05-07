@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: a39735ea9ecafd58
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG24E
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # APG24E
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG24E)
 
 **Kursnamn:** Vetenskapsteori och utbildningsvetenskaplig forskning för ämneslärare
 **Course Name:** Epistemology and Educational Research for Teachers in Secondary and Upper Secondary School

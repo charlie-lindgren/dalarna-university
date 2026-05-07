@@ -10,10 +10,13 @@ amne_kod: "EUN"
 institution: "IKS"
 tags: [kursplan, EUN, IKS]
 scrape_hash: cd00bf4e3028bfa1
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2QY
 up: "[[Entreprenörskap och innovationsteknik MOC]]"
 ---
 
 # GEU2QY
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2QY)
 
 **Kursnamn:** Ledarskap
 **Course Name:** Leadership

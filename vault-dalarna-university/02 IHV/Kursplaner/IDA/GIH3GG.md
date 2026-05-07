@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: e14883458eda92ec
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GG
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3GG
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GG)
 
 **Kursnamn:** Idrottens funktionella anatomi och biomekanik
 **Course Name:** Functional Anatomy and Biomechanics in Sport

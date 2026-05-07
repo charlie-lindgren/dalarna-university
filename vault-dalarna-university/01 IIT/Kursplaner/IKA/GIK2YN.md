@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, IKA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 06efd04606e76846
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YN
 up: "[[Informatik MOC]]"
 ---
 
 # GIK2YN
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YN)
 
 **Kursnamn:** Programutvecklingsteknik
 **Course Name:** Software Engineering

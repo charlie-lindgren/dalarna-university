@@ -10,10 +10,13 @@ amne_kod: "ARA"
 institution: "ISLL"
 tags: [kursplan, ARA, ISLL]
 scrape_hash: 5cc7b80204af28a4
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR2HS
 up: "[[Arabiska MOC]]"
 ---
 
 # GAR2HS
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR2HS)
 
 **Kursnamn:** Modern arabisk poesi
 **Course Name:** Modern Arabic Poetry

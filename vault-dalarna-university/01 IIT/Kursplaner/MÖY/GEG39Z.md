@@ -10,10 +10,13 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: 31949c5b008997af
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG39Z
 up: "[[Energiteknik MOC]]"
 ---
 
 # GEG39Z
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG39Z)
 
 **Kursnamn:** Aktiva elnät
 **Course Name:** Active Electrical Networks

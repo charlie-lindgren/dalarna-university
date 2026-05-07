@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, LPU, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: d26de130e8425d09
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP29S
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
 
 # GLP29S
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP29S)
 
 **Kursnamn:** Ljudskapande till rörliga bilder
 **Course Name:** Sound Design for Moving Images

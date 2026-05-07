@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 7fbf73dfd986a6ed
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH33J
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH33J
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH33J)
 
 **Kursnamn:** Grundläggande fysiologi och tillämpad idrottsfysiologi (Klättring)
 **Course Name:** Introductory Physiology and Applied Exercise Physiology (Climbing)

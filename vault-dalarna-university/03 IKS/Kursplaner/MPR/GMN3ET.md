@@ -10,10 +10,13 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
 scrape_hash: 4ee7f7c0e0512426
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3ET
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3ET
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3ET)
 
 **Kursnamn:** Ljudnarration
 **Course Name:** Sound Narration

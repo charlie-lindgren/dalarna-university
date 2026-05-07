@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, FRA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: a83d610deb905a5e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2W9
 up: "[[Franska MOC]]"
 ---
 
 # GFR2W9
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2W9)
 
 **Kursnamn:** Franska: Språkdidaktik I
 **Course Name:** French: Language Learning and Teaching I

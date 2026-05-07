@@ -10,10 +10,13 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
 scrape_hash: 7198ecb22ecfad75
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3GT
 up: "[[Franska MOC]]"
 ---
 
 # GFR3GT
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3GT)
 
 **Kursnamn:** Franska III: Franskspråkig litteratur och litteraturanalys
 **Course Name:** French III: Literature in French and Literary Analysis

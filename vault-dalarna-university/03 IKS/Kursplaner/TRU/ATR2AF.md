@@ -10,10 +10,13 @@ amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
 scrape_hash: 597a797be14f95f1
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATR2AF
 up: "[[Turismvetenskap MOC]]"
 ---
 
 # ATR2AF
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATR2AF)
 
 **Kursnamn:** Marknadsföring av platser och destinationer
 **Course Name:** Place and Destination Marketing

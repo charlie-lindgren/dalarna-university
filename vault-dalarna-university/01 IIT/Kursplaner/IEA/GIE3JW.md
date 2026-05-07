@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, IEA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: da3cdc771b45b458
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3JW
 up: "[[Industriell ekonomi MOC]]"
 ---
 
 # GIE3JW
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3JW)
 
 **Kursnamn:** Innovation och entreprenörskap inom assisterande teknik
 **Course Name:** Innovation and Entrepreneurship in Assistive Technology

@@ -10,10 +10,13 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
 scrape_hash: 078c8d43ff8eb11d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASS26C
 up: "[[Svenska som andraspråk MOC]]"
 ---
 
 # ASS26C
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASS26C)
 
 **Kursnamn:** Sveriges nationella minoriteter – språk, kultur och identitet
 **Course Name:** National Minorities in Sweden - Language, Culture and Identity

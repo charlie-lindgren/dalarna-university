@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, ABA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: afce0ba2565baccb
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB2P6
 up: "[[Arbetsvetenskap MOC]]"
 ---
 
 # GAB2P6
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB2P6)
 
 **Kursnamn:** Professionell distanskommunikation
 **Course Name:** Professional Remote Communication

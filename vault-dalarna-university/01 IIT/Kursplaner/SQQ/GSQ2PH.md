@@ -10,10 +10,13 @@ amne_kod: "SQQ"
 institution: "IIT"
 tags: [kursplan, SQQ, IIT]
 scrape_hash: 06a68307cb93ec75
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2PH
 up: "[[Samhällsbyggnadsteknik MOC]]"
 ---
 
 # GSQ2PH
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2PH)
 
 **Kursnamn:** Fysisk planering III - genomförande och juridisk fördjupning
 **Course Name:** Spatial Planning III - Implementation with a Focus on Legal and Surveying Aspects

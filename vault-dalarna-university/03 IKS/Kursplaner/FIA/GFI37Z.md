@@ -10,11 +10,14 @@ amne_kod: "FIA"
 institution: "IKS"
 tags: [kursplan, FIA, IKS, vilande]
 scrape_hash: f8d7041dfc8bdf31
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFI37Z
 up: "[[Filosofi MOC]]"
 cssclasses: [vilande]
 ---
 
 # GFI37Z
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFI37Z)
 
 **Kursnamn:** Gud och bevisen: filosofiska argument för och mot Guds existens
 **Course Name:** God and the Evidence: Philosophical Arguments For and Against the Existence of God

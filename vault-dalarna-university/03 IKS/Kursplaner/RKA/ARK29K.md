@@ -10,10 +10,13 @@ amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
 scrape_hash: 5e472506983dcdf1
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29K
 up: "[[Religionsvetenskap MOC]]"
 ---
 
 # ARK29K
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29K)
 
 **Kursnamn:** Upplevelser av osynlig närvaro
 **Course Name:** Experiences of Invisible Presence

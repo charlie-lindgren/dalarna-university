@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, SRP, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: dc5cfc1051c85477
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29U
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
 
 # ASR29U
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29U)
 
 **Kursnamn:** Graviditet, förlossning och postpartumvård II
 **Course Name:** Pregnancy, Childbirth and Postpartum Care II

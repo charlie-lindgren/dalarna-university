@@ -10,10 +10,13 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
 scrape_hash: 8158e382e351fb0a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HB
 up: "[[Svenska som andraspråk MOC]]"
 ---
 
 # GSS3HB
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HB)
 
 **Kursnamn:** Modersmål med didaktisk inriktning
 **Course Name:** Mother Tongue Tuition for Teacher Students

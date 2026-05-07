@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, TYA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: b41baac84d07c27d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY32H
 up: "[[Tyska MOC]]"
 ---
 
 # GTY32H
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY32H)
 
 **Kursnamn:** Tyska: Språkdidaktik II
 **Course Name:** German: Language Learning and Teaching II

@@ -10,10 +10,13 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
 scrape_hash: 5b888ad6c76c1b92
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2AF
 up: "[[Socialt arbete MOC]]"
 ---
 
 # GSA2AF
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2AF)
 
 **Kursnamn:** Examensarbete för socionomexamen
 **Course Name:** Degree Thesis for Bachelor of Science in Social Work

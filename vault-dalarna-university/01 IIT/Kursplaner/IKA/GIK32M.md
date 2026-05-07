@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: 8729fdac0709af63
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32M
 up: "[[Informatik MOC]]"
 ---
 
 # GIK32M
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32M)
 
 **Kursnamn:** Strategisk kommunikation
 **Course Name:** Strategic Communication

@@ -10,10 +10,13 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
 scrape_hash: 39bc79a55ff10764
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3JF
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3JF
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3JF)
 
 **Kursnamn:** Dramaturgi, manusskrivande och medieproduktionens villkor
 **Course Name:** Dramaturgy, Scriptwriting and Conditions for Media Production

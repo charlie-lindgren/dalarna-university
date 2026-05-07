@@ -10,10 +10,13 @@ amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
 scrape_hash: 9ea9d2e5b7d59c84
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ32P
 up: "[[Företagsekonomi MOC]]"
 ---
 
 # GFÖ32P
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ32P)
 
 **Kursnamn:** Organisationsteori
 **Course Name:** Organisational Theory

@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 46f10129d5c7f53e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2SH
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG2SH
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2SH)
 
 **Kursnamn:** Lek i förskolan (varav 7,5 hp VFU)
 **Course Name:** Play in Preschool (of which 7.5 credits VFU placement)

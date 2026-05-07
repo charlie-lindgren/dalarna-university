@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 1cce80c405a5253b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3F4
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3F4
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3F4)
 
 **Kursnamn:** Idrottspsykologi med praktisk tillämpning
 **Course Name:** Applied Sports Psychology

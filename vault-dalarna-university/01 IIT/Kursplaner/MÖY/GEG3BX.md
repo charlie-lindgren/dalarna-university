@@ -10,10 +10,13 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: 056f5a3e242a12eb
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG3BX
 up: "[[Energiteknik MOC]]"
 ---
 
 # GEG3BX
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG3BX)
 
 **Kursnamn:** Elektriska maskiner
 **Course Name:** Electrical Machines and Drives

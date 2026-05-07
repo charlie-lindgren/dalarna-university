@@ -10,10 +10,13 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
 scrape_hash: 2e12669896a53564
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA27Y
 up: "[[Socialt arbete MOC]]"
 ---
 
 # GSA27Y
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA27Y)
 
 **Kursnamn:** Psykologiska perspektiv på socialt arbete
 **Course Name:** Psychological Perspectives on Social Work

@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: 83ffd523c273b6dd
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN25S
 up: "[[Engelska MOC]]"
 ---
 
 # AEN25S
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN25S)
 
 **Kursnamn:** Engelska: Litteratur och teori
 **Course Name:** English: Literature and Theory

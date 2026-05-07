@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PEE, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 38fd6baa787d3a1d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2FL
 up: "[[Personal och arbetsliv MOC]]"
 ---
 
 # GPA2FL
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2FL)
 
 **Kursnamn:** Samspel i organisationen - gruppen
 **Course Name:** Cooperation Within the Organization - Group

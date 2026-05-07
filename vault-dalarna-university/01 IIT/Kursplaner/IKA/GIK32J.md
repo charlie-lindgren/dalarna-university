@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: 2e3a4199f27d1899
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32J
 up: "[[Informatik MOC]]"
 ---
 
 # GIK32J
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32J)
 
 **Kursnamn:** Responsiv webbdesign
 **Course Name:** Responsive Web Design

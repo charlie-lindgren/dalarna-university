@@ -10,10 +10,13 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
 scrape_hash: f22f9e11827a8a41
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DM
 up: "[[Socialt arbete MOC]]"
 ---
 
 # GSA3DM
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DM)
 
 **Kursnamn:** Välfärdsinsatser och brukarperspektiv
 **Course Name:** Welfare Measures and User Perspective

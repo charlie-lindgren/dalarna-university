@@ -10,10 +10,13 @@ amne_kod: "MAA"
 institution: "IIT"
 tags: [kursplan, MAA, IIT]
 scrape_hash: 68c95a1a0e0cc8f3
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA28W
 up: "[[Matematik MOC]]"
 ---
 
 # GMA28W
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA28W)
 
 **Kursnamn:** Linjär algebra
 **Course Name:** Linear Algebra

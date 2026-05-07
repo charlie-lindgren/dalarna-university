@@ -10,10 +10,13 @@ amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
 scrape_hash: 17c639b5364a37cf
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ37G
 up: "[[Omvårdnad MOC]]"
 ---
 
 # GVÅ37G
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ37G)
 
 **Kursnamn:** Sjuksköterskans profession och yrkesansvar
 **Course Name:** The Nursing Profession and the Professional Responsibility of Registered Nurses

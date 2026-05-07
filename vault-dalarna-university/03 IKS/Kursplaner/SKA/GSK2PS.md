@@ -10,10 +10,13 @@ amne_kod: "SKA"
 institution: "IKS"
 tags: [kursplan, SKA, IKS]
 scrape_hash: 30638986bd4bb79a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK2PS
 up: "[[Statsvetenskap MOC]]"
 ---
 
 # GSK2PS
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK2PS)
 
 **Kursnamn:** Internationella relationer
 **Course Name:** International Relations

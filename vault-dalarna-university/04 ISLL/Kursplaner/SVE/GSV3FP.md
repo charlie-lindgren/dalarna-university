@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, SVE, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: a69e8e4a140ed47e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3FP
 up: "[[Svenska MOC]]"
 ---
 
 # GSV3FP
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3FP)
 
 **Kursnamn:** Språk-, läs- och skrivutveckling i förskoleklass och årskurs 1–3 utifrån första- och andraspråksperspektiv
 **Course Name:** Language and Literacy Development in Preschool Class and Grades 1–3 Based on First and Second Language Perspectives

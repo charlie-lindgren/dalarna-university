@@ -10,10 +10,13 @@ amne_kod: "STA"
 institution: "IIT"
 tags: [kursplan, STA, IIT]
 scrape_hash: 70c7fbd23f5dddf1
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GST2CL
 up: "[[Statistik MOC]]"
 ---
 
 # GST2CL
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GST2CL)
 
 **Kursnamn:** Statistisk analys
 **Course Name:** Statistical Analysis

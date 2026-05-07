@@ -10,10 +10,13 @@ amne_kod: "PRA"
 institution: "ISLL"
 tags: [kursplan, PRA, ISLL]
 scrape_hash: 86b633002946a1d8
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR2Z2
 up: "[[Portugisiska MOC]]"
 ---
 
 # GPR2Z2
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR2Z2)
 
 **Kursnamn:** Språk, litteratur och kultur: Vetenskaplig metod och akademiskt skrivande
 **Course Name:** Languages, Literature and Culture: Research Methodology and Academic Writing

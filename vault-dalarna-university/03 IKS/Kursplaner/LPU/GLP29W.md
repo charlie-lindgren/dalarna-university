@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, LPU, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: fb607d8dcd116693
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP29W
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
 
 # GLP29W
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP29W)
 
 **Kursnamn:** Möten med skilda musikgenrer för Musik- och ljuddesign
 **Course Name:** Meetings with different Music Genres for Music and Sound Design

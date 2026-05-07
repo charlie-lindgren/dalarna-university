@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 3658bc06e6e73e6e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AX
 up: "[[Energiteknik MOC]]"
 ---
 
 # AEG2AX
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AX)
 
 **Kursnamn:** Elnätsintegrering av förnybar kraft
 **Course Name:** Grid Integration of Renewable Power

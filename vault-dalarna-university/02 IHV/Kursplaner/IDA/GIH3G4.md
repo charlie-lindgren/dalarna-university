@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: 3628b2cbab564ee3
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G4
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3G4
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G4)
 
 **Kursnamn:** Examensarbete för högskoleexamen i idrotts- och hälsovetenskap
 **Course Name:** Higher Education Diploma in Sport and Health Science

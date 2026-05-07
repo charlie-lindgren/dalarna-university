@@ -9,10 +9,13 @@ amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
 scrape_hash: 16f20e114c489dd0
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ38U
 up: "[[Företagsekonomi MOC]]"
 ---
 
 # GFÖ38U
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ38U)
 
 **Kursnamn:** Organisation B
 

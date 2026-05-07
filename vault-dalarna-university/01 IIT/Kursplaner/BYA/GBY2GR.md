@@ -10,10 +10,13 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: 1f52525f9fbc9607
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2GR
 up: "[[Byggteknik MOC]]"
 ---
 
 # GBY2GR
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2GR)
 
 **Kursnamn:** Fysisk planering I – detaljplanering och samhällsbyggandets grunder
 **Course Name:** Spatial Planning I - Detailed Planning and Foundations of Urban Development

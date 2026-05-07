@@ -10,10 +10,13 @@ amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
 scrape_hash: e1cde1978cf90435
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR3D7
 up: "[[Turismvetenskap MOC]]"
 ---
 
 # GTR3D7
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR3D7)
 
 **Kursnamn:** Kungliga Djurgården – Platsen och besöksnäringen
 **Course Name:** Royal Djurgården - Visitors, the tourism industry and the place

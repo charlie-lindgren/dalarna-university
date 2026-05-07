@@ -10,10 +10,13 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
 scrape_hash: 723ed1943610df38
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EC
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3EC
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EC)
 
 **Kursnamn:** Audiovisuella perspektiv
 **Course Name:** Audiovisual Perspectives

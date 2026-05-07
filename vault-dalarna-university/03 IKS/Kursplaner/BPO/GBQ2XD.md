@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 44227ef430c6a56d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2XD
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ2XD
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2XD)
 
 **Kursnamn:** Ljudinspelning och ljudläggning inom filmdesign
 **Course Name:** Sound Recording and Mixing in Film Design

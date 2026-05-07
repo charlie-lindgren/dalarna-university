@@ -10,10 +10,13 @@ amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
 scrape_hash: 975bbfcbfcdb5d88
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2Q5
 up: "[[Religionsvetenskap MOC]]"
 ---
 
 # GRK2Q5
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2Q5)
 
 **Kursnamn:** Religionsvetenskap I med didaktisk inriktning
 **Course Name:** Religious Studies I for Teacher Education Students

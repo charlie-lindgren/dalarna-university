@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, VÅE, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: a0d4b5e0f2387065
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVV26M
 up: "[[Vårdvetenskap MOC]]"
 ---
 
 # AVV26M
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVV26M)
 
 **Kursnamn:** Implementering av nya arbetssätt i hälso- och sjukvården och socialtjänstens områden
 **Course Name:** Implementation of New Practices in the Health Care and Social Care Sector

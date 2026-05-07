@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: f2c083c7131aa594
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FV
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG3FV
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FV)
 
 **Kursnamn:** Självständigt arbete - VAL
 **Course Name:** Independent Work - Professional Qualification Course for Teachers and Pre-School Teachers

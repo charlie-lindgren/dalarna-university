@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, TYA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 27d6b88b44919a8b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY29E
 up: "[[Tyska MOC]]"
 ---
 
 # ATY29E
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY29E)
 
 **Kursnamn:** Interkulturella litteraturstudier: Masterexamensarbete med inriktning tyska
 **Course Name:** Intercultural Literature Studies: Master‘s Degree Thesis with Specialisation in German

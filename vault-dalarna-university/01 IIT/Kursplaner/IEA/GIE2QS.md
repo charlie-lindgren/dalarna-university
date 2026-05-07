@@ -10,10 +10,13 @@ amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
 scrape_hash: 3605960c9a355736
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2QS
 up: "[[Industriell ekonomi MOC]]"
 ---
 
 # GIE2QS
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2QS)
 
 **Kursnamn:** Verksamhetsutveckling
 **Course Name:** Business Process Development

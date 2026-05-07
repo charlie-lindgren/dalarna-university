@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 35692f579d482596
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3A7
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ3A7
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3A7)
 
 **Kursnamn:** Star Wars: Film, myter och världar
 **Course Name:** Star Wars: Movie, Myths and Worlds

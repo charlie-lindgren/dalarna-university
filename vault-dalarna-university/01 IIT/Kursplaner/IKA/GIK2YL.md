@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, IKA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: bfda4921e1161763
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YL
 up: "[[Informatik MOC]]"
 ---
 
 # GIK2YL
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YL)
 
 **Kursnamn:** Projekt och agila arbetsmetoder
 **Course Name:** Projects and Agile Work Methods

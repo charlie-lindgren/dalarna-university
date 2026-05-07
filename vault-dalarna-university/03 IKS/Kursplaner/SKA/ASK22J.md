@@ -10,10 +10,13 @@ amne_kod: "SKA"
 institution: "IKS"
 tags: [kursplan, SKA, IKS]
 scrape_hash: 0703540fb515c433
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASK22J
 up: "[[Statsvetenskap MOC]]"
 ---
 
 # ASK22J
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASK22J)
 
 **Kursnamn:** Processer till demokrati och autokrati
 **Course Name:** Processes of Democracy and Autocracy

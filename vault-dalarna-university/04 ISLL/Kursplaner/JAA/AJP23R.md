@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, JAA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: e8ed74bc08c5eb0e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP23R
 up: "[[Japanska MOC]]"
 ---
 
 # AJP23R
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP23R)
 
 **Kursnamn:** Världslitteraturer: Nord- och Sydamerika
 **Course Name:** World Literatures: North and South America

@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: d9800b10ee35c94e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DG
 up: "[[Engelska MOC]]"
 ---
 
 # GEN3DG
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DG)
 
 **Kursnamn:** Engelska II
 **Course Name:** English II

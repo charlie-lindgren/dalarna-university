@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, IKA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 125f15c30b456aab
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32K
 up: "[[Informatik MOC]]"
 ---
 
 # GIK32K
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32K)
 
 **Kursnamn:** Layout och typografi
 **Course Name:** Layout and Typography

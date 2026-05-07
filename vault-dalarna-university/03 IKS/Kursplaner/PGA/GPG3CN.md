@@ -10,11 +10,14 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS, vilande]
 scrape_hash: f328fa233183f048
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CN
 up: "[[Pedagogiskt arbete MOC]]"
 cssclasses: [vilande]
 ---
 
 # GPG3CN
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CN)
 
 **Kursnamn:** Undervisning och lärande genom rollspel - inriktning pedagogiskt arbete
 **Course Name:** Teaching and Learning Through Roleplay - Specialisation Educational Work

@@ -10,10 +10,13 @@ amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
 scrape_hash: ca35dcfd05c5cbb9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI23L
 up: "[[Mikrodataanalys MOC]]"
 ---
 
 # AMI23L
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI23L)
 
 **Kursnamn:** Rumslig data och GIS
 **Course Name:** Spatial Data and GIS

@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, FRA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: b5f11b3bf9ad749e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR27Q
 up: "[[Franska MOC]]"
 ---
 
 # GFR27Q
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR27Q)
 
 **Kursnamn:** Franska II: Introduktion till lingvistik och akademiskt skrivande
 **Course Name:** French II: Introduction to Linguistics and Academic Writing

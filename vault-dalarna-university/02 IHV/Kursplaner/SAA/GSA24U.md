@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, SAA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: bcd9ad4888de0e29
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA24U
 up: "[[Socialt arbete MOC]]"
 ---
 
 # GSA24U
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA24U)
 
 **Kursnamn:** Perspektiv på våld
 **Course Name:** Perspectives on Violence

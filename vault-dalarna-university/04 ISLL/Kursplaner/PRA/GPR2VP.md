@@ -10,10 +10,13 @@ amne_kod: "PRA"
 institution: "ISLL"
 tags: [kursplan, PRA, ISLL]
 scrape_hash: 121d901519c2fa96
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR2VP
 up: "[[Portugisiska MOC]]"
 ---
 
 # GPR2VP
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR2VP)
 
 **Kursnamn:** Portugisiska: Vetenskaplig specialisering och fördjupning
 **Course Name:** Portuguese: Scientific Specialisation

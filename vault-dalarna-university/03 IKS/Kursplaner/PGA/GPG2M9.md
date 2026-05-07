@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: c74a0de7f6017a6c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2M9
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG2M9
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2M9)
 
 **Kursnamn:** Sociala relationer, konflikter och makt i förskoleklass och grundskolan åk 1-3 (varav 7,5 hp VFU)
 **Course Name:** Social Relations, Conflicts and Power in Preschool Class and Primary School Grades 1-3

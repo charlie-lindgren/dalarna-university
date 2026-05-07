@@ -10,10 +10,13 @@ amne_kod: "SPA"
 institution: "ISLL"
 tags: [kursplan, SPA, ISLL]
 scrape_hash: 6536395fbbc597ca
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2W6
 up: "[[Spanska MOC]]"
 ---
 
 # GSP2W6
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2W6)
 
 **Kursnamn:** Spanska: Språkdidaktik I
 **Course Name:** Spanish: Language Learning and Teaching I

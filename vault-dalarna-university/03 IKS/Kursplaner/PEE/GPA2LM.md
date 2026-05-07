@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PEE, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 9c5eab823f9af91b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2LM
 up: "[[Personal och arbetsliv MOC]]"
 ---
 
 # GPA2LM
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2LM)
 
 **Kursnamn:** Personal och arbetsliv - en introduktion
 **Course Name:** Human Resource Management - An Introduction

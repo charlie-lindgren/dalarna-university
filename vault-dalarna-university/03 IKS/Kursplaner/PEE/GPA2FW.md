@@ -10,10 +10,13 @@ amne_kod: "PEE"
 institution: "IKS"
 tags: [kursplan, PEE, IKS]
 scrape_hash: 8747cb2a1d776168
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2FW
 up: "[[Personal och arbetsliv MOC]]"
 ---
 
 # GPA2FW
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2FW)
 
 **Kursnamn:** Personalekonomi och lön
 **Course Name:** Human Resource Accounting

@@ -10,10 +10,13 @@ amne_kod: "KIA"
 institution: "ISLL"
 tags: [kursplan, KIA, ISLL]
 scrape_hash: 19bc268ac336c19f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI27G
 up: "[[Kinesiska MOC]]"
 ---
 
 # GKI27G
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI27G)
 
 **Kursnamn:** Kinesiska tecken I
 **Course Name:** Chinese Characters I

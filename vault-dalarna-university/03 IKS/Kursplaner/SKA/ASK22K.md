@@ -10,10 +10,13 @@ amne_kod: "SKA"
 institution: "IKS"
 tags: [kursplan, SKA, IKS]
 scrape_hash: db80f373fb5ffdc0
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASK22K
 up: "[[Statsvetenskap MOC]]"
 ---
 
 # ASK22K
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASK22K)
 
 **Kursnamn:** Politisk kultur i ett jämförande perspektiv
 **Course Name:** Comparative Political Culture

@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 3f95627518de9d0b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG28B
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # APG28B
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG28B)
 
 **Kursnamn:** Verksamhetsförlagd utbildning för lärare (KPU)
 **Course Name:** Placement for Teachers (Supplementary Teacher Education)

@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: eb28f25abce72c8a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ29D
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ29D
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ29D)
 
 **Kursnamn:** Flerkameraproduktion, fördjupning
 **Course Name:** Multi-camera Production, Specialised course

@@ -10,10 +10,13 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
 scrape_hash: 614852be17b4ba73
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2SD
 up: "[[Socialt arbete MOC]]"
 ---
 
 # GSA2SD
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2SD)
 
 **Kursnamn:** Arbetsmetoder i socialt arbete
 **Course Name:** Work Methods in Social Work

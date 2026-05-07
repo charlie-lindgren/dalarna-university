@@ -10,10 +10,13 @@ amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
 scrape_hash: c272d917e02a46d1
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR26E
 up: "[[Turismvetenskap MOC]]"
 ---
 
 # GTR26E
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR26E)
 
 **Kursnamn:** Internationella evenemang och festivaler
 **Course Name:** International Events and Festival Management

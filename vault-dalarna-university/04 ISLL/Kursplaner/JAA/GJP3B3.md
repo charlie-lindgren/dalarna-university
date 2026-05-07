@@ -10,10 +10,13 @@ amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
 scrape_hash: 8c768e1898537491
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP3B3
 up: "[[Japanska MOC]]"
 ---
 
 # GJP3B3
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP3B3)
 
 **Kursnamn:** Japanska: Kandidatexamensarbete
 **Course Name:** Japanese: Bachelor‘s Degree Thesis

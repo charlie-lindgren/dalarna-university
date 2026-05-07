@@ -10,10 +10,13 @@ amne_kod: "SKA"
 institution: "IKS"
 tags: [kursplan, SKA, IKS]
 scrape_hash: b041f0ac2c899822
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK2PQ
 up: "[[Statsvetenskap MOC]]"
 ---
 
 # GSK2PQ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK2PQ)
 
 **Kursnamn:** Politik i Sverige och EU
 **Course Name:** Politics in Sweden and the European Union

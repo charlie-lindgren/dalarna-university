@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: b8373e04246aadb6
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK38J
 up: "[[Informatik MOC]]"
 ---
 
 # GIK38J
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK38J)
 
 **Kursnamn:** Visualisering
 **Course Name:** Visualisation

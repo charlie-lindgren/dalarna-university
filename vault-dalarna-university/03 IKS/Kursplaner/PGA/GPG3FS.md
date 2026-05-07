@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: cd9ce9400c871f91
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FS
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG3FS
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FS)
 
 **Kursnamn:** Verksamhetsförlagd utbildning 1 - VAL
 **Course Name:** Placement Studies 1 - Professional Qualification Course for Teachers and Pre-School Teachers

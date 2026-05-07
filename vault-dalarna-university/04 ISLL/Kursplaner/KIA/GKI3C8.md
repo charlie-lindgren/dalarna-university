@@ -10,10 +10,13 @@ amne_kod: "KIA"
 institution: "ISLL"
 tags: [kursplan, KIA, ISLL]
 scrape_hash: c13221dadfdc30c9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3C8
 up: "[[Kinesiska MOC]]"
 ---
 
 # GKI3C8
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3C8)
 
 **Kursnamn:** Kinesiska för affärslivet I
 **Course Name:** Chinese for Business I

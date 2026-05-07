@@ -10,10 +10,13 @@ amne_kod: "BIL"
 institution: "IKS"
 tags: [kursplan, BIL, IKS]
 scrape_hash: afb9f6a9eef807fc
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBP32U
 up: "[[Bild MOC]]"
 ---
 
 # GBP32U
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBP32U)
 
 **Kursnamn:** Bild för grundlärare, årskurs 4-6
 **Course Name:** Art Education in Primary School, School Years 4-6

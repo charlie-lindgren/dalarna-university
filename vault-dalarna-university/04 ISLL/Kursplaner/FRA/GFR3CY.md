@@ -10,10 +10,13 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
 scrape_hash: 992490eb9a2e6ebd
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3CY
 up: "[[Franska MOC]]"
 ---
 
 # GFR3CY
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3CY)
 
 **Kursnamn:** Franska II: Introduktion till lingvistik och akademiskt skrivande
 **Course Name:** French II: Introduction to Linguistics and Academic Writing

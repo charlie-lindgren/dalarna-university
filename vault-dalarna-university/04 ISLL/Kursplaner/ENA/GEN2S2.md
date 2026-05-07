@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: 5b370785c30ae124
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2S2
 up: "[[Engelska MOC]]"
 ---
 
 # GEN2S2
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2S2)
 
 **Kursnamn:** Engelska för specifika ändamål: Muntlig kommunikation på interkulturella arbetsplatser
 **Course Name:** English for Specific Purposes: Oral Communication in Intercultural Workplaces

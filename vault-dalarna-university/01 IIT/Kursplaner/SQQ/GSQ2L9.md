@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, SQQ, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: e9914102ab710161
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2L9
 up: "[[Samhällsbyggnadsteknik MOC]]"
 ---
 
 # GSQ2L9
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2L9)
 
 **Kursnamn:** Geografiska Informationssystem för samhällsplanering
 **Course Name:** Geographical Information Systems in Urban Planning

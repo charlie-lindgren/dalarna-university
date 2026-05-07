@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, LPU, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: caf9d809dc9d5274
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2CX
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
 
 # GLP2CX
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2CX)
 
 **Kursnamn:** Musikskapande
 **Course Name:** Music Creation

@@ -10,11 +10,14 @@ amne_kod: "KIA"
 institution: "ISLL"
 tags: [kursplan, KIA, ISLL, vilande]
 scrape_hash: 7908222d310995a7
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2W3
 up: "[[Kinesiska MOC]]"
 cssclasses: [vilande]
 ---
 
 # GKI2W3
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2W3)
 
 **Kursnamn:** Kinesiska I med didaktisk inriktning
 **Course Name:** Chinese I for Teacher Education Students

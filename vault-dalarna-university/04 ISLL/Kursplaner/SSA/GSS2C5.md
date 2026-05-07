@@ -10,10 +10,13 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
 scrape_hash: 96daf05dcbd7cb06
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2C5
 up: "[[Svenska som andraspråk MOC]]"
 ---
 
 # GSS2C5
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2C5)
 
 **Kursnamn:** Fonetik och uttal i ett andraspråksperspektiv
 **Course Name:** Phonetics and Pronunciation in a Second Language Perspective

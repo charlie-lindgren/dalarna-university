@@ -10,10 +10,13 @@ amne_kod: "PRA"
 institution: "ISLL"
 tags: [kursplan, PRA, ISLL]
 scrape_hash: 8fda28489431e793
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR2XA
 up: "[[Portugisiska MOC]]"
 ---
 
 # GPR2XA
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR2XA)
 
 **Kursnamn:** Portugisiska: Transkulturalitet och genus i samtidslitteraturen
 **Course Name:** Portuguese: Transculturality and Gender in Contemporary literature

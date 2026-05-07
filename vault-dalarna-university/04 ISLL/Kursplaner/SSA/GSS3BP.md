@@ -10,10 +10,13 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
 scrape_hash: 045092c8a995ddbc
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3BP
 up: "[[Svenska som andraspråk MOC]]"
 ---
 
 # GSS3BP
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3BP)
 
 **Kursnamn:** Bedömning av avancerade språkfärdigheter hos inlärare av svenska som andraspråk
 **Course Name:** Assessing the Advanced Language Proficiency of Learners of Swedish as a Second Language

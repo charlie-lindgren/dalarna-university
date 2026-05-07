@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MDI, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: e01b0e3094ee695c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD33X
 up: "[[Matematikdidaktik MOC]]"
 ---
 
 # GMD33X
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD33X)
 
 **Kursnamn:** Matematik för lärare i åk 7-9
 **Course Name:** Mathematics for Teachers in Primary School, Years 7-9

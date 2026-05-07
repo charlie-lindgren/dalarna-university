@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: 1cce80c405a5253b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GD
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3GD
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GD)
 
 **Kursnamn:** Idrottspsykologi med praktisk tillämpning
 **Course Name:** Applied Sports Psychology

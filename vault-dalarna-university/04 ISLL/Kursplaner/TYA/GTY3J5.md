@@ -10,10 +10,13 @@ amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
 scrape_hash: 3f46b0c88ccf37b4
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3J5
 up: "[[Tyska MOC]]"
 ---
 
 # GTY3J5
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3J5)
 
 **Kursnamn:** Tyska II: Grammatik och vetenskapligt skrivande
 **Course Name:** German II: Grammar and Academic Writing

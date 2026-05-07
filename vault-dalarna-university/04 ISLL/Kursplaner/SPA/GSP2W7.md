@@ -10,10 +10,13 @@ amne_kod: "SPA"
 institution: "ISLL"
 tags: [kursplan, SPA, ISLL]
 scrape_hash: f5e022f8629c727b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2W7
 up: "[[Spanska MOC]]"
 ---
 
 # GSP2W7
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2W7)
 
 **Kursnamn:** Spanska I: Modern spanskspråkig litteratur
 **Course Name:** Spanish I: Modern Spanish Literature

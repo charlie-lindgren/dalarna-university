@@ -10,10 +10,13 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
 scrape_hash: 21e8935c7210fa45
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3FK
 up: "[[Socialt arbete MOC]]"
 ---
 
 # GSA3FK
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3FK)
 
 **Kursnamn:** Utredning i socialt arbete
 **Course Name:** Investigation in Social Work

@@ -9,10 +9,13 @@ amne_kod: "MAA"
 institution: "IIT"
 tags: [kursplan, MAA, IIT]
 scrape_hash: 92de7d96efec99be
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2EY
 up: "[[Matematik MOC]]"
 ---
 
 # GMA2EY
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2EY)
 
 **Kursnamn:** Byggmatematik
 **Course Name:** Mathematics for construction engineering

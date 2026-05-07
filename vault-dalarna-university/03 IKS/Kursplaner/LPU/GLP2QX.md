@@ -10,10 +10,13 @@ amne_kod: "LPU"
 institution: "IKS"
 tags: [kursplan, LPU, IKS]
 scrape_hash: 8683ca5a7ffd0697
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2QX
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
 
 # GLP2QX
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2QX)
 
 **Kursnamn:** Möten med skilda musikgenrer
 **Course Name:** Meetings with Different Music Genres

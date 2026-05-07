@@ -9,10 +9,13 @@ amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
 scrape_hash: 854d765d4c0c4c0e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2L7
 up: "[[Industriell ekonomi MOC]]"
 ---
 
 # GIE2L7
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2L7)
 
 **Kursnamn:** Lean
 

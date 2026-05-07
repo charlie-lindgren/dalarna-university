@@ -10,10 +10,13 @@ amne_kod: "SQQ"
 institution: "IIT"
 tags: [kursplan, SQQ, IIT]
 scrape_hash: bc78405b1c6731d2
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ33M
 up: "[[Samhällsbyggnadsteknik MOC]]"
 ---
 
 # GSQ33M
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ33M)
 
 **Kursnamn:** Planeringsprojekt
 **Course Name:** Planning Project

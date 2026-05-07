@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 7fa465e042da4711
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2N7
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG2N7
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2N7)
 
 **Kursnamn:** Skolväsendets historia
 **Course Name:** The History of the School System

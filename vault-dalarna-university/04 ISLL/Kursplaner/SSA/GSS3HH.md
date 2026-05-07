@@ -10,10 +10,13 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
 scrape_hash: 1711982be32050c0
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HH
 up: "[[Svenska som andraspråk MOC]]"
 ---
 
 # GSS3HH
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HH)
 
 **Kursnamn:** Lärande genom fiktionstext i gymnasieskolan
 **Course Name:** Learning Through Fiction in Upper-Secondary School

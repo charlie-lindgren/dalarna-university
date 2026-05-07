@@ -10,10 +10,13 @@ amne_kod: "SKA"
 institution: "IKS"
 tags: [kursplan, SKA, IKS]
 scrape_hash: f84c86d68c5648d1
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK2PN
 up: "[[Statsvetenskap MOC]]"
 ---
 
 # GSK2PN
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK2PN)
 
 **Kursnamn:** Politiskt deltagande
 **Course Name:** Political Participation

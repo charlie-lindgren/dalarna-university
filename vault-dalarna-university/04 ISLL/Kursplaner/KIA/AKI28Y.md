@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, KIA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 724e601ae099a9a2
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKI28Y
 up: "[[Kinesiska MOC]]"
 ---
 
 # AKI28Y
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKI28Y)
 
 **Kursnamn:** Kinesiska: Avancerad kurs i kinesiska språket
 **Course Name:** Chinese: Advanced Course in Chinese

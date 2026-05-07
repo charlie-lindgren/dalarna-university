@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: f697092ce5b95e93
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3C5
 up: "[[Engelska MOC]]"
 ---
 
 # GEN3C5
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3C5)
 
 **Kursnamn:** Engelskspråkig litteratur
 **Course Name:** Literature in English

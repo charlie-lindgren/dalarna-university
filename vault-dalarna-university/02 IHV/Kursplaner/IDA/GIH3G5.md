@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 82a2e07b704449b3
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G5
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3G5
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G5)
 
 **Kursnamn:** Idrottsvetenskaplig metod
 **Course Name:** Sport Science Methodology

@@ -10,10 +10,13 @@ amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
 scrape_hash: 27b18629aaa18740
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3JH
 up: "[[Industriell ekonomi MOC]]"
 ---
 
 # GIE3JH
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3JH)
 
 **Kursnamn:** Strategi och ekosystem
 **Course Name:** Strategy and Ecosystems

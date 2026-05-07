@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, TRU, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 74de6a9154216706
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR3A4
 up: "[[Turismvetenskap MOC]]"
 ---
 
 # GTR3A4
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR3A4)
 
 **Kursnamn:** Kvantitativ metod
 **Course Name:** Quantitative Research Methods

@@ -10,10 +10,13 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: ce048703a5173b5f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG3DV
 up: "[[Energiteknik MOC]]"
 ---
 
 # GEG3DV
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG3DV)
 
 **Kursnamn:** Förnybar Energiteknik
 **Course Name:** Renewable Energy Technology

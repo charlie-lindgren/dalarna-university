@@ -10,10 +10,13 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS]
 scrape_hash: a2aa674273f4bca7
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ36D
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ36D
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ36D)
 
 **Kursnamn:** Kvalificerad filmproduktion
 **Course Name:** High End Film Production

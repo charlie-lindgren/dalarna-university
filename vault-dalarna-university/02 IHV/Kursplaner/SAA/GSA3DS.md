@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, SAA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 03eaad000b9f4ac5
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DS
 up: "[[Socialt arbete MOC]]"
 ---
 
 # GSA3DS
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DS)
 
 **Kursnamn:** Organisation, grupp och samverkan
 **Course Name:** Organisation, Group and Collaboration

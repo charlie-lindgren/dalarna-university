@@ -10,10 +10,13 @@ amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
 scrape_hash: 3955428b397585e8
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29J
 up: "[[Religionsvetenskap MOC]]"
 ---
 
 # ARK29J
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29J)
 
 **Kursnamn:** Religionsvetenskaplig vetenskapshistoria, teori och metod
 **Course Name:** The History of Religious Studies, Theory and Method

@@ -10,10 +10,13 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS]
 scrape_hash: f69836ea7975f331
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2U2
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ2U2
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2U2)
 
 **Kursnamn:** Vetenskapsteori och metod i bildproduktion
 **Course Name:** Scientific Theory and Method for Moving Image Production

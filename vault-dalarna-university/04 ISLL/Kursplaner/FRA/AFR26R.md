@@ -10,10 +10,13 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
 scrape_hash: d64b267a05c85559
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR26R
 up: "[[Franska MOC]]"
 ---
 
 # AFR26R
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR26R)
 
 **Kursnamn:** Franska IV: Språkvetenskap med fokus på språkinlärning
 **Course Name:** French IV: Linguistics with a Focus on Language Learning

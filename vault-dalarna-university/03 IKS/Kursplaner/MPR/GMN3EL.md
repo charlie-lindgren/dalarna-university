@@ -10,10 +10,13 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
 scrape_hash: a5ed982e92bd8a6f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EL
 up: "[[Medieproduktion MOC]]"
 ---
 
 # GMN3EL
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EL)
 
 **Kursnamn:** Att utveckla och skriva för serier
 **Course Name:** Developing and Writing for Series

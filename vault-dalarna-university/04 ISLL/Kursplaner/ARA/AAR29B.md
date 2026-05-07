@@ -10,10 +10,13 @@ amne_kod: "ARA"
 institution: "ISLL"
 tags: [kursplan, ARA, ISLL]
 scrape_hash: 80a5624d6e25d459
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AAR29B
 up: "[[Arabiska MOC]]"
 ---
 
 # AAR29B
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AAR29B)
 
 **Kursnamn:** Interkulturella litteraturstudier: Magisterexamensarbete
 **Course Name:** Intercultural Literature Studies: One-Year Master’s Degree Thesis

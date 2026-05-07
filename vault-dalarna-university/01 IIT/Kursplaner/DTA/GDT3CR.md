@@ -10,10 +10,13 @@ amne_kod: "DTA"
 institution: "IIT"
 tags: [kursplan, DTA, IIT]
 scrape_hash: c638bb4d69e67a44
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT3CR
 up: "[[Datateknik MOC]]"
 ---
 
 # GDT3CR
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT3CR)
 
 **Kursnamn:** Etisk hackning
 **Course Name:** Ethical Hacking

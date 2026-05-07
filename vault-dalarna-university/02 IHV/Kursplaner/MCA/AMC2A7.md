@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, MCA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 2f59739845a5f548
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC2A7
 up: "[[Medicinsk vetenskap MOC]]"
 ---
 
 # AMC2A7
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC2A7)
 
 **Kursnamn:** Kardiologi: Arytmi
 **Course Name:** Cardiology: Arrhythmia

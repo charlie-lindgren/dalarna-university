@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 22965dea93c074d4
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2WY
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2WY
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2WY)
 
 **Kursnamn:** Friluftsliv i närmiljön: orientering, vandring, paddling (VAL)
 **Course Name:** Outdoor Life: Orienteering, Hiking, Canoeing (CPD for Teachers)

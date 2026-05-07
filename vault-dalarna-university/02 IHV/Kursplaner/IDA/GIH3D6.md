@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 530a273fa1c1dae4
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3D6
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3D6
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3D6)
 
 **Kursnamn:** Näringslära med inriktning mot idrott och fysisk aktivitet
 **Course Name:** Nutrition with Focus on Sports and Physical Activity

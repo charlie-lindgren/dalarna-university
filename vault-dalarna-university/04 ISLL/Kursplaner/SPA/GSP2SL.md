@@ -10,10 +10,13 @@ amne_kod: "SPA"
 institution: "ISLL"
 tags: [kursplan, SPA, ISLL]
 scrape_hash: 8e9792a79be99f9d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2SL
 up: "[[Spanska MOC]]"
 ---
 
 # GSP2SL
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2SL)
 
 **Kursnamn:** Spanska I: Fonetik och muntlig språkfärdighet
 **Course Name:** Spanish I: Phonetics and Oral Language Proficiency

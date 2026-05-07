@@ -10,10 +10,13 @@ amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
 scrape_hash: 1858c6de3cbaa558
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2TY
 up: "[[Religionsvetenskap MOC]]"
 ---
 
 # GRK2TY
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2TY)
 
 **Kursnamn:** Religionsvetenskap II
 **Course Name:** Religious studies II

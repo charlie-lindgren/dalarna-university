@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, FRA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 5efc889f01505a8f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR27S
 up: "[[Franska MOC]]"
 ---
 
 # GFR27S
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR27S)
 
 **Kursnamn:** Franska med inriktning arbetsliv
 **Course Name:** French for the Work Place

@@ -10,10 +10,13 @@ amne_kod: "SKA"
 institution: "IKS"
 tags: [kursplan, SKA, IKS]
 scrape_hash: a448da85a7cd8791
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK2PR
 up: "[[Statsvetenskap MOC]]"
 ---
 
 # GSK2PR
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK2PR)
 
 **Kursnamn:** Offentlig förvaltning
 **Course Name:** Public Administration

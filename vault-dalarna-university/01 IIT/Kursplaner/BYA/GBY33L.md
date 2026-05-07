@@ -10,10 +10,13 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: 02cc991656941231
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY33L
 up: "[[Byggteknik MOC]]"
 ---
 
 # GBY33L
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY33L)
 
 **Kursnamn:** Byggd miljö
 **Course Name:** Built environment

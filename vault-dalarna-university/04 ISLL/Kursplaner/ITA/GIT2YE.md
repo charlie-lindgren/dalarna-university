@@ -10,10 +10,13 @@ amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL]
 scrape_hash: 011c19861e095f5e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2YE
 up: "[[Italienska MOC]]"
 ---
 
 # GIT2YE
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2YE)
 
 **Kursnamn:** Italienska A: Textanalys, barn- och ungdomsskildringar
 **Course Name:** Italian A: Text Analysis, the Portrayal of Children and Adolescents

@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MTA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: c4324a25071c40d9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JT
 up: "[[Maskinteknik MOC]]"
 ---
 
 # GMT3JT
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JT)
 
 **Kursnamn:** Tillämpning av regelverk för assisterande produkter
 **Course Name:** Application of Regulations for Assistive Products

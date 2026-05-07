@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 6b896b18ba34b543
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3BD
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG3BD
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3BD)
 
 **Kursnamn:** Introduktion till läraryrket
 **Course Name:** Introduction to the Teaching Profession

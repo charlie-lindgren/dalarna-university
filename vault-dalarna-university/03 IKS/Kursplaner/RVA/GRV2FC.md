@@ -10,10 +10,13 @@ amne_kod: "RVA"
 institution: "IKS"
 tags: [kursplan, RVA, IKS]
 scrape_hash: 6b006a0d65f019e0
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRV2FC
 up: "[[Rättsvetenskap MOC]]"
 ---
 
 # GRV2FC
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRV2FC)
 
 **Kursnamn:** Arbetsrätt I
 **Course Name:** Labour Law I

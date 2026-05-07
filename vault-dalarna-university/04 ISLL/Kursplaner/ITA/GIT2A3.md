@@ -10,10 +10,13 @@ amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL]
 scrape_hash: fc95ee5b1be3cced
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2A3
 up: "[[Italienska MOC]]"
 ---
 
 # GIT2A3
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2A3)
 
 **Kursnamn:** Italienska B: Muntlig språkfärdighet och kulturkunskap
 **Course Name:** Italian B: Oral Proficiency and Cultural Knowledge

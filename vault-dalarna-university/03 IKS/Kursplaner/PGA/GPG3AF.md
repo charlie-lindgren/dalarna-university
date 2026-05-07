@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 78d01fc7c28b6e27
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AF
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # GPG3AF
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AF)
 
 **Kursnamn:** Specialpedagogik och ett läraruppdrag i förändring för ämneslärare årskurs 7–9 - AIL
 **Course Name:** Special Education and a Changing Teaching Assignment for Secondary Teachers – School Years 7–9 - Work-Integrated Programme

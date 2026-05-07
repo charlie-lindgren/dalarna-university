@@ -10,10 +10,13 @@ amne_kod: "RYA"
 institution: "ISLL"
 tags: [kursplan, RYA, ISLL]
 scrape_hash: c4cdd8bd82dbd080
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY2YW
 up: "[[Ryska MOC]]"
 ---
 
 # GRY2YW
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY2YW)
 
 **Kursnamn:** Ryska för modersmålslärare: språkdidaktik i ett flerspråkigt perspektiv
 **Course Name:** Russian for Mother Tongue Teachers: Russian Language Learning and Teaching in a Multilingual Perspective

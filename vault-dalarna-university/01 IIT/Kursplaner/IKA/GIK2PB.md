@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: 784a8ee03b0eb041
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2PB
 up: "[[Informatik MOC]]"
 ---
 
 # GIK2PB
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2PB)
 
 **Kursnamn:** Systemförvaltning och test av IT-system
 **Course Name:** System Maintenance and Testing of IT Systems

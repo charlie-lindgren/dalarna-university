@@ -10,10 +10,13 @@ amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
 scrape_hash: e2fdc4abd7420f85
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATR25Z
 up: "[[Turismvetenskap MOC]]"
 ---
 
 # ATR25Z
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATR25Z)
 
 **Kursnamn:** Mot en mer hållbar och robust turismnäring I
 **Course Name:** Towards Sustainability and Resilience in Tourism and Hospitality I

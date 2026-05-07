@@ -10,10 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: 466d8c3594c2d9b3
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN26E
 up: "[[Engelska MOC]]"
 ---
 
 # AEN26E
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN26E)
 
 **Kursnamn:** Engelska: Litteraturvetenskapligt skrivande
 **Course Name:** English: Scholarly Writing in Literary Theory and Criticism

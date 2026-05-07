@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: 3fb686149db191ca
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3F9
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH3F9
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3F9)
 
 **Kursnamn:** Hållbart idrottsledarskap
 **Course Name:** Sustainable Sports Coaching

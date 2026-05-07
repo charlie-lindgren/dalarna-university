@@ -10,10 +10,13 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: c98d47c79208f909
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2C4
 up: "[[Energiteknik MOC]]"
 ---
 
 # AEG2C4
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2C4)
 
 **Kursnamn:** Installation av solcellssystem och design av fristående system
 **Course Name:** Installation of Photovoltaic Systems and Off Grid System Design

@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: e5ea411433fe55f5
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH38Y
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH38Y
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH38Y)
 
 **Kursnamn:** Humanbiologi 2
 **Course Name:** Human Biology 2

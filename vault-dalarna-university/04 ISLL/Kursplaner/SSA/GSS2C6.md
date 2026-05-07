@@ -10,10 +10,13 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
 scrape_hash: d575b2acf9701a3f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2C6
 up: "[[Svenska som andraspråk MOC]]"
 ---
 
 # GSS2C6
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2C6)
 
 **Kursnamn:** Fiktionsberättande  och elevtext i ett flerspråkigt perspektiv
 **Course Name:** Fiction and Pupils‘ Written Production in a Multilingual Perspective

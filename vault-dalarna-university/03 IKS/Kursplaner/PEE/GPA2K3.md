@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, PEE, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 1ebe136ad55024d0
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2K3
 up: "[[Personal och arbetsliv MOC]]"
 ---
 
 # GPA2K3
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2K3)
 
 **Kursnamn:** Marknadsföring för personalvetare
 **Course Name:** HR Communication and Marketing

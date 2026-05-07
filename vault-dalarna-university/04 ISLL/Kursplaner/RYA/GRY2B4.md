@@ -10,10 +10,13 @@ amne_kod: "RYA"
 institution: "ISLL"
 tags: [kursplan, RYA, ISLL]
 scrape_hash: 9aedd76bd58c795a
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY2B4
 up: "[[Ryska MOC]]"
 ---
 
 # GRY2B4
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY2B4)
 
 **Kursnamn:** Ryska IV: Rysk litteratur mellan 1917 och 1991
 **Course Name:** Russian IV: Russian Literature from 1917 to 1991

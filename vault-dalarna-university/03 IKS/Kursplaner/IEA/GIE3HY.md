@@ -9,10 +9,13 @@ amne_kod: "IEA"
 institution: "IKS"
 tags: [kursplan, IEA, IKS]
 scrape_hash: c183a2fcc0aa0882
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3HY
 up: "[[Industriell ekonomi MOC]]"
 ---
 
 # GIE3HY
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3HY)
 
 **Kursnamn:** Innovation
 

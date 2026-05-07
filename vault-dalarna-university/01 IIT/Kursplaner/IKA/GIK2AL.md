@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: ebb35c58fff63d85
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2AL
 up: "[[Informatik MOC]]"
 ---
 
 # GIK2AL
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2AL)
 
 **Kursnamn:** Databassystem
 **Course Name:** Database Systems

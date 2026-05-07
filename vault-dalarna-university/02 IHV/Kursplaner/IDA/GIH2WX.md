@@ -11,10 +11,13 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 09d153019079e2d9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2WX
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH2WX
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2WX)
 
 **Kursnamn:** Idrotten i samhället (VAL)
 **Course Name:** Sport in Society (CPD for Teachers)

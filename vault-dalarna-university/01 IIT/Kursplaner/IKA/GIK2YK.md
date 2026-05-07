@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, IKA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: ab2cf781cc6e1629
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YK
 up: "[[Informatik MOC]]"
 ---
 
 # GIK2YK
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YK)
 
 **Kursnamn:** Relationsdatabaser
 **Course Name:** Relational Databases

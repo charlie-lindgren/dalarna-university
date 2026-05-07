@@ -10,10 +10,13 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: 37e8a5ee80dad42b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2PG
 up: "[[Informatik MOC]]"
 ---
 
 # GIK2PG
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2PG)
 
 **Kursnamn:** Projektbaserad systemutveckling
 **Course Name:** Project-Based System Development

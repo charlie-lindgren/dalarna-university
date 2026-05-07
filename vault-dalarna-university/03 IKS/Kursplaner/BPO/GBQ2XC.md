@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: a614d2f2a3269268
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2XC
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ2XC
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2XC)
 
 **Kursnamn:** Manus för TV och film 3. Dialog i audiovisuella medier
 **Course Name:** Scriptwriting for TV and Film 3. Dialogue in Audiovisual Media

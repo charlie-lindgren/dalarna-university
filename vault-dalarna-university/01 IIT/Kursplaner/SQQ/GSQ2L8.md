@@ -10,10 +10,13 @@ amne_kod: "SQQ"
 institution: "IIT"
 tags: [kursplan, SQQ, IIT]
 scrape_hash: c2c8918bbd10c9a2
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2L8
 up: "[[Samhällsbyggnadsteknik MOC]]"
 ---
 
 # GSQ2L8
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2L8)
 
 **Kursnamn:** Fysisk planering II - översiktsplanering
 **Course Name:** Spatial Planning II - Comprehensive Planning

@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, FRA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 5889f22102c98312
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR29D
 up: "[[Franska MOC]]"
 ---
 
 # AFR29D
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR29D)
 
 **Kursnamn:** Interkulturella litteraturstudier: Masterexamensarbete med inriktning franska
 **Course Name:** Intercultural Literature Studies: Master‘s Degree Thesis with Specialisation in French

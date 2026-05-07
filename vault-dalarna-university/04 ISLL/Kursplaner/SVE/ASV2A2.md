@@ -10,10 +10,13 @@ amne_kod: "SVE"
 institution: "ISLL"
 tags: [kursplan, SVE, ISLL]
 scrape_hash: 12c471d38705ed82
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2A2
 up: "[[Svenska MOC]]"
 ---
 
 # ASV2A2
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2A2)
 
 **Kursnamn:** Examensarbete i svenska för ämneslärarexamen, inriktning grundskolans årskurs 7–9
 **Course Name:** Degree Thesis in Swedish for a Master of Arts in Education, Secondary School

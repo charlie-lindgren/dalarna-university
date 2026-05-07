@@ -10,10 +10,13 @@ amne_kod: "RYA"
 institution: "ISLL"
 tags: [kursplan, RYA, ISLL]
 scrape_hash: 5035dbc01e1e1fee
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY36F
 up: "[[Ryska MOC]]"
 ---
 
 # GRY36F
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY36F)
 
 **Kursnamn:** Rysk litteratur: från bok till film
 **Course Name:** Russian Literature into Film

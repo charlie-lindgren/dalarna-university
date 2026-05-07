@@ -10,10 +10,13 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: a1376fbf22310dfb
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABY22W
 up: "[[Byggteknik MOC]]"
 ---
 
 # ABY22W
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABY22W)
 
 **Kursnamn:** Byggnaders energiprestanda - simulering och analys
 **Course Name:** Building Energy Performance Simulation and Analysis

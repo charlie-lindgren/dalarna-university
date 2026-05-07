@@ -10,10 +10,13 @@ amne_kod: "MDI"
 institution: "IIT"
 tags: [kursplan, MDI, IIT]
 scrape_hash: 2257652500e7b88d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2EX
 up: "[[Matematikdidaktik MOC]]"
 ---
 
 # GMD2EX
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2EX)
 
 **Kursnamn:** Matematikens historia för lärare
 **Course Name:** A History of Mathematics for Teachers

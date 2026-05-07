@@ -10,10 +10,13 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: e9ec98fb6d581693
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY34M
 up: "[[Byggteknik MOC]]"
 ---
 
 # GBY34M
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY34M)
 
 **Kursnamn:** Examensarbete inom byggteknik för högskoleexamen
 **Course Name:** Thesis Project in Construction Engineering

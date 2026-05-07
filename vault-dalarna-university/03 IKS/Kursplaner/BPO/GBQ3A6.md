@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 6768885a5e89b38b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3A6
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ3A6
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3A6)
 
 **Kursnamn:** Konceptutveckling för korta filmer
 **Course Name:** Concept Development for Short Films

@@ -9,10 +9,13 @@ amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
 scrape_hash: 2c920632235be63f
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ3FH
 up: "[[Företagsekonomi MOC]]"
 ---
 
 # GFÖ3FH
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ3FH)
 
 **Kursnamn:** Sport Management I
 

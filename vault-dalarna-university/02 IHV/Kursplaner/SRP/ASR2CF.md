@@ -10,10 +10,13 @@ amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV]
 scrape_hash: 302a8281f46ceae5
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CF
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
 
 # ASR2CF
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CF)
 
 **Kursnamn:** Forskningsmetodik inom global sexuell och reproduktiv hälsa
 **Course Name:** Research Methods in Global Sexual, Reproductive Health

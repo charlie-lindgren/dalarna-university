@@ -10,10 +10,13 @@ amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
 scrape_hash: baca306009de35f7
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP39W
 up: "[[Japanska MOC]]"
 ---
 
 # GJP39W
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP39W)
 
 **Kursnamn:** Japanska IV: Kulturantropologi
 **Course Name:** Japanese IV: Cultural Anthropology

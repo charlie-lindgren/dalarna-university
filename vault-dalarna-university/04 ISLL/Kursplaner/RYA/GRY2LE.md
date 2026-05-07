@@ -10,10 +10,13 @@ amne_kod: "RYA"
 institution: "ISLL"
 tags: [kursplan, RYA, ISLL]
 scrape_hash: e0f31042584228c2
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY2LE
 up: "[[Ryska MOC]]"
 ---
 
 # GRY2LE
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY2LE)
 
 **Kursnamn:** Rysk folklore: Tro, magi och fruktan genom tiderna
 **Course Name:** Russian Folklore: Faith, Magic and Fears Through the Ages

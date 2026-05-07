@@ -10,10 +10,13 @@ amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV]
 scrape_hash: 2ac291c0c0599a43
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSR3BZ
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
 
 # GSR3BZ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSR3BZ)
 
 **Kursnamn:** Global sexuell och reproduktiv hälsa samt rättigheter för ungdomar och unga vuxna
 **Course Name:** Global Sexual and Reproductive Health and Rights of Adolescents and Young Adults

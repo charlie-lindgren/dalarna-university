@@ -10,10 +10,13 @@ amne_kod: "KIA"
 institution: "ISLL"
 tags: [kursplan, KIA, ISLL]
 scrape_hash: 0918e61515460648
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2QA
 up: "[[Kinesiska MOC]]"
 ---
 
 # GKI2QA
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2QA)
 
 **Kursnamn:** Kinesiska: Kandidatexamensarbete
 **Course Name:** Chinese: Bachelor Degree Thesis

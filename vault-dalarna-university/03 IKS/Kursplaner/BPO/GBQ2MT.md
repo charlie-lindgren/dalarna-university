@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: daf0569fd68862f4
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2MT
 up: "[[Bildproduktion MOC]]"
 ---
 
 # GBQ2MT
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2MT)
 
 **Kursnamn:** Dokumentärfilmproduktion
 **Course Name:** Documentary Production

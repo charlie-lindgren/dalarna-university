@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, RYA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 2bfdad50bc99f63d
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY36H
 up: "[[Ryska MOC]]"
 ---
 
 # GRY36H
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY36H)
 
 **Kursnamn:** Sovjetisk och postsovjetisk science fiction-film
 **Course Name:** Soviet and Post-Soviet Science Fiction Cinema

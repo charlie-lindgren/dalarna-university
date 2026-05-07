@@ -11,10 +11,13 @@ institution: "IKS"
 tags: [kursplan, RKA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: a16f74dda1b53aea
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK26T
 up: "[[Religionsvetenskap MOC]]"
 ---
 
 # ARK26T
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK26T)
 
 **Kursnamn:** Kabbala och judisk mystik från antiken till modern tid
 **Course Name:** Kabbalah and Jewish Mysticism from Antiquity to Modernity

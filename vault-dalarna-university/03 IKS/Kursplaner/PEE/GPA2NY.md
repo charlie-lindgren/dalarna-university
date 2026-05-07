@@ -10,10 +10,13 @@ amne_kod: "PEE"
 institution: "IKS"
 tags: [kursplan, PEE, IKS]
 scrape_hash: 7a6c89e8f5b86e44
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2NY
 up: "[[Personal och arbetsliv MOC]]"
 ---
 
 # GPA2NY
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2NY)
 
 **Kursnamn:** Strategiskt och internationellt personalarbete
 **Course Name:** Strategic and International Human Resource Management (IHRM)

@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, TYA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: ab60e597df09edf2
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2N3
 up: "[[Tyska MOC]]"
 ---
 
 # GTY2N3
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2N3)
 
 **Kursnamn:** Tyska: Språk och nya medier
 **Course Name:** German: Languages and New Media

@@ -10,10 +10,13 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
 scrape_hash: 93e41e62fe9116b9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2FJ
 up: "[[Svenska som andraspråk MOC]]"
 ---
 
 # GSS2FJ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2FJ)
 
 **Kursnamn:** Flerspråkighet och andraspråksutveckling
 **Course Name:** Multilingualism and Second Language Development

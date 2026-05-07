@@ -10,10 +10,13 @@ amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
 scrape_hash: 5301976b1aa50793
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2CT
 up: "[[Turismvetenskap MOC]]"
 ---
 
 # GTR2CT
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2CT)
 
 **Kursnamn:** Introduktion till turism
 **Course Name:** Introduction to Tourism Studies

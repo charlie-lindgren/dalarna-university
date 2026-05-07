@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: cbcdcd9ddb1d863e
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZQ
 up: "[[Energiteknik MOC]]"
 ---
 
 # GEG2ZQ
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZQ)
 
 **Kursnamn:** Solenergi
 **Course Name:** Solar Energy

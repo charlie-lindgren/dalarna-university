@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, ITA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 4a1b4457ec88ea55
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2YD
 up: "[[Italienska MOC]]"
 ---
 
 # GIT2YD
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2YD)
 
 **Kursnamn:** Italienska A: Textanalys, kvinnoskildringar
 **Course Name:** Italian A: Text Analysis, the Portrayal of Women

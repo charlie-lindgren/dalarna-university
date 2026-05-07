@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: d4e9ae9af5a4aa79
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34U
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH34U
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34U)
 
 **Kursnamn:** Dans, gymnastik och friidrott (VAL)
 **Course Name:** Dance, Gymnastics and Track and Field (CPD for teachers)

@@ -11,10 +11,13 @@ institution: "IIT"
 tags: [kursplan, SQQ, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: b3666f7dddf56b39
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25K
 up: "[[Samhällsbyggnadsteknik MOC]]"
 ---
 
 # GSQ25K
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25K)
 
 **Kursnamn:** Stadsbyggnad
 **Course Name:** Urban Development and Design

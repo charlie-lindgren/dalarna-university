@@ -10,10 +10,13 @@ amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
 scrape_hash: e1ca197670517f09
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2DG
 up: "[[Turismvetenskap MOC]]"
 ---
 
 # GTR2DG
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2DG)
 
 **Kursnamn:** Kvantitativ metod
 **Course Name:** Quantitative Research Methods

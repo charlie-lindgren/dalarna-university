@@ -10,10 +10,13 @@ amne_kod: "SKA"
 institution: "IKS"
 tags: [kursplan, SKA, IKS]
 scrape_hash: 07629d3d6c403559
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK2K2
 up: "[[Statsvetenskap MOC]]"
 ---
 
 # GSK2K2
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK2K2)
 
 **Kursnamn:** Segregationens dimensioner, orsaker och konsekvenser
 **Course Name:** The Dimensions, Causes and Consequences of Segregation

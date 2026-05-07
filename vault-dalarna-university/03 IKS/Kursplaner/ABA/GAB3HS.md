@@ -10,10 +10,13 @@ amne_kod: "ABA"
 institution: "IKS"
 tags: [kursplan, ABA, IKS]
 scrape_hash: 2bd4341a7a32c0d9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3HS
 up: "[[Arbetsvetenskap MOC]]"
 ---
 
 # GAB3HS
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3HS)
 
 **Kursnamn:** Ledarskapets roll och förutsättningar
 **Course Name:** The role and conditions of leadership

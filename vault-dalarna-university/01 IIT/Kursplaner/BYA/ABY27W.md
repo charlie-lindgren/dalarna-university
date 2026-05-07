@@ -10,10 +10,13 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: a15fc327e222aa95
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABY27W
 up: "[[Byggteknik MOC]]"
 ---
 
 # ABY27W
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABY27W)
 
 **Kursnamn:** Introduktion till bioklimatisk design
 **Course Name:** Introduction to Bio-Climatic Design

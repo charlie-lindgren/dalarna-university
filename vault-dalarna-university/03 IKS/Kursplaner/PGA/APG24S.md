@@ -10,10 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: 213f853f1e95785c
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG24S
 up: "[[Pedagogiskt arbete MOC]]"
 ---
 
 # APG24S
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG24S)
 
 **Kursnamn:** Utvärdering och utvecklingsarbete i grundskolans åk 7-9 och gymnasieskolan
 **Course Name:** Evaluation and School Development in Lower and Upper Secondary School

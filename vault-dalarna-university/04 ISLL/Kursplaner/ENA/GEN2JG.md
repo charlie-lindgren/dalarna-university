@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, ENA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: beaa35b9e3146249
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2JG
 up: "[[Engelska MOC]]"
 ---
 
 # GEN2JG
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2JG)
 
 **Kursnamn:** Engelska, Språkdidaktik I
 **Course Name:** English, Language Learning and Teaching I

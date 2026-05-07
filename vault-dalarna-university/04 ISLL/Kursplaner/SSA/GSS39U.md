@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, SSA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: c2f2e95692b60da4
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS39U
 up: "[[Svenska som andraspråk MOC]]"
 ---
 
 # GSS39U
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS39U)
 
 **Kursnamn:** Den globala skolan - undervisning inom vuxenutbildningen
 **Course Name:** The Global School - Teaching in Adult Education

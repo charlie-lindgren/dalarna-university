@@ -9,10 +9,13 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
 scrape_hash: e6a6e52d11cc7e69
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2HX
 up: "[[Franska MOC]]"
 ---
 
 # GFR2HX
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2HX)
 
 **Kursnamn:** Franska: Förberedande kurs II
 **Course Name:** French: Basic Course II

@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, JAA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 70d3e53f5c2ac764
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP2AH
 up: "[[Japanska MOC]]"
 ---
 
 # AJP2AH
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP2AH)
 
 **Kursnamn:** Klassisk japanska
 **Course Name:** Classical Japanese

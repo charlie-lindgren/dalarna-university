@@ -10,10 +10,13 @@ amne_kod: "KGA"
 institution: "IKS"
 tags: [kursplan, KGA, IKS]
 scrape_hash: a2e0104c0776c8ab
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG3A3
 up: "[[Kulturgeografi MOC]]"
 ---
 
 # GKG3A3
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG3A3)
 
 **Kursnamn:** Geografiska Informationssystem (GIS) 1: Introduktion
 **Course Name:** Geographic Information Systems (GIS) 1: Introduction

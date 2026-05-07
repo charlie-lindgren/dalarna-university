@@ -10,10 +10,13 @@ amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
 scrape_hash: cf56f338bea839d9
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR29Q
 up: "[[Turismvetenskap MOC]]"
 ---
 
 # GTR29Q
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR29Q)
 
 **Kursnamn:** Hållbar destinationsplanering och utveckling
 **Course Name:** Sustainable Destination Planning and Development

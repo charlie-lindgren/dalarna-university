@@ -10,10 +10,13 @@ amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
 scrape_hash: bea8f9290a87b8cf
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI23C
 up: "[[Mikrodataanalys MOC]]"
 ---
 
 # AMI23C
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI23C)
 
 **Kursnamn:** Komplexitet och operationsanalytiska metoder
 **Course Name:** Complexity and Operations Research Methods

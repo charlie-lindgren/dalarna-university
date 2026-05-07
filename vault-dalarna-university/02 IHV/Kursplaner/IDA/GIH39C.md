@@ -10,10 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: 571b2359342b92f0
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH39C
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
 
 # GIH39C
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH39C)
 
 **Kursnamn:** Rörelse, rytm och dans
 **Course Name:** Movement, Rhythm and Dance

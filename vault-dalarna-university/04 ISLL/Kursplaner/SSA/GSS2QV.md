@@ -11,10 +11,13 @@ institution: "ISLL"
 tags: [kursplan, SSA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 8f921da9295fdd4b
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2QV
 up: "[[Svenska som andraspråk MOC]]"
 ---
 
 # GSS2QV
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2QV)
 
 **Kursnamn:** Svenska som andraspråk III med didaktisk inriktning för gymnasieskolan
 **Course Name:** Swedish as a Second Language III for Teacher Students for Upper Secondary School

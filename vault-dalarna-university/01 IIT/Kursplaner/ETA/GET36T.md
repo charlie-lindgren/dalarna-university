@@ -10,10 +10,13 @@ amne_kod: "ETA"
 institution: "IIT"
 tags: [kursplan, ETA, IIT]
 scrape_hash: 01c7cee75ec07db3
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GET36T
 up: "[[Elektroteknik MOC]]"
 ---
 
 # GET36T
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GET36T)
 
 **Kursnamn:** Ellära
 **Course Name:** Electrical Principles
