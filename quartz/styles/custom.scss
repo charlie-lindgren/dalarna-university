@@ -50,3 +50,37 @@ h2#ej-aktiv {
 :root[saved-theme="dark"] h2#ej-aktiv {
   color: #e05a4b;
 }
+
+// Excel-nedladdningsknapp i analysfiler
+a.download-xlsx {
+  display: inline-block;
+  padding: 0.45rem 0.9rem;
+  margin: 0.25rem 0 0.75rem;
+  background: #1d6f42; // Excel-grön
+  color: #fff !important;
+  font-weight: 600;
+  font-size: 0.9rem;
+  border-radius: 0.35rem;
+  text-decoration: none !important;
+  transition: background 0.15s ease, transform 0.05s ease;
+  border: 1px solid transparent;
+  &::before, &::after { content: none !important; } // strip Quartz external-link icon
+}
+
+a.download-xlsx:hover {
+  background: #14532d;
+  transform: translateY(-1px);
+}
+
+a.download-xlsx:active {
+  transform: translateY(0);
+}
+
+:root[saved-theme="dark"] a.download-xlsx {
+  background: #2ea36a;
+  color: #0e1a13 !important;
+}
+
+:root[saved-theme="dark"] a.download-xlsx:hover {
+  background: #46c486;
+}

@@ -8,6 +8,8 @@ status: första pass
 
 ## Problematiska kursplaner
 
+<a class="download-xlsx" href="Frasningskonsistens-lärandemål.xlsx" download>⬇ Ladda ner som Excel-fil (649 rader)</a>
+
 > [!example]- 649 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |

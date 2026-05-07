@@ -8,6 +8,8 @@ status: första pass
 
 ## Problematiska kursplaner
 
+<a class="download-xlsx" href="Examinationsformer.xlsx" download>⬇ Ladda ner som Excel-fil (0 rader)</a>
+
 > [!example]- 0 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |

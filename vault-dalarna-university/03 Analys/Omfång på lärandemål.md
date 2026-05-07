@@ -8,6 +8,8 @@ status: första pass
 
 ## Problematiska kursplaner
 
+<a class="download-xlsx" href="Omfång-på-lärandemål.xlsx" download>⬇ Ladda ner som Excel-fil (630 rader)</a>
+
 > [!example]- 630 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |

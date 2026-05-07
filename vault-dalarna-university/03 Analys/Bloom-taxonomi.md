@@ -8,6 +8,8 @@ status: första pass
 
 ## Problematiska kursplaner
 
+<a class="download-xlsx" href="Bloom-taxonomi.xlsx" download>⬇ Ladda ner som Excel-fil (2 rader)</a>
+
 > [!example]- 2 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |

@@ -18,6 +18,10 @@ import sys
 from pathlib import Path
 from collections import defaultdict
 
+from openpyxl import Workbook
+from openpyxl.styles import Alignment, Font, PatternFill
+from openpyxl.utils import get_column_letter
+
 REPO_ROOT    = Path(__file__).resolve().parent.parent
 VAULT_ANALYS = REPO_ROOT / "vault-dalarna-university" / "03 Analys"
 RAPPORT_DIR  = Path(__file__).resolve().parent / "rapporter"
@@ -87,10 +91,13 @@ def parse_rapport(path: Path) -> list[tuple[str, str, str, str]]:
 # Callout-byggare
 # ─────────────────────────────────────────────────────────────────────────────
 
-def build_callout(rows: list[tuple[str, str, str]]) -> list[str]:
-    """rows = [(code, subj, problem_label, detail), ...] -> callout lines."""
+def build_callout(rows: list[tuple[str, str, str, str]], xlsx_filename: str) -> list[str]:
+    """rows = [(code, subj, problem_label, detail), ...] -> callout + download link lines."""
     n = len(rows)
+    href = xlsx_filename.replace(" ", "-")  # Quartz slugifies non-md asset names the same way
     lines = [
+        f'<a class="download-xlsx" href="{href}" download>⬇ Ladda ner som Excel-fil ({n} rader)</a>',
+        "",
         f"> [!example]- {n} fynd — klicka för att expandera",
         ">",
         "> | Kursplan | Ämne | Problem | Detalj |",
@@ -103,17 +110,62 @@ def build_callout(rows: list[tuple[str, str, str]]) -> list[str]:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
+# Excel-export
+# ─────────────────────────────────────────────────────────────────────────────
+HEADER_FILL = PatternFill("solid", fgColor="8B1A1A")
+HEADER_FONT = Font(bold=True, color="FFFFFF")
+LINK_FONT   = Font(color="0563C1", underline="single")
+
+
+def build_xlsx(rows: list[tuple[str, str, str, str]], output_path: Path, sheet_title: str) -> None:
+    """Write rows to an .xlsx file with a hyperlinked Kursplan column."""
+    wb = Workbook()
+    ws = wb.active
+    ws.title = sheet_title[:31]  # Excel max sheet title length
+
+    headers = ["Kursplan", "Ämne", "Problem", "Detalj", "Länk"]
+    ws.append(headers)
+    for cell in ws[1]:
+        cell.font = HEADER_FONT
+        cell.fill = HEADER_FILL
+        cell.alignment = Alignment(horizontal="left", vertical="center")
+
+    for code, subj, problem, detail in rows:
+        url = KURSPLAN_URL.format(code=code)
+        ws.append([code, subj, problem, detail, url])
+        row_idx = ws.max_row
+        kod_cell = ws.cell(row=row_idx, column=1)
+        kod_cell.hyperlink = url
+        kod_cell.font = LINK_FONT
+        link_cell = ws.cell(row=row_idx, column=5)
+        link_cell.hyperlink = url
+        link_cell.font = LINK_FONT
+
+    widths = [12, 8, 28, 70, 70]
+    for i, w in enumerate(widths, start=1):
+        ws.column_dimensions[get_column_letter(i)].width = w
+
+    ws.freeze_panes = "A2"
+    if ws.max_row >= 2:
+        ws.auto_filter.ref = ws.dimensions
+
+    wb.save(output_path)
+
+
+# ─────────────────────────────────────────────────────────────────────────────
 # Filersättning
 # ─────────────────────────────────────────────────────────────────────────────
 CALLOUT_START_RE = re.compile(r"^>\s*\[!example\]")
 
 
-def replace_callout(text: str, new_callout_lines: list[str]) -> str | None:
-    """Replace the first `> [!example]…` callout block in text with the new lines.
+def replace_callout(text: str, new_block_lines: list[str]) -> str | None:
+    """Replace the first `> [!example]…` callout block (and any directly preceding
+    .xlsx download link) with new_block_lines.
 
-    Block boundary: starts at the [!example] line; ends at the first line that
-    does not start with `>` (blank line, prose, heading, etc.).
-    Returns the new text, or None if no callout was found.
+    Block boundary: starts at the [!example] line by default. If the line(s)
+    immediately above (allowing one blank line) contain `.xlsx`, the block start
+    is moved up to include them — so the script is idempotent across re-runs.
+    Block end: first line after the callout that does not start with `>`.
     """
     lines = text.splitlines()
     start = None
@@ -128,7 +180,14 @@ def replace_callout(text: str, new_callout_lines: list[str]) -> str | None:
     while end < len(lines) and lines[end].startswith(">"):
         end += 1
 
-    new_lines = lines[:start] + new_callout_lines + lines[end:]
+    block_start = start
+    j = start - 1
+    while j >= 0 and lines[j].strip() == "":
+        j -= 1
+    if j >= 0 and ".xlsx" in lines[j]:
+        block_start = j
+
+    new_lines = lines[:block_start] + new_block_lines + lines[end:]
     return "\n".join(new_lines) + ("\n" if text.endswith("\n") else "")
 
 
@@ -185,7 +244,10 @@ def main():
 
         rows.sort(key=lambda r: (r[1], r[0]))  # sort by subj, then code
 
-        callout_lines = build_callout(rows)
+        xlsx_filename = analys_path.stem + ".xlsx"
+        xlsx_path = analys_path.with_suffix(".xlsx")
+
+        callout_lines = build_callout(rows, xlsx_filename)
 
         original = analys_path.read_text(encoding="utf-8")
         new_text = replace_callout(original, callout_lines)
@@ -194,15 +256,19 @@ def main():
             print(f"  {filename:<50}  {YELLOW}inget callout-block hittades — hoppar över{RESET}")
             continue
 
-        if new_text == original:
-            print(f"  {filename:<50}  {len(rows):>4} fynd  (oförändrad)")
-            continue
-
+        md_changed = new_text != original
         verb = "skulle skrivas" if dry_run else "skrev"
-        print(f"  {filename:<50}  {len(rows):>4} fynd  {GREEN}{verb}{RESET}")
+
+        if md_changed:
+            print(f"  {filename:<50}  {len(rows):>4} fynd  {GREEN}{verb} md{RESET}")
+            if not dry_run:
+                analys_path.write_text(new_text, encoding="utf-8")
+        else:
+            print(f"  {filename:<50}  {len(rows):>4} fynd  (md oförändrad)")
 
         if not dry_run:
-            analys_path.write_text(new_text, encoding="utf-8")
+            build_xlsx(rows, xlsx_path, sheet_title=analys_path.stem)
+            print(f"    └─ {GREEN}{verb}{RESET}  {xlsx_filename}  ({len(rows)} rader)")
 
     print()
 
