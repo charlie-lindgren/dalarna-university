@@ -23,6 +23,25 @@ article.ej-aktiv {
   }
 }
 
+// Vilande course pages — amber accent strip on the left
+// Triggered via frontmatter: cssclasses: [vilande]
+article.vilande {
+  border-left: 3px solid #d38b2d;
+  padding-left: 1rem;
+
+  & > h1:first-of-type {
+    color: #b46f1f;
+  }
+}
+
+:root[saved-theme="dark"] article.vilande {
+  border-left-color: #e4a44f;
+
+  & > h1:first-of-type {
+    color: #e4a44f;
+  }
+}
+
 // MOC pages — subtle gold accent
 article.moc-page {
   border-left: 3px solid #d4a843;

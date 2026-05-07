@@ -8,10 +8,9 @@ huvudomrade: "Informatik 1"
 amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
-tags: [kursplan, IKA, IIT, ej-aktiv]
+tags: [kursplan, IKA, IIT]
 scrape_hash: c305886c6ab2c97d
-up: "[[Ej Aktiv Informatik MOC]]"
-cssclasses: [ej-aktiv]
+up: "[[Informatik MOC]]"
 ---
 
 # GIK32L

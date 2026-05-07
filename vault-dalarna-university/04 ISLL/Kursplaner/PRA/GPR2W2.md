@@ -8,10 +8,9 @@ huvudomrade: "Portugisiska 1"
 amne: "Portugisiska"
 amne_kod: "PRA"
 institution: "ISLL"
-tags: [kursplan, PRA, ISLL, ej-aktiv]
+tags: [kursplan, PRA, ISLL]
 scrape_hash: e39f63cfa93a8c18
-up: "[[Ej Aktiv Portugisiska MOC]]"
-cssclasses: [ej-aktiv]
+up: "[[Portugisiska MOC]]"
 ---
 
 # GPR2W2

@@ -45,6 +45,12 @@ Varje analys följer samma mall:
 
 <!-- -->
 
+> [!example] Kurslivscykel
+>
+> - [[Vilande kursplaner]] — Kurser med publicerad kursplan men utan aktuellt utbud
+
+<!-- -->
+
 ## Status
 
 | Analys                                     | Status      |
@@ -56,6 +62,7 @@ Varje analys följer samma mall:
 | Examinationsformer                         | Första pass |
 | Omfång på lärandemål                       | Första pass |
 | Samstämmighet svenska och engelska         | Första pass |
+| Vilande kursplaner                         | Första pass |
 
 ## Pipeline
 

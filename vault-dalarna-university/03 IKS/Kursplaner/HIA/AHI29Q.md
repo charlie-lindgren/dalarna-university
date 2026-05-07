@@ -8,10 +8,10 @@ huvudomrade: "Historia 1"
 amne: "Historia"
 amne_kod: "HIA"
 institution: "IKS"
-tags: [kursplan, HIA, IKS, ej-aktiv]
+tags: [kursplan, HIA, IKS, vilande]
 scrape_hash: cb059ee72d011232
-up: "[[Ej Aktiv Historia MOC]]"
-cssclasses: [ej-aktiv]
+up: "[[Historia MOC]]"
+cssclasses: [vilande]
 ---
 
 # AHI29Q

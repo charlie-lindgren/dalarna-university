@@ -1,29 +1,29 @@
 #!/usr/bin/env python3
 """
-identify_ej_aktiv.py — Identifierar och taggar kursplaner som inte längre finns
-på du.se som "ej aktiv".
+identify_ej_aktiv.py — Identifierar kursstatus i tre lägen:
+
+    - aktiv:   syns i aktuellt kursutbud
+    - vilande: saknas i aktuellt utbud men kursplan finns fortfarande på du.se
+    - ej-aktiv: varken i aktuellt utbud eller med publicerad kursplan på du.se
 
 Arbetsflöde:
-  1. Hämtar nuvarande ämnen + kurslistor från du.se (via samma upptäcktslogik
-     som scrape_hda_kursplaner.py — men utan per-kurs-skrap).
-  2. Jämför mot kursplansfiler i vault-dalarna-university/0X {INST}/Kursplaner/<AMNE>/.
-  3. För kurser som finns i vault men inte längre på du.se:
-       - Lägger till `ej-aktiv` i tags + cssclasses
-       - Pekar `up:` till "Ej Aktiv <Ämne> MOC"
-  4. För kurser som åter finns på du.se men har ej-aktiv-flagga:
-       - Tar bort flaggan + återställer `up:` till "<Ämne> MOC"
-  5. Skapar/uppdaterar "Ej Aktiv <Ämne> MOC.md" per ämne med orphans.
+    1. Hämtar nuvarande ämnen + kurslistor från du.se (samma upptäcktslogik
+         som scrape_hda_kursplaner.py — utan per-kurs-skrap).
+    2. Jämför mot kursplansfiler i vault-dalarna-university/0X {INST}/Kursplaner/<AMNE>/.
+    3. För kurser som inte går just nu verifieras kursplansidan:
+             - kursplansida finns  -> taggas `vilande`
+             - kursplansida saknas -> taggas `ej-aktiv`
+    4. Re-emerged kurser taggas tillbaka till aktiv (tar bort status-taggar).
+    5. Skapar/uppdaterar "Ej Aktiv <Ämne> MOC.md" per ämne.
+    6. Skapar/uppdaterar 05 Analys/Vilande kursplaner.md + .xlsx.
 
 Användning:
-    python3 qa/identify_ej_aktiv.py                          # dry-run
-    python3 qa/identify_ej_aktiv.py --apply                  # skriv ändringar
-    python3 qa/identify_ej_aktiv.py --institution IIT        # bara IIT
-    python3 qa/identify_ej_aktiv.py --subject DTA            # bara Datateknik
-    python3 qa/identify_ej_aktiv.py --no-network --codes-file codes.txt
-                                                              # läs koder från fil
-                                                              # (en per rad: SUBJ CODE)
+        python3 qa/identify_ej_aktiv.py                   # dry-run
+        python3 qa/identify_ej_aktiv.py --apply           # skriv ändringar
+        python3 qa/identify_ej_aktiv.py -i IIT            # bara IIT
+        python3 qa/identify_ej_aktiv.py -s DTA            # bara Datateknik
 
-Beroenden: requests, beautifulsoup4 (för scraper-importen).
+Beroenden: requests, beautifulsoup4, openpyxl.
 """
 from __future__ import annotations
 
@@ -34,18 +34,31 @@ import time
 from collections import defaultdict
 from pathlib import Path
 
+from openpyxl import Workbook
+from openpyxl.styles import Alignment, Font, PatternFill
+from openpyxl.utils import get_column_letter
+
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
 from scrape_hda_kursplaner import (  # noqa: E402
     INSTITUTIONS,
     REQUEST_DELAY,
+    SV_URL,
     discover_subjects_for_institution,
     discover_courses_for_subject,
+    fetch_page,
 )
 
 VAULT = ROOT / "vault-dalarna-university"
 INST_DIR_NAME = {"IIT": "01 IIT", "IHV": "02 IHV", "IKS": "03 IKS", "ISLL": "04 ISLL"}
+VAULT_ANALYS = VAULT / "05 Analys"
+VILANDE_ANALYS_MD = VAULT_ANALYS / "Vilande kursplaner.md"
+VILANDE_ANALYS_XLSX = VAULT_ANALYS / "Vilande kursplaner.xlsx"
+
+STATUS_EJ_AKTIV = "ej-aktiv"
+STATUS_VILANDE = "vilande"
+ALL_STATUS_TAGS = {STATUS_EJ_AKTIV, STATUS_VILANDE}
 
 
 def kursplaner_dir(inst_code: str) -> Path:
@@ -59,6 +72,21 @@ CYAN   = "\033[0;36m"
 RESET  = "\033[0m"
 
 COURSE_CODE_RE = re.compile(r"^[A-ZÅÄÖ0-9]{4,8}$")
+KURSPLAN_URL = "https://www.du.se/sv/utbildning/kurser/kursplan/?code={code}"
+
+HEADER_FILL = PatternFill("solid", fgColor="8B1A1A")
+HEADER_FONT = Font(bold=True, color="FFFFFF")
+LINK_FONT = Font(color="0563C1", underline="single")
+
+DOWNLOAD_ICON_SVG = (
+    '<svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" '
+    'fill="none" stroke="currentColor" stroke-width="2" '
+    'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
+    '<path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>'
+    '<polyline points="7 10 12 15 17 10"/>'
+    '<line x1="12" y1="15" x2="12" y2="3"/>'
+    '</svg>'
+)
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -139,50 +167,14 @@ def list_vault_codes_per_subject() -> dict[str, dict[str, Path]]:
 # Tagga / avtagga
 # ─────────────────────────────────────────────────────────────────────────────
 
-def tag_orphan(path: Path, subject_name: str, apply: bool) -> bool:
-    """Tagga en kursplansfil som ej-aktiv. Returnerar True om filen ändrades."""
-    text = path.read_text(encoding="utf-8")
-    parsed = parse_frontmatter(text)
-    if not parsed:
-        return False
-    _, fm_block, body = parsed
+def set_course_status(path: Path, subject_name: str, status: str, apply: bool) -> bool:
+    """Sätter kursstatus i frontmatter: aktiv/vilande/ej-aktiv.
 
-    new_fm = fm_block
+    Returnerar True om filen ändrades.
+    """
+    if status not in {"active", STATUS_VILANDE, STATUS_EJ_AKTIV}:
+        raise ValueError(f"Okänd status: {status}")
 
-    # tags
-    tags_m = re.search(r"^tags:\s*(.+)$", new_fm, re.MULTILINE)
-    if tags_m:
-        tags = parse_list_field(tags_m.group(1))
-        if "ej-aktiv" not in tags:
-            tags.append("ej-aktiv")
-            new_fm = update_fm_field(new_fm, "tags", serialize_list_field(tags))
-    else:
-        new_fm = update_fm_field(new_fm, "tags", "[ej-aktiv]")
-
-    # cssclasses
-    css_m = re.search(r"^cssclasses:\s*(.+)$", new_fm, re.MULTILINE)
-    if css_m:
-        css = parse_list_field(css_m.group(1))
-        if "ej-aktiv" not in css:
-            css.append("ej-aktiv")
-            new_fm = update_fm_field(new_fm, "cssclasses", serialize_list_field(css))
-    else:
-        new_fm = update_fm_field(new_fm, "cssclasses", "[ej-aktiv]")
-
-    # up:
-    new_up = f'"[[Ej Aktiv {subject_name} MOC]]"'
-    new_fm = update_fm_field(new_fm, "up", new_up)
-
-    new_text = "---\n" + new_fm.rstrip("\n") + "\n---\n" + body
-    if new_text == text:
-        return False
-    if apply:
-        path.write_text(new_text, encoding="utf-8")
-    return True
-
-
-def untag_orphan(path: Path, subject_name: str, apply: bool) -> bool:
-    """Ta bort ej-aktiv-flagga från en kursplansfil. Returnerar True om ändrad."""
     text = path.read_text(encoding="utf-8")
     parsed = parse_frontmatter(text)
     if not parsed:
@@ -192,36 +184,59 @@ def untag_orphan(path: Path, subject_name: str, apply: bool) -> bool:
     new_fm = fm_block
     changed = False
 
+    # tags
     tags_m = re.search(r"^tags:\s*(.+)$", new_fm, re.MULTILINE)
-    if tags_m:
-        tags = parse_list_field(tags_m.group(1))
-        if "ej-aktiv" in tags:
-            tags = [t for t in tags if t != "ej-aktiv"]
-            new_fm = update_fm_field(new_fm, "tags", serialize_list_field(tags))
-            changed = True
-
-    css_m = re.search(r"^cssclasses:\s*(.+)$", new_fm, re.MULTILINE)
-    if css_m:
-        css = parse_list_field(css_m.group(1))
-        if "ej-aktiv" in css:
-            css = [c for c in css if c != "ej-aktiv"]
-            if css:
-                new_fm = update_fm_field(new_fm, "cssclasses", serialize_list_field(css))
-            else:
-                new_fm = update_fm_field(new_fm, "cssclasses", None)
-            changed = True
-
-    up_m = re.search(r'^up:\s*"\[\[Ej Aktiv .+? MOC\]\]"', new_fm, re.MULTILINE)
-    if up_m:
-        new_fm = update_fm_field(new_fm, "up", f'"[[{subject_name} MOC]]"')
+    tags = parse_list_field(tags_m.group(1)) if tags_m else []
+    filtered_tags = [t for t in tags if t not in ALL_STATUS_TAGS]
+    if status in ALL_STATUS_TAGS:
+        filtered_tags.append(status)
+    if filtered_tags != tags or not tags_m:
+        new_fm = update_fm_field(new_fm, "tags", serialize_list_field(filtered_tags))
         changed = True
 
-    if not changed:
-        return False
+    # cssclasses
+    css_m = re.search(r"^cssclasses:\s*(.+)$", new_fm, re.MULTILINE)
+    css = parse_list_field(css_m.group(1)) if css_m else []
+    filtered_css = [c for c in css if c not in ALL_STATUS_TAGS]
+    if status in ALL_STATUS_TAGS:
+        filtered_css.append(status)
+    if filtered_css != css or (status in ALL_STATUS_TAGS and not css_m):
+        if filtered_css:
+            new_fm = update_fm_field(new_fm, "cssclasses", serialize_list_field(filtered_css))
+        elif css_m:
+            new_fm = update_fm_field(new_fm, "cssclasses", None)
+        changed = True
+
+    # up: ej-aktiv går till egen MOC, vilande/aktiv går till ämnes-MOC
+    up_m = re.search(r'^up:\s*(.+)$', new_fm, re.MULTILINE)
+    current_up = up_m.group(1).strip() if up_m else None
+    target_up = (
+        f'"[[Ej Aktiv {subject_name} MOC]]"'
+        if status == STATUS_EJ_AKTIV
+        else f'"[[{subject_name} MOC]]"'
+    )
+    if current_up != target_up:
+        new_fm = update_fm_field(new_fm, "up", target_up)
+        changed = True
+
     new_text = "---\n" + new_fm.rstrip("\n") + "\n---\n" + body
+    if not changed or new_text == text:
+        return False
     if apply:
         path.write_text(new_text, encoding="utf-8")
     return True
+
+
+def read_course_name(path: Path) -> str:
+    """Hämtar kursnamn från frontmatter (om möjligt)."""
+    try:
+        text = path.read_text(encoding="utf-8")
+    except Exception:
+        return ""
+    for line in text.split("\n"):
+        if line.startswith("kursnamn:"):
+            return line.split(":", 1)[1].strip().strip('"')
+    return ""
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -247,16 +262,7 @@ def build_ej_aktiv_moc(subject_name: str, subject_code: str, inst_code: str,
         "",
     ]
     for p in sorted(orphan_paths, key=lambda x: x.stem):
-        # Försök hämta kursnamnet från filen
-        course_name = ""
-        try:
-            text = p.read_text(encoding="utf-8")
-            for line in text.split("\n"):
-                if line.startswith("kursnamn:"):
-                    course_name = line.split(":", 1)[1].strip().strip('"')
-                    break
-        except Exception:
-            pass
+        course_name = read_course_name(p)
         if course_name:
             lines.append(f"- [[{p.stem}]] — {course_name}")
         else:
@@ -265,9 +271,196 @@ def build_ej_aktiv_moc(subject_name: str, subject_code: str, inst_code: str,
     return "\n".join(lines)
 
 
+def build_vilande_analysis_callout(rows: list[tuple[str, str, str, str, str]]) -> list[str]:
+    """Bygg download-knapp + callout för Vilande kursplaner."""
+    n = len(rows)
+    href = VILANDE_ANALYS_XLSX.name.replace(" ", "-")
+    lines = [
+        f'<a class="download-xlsx" href="{href}" download>'
+        f'{DOWNLOAD_ICON_SVG}'
+        f'<span>Ladda ner som Excel-fil ({n} rader)</span>'
+        f'</a>',
+        "",
+        f"> [!example]- {n} fynd — klicka för att expandera",
+        ">",
+        "> | Kursplan | Ämne | Institution | Problem |",
+        "> | --- | --- | --- | --- |",
+    ]
+    for code, subj_code, inst_code, _subject_name, _course_name in rows:
+        lines.append(
+            "> | "
+            f"[{code}]({KURSPLAN_URL.format(code=code)}) | "
+            f"{subj_code} | {inst_code} | "
+            "Kursplan finns på du.se men kursen saknas i aktuellt utbud |"
+        )
+    return lines
+
+
+def replace_first_example_callout(text: str, new_block_lines: list[str]) -> str | None:
+    """Ersätt första [!example]-blocket (inkl. ev. .xlsx-länk före blocket)."""
+    lines = text.splitlines()
+    start = None
+    for i, line in enumerate(lines):
+        if line.startswith("> [!example]"):
+            start = i
+            break
+    if start is None:
+        return None
+
+    end = start + 1
+    while end < len(lines) and lines[end].startswith(">"):
+        end += 1
+
+    block_start = start
+    j = start - 1
+    while j >= 0 and lines[j].strip() == "":
+        j -= 1
+    if j >= 0 and ".xlsx" in lines[j]:
+        block_start = j
+
+    merged = lines[:block_start] + new_block_lines + lines[end:]
+    return "\n".join(merged) + ("\n" if text.endswith("\n") else "")
+
+
+def build_vilande_analysis_template(callout_lines: list[str]) -> str:
+    """Skapa grundmall för 05 Analys/Vilande kursplaner.md."""
+    lines = [
+        "---",
+        "tags: [analys, kurslivscykel, vilande]",
+        "up: \"[[Analys MOC]]\"",
+        "status: första pass",
+        "---",
+        "",
+        "# Vilande kursplaner",
+        "",
+        "## Problematiska kursplaner",
+        "",
+        *callout_lines,
+        "",
+        "## Syfte",
+        "",
+        "Identifiera kurser som är **vilande**: de erbjuds inte i aktuellt kursutbud men har fortfarande en publicerad kursplan på du.se. Det är ofta legitimt, men signalen kan också tyda på att utfasning eller arkivering inte genomförts klart.",
+        "",
+        "## Metod",
+        "",
+        "1. Läs in aktuellt kursutbud per ämne från du.se (sök/listning).",
+        "2. Jämför mot kurskoder som finns i vaulten.",
+        "3. För koder som saknas i aktuellt utbud: kontrollera direkt kursplans-URL.",
+        "4. Markera som **vilande** när kursplanen fortfarande finns publicerad.",
+        "",
+        "**Begränsningar:**",
+        "",
+        "- En vilande kurs är inte automatiskt ett fel; analysen visar främst uppföljningsbehov.",
+        "- Om du.se tillfälligt svarar fel kan klassningen bli osäker tills nästa körning.",
+        "",
+        "## Datakälla",
+        "",
+        "- `qa/identify_ej_aktiv.py`",
+        "- Kursutbudslistning + kursplanssidor på du.se",
+        "- Kursplansfiler under `0X {INST}/Kursplaner/`",
+        "",
+        "## Resultat",
+        "",
+        "*Fylls i efter genomgång.*",
+        "",
+        "## Observationer",
+        "",
+        "*Fylls i efter genomgång.*",
+        "",
+        "## Rekommendationer",
+        "",
+        "1. Bekräfta med ämnesföreträdare om varje vilande kurs ska återaktiveras, kvarstå eller avvecklas.",
+        "2. För kurser som ska avvecklas: planera flytt till ej-aktiv eller annan tydlig arkiveringsstatus.",
+        "3. Kör analysen regelbundet för att upptäcka glidning mellan utbud och publicerade kursplaner.",
+        "",
+    ]
+    return "\n".join(lines)
+
+
+def write_vilande_analysis(rows: list[tuple[str, str, str, str, str]], apply: bool) -> tuple[bool, bool]:
+    """Skriv/uppdatera Vilande kursplaner.md + .xlsx. Returnerar (md_changed, xlsx_changed)."""
+    rows = sorted(rows, key=lambda r: (r[2], r[1], r[0]))
+    callout_lines = build_vilande_analysis_callout(rows)
+
+    if VILANDE_ANALYS_MD.exists():
+        original_md = VILANDE_ANALYS_MD.read_text(encoding="utf-8")
+        replaced_md = replace_first_example_callout(original_md, callout_lines)
+        new_md = replaced_md if replaced_md is not None else build_vilande_analysis_template(callout_lines)
+    else:
+        original_md = ""
+        new_md = build_vilande_analysis_template(callout_lines)
+
+    md_changed = new_md != original_md
+    if apply and md_changed:
+        VILANDE_ANALYS_MD.write_text(new_md, encoding="utf-8")
+
+    wb = Workbook()
+    ws = wb.active
+    ws.title = "Vilande kursplaner"
+    headers = ["Kursplan", "Ämne", "Institution", "Ämnesnamn", "Kursnamn", "Problem", "Länk"]
+    ws.append(headers)
+    for cell in ws[1]:
+        cell.font = HEADER_FONT
+        cell.fill = HEADER_FILL
+        cell.alignment = Alignment(horizontal="left", vertical="center")
+
+    for code, subj_code, inst_code, subject_name, course_name in rows:
+        url = KURSPLAN_URL.format(code=code)
+        ws.append([
+            code,
+            subj_code,
+            inst_code,
+            subject_name,
+            course_name,
+            "Kursplan finns på du.se men kursen saknas i aktuellt utbud",
+            url,
+        ])
+        row_idx = ws.max_row
+        code_cell = ws.cell(row=row_idx, column=1)
+        code_cell.hyperlink = url
+        code_cell.font = LINK_FONT
+        url_cell = ws.cell(row=row_idx, column=7)
+        url_cell.hyperlink = url
+        url_cell.font = LINK_FONT
+
+    widths = [12, 8, 12, 30, 45, 58, 70]
+    for i, width in enumerate(widths, start=1):
+        ws.column_dimensions[get_column_letter(i)].width = width
+
+    ws.freeze_panes = "A2"
+    if ws.max_row >= 2:
+        ws.auto_filter.ref = ws.dimensions
+
+    xlsx_bytes_before = VILANDE_ANALYS_XLSX.read_bytes() if VILANDE_ANALYS_XLSX.exists() else b""
+    if apply:
+        wb.save(VILANDE_ANALYS_XLSX)
+        xlsx_changed = VILANDE_ANALYS_XLSX.read_bytes() != xlsx_bytes_before
+    else:
+        xlsx_changed = bool(rows) or not VILANDE_ANALYS_XLSX.exists()
+
+    return md_changed, xlsx_changed
+
+
 # ─────────────────────────────────────────────────────────────────────────────
 # Discovery (network)
 # ─────────────────────────────────────────────────────────────────────────────
+
+def kursplan_exists(code: str) -> bool:
+    """Returnerar True om du.se serverar en riktig kursplansida för koden.
+
+    Söket på du.se listar bara kurser som ges just nu, men en kursplan kan
+    fortfarande vara publicerad utan att kursen erbjuds aktuellt. Här
+    verifierar vi mot själva kursplanssidan: en giltig sida har ett
+    <h1><span property="name">… som söket-fallback inte har.
+    """
+    soup = fetch_page(SV_URL.format(code=code))
+    if soup is None:
+        return False
+    h1 = soup.find("h1")
+    if not h1:
+        return False
+    return h1.find("span", property="name") is not None
+
 
 def discover_current_codes(
     only_institutions: set[str] | None,
@@ -309,7 +502,7 @@ def discover_current_codes(
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Markera kursplaner som inte längre finns på du.se som ej aktiv."
+        description="Klassificera kursplaner som aktiv/vilande/ej-aktiv."
     )
     parser.add_argument("--apply", action="store_true",
                         help="Skriv ändringar (annars dry-run).")
@@ -323,7 +516,7 @@ def main():
     only_institutions = set(i.upper() for i in args.institution) if args.institution else None
     only_subjects = set(s.upper() for s in args.subject) if args.subject else None
 
-    print(f"{BOLD}{CYAN}Identifiera ej-aktiva kursplaner{RESET}")
+    print(f"{BOLD}{CYAN}Identifiera kursstatus (aktiv/vilande/ej-aktiv){RESET}")
     if not args.apply:
         print(f"  {YELLOW}DRY-RUN — inga filer skrivs{RESET}")
     print(f"  Hämtar nuvarande kurslistor från du.se …")
@@ -335,9 +528,11 @@ def main():
     print(f"\n{BOLD}Jämför mot vault …{RESET}")
     vault_codes = list_vault_codes_per_subject()
 
-    total_orphans   = 0
+    total_ej_aktiv = 0
+    total_vilande = 0
     total_reactivated = 0
-    total_moc_writes  = 0
+    total_moc_writes = 0
+    vilande_rows: list[tuple[str, str, str, str, str]] = []
 
     for subj_code, current_codes in codes_per_subject.items():
         info = subject_info.get(subj_code, {})
@@ -345,23 +540,35 @@ def main():
         inst_code = info.get("institution", "")
         vault_for_subj = vault_codes.get(subj_code, {})
 
-        orphans = sorted(c for c in vault_for_subj if c not in current_codes)
+        suspected = sorted(code for code in vault_for_subj if code not in current_codes)
         reactivated = []
+        ej_aktiv_codes: list[str] = []
+        vilande_codes: list[str] = []
 
-        # Re-activate any previously-tagged orphans that now exist in du.se
+        # Kurser som åter är i utbudet blir aktiv-status.
         for code in current_codes:
             path = vault_for_subj.get(code)
             if not path:
                 continue
-            if untag_orphan(path, subj_name, args.apply):
+            if set_course_status(path, subj_name, "active", args.apply):
                 reactivated.append(code)
 
-        # Tag new orphans
-        orphan_paths = [vault_for_subj[c] for c in orphans]
-        tagged = []
-        for code, p in zip(orphans, orphan_paths):
-            if tag_orphan(p, subj_name, args.apply):
-                tagged.append(code)
+        # Verifiera kurser som inte är i aktuellt utbud.
+        # Finns kursplan på URL: vilande. Annars: ej-aktiv.
+        for code in suspected:
+            path = vault_for_subj[code]
+            if kursplan_exists(code):
+                vilande_codes.append(code)
+                if set_course_status(path, subj_name, STATUS_VILANDE, args.apply):
+                    pass
+                vilande_rows.append((code, subj_code, inst_code, subj_name, read_course_name(path)))
+            else:
+                ej_aktiv_codes.append(code)
+                if set_course_status(path, subj_name, STATUS_EJ_AKTIV, args.apply):
+                    pass
+            time.sleep(REQUEST_DELAY)
+
+        orphan_paths = [vault_for_subj[c] for c in ej_aktiv_codes]
 
         moc_path = kursplaner_dir(inst_code) / subj_code / f"Ej Aktiv {subj_name} MOC.md"
         if orphan_paths:
@@ -377,24 +584,37 @@ def main():
                 moc_path.unlink()
             total_moc_writes += 1
 
-        if orphans or reactivated:
+        if ej_aktiv_codes or vilande_codes or reactivated:
             label = f"{subj_code} ({subj_name})"
             print(f"  {label:50s}  "
-                  f"{RED}+{len(orphans)} orphans{RESET}  "
+                  f"{RED}+{len(ej_aktiv_codes)} ej-aktiv{RESET}  "
+                  f"{YELLOW}+{len(vilande_codes)} vilande{RESET}  "
                   f"{GREEN}-{len(reactivated)} reactivated{RESET}")
-            for c in orphans[:5]:
-                print(f"      orphan: {c}")
-            if len(orphans) > 5:
-                print(f"      … och {len(orphans) - 5} till")
 
-        total_orphans += len(orphans)
+            for c in ej_aktiv_codes[:5]:
+                print(f"      ej-aktiv: {c}")
+            if len(ej_aktiv_codes) > 5:
+                print(f"      … och {len(ej_aktiv_codes) - 5} till")
+
+            for c in vilande_codes[:5]:
+                print(f"      vilande: {c}")
+            if len(vilande_codes) > 5:
+                print(f"      … och {len(vilande_codes) - 5} till")
+
+        total_ej_aktiv += len(ej_aktiv_codes)
+        total_vilande += len(vilande_codes)
         total_reactivated += len(reactivated)
 
+    md_changed, xlsx_changed = write_vilande_analysis(vilande_rows, args.apply)
+
     print(f"\n{BOLD}Sammanfattning{RESET}")
-    print(f"  Orphans (ej aktiva): {total_orphans}")
+    print(f"  Ej-aktiva:           {total_ej_aktiv}")
+    print(f"  Vilande:             {total_vilande}")
     print(f"  Återaktiverade:      {total_reactivated}")
     print(f"  MOC-skrivningar:     {total_moc_writes}")
-    if not args.apply and (total_orphans or total_reactivated or total_moc_writes):
+    print(f"  Vilande-analys.md:   {'ändrad' if md_changed else 'oförändrad'}")
+    print(f"  Vilande-analys.xlsx: {'ändrad' if xlsx_changed else 'oförändrad'}")
+    if not args.apply and (total_ej_aktiv or total_vilande or total_reactivated or total_moc_writes or md_changed):
         print(f"\n  Kör igen med {BOLD}--apply{RESET} för att skriva ändringarna.")
 
 

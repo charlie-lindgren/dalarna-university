@@ -8,10 +8,10 @@ huvudomrade: "Ryska 1"
 amne: "Ryska"
 amne_kod: "RYA"
 institution: "ISLL"
-tags: [kursplan, RYA, ISLL, ej-aktiv]
+tags: [kursplan, RYA, ISLL, vilande]
 scrape_hash: a054f783d7e19953
-up: "[[Ej Aktiv Ryska MOC]]"
-cssclasses: [ej-aktiv]
+up: "[[Ryska MOC]]"
+cssclasses: [vilande]
 ---
 
 # GRY2BR

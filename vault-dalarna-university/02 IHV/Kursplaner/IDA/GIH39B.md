@@ -8,9 +8,10 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
-tags: [kursplan, IDA, IHV]
+tags: [kursplan, IDA, IHV, vilande]
 scrape_hash: 0b65029ab71621c7
 up: "[[Idrotts- och hälsovetenskap MOC]]"
+cssclasses: [vilande]
 ---
 
 # GIH39B

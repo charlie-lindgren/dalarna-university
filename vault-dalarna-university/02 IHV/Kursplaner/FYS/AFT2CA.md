@@ -8,9 +8,10 @@ huvudomrade: "Fysioterapi 1"
 amne: "Fysioterapi"
 amne_kod: "FYS"
 institution: "IHV"
-tags: [kursplan, FYS, IHV]
+tags: [kursplan, FYS, IHV, vilande]
 scrape_hash: 120aec259fb5f0a9
 up: "[[Fysioterapi MOC]]"
+cssclasses: [vilande]
 ---
 
 # AFT2CA

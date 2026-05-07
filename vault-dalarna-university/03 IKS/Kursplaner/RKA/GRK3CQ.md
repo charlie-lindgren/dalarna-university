@@ -8,10 +8,10 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Religionsvetenskap"
 amne_kod: "RKA"
 institution: "IKS"
-tags: [kursplan, RKA, IKS, ej-aktiv]
+tags: [kursplan, RKA, IKS, vilande]
 scrape_hash: 9248de516a8a897a
-up: "[[Ej Aktiv Religionsvetenskap MOC]]"
-cssclasses: [ej-aktiv]
+up: "[[Religionsvetenskap MOC]]"
+cssclasses: [vilande]
 ---
 
 # GRK3CQ
