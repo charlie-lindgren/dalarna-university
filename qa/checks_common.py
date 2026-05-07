@@ -183,6 +183,17 @@ SV_IGNORE = {
     "rörelseverb","undervisningspråk","eu-rätt","eu-rättsliga",
     "förrättsligande","eu-rättens","prejudikatsvärde","undersökningsbart",
     "vfu-lärare","förskole",
+    # Giltiga sammansättningar och fältspecifika ord som hunspell sv_SE missar
+    "närstudium","mångkanalsinspelning","preparandnivå",
+    "tränarskapet","träningsbarhet",
+    "tyskämnet","tyskämnets","engelskämnet","engelskämnets",
+    "franskämnet","franskämnets",
+    "iordningsställande","medieringssätt","seriemanusförfattande",
+    "färgkorrigeringstrategier","förproduceras","ljudläggs","ljudlägga",
+    "dokumentärfilmfoto","dokumentärfilmfotots",
+    "välfärdstjänstearbete","lässtilar",
+    # Städer/orter (gemener) som kan förekomma i kursplaner
+    "malmö","jönköping","örebro",
 }
 HAS_SV = re.compile(r"[åäöÅÄÖ]")
 
@@ -336,6 +347,17 @@ EN_IGNORE = {
     "opponentship","participations","projectwork","researchable","reviewable",
     "systematics","uhr",
     "childrens","continous","curriculums","eco","kerchoff","lingua","www",
+    # Svenska ord som läcker in i engelsk text (klart FP)
+    "som","samt","ett","det","alla","inom","kan","hur","kommer","deltar",
+    "arbete","projekt","skola","modul","praxis","engelska","teknik",
+    "teknikens","kurserna","delkurs","didaktik","anatomi","bedriva",
+    "grundskolans","kunskaper","pedagogiskt","specialpedagogisk",
+    "studenta","legitimation","physiologi","nerv",
+    # Domäntermer som hunspell saknar
+    "neuromuscular","poststructuralism","falsificationism","verificationism",
+    "problematizes","socialisation","neuropsychiatric","chorology",
+    "filmmaking","multicamera","judokas","cartographically","onwards",
+    "roleplays","islamic",
 }
 
 
