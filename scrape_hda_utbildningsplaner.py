@@ -30,12 +30,20 @@ from bs4 import BeautifulSoup, Tag
 # Konfiguration
 # ---------------------------------------------------------------------------
 
-VAULT_UTBILDNINGSPLANER = (
-    Path(__file__).resolve().parent / "vault-dalarna-university" / "02 Utbildningsplaner"
-)
-VAULT_KURSPLANER = (
-    Path(__file__).resolve().parent / "vault-dalarna-university" / "01 Kursplaner"
-)
+VAULT = Path(__file__).resolve().parent / "vault-dalarna-university"
+INST_DIR_NAME = {"IIT": "01 IIT", "IHV": "02 IHV", "IKS": "03 IKS", "ISLL": "04 ISLL"}
+
+
+def institution_dir(inst_code: str) -> Path:
+    return VAULT / INST_DIR_NAME[inst_code]
+
+
+def utbildningsplaner_dir(inst_code: str) -> Path:
+    return institution_dir(inst_code) / "Utbildningsplaner"
+
+
+def kursplaner_dir(inst_code: str) -> Path:
+    return institution_dir(inst_code) / "Kursplaner"
 
 INSTITUTIONS = {
     "IIT": "Institutionen för information och teknik",
@@ -92,7 +100,12 @@ def build_kursplan_index() -> dict[str, tuple[str, str]]:
     Returnerar dict med lowercase kursnamn som nyckel.
     """
     index = {}
-    for md_file in VAULT_KURSPLANER.rglob("*.md"):
+    md_files = []
+    for ic in INST_DIR_NAME:
+        kp = kursplaner_dir(ic)
+        if kp.exists():
+            md_files.extend(kp.rglob("*.md"))
+    for md_file in md_files:
         if "MOC" in md_file.name:
             continue
         code = md_file.stem
@@ -673,7 +686,12 @@ def main():
     existing_codes: set[str] = set()
     existing_programmes: dict[str, dict] = {}  # code → {institution, name_sv}
     if args.skip_existing:
-        for md_file in VAULT_UTBILDNINGSPLANER.rglob("*.md"):
+        utb_md_files = []
+        for ic in INST_DIR_NAME:
+            ud = utbildningsplaner_dir(ic)
+            if ud.exists():
+                utb_md_files.extend(ud.rglob("*.md"))
+        for md_file in utb_md_files:
             if "MOC" in md_file.name:
                 continue
             code = md_file.stem
@@ -757,9 +775,10 @@ def main():
 
             # --- Write file to institution subfolder ---
             if institution:
-                folder = VAULT_UTBILDNINGSPLANER / institution
+                folder = utbildningsplaner_dir(institution)
             else:
-                folder = VAULT_UTBILDNINGSPLANER
+                # Stash unassigned programmes at vault root
+                folder = VAULT
 
             file_path = folder / f"{code}.md"
             new_text = build_programme_markdown(scraped, kursplan_index)

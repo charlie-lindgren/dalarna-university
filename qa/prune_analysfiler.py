@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 prune_analysfiler.py — Ta bort lösta fynd ur analysfilerna i
-vault-dalarna-university/03 Analys/.
+vault-dalarna-university/05 Analys/.
 
 Jämför kurskodsuppsättningen i varje analyses callout-tabell mot den
 senaste QA-rapporten. Rader vars kurskod inte längre finns i rapporten
@@ -19,7 +19,7 @@ from pathlib import Path
 from collections import defaultdict
 
 REPO_ROOT    = Path(__file__).resolve().parent.parent
-VAULT_ANALYS = REPO_ROOT / "vault-dalarna-university" / "03 Analys"
+VAULT_ANALYS = REPO_ROOT / "vault-dalarna-university" / "05 Analys"
 RAPPORT_DIR  = Path(__file__).resolve().parent / "rapporter"
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -169,11 +169,13 @@ def main():
         idx = args.index("--rapport")
         rapport_path = Path(args[idx + 1])
     else:
-        rapporter = sorted(RAPPORT_DIR.glob("rapport-*.md"))
+        # Pick the most recently modified report (matches both timestamped
+        # `rapport-YYYY-MM-DD-HHMM.md` and bare `rapport.md`).
+        rapporter = list(RAPPORT_DIR.glob("rapport*.md"))
         if not rapporter:
             print("Fel: Ingen rapport hittad i qa/rapporter/.", file=sys.stderr)
             sys.exit(1)
-        rapport_path = rapporter[-1]
+        rapport_path = max(rapporter, key=lambda p: p.stat().st_mtime)
 
     print(f"\n{CYAN}{BOLD}Rensa analysfilerna{RESET}")
     print(f"  Rapport: {rapport_path.name}")

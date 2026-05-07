@@ -10,12 +10,12 @@ cssclasses: [wide-page]
 
 ## Institutioner
 
-Högskolan Dalarna har fyra institutioner:
+Högskolan Dalarna har fyra institutioner. Klicka för att utforska kurs- och utbildningsplaner per institution.
 
-1. **IIT** — Institutionen för information och teknik
-2. **IHV** — Institutionen för hälsa och välfärd
-3. **IKS** — Institutionen för kultur och samhälle
-4. **ISLL** — Institutionen för språk, litteratur och lärande
+- [[IIT MOC|IIT]] — Institutionen för information och teknik
+- [[IHV MOC|IHV]] — Institutionen för hälsa och välfärd
+- [[IKS MOC|IKS]] — Institutionen för kultur och samhälle
+- [[ISLL MOC|ISLL]] — Institutionen för språk, litteratur och lärande
 
 ## Kvalitetsanalys
 

@@ -204,7 +204,7 @@ Denna analys är **manuellt kurerad** — automatisk paritetsmätning ger en sta
 
 ## Datakälla
 
-- Kursplaner under `01 Kursplaner/` som har **både** `## Lärandemål` och `## Learning Outcomes`
+- Kursplaner under `0X {INST}/Kursplaner/` som har **både** `## Lärandemål` och `## Learning Outcomes`
 - Tröskel: |sv − en| > 3 bullets
 
 ## Resultat

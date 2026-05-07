@@ -39,7 +39,7 @@ Kursplaner som uttryckligen är undantagna från flaggning anges i `MIXED_SCALE_
 
 ## Datakälla
 
-- Alla kursplaner under `01 Kursplaner/` (IIT + IHV + IKS + ISLL)
+- Alla kursplaner under `0X {INST}/Kursplaner/` (IIT + IHV + IKS + ISLL)
 - Endast sektionen `## Betyg`
 
 ## Resultat

@@ -13,10 +13,14 @@ This is **not a software project** — it is a structured knowledge base for nav
 ```text
 vault-dalarna-university/   Obsidian vault — living knowledge base
   00 Dashboard/             Overview and navigation hub
-  01 Kursplaner/            Course plans organized by institution → subject
-    {subject_code}/         Subject folder (e.g. DTA, INF, OMV)
-  02 Utbildningsplaner/     Programme plans
-  03 Analys/                Cross-cutting quality analyses (auto-populated)
+  01 IIT/                   Institution: Information & Engineering
+    IIT MOC.md              Institution map of content
+    Kursplaner/             Subject MOCs + course-code subfolders (DTA, BYA, …)
+    Utbildningsplaner/      Programme files
+  02 IHV/                   Institution: Health & Welfare
+  03 IKS/                   Institution: Culture & Society
+  04 ISLL/                  Institution: Language, Literature & Learning
+  05 Analys/                Cross-cutting quality analyses (auto-populated)
   Templates/                Obsidian templates
 content -> vault-dalarna-university  Symlink for Quartz site build
 quartz/                     Quartz 4 static site engine
@@ -39,14 +43,20 @@ hda.sh                      Interactive menu for the full workflow
 
 MOCs (Maps of Content) use a dandyflower pattern: seeds spread outward from a central MOC without tangling across other seeds. The hierarchy is:
 
-```
+```text
 Dalarna Dashboard
-├── Kursplaner MOC
-│   ├── IIT MOC → subject MOCs → course files
-│   ├── IHV MOC → subject MOCs → course files
-│   ├── IKS MOC → subject MOCs → course files
-│   └── ISLL MOC → subject MOCs → course files
-└── Utbildningsplaner MOC → programme files
+├── IIT MOC
+│   ├── Kursplaner/  (subject MOCs → course files)
+│   └── Utbildningsplaner/  (programme files)
+├── IHV MOC
+│   ├── Kursplaner/
+│   └── Utbildningsplaner/
+├── IKS MOC
+│   ├── Kursplaner/
+│   └── Utbildningsplaner/
+└── ISLL MOC
+    ├── Kursplaner/
+    └── Utbildningsplaner/
 ```
 
 Each file has an `up:` frontmatter key pointing to its parent MOC.

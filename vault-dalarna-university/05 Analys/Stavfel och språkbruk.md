@@ -417,7 +417,7 @@ Båda hunspell-passen filtreras mot omfattande ignorelistor (domäntermer, akron
 
 ## Datakälla
 
-- Alla kursplaner under `01 Kursplaner/` (IIT + IHV + IKS + ISLL)
+- Alla kursplaner under `0X {INST}/Kursplaner/` (IIT + IHV + IKS + ISLL)
 - Svensk text: brödtext minus `## English Version`
 - Engelsk text: enbart `## English Version`
 

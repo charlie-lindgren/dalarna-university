@@ -682,7 +682,7 @@ Den enda strukturella undantagsformen som accepteras är *"Efter avslutad delkur
 
 ## Datakälla
 
-- Alla kursplaner under `01 Kursplaner/` (IIT + IHV + IKS + ISLL)
+- Alla kursplaner under `0X {INST}/Kursplaner/` (IIT + IHV + IKS + ISLL)
 - Endast den svenska sektionen (`## Lärandemål`)
 - Tidpunkt: senast skrapade datum, se [[Dalarna Dashboard]]
 

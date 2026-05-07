@@ -37,11 +37,17 @@ from checks_common import (
     subject,
 )
 
-ROOT = Path(__file__).resolve().parent.parent / "vault-dalarna-university" / "01 Kursplaner"
+VAULT = Path(__file__).resolve().parent.parent / "vault-dalarna-university"
+INST_DIRS = ["01 IIT", "02 IHV", "03 IKS", "04 ISLL"]
 
 
 def load_files() -> list[Path]:
-    return sorted(p for p in ROOT.rglob("*.md") if "MOC" not in p.name)
+    files: list[Path] = []
+    for inst in INST_DIRS:
+        kp = VAULT / inst / "Kursplaner"
+        if kp.exists():
+            files.extend(p for p in kp.rglob("*.md") if "MOC" not in p.name)
+    return sorted(files)
 
 
 # ─────────────────────────────────────────────────────────────────────────────

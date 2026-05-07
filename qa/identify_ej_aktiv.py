@@ -6,7 +6,7 @@ på du.se som "ej aktiv".
 Arbetsflöde:
   1. Hämtar nuvarande ämnen + kurslistor från du.se (via samma upptäcktslogik
      som scrape_hda_kursplaner.py — men utan per-kurs-skrap).
-  2. Jämför mot kursplansfiler i vault-dalarna-university/01 Kursplaner/<AMNE>/.
+  2. Jämför mot kursplansfiler i vault-dalarna-university/0X {INST}/Kursplaner/<AMNE>/.
   3. För kurser som finns i vault men inte längre på du.se:
        - Lägger till `ej-aktiv` i tags + cssclasses
        - Pekar `up:` till "Ej Aktiv <Ämne> MOC"
@@ -44,7 +44,12 @@ from scrape_hda_kursplaner import (  # noqa: E402
     discover_courses_for_subject,
 )
 
-VAULT_KURSPLANER = ROOT / "vault-dalarna-university" / "01 Kursplaner"
+VAULT = ROOT / "vault-dalarna-university"
+INST_DIR_NAME = {"IIT": "01 IIT", "IHV": "02 IHV", "IKS": "03 IKS", "ISLL": "04 ISLL"}
+
+
+def kursplaner_dir(inst_code: str) -> Path:
+    return VAULT / INST_DIR_NAME[inst_code] / "Kursplaner"
 
 BOLD   = "\033[1m"
 GREEN  = "\033[0;32m"
@@ -110,20 +115,23 @@ def update_fm_field(fm_block: str, key: str, new_value: str | None) -> str:
 # ─────────────────────────────────────────────────────────────────────────────
 
 def list_vault_codes_per_subject() -> dict[str, dict[str, Path]]:
-    """Returnerar {subj_code -> {course_code -> path}} från vault-katalogerna."""
+    """Returnerar {subj_code -> {course_code -> path}} från vault-katalogerna,
+    aggregerat över alla institutioner."""
     result: dict[str, dict[str, Path]] = defaultdict(dict)
-    if not VAULT_KURSPLANER.exists():
-        return result
-    for subj_dir in VAULT_KURSPLANER.iterdir():
-        if not subj_dir.is_dir():
+    for inst_code in INST_DIR_NAME:
+        kp = kursplaner_dir(inst_code)
+        if not kp.exists():
             continue
-        subj_code = subj_dir.name
-        for f in subj_dir.glob("*.md"):
-            if "MOC" in f.name:
+        for subj_dir in kp.iterdir():
+            if not subj_dir.is_dir():
                 continue
-            stem = f.stem
-            if COURSE_CODE_RE.match(stem):
-                result[subj_code][stem] = f
+            subj_code = subj_dir.name
+            for f in subj_dir.glob("*.md"):
+                if "MOC" in f.name:
+                    continue
+                stem = f.stem
+                if COURSE_CODE_RE.match(stem):
+                    result[subj_code][stem] = f
     return result
 
 
@@ -355,7 +363,7 @@ def main():
             if tag_orphan(p, subj_name, args.apply):
                 tagged.append(code)
 
-        moc_path = VAULT_KURSPLANER / subj_code / f"Ej Aktiv {subj_name} MOC.md"
+        moc_path = kursplaner_dir(inst_code) / subj_code / f"Ej Aktiv {subj_name} MOC.md"
         if orphan_paths:
             moc_text = build_ej_aktiv_moc(subj_name, subj_code, inst_code, orphan_paths)
             existing = moc_path.read_text(encoding="utf-8") if moc_path.exists() else ""

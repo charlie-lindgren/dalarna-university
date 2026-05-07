@@ -38,7 +38,7 @@ Denna analys är **manuellt kurerad** — populate-skriptet skriver in de rappor
 
 ## Datakälla
 
-- Alla kursplaner under `01 Kursplaner/` med kurskod som börjar med `A` eller `G2` (avancerad nivå)
+- Alla kursplaner under `0X {INST}/Kursplaner/` med kurskod som börjar med `A` eller `G2` (avancerad nivå)
 - Endast den svenska sektionen (`## Lärandemål`)
 
 ## Resultat

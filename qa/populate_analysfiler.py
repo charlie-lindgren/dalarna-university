@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-populate_analysfiler.py — Fyll varje analysfil i vault-dalarna-university/03 Analys/
+populate_analysfiler.py — Fyll varje analysfil i vault-dalarna-university/05 Analys/
 med fynd från senaste QA-rapporten.
 
 Idempotent: hittar callout-blocket `> [!example]- ... fynd ...` i analysfilen,
@@ -23,7 +23,7 @@ from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
 
 REPO_ROOT    = Path(__file__).resolve().parent.parent
-VAULT_ANALYS = REPO_ROOT / "vault-dalarna-university" / "03 Analys"
+VAULT_ANALYS = REPO_ROOT / "vault-dalarna-university" / "05 Analys"
 RAPPORT_DIR  = Path(__file__).resolve().parent / "rapporter"
 
 # Analysfil → (rapport-sektionsprefix → "Problem"-etikett i analystabellen)

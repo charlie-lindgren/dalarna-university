@@ -665,7 +665,7 @@ Lärandemål bör vara **få nog att vara hanterbara** men **många nog att täc
 
 ## Datakälla
 
-- Alla kursplaner under `01 Kursplaner/` (IIT + IHV + IKS + ISLL)
+- Alla kursplaner under `0X {INST}/Kursplaner/` (IIT + IHV + IKS + ISLL)
 - Endast den svenska sektionen (`## Lärandemål`)
 
 ## Resultat

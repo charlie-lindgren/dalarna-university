@@ -30,11 +30,17 @@ from checks_common import (
     check_known_typos,
 )
 
-ROOT = Path(__file__).resolve().parent.parent / "vault-dalarna-university" / "02 Utbildningsplaner"
+VAULT = Path(__file__).resolve().parent.parent / "vault-dalarna-university"
+INST_DIRS = ["01 IIT", "02 IHV", "03 IKS", "04 ISLL"]
 
 
 def load_files() -> list[Path]:
-    return sorted(p for p in ROOT.rglob("*.md") if "MOC" not in p.name)
+    files: list[Path] = []
+    for inst in INST_DIRS:
+        utb = VAULT / inst / "Utbildningsplaner"
+        if utb.exists():
+            files.extend(p for p in utb.rglob("*.md") if "MOC" not in p.name)
+    return sorted(files)
 
 
 CHECK_LABELS = {

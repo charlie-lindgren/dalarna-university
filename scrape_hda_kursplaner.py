@@ -35,7 +35,20 @@ from bs4 import BeautifulSoup, Tag
 # Konfiguration
 # ---------------------------------------------------------------------------
 
-VAULT_KURSPLANER = Path(__file__).resolve().parent / "vault-dalarna-university" / "01 Kursplaner"
+VAULT = Path(__file__).resolve().parent / "vault-dalarna-university"
+INST_DIR_NAME = {"IIT": "01 IIT", "IHV": "02 IHV", "IKS": "03 IKS", "ISLL": "04 ISLL"}
+
+
+def institution_dir(inst_code: str) -> Path:
+    return VAULT / INST_DIR_NAME[inst_code]
+
+
+def kursplaner_dir(inst_code: str) -> Path:
+    return institution_dir(inst_code) / "Kursplaner"
+
+
+def utbildningsplaner_dir(inst_code: str) -> Path:
+    return institution_dir(inst_code) / "Utbildningsplaner"
 
 # Institutioner vid Högskolan Dalarna
 INSTITUTIONS = {
@@ -779,7 +792,7 @@ def write_course_file(
                                              inst_code)
             file_path.write_text(new_text, encoding="utf-8")
             if not quiet:
-                print(f"  ✓ Uppdaterad: {file_path.relative_to(VAULT_KURSPLANER.parent)}")
+                print(f"  ✓ Uppdaterad: {file_path.relative_to(VAULT)}")
         return len(changes)
     else:
         # Ny fil
@@ -790,7 +803,7 @@ def write_course_file(
                                              inst_code)
             file_path.write_text(new_text, encoding="utf-8")
             if not quiet:
-                print(f"  ✓ Skapad: {file_path.relative_to(VAULT_KURSPLANER.parent)}")
+                print(f"  ✓ Skapad: {file_path.relative_to(VAULT)}")
         return 1
 
 
@@ -1047,10 +1060,14 @@ def main():
     existing_codes: set[str] = set()
     existing_files: dict[str, Path] = {}  # code → path, for reading frontmatter
     if args.skip_existing:
-        for md in VAULT_KURSPLANER.rglob("*.md"):
-            if "MOC" not in md.stem:
-                existing_codes.add(md.stem)
-                existing_files[md.stem] = md
+        for inst_code in INST_DIR_NAME:
+            kp = kursplaner_dir(inst_code)
+            if not kp.exists():
+                continue
+            for md in kp.rglob("*.md"):
+                if "MOC" not in md.stem:
+                    existing_codes.add(md.stem)
+                    existing_files[md.stem] = md
         if existing_codes:
             print(f"  --skip-existing: {len(existing_codes)} kurser redan i vaulten, hoppar över dem.")
 
@@ -1130,7 +1147,7 @@ def main():
                     else:
                         file_inst_code = inst_code
 
-                    subject_dir = VAULT_KURSPLANER / subj_code
+                    subject_dir = kursplaner_dir(file_inst_code) / subj_code
                     if args.apply:
                         subject_dir.mkdir(parents=True, exist_ok=True)
 
@@ -1172,46 +1189,42 @@ def main():
             inst_subjects[ic].append(info)
             all_course_counts[subj_code] = len(info["courses"])
 
-        # Ämnes-MOC:ar
+        # Ämnes-MOC:ar (per institution)
         for subj_code, info in real_subjects.items():
-            subject_dir = VAULT_KURSPLANER / subj_code
+            ic = info["institution"]
+            subject_dir = kursplaner_dir(ic) / subj_code
             subject_dir.mkdir(parents=True, exist_ok=True)
-            moc_path = VAULT_KURSPLANER / f"{info['name']} MOC.md"
+            moc_path = kursplaner_dir(ic) / f"{info['name']} MOC.md"
             moc_text = build_subject_moc(info, info["courses"])
             moc_path.write_text(moc_text, encoding="utf-8")
             if not args.quiet:
                 print(f"  ✓ {moc_path.name}")
 
         # Institutions-MOC:ar (med utbildningsplaner)
-        vault_utb = VAULT_KURSPLANER.parent / "02 Utbildningsplaner"
         inst_programmes: dict[str, list[dict]] = {ic: [] for ic in INSTITUTIONS}
-        if vault_utb.exists():
-            for md in vault_utb.rglob("*.md"):
+        for ic in INST_DIR_NAME:
+            utb_dir = utbildningsplaner_dir(ic)
+            if not utb_dir.exists():
+                continue
+            for md in utb_dir.rglob("*.md"):
                 if "MOC" in md.name:
                     continue
                 try:
                     text = md.read_text(encoding="utf-8")
-                    inst = None
                     pname = md.stem
                     for line in text.split("\n"):
-                        if line.startswith("institution:"):
-                            inst = line.split(":", 1)[1].strip().strip('"')
-                        elif line.startswith("programnamn:"):
+                        if line.startswith("programnamn:"):
                             pname = line.split(":", 1)[1].strip().strip('"')
-                        if inst and pname != md.stem:
                             break
-                    if inst and inst in inst_programmes:
-                        inst_programmes[inst].append({
-                            "code": md.stem, "name_sv": pname,
-                        })
+                    inst_programmes[ic].append({"code": md.stem, "name_sv": pname})
                 except Exception:
                     pass
 
-        for ic in ["IIT", "IHV", "IKS", "ISLL"]:
+        for ic in INST_DIR_NAME:
             subjects = inst_subjects.get(ic, [])
             if not subjects:
                 continue
-            moc_path = VAULT_KURSPLANER / f"{ic} MOC.md"
+            moc_path = institution_dir(ic) / f"{ic} MOC.md"
             progs = inst_programmes.get(ic, [])
             moc_text = build_institution_moc(
                 ic, subjects, all_course_counts, progs or None

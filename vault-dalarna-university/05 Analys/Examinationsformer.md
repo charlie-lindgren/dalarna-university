@@ -27,7 +27,7 @@ Säkerställa att hp-vikterna på betygsskalans **delmoment** (i sektionen `## B
 
 ## Datakälla
 
-- Alla kursplaner under `01 Kursplaner/` (IIT + IHV + IKS + ISLL)
+- Alla kursplaner under `0X {INST}/Kursplaner/` (IIT + IHV + IKS + ISLL)
 - Endast sektionen `## Examinationsformer`
 
 ## Resultat
