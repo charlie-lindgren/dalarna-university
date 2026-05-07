@@ -740,12 +740,15 @@ def build_course_markdown(scraped: dict, subject_name: str, subject_code: str,
         if css_unique:
             lines.append(f"cssclasses: [{', '.join(css_unique)}]")
     lines.append(f"scrape_hash: {s_hash}")
+    lines.append(f"url: {SV_URL.format(code=code)}")
     lines.append(f"up: \"[[{subject_name} MOC]]\"")
     lines.append("---")
     lines.append("")
 
     # Header
     lines.append(f"# {code}")
+    lines.append("")
+    lines.append(f"[Kursplan på du.se →]({SV_URL.format(code=code)})")
     lines.append("")
     lines.append(f"**Kursnamn:** {name_sv}")
     if name_en and name_en != name_sv:

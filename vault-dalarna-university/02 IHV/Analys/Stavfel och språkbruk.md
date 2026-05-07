@@ -10,7 +10,7 @@ status: första pass
 
 <a class="download-xlsx" href="Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (180 rader)</span></a>
 
-> [!example]- 180 fynd — klicka för att expandera
+> [!example]- 154 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -23,20 +23,13 @@ status: första pass
 > | [GIH2D5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2D5) | IDA | Felstavning (en) | `fulfilment` (en) |
 > | [GIH2D5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2D5) | IDA | Felstavning (en) | `individualisation` (en) |
 > | [GIH2D5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2D5) | IDA | Felstavning (en) | `individualising` (en) |
-> | [GIH2D6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2D6) | IDA | Felstavning (en) | `neuromuscular` (en) |
-> | [GIH2D7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2D7) | IDA | Felstavning (en) | `neuromuscular` (en) |
 > | [GIH2DB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2DB) | IDA | Felstavning | `jämviktsystem` (sv) |
 > | [GIH2DC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2DC) | IDA | Felstavning | `jämviktsystem` (sv) |
-> | [GIH2LT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2LT) | IDA | Felstavning (en) | `judokas` (en) |
-> | [GIH2LV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2LV) | IDA | Felstavning (en) | `judokas` (en) |
 > | [GIH2NR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2NR) | IDA | Felstavning (en) | `lecturs` (en) |
 > | [GIH2NR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2NR) | IDA | Felstavning (en) | `sensorimotor` (en) |
 > | [GIH2QK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2QK) | IDA | Felstavning | `testläraprinciper` (sv) |
 > | [GIH2QL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2QL) | IDA | Felstavning | `idrottsränarprogrammet` (sv) |
-> | [GIH2WT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2WT) | IDA | Felstavning | `träningsbarhet` (sv) |
-> | [GIH2WU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2WU) | IDA | Felstavning | `träningsbarhet` (sv) |
 > | [GIH2WX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2WX) | IDA | Felstavning | `lärar` (sv) |
-> | [GIH2XY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2XY) | IDA | Felstavning (en) | `projekt` (en) |
 > | [GIH2ZA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZA) | IDA | Felstavning (en) | `enviroment` (en) |
 > | [GIH2ZB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZB) | IDA | Felstavning | `idrottsläramoment` (sv) |
 > | [GIH2ZC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZC) | IDA | Felstavning (en) | `movementorgans` (en) |
@@ -45,46 +38,30 @@ status: första pass
 > | [GIH334](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH334) | IDA | Felstavning (en) | `collaboratation` (en) |
 > | [GIH334](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH334) | IDA | Felstavning (en) | `reciece` (en) |
 > | [GIH335](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH335) | IDA | Felstavning | `soloprenör` (sv) |
-> | [GIH33J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH33J) | IDA | Felstavning (en) | `neuromuscular` (en) |
 > | [GIH33P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH33P) | IDA | Felstavning | `jämviktsystem` (sv) |
 > | [GIH34D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34D) | IDA | Felstavning (en) | `humanistiv` (en) |
 > | [GIH34T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34T) | IDA | Felstavning (en) | `nerv` (en) |
 > | [GIH34T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34T) | IDA | Felstavning (en) | `respirationsystem` (en) |
-> | [GIH34V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34V) | IDA | Felstavning (en) | `bedriva` (en) |
-> | [GIH34V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34V) | IDA | Felstavning (en) | `ett` (en) |
-> | [GIH34V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34V) | IDA | Felstavning (en) | `hur` (en) |
-> | [GIH34V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34V) | IDA | Felstavning (en) | `kan` (en) |
 > | [GIH37S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37S) | IDA | Felstavning (en) | `enviroment` (en) |
 > | [GIH38Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH38Y) | IDA | Felstavning (en) | `nerv` (en) |
 > | [GIH38Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH38Y) | IDA | Felstavning (en) | `respirationsystem` (en) |
 > | [GIH393](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH393) | IDA | Felstavning | `idrottsläramoment` (sv) |
 > | [GIH394](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH394) | IDA | Felstavning | `lärar` (sv) |
-> | [GIH395](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH395) | IDA | Felstavning (en) | `bedriva` (en) |
-> | [GIH395](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH395) | IDA | Felstavning (en) | `ett` (en) |
-> | [GIH395](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH395) | IDA | Felstavning (en) | `hur` (en) |
-> | [GIH395](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH395) | IDA | Felstavning (en) | `kan` (en) |
 > | [GIH39D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH39D) | IDA | Felstavning (en) | `enviroment` (en) |
 > | [GIH39H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH39H) | IDA | Felstavning (en) | `movementorgans` (en) |
 > | [GIH3AQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AQ) | IDA | Felstavning | `mätprinciper` (sv) |
 > | [GIH3C2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3C2) | IDA | Felstavning (en) | `reporage` (en) |
 > | [GIH3D5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3D5) | IDA | Felstavning | `hälsopromotiva` (sv) |
-> | [GIH3F5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3F5) | IDA | Felstavning | `tränarskapet` (sv) |
 > | [GIH3F7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3F7) | IDA | Felstavning | `normförmedlare` (sv) |
 > | [GIH3F7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3F7) | IDA | Felstavning (en) | `teories` (en) |
-> | [GIH3F8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3F8) | IDA | Felstavning (en) | `anatomi` (en) |
 > | [GIH3G6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G6) | IDA | Felstavning | `kunskapnivå` (sv) |
 > | [GIH3G8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G8) | IDA | Felstavning (en) | `intrapersonal` (en) |
 > | [GIH3G9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G9) | IDA | Felstavning | `soloprenör` (sv) |
 > | [GIH3G9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G9) | IDA | Felstavning (en) | `intrapreneur` (en) |
 > | [GIH3G9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G9) | IDA | Felstavning (en) | `solopreneur` (en) |
-> | [GIH3GE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GE) | IDA | Felstavning | `tränarskapet` (sv) |
-> | [GIH3GF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GF) | IDA | Felstavning | `tränarskapet` (sv) |
-> | [GIH3GG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GG) | IDA | Felstavning (en) | `anatomi` (en) |
-> | [GIH3GH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GH) | IDA | Felstavning | `träningsbarhet` (sv) |
 > | [GIH3JL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3JL) | IDA | Felstavning (en) | `emphasising` (en) |
 > | [IH1001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1001) | IDA | Felstavning | `rörel-sekompetensen` (sv) |
 > | [IH1001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1001) | IDA | Felstavning (en) | `physiologi` (en) |
-> | [IH1002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1002) | IDA | Felstavning (en) | `physiologi` (en) |
 > | [IH1003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1003) | IDA | Felstavning (en) | `leasure` (en) |
 > | [IH1003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1003) | IDA | Felstavning (en) | `workingform` (en) |
 > | [IH1004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1004) | IDA | Felstavning (en) | `peda` (en) |
@@ -108,8 +85,6 @@ status: första pass
 > | [AMC265](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC265) | MCA | Felstavning (en) | `dietician` (en) |
 > | [AMC2A7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC2A7) | MCA | Felstavning (en) | `arrhythmias` (en) |
 > | [GMC2AH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC2AH) | MCA | Felstavning | `vätske` (sv) |
-> | [GMC37E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC37E) | MCA | Felstavning (en) | `engelska` (en) |
-> | [GMC37T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC37T) | MCA | Felstavning (en) | `engelska` (en) |
 > | [MC2023](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MC2023) | MCA | Felstavning | `kärlområdet` (sv) |
 > | [GNV396](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV396) | NAV | Felstavning (en) | `artefacts` (en) |
 > | [GNV3GU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3GU) | NAV | Felstavning | `inlämingsuppgift` (sv) |
@@ -149,7 +124,6 @@ status: första pass
 > | [SA2020](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SA2020) | SAA | Felstavning | `fördjuping` (sv) |
 > | [ASR22N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR22N) | SRP | Felstavning (en) | `ethhtical` (en) |
 > | [ASR22N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR22N) | SRP | Felstavning (en) | `summarisze` (en) |
-> | [ASR25P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR25P) | SRP | Felstavning (en) | `studenta` (en) |
 > | [ASR25V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR25V) | SRP | Felstavning (en) | `systemacity` (en) |
 > | [ASR26N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR26N) | SRP | Felstavning | `läraktivitet` (sv) |
 > | [ASR26N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR26N) | SRP | Felstavning | `läraktiviteter` (sv) |

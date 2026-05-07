@@ -10,11 +10,10 @@ status: första pass
 
 <a class="download-xlsx" href="Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (426 rader)</span></a>
 
-> [!example]- 426 fynd — klicka för att expandera
+> [!example]- 378 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
-> | [AB1005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1005) | ABA | Felstavning | `malmö` (sv) |
 > | [AB1009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1009) | ABA | Felstavning | `angelöw` (sv) |
 > | [AB1009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1009) | ABA | Felstavning | `jönköping` (sv) |
 > | [AB1014](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1014) | ABA | Felstavning (en) | `energised` (en) |
@@ -28,8 +27,6 @@ status: första pass
 > | [AB1031](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1031) | ABA | Felstavning (en) | `summarised` (en) |
 > | [AB3001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB3001) | ABA | Felstavning | `kommunförb` (sv) |
 > | [AB3001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB3001) | ABA | Felstavning | `sölvell` (sv) |
-> | [GAB3AK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3AK) | ABA | Felstavning | `välfärdstjänstearbete` (sv) |
-> | [GBP34H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBP34H) | BIL | Felstavning (en) | `projekt` (en) |
 > | [ABQ2AM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABQ2AM) | BPO | Felstavning (en) | `inludes` (en) |
 > | [ABQ2AM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABQ2AM) | BPO | Felstavning (en) | `managment` (en) |
 > | [ABQ2B4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABQ2B4) | BPO | Dubblerat ord | `en` — …- formulera och muntligt framföra konstruktiv kritik på en en text av vetenskaplig karaktär    - vetenskapligt värdera oc… |
@@ -39,23 +36,14 @@ status: första pass
 > | [BQ2018](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BQ2018) | BPO | Felstavning (en) | `filmic` (en) |
 > | [BQ2057](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BQ2057) | BPO | Felstavning | `ljudlägga` (sv) |
 > | [BQ2057](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BQ2057) | BPO | Felstavning (en) | `postproduction` (en) |
-> | [BQ2058](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BQ2058) | BPO | Felstavning | `seriemanusförfattande` (sv) |
-> | [BQ2058](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BQ2058) | BPO | Felstavning (en) | `multicamera` (en) |
 > | [GBQ29D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ29D) | BPO | Felstavning (en) | `multicamera` (en) |
 > | [GBQ29D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ29D) | BPO | Felstavning (en) | `undergradaute` (en) |
 > | [GBQ29E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ29E) | BPO | Felstavning (en) | `undergradaute` (en) |
-> | [GBQ2AZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2AZ) | BPO | Felstavning | `färgkorrigeringstrategier` (sv) |
-> | [GBQ2EB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2EB) | BPO | Felstavning | `förproduceras` (sv) |
-> | [GBQ2HD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2HD) | BPO | Felstavning | `ljudläggs` (sv) |
-> | [GBQ2MT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2MT) | BPO | Felstavning | `dokumentärfilmfoto` (sv) |
-> | [GBQ2MT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2MT) | BPO | Felstavning | `dokumentärfilmfotots` (sv) |
 > | [GBQ2U6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2U6) | BPO | Felstavning | `användar` (sv) |
 > | [GBQ2U6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2U6) | BPO | Felstavning | `beställningsfilmsproduktion` (sv) |
 > | [GBQ2UB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2UB) | BPO | Felstavning | `berättandestruktur` (sv) |
 > | [GBQ2WH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2WH) | BPO | Felstavning (en) | `tbt` (en) |
 > | [GBQ2WK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2WK) | BPO | Felstavning | `berätttarelement` (sv) |
-> | [GBQ36D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ36D) | BPO | Felstavning | `ljudlägga` (sv) |
-> | [GBQ36D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ36D) | BPO | Felstavning (en) | `modul` (en) |
 > | [GBQ36K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ36K) | BPO | Felstavning (en) | `praktical` (en) |
 > | [GBQ36K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ36K) | BPO | Felstavning (en) | `thery` (en) |
 > | [GBQ38V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ38V) | BPO | Felstavning | `mediacomposer-miljö` (sv) |
@@ -66,7 +54,6 @@ status: första pass
 > | [GBQ38X](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ38X) | BPO | Felstavning (en) | `documetnary` (en) |
 > | [GBQ38X](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ38X) | BPO | Felstavning (en) | `filmproject` (en) |
 > | [GBQ38X](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ38X) | BPO | Felstavning (en) | `histrorical` (en) |
-> | [GBQ3A5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3A5) | BPO | Felstavning (en) | `filmmaking` (en) |
 > | [GBQ3A6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3A6) | BPO | Felstavning | `användar` (sv) |
 > | [GBQ3A7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3A7) | BPO | Felstavning | `wars-berättelserna` (sv) |
 > | [GBQ3A7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3A7) | BPO | Felstavning | `wars-berättelsernas` (sv) |
@@ -101,19 +88,15 @@ status: första pass
 > | [GFI3BT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFI3BT) | FIA | Felstavning (en) | `introdcution` (en) |
 > | [GFI3BT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFI3BT) | FIA | Felstavning (en) | `througout` (en) |
 > | [GFI3BU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFI3BU) | FIA | Felstavning (en) | `througout` (en) |
-> | [AHI263](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI263) | HIA | Felstavning (en) | `islamic` (en) |
-> | [AHI26P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI26P) | HIA | Felstavning (en) | `islamic` (en) |
 > | [AHI272](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI272) | HIA | Felstavning | `europeiskspråkiga` (sv) |
 > | [AHI272](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI272) | HIA | Felstavning (en) | `poitical` (en) |
 > | [AHI29Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI29Q) | HIA | Felstavning (en) | `consultaion` (en) |
 > | [AHI29Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI29Q) | HIA | Felstavning (en) | `situatin` (en) |
 > | [AS2005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS2005) | HIA | Felstavning (en) | `takenup` (en) |
-> | [AS3016](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS3016) | HIA | Felstavning (en) | `islamic` (en) |
 > | [AS3017](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS3017) | HIA | Felstavning | `literära` (sv) |
 > | [AS3020](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS3020) | HIA | Felstavning (en) | `outlineof` (en) |
 > | [AS3022](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS3022) | HIA | Felstavning (en) | `teh` (en) |
 > | [GHI29Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI29Y) | HIA | Felstavning | `innhållet` (sv) |
-> | [GHI2CK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI2CK) | HIA | Felstavning (en) | `praxis` (en) |
 > | [GHI33T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI33T) | HIA | Felstavning | `problemförmuleringsförmåga` (sv) |
 > | [GHI33V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI33V) | HIA | Felstavning | `delkurseninnehåller` (sv) |
 > | [GHI33V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI33V) | HIA | Felstavning | `godkäng` (sv) |
@@ -122,7 +105,6 @@ status: första pass
 > | [GHI35A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI35A) | HIA | Felstavning | `människorsagerande` (sv) |
 > | [GHI362](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI362) | HIA | Felstavning | `självstänigt` (sv) |
 > | [GHI362](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI362) | HIA | Felstavning (en) | `metod` (en) |
-> | [HI1004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=HI1004) | HIA | Felstavning (en) | `praxis` (en) |
 > | [HI1008](https://www.du.se/sv/utbildning/kurser/kursplan/?code=HI1008) | HIA | Felstavning (en) | `criterions` (en) |
 > | [HI2011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=HI2011) | HIA | Felstavning | `historiedidaktikområdet` (sv) |
 > | [HI2012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=HI2012) | HIA | Felstavning | `sjävvalt` (sv) |
@@ -160,13 +142,7 @@ status: första pass
 > | [KG3016](https://www.du.se/sv/utbildning/kurser/kursplan/?code=KG3016) | KGA | Felstavning (en) | `aggregative` (en) |
 > | [GLP236](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP236) | LPU | Felstavning | `framträdandeform` (sv) |
 > | [GLP29R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP29R) | LPU | Felstavning | `flerspårsmaterial` (sv) |
-> | [GLP29U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP29U) | LPU | Felstavning | `iordningsställande` (sv) |
-> | [GLP29U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP29U) | LPU | Felstavning | `mångkanalsinspelning` (sv) |
-> | [GLP29X](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP29X) | LPU | Felstavning | `iordningsställande` (sv) |
-> | [GLP29X](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP29X) | LPU | Felstavning | `mångkanalsinspelning` (sv) |
 > | [GLP2JZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2JZ) | LPU | Felstavning | `flerspårsmaterial` (sv) |
-> | [GLP2QU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2QU) | LPU | Felstavning | `iordningsställande` (sv) |
-> | [GLP2QU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2QU) | LPU | Felstavning | `mångkanalsinspelning` (sv) |
 > | [GLP359](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP359) | LPU | Felstavning (en) | `digitalization` (en) |
 > | [GLP359](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP359) | LPU | Felstavning (en) | `djing` (en) |
 > | [GLP3AH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP3AH) | LPU | Felstavning (en) | `ande` (en) |
@@ -184,7 +160,6 @@ status: första pass
 > | [LP2013](https://www.du.se/sv/utbildning/kurser/kursplan/?code=LP2013) | LPU | Felstavning (en) | `litterature` (en) |
 > | [GMN3E3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3E3) | MPR | Felstavning (en) | `rethoric` (en) |
 > | [GMN3EA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EA) | MPR | Felstavning | `användar` (sv) |
-> | [GMN3EL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EL) | MPR | Felstavning | `seriemanusförfattande` (sv) |
 > | [GMN3EX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EX) | MPR | Felstavning (en) | `desgin` (en) |
 > | [GNA2NT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA2NT) | NAA | Felstavning (en) | `assignement` (en) |
 > | [GNA3DA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA3DA) | NAA | Felstavning | `tillgångspristeorier` (sv) |
@@ -226,8 +201,6 @@ status: första pass
 > | [PE1010](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1010) | PEA | Felstavning | `åberg` (sv) |
 > | [PE1010](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1010) | PEA | Felstavning | `örebro` (sv) |
 > | [PE1011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1011) | PEA | Felstavning | `hög-skolepoäng` (sv) |
-> | [PE1018](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1018) | PEA | Felstavning (en) | `arbete` (en) |
-> | [PE1018](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1018) | PEA | Felstavning (en) | `pedagogiskt` (en) |
 > | [PE1020](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1020) | PEA | Felstavning (en) | `alla` (en) |
 > | [PE1020](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1020) | PEA | Felstavning (en) | `arbete` (en) |
 > | [PE1020](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1020) | PEA | Felstavning (en) | `gryndsyn` (en) |
@@ -253,13 +226,6 @@ status: första pass
 > | [PE1054](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1054) | PEA | Felstavning (en) | `ett` (en) |
 > | [PE1054](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1054) | PEA | Felstavning (en) | `legitimation` (en) |
 > | [PE1054](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1054) | PEA | Felstavning (en) | `som` (en) |
-> | [PE1055](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1055) | PEA | Felstavning (en) | `deltar` (en) |
-> | [PE1055](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1055) | PEA | Felstavning (en) | `ett` (en) |
-> | [PE1055](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1055) | PEA | Felstavning (en) | `legitimation` (en) |
-> | [PE1055](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1055) | PEA | Felstavning (en) | `som` (en) |
-> | [PE1056](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1056) | PEA | Felstavning (en) | `som` (en) |
-> | [PE1057](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1057) | PEA | Felstavning | `medieringssätt` (sv) |
-> | [PE1058](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1058) | PEA | Felstavning | `medieringssätt` (sv) |
 > | [PE1064](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1064) | PEA | Felstavning | `rättsäkerhetsproblematiken` (sv) |
 > | [PE1067](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1067) | PEA | Dubblerat ord | `att` — ….m. 2013-11-13.  ## Lärandemål  Kursens övergripande mål är att att den studerande förstår hur man kan styra sina informationsf… |
 > | [PE1068](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1068) | PEA | Felstavning | `känndom` (sv) |
@@ -271,25 +237,17 @@ status: första pass
 > | [PE2005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE2005) | PEA | Felstavning (en) | `samt` (en) |
 > | [PE2005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE2005) | PEA | Felstavning (en) | `skola` (en) |
 > | [PE2005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE2005) | PEA | Felstavning (en) | `specialpedagogisk` (en) |
-> | [PE2007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE2007) | PEA | Felstavning (en) | `kunskaper` (en) |
-> | [PE3002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE3002) | PEA | Felstavning (en) | `det` (en) |
-> | [PE3002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE3002) | PEA | Felstavning (en) | `inom` (en) |
-> | [PE3003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE3003) | PEA | Felstavning (en) | `det` (en) |
-> | [PE3003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE3003) | PEA | Felstavning (en) | `inom` (en) |
 > | [PE3004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE3004) | PEA | Felstavning | `högskole-mässighet` (sv) |
 > | [PE3004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE3004) | PEA | Felstavning | `lärarlagsarbete` (sv) |
 > | [PE3004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE3004) | PEA | Felstavning | `rättsäkerhet` (sv) |
 > | [GPA2FW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2FW) | PEE | Felstavning (en) | `managemet` (en) |
 > | [GPA2R6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2R6) | PEE | Felstavning | `tillvägagångsätt` (sv) |
 > | [GPA353](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA353) | PEE | Felstavning (en) | `valuest` (en) |
-> | [APG244](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG244) | PGA | Felstavning (en) | `kommer` (en) |
-> | [APG245](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG245) | PGA | Felstavning (en) | `kommer` (en) |
 > | [APG24E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG24E) | PGA | Felstavning | `inlämingsuppgifter` (sv) |
 > | [APG24E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG24E) | PGA | Felstavning (en) | `kommer` (en) |
 > | [APG25N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG25N) | PGA | Felstavning | `tillvägagångsätt` (sv) |
 > | [APG29G](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG29G) | PGA | Felstavning (en) | `asignments` (en) |
 > | [APG2AA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2AA) | PGA | Felstavning | `lärarskicklighetetens` (sv) |
-> | [APG2AB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2AB) | PGA | Felstavning (en) | `problematizes` (en) |
 > | [APG2AC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2AC) | PGA | Felstavning (en) | `aanalyze` (en) |
 > | [APG2AC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2AC) | PGA | Felstavning (en) | `nalyze` (en) |
 > | [APG2AC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2AC) | PGA | Felstavning (en) | `rincipal` (en) |
@@ -311,8 +269,6 @@ status: första pass
 > | [GPG328](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG328) | PGA | Felstavning | `andraämne` (sv) |
 > | [GPG329](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG329) | PGA | Felstavning | `andraämne` (sv) |
 > | [GPG3AD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AD) | PGA | Dubblerat ord | `as` — …ment on the way to the subject teaching profession, as well as as support for being able to make conscious didactic choices d… |
-> | [GPG3AF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AF) | PGA | Felstavning (en) | `neuropsychiatric` (en) |
-> | [GPG3AF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AF) | PGA | Felstavning (en) | `problematizes` (en) |
 > | [GPG3CG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CG) | PGA | Felstavning (en) | `perspecitves` (en) |
 > | [GPG3CK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CK) | PGA | Felstavning | `inlämninguppgift` (sv) |
 > | [GPG3CL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CL) | PGA | Felstavning | `samhällorienterande` (sv) |
@@ -340,7 +296,6 @@ status: första pass
 > | [PG3024](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PG3024) | PGA | Felstavning (en) | `teknik` (en) |
 > | [PG3024](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PG3024) | PGA | Felstavning (en) | `tematisk` (en) |
 > | [PG3024](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PG3024) | PGA | Felstavning (en) | `utveckling` (en) |
-> | [PG3041](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PG3041) | PGA | Felstavning (en) | `kommer` (en) |
 > | [ARK26T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK26T) | RKA | Felstavning (en) | `chassidism` (en) |
 > | [ARK26T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK26T) | RKA | Felstavning (en) | `esotericism` (en) |
 > | [ARK26T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK26T) | RKA | Felstavning (en) | `jewish` (en) |
@@ -415,8 +370,6 @@ status: första pass
 > | [TR1013](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR1013) | TRU | Felstavning (en) | `lerning` (en) |
 > | [TR1013](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR1013) | TRU | Felstavning (en) | `powerpoint` (en) |
 > | [TR1018](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR1018) | TRU | Felstavning (en) | `geodemographic` (en) |
-> | [TR1019](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR1019) | TRU | Felstavning (en) | `cartographically` (en) |
-> | [TR1019](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR1019) | TRU | Felstavning (en) | `chorology` (en) |
 > | [TR1024](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR1024) | TRU | Felstavning | `fömåga` (sv) |
 > | [TR1024](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR1024) | TRU | Felstavning (en) | `afte` (en) |
 > | [TR1025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR1025) | TRU | Felstavning (en) | `studiesand` (en) |
@@ -435,7 +388,6 @@ status: första pass
 > | [TR3006](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR3006) | TRU | Felstavning | `ocskå` (sv) |
 > | [AS2002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS2002) | UVX | Felstavning (en) | `takenup` (en) |
 > | [AS3002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS3002) | UVX | Felstavning (en) | `teh` (en) |
-> | [AS3008](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS3008) | UVX | Felstavning (en) | `islamic` (en) |
 > | [AS3009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS3009) | UVX | Felstavning | `literära` (sv) |
 > | [AS3012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS3012) | UVX | Felstavning (en) | `outlineof` (en) |
 > | [AS4001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS4001) | UVX | Felstavning | `mastersnivå` (sv) |

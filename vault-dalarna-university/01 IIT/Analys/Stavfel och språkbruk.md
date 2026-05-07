@@ -10,7 +10,7 @@ status: första pass
 
 <a class="download-xlsx" href="Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (69 rader)</span></a>
 
-> [!example]- 69 fynd — klicka för att expandera
+> [!example]- 66 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -23,7 +23,6 @@ status: första pass
 > | [BY3005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY3005) | BYA | Felstavning (en) | `neighbourhoods` (en) |
 > | [GBY34B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY34B) | BYA | Felstavning | `tillämningar` (sv) |
 > | [GBY34B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY34B) | BYA | Felstavning | `vägprojekteringshjälpmedel` (sv) |
-> | [BFY224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY224) | FYA | Felstavning | `preparandnivå` (sv) |
 > | [BFY225](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY225) | FYA | Felstavning (en) | `fup` (en) |
 > | [BFY226](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY226) | FYA | Felstavning (en) | `fup` (en) |
 > | [BFY227](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY227) | FYA | Felstavning (en) | `fup` (en) |
@@ -31,8 +30,6 @@ status: första pass
 > | [AIK232](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AIK232) | IKA | Felstavning (en) | `immon` (en) |
 > | [GIK29B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK29B) | IKA | Felstavning (en) | `vgs` (en) |
 > | [GMA2EY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2EY) | MAA | Felstavning (en) | `indicies` (en) |
-> | [MA0011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MA0011) | MAA | Felstavning | `preparandnivå` (sv) |
-> | [MA0013](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MA0013) | MAA | Felstavning | `preparandnivå` (sv) |
 > | [MA1042](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MA1042) | MAA | Felstavning | `reellvärda` (sv) |
 > | [MD1085](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD1085) | MDI | Felstavning | `förutsättingar` (sv) |
 > | [MD1097](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD1097) | MDI | Felstavning (en) | `babylonian` (en) |
