@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: 93807d0f6b620fd9
+scrape_hash: 208c29576a5a97c5
 up: "[[Energiteknik MOC]]"
 ---
 
@@ -44,7 +44,7 @@ Kursen behandlar olika halvledarmaterial och deras lämplighet för solcellstill
 
 - Skriftlig salstentamen 
 
-  - Inlämingsuppgifter
+  - Inlämningsuppgifter
 
 ## Betyg
 

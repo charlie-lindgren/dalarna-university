@@ -8,7 +8,7 @@ amne: "Matematik"
 amne_kod: "MAA"
 institution: "IIT"
 tags: [kursplan, MAA, IIT]
-scrape_hash: 6c76bbf0b950abe5
+scrape_hash: 92de7d96efec99be
 up: "[[Matematik MOC]]"
 ---
 
@@ -71,23 +71,32 @@ Kursen kan inte räknas in i en högskoleexamen tillsammans med kurserna “Mate
 ### Learning Outcomes
 
 After the course is finished the student will be able to:
- 
- 
-  - perform arithmetics of numbers in decimal form, as fractions or as indicies, 
-  - use correct significant figures and perform estimates, 
-  - understand and use percentage, per thousand and parts-per-million, 
-  - use square roots for calculations, 
-  - understand and use the most common units and symbols of structural engineering applications, 
-  - solve basic equations, 
-  - transpose formulae, 
-  - perform geometrical calculations on 2- and 3-dimensional bodies, 
-  - use scales and uniforms, 
-  - handle basic trigonometry, 
+
+  - perform arithmetics of numbers in decimal form, as fractions or as indices,
+
+  - use correct significant figures and perform estimates,
+
+  - understand and use percentage, per thousand and parts-per-million,
+
+  - use square roots for calculations,
+
+  - understand and use the most common units and symbols of structural engineering applications,
+
+  - solve basic equations,
+
+  - transpose formulae,
+
+  - perform geometrical calculations on 2- and 3-dimensional bodies,
+
+  - use scales and uniforms,
+
+  - handle basic trigonometry,
+
   - understand and use simple statistical concepts.
 
 ### Course Content
 
-The course starts with operations on different forms of numbers like decimal numbers, fractions, square roots and indicies. Especially, rounding up, significant figures and estimates, as well as the concepts: percentage, per thousand and parts-per-million are treated. Units, symbols and scales commonly used in architectonic applications are introduced.The second part of the course is focussed on elementary algebra: equations and formulae transponation, _geometry:_ uniformity, angles, calculations of triangles, circles and area- and volume calculations. The course ends by treating simple functions and elementary statistical concepts.
+The course starts with operations on different forms of numbers like decimal numbers, fractions, square roots and indicies. Especially, rounding up, significant figures and estimates, as well as the concepts: percentage, per thousand and parts-per-million are treated. Units, symbols and scales commonly used in architectonic applications are introduced.The second part of the course is focussed on elementary algebra: equations and formulae transposition, _geometry:_ uniformity, angles, calculations of triangles, circles and area- and volume calculations. The course ends by treating simple functions and elementary statistical concepts.
 
 ### Assessment
 

@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: ad01f6e9a6d01abb
+scrape_hash: 0cdbb50db936e9ad
 up: "[[Informatik MOC]]"
 ---
 
@@ -52,7 +52,7 @@ _Värderingsförmåga och förhållningssätt_
 
 ## Innehåll
 
-Kursen behandlar modeller för projekt som arbetsform med kollaboration och kommunikation i fokus. Studenterna utför projekt där de tillämpar utvalda modeller, metoder och verktyg, följt av att de granskar, utvärderar, reflekterar och konstruktivt kritserar deras egna och andras tillämpning. Studenten tar en aktiv roll i projekt med olika påverkansprocesser och intressekonflikter. Kursen behandlar här studentens reflektioner agående hanteringen av ett projekts olika intressenter.
+Kursen behandlar modeller för projekt som arbetsform med kollaboration och kommunikation i fokus. Studenterna utför projekt där de tillämpar utvalda modeller, metoder och verktyg, följt av att de granskar, utvärderar, reflekterar och konstruktivt kritserar deras egna och andras tillämpning. Studenten tar en aktiv roll i projekt med olika påverkansprocesser och intressekonflikter. Kursen behandlar här studentens reflektioner angående hanteringen av ett projekts olika intressenter.
 
 ## Examinationsformer
 
@@ -112,7 +112,7 @@ The course delves into models for projects as a work method with focus on collab
 
 ### Assessment
 
-- Ongoing assesment
+- Ongoing assessment
 
   - Project
 

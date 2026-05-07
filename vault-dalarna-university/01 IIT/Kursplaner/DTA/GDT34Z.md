@@ -9,7 +9,7 @@ amne: "Datateknik"
 amne_kod: "DTA"
 institution: "IIT"
 tags: [kursplan, DTA, IIT]
-scrape_hash: c5bed22135037d74
+scrape_hash: cbab799a13417ce1
 up: "[[Datateknik MOC]]"
 ---
 
@@ -46,7 +46,7 @@ Efter godkänd kurs skall studenten kunna:
 
 Kursens ena fokus ligger på att skapa förståelse för, och förmåga att tillämpa, metoder och verktyg för modern nätverkssäkerhet förekommande inom IT-miljöer och nätverksdrift, där studenterna på grundval av en given problemformulering själva får utforma, implementera och demonstrera en sammanhängande infrastrukturell säkerhetslösning för en fiktiv organisation. Slutprodukten utvärderas med avseende på dess samlade funktion, säkerhet och kapacitet. Detta inkluderar arbetsmetoder för design, implementering, analys och verifiering/validering, test samt dokumentation.
 
-Kursens andra fokus ligger främst på att hantera grundläggande funktioner i molnlösningar såsom nätverk, virtuella maskiner/compute-instanser och lagring. Här behandlas de tekniska och mjuka färdigheter som behövs för att designa, och driftsätta molnlösningar. Viktiga begrepp som ingår är infrastruktur som kod (IaC), virtuella maskiner, containers och server-operativsystem. Inledningsvis förklaras allmänna molnbegrepp och då ges den teoretiska basen för att hantera molnet manuellt via t.ex webb-konsol. Senare i kursen byggs molntjänster i stället via IaC-verktyg och då behandlas andra vanliga tjänster inom molnteknik såsom containerorkestrering, backup, monitorering och nätverksloggning, såväl teoretiskt som praktiskt. Avslutningsvis introduceras skriptprogrammering via PowerShell, som ofta används både i moln och on-premises för olika slags it-adminstrativa syften.
+Kursens andra fokus ligger främst på att hantera grundläggande funktioner i molnlösningar såsom nätverk, virtuella maskiner/compute-instanser och lagring. Här behandlas de tekniska och mjuka färdigheter som behövs för att designa, och driftsätta molnlösningar. Viktiga begrepp som ingår är infrastruktur som kod (IaC), virtuella maskiner, containers och server-operativsystem. Inledningsvis förklaras allmänna molnbegrepp och då ges den teoretiska basen för att hantera molnet manuellt via t.ex webb-konsol. Senare i kursen byggs molntjänster i stället via IaC-verktyg och då behandlas andra vanliga tjänster inom molnteknik såsom containerorkestrering, backup, monitorering och nätverksloggning, såväl teoretiskt som praktiskt. Avslutningsvis introduceras skriptprogrammering via PowerShell, som ofta används både i moln och on-premises för olika slags it-administrativa syften.
 
 ## Examinationsformer
 

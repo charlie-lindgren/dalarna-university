@@ -9,7 +9,7 @@ amne: "Byggteknik"
 amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
-scrape_hash: 642ffca94d73a6f8
+scrape_hash: 9bc09d1179748bec
 up: "[[Byggteknik MOC]]"
 ---
 
@@ -28,15 +28,16 @@ up: "[[Byggteknik MOC]]"
 
 Det övergripande målet med kursen är att studenten skall tillägna sig grundläggande kunskaper i arbetsplatsens organisatoriska uppbyggnad, arbetsuppgifter kopplade till ledarrollen, kalkylering och anbudsförfarande, uppföljning samt avslutning av projekt.  
 
- 
-
 Efter avslutad kurs ska den studerande kunna:
- 
- 
-  - Beskriva vilka yrkesroller som ingår i företagets organisation samt vilka arbetsuppgifter och ansvarsfrågor som är kopplade till dessa olika roller. 
-  - Analysera och redovisa ledarens roll inom förvalting eller byggarbetsplatsen. 
-  - Redogöra för rutinerna kring företagets anbudsprocess innefattande mängdberäkning, prissättning, resursplanering, och anbudsformulering. 
-  - Redogöra för rutiner som: planeringsarbete, mötesrutiner, kvalitets- miljö- arbetsmiljöarbete, prognoser samt ansvarsfrågor. 
+
+  - Beskriva vilka yrkesroller som ingår i företagets organisation samt vilka arbetsuppgifter och ansvarsfrågor som är kopplade till dessa olika roller.
+
+  - Analysera och redovisa ledarens roll inom förvaltning eller byggarbetsplatsen.
+
+  - Redogöra för rutinerna kring företagets anbudsprocess innefattande mängdberäkning, prissättning, resursplanering, och anbudsformulering.
+
+  - Redogöra för rutiner som: planeringsarbete, mötesrutiner, kvalitets- miljö- arbetsmiljöarbete, prognoser samt ansvarsfrågor.
+
   - Analysera och redovisa avslut av projekt med avseende på: uppföljning, dokumenthantering vid överlämning samt slutbesiktning.
 
 ## Innehåll

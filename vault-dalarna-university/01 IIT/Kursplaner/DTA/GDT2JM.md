@@ -9,7 +9,7 @@ amne: "Datateknik"
 amne_kod: "DTA"
 institution: "IIT"
 tags: [kursplan, DTA, IIT]
-scrape_hash: 29b35f93fcf11bd5
+scrape_hash: 28a46634662d6d29
 up: "[[Datateknik MOC]]"
 ---
 
@@ -28,27 +28,31 @@ up: "[[Datateknik MOC]]"
 
 Efter avslutad kurs skall studenten kunna:  
 
-  - Redogöra för historik och utveckling av system för 
-datakommunikation sett både ur ett lokalt, globalt och vetenskapligt 
-perspektiv
+  - Redogöra för historik och utveckling av system för datakommunikation sett både ur ett lokalt, globalt och vetenskapligt perspektiv
+
   - Redogöra för samtliga lager i OSI och TCP/IP modellen och lagrens tillämpningsområden
+
   - Redogöra för det vanligast förekommande applikationslager-protokollen och deras tillämpningsområden
+
   - Redogöra för ethernet-protokollets uppbyggnad och tillämpningsområden
+
   - Redogöra för vanliga typer av säkerhetshot mot lokala nätverk samt tänkbara motmedel mot dessa
+
   - Praktiskt kunna tillämpa decimal-, binär-, och hexadecimalsystem och kunna omvandla mellan dessa
+
   - Praktiskt kunna härda basal nätverksutrustning för att stärka säkerheten i dessa
+
   - Praktiskt tillämpa IPv4/IPv6 vid design av IP-adress scheman för medelstora lokala nätverk
-  - Praktiskt designa och implementera infrastruktur för medelstora lokala nätverk samt uföra felsökning i dessa
+
+  - Praktiskt designa och implementera infrastruktur för medelstora lokala nätverk samt utföra felsökning i dessa
+
   - Praktisk använda olika verktyg för att testa nätverksanslutningar
 
 ## Innehåll
 
 Kursen introducerar arkitekturer, modeller, protokoll och nätverkselement som ansluter användare, enheter, applikationer och data via Internet och över moderna datanätverk. Principerna för Ip-adressering och grunderna för 
 Ethernet-koncept, medier och grundläggande konfigurering av nätverksenheter introduceras för att skapa en 
-grund för god förståelse för begreppet datakommunikation. Kursen ger även en grundläggande introduktion till metoder för att testa nätverksförbindelser och lämpliga verktyg för detta. Vidare ger kursen grunderna i nätverkssäkerhet där vanligt förekommande hot belyses samt olika metoder vi kan tillämpa för att möta upp mot dessa hot och stärka skyddet för såväl infrastruktur, kommunikationsenheter samt data/information.   
-  
-Kursen innehåller löpande praktiska moment för att hantera och 
-konfigurera kommunikationsutrustning i form av routrar och switchar.
+grund för god förståelse för begreppet datakommunikation. Kursen ger även en grundläggande introduktion till metoder för att testa nätverksförbindelser och lämpliga verktyg för detta. Vidare ger kursen grunderna i nätverkssäkerhet där vanligt förekommande hot belyses samt olika metoder vi kan tillämpa för att möta upp mot dessa hot och stärka skyddet för såväl infrastruktur, kommunikationsenheter samt data/information.
 
 ## Examinationsformer
 

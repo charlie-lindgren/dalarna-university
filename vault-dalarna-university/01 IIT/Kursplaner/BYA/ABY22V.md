@@ -9,7 +9,7 @@ amne: "Byggteknik"
 amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
-scrape_hash: c0c44a610aecbdb4
+scrape_hash: 2fe5bfd29014f915
 up: "[[Byggteknik MOC]]"
 ---
 
@@ -39,7 +39,7 @@ Kursen behandlar den grundläggande funktionen hos värme-, ventilations- och ky
 
 ## Examinationsformer
 
-Skriftlig salstentamen (4 hp) och inlämningsuppift med muntlig presentation (1 hp).
+Skriftlig salstentamen (4 hp) och inlämningsuppgift med muntlig presentation (1 hp).
 
 ## Arbetsformer
 

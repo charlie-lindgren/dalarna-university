@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: 009395721d6b4162
+scrape_hash: 76780a6ca5557f64
 up: "[[Informatik MOC]]"
 ---
 
@@ -139,7 +139,7 @@ Seminars 1.5 credits, project work 4 credits and a written examination 2 credits
 
 ### Forms of Study
 
-Lectures, seminars, excersices, project work
+Lectures, seminars, exercises, project work
 
 ### Grades
 

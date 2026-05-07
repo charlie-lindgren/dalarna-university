@@ -72,10 +72,11 @@ run_scrape_all() {
     echo ""
     echo "Detta tar fram alla kursplaner som finns på du.se, inklusive"
     echo "strö-/orphan-koder som inte syns i ämnes- eller programlistan."
-    echo "Strökoder upptäcks via luckor i kända kurskodsserier"
-    echo "(t.ex. GIK288/GIK290 → GIK289)."
+    echo "Strökoder upptäcks i två steg:"
+    echo "  1. Kanonisk sökning på du.se (~50 paginerade anrop, ~1 min)."
+    echo "  2. Valfri lucka-probing av kodserier när padding > 0 (parallell)."
     echo ""
-    echo -e "${YELLOW}OBS: en fullständig körning kan ta lång tid (många HTTP-anrop).${RESET}"
+    echo -e "${YELLOW}Default (padding=0) är snabbt; padding > 0 lägger till djupare probing.${RESET}"
     echo ""
 
     prompt_apply_mode

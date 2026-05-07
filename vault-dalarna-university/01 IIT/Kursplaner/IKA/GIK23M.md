@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: e9592ea8c4a34a63
+scrape_hash: a84994820e706696
 up: "[[Informatik MOC]]"
 ---
 
@@ -31,19 +31,19 @@ Kursens övergripande mål är att studenten ska tillägna sig kunskap om princi
 Efter avslutad kurs ska studenten kunna:  
 **  
 Kunskap och förståelse**
- 
- 
-  - förklara normaliseringens betydelse för en designlösning av en relationsdatabas. 
+
+  - förklara normaliseringens betydelse för en designlösning av en relationsdatabas.
+
   - förklara betydelsen av att designa bra identifierare för tabeller i relationsdatabaser.  
 
- 
-
 **Färdighet och förmåga**
- 
- 
-  - tillämpa grundläggande principer för relationsdatabaser i enlighet med relationsmodellen. 
-  - använda begreppsmodellering samt grafiska beskrivningstekniker för att designa relationsdatabaser som svarar mot lägst tredje normalformen. 
-  - manipulera data och skapa, ändra samt ta bort databasobjekt med hjälp av SQL och PL/SQL. 
+
+  - tillämpa grundläggande principer för relationsdatabaser i enlighet med relationsmodellen.
+
+  - använda begreppsmodellering samt grafiska beskrivningstekniker för att designa relationsdatabaser som svarar mot lägst tredje normalformen.
+
+  - manipulera data och skapa, ändra samt ta bort databasobjekt med hjälp av SQL och PL/SQL.
+
   - använda normalisering för att analysera, verifiera och modifiera en datamodell så att den uppfyller tredje normalformen.
 
 ## Innehåll
@@ -70,9 +70,7 @@ Resultatet på den skriftliga tentamen styr slutbetyget på kursen.
 
 ## Övrigt
 
-Antal examinationstillfällen är p.g.a. ämnets snabba utveckling begränsade till fem.  
-Kursen kan ej tillgodoräknas i en examen samtidigt som kurser i grundläggande databassystem.   
-Ersätter IK1051.
+Antal examinationstillfällen är p.g.a. ämnets snabba utveckling begränsade till fem.
 
 ## English Version
 
@@ -88,8 +86,10 @@ After completing the course the student shall be able to:
 
   - explain the importance of designing good identifiers for database tables.
 
-**  
-Skills and abilities**
+  
+**Skills and abilities**
+
+  - apply basic principles of relational databases in accordance with the relational model.
 
   - use conceptual modeling and graphical description techniques for designing relational databases corresponding to the third normal form.
 

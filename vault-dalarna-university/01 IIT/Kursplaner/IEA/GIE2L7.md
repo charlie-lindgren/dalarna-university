@@ -8,7 +8,7 @@ amne: "Industriell ekonomi"
 amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
-scrape_hash: 10ac8fbb4dff08a1
+scrape_hash: 854d765d4c0c4c0e
 up: "[[Industriell ekonomi MOC]]"
 ---
 
@@ -44,7 +44,7 @@ _Efter avslutad kurs ska studenten kunna
 _Värderingsförmåga och förhållningssätt   
 _Efter avslutad kurs ska studenten kunna:
 
-  - kritiskt diskutera och reflektera över hur olika aspekter av Lean kan påverka det omgivande samhället utifrån etiska och hållbahetsmässiga aspekter
+  - kritiskt diskutera och reflektera över hur olika aspekter av Lean kan påverka det omgivande samhället utifrån etiska och hållbarhetsmässiga aspekter
 
 ## Innehåll
 

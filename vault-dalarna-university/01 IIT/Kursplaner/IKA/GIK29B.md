@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: 59a13d3d06e31d05
+scrape_hash: 1d85064eb3fe15a4
 up: "[[Informatik MOC]]"
 ---
 
@@ -99,7 +99,7 @@ Written examination 1.5 credits, programming assignments 3 credits and laborator
 
 ### Forms of Study
 
-The student is expected to aquire knowledge and skills mainly through independent studies. Course material will consist of: lectures, course literature, hand-in assignments, hand-in laboratories.
+The student is expected to acquire knowledge and skills mainly through independent studies. Course material will consist of: lectures, course literature, hand-in assignments, hand-in laboratories.
 
 ### Grades
 

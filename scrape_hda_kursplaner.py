@@ -449,43 +449,94 @@ def kursplan_exists_by_code(code: str) -> bool:
     return h1.find("span", property="name") is not None
 
 
-def discover_stray_codes_from_known(known_codes: set[str], padding: int = 0) -> set[str]:
-    """Hittar sannolika strökoder genom att fylla luckor i befintliga kodserier.
+def discover_all_kursplan_codes() -> set[str]:
+    """Paginerar du.se:s oförfiltrerade kurssearch och returnerar samtliga
+    kurskoder som har en publicerad kursplan.
 
-    Exempel: om GIK288 och GIK290 finns i kända koder, testas GIK289.
-    Endast kursplaner som faktiskt finns på du.se returneras.
+    Detta är det kanoniska universummet av kurskoder på du.se. Det innebär
+    typiskt ~50 paginerade anrop i stället för tusentals enskilda kursplan-GETs.
     """
-    by_prefix: dict[str, set[int]] = {}
-    for code in known_codes:
-        m = CODE_PATTERN_RE.match(code)
-        if not m:
-            continue
-        prefix, num, suffix = m.groups()
-        if suffix:
-            # Håll första passet strikt: numeriska baskoder utan suffix.
-            continue
-        by_prefix.setdefault(prefix, set()).add(int(num))
-
-    candidates: set[str] = set()
-    for prefix, nums in by_prefix.items():
-        if len(nums) < 2:
-            continue
-        lo = max(0, min(nums) - max(0, padding))
-        hi = min(999, max(nums) + max(0, padding))
-        # Skydd mot alltför stora spann.
-        if hi - lo > 500:
-            continue
-        for n in range(lo, hi + 1):
-            code = f"{prefix}{n:03d}"
-            if code in known_codes:
-                continue
-            candidates.add(code)
-
-    found: set[str] = set()
-    for code in sorted(candidates):
-        if kursplan_exists_by_code(code):
-            found.add(code)
+    codes: set[str] = set()
+    page = 1
+    while True:
+        params = {
+            "search": "true", "q": "", "l": "sv", "sb": "Relevans",
+            "ssv": "1", "f": "2", "cs": "4", "pi": str(page), "et": "2",
+        }
+        soup = fetch_page(SEARCH_API, params=params)
+        if soup is None:
+            break
+        page_codes = {a["href"].split("code=")[1]
+                      for a in soup.find_all("a", href=True)
+                      if "/kurser/kurs/?code=" in a["href"]}
+        if not page_codes:
+            break
+        new_codes = page_codes - codes
+        codes |= page_codes
+        # Sluta när en sida inte ger några nya koder (paginering uttjänad).
+        if not new_codes:
+            break
+        page += 1
         time.sleep(REQUEST_DELAY)
+    return codes
+
+
+def discover_stray_codes_from_known(known_codes: set[str], padding: int = 0) -> set[str]:
+    """Hittar strökoder genom (1) kanonisk sökning på du.se och (2) valfri
+    luckundersökning av befintliga kodserier.
+
+    Steg 1 är snabbt: ~50 paginerade anrop ger universummet av kursplaner
+    på du.se. Strökoder = universum − kända koder.
+
+    Steg 2 (när `padding > 0`) fyller luckor mellan kursnummer i varje
+    prefix och probar varje kandidat parallellt.
+    """
+    found: set[str] = set()
+
+    # --- Steg 1: kanonisk sökning ---
+    canonical = discover_all_kursplan_codes()
+    found |= canonical - known_codes
+
+    # --- Steg 2: lucka-probing endast om padding > 0 ---
+    if padding > 0:
+        by_prefix: dict[str, set[int]] = {}
+        for code in known_codes | canonical:
+            m = CODE_PATTERN_RE.match(code)
+            if not m:
+                continue
+            prefix, num, suffix = m.groups()
+            if suffix:
+                continue
+            by_prefix.setdefault(prefix, set()).add(int(num))
+
+        candidates: set[str] = set()
+        for prefix, nums in by_prefix.items():
+            if len(nums) < 2:
+                continue
+            lo = max(0, min(nums) - padding)
+            hi = min(999, max(nums) + padding)
+            if hi - lo > 500:
+                continue
+            for n in range(lo, hi + 1):
+                code = f"{prefix}{n:03d}"
+                if code in known_codes or code in canonical:
+                    continue
+                candidates.add(code)
+
+        if candidates:
+            from concurrent.futures import ThreadPoolExecutor, as_completed
+            with ThreadPoolExecutor(max_workers=8) as ex:
+                fut_to_code = {
+                    ex.submit(kursplan_exists_by_code, c): c
+                    for c in sorted(candidates)
+                }
+                for fut in as_completed(fut_to_code):
+                    code = fut_to_code[fut]
+                    try:
+                        if fut.result():
+                            found.add(code)
+                    except Exception:
+                        continue
 
     return found
 
@@ -1188,7 +1239,7 @@ def main():
             for c in courses
         }
         if known_codes:
-            print("\nSöker strökurser via luckor i kurskodsserier...")
+            print("\nSöker strökurser via du.se:s kurssearch (kanonisk universum)...")
             auto_stray_codes = discover_stray_codes_from_known(
                 known_codes,
                 padding=args.stray_padding,

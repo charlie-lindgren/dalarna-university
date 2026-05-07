@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: 1c3820e1aae17fd7
+scrape_hash: 6d739116d87a310b
 up: "[[Energiteknik MOC]]"
 ---
 
@@ -40,7 +40,7 @@ Efter godkänd kurs ska studenten kunna:
 
 ## Innehåll
 
-Kursen fokuserar på databehandling och visualisering av data från solenergisystem såsom solstrålning, temperatur, flöde, spänning och ström med hjälp av ett programmeringsspråk. Kvaliteten av mätdata utvärderas och påverkan av mätnoggranhet och osäkerhet på resultat diskuteras. Inhämtade data behandlas, analyseras och visualiseras i ett projekt där resultaten kommuniceras skriftlig och muntligt.
+Kursen fokuserar på databehandling och visualisering av data från solenergisystem såsom solstrålning, temperatur, flöde, spänning och ström med hjälp av ett programmeringsspråk. Kvaliteten av mätdata utvärderas och påverkan av mätnoggrannhet och osäkerhet på resultat diskuteras. Inhämtade data behandlas, analyseras och visualiseras i ett projekt där resultaten kommuniceras skriftlig och muntligt.
 
 ## Examinationsformer
 

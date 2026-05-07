@@ -9,7 +9,7 @@ amne: "Byggteknik"
 amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
-scrape_hash: 7e0291d36f6cfb6d
+scrape_hash: dc9625e43884e316
 up: "[[Byggteknik MOC]]"
 ---
 
@@ -92,7 +92,7 @@ On completion of the course, students will be able to:
 
   - demonstrate an understanding of the causes of stability problems on slopes,
 
-  - describe the diffferent foundation methods used for buildings and roads,
+  - describe the different foundation methods used for buildings and roads,
 
   - describe different basic reinforcement methods,
 

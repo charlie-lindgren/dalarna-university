@@ -9,7 +9,7 @@ amne: "Byggteknik"
 amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
-scrape_hash: 514b15454774dacb
+scrape_hash: ed28a4f01a23f661
 up: "[[Byggteknik MOC]]"
 ---
 
@@ -83,19 +83,27 @@ Ersätter BY1067.
 ### Learning Outcomes
 
 The student will acquire knowledge about the construction process organization and implementation, as well as basic environment work.
- 
 
 After completing the course, the student shall be able to: 
- 
- 
-  - Explain the construction process and its different stages 
-  - Define the different actors within the construction industry and their respective roles 
-  - Describe what documents are drawn up and used during the construction of a project 
-  - Indicate which laws and regulations affect the construction process in Sweden 
-  - Understand the basics of resource efficient construction production 
-  - Describe different types of construction forms 
-  - Establish selected documents that are included in a prospectus 
-  - Describe the grounds for work environment work regarding legislation, concepts and actors 
+
+  - Explain the construction process and its different stages
+
+  - Describe the planning process and the Swedish construction regulations
+
+  - Define the different actors within the construction industry and their respective roles
+
+  - Describe what documents are drawn up and used during the construction of a project
+
+  - Indicate which laws and regulations affect the construction process in Sweden
+
+  - Understand the basics of resource efficient construction production
+
+  - Describe different types of construction forms
+
+  - Establish selected documents that are included in a prospectus
+
+  - Describe the grounds for work environment work regarding legislation, concepts and actors
+
   - Explain the work involved with systematic work environments from a physical and psychosocial perspective
 
 ### Course Content

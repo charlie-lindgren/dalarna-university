@@ -9,7 +9,7 @@ amne: "Mikrodataanalys"
 amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
-scrape_hash: 586ca3ce2c7efa8c
+scrape_hash: 87130f95c2dfb0bf
 up: "[[Mikrodataanalys MOC]]"
 ---
 
@@ -26,7 +26,7 @@ up: "[[Mikrodataanalys MOC]]"
 
 ## Lärandemål
 
-Efter godkänd kurs ska studenten kunna
+Efter godkänd kurs ska studenten kunna:
 
   - beskriva vad skriptspråk är lämpade för samt deras fördelar och begränsningar
 
@@ -36,14 +36,14 @@ Efter godkänd kurs ska studenten kunna
 
   - använda skriptspråk för att lösa och visualisera t.ex. vetenskapliga problem och automatisera uppgifter i olika slags it-system
 
-  - koppla applikationer mot datakällor som t.ex. databaser och webbtjänster
+  - koppla applikationer mot datakällor som t.ex. databaser och webbtjänster.
 
 ## Innehåll
 
 Att öka digitaliseringen via automatisering är ett vanligt mål för många organisationer.   
-Kursen behandlar utveckling av skriptprogram i olika slags skriptspråk i varierade it-miljöer, exempelvis för att automatisera administrativt it-systemarbete, arbetsflöden och processer. Studenterna får praktiskt tillämpa en integrerad utvecklingsmiljö (IDE) för testning, felsökning och dokumentation för att uppnågod kodkvalitet. Även datatyper, reguljära uttryck, funktioner samtanvändning av moduler och olika slags Application Programming Interface (API:er) behandlas.  
+Kursen behandlar utveckling av skriptprogram i olika slags skriptspråk i varierade it-miljöer, exempelvis för att automatisera administrativt it-systemarbete, arbetsflöden och processer. Studenterna får praktiskt tillämpa en integrerad utvecklingsmiljö (IDE) för testning, felsökning och dokumentation för att uppnå god kodkvalitet. Även datatyper, reguljära uttryck, funktioner samtanvändning av moduler och olika slags Application Programming Interface (API:er) behandlas.  
   
-Vidare behandlas hur HTTP-metoder som GET och POST kan användas för att hämta data via olika slags datakällor och uföra CRUD (skapa, läsa,uppdatera och radera data) mot datakällor via skript. Grunderna i märkspråk för transport av dataobjekt tas upp.  
+Vidare behandlas hur HTTP-metoder som GET och POST kan användas för att hämta data via olika slags datakällor och utföra CRUD (skapa, läsa,uppdatera och radera data) mot datakällor via skript. Grunderna i märkspråk för transport av dataobjekt tas upp.  
 Kursen innehåller även kodskrivning för hantering av numeriska data, plottning och vetenskaplig analys av data, t.ex. analysera bilder med Artificiell Intelligens (AI) och visualisera resultat.  
   
 Ett projektarbete i grupp genomförs där man redovisar ett arbete där man fördjupat sig i ett utvecklingsprojekt, någon specifik teknik eller hjälpmedel som används i samband med skriptprogrammering.

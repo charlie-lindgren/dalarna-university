@@ -9,7 +9,7 @@ amne: "Byggteknik"
 amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
-scrape_hash: 2100371e9f356f68
+scrape_hash: b0920b3716ea0814
 up: "[[Byggteknik MOC]]"
 ---
 
@@ -29,15 +29,20 @@ up: "[[Byggteknik MOC]]"
 Det övergripande målet med kursen är att studenten ska skaffa sig kunskaper i husbyggnadsteknik, speciellt beträffande uppbyggnaden av flerbostadshus, kontorsbyggnader och industrilokaler.   
   
 Efter genomgången kurs ska studenten kunna:
- 
- 
-  - arbeta självständigt och i grupp i ett husbyggnadsprojekt 
-  - redogöra för olika stomsystem samt kunna göra en lastanalys i dessa system 
-  - ange hur gällande brand-, ljud-, och fuktkrav normalt kan uppfyllas för ett flerbostadshus, kontorshus och en industribyggnad 
-  - redovisa byggtekniska konstruktioner för flerbostadshus, kontor och industribyggnader 
-  - översiktligt projektera förekommande konstruktionsdetaljer för flerbostadshus, kontor och industribyggnader 
-  - beskriva handlingar och aktörer i ett större husbyggnadsprojekt 
-  - redovisa delar av ett miljöcertifieringsystem för byggnader i ett större husbyggnadsprojekt
+
+  - arbeta självständigt och i grupp i ett husbyggnadsprojekt
+
+  - redogöra för olika stomsystem samt kunna göra en lastanalys i dessa system
+
+  - ange hur gällande brand-, ljud-, och fuktkrav normalt kan uppfyllas för ett flerbostadshus, kontorshus och en industribyggnad
+
+  - redovisa byggtekniska konstruktioner för flerbostadshus, kontor och industribyggnader
+
+  - översiktligt projektera förekommande konstruktionsdetaljer för flerbostadshus, kontor och industribyggnader
+
+  - beskriva handlingar och aktörer i ett större husbyggnadsprojekt
+
+  - redovisa delar av ett miljöcertifieringssystem för byggnader i ett större husbyggnadsprojekt
 
 ## Innehåll
 
@@ -45,10 +50,7 @@ Ett husbyggnadsprojekt skall genomföras där studenten arbetar fram de tekniska
 
 ## Examinationsformer
 
-Skriftlig salstentamen 1, 1,5 hp  
-Skriftlig salstentamen 2, 1,5 hp  
-Skriftlig och muntlig redovisning av projektuppgift 4 hp  
-Laboration 0,5 hp
+Skriftlig salstentamen 1, 1,5 hp
 
 ## Arbetsformer
 

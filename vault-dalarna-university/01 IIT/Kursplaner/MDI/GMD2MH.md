@@ -9,7 +9,7 @@ amne: "Matematikdidaktik"
 amne_kod: "MDI"
 institution: "IIT"
 tags: [kursplan, MDI, IIT]
-scrape_hash: ec810b6ea677d7b9
+scrape_hash: b02427cf12544f3f
 up: "[[Matematikdidaktik MOC]]"
 ---
 
@@ -28,22 +28,25 @@ up: "[[Matematikdidaktik MOC]]"
 
 Efter avslutad kurs ska den studerande kunna:  
 
-  - genomföra och diskutera en statistisk undersökning med
-relevans utifrån skolans värdegrund och uppdrag
-  - tolka och själv konstruera olika typer av diagram och i
-samband med det beräkna olika läges- och spridningsmått
-  - beräkna sannolikheter i enkla slumpsituationer med
-binomial-, hypergeometrisk- eller Poissonfördelning
-  - använda exponential- och normalfördelningarna samt centrala
-gränsvärdessatsen
-  - göra approximationer av binomial- och hypergeometriska
-fördelningar
+  - genomföra och diskutera en statistisk undersökning med relevans utifrån skolans värdegrund och uppdrag
+
+  - tolka och själv konstruera olika typer av diagram och i samband med det beräkna olika läges- och spridningsmått
+
+  - beräkna sannolikheter i enkla slumpsituationer med binomial-, hypergeometrisk- eller Poissonfördelning
+
+  - använda exponential- och normalfördelningarna samt centrala gränsvärdessatsen
+
+  - göra approximationer av binomial- och hypergeometriska fördelningar
+
   - lösa enkla problem med simulering
-  - tolka, tillämpa och utföra hypotesprövning med chi-två-test samt beräkna konfidensintervall för andelar
-och väntevärden, samt utföra tillhörande test utifrån olika datamaterial
-  - använda digitala
-verktyg alternativt programmering på ett för kursen ändamålsenligt sätt
-  - muntligt och skriftligt kommunicera matematiska argument och logiska resonemang utifrån kursens innehåll.
+
+  - tolka, tillämpa och utföra hypotesprövning med chi-två-test samt beräkna konfidensintervall för andelar och väntevärden, samt utföra tillhörande test utifrån olika datamaterial
+
+  - använda digitala verktyg alternativt programmering på ett för kursen ändamålsenligt sätt
+
+  - muntligt och skriftligt kommunicera matematiska argument och logiska resonemang utifrån kursens innehåll
+
+  - communicate mathematical arguments and logical reasoning based on the course content, both orally and in writing.
 
 ## Innehåll
 

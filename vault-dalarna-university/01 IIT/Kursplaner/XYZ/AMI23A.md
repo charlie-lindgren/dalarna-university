@@ -9,7 +9,7 @@ amne: "Mikrodataanalys"
 amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
-scrape_hash: 8ab38e39b7473fa5
+scrape_hash: 73478ece58c7f298
 up: "[[Mikrodataanalys MOC]]"
 ---
 
@@ -86,7 +86,9 @@ On completion of this course, students shall be able to:
 
   - demonstrate understanding of visual literacy, decide on the graphical elements that are used to create data visualisations, and base the choice of graphical display both in the context of the data and the audience for which it is intended as well as in relation to perception and cognition
 
-  - explore uni  and bivariate data consisting of categorical and quantitative variables by using numerical summary measures explain  which summary measures have good statistical properties
+  - explore uni  and bivariate data consisting of categorical and quantitative variables by using numerical summary measures 
+
+  - explain  which summary measures have good statistical properties
 
   - apply methods for visualising different data types: temporal data, categorical data, and textual data
 
@@ -108,7 +110,7 @@ Individual projects, reports, seminars and computer exercises. A requirement for
 
 ### Forms of Study
 
-Lectures, tutorials and computater labs.
+Lectures, tutorials and computer labs.
 
 ### Grades
 

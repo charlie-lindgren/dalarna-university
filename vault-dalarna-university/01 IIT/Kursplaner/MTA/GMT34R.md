@@ -9,7 +9,7 @@ amne: "Maskinteknik"
 amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT]
-scrape_hash: 21d5e8642e6cf776
+scrape_hash: 77a19cb6b2587eef
 up: "[[Maskinteknik MOC]]"
 ---
 
@@ -104,8 +104,6 @@ Upon completion of the course, students will be able to:
   - perform simple material analyses using light optical microscopy and scanning electron microscopy / X-ray analysis,
 
   - distinguish between different types of product defects such as handling defects, process / production defects and material defects,
-
-  - distinguish different types of product defects that arise in handling, process, production or that are linked to the material,
 
   - interpret and communicate the meaning of the results obtained in connection with material testing and analysis.
 

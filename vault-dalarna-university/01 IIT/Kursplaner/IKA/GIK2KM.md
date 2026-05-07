@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: 4b5a5a5420d1f2a9
+scrape_hash: 48ebf24f531f511a
 up: "[[Informatik MOC]]"
 ---
 
@@ -102,6 +102,8 @@ Upon completion of this course, students will be able to:
   - Explain Big Data and data analysis
 
   - Explain methods for data preparations
+
+  - Explain methods in machine learning
 
 _Skills and abilities_  
 Upon completion of this course, students will be able to:

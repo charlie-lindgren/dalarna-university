@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: ba6109692fdec843
+scrape_hash: 70f160d20ec487cf
 up: "[[Energiteknik MOC]]"
 ---
 
@@ -38,7 +38,7 @@ Efter godkänd kurs ska studenten kunna:
 
 ## Innehåll
 
-Kursen behandlar mätteknik och implementering för solenergisystem. Grunderna i mätsensorer kommuniceras tillsammans med tekniker för datainsamling och denna kunskap används för att designa och sätta ihop ett datainsamlingssystem. Mätdatakvaliteten utvärderas och påverkan av mätnoggranhet och -osäkerhet på resultaten diskuteras. Insamlad data analyseras och visualiseras.   
+Kursen behandlar mätteknik och implementering för solenergisystem. Grunderna i mätsensorer kommuniceras tillsammans med tekniker för datainsamling och denna kunskap används för att designa och sätta ihop ett datainsamlingssystem. Mätdatakvaliteten utvärderas och påverkan av mätnoggrannhet och -osäkerhet på resultaten diskuteras. Insamlad data analyseras och visualiseras.   
   
 Kursen behandlar även kommunikation av tekniska arbeten.
 

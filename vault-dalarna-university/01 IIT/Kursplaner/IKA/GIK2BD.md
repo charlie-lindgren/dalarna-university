@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: da08ed104c38cd97
+scrape_hash: e8919298d51462ee
 up: "[[Informatik MOC]]"
 ---
 
@@ -42,14 +42,14 @@ Efter avslutad kurs ska den studerande kunna
   - Använda verktyg, tekniker och metoder för hantering av IT-projektets delar.
 
   
-Värdering och förhållningsätt   
+Värdering och förhållningssätt   
 Efter avslutad kurs ska den studerande kunna 
 
   - Diskutera och reflektera kring införande av IT-systems effekter på en verksamhet.
 
 ## Innehåll
 
-Kursen går igenom projekthanterings- och systemutvecklingsmodeller, dess faser, roller med ansvarområden och arbetsuppgifter som behöver initieras, planeras, genomföras, följas upp och avslutas i varje fas och av varje roll. Vidare behandlas budgetering av IT-projekt samt olika verktyg, tekniker, metoder och dokument som kan användas i varje fas av respektive roll för att de ska kunna utföra sina arbetsuppgifter. Kursen innefattar ett projekt där studenter initierar och planerar ett mindre IT-projekt. Vidare diskuteras dess effekter vid införande i en verksamhet.
+Kursen går igenom projekthanterings- och systemutvecklingsmodeller, dess faser, roller med ansvarsområden och arbetsuppgifter som behöver initieras, planeras, genomföras, följas upp och avslutas i varje fas och av varje roll. Vidare behandlas budgetering av IT-projekt samt olika verktyg, tekniker, metoder och dokument som kan användas i varje fas av respektive roll för att de ska kunna utföra sina arbetsuppgifter. Kursen innefattar ett projekt där studenter initierar och planerar ett mindre IT-projekt. Vidare diskuteras dess effekter vid införande i en verksamhet.
 
 ## Examinationsformer
 

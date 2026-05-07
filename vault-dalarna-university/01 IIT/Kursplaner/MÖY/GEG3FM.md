@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: 77f15e6c67bfa364
+scrape_hash: 81a387f47c1261a0
 up: "[[Energiteknik MOC]]"
 ---
 
@@ -91,7 +91,7 @@ On completion of the course, students will be able to:
 
   - critically discuss and reflect on the meaning and significance of a scientific approach within the energy engineering field
 
-  - plan, create, and deliver clear scientific presentations, and analyse and create a strategy strategy for future presentation technique development
+  - plan, create, and deliver clear scientific presentations, and analyse and create a strategy for future presentation technique development
 
   - plan and write scientific papers in line with templates, as well as current scientific and referencing standards
 
@@ -101,7 +101,7 @@ On completion of the course, students will be able to:
 
 The course is practical in nature and focuses on how to carry out small scale research projects with a focus on technology and business. Certain basic concepts with relevance to science and research will be introduced early in the course. In addition, the planning and carrying out of a research process are covered as is the communication of results to various stakeholders.
 
-The course is run via mandatory workshops which focus on scientific writing and presentation technique as a means of support for a project. Regarding scientific writing, the focus is on clear, concise written communication adapted to a scientific audience/reader, which which takes into account’ to: reader, applying template as well as current scientific standards and reference practices.
+The course is run via mandatory workshops which focus on scientific writing and presentation technique as a means of support for a project. Regarding scientific writing, the focus is on clear, concise written communication adapted to a scientific audience/reader, which takes into account’ to: reader, applying template as well as current scientific standards and reference practices.
 
 The course includes at least one presentation which is recorded . After viewing this recording and reading teacher feedback, the provided reflection document will be used by the student to analyse and reflect on their current presentation proficiency and to develop a strategy for future presentation development.
 

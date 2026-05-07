@@ -9,7 +9,7 @@ amne: "Samhällsbyggnadsteknik"
 amne_kod: "SQQ"
 institution: "IIT"
 tags: [kursplan, SQQ, IIT]
-scrape_hash: 7703f2e361eb9591
+scrape_hash: bc78405b1c6731d2
 up: "[[Samhällsbyggnadsteknik MOC]]"
 ---
 
@@ -26,13 +26,16 @@ up: "[[Samhällsbyggnadsteknik MOC]]"
 
 ## Lärandemål
 
-Efter genomgången kurs ska studenten kunna:
- 
- 
-  - Redogöra för fördjupade planeringteoretiska och diskursiva perspektiv för aktuella urbana och regionala frågeställningar. 
-  - Planera och utföra ett planeringsprojekt kopplat till aktuella utmaningar i samhällsbyggandet.  
-  - Redogöra för roller och relationer mellan olika aktörer i en planeringsprocess. 
-  - Utöva självreflexiv problemlösning, konsekvensanalyser och utvärdering i olika planeringssituationer. 
+Efter godkänd kurs ska studenten kunna:
+
+  - Redogöra för fördjupade planeringteoretiska och diskursiva perspektiv för aktuella urbana och regionala frågeställningar
+
+  - Planera och utföra ett planeringsprojekt kopplat till aktuella utmaningar i samhällsbyggandet.
+
+  - Redogöra för roller och relationer mellan olika aktörer i en planeringsprocess
+
+  - Utöva självreflexiv problemlösning, konsekvensanalyser och utvärdering i olika planeringssituationer
+
   - Utföra kvalificerad skriftlig framställning.
 
 ## Innehåll
@@ -68,12 +71,16 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 ### Learning Outcomes
 
 Upon completion of the course, the student shall be able to:
- 
- 
-  - Explain in-depth planning theory and discursive perspectives for current urban and regional issues 
-  - Plan and carry out a planning project linked to current challenges in community construction. 
-  - Explain roles and relationships between different actors in a planning project. 
-  - Exercise self-reflective problem solving, impact assessments and evaluations in different planning situations.
+
+  - Explain in-depth planning theory and discursive perspectives for current urban and regional issues
+
+  - Plan and carry out a planning project linked to current challenges in community construction
+
+  - Explain roles and relationships between different actors in a planning project
+
+  - Exercise self-reflective problem solving, impact assessments and evaluations in different planning situations
+
+  - Perform qualified written presentation.
 
 ### Course Content
 

@@ -9,7 +9,7 @@ amne: "Statistik"
 amne_kod: "STA"
 institution: "IIT"
 tags: [kursplan, STA, IIT]
-scrape_hash: 86e9ec65da4e381a
+scrape_hash: 70c7fbd23f5dddf1
 up: "[[Statistik MOC]]"
 ---
 
@@ -39,7 +39,7 @@ Efter kursen skall studenten kunna:
 
 ## Innehåll
 
-Kursen tar upp hur man sammanfattar data med centralmått, spridningsmått och sambandsmått och hur data analyseras med hjälp av korstabell, spridningsdiagram och linjär regression. Hur populationsparametrarna medelvärde och andel skattas och skattningarnas fördelning samt normalapproximation och centrala gränsvärdessatsen förklaras. Vidare förklaras hur man beräknar och tolkar konfidensintervall för medelvärde och andel samt för skillnaden mellan medelvärden och andelar. I kursen ingår också hypotestest för medelvärde och andel samt för skillnaden mellan medelvärden och andelar. Sambandsanalys samt test för anpassningsgrad med hjälp av chi-två test ingår också. Hur data analyseras med hjälp av normalfördelningen, binomilafördelningen och poissonfördelningen förklaras. Kursen behandlar även begreppen slump, slumpvariabel, sannolikhet och grundläggande lagar inom sannolikhetsläran.   
+Kursen tar upp hur man sammanfattar data med centralmått, spridningsmått och sambandsmått och hur data analyseras med hjälp av korstabell, spridningsdiagram och linjär regression. Hur populationsparametrarna medelvärde och andel skattas och skattningarnas fördelning samt normalapproximation och centrala gränsvärdessatsen förklaras. Vidare förklaras hur man beräknar och tolkar konfidensintervall för medelvärde och andel samt för skillnaden mellan medelvärden och andelar. I kursen ingår också hypotestest för medelvärde och andel samt för skillnaden mellan medelvärden och andelar. Sambandsanalys samt test för anpassningsgrad med hjälp av chi-två test ingår också. Hur data analyseras med hjälp av normalfördelningen, binomialfördelningen och poissonfördelningen förklaras. Kursen behandlar även begreppen slump, slumpvariabel, sannolikhet och grundläggande lagar inom sannolikhetsläran.   
 En introduktion till kombinatorik ingår också.
 
 ## Examinationsformer
@@ -72,7 +72,7 @@ Data analys och statistik I - Grundnivå 1. 7,5hp.
 Statistik för ingenjörer - Grundnivå 1. 7,5hp.  
 Statistik analys för data- och systemvetenskap. 7,5 hp.  
   
-Erstätter ST1029.
+Ersätter ST1029.
 
 ## English Version
 

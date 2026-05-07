@@ -8,7 +8,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: 17c601e8a0fc36ef
+scrape_hash: 8d7f974aa835b4fc
 up: "[[Informatik MOC]]"
 ---
 
@@ -42,7 +42,7 @@ Efter avslutad kurs ska studenten kunna:
 
   - Använda SQL för att göra utsökningar från dimensionsmodeller.
 
-  - Skapa en informationsmodell för spatial data kopplad till ett infrastukturnät.
+  - Skapa en informationsmodell för spatial data kopplad till ett infrastrukturnät.
 
 _Värderingsförmåga och förhållningssätt_  
 Efter avslutad kurs ska studenten kunna:

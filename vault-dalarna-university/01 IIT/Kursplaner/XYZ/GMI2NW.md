@@ -9,7 +9,7 @@ amne: "Mikrodataanalys"
 amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
-scrape_hash: e837adc17cb06e4f
+scrape_hash: 249cd41b45b883ce
 up: "[[Mikrodataanalys MOC]]"
 ---
 
@@ -26,20 +26,24 @@ up: "[[Mikrodataanalys MOC]]"
 
 ## Lärandemål
 
-Det övergripande målet med kursen är att studenten ska behandla aktiviteter relaterade
-till automatiska programvarutest och utbudet av testverktyg och
-tekniker för utveckling av testautomation. En bredare
-teoretisk grund ges för testdokumentation och testledning.
+Det övergripande målet med kursen är att studenten ska behandla aktiviteter relaterade till automatiska programvarutest och utbudet av testverktyg och tekniker för utveckling av testautomation. En bredare teoretisk grund ges för testdokumentation och testledning.
 
 Efter avslutad kurs ska den studerande kunna:
 
   - utföra mjukvarutestning högre upp i V-modellen för systemutveckling som systemtest, regressionstest och acceptanstest
+
   - redogöra för och praktisera icke funktionell testning
+
   - implementera automatiska tester inom olika testnivåer
+
   - praktisera test management och estimeringstekniker
+
   - planera, designa och utveckla mjukvarutest för krävande och specialicerade områden
+
   - tillämpa, värdera och analysera gällande krav, specifikationer, spårbarhet, relevanta verktyg och agila arbetssätt
+
   - planera, designa och utveckla mjukvara för genomförande av mjukvarutest i syfte att förbättra mjukvarans kvalitet
+
   - skriva och planera erforderlig dokumentation samt presentera den för intressenters godkännande.
 
 ## Innehåll
@@ -50,7 +54,7 @@ Kursen behandlar allmänna teorier inom mjukvarutest som t.ex. partitioning av i
 Ett större IT-projekt bedrivs där studenterna tar olika roller i utvecklings- och testprocessen utifrån en beställares krav. IT-projektet genomförs enligt vedertagna ALM (Application Lifecycle Management) arbetssätt. Metoder för tester av handhållna enheter praktiseras och de utmaningar dessa enheter innebär för test belyses i samband med detta.  
 Resultatet ifrån olika tester i projektet redovisas för beställaren.  
   
-Testning sker mot egen och andra andra studenters mjukvara eller mjukvarusystem från externa aktörer, från vilket man redovisar erfarenheter och resultat ifrån.  
+Testning sker mot egen och andra studenters mjukvara eller mjukvarusystem från externa aktörer, från vilket man redovisar erfarenheter och resultat ifrån.  
 I samtliga fall används relevanta dokumentationsmetoder avsedda för SUT (System Under Test). Kursen kan även innehålla gästföreläsningar med industriella experter inom relevanta områden.
 
 ## Examinationsformer

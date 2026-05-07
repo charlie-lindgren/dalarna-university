@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: a859673d5a6d1a3d
+scrape_hash: b8373e04246aadb6
 up: "[[Informatik MOC]]"
 ---
 
@@ -38,7 +38,7 @@ _Färdighet och förmåga_
 
 _Värderingsförmåga och förhållningssätt_
 
-  - värdera visualiseringar utifrån syfte, meningingsbärande kvalitet, progression, intressenter, användningsområde och tekniska kvalitet.
+  - värdera visualiseringar utifrån syfte, meningsbärande kvalitet, progression, intressenter, användningsområde och tekniska kvalitet.
 
 ## Innehåll
 

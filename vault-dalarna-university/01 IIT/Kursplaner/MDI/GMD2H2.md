@@ -8,7 +8,7 @@ amne: "Matematikdidaktik"
 amne_kod: "MDI"
 institution: "IIT"
 tags: [kursplan, MDI, IIT]
-scrape_hash: 10b8e54da8b67bb0
+scrape_hash: 8b144bc705ac2a2f
 up: "[[Matematikdidaktik MOC]]"
 ---
 
@@ -73,13 +73,22 @@ För studenter i nätbaserad kurs krävs en godtagbar nätuppkoppling och verkty
 On completion of the course, students shall be able to: 
 
   - demonstrate knowledge of, and use effectively, the language and expressions of mathematics,
+
   - demonstrate knowledge of different classes of numbers including whole, rational, real, and complex numbers,
+
   - demonstrate knowledge of the logical and axiomatic character of mathematics,
+
   - demonstrate knowledge about some basic definitions and theorems within number theory,
+
   - solve algebraic equations and systems of equations,
+
   - use different methods such as direct and indirect proofing, contradiction, and induction to prove basic theorems within number theory,
+
   - demonstrate basic knowledge of elementary combinatorics and use the binomial theorem to expand and manipulate polynomials,
-  - carry out division of polynomials and solve different types of polynomial equations.
+
+  - carry out division of polynomials and solve different types of polynomial equations,
+
+  - use digital tools or programming in a way that is appropriate for the course.
 
 ### Course Content
 
