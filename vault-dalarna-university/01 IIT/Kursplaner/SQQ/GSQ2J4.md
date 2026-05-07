@@ -8,10 +8,9 @@ huvudomrade: "Samhällsbyggnadsteknik 1"
 amne: "Samhällsbyggnadsteknik"
 amne_kod: "SQQ"
 institution: "IIT"
-tags: [kursplan, SQQ, IIT, vilande]
+tags: [kursplan, SQQ, IIT]
 scrape_hash: 0c5215183d690c5b
 up: "[[Samhällsbyggnadsteknik MOC]]"
-cssclasses: [vilande]
 ---
 
 # GSQ2J4

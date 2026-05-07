@@ -8,10 +8,9 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Tyska"
 amne_kod: "TYA"
 institution: "ISLL"
-tags: [kursplan, TYA, ISLL, vilande]
+tags: [kursplan, TYA, ISLL]
 scrape_hash: fe3e0523b8c2750f
 up: "[[Tyska MOC]]"
-cssclasses: [vilande]
 ---
 
 # GTY2N5

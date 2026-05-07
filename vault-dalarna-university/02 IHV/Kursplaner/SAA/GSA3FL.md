@@ -8,10 +8,9 @@ huvudomrade: "Socialt arbete 1"
 amne: "Socialt arbete"
 amne_kod: "SAA"
 institution: "IHV"
-tags: [kursplan, SAA, IHV, vilande]
+tags: [kursplan, SAA, IHV]
 scrape_hash: 9d8cb5ad08d05f4a
 up: "[[Socialt arbete MOC]]"
-cssclasses: [vilande]
 ---
 
 # GSA3FL

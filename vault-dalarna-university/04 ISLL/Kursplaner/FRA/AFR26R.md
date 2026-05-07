@@ -8,10 +8,9 @@ huvudomrade: "Franska 1"
 amne: "Franska"
 amne_kod: "FRA"
 institution: "ISLL"
-tags: [kursplan, FRA, ISLL, vilande]
+tags: [kursplan, FRA, ISLL]
 scrape_hash: d64b267a05c85559
 up: "[[Franska MOC]]"
-cssclasses: [vilande]
 ---
 
 # AFR26R

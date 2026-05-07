@@ -212,7 +212,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const STRUCTURAL_GOLD = "#d4a843"   // Dashboard, Analys MOC — cross-institution structure
   const ANALYS_SLATE    = "#7e8a96"   // Analys leaf pages
   const EJ_AKTIV_RED    = "#c0392b"   // not-running courses
-  const VILANDE_AMBER   = "#d38b2d"   // published kursplan but not in current offering
+  const VILANDE_RED     = "#c0392b"   // vilande courses
 
   function institutionOf(d: NodeData): (typeof INSTITUTIONS)[number] | null {
     for (const inst of INSTITUTIONS) {
@@ -224,7 +224,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const color = (d: NodeData) => {
     if (d.id === slug) return computedStyleMap["--secondary"]
     if (d.tags.includes("ej-aktiv")) return EJ_AKTIV_RED
-    if (d.tags.includes("vilande")) return VILANDE_AMBER
+    if (d.tags.includes("vilande")) return VILANDE_RED
 
     const inst = institutionOf(d)
     if (inst) {
