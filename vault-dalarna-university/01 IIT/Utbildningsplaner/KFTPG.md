@@ -4,7 +4,7 @@ programnamn: "Film- och TV-produktion"
 institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2014-03-19 . Gäller fr.o.m.  HT 2014."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: b5de674a2771014b
+scrape_hash: 53c5dc3744530dc3
 up: "[[IIT MOC]]"
 ---
 

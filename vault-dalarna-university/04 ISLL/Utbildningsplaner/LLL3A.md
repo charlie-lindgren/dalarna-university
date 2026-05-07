@@ -4,7 +4,7 @@ programnamn: "Grundlärarprogrammet förskoleklass och grundskolans årskurs 1-3
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, ISLL]
-scrape_hash: b62ea54110729d9e
+scrape_hash: 1b773e29d2804427
 up: "[[ISLL MOC]]"
 ---
 

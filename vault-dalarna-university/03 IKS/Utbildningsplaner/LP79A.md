@@ -4,7 +4,7 @@ programnamn: "Ämneslärarprogrammet inriktning grundskolans årskurs 7-9"
 institution: "IKS"
 faststalld: "Fastställd av Områdesnämnden Utbildningsvetenskap 2017-12-19 . Gäller fr.o.m.  HT 2018."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: 5a847b5ca6134f11
+scrape_hash: 6eedd46fd92c3751
 up: "[[IKS MOC]]"
 ---
 
@@ -196,6 +196,7 @@ Den verksamhetsförlagda utbildningen har en progression där den studerande fö
 
 
 **Inkluderas andra ämnen än de vid Högskolan Dalarna kan fler begränsningar finnas.**
+
 
 ## 4. Examensbenämning
 

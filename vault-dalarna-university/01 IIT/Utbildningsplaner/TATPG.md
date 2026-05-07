@@ -4,7 +4,7 @@ programnamn: "Assisterande teknikprogrammet"
 institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-12-19 . Gäller fr.o.m.  HT 2025."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: cafbc64c26e46176
+scrape_hash: acfa318445dfaba4
 up: "[[IIT MOC]]"
 ---
 

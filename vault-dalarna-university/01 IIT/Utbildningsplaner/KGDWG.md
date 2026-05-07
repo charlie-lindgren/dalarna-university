@@ -4,7 +4,7 @@ programnamn: "Grafisk design och webbutveckling –  kandidatprogram"
 institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2021-10-08 . Gäller fr.o.m.  VT 2022."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: 326b2c87b34ba8d2
+scrape_hash: 44c4427e74d9d25d
 up: "[[IIT MOC]]"
 ---
 

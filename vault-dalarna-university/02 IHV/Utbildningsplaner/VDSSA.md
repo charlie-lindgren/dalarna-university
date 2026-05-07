@@ -4,7 +4,7 @@ programnamn: "Specialistsjuksköterskeutbildning till distriktssköterska"
 institution: "IHV"
 faststalld: "Fastställd av Områdesnämnden Vård och omsorg 2018-12-04 . Gäller fr.o.m.  VT 2019."
 tags: [utbildningsplan, program, IHV]
-scrape_hash: 08eb7b503a34ecd1
+scrape_hash: d8958a8aea800920
 up: "[[IHV MOC]]"
 ---
 

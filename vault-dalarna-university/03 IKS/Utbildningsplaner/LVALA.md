@@ -4,7 +4,7 @@ programnamn: "Vidareutbildning av lärare som saknar lärarexamen"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-06-17 . Gäller fr.o.m.  HT 2025."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: eb1e397ba8dc54da
+scrape_hash: 6f2f318d167132e0
 up: "[[IKS MOC]]"
 ---
 
@@ -421,6 +421,7 @@ Examen avsedd för undervisning i grundskolans årskurs 1-7, grundskolans årsku
 
 
 ******För student som uppfyller kravet på självständigt arbete inom ramen för ämnesstudier.**
+
 
 ## 4. Examensbenämning
 

@@ -4,7 +4,7 @@ programnamn: "Ämneslärarprogrammet inriktning gymnasieskolan"
 institution: "IKS"
 faststalld: "Fastställd av Områdesnämnden Utbildningsvetenskap 2017-12-19 . Gäller fr.o.m.  HT 2018."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: 7b59c06d8db03d95
+scrape_hash: 3eda9f92e401a156
 up: "[[IKS MOC]]"
 ---
 
@@ -202,6 +202,7 @@ Den verksamhetsförlagda utbildningen har en progression där den studerande fö
 
 
 **Inkluderas andra ämnen än de vid Högskolan Dalarna kan fler begränsningar finnas.**
+
 
 ## 4. Examensbenämning
 

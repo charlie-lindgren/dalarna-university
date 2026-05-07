@@ -4,7 +4,7 @@ programnamn: "Byggingenjörsprogram"
 institution: "IIT"
 faststalld: "Fastställd av prefekt för institutionen för information och teknik 2023-02-14 . Gäller fr.o.m.  HT 2023."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: 278ef2090b123995
+scrape_hash: 715d484e842163d4
 up: "[[IIT MOC]]"
 ---
 

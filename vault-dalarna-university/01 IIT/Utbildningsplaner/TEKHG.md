@@ -4,7 +4,7 @@ programnamn: "Industriell ekonomi, högskoleprogram"
 institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2024-11-13 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: c24f6f531ca6ea9a
+scrape_hash: fce054262508d57d
 up: "[[IIT MOC]]"
 ---
 

@@ -4,7 +4,7 @@ programnamn: "Kompletterande pedagogisk utbildning, inriktning årskurs 7–9"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, ISLL]
-scrape_hash: ae52a0f44eaee959
+scrape_hash: 54be6963df5c8539
 up: "[[ISLL MOC]]"
 ---
 

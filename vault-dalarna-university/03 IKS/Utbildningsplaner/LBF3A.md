@@ -4,7 +4,7 @@ programnamn: "Grundlärarprogrammet Förskoleklass och grundskolans årskurs 1�
 institution: "IKS"
 faststalld: "Fastställd av Områdesnämnden Utbildningsvetenskap 2020-12-17 . Gäller fr.o.m.  VT 2021."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: aaea0d377ef573c6
+scrape_hash: f95c9c6ef2b12a46
 up: "[[IKS MOC]]"
 ---
 

@@ -4,7 +4,7 @@ programnamn: "Ämneslärarprogrammet inriktning grundskolans årskurs 7-9"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, ISLL]
-scrape_hash: 8f790149552023d9
+scrape_hash: ad3563476cc1b4dc
 up: "[[ISLL MOC]]"
 ---
 
@@ -203,6 +203,7 @@ Den verksamhetsförlagda utbildningen har en progression där den studerande fö
 
 
 **Inkluderas andra ämnen än de vid Högskolan Dalarna kan fler begränsningar finnas.**
+
 
 ## 4. Examensbenämning
 

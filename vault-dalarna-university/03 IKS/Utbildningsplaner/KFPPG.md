@@ -4,7 +4,7 @@ programnamn: "Filmproduktionsprogrammet"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-01-15 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: 2d052b9c4eb05925
+scrape_hash: aedf846123586d85
 up: "[[IKS MOC]]"
 ---
 

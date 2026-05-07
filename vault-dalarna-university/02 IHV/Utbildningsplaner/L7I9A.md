@@ -4,7 +4,7 @@ programnamn: "Ämneslärarprogrammet årskurs 7-9 arbetsintegrerad utbildning me
 institution: "IHV"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-02-12 . Gäller fr.o.m.  HT 2025."
 tags: [utbildningsplan, program, IHV]
-scrape_hash: ba364c12b645e4e4
+scrape_hash: 4c73e5c8f417ae97
 up: "[[IHV MOC]]"
 ---
 

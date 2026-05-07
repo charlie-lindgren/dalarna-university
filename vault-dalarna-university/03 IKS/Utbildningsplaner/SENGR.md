@@ -4,7 +4,7 @@ programnamn: "Ekonomprogrammet"
 institution: "IKS"
 faststalld: "Fastställd av prefekt för institutionen för kultur och samhälle 2023-02-24 . Gäller fr.o.m.  VT 2023."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: 3fa838ce9485351f
+scrape_hash: dbdd42c949da3f9a
 up: "[[IKS MOC]]"
 ---
 
@@ -178,6 +178,7 @@ Studenter som väljer huvudområdet företagsekonomi och vill bli revisor rekomm
 - [[NA2008|Examensarbete för kandidatexamen i nationalekonomi]], 15 hp
 
 *** För att programmålen ska anses vara uppfyllda och programnamn därmed ska visas i examensbeviset, är kurser märkta med asterisk obligatoriska.**
+
 
 ## 4. Examensbenämning
 

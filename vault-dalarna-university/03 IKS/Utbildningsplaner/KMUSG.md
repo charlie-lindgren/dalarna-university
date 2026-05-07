@@ -4,7 +4,7 @@ programnamn: "Musik- och ljudproduktionsprogrammet"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-01-15 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: 0fc04e47899186e7
+scrape_hash: 0287aabffdef081e
 up: "[[IKS MOC]]"
 ---
 

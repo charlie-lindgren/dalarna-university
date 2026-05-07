@@ -4,7 +4,7 @@ programnamn: "Maskinteknik: Produkt- och Konstruktionsutveckling - Högskoleinge
 institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2019-02-01 . Gäller fr.o.m.  HT 2019."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: 2e51bdb236fcfbb1
+scrape_hash: 642045d1831e8b9a
 up: "[[IIT MOC]]"
 ---
 

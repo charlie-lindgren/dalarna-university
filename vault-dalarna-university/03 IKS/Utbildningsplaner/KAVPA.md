@@ -4,7 +4,7 @@ programnamn: "Magisterprogram i Audiovisuella studier"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2024-08-20 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: e5ff20501149b8d5
+scrape_hash: e8c881f01ec95e4c
 up: "[[IKS MOC]]"
 ---
 
@@ -74,6 +74,7 @@ Programmet består av fem kurser. En kurs utforskar kunskapsproduktion genom aud
 - [[ABQ2B4|Magisterexamensarbete i Audiovisuella studier]], 15 hp
 - [[AU3005|Vetenskaplig teori och metod i Audiovisuella studier]], 7,5 hp
 **Samtliga kurser är på avancerad nivå och ingår i huvudområdet Audiovisuella studier.**
+
 
 ## 4. Examensbenämning
 

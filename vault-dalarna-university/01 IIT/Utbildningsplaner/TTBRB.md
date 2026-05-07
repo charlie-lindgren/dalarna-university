@@ -4,7 +4,7 @@ programnamn: "Tekniskt basår"
 institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2017-12-19 . Gäller fr.o.m.  HT 2017."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: f01093346cd5bb64
+scrape_hash: e46fa7ab8524364d
 up: "[[IIT MOC]]"
 ---
 

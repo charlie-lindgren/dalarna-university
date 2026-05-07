@@ -4,7 +4,7 @@ programnamn: "Bygg- och samhällsplanerarprogrammet"
 institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2019-12-18 . Gäller fr.o.m.  HT 2020."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: d75a963a56fcf159
+scrape_hash: 1d895c72ee7d0cd9
 up: "[[IIT MOC]]"
 ---
 
@@ -126,6 +126,7 @@ Med tidigare nämnda kurser som utgångspunkt ges också tillämpningskurser ino
 - [[GSQ2R5|Urban och regional analys]], 7,5 hp
 - [[GSQ2Y2|Vetenskaplig metod]], 7,5 hp
 ***) ingår i huvudområdet samhällsbyggnadsteknik**
+
 
 ## 4. Examensbenämning
 

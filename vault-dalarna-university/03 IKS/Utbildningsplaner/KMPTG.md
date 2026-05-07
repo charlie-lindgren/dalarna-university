@@ -4,7 +4,7 @@ programnamn: "Medieproduktionsprogrammet för TV och sociala medier"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-01-15 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: 337a456c02c2ff20
+scrape_hash: adee9f71ed2b17da
 up: "[[IKS MOC]]"
 ---
 

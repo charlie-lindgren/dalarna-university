@@ -4,7 +4,7 @@ programnamn: "Energi Högskoleingenjörsprogram"
 institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2017-03-13 . Gäller fr.o.m.  HT ."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: aa5736278b9a6d74
+scrape_hash: 2b9ccb33d8a9735f
 up: "[[IIT MOC]]"
 ---
 

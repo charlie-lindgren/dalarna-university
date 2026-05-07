@@ -4,7 +4,7 @@ programnamn: "Musik- och ljuddesign"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2020-10-20 . Gäller fr.o.m.  VT 2021."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: a15eac7b5d7a2c74
+scrape_hash: 039f90df33fde985
 up: "[[IKS MOC]]"
 ---
 

@@ -4,7 +4,7 @@ programnamn: "Ämneslärarprogrammet inriktning gymnasieskolan"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, ISLL]
-scrape_hash: b0ca20d042f1d9cd
+scrape_hash: 86aac29ab190f446
 up: "[[ISLL MOC]]"
 ---
 
@@ -208,6 +208,7 @@ Den verksamhetsförlagda utbildningen har en progression där den studerande fö
 
 
 **Inkluderas andra ämnen än de vid Högskolan Dalarna kan fler begränsningar finnas.**
+
 
 ## 4. Examensbenämning
 

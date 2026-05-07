@@ -4,7 +4,7 @@ programnamn: "Upplevelseproduktion – Friluftsliv, idrott och hälsa, 180 högs
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2020-11-19 . Gäller fr.o.m.  HT 2021."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: 95b1adcba5f19b82
+scrape_hash: 8d477df285b306d0
 up: "[[IKS MOC]]"
 ---
 

@@ -4,7 +4,7 @@ programnamn: "Magisterprogram i Materialteknik"
 institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2020-09-10 . Gäller fr.o.m.  HT 2021."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: ad210d10301c9687
+scrape_hash: 6427a03666450b07
 up: "[[IIT MOC]]"
 ---
 
