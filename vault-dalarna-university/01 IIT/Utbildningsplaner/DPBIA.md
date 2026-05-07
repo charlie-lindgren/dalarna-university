@@ -4,7 +4,7 @@ programnamn: "Business Intelligence: Magisterprogram"
 institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2015-10-20 . Gäller fr.o.m.  HT 2015."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: 7ecb9760f7c9488b
+scrape_hash: 83e3c4a5e75d26fb
 up: "[[IIT MOC]]"
 ---
 

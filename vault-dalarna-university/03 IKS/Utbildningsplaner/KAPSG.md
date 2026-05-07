@@ -4,7 +4,7 @@ programnamn: "Audiovisuell produktion för scen och event – kandidatprogram"
 institution: "IKS"
 faststalld: "Fastställd av prefekt för institutionen för kultur och samhälle 2023-01-30 . Gäller fr.o.m.  VT 2023."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: 6e26951dc5a30b7d
+scrape_hash: 012deea2504d7e8c
 up: "[[IKS MOC]]"
 ---
 

@@ -4,7 +4,7 @@ programnamn: "Filmproduktion för reklam och information – kandidatprogram"
 institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2018-12-20 . Gäller fr.o.m.  HT 2018."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: 7326fa6b077c9690
+scrape_hash: eb616771f856bb6a
 up: "[[IIT MOC]]"
 ---
 

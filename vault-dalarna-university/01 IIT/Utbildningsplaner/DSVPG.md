@@ -4,7 +4,7 @@ programnamn: "Systemvetenskapliga programmet"
 institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2019-03-05 . Gäller fr.o.m.  HT 2019."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: 8812681071b0a510
+scrape_hash: 22d2bfaf6d06f0d7
 up: "[[IIT MOC]]"
 ---
 

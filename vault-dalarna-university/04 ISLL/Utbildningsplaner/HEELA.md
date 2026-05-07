@@ -4,7 +4,7 @@ programnamn: "Magisterprogram i engelska med inriktning mot engelskspråkig litt
 institution: "ISLL"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2020-10-22 . Gäller fr.o.m.  HT 2021."
 tags: [utbildningsplan, program, ISLL]
-scrape_hash: 15ed69044987a188
+scrape_hash: 85e17fb968a053d5
 up: "[[ISLL MOC]]"
 ---
 

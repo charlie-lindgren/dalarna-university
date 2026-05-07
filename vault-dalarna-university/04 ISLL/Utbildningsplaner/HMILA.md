@@ -4,7 +4,7 @@ programnamn: "Masterprogram i interkulturella litteraturstudier"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för språk, litteratur och lärande 2023-09-11 . Gäller fr.o.m.  HT 2023."
 tags: [utbildningsplan, program, ISLL]
-scrape_hash: 1afd42c37720b306
+scrape_hash: 39640c4b56c5c184
 up: "[[ISLL MOC]]"
 ---
 
@@ -194,6 +194,7 @@ Institutionen som ansvarar för programmet samarbetar med andra lärosäten nati
 - Interkulturella litteraturstudier: Teori och metod (7, 5 hp
 
 **Samtliga valbara kurser är inom huvudområdet interkulturella litteraturstudier och på avancerad nivå. Kurser som erbjuds som obligatoriska och som är specifika för var och en av de olika inriktningarna är också valbara kurser för de andra inriktningarna inom programmet. Observera att olika behörighetskrav gäller för dessa kurser, beroende på inriktningen.**
+
 
 ## 4. Examensbenämning
 

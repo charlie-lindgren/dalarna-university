@@ -4,7 +4,7 @@ programnamn: "IT-säkerhet och mjukvarutestning - kandidatprogram"
 institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2019-03-05 . Gäller fr.o.m.  HT 2019."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: 9fab91eb596065c8
+scrape_hash: 9ea6135e8e8d68ea
 up: "[[IIT MOC]]"
 ---
 

@@ -4,7 +4,7 @@ programnamn: "Magisterprogram i Afrikanska studier"
 institution: "ISLL"
 faststalld: "Fastställd av Områdesnämnden Humaniora och språk 2014-11-20 . Gäller fr.o.m.  HT 2015."
 tags: [utbildningsplan, program, ISLL]
-scrape_hash: 1d52e9a12ba686c3
+scrape_hash: 163447ed480693db
 up: "[[ISLL MOC]]"
 ---
 

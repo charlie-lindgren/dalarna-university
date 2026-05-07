@@ -4,7 +4,7 @@ programnamn: "Magisterprogram i religionsvetenskap - Den heliga människan: reli
 institution: "ISLL"
 faststalld: "Fastställd av Områdesnämnden Humaniora och språk 2014-11-20 . Gäller fr.o.m.  HT 2015."
 tags: [utbildningsplan, program, ISLL]
-scrape_hash: 8d1be3d699ab2fbf
+scrape_hash: 29805560a65cd843
 up: "[[ISLL MOC]]"
 ---
 
@@ -90,6 +90,7 @@ Utöver dessa obligatoriska kurser ges möjlighet att välja mellan huvudområde
 - Examensarbete för magisterexamen i religionsvetenskap, 15 hp
 
 ********
+
 
 ## 4. Examensbenämning
 
