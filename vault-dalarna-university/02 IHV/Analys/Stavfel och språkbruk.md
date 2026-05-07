@@ -1,6 +1,6 @@
 ---
 tags: [analys, sprak]
-up: "[[Analys MOC]]"
+up: "[[IHV MOC]]"
 status: första pass
 ---
 

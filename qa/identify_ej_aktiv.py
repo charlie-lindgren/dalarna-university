@@ -12,7 +12,7 @@ Arbetsflöde:
     3. För kurser som inte går just nu används kurssidan som signal:
              - "Start vecka" hittas -> aktiv
              - annars                -> vilande
-    4. Skapar/uppdaterar 05 Analys/Vilande kursplaner.md + .xlsx.
+    4. Skapar/uppdaterar 0X {INST}/Analys/Vilande kursplaner.md + .xlsx per institution.
 
 Användning:
         python3 qa/identify_ej_aktiv.py                   # dry-run
@@ -49,9 +49,19 @@ from scrape_hda_kursplaner import (  # noqa: E402
 
 VAULT = ROOT / "vault-dalarna-university"
 INST_DIR_NAME = {"IIT": "01 IIT", "IHV": "02 IHV", "IKS": "03 IKS", "ISLL": "04 ISLL"}
-VAULT_ANALYS = VAULT / "05 Analys"
-VILANDE_ANALYS_MD = VAULT_ANALYS / "Vilande kursplaner.md"
-VILANDE_ANALYS_XLSX = VAULT_ANALYS / "Vilande kursplaner.xlsx"
+
+
+def analys_dir_for(inst_code: str) -> Path:
+    return VAULT / INST_DIR_NAME[inst_code] / "Analys"
+
+
+def vilande_md_for(inst_code: str) -> Path:
+    return analys_dir_for(inst_code) / "Vilande kursplaner.md"
+
+
+def vilande_xlsx_for(inst_code: str) -> Path:
+    return analys_dir_for(inst_code) / "Vilande kursplaner.xlsx"
+
 COURSE_PAGE_URL = "https://www.du.se/sv/utbildning/kurser/kurs/?code={code}"
 
 STATUS_VILANDE = "vilande"
@@ -249,10 +259,13 @@ def read_course_established_date(path: Path) -> str | None:
     return m.group(1) if m else None
 
 
-def build_vilande_analysis_callout(rows: list[tuple[str, str, str, str, str, str | None]]) -> list[str]:
+def build_vilande_analysis_callout(
+    rows: list[tuple[str, str, str, str, str, str | None]],
+    xlsx_filename: str,
+) -> list[str]:
     """Bygg download-knapp + callout för Vilande kursplaner."""
     n = len(rows)
-    href = VILANDE_ANALYS_XLSX.name.replace(" ", "-")
+    href = xlsx_filename.replace(" ", "-")
     lines = [
         f'<a class="download-xlsx" href="{href}" download>'
         f'{DOWNLOAD_ICON_SVG}'
@@ -302,12 +315,12 @@ def replace_first_example_callout(text: str, new_block_lines: list[str]) -> str 
     return "\n".join(merged) + ("\n" if text.endswith("\n") else "")
 
 
-def build_vilande_analysis_template(callout_lines: list[str]) -> str:
-    """Skapa grundmall för 05 Analys/Vilande kursplaner.md."""
+def build_vilande_analysis_template(callout_lines: list[str], inst_code: str) -> str:
+    """Skapa grundmall för Vilande kursplaner.md i en institutions Analys-mapp."""
     lines = [
         "---",
         "tags: [analys, kurslivscykel, vilande]",
-        "up: \"[[Analys MOC]]\"",
+        f'up: "[[{inst_code} MOC]]"',
         "status: första pass",
         "---",
         "",
@@ -357,8 +370,14 @@ def build_vilande_analysis_template(callout_lines: list[str]) -> str:
     return "\n".join(lines)
 
 
-def write_vilande_analysis(rows: list[tuple[str, str, str, str, str, str | None]], apply: bool) -> tuple[bool, bool]:
-    """Skriv/uppdatera Vilande kursplaner.md + .xlsx. Returnerar (md_changed, xlsx_changed)."""
+def write_vilande_analysis(
+    rows_by_inst: dict[str, list[tuple[str, str, str, str, str, str | None]]],
+    apply: bool,
+) -> dict[str, tuple[bool, bool]]:
+    """Skriv/uppdatera Vilande kursplaner.md + .xlsx per institution.
+
+    Returnerar {inst_code: (md_changed, xlsx_changed)}.
+    """
     def row_sort_key(r: tuple[str, str, str, str, str, str | None]) -> tuple[dt.date, str, str, str]:
         date_str = r[5]
         if date_str:
@@ -370,76 +389,90 @@ def write_vilande_analysis(rows: list[tuple[str, str, str, str, str, str | None]
             parsed = dt.date.max
         return (parsed, r[2], r[1], r[0])
 
-    rows = sorted(rows, key=row_sort_key)
-    callout_lines = build_vilande_analysis_callout(rows)
+    results: dict[str, tuple[bool, bool]] = {}
 
-    if VILANDE_ANALYS_MD.exists():
-        original_md = VILANDE_ANALYS_MD.read_text(encoding="utf-8")
-        replaced_md = replace_first_example_callout(original_md, callout_lines)
-        new_md = replaced_md if replaced_md is not None else build_vilande_analysis_template(callout_lines)
-    else:
-        original_md = ""
-        new_md = build_vilande_analysis_template(callout_lines)
+    for inst_code in INST_DIR_NAME:
+        analys_dir = analys_dir_for(inst_code)
+        md_path = vilande_md_for(inst_code)
+        xlsx_path = vilande_xlsx_for(inst_code)
+        inst_rows = sorted(rows_by_inst.get(inst_code, []), key=row_sort_key)
+        callout_lines = build_vilande_analysis_callout(inst_rows, xlsx_path.name)
 
-    md_changed = new_md != original_md
-    if apply and md_changed:
-        VILANDE_ANALYS_MD.write_text(new_md, encoding="utf-8")
+        if md_path.exists():
+            original_md = md_path.read_text(encoding="utf-8")
+            replaced_md = replace_first_example_callout(original_md, callout_lines)
+            new_md = (
+                replaced_md
+                if replaced_md is not None
+                else build_vilande_analysis_template(callout_lines, inst_code)
+            )
+        else:
+            original_md = ""
+            new_md = build_vilande_analysis_template(callout_lines, inst_code)
 
-    wb = Workbook()
-    ws = wb.active
-    ws.title = "Vilande kursplaner"
-    headers = [
-        "Kursplan",
-        "Ämne",
-        "Institution",
-        "Fastställd",
-        "Ämnesnamn",
-        "Kursnamn",
-        "Problem",
-        "Länk",
-    ]
-    ws.append(headers)
-    for cell in ws[1]:
-        cell.font = HEADER_FONT
-        cell.fill = HEADER_FILL
-        cell.alignment = Alignment(horizontal="left", vertical="center")
+        md_changed = new_md != original_md
+        if apply and md_changed:
+            analys_dir.mkdir(parents=True, exist_ok=True)
+            md_path.write_text(new_md, encoding="utf-8")
 
-    for code, subj_code, inst_code, subject_name, course_name, established_date in rows:
-        url = KURSPLAN_URL.format(code=code)
-        ws.append([
-            code,
-            subj_code,
-            inst_code,
-            established_date or "",
-            subject_name,
-            course_name,
-            "Ingen aktiv kursomgång hittad på kurssidan",
-            url,
-        ])
-        row_idx = ws.max_row
-        code_cell = ws.cell(row=row_idx, column=1)
-        code_cell.hyperlink = url
-        code_cell.font = LINK_FONT
-        url_cell = ws.cell(row=row_idx, column=8)
-        url_cell.hyperlink = url
-        url_cell.font = LINK_FONT
+        wb = Workbook()
+        ws = wb.active
+        ws.title = "Vilande kursplaner"
+        headers = [
+            "Kursplan",
+            "Ämne",
+            "Institution",
+            "Fastställd",
+            "Ämnesnamn",
+            "Kursnamn",
+            "Problem",
+            "Länk",
+        ]
+        ws.append(headers)
+        for cell in ws[1]:
+            cell.font = HEADER_FONT
+            cell.fill = HEADER_FILL
+            cell.alignment = Alignment(horizontal="left", vertical="center")
 
-    widths = [12, 8, 12, 14, 30, 45, 58, 70]
-    for i, width in enumerate(widths, start=1):
-        ws.column_dimensions[get_column_letter(i)].width = width
+        for code, subj_code, inst_c, subject_name, course_name, established_date in inst_rows:
+            url = KURSPLAN_URL.format(code=code)
+            ws.append([
+                code,
+                subj_code,
+                inst_c,
+                established_date or "",
+                subject_name,
+                course_name,
+                "Ingen aktiv kursomgång hittad på kurssidan",
+                url,
+            ])
+            row_idx = ws.max_row
+            code_cell = ws.cell(row=row_idx, column=1)
+            code_cell.hyperlink = url
+            code_cell.font = LINK_FONT
+            url_cell = ws.cell(row=row_idx, column=8)
+            url_cell.hyperlink = url
+            url_cell.font = LINK_FONT
 
-    ws.freeze_panes = "A2"
-    if ws.max_row >= 2:
-        ws.auto_filter.ref = ws.dimensions
+        widths = [12, 8, 12, 14, 30, 45, 58, 70]
+        for i, width in enumerate(widths, start=1):
+            ws.column_dimensions[get_column_letter(i)].width = width
 
-    xlsx_bytes_before = VILANDE_ANALYS_XLSX.read_bytes() if VILANDE_ANALYS_XLSX.exists() else b""
-    if apply:
-        wb.save(VILANDE_ANALYS_XLSX)
-        xlsx_changed = VILANDE_ANALYS_XLSX.read_bytes() != xlsx_bytes_before
-    else:
-        xlsx_changed = bool(rows) or not VILANDE_ANALYS_XLSX.exists()
+        ws.freeze_panes = "A2"
+        if ws.max_row >= 2:
+            ws.auto_filter.ref = ws.dimensions
 
-    return md_changed, xlsx_changed
+        xlsx_bytes_before = xlsx_path.read_bytes() if xlsx_path.exists() else b""
+        if apply:
+            analys_dir.mkdir(parents=True, exist_ok=True)
+            wb.save(xlsx_path)
+            xlsx_changed = xlsx_path.read_bytes() != xlsx_bytes_before
+        else:
+            xlsx_changed = bool(inst_rows) or not xlsx_path.exists()
+
+        results[inst_code] = (md_changed, xlsx_changed)
+
+    return results
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -583,14 +616,26 @@ def main():
         total_vilande += len(vilande_codes)
         total_reactivated += len(reactivated)
 
-    md_changed, xlsx_changed = write_vilande_analysis(vilande_rows, args.apply)
+    rows_by_inst: dict[str, list[tuple[str, str, str, str, str, str | None]]] = defaultdict(list)
+    for row in vilande_rows:
+        inst_c = row[2]
+        if inst_c in INST_DIR_NAME:
+            rows_by_inst[inst_c].append(row)
+
+    results = write_vilande_analysis(rows_by_inst, args.apply)
+    any_md_changed = any(md for md, _ in results.values())
 
     print(f"\n{BOLD}Sammanfattning{RESET}")
     print(f"  Vilande:             {total_vilande}")
     print(f"  Återaktiverade:      {total_reactivated}")
-    print(f"  Vilande-analys.md:   {'ändrad' if md_changed else 'oförändrad'}")
-    print(f"  Vilande-analys.xlsx: {'ändrad' if xlsx_changed else 'oförändrad'}")
-    if not args.apply and (total_vilande or total_reactivated or md_changed):
+    print(f"  Vilande per institution:")
+    for inst_code in INST_DIR_NAME:
+        n_rows = len(rows_by_inst.get(inst_code, []))
+        md_changed, xlsx_changed = results.get(inst_code, (False, False))
+        md_tag = "ändrad" if md_changed else "oförändrad"
+        xlsx_tag = "ändrad" if xlsx_changed else "oförändrad"
+        print(f"    {inst_code:<5} {n_rows:>4} fynd   md: {md_tag:<10} xlsx: {xlsx_tag}")
+    if not args.apply and (total_vilande or total_reactivated or any_md_changed):
         print(f"\n  Kör igen med {BOLD}--apply{RESET} för att skriva ändringarna.")
 
 

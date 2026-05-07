@@ -1,6 +1,6 @@
 ---
 tags: [analys, oversattning]
-up: "[[Analys MOC]]"
+up: "[[ISLL MOC]]"
 status: första pass
 ---
 

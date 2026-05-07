@@ -20,7 +20,8 @@ vault-dalarna-university/   Obsidian vault — living knowledge base
   02 IHV/                   Institution: Health & Welfare
   03 IKS/                   Institution: Culture & Society
   04 ISLL/                  Institution: Language, Literature & Learning
-  05 Analys/                Cross-cutting quality analyses (auto-populated)
+  05 Analys/                (borttagen — analysfiler ligger nu under varje institution)
+  0X {INST}/Analys/         Kvalitetsanalyser per institution (auto-populated)
   Templates/                Obsidian templates
 content -> vault-dalarna-university  Symlink for Quartz site build
 quartz/                     Quartz 4 static site engine

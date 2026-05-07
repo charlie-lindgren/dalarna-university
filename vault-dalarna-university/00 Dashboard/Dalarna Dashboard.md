@@ -19,9 +19,12 @@ Högskolan Dalarna har fyra institutioner. Klicka för att utforska kurs- och ut
 
 ## Kvalitetsanalys
 
-Tvärgående kvalitetsgranskning av samtliga kurs- och utbildningsplaner — språk, frasning, examination, betygsskalor, Bloom-taxonomi och samstämmighet sv/en.
+Tvärgående kvalitetsgranskning av samtliga kurs- och utbildningsplaner — språk, frasning, examination, betygsskalor, Bloom-taxonomi och samstämmighet sv/en. Varje institution har en egen analysmapp.
 
-- [[Analys MOC]] — översikt och samtliga pågående analyser
+- [[01 IIT/Analys/Stavfel och språkbruk|IIT analyser]]
+- [[02 IHV/Analys/Stavfel och språkbruk|IHV analyser]]
+- [[03 IKS/Analys/Stavfel och språkbruk|IKS analyser]]
+- [[04 ISLL/Analys/Stavfel och språkbruk|ISLL analyser]]
 
 ## Om
 

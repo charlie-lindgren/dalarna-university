@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 prune_analysfiler.py — Ta bort lösta fynd ur analysfilerna i
-vault-dalarna-university/05 Analys/.
+varje institutions Analys-mapp (vault-dalarna-university/0X {INST}/Analys/).
 
 Jämför kurskodsuppsättningen i varje analyses callout-tabell mot den
 senaste QA-rapporten. Rader vars kurskod inte längre finns i rapporten
@@ -18,9 +18,19 @@ import sys
 from pathlib import Path
 from collections import defaultdict
 
-REPO_ROOT    = Path(__file__).resolve().parent.parent
-VAULT_ANALYS = REPO_ROOT / "vault-dalarna-university" / "05 Analys"
-RAPPORT_DIR  = Path(__file__).resolve().parent / "rapporter"
+REPO_ROOT     = Path(__file__).resolve().parent.parent
+VAULT         = REPO_ROOT / "vault-dalarna-university"
+INST_DIR_NAME = {
+    "IIT": "01 IIT",
+    "IHV": "02 IHV",
+    "IKS": "03 IKS",
+    "ISLL": "04 ISLL",
+}
+RAPPORT_DIR   = Path(__file__).resolve().parent / "rapporter"
+
+
+def institution_analys_dir(inst_code: str) -> Path:
+    return VAULT / INST_DIR_NAME[inst_code] / "Analys"
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Konfiguration: vilka rapport-sektioner som "äger" varje analysfil
@@ -187,38 +197,49 @@ def main():
 
     total_removed = 0
     for filename, section_prefixes in ANALYS_CONFIG.items():
-        analys_path = VAULT_ANALYS / filename
-        if not analys_path.exists():
-            continue
-
         if filename in PRUNE_MANUAL_ONLY:
-            print(f"  {filename:<50} {'':>3}     hoppas över (manuellt kurerad)")
+            print(f"  {filename:<50} (manuellt kurerad — hoppas över)")
             continue
 
         active = codes_for_sections(rapport, section_prefixes)
-        before, removed = prune_analys_file(analys_path, active, dry_run=True)
 
-        if removed == 0:
-            print(f"  {filename:<50} {before:>3}     ingen förändring")
+        per_inst_results: list[tuple[str, Path, int, int]] = []
+        for inst_code in INST_DIR_NAME:
+            analys_path = institution_analys_dir(inst_code) / filename
+            if not analys_path.exists():
+                continue
+            before, removed = prune_analys_file(analys_path, active, dry_run=True)
+            per_inst_results.append((inst_code, analys_path, before, removed))
+
+        if not per_inst_results:
             continue
 
-        fraction = removed / before if before > 0 else 0
-        status = f"{GREEN}{BOLD}−{removed} lösta{RESET}"
-        if fraction >= LARGE_DELETION_THRESHOLD:
-            status += f"  {YELLOW}({int(fraction*100)}% av rader — stor ändring){RESET}"
+        print(f"  {filename}")
+        for inst_code, analys_path, before, removed in per_inst_results:
+            if removed == 0:
+                print(f"    {inst_code:<5} {before:>3}     ingen förändring")
+                continue
 
-        print(f"  {filename:<50} {before:>3} → {before-removed:>3}  {status}")
-
-        if not dry_run:
+            fraction = removed / before if before > 0 else 0
+            status = f"{GREEN}{BOLD}−{removed} lösta{RESET}"
             if fraction >= LARGE_DELETION_THRESHOLD:
-                answer = input(f"    Bekräfta borttagning av {removed} rader ur {filename}? [j/N]: ").strip().lower()
-                if answer not in ("j", "ja", "y", "yes"):
-                    print(f"    {YELLOW}Hoppas över.{RESET}")
-                    continue
-            prune_analys_file(analys_path, active, dry_run=False)
-            total_removed += removed
-        else:
-            total_removed += removed
+                status += f"  {YELLOW}({int(fraction*100)}% av rader — stor ändring){RESET}"
+
+            print(f"    {inst_code:<5} {before:>3} → {before-removed:>3}  {status}")
+
+            if not dry_run:
+                if fraction >= LARGE_DELETION_THRESHOLD:
+                    answer = input(
+                        f"      Bekräfta borttagning av {removed} rader ur "
+                        f"{inst_code}/{filename}? [j/N]: "
+                    ).strip().lower()
+                    if answer not in ("j", "ja", "y", "yes"):
+                        print(f"      {YELLOW}Hoppas över.{RESET}")
+                        continue
+                prune_analys_file(analys_path, active, dry_run=False)
+                total_removed += removed
+            else:
+                total_removed += removed
 
     print()
     if total_removed > 0:

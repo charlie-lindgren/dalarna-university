@@ -59,3 +59,14 @@ tags: [MOC, institution, IKS]
 - [[Sociologi MOC|Sociologi]] (16 kurser)
 - [[Statsvetenskap MOC|Statsvetenskap]] (36 kurser)
 - [[Turismvetenskap MOC|Turismvetenskap]] (35 kurser)
+
+## Kvalitetsanalys
+
+- [[03 IKS/Analys/Stavfel och språkbruk|Stavfel och språkbruk]]
+- [[03 IKS/Analys/Frasningskonsistens lärandemål|Frasningskonsistens lärandemål]]
+- [[03 IKS/Analys/Omfång på lärandemål|Omfång på lärandemål]]
+- [[03 IKS/Analys/Bloom-taxonomi|Bloom-taxonomi]]
+- [[03 IKS/Analys/Examinationsformer|Examinationsformer]]
+- [[03 IKS/Analys/Betygsskalor|Betygsskalor]]
+- [[03 IKS/Analys/Samstämmighet svenska och engelska|Samstämmighet svenska och engelska]]
+- [[03 IKS/Analys/Vilande kursplaner|Vilande kursplaner]]

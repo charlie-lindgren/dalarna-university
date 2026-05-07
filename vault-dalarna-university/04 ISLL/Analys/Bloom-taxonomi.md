@@ -1,6 +1,6 @@
 ---
 tags: [analys, bloom, larandemal]
-up: "[[Analys MOC]]"
+up: "[[ISLL MOC]]"
 status: första pass
 ---
 

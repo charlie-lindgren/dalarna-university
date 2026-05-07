@@ -5,7 +5,13 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 
-PYTHON="${PYTHON:-python3}"
+# Föredra .venv om den finns, annars systemets python3.
+if [[ -x ".venv/bin/python" ]]; then
+    PYTHON="${PYTHON:-.venv/bin/python}"
+else
+    PYTHON="${PYTHON:-python3}"
+fi
+
 RAPPORT_DIR="qa/rapporter"
 RAPPORT_DIR_UTB="qa/rapporter-utb"
 
@@ -14,6 +20,7 @@ BOLD='\033[1m'
 CYAN='\033[0;36m'
 GREEN='\033[0;32m'
 YELLOW='\033[0;33m'
+MAGENTA='\033[0;35m'
 RESET='\033[0m'
 
 print_header() {
@@ -21,41 +28,86 @@ print_header() {
     echo -e "${CYAN}${BOLD}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${RESET}"
     echo -e "${CYAN}${BOLD}  Högskolan Dalarna — Plananalys${RESET}"
     echo -e "${CYAN}${BOLD}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${RESET}"
+    echo -e "  Python: ${PYTHON}"
     echo ""
 }
 
 print_menu() {
-    echo -e "  ${BOLD}1.${RESET}  Skrapa kursplaner från du.se"
-    echo -e "  ${BOLD}2.${RESET}  Skrapa utbildningsplaner från du.se"
-    echo -e "  ${BOLD}3.${RESET}  QA kursplaner (rapport)"
-    echo -e "  ${BOLD}4.${RESET}  QA utbildningsplaner (rapport)"
-    echo -e "  ${BOLD}5.${RESET}  Jämför kursplan-rapporter (lösta/nya fynd)"
-    echo -e "  ${BOLD}6.${RESET}  Rensa analysfilerna (ta bort lösta fynd)"
-    echo -e "  ${BOLD}7.${RESET}  Populera analysfilerna (från senaste rapport)"
-    echo -e "  ${BOLD}8.${RESET}  Identifiera ej-aktiva kursplaner (orphan-detektor)"
-    echo -e "  ${BOLD}q.${RESET}  Avsluta"
+    echo -e "  ${MAGENTA}${BOLD}Skrapa & bygg${RESET}"
+    echo -e "    ${BOLD}1.${RESET}  ${BOLD}Skrapa ALLA kursplaner${RESET} (inkl. strö-/orphan-koder)"
+    echo -e "    ${BOLD}2.${RESET}  Skrapa kursplaner (endast ordinarie ämnen)"
+    echo -e "    ${BOLD}3.${RESET}  Skrapa utbildningsplaner"
+    echo -e "    ${BOLD}4.${RESET}  Identifiera vilande kursplaner"
+    echo -e "    ${BOLD}5.${RESET}  Bygg Quartz-sajten (public/)"
+    echo -e "    ${BOLD}6.${RESET}  Bygg & förhandsvisa sajten lokalt"
+    echo ""
+    echo -e "  ${MAGENTA}${BOLD}Kvalitetsgranskning${RESET}"
+    echo -e "    ${BOLD}7.${RESET}  QA kursplaner (rapport)"
+    echo -e "    ${BOLD}8.${RESET}  QA utbildningsplaner (rapport)"
+    echo -e "    ${BOLD}9.${RESET}  Jämför kursplan-rapporter (lösta/nya fynd)"
+    echo -e "   ${BOLD}10.${RESET}  Populera analysfilerna (från senaste rapport)"
+    echo -e "   ${BOLD}11.${RESET}  Rensa analysfilerna (ta bort lösta fynd)"
+    echo ""
+    echo -e "    ${BOLD}q.${RESET}  Avsluta"
     echo ""
 }
 
-# ── steg: skrapning kursplaner ──────────────────────────────────────────────
-run_scrape_kurs() {
-    echo -e "${BOLD}Skrapa kursplaner${RESET}"
-    echo ""
+prompt_apply_mode() {
+    # Sätter $APPLY_FLAG till "--apply" eller tom sträng.
+    local mode
     echo "Läge:"
     echo "  a) Dry-run (visa vad som skulle ändras, skriv ingenting)"
-    echo "  b) Apply  (skriv ändringar till vault)"
+    echo "  b) Apply  (skriv ändringar till disk)"
     echo ""
     read -rp "Välj läge [a/b]: " mode
     case "$mode" in
-        b|B)
-            echo -e "${YELLOW}Kör scrape --apply …${RESET}"
-            "$PYTHON" scrape_hda_kursplaner.py --apply
-            ;;
-        *)
-            echo -e "${YELLOW}Kör scrape dry-run …${RESET}"
-            "$PYTHON" scrape_hda_kursplaner.py
-            ;;
+        b|B) APPLY_FLAG="--apply" ;;
+        *)   APPLY_FLAG="" ;;
     esac
+}
+
+# ── steg: skrapa allt (inkl. strökoder) ─────────────────────────────────────
+run_scrape_all() {
+    echo -e "${BOLD}Skrapa ALLA kursplaner från du.se${RESET}"
+    echo ""
+    echo "Detta tar fram alla kursplaner som finns på du.se, inklusive"
+    echo "strö-/orphan-koder som inte syns i ämnes- eller programlistan."
+    echo "Strökoder upptäcks via luckor i kända kurskodsserier"
+    echo "(t.ex. GIK288/GIK290 → GIK289)."
+    echo ""
+    echo -e "${YELLOW}OBS: en fullständig körning kan ta lång tid (många HTTP-anrop).${RESET}"
+    echo ""
+
+    prompt_apply_mode
+
+    local padding
+    read -rp "Strö-padding (utöka spann med N nummer i båda ändar) [0]: " padding
+    padding="${padding:-0}"
+
+    echo ""
+    echo -e "${YELLOW}Kör scrape --discover-stray ${APPLY_FLAG} …${RESET}"
+    # shellcheck disable=SC2086
+    "$PYTHON" scrape_hda_kursplaner.py \
+        --discover-stray \
+        --stray-padding "$padding" \
+        $APPLY_FLAG
+
+    echo ""
+    echo -e "${GREEN}✓ Fullständig kursplan-skrapning klar${RESET}"
+    if [[ -n "$APPLY_FLAG" ]]; then
+        echo "  Tips: kör menyval 4 för att tagga vilande kursplaner."
+    fi
+}
+
+# ── steg: skrapning kursplaner (utan stray) ─────────────────────────────────
+run_scrape_kurs() {
+    echo -e "${BOLD}Skrapa kursplaner (ordinarie ämnen)${RESET}"
+    echo ""
+    prompt_apply_mode
+    echo ""
+    echo -e "${YELLOW}Kör scrape ${APPLY_FLAG} …${RESET}"
+    # shellcheck disable=SC2086
+    "$PYTHON" scrape_hda_kursplaner.py $APPLY_FLAG
     echo -e "${GREEN}✓ Kursplan-skrapning klar${RESET}"
 }
 
@@ -63,22 +115,50 @@ run_scrape_kurs() {
 run_scrape_utb() {
     echo -e "${BOLD}Skrapa utbildningsplaner${RESET}"
     echo ""
-    echo "Läge:"
-    echo "  a) Dry-run"
-    echo "  b) Apply"
+    prompt_apply_mode
     echo ""
-    read -rp "Välj läge [a/b]: " mode
-    case "$mode" in
-        b|B)
-            echo -e "${YELLOW}Kör scrape --apply …${RESET}"
-            "$PYTHON" scrape_hda_utbildningsplaner.py --apply
-            ;;
-        *)
-            echo -e "${YELLOW}Kör scrape dry-run …${RESET}"
-            "$PYTHON" scrape_hda_utbildningsplaner.py
-            ;;
-    esac
+    echo -e "${YELLOW}Kör scrape ${APPLY_FLAG} …${RESET}"
+    # shellcheck disable=SC2086
+    "$PYTHON" scrape_hda_utbildningsplaner.py $APPLY_FLAG
     echo -e "${GREEN}✓ Utbildningsplan-skrapning klar${RESET}"
+}
+
+# ── steg: identifiera vilande kursplaner ────────────────────────────────────
+run_vilande() {
+    echo -e "${BOLD}Identifiera vilande kursplaner${RESET}"
+    echo ""
+    echo "Jämför vault mot du.se och taggar kurser utan aktiv kursomgång som"
+    echo "vilande (uppdaterar även 0X {INST}/Analys/Vilande kursplaner.md/.xlsx)."
+    echo ""
+    prompt_apply_mode
+    echo ""
+    # shellcheck disable=SC2086
+    "$PYTHON" qa/identify_ej_aktiv.py $APPLY_FLAG
+}
+
+# ── steg: bygg Quartz-sajten ────────────────────────────────────────────────
+run_build_site() {
+    echo -e "${BOLD}Bygg Quartz-sajten${RESET}"
+    echo ""
+    if [[ ! -d node_modules ]]; then
+        echo -e "${YELLOW}node_modules saknas — kör npm ci först …${RESET}"
+        npm ci
+    fi
+    echo -e "${YELLOW}Kör npx quartz build …${RESET}"
+    npx quartz build
+    echo -e "${GREEN}✓ Sajten byggd till public/${RESET}"
+}
+
+# ── steg: bygg & förhandsvisa ───────────────────────────────────────────────
+run_serve_site() {
+    echo -e "${BOLD}Bygg & förhandsvisa sajten${RESET}"
+    echo ""
+    if [[ ! -d node_modules ]]; then
+        echo -e "${YELLOW}node_modules saknas — kör npm ci först …${RESET}"
+        npm ci
+    fi
+    echo -e "${YELLOW}Kör npx quartz build --serve (Ctrl-C för att avsluta) …${RESET}"
+    npx quartz build --serve
 }
 
 # ── steg: QA kursplaner ─────────────────────────────────────────────────────
@@ -98,12 +178,13 @@ run_qa_kurs() {
     fi
 
     echo -e "${YELLOW}Kör QA-kontroller …${RESET}"
+    # shellcheck disable=SC2086
     "$PYTHON" qa/check_kursplaner.py $SKIP_HUNSPELL --out "$OUTFILE"
 
     echo ""
     echo -e "${GREEN}✓ QA-rapport sparad: ${BOLD}${OUTFILE}${RESET}"
     echo ""
-    echo "  Nästa steg: kör menyval 7 för att populera analysfilerna i 03 Analys/."
+    echo "  Nästa steg: kör menyval 10 för att populera analysfilerna i varje institutions Analys-mapp."
 }
 
 # ── steg: QA utbildningsplaner ──────────────────────────────────────────────
@@ -123,6 +204,7 @@ run_qa_utb() {
     fi
 
     echo -e "${YELLOW}Kör QA-kontroller …${RESET}"
+    # shellcheck disable=SC2086
     "$PYTHON" qa/check_utbildningsplaner.py $SKIP_HUNSPELL --out "$OUTFILE"
 
     echo ""
@@ -166,58 +248,31 @@ run_diff() {
     "$PYTHON" qa/diff_rapporter.py "$OLD" "$NEW"
 }
 
-# ── steg: rensa analysfilerna ───────────────────────────────────────────────
-run_prune() {
-    echo -e "${BOLD}Rensa analysfilerna${RESET}"
-    echo ""
-    echo "Läge:"
-    echo "  a) Dry-run"
-    echo "  b) Apply"
-    echo ""
-    read -rp "Välj läge [a/b]: " mode
-    echo ""
-    case "$mode" in
-        b|B) "$PYTHON" qa/prune_analysfiler.py ;;
-        *)   "$PYTHON" qa/prune_analysfiler.py --dry-run ;;
-    esac
-}
-
 # ── steg: populera analysfilerna ────────────────────────────────────────────
 run_populate() {
     echo -e "${BOLD}Populera analysfilerna${RESET}"
     echo ""
-    echo "Läge:"
-    echo "  a) Dry-run"
-    echo "  b) Apply"
+    prompt_apply_mode
     echo ""
-    read -rp "Välj läge [a/b]: " mode
-    echo ""
-    case "$mode" in
-        b|B) "$PYTHON" qa/populate_analysfiler.py ;;
-        *)   "$PYTHON" qa/populate_analysfiler.py --dry-run ;;
-    esac
+    if [[ -n "$APPLY_FLAG" ]]; then
+        "$PYTHON" qa/populate_analysfiler.py
+    else
+        "$PYTHON" qa/populate_analysfiler.py --dry-run
+    fi
 }
 
-
-# ── steg: identifiera ej-aktiva kursplaner ──────────────────────────────────
-run_ej_aktiv() {
-    echo -e "${BOLD}Identifiera ej-aktiva kursplaner${RESET}"
+# ── steg: rensa analysfilerna ───────────────────────────────────────────────
+run_prune() {
+    echo -e "${BOLD}Rensa analysfilerna${RESET}"
     echo ""
-    echo "Hämtar nuvarande kurslistor från du.se och jämför mot vault."
-    echo "Tar några minuter."
+    prompt_apply_mode
     echo ""
-    echo "Läge:"
-    echo "  a) Dry-run"
-    echo "  b) Apply"
-    echo ""
-    read -rp "Välj läge [a/b]: " mode
-    echo ""
-    case "$mode" in
-        b|B) "$PYTHON" qa/identify_ej_aktiv.py --apply ;;
-        *)   "$PYTHON" qa/identify_ej_aktiv.py ;;
-    esac
+    if [[ -n "$APPLY_FLAG" ]]; then
+        "$PYTHON" qa/prune_analysfiler.py
+    else
+        "$PYTHON" qa/prune_analysfiler.py --dry-run
+    fi
 }
-
 
 print_header
 while true; do
@@ -225,20 +280,23 @@ while true; do
     read -rp "Val: " choice
     echo ""
     case "$choice" in
-        1) run_scrape_kurs ;;
-        2) run_scrape_utb ;;
-        3) run_qa_kurs ;;
-        4) run_qa_utb ;;
-        5) run_diff ;;
-        6) run_prune ;;
-        7) run_populate ;;
-        8) run_ej_aktiv ;;
+        1)  run_scrape_all ;;
+        2)  run_scrape_kurs ;;
+        3)  run_scrape_utb ;;
+        4)  run_vilande ;;
+        5)  run_build_site ;;
+        6)  run_serve_site ;;
+        7)  run_qa_kurs ;;
+        8)  run_qa_utb ;;
+        9)  run_diff ;;
+        10) run_populate ;;
+        11) run_prune ;;
         q|Q|quit|exit)
             echo "Hejdå."
             exit 0
             ;;
         *)
-            echo -e "${YELLOW}Ogiltigt val — ange 1–8 eller q.${RESET}"
+            echo -e "${YELLOW}Ogiltigt val — ange 1–11 eller q.${RESET}"
             ;;
     esac
     echo ""

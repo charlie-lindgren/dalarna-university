@@ -41,3 +41,14 @@ tags: [MOC, institution, ISLL]
 - [[Svenska MOC|Svenska]] (16 kurser)
 - [[Svenska som andraspråk MOC|Svenska som andraspråk]] (61 kurser)
 - [[Tyska MOC|Tyska]] (48 kurser)
+
+## Kvalitetsanalys
+
+- [[04 ISLL/Analys/Stavfel och språkbruk|Stavfel och språkbruk]]
+- [[04 ISLL/Analys/Frasningskonsistens lärandemål|Frasningskonsistens lärandemål]]
+- [[04 ISLL/Analys/Omfång på lärandemål|Omfång på lärandemål]]
+- [[04 ISLL/Analys/Bloom-taxonomi|Bloom-taxonomi]]
+- [[04 ISLL/Analys/Examinationsformer|Examinationsformer]]
+- [[04 ISLL/Analys/Betygsskalor|Betygsskalor]]
+- [[04 ISLL/Analys/Samstämmighet svenska och engelska|Samstämmighet svenska och engelska]]
+- [[04 ISLL/Analys/Vilande kursplaner|Vilande kursplaner]]

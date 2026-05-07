@@ -32,3 +32,14 @@ tags: [MOC, institution, IHV]
 - [[Sexuell, reproduktiv och perinatal hälsa MOC|Sexuell, reproduktiv och perinatal hälsa]] (38 kurser)
 - [[Socialt arbete MOC|Socialt arbete]] (64 kurser)
 - [[Vårdvetenskap MOC|Vårdvetenskap]] (6 kurser)
+
+## Kvalitetsanalys
+
+- [[02 IHV/Analys/Stavfel och språkbruk|Stavfel och språkbruk]]
+- [[02 IHV/Analys/Frasningskonsistens lärandemål|Frasningskonsistens lärandemål]]
+- [[02 IHV/Analys/Omfång på lärandemål|Omfång på lärandemål]]
+- [[02 IHV/Analys/Bloom-taxonomi|Bloom-taxonomi]]
+- [[02 IHV/Analys/Examinationsformer|Examinationsformer]]
+- [[02 IHV/Analys/Betygsskalor|Betygsskalor]]
+- [[02 IHV/Analys/Samstämmighet svenska och engelska|Samstämmighet svenska och engelska]]
+- [[02 IHV/Analys/Vilande kursplaner|Vilande kursplaner]]

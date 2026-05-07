@@ -1,7 +1,12 @@
 #!/usr/bin/env python3
 """
-populate_analysfiler.py — Fyll varje analysfil i vault-dalarna-university/05 Analys/
-med fynd från senaste QA-rapporten.
+populate_analysfiler.py — Fyll analysfilerna i
+vault-dalarna-university/0X {INST}/Analys/ med fynd från senaste QA-rapporten.
+
+Varje fynd klassas till en institution genom att slå upp kurskoden mot
+kursplansfilernas placering i vaulten (med fallback till `institution:` i
+frontmatter). Rapportens fynd partitioneras därefter per institution och
+skrivs till varje institutions egna analysfiler.
 
 Idempotent: hittar callout-blocket `> [!example]- ... fynd ...` i analysfilen,
 och ersätter det med ett nytt block byggt från rapporten. All övrig prosa
@@ -22,9 +27,49 @@ from openpyxl import Workbook
 from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
 
-REPO_ROOT    = Path(__file__).resolve().parent.parent
-VAULT_ANALYS = REPO_ROOT / "vault-dalarna-university" / "05 Analys"
-RAPPORT_DIR  = Path(__file__).resolve().parent / "rapporter"
+REPO_ROOT     = Path(__file__).resolve().parent.parent
+VAULT         = REPO_ROOT / "vault-dalarna-university"
+INST_DIR_NAME = {
+    "IIT": "01 IIT",
+    "IHV": "02 IHV",
+    "IKS": "03 IKS",
+    "ISLL": "04 ISLL",
+}
+RAPPORT_DIR   = Path(__file__).resolve().parent / "rapporter"
+
+COURSE_CODE_RE = re.compile(r"^[A-ZÅÄÖ0-9]{4,8}$")
+
+
+def institution_analys_dir(inst_code: str) -> Path:
+    return VAULT / INST_DIR_NAME[inst_code] / "Analys"
+
+
+def build_code_to_institution_map() -> dict[str, str]:
+    """Skanna vaulten och bygg `kurskod -> institutionskod` baserat på
+    kursfilernas placering. Filplacering är auktoritativ; vid kollision
+    läses `institution:` i frontmatter som tiebreaker."""
+    mapping: dict[str, str] = {}
+    for inst_code, dirname in INST_DIR_NAME.items():
+        kp = VAULT / dirname / "Kursplaner"
+        if not kp.exists():
+            continue
+        for md in kp.rglob("*.md"):
+            if "MOC" in md.stem:
+                continue
+            stem = md.stem
+            if not COURSE_CODE_RE.match(stem):
+                continue
+            if stem in mapping and mapping[stem] != inst_code:
+                try:
+                    text = md.read_text(encoding="utf-8", errors="replace")
+                    m = re.search(r'^institution:\s*"?(\w+)"?', text, re.MULTILINE)
+                    if m:
+                        mapping[stem] = m.group(1)
+                except Exception:
+                    pass
+            else:
+                mapping[stem] = inst_code
+    return mapping
 
 # Analysfil → (rapport-sektionsprefix → "Problem"-etikett i analystabellen)
 ANALYS_FILES: dict[str, dict[str, str]] = {
@@ -249,44 +294,67 @@ def main():
     for sec, code, subj, detail in rapport_rows:
         by_section[sec].append((code, subj, detail))
 
-    for filename, section_map in ANALYS_FILES.items():
-        analys_path = VAULT_ANALYS / filename
-        if not analys_path.exists():
-            print(f"  {filename:<50}  {YELLOW}saknas — hoppar över{RESET}")
-            continue
+    code_to_inst = build_code_to_institution_map()
+    unmapped: set[str] = set()
 
-        rows: list[tuple[str, str, str, str]] = []
+    for filename, section_map in ANALYS_FILES.items():
+        all_rows: list[tuple[str, str, str, str]] = []
         for section_label, problem_label in section_map.items():
             for code, subj, detail in by_section.get(section_label, []):
-                rows.append((code, subj, problem_label, detail))
+                all_rows.append((code, subj, problem_label, detail))
 
-        rows.sort(key=lambda r: (r[1], r[0]))  # sort by subj, then code
+        all_rows.sort(key=lambda r: (r[1], r[0]))  # by subj, then code
 
-        xlsx_filename = analys_path.stem + ".xlsx"
-        xlsx_path = analys_path.with_suffix(".xlsx")
+        rows_by_inst: dict[str, list[tuple[str, str, str, str]]] = {
+            inst: [] for inst in INST_DIR_NAME
+        }
+        for row in all_rows:
+            code = row[0]
+            inst = code_to_inst.get(code)
+            if inst is None:
+                unmapped.add(code)
+                continue
+            rows_by_inst.setdefault(inst, []).append(row)
 
-        callout_lines = build_callout(rows, xlsx_filename)
+        print(f"  {filename}")
+        for inst_code in INST_DIR_NAME:
+            analys_path = institution_analys_dir(inst_code) / filename
+            rows = rows_by_inst.get(inst_code, [])
 
-        original = analys_path.read_text(encoding="utf-8")
-        new_text = replace_callout(original, callout_lines)
+            if not analys_path.exists():
+                print(f"    {inst_code:<5} {len(rows):>4} fynd  "
+                      f"{YELLOW}saknar {filename} — hoppar över{RESET}")
+                continue
 
-        if new_text is None:
-            print(f"  {filename:<50}  {YELLOW}inget callout-block hittades — hoppar över{RESET}")
-            continue
+            xlsx_filename = analys_path.stem + ".xlsx"
+            xlsx_path = analys_path.with_suffix(".xlsx")
+            callout_lines = build_callout(rows, xlsx_filename)
 
-        md_changed = new_text != original
-        verb = "skulle skrivas" if dry_run else "skrev"
+            original = analys_path.read_text(encoding="utf-8")
+            new_text = replace_callout(original, callout_lines)
 
-        if md_changed:
-            print(f"  {filename:<50}  {len(rows):>4} fynd  {GREEN}{verb} md{RESET}")
+            if new_text is None:
+                print(f"    {inst_code:<5} {len(rows):>4} fynd  "
+                      f"{YELLOW}inget callout-block — hoppar över{RESET}")
+                continue
+
+            md_changed = new_text != original
+            verb = "skulle skrivas" if dry_run else "skrev"
+
+            if md_changed:
+                print(f"    {inst_code:<5} {len(rows):>4} fynd  "
+                      f"{GREEN}{verb} md{RESET}")
+                if not dry_run:
+                    analys_path.write_text(new_text, encoding="utf-8")
+            else:
+                print(f"    {inst_code:<5} {len(rows):>4} fynd  (md oförändrad)")
+
             if not dry_run:
-                analys_path.write_text(new_text, encoding="utf-8")
-        else:
-            print(f"  {filename:<50}  {len(rows):>4} fynd  (md oförändrad)")
+                build_xlsx(rows, xlsx_path, sheet_title=analys_path.stem)
 
-        if not dry_run:
-            build_xlsx(rows, xlsx_path, sheet_title=analys_path.stem)
-            print(f"    └─ {GREEN}{verb}{RESET}  {xlsx_filename}  ({len(rows)} rader)")
+    if unmapped:
+        print(f"\n  {YELLOW}{len(unmapped)} kurs(er) gick inte att klassa till institution"
+              f" och hoppades över: {', '.join(sorted(unmapped))}{RESET}")
 
     print()
 

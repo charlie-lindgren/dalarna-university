@@ -1000,6 +1000,25 @@ def build_institution_moc(inst_code: str, subjects: list[dict],
             lines.append(f"- [[{s['name']} MOC|{s['name']}]] ({count} kurser)")
         lines.append("")
 
+    # Kvalitetsanalys per institution: länka till institutionens egen Analys-mapp.
+    inst_dir = {"IIT": "01 IIT", "IHV": "02 IHV", "IKS": "03 IKS", "ISLL": "04 ISLL"}.get(inst_code)
+    if inst_dir:
+        analys_files = [
+            "Stavfel och språkbruk",
+            "Frasningskonsistens lärandemål",
+            "Omfång på lärandemål",
+            "Bloom-taxonomi",
+            "Examinationsformer",
+            "Betygsskalor",
+            "Samstämmighet svenska och engelska",
+            "Vilande kursplaner",
+        ]
+        lines.append("## Kvalitetsanalys")
+        lines.append("")
+        for name in analys_files:
+            lines.append(f"- [[{inst_dir}/Analys/{name}|{name}]]")
+        lines.append("")
+
     return "\n".join(lines)
 
 
@@ -1266,7 +1285,7 @@ def main():
                     continue
 
                 if not args.quiet:
-                      print(f"  [{course_num}/{total_to_process}] {code} ({c['name']})...",
+                    print(f"  [{course_num}/{total_to_process}] {code} ({c['name']})...",
                           end=" ", flush=True)
 
                 try:

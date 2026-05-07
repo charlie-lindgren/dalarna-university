@@ -1,6 +1,6 @@
 ---
 tags: [analys, kurslivscykel, vilande]
-up: "[[Analys MOC]]"
+up: "[[IIT MOC]]"
 status: första pass
 ---
 

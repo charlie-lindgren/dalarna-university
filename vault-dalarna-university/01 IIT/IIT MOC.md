@@ -52,3 +52,14 @@ tags: [MOC, institution, IIT]
 - [[Mikrodataanalys MOC|Mikrodataanalys]] (70 kurser)
 - [[Samhällsbyggnadsteknik MOC|Samhällsbyggnadsteknik]] (16 kurser)
 - [[Statistik MOC|Statistik]] (4 kurser)
+
+## Kvalitetsanalys
+
+- [[01 IIT/Analys/Stavfel och språkbruk|Stavfel och språkbruk]]
+- [[01 IIT/Analys/Frasningskonsistens lärandemål|Frasningskonsistens lärandemål]]
+- [[01 IIT/Analys/Omfång på lärandemål|Omfång på lärandemål]]
+- [[01 IIT/Analys/Bloom-taxonomi|Bloom-taxonomi]]
+- [[01 IIT/Analys/Examinationsformer|Examinationsformer]]
+- [[01 IIT/Analys/Betygsskalor|Betygsskalor]]
+- [[01 IIT/Analys/Samstämmighet svenska och engelska|Samstämmighet svenska och engelska]]
+- [[01 IIT/Analys/Vilande kursplaner|Vilande kursplaner]]
