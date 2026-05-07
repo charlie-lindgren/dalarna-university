@@ -8,37 +8,79 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (27 rader)</span></a>
+<a class="download-xlsx" href="Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (69 rader)</span></a>
 
-> [!example]- 27 fynd — klicka för att expandera
+> [!example]- 69 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
 > | [ABY2BL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABY2BL) | BYA | Felstavning (en) | `witten` (en) |
-> | [BY1047](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1047) | BYA | Felstavning (en) | `buildingprocess` (en) |
-> | [BY1047](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1047) | BYA | Felstavning (en) | `competion` (en) |
-> | [BY1047](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1047) | BYA | Felstavning (en) | `shouldbe` (en) |
+> | [BY1065](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1065) | BYA | Felstavning | `connectmöten` (sv) |
+> | [BY2016](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY2016) | BYA | Felstavning (en) | `knowledges` (en) |
+> | [BY2016](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY2016) | BYA | Felstavning (en) | `standars` (en) |
+> | [BY2016](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY2016) | BYA | Felstavning (en) | `xxxxx` (en) |
+> | [BY3005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY3005) | BYA | Felstavning (en) | `neighbourhood` (en) |
+> | [BY3005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY3005) | BYA | Felstavning (en) | `neighbourhoods` (en) |
+> | [GBY34B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY34B) | BYA | Felstavning | `tillämningar` (sv) |
+> | [GBY34B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY34B) | BYA | Felstavning | `vägprojekteringshjälpmedel` (sv) |
 > | [BFY224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY224) | FYA | Felstavning | `preparandnivå` (sv) |
 > | [BFY225](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY225) | FYA | Felstavning (en) | `fup` (en) |
 > | [BFY226](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY226) | FYA | Felstavning (en) | `fup` (en) |
 > | [BFY227](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY227) | FYA | Felstavning (en) | `fup` (en) |
+> | [GIE3JW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3JW) | IEA | Felstavning | `affärsplanbedömningar` (sv) |
 > | [AIK232](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AIK232) | IKA | Felstavning (en) | `immon` (en) |
 > | [GIK29B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK29B) | IKA | Felstavning (en) | `vgs` (en) |
 > | [GMA2EY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2EY) | MAA | Felstavning (en) | `indicies` (en) |
 > | [MA0011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MA0011) | MAA | Felstavning | `preparandnivå` (sv) |
 > | [MA0013](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MA0013) | MAA | Felstavning | `preparandnivå` (sv) |
-> | [GMD2PA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2PA) | MDI | Felstavning (en) | `exeptions` (en) |
+> | [MA1042](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MA1042) | MAA | Felstavning | `reellvärda` (sv) |
+> | [MD1085](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD1085) | MDI | Felstavning | `förutsättingar` (sv) |
+> | [MD1097](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD1097) | MDI | Felstavning (en) | `babylonian` (en) |
+> | [MD1097](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD1097) | MDI | Felstavning (en) | `mayan` (en) |
+> | [MD1097](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD1097) | MDI | Felstavning (en) | `sumerian` (en) |
+> | [MD1098](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD1098) | MDI | Felstavning (en) | `pupls` (en) |
+> | [GMT25Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT25Z) | MTA | Felstavning | `avstämmningar` (sv) |
+> | [GMT25Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT25Z) | MTA | Felstavning | `startgodkännandeformulär` (sv) |
+> | [GMT25Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT25Z) | MTA | Felstavning (en) | `minumum` (en) |
+> | [GMT2QF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT2QF) | MTA | Felstavning (en) | `reults` (en) |
 > | [GMT34K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34K) | MTA | Felstavning (en) | `programing` (en) |
 > | [GMT34R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34R) | MTA | Felstavning (en) | `variousengineering` (en) |
+> | [GMT3JQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JQ) | MTA | Felstavning (en) | `mechatronic` (en) |
+> | [GMT3JT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JT) | MTA | Felstavning | `eu-förordningen` (sv) |
+> | [GMT3JV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JV) | MTA | Felstavning (en) | `cobots` (en) |
+> | [MT1060](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT1060) | MTA | Felstavning | `böjmotstånd` (sv) |
+> | [MT1060](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT1060) | MTA | Felstavning | `vridspänningar` (sv) |
+> | [MT2006](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT2006) | MTA | Felstavning | `höckerlind` (sv) |
+> | [AEG225](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG225) | MÖY | Felstavning | `produktionskattelättnader` (sv) |
+> | [AEG225](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG225) | MÖY | Felstavning | `softlån` (sv) |
+> | [AEG22R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG22R) | MÖY | Felstavning | `mättteknik` (sv) |
 > | [AEG2AL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AL) | MÖY | Felstavning (en) | `andrelate` (en) |
 > | [AEG2AQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AQ) | MÖY | Felstavning (en) | `adress` (en) |
+> | [AEG2AW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AW) | MÖY | Felstavning (en) | `wich` (en) |
+> | [AEG2AY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AY) | MÖY | Felstavning | `inlämninguppgifter` (sv) |
 > | [AEG2C5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2C5) | MÖY | Felstavning (en) | `laboatory` (en) |
+> | [EG3007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3007) | MÖY | Felstavning (en) | `absorbers` (en) |
+> | [EG3012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3012) | MÖY | Felstavning (en) | `bioenergy` (en) |
+> | [EG3012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3012) | MÖY | Felstavning (en) | `biofuel` (en) |
 > | [EG3014](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3014) | MÖY | Felstavning (en) | `appropiate` (en) |
 > | [EG3014](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3014) | MÖY | Felstavning (en) | `crediits` (en) |
+> | [EG3015](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3015) | MÖY | Felstavning (en) | `horizontoscope` (en) |
+> | [EG3017](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3017) | MÖY | Felstavning | `genomförds` (sv) |
+> | [EG3018](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3018) | MÖY | Felstavning | `genomförds` (sv) |
+> | [EG4001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG4001) | MÖY | Felstavning (en) | `continuewith` (en) |
+> | [EG4001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG4001) | MÖY | Felstavning (en) | `fulltime` (en) |
+> | [EG4001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG4001) | MÖY | Felstavning (en) | `insolation` (en) |
+> | [GEG26J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG26J) | MÖY | Felstavning (en) | `tutoria` (en) |
+> | [GEG2UL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2UL) | MÖY | Felstavning (en) | `microsystems` (en) |
+> | [GEG2ZQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZQ) | MÖY | Felstavning | `inlämninguppgifter` (sv) |
+> | [GEG2ZQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZQ) | MÖY | Felstavning | `solcellsanläggingar` (sv) |
+> | [GEG2ZQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZQ) | MÖY | Felstavning | `solstrålsberäkningar` (sv) |
 > | [GEG2ZR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZR) | MÖY | Felstavning | `inlämingsuppgifter` (sv) |
+> | [GSQ25J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25J) | SQQ | Dubblerat ord | `hp` — …ch skriftliga inlämningsuppgifter i kvantitativa metoder, 4 hp hp  ## Arbetsformer  Föreläsningar, seminarier och övningar.… |
+> | [GSQ25K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25K) | SQQ | Felstavning | `gis-övningar` (sv) |
+> | [GSQ25K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25K) | SQQ | Felstavning | `skalniåver` (sv) |
 > | [GSQ33N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ33N) | SQQ | Felstavning | `skalniåver` (sv) |
 > | [GMI23G](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI23G) | XYZ | Felstavning (en) | `eulides` (en) |
-> | [GMI2C8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI2C8) | XYZ | Felstavning (en) | `credtis` (en) |
 > | [GMI2C8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI2C8) | XYZ | Felstavning (en) | `mathodology` (en) |
 > | [GMI2J3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI2J3) | XYZ | Felstavning (en) | `discusess` (en) |
 

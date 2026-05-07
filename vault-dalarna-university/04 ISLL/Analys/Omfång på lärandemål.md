@@ -8,13 +8,15 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (254 rader)</span></a>
+<a class="download-xlsx" href="Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (359 rader)</span></a>
 
-> [!example]- 254 fynd — klicka för att expandera
+> [!example]- 359 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
 > | [AAR29B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AAR29B) | ARA | Långt mål | 26 ord: - inom givna tidsramar genomföra en självständig litteraturvetenskaplig studie m… |
+> | [AR1003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR1003) | ARA | Långt mål | 26 ord: - översiktligt redogöra, både muntligt och skriftligt, för några av de mer centr… |
+> | [GAR2SQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR2SQ) | ARA | Långt mål | 26 ord: - redogöra kortfattat både muntligt och skriftligt för några av de mer betydelse… |
 > | [AEN252](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN252) | ENA | Långt mål | 33 ord: - kommunicera och argumentera i tal och skrift för sina egna tolkningar och krit… |
 > | [AEN299](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN299) | ENA | Långt mål | 33 ord: - i tal och skrift framföra och argumentera för sina egna tolkningar av, och kri… |
 > | [AEN29A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN29A) | ENA | Långt mål | 30 ord: - på en tydlig och korrekt akademisk engelska framföra och argumentera i tal och… |
@@ -24,16 +26,36 @@ status: första pass
 > | [AEN2BW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BW) | ENA | Långt mål | 28 ord: - redogöra för och kritiskt reflektera över politiska, kulturella och etiska frå… |
 > | [AEN2BZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BZ) | ENA | Långt mål | 27 ord: - självständigt analysera ett urval litterära verk från olika epoker som fokuser… |
 > | [AEN2C2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2C2) | ENA | Långt mål | 28 ord: - med hög språklig kommunikationsförmåga, skriftligt såväl som muntligt presente… |
+> | [EN1086](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN1086) | ENA | Långt mål | 39 ord: - beskriva och förklara grundläggande språkliga strukturer och företeelser (t.ex… |
+> | [EN1086](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN1086) | ENA | Långt mål | 26 ord: - tillämpa sina kunskaper om, och förståelse av, det engelska språkets struktur … |
+> | [EN1086](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN1086) | ENA | Långt mål | 30 ord: - identifiera grammatiska och stilistiska fel i en egenproducerad text, rätta de… |
+> | [EN1086](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN1086) | ENA | Långt mål | 30 ord: - identifiera de vanligaste problemen som inlärare av engelska har samt beskriva… |
+> | [EN1129](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN1129) | ENA | Långt mål | 27 ord: - visa insikt i hur engelska används skriftligt på olika sätt i olika situatione… |
+> | [EN2025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN2025) | ENA | Långt mål | 26 ord: - visa fördjupad kunskap och förståelse om ett urval samtida litterära verk från… |
+> | [EN2025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN2025) | ENA | Långt mål | 30 ord: - i skrift och tal kommunicera och argumentera för sina egna tolkningar av de li… |
 > | [EN2028](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN2028) | ENA | Långt mål | 27 ord: - inom givna tidsramar genomföra en självständig litteraturvetenskaplig studie m… |
 > | [EN2034](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN2034) | ENA | Långt mål | 35 ord: - resonera kring hur man tolkar språkvetenskapliga resultat, vilket inbegriper h… |
 > | [EN2035](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN2035) | ENA | Långt mål | 27 ord: - inom givna tidsramar genomföra en självständig språkvetenskaplig studie med kr… |
 > | [EN2043](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN2043) | ENA | För många mål | 25 lärandemål (maximum rekommenderat: 12) |
 > | [EN2043](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN2043) | ENA | Långt mål | 27 ord: - inom givna tidsramar genomföra en självständig språkvetenskaplig studie med kr… |
 > | [EN2043](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN2043) | ENA | Långt mål | 35 ord: - resonera kring hur man tolkar språkvetenskapliga resultat, vilket inbegriper h… |
+> | [EN2046](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN2046) | ENA | För många mål | 15 lärandemål (maximum rekommenderat: 12) |
+> | [EN2046](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN2046) | ENA | Långt mål | 35 ord: - resonera kring hur man tolkar språkvetenskapliga resultat, vilket inbegriper h… |
+> | [EN2047](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN2047) | ENA | Långt mål | 26 ord: - visa förmåga att i skriftlig och muntlig form presentera och argumentera för e… |
 > | [EN3062](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3062) | ENA | Långt mål | 31 ord: - föra en fördjupad kritisk diskussion kring begrepp som identitet, liminalitet … |
 > | [EN3062](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3062) | ENA | Långt mål | 33 ord: - i skrift och tal kommunicera och argumentera för sina egna tolkningar och krit… |
 > | [EN3063](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3063) | ENA | Långt mål | 26 ord: - inom givna tidsramar genomföra en självständig litteraturvetenskaplig studie m… |
 > | [EN3063](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3063) | ENA | Långt mål | 31 ord: - med högt ställda krav på språklig kommunikationsförmåga, skriftligt såväl som … |
+> | [EN3064](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3064) | ENA | För få mål | 2 lärandemål (minimum rekommenderat: 4) |
+> | [EN3064](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3064) | ENA | Långt mål | 26 ord: - visa förtrogenhet med aktuella forskningsfrågor, begrepp och teorier inom väst… |
+> | [EN3070](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3070) | ENA | Långt mål | 32 ord: - visa fördjupad förmåga att, med högt ställda krav på skriftlig och muntlig kom… |
+> | [EN3070](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3070) | ENA | Långt mål | 26 ord: - visa fördjupad förmåga att analysera, värdera och diskutera andras vetenskapli… |
+> | [EN3071](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3071) | ENA | För många mål | 20 lärandemål (maximum rekommenderat: 12) |
+> | [EN3071](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3071) | ENA | Långt mål | 27 ord: - diskutera olika sätt på vilka situationella faktorer kan påverka diskursen och… |
+> | [EN3071](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3071) | ENA | Långt mål | 31 ord: - identifiera vilka de karakteristiska egenskaperna är hos olika typer av text, … |
+> | [EN3071](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3071) | ENA | Långt mål | 28 ord: - genomföra ett begränsat forskningsprojekt baserat på en liten samling med aute… |
+> | [EN3071](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3071) | ENA | Långt mål | 32 ord: - visa fördjupad förmåga att, med högt ställda krav på skriftlig och muntlig kom… |
+> | [EN3071](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3071) | ENA | Långt mål | 26 ord: - visa fördjupad förmåga att analysera, värdera och diskutera andras vetenskapli… |
 > | [EN3072](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3072) | ENA | Långt mål | 27 ord: - diskutera olika sätt på vilka situationella faktorer kan påverka diskursen och… |
 > | [EN3072](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3072) | ENA | Långt mål | 31 ord: - identifiera vilka de karakteristiska egenskaperna är hos olika typer av text, … |
 > | [EN3072](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3072) | ENA | Långt mål | 28 ord: - genomföra ett begränsat forskningsprojekt baserat på en liten samling med aute… |
@@ -48,6 +70,9 @@ status: första pass
 > | [EN3077](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3077) | ENA | Långt mål | 30 ord: - uppvisa en avancerad kunskap om ett av områdena inom tillämpad engelsk lingvis… |
 > | [EN3077](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3077) | ENA | Långt mål | 28 ord: - visa förmåga att analysera, kritiskt bedöma och hantera komplexa företeelser o… |
 > | [EN3077](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3077) | ENA | Långt mål | 26 ord: - visa på förmåga att utveckla en forskningsfråga med stöd från handledaren och … |
+> | [GEN222](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN222) | ENA | För många mål | 31 lärandemål (maximum rekommenderat: 12) |
+> | [GEN222](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN222) | ENA | Långt mål | 33 ord: - visa fördjupad förståelse för elevers syn på och upplevelser av sitt språklära… |
+> | [GEN222](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN222) | ENA | Långt mål | 29 ord: - redogöra för olika former av informations- och digitala hjälpmedel för att utv… |
 > | [GEN28Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN28Q) | ENA | För många mål | 23 lärandemål (maximum rekommenderat: 12) |
 > | [GEN28Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN28Q) | ENA | Långt mål | 28 ord: - i skrift och tal kommunicera och argumentera för sina egna tolkningar av litte… |
 > | [GEN28Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN28Q) | ENA | Långt mål | 30 ord: - redogöra för hur olika former av digitala verktyg kan användas för att utveckl… |
@@ -55,11 +80,15 @@ status: första pass
 > | [GEN2BJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2BJ) | ENA | Långt mål | 28 ord: - muntligt och skriftligt diskutera och motivera val av innehåll, material och a… |
 > | [GEN2BK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2BK) | ENA | För många mål | 17 lärandemål (maximum rekommenderat: 12) |
 > | [GEN2LD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2LD) | ENA | För många mål | 14 lärandemål (maximum rekommenderat: 12) |
+> | [GEN2VE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2VE) | ENA | För få mål | 3 lärandemål (minimum rekommenderat: 4) |
+> | [GEN2VE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2VE) | ENA | Långt mål | 33 ord: - analysera litteratur från den engelskspråkiga världen med hjälp av relevant li… |
 > | [GEN33R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN33R) | ENA | För få mål | 3 lärandemål (minimum rekommenderat: 4) |
 > | [GEN379](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN379) | ENA | För många mål | 24 lärandemål (maximum rekommenderat: 12) |
 > | [GEN379](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN379) | ENA | Långt mål | 26 ord: - med utgångspunkt i elevers kunskapsbehov och individuella förutsättningar för … |
 > | [GEN37A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN37A) | ENA | För många mål | 14 lärandemål (maximum rekommenderat: 12) |
 > | [GEN37A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN37A) | ENA | Långt mål | 33 ord: - analysera litteratur från den engelskspråkiga världen med hjälp av relevant li… |
+> | [GEN3BR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3BR) | ENA | Långt mål | 28 ord: - visa ett kritiskt förhållningssätt till olika typer av kulturella texter samt … |
+> | [GEN3BR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3BR) | ENA | Långt mål | 29 ord: - visa grundläggande kunskaper om ett urval centrala kulturella och litterära te… |
 > | [GEN3C5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3C5) | ENA | För få mål | 3 lärandemål (minimum rekommenderat: 4) |
 > | [GEN3C5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3C5) | ENA | Långt mål | 33 ord: - analysera litteratur från den engelskspråkiga världen med hjälp av relevant li… |
 > | [GEN3CM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3CM) | ENA | För många mål | 26 lärandemål (maximum rekommenderat: 12) |
@@ -81,6 +110,10 @@ status: första pass
 > | [GEN3E6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3E6) | ENA | Långt mål | 28 ord: - förklara grundläggande typer av variation i det engelska språket, genom hänvis… |
 > | [GEN3E7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3E7) | ENA | Långt mål | 28 ord: - redogöra för huvuddragen i de litterära och idéhistoriska epokerna inom den an… |
 > | [GEN3E7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3E7) | ENA | Långt mål | 28 ord: - muntligt och skriftligt kommunicera sin egen såväl som andras tolkning av hist… |
+> | [GEN3K3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3K3) | ENA | För många mål | 14 lärandemål (maximum rekommenderat: 12) |
+> | [GEN3K3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3K3) | ENA | Långt mål | 28 ord: - förklara grundläggande typer av variation i det engelska språket, genom hänvis… |
+> | [GEN3K3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3K3) | ENA | Långt mål | 28 ord: - redogöra för huvuddragen i de litterära och idéhistoriska epokerna inom den an… |
+> | [GEN3K3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3K3) | ENA | Långt mål | 28 ord: - muntligt och skriftligt kommunicera sin egen såväl som andras tolkning av hist… |
 > | [AFR24A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR24A) | FRA | Långt mål | 31 ord: - visa förmåga att, med högt ställda krav på skriftlig och muntlig kommunikation… |
 > | [AFR24B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR24B) | FRA | Långt mål | 32 ord: - visa fördjupad förmåga att, med högt ställda krav på skriftlig och muntlig kom… |
 > | [AFR24B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR24B) | FRA | Långt mål | 26 ord: - visa fördjupad förmåga att analysera, värdera och diskutera andras vetenskapli… |
@@ -88,6 +121,19 @@ status: första pass
 > | [AFR2A8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR2A8) | FRA | Långt mål | 27 ord: - redogöra för de vanligaste problemen som svenska inlärare av franska har när d… |
 > | [FR3022](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FR3022) | FRA | Långt mål | 41 ord: - utifrån en frågeställning självständigt söka, samla, kritiskt värdera samt tol… |
 > | [FR3022](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FR3022) | FRA | Långt mål | 30 ord: - ta till sig konstruktiva synpunkter från såväl lärare som andra studenter och … |
+> | [GFR27N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR27N) | FRA | För få mål | 3 lärandemål (minimum rekommenderat: 4) |
+> | [GFR2KR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2KR) | FRA | Långt mål | 26 ord: - samla in relevant språkvetenskapligt eller litterärt material på franska för e… |
+> | [GFR2KR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2KR) | FRA | Långt mål | 30 ord: - författa ett skriftligt teoretiskt arbete, på god franska där studenten använd… |
+> | [GFR2R4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2R4) | FRA | För många mål | 37 lärandemål (maximum rekommenderat: 12) |
+> | [GFR2R4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2R4) | FRA | Långt mål | 35 ord: - visa kunskap om elevers syn på och upplevelser av sitt språklärande samt refle… |
+> | [GFR2R4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2R4) | FRA | Långt mål | 35 ord: - diskutera och reflektera över samspelet mellan inre och yttre faktorer som är … |
+> | [GFR2R4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2R4) | FRA | Långt mål | 35 ord: - visa kunskap om olika former av digitala verktyg och hur de kan användas i spr… |
+> | [GFR2R4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2R4) | FRA | Långt mål | 29 ord: - visa förmåga att självständigt välja relevant innehåll och arbetssätt i språku… |
+> | [GFR2R4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2R4) | FRA | Långt mål | 29 ord: - visa fördjupade kunskaper om den gemensamma europeiska referensramen för språk… |
+> | [GFR2R4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2R4) | FRA | Långt mål | 37 ord: - visa fördjupade kunskaper om användning av digitala verktyg i språkundervisnin… |
+> | [GFR2R4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2R4) | FRA | Långt mål | 32 ord: - visa förmåga att formulera en relevant forskningsfråga inom ett avgränsat prob… |
+> | [GFR2WA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2WA) | FRA | För många mål | 32 lärandemål (maximum rekommenderat: 12) |
+> | [GFR2WA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2WA) | FRA | Långt mål | 26 ord: - med utgångspunkt i elevers kunskapsbehov och individuella förutsättningar för … |
 > | [GFR2YU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2YU) | FRA | Långt mål | 35 ord: - visa kunskap om elevers syn på och upplevelser av sitt språklärande samt refle… |
 > | [GFR2YU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2YU) | FRA | Långt mål | 35 ord: - diskutera och reflektera över samspelet mellan inre och yttre faktorer som är … |
 > | [GFR2YU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2YU) | FRA | Långt mål | 35 ord: - visa kunskap om olika former av digitala verktyg och hur de kan användas i spr… |
@@ -111,6 +157,13 @@ status: första pass
 > | [GFR3D3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3D3) | FRA | Långt mål | 29 ord: - självständigt välja relevant innehåll och arbetssätt i planeringen av språkund… |
 > | [GFR3D3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3D3) | FRA | Långt mål | 32 ord: - redogöra för hur digitala verktyg kan användas i språkundervisningen och den d… |
 > | [GFR3D3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3D3) | FRA | Långt mål | 26 ord: - ställa en relevant forskningsfråga inom ett avgränsat problemområde som är kop… |
+> | [GFR3DL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3DL) | FRA | För många mål | 78 lärandemål (maximum rekommenderat: 12) |
+> | [GFR3DL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3DL) | FRA | Långt mål | 33 ord: - reflektera över elevers syn på och upplevelser av sitt språklärande samt disku… |
+> | [GFR3DL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3DL) | FRA | Långt mål | 35 ord: - diskutera och reflektera över samspelet mellan inre och yttre faktorer som är … |
+> | [GFR3DL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3DL) | FRA | Långt mål | 26 ord: - visa förmåga att i skriftlig och muntlig form presentera och argumentera för e… |
+> | [GFR3HL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3HL) | FRA | Långt mål | 35 ord: - visa kunskap om elevers syn på och upplevelser av sitt språklärande samt refle… |
+> | [GFR3HL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3HL) | FRA | Långt mål | 35 ord: - diskutera och reflektera över samspelet mellan inre och yttre faktorer som är … |
+> | [GFR3HL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3HL) | FRA | Långt mål | 35 ord: - visa kunskap om olika former av digitala verktyg och hur de kan användas i spr… |
 > | [GFR3HM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3HM) | FRA | För många mål | 44 lärandemål (maximum rekommenderat: 12) |
 > | [GFR3HM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3HM) | FRA | Långt mål | 26 ord: - med utgångspunkt i elevers kunskapsbehov och individuella förutsättningar för … |
 > | [GFR3HM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3HM) | FRA | Långt mål | 33 ord: - reflektera över elevers syn på och upplevelser av sitt språklärande samt disku… |
@@ -127,19 +180,41 @@ status: första pass
 > | [GFR3HN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3HN) | FRA | Långt mål | 29 ord: - självständigt välja relevant innehåll och arbetssätt i planeringen av språkund… |
 > | [GFR3HN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3HN) | FRA | Långt mål | 32 ord: - redogöra för hur digitala verktyg kan användas i språkundervisningen och den d… |
 > | [GFR3HN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3HN) | FRA | Långt mål | 26 ord: - ställa en relevant forskningsfråga inom ett avgränsat problemområde som är kop… |
+> | [GIT2T6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2T6) | ITA | För få mål | 3 lärandemål (minimum rekommenderat: 4) |
+> | [GIT2TG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TG) | ITA | För få mål | 2 lärandemål (minimum rekommenderat: 4) |
+> | [GIT2TK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TK) | ITA | För få mål | 2 lärandemål (minimum rekommenderat: 4) |
 > | [GIT2TL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TL) | ITA | För få mål | 2 lärandemål (minimum rekommenderat: 4) |
 > | [GIT2TP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TP) | ITA | För få mål | 2 lärandemål (minimum rekommenderat: 4) |
 > | [GIT2Y8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2Y8) | ITA | För få mål | 2 lärandemål (minimum rekommenderat: 4) |
+> | [AJP23P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP23P) | JAA | Långt mål | 29 ord: - diskutera komponenter inom den litteraturvetenskapliga forskningsprocessen, fr… |
+> | [AJP26Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP26Z) | JAA | Långt mål | 31 ord: - diskutera, ur ett teoretiskt och kritiskt grundat perspektiv, politiska, kultu… |
+> | [AJP27A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP27A) | JAA | För få mål | 3 lärandemål (minimum rekommenderat: 4) |
+> | [AJP27B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP27B) | JAA | För få mål | 3 lärandemål (minimum rekommenderat: 4) |
+> | [AJP2A9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP2A9) | JAA | Långt mål | 28 ord: - med hög språklig kommunikationsförmåga, skriftligt såväl som muntligt presente… |
 > | [GJP23L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP23L) | JAA | För få mål | 3 lärandemål (minimum rekommenderat: 4) |
 > | [GJP39V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP39V) | JAA | För få mål | 3 lärandemål (minimum rekommenderat: 4) |
 > | [GJP39X](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP39X) | JAA | För få mål | 3 lärandemål (minimum rekommenderat: 4) |
 > | [GJP3AY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP3AY) | JAA | För få mål | 3 lärandemål (minimum rekommenderat: 4) |
 > | [GJP3B2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP3B2) | JAA | Långt mål | 26 ord: - analysera och översätta olika typer av dokument från japanska till engelska oc… |
+> | [JP1045](https://www.du.se/sv/utbildning/kurser/kursplan/?code=JP1045) | JAA | För få mål | 3 lärandemål (minimum rekommenderat: 4) |
+> | [JP1046](https://www.du.se/sv/utbildning/kurser/kursplan/?code=JP1046) | JAA | För få mål | 3 lärandemål (minimum rekommenderat: 4) |
+> | [JP2013](https://www.du.se/sv/utbildning/kurser/kursplan/?code=JP2013) | JAA | Långt mål | 28 ord: - muntligt och skriftligt kommunicera sin egen tolkning och förståelse av de lit… |
 > | [AKI25K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKI25K) | KIA | Långt mål | 28 ord: - med högt ställda krav på skriftlig och muntlig kommunikationsförmåga, presente… |
 > | [AKI2BN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKI2BN) | KIA | Långt mål | 26 ord: - analysera och formulera välgrundade perspektiv på centrala frågor i det samtid… |
+> | [GKI2MY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2MY) | KIA | För många mål | 31 lärandemål (maximum rekommenderat: 12) |
+> | [GKI2MY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2MY) | KIA | Långt mål | 28 ord: - identifiera och förklara olika grammatiska svårigheter i det kinesiska språket… |
+> | [GKI2MY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2MY) | KIA | Långt mål | 26 ord: - redogöra för vanliga svårigheter svensktalande inlärare upplever gällande kine… |
+> | [GKI2MY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2MY) | KIA | Långt mål | 35 ord: - visa kunskap om elevers syn på och upplevelser av sitt språklärande samt refle… |
+> | [GKI2MY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2MY) | KIA | Långt mål | 28 ord: - visa kunskap om bakgrunden till skolans styrdokument med fokus på det europeis… |
+> | [GKI2MY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2MY) | KIA | Långt mål | 35 ord: - diskutera och reflektera över samspelet mellan inre och yttre faktorer som är … |
+> | [GKI2MY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2MY) | KIA | Långt mål | 35 ord: - visa kunskap om olika former av digitala verktyg och hur de kan användas i spr… |
+> | [GKI2MY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2MY) | KIA | Långt mål | 29 ord: - visa förmåga att självständigt välja relevant innehåll och arbetssätt i språku… |
+> | [GKI2MY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2MY) | KIA | Långt mål | 29 ord: - visa fördjupade kunskaper om den gemensamma europeiska referensramen för språk… |
+> | [GKI2MY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2MY) | KIA | Långt mål | 32 ord: - visa förmåga att ställa en relevant forskningsfråga inom ett avgränsat problem… |
 > | [GKI2PZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2PZ) | KIA | För få mål | 3 lärandemål (minimum rekommenderat: 4) |
 > | [GKI2W3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2W3) | KIA | För många mål | 27 lärandemål (maximum rekommenderat: 12) |
 > | [GKI2W3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2W3) | KIA | Långt mål | 26 ord: - med utgångspunkt i elevers kunskapsbehov och individuella förutsättningar för … |
+> | [GKI3CE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3CE) | KIA | För många mål | 20 lärandemål (maximum rekommenderat: 12) |
 > | [GPR256](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR256) | PRA | Långt mål | 28 ord: - inom given tidsram genomföra en självständig litteraturvetenskaplig eller språ… |
 > | [GPR2VP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR2VP) | PRA | Långt mål | 26 ord: - kritiskt analysera och problematisera aktuella forskningsfrågor, begrepp, teor… |
 > | [GPR2XS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR2XS) | PRA | För få mål | 3 lärandemål (minimum rekommenderat: 4) |
@@ -163,6 +238,10 @@ status: första pass
 > | [GSP2FQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2FQ) | SPA | Långt mål | 30 ord: - visa förmåga att ställa en relevant forskningsfråga inom ett avgränsat problem… |
 > | [GSP2FR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2FR) | SPA | Långt mål | 35 ord: - visa kunskap om elevers syn på och upplevelser av sitt språklärande samt refle… |
 > | [GSP2FR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2FR) | SPA | Långt mål | 35 ord: - diskutera och reflektera över samspelet mellan inre och yttre faktorer som är … |
+> | [GSP2JH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2JH) | SPA | För många mål | 38 lärandemål (maximum rekommenderat: 12) |
+> | [GSP2JH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2JH) | SPA | Långt mål | 41 ord: - visa kunskap om elevers syn på och upplevelser av sitt språklärande samt refle… |
+> | [GSP2JH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2JH) | SPA | Långt mål | 35 ord: - diskutera och reflektera över samspelet mellan inre och yttre faktorer som är … |
+> | [GSP2JH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2JH) | SPA | Långt mål | 32 ord: - visa fördjupade kunskaper om användningen av digitala verktyg i språkundervisn… |
 > | [GSP2W8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2W8) | SPA | För många mål | 31 lärandemål (maximum rekommenderat: 12) |
 > | [GSP2W8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2W8) | SPA | Långt mål | 26 ord: - med utgångspunkt i elevers kunskapsbehov och individuella förutsättningar för … |
 > | [GSP2YT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2YT) | SPA | Långt mål | 33 ord: - visa förtrogenhet med uppbyggnaden av vetenskapliga texter, vilket innefattar … |
@@ -178,7 +257,17 @@ status: första pass
 > | [ASS258](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASS258) | SSA | Långt mål | 28 ord: - visa fördjupad förmåga att analysera, värdera och diskutera andras vetenskapli… |
 > | [ASS28X](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASS28X) | SSA | Långt mål | 31 ord: - inom givna ramar genomföra en självständig studie med krav på vetenskapligt vä… |
 > | [GSS2FK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2FK) | SSA | För många mål | 20 lärandemål (maximum rekommenderat: 12) |
+> | [GSS2G8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2G8) | SSA | För många mål | 21 lärandemål (maximum rekommenderat: 12) |
+> | [GSS2GP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2GP) | SSA | För många mål | 21 lärandemål (maximum rekommenderat: 12) |
+> | [GSS2J5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2J5) | SSA | För många mål | 32 lärandemål (maximum rekommenderat: 12) |
+> | [GSS2JA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2JA) | SSA | För många mål | 53 lärandemål (maximum rekommenderat: 12) |
+> | [GSS2L2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2L2) | SSA | För många mål | 24 lärandemål (maximum rekommenderat: 12) |
+> | [GSS2MN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2MN) | SSA | För många mål | 19 lärandemål (maximum rekommenderat: 12) |
+> | [GSS2QV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2QV) | SSA | För många mål | 13 lärandemål (maximum rekommenderat: 12) |
+> | [GSS2XE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2XE) | SSA | För många mål | 53 lärandemål (maximum rekommenderat: 12) |
+> | [GSS35H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS35H) | SSA | För många mål | 21 lärandemål (maximum rekommenderat: 12) |
 > | [GSS39P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS39P) | SSA | Långt mål | 26 ord: - analysera och kritiskt granska vetenskapliga texter inom för kursen relevant ä… |
+> | [GSS39R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS39R) | SSA | För många mål | 15 lärandemål (maximum rekommenderat: 12) |
 > | [GSS3BL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3BL) | SSA | För många mål | 15 lärandemål (maximum rekommenderat: 12) |
 > | [GSS3BN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3BN) | SSA | För många mål | 20 lärandemål (maximum rekommenderat: 12) |
 > | [GSS3C6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3C6) | SSA | För få mål | 3 lärandemål (minimum rekommenderat: 4) |
@@ -188,9 +277,14 @@ status: första pass
 > | [GSS3HB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HB) | SSA | För många mål | 20 lärandemål (maximum rekommenderat: 12) |
 > | [GSS3HG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HG) | SSA | För många mål | 16 lärandemål (maximum rekommenderat: 12) |
 > | [GSS3HJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HJ) | SSA | För många mål | 20 lärandemål (maximum rekommenderat: 12) |
+> | [GSS3K2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3K2) | SSA | Långt mål | 26 ord: - reflektera över egen och andras undervisningsplanering med skönlitteratur i sk… |
+> | [SS1085](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS1085) | SSA | För många mål | 26 lärandemål (maximum rekommenderat: 12) |
+> | [SS1085](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS1085) | SSA | Långt mål | 30 ord: - visa insikt i att uttalet förutom att signalera ett visst förstaspråk även kan… |
+> | [SS1085](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS1085) | SSA | Långt mål | 26 ord: - planera undervisning för att främja elevernas utveckling av strategier för läs… |
 > | [SS2007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2007) | SSA | Långt mål | 26 ord: - visa förmåga att utifrån en väl avgränsad problemställning självständigt söka,… |
 > | [SS2007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2007) | SSA | Långt mål | 30 ord: - inom givna tidsramar genomföra en självständig studie med krav på vetenskaplig… |
 > | [SS2007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2007) | SSA | Långt mål | 29 ord: - självständigt och kritiskt analysera och diskutera andras examensarbeten utifr… |
+> | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | SSA | För många mål | 23 lärandemål (maximum rekommenderat: 12) |
 > | [SS3011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3011) | SSA | Långt mål | 28 ord: - visa god förmåga att tillämpa kunskap om andraspråksforskningen generellt samt… |
 > | [SS3011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3011) | SSA | Långt mål | 28 ord: - visa fördjupad förmåga att analysera, värdera och diskutera andras vetenskapli… |
 > | [ASV29Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV29Z) | SVE | Långt mål | 26 ord: - visa fördjupad förmåga att i tal och skrift beskriva och argumentera för den e… |
@@ -222,11 +316,22 @@ status: första pass
 > | [GSV3DF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DF) | SVE | Långt mål | 45 ord: - tala och skriva i enlighet med de normer som finns för formell svenska och på … |
 > | [GSV3DF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DF) | SVE | Långt mål | 28 ord: - utifrån sina samlade kunskaper om litteraturvetenskap, språkvetenskap och ämne… |
 > | [GSV3DF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DF) | SVE | Långt mål | 36 ord: - tala och skriva i enlighet med de normer som finns för formell svenska och på … |
+> | [GSV3FP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3FP) | SVE | Långt mål | 35 ord: - förklara samt redogöra för betydelsen av ordförråd och språkförståelse i eleve… |
+> | [GSV3FP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3FP) | SVE | Långt mål | 27 ord: - beskriva och problematisera särskilda utmaningar i läs- och skrivinlärning och… |
+> | [GSV3JE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3JE) | SVE | Långt mål | 31 ord: - redogöra för, välja och tillämpa olika metoder och material i läs- och skrivun… |
+> | [GSV3JE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3JE) | SVE | Långt mål | 31 ord: - reflektera över barns bruk av skrift och andra medier i och utanför skolan sam… |
+> | [GSV3JE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3JE) | SVE | Långt mål | 26 ord: - självständigt tala och skriva i enlighet med de normer som finns för formell s… |
+> | [ATY2B7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY2B7) | TYA | Långt mål | 29 ord: - muntligt och skriftligt analysera, värdera och kritiskt granska egna och andra… |
+> | [GTY2N3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2N3) | TYA | Långt mål | 30 ord: - sammanställa en korpus genom ett urval av digital text som producerats i en in… |
 > | [GTY2N5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2N5) | TYA | För många mål | 22 lärandemål (maximum rekommenderat: 12) |
 > | [GTY2N5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2N5) | TYA | Långt mål | 30 ord: - sammanställa en korpus genom ett urval av digital text som producerats i en in… |
+> | [GTY2ST](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2ST) | TYA | För få mål | 3 lärandemål (minimum rekommenderat: 4) |
 > | [GTY2SU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2SU) | TYA | För få mål | 3 lärandemål (minimum rekommenderat: 4) |
 > | [GTY2SW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2SW) | TYA | För få mål | 3 lärandemål (minimum rekommenderat: 4) |
 > | [GTY2SY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2SY) | TYA | För få mål | 3 lärandemål (minimum rekommenderat: 4) |
+> | [GTY32H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY32H) | TYA | Långt mål | 35 ord: - visa kunskap om elevers syn på och upplevelser av sitt språklärande samt refle… |
+> | [GTY32H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY32H) | TYA | Långt mål | 35 ord: - diskutera och reflektera över samspelet mellan inre och yttre faktorer som är … |
+> | [GTY32H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY32H) | TYA | Långt mål | 35 ord: - visa kunskap om olika former av digitala verktyg och hur de kan användas i spr… |
 > | [GTY3CT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3CT) | TYA | För många mål | 36 lärandemål (maximum rekommenderat: 12) |
 > | [GTY3CT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3CT) | TYA | Långt mål | 30 ord: - genomföra och ge respons på kortare muntliga och skriftliga presentationer av … |
 > | [GTY3CT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3CT) | TYA | Långt mål | 26 ord: - med utgångspunkt i elevers kunskapsbehov och individuella förutsättningar för … |
