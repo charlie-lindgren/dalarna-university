@@ -111,26 +111,33 @@ def check_introfras(files: list[Path]) -> list[dict]:
 
 
 def check_frasning(files: list[Path]) -> list[dict]:
-    """Matchar introfrasen exakt referensformen
-    'Efter godkänd kurs ska studenten kunna:'?"""
+    """Matchar första raden i ## Lärandemål referensformen
+    'Efter godkänd kurs ska studenten kunna:'?
+
+    Kör endast på kursplaner där rubriken följs direkt av en *Efter ...*-fras.
+    Står det prosa eller delkurs-rubrik först är det [[Introfras]]:s ansvar
+    — vi flaggar inte samma kursplan på två ställen.
+    """
     findings = []
     for p in files:
         body = strip_frontmatter(p.read_text(encoding="utf-8"))
         lo_section = extract_section(body, "Lärandemål")
         if not lo_section:
             continue
-        if DELKURS_EXEMPT_RE.search(lo_section):
+        first_line = next(
+            (ln.strip() for ln in lo_section.splitlines() if ln.strip()),
+            None,
+        )
+        if first_line is None:
             continue
-        first_bullet = _first_bullet_match(lo_section)
-        if first_bullet is None:
+        if not first_line.lower().startswith("efter"):
+            # Fallet "prosa före introfras" hanteras av check_introfras.
             continue
-        before = lo_section[: first_bullet.start()]
-        if not ANY_INTRO_RE.search(before):
-            # Existens-/prosa-fallet hanteras av check_introfras.
+        if first_line == GOLD_INTRO_TEXT:
             continue
-        if GOLD_INTRO_RE.search(before):
+        if first_line == "Efter avslutad delkurs ska den studerande kunna:":
             continue
-        snippet = before.strip().replace("\n", " ")[:120]
+        snippet = first_line[:120]
         findings.append({
             "check": "frasning-avviker",
             "code": course_code(p),
