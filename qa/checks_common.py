@@ -375,6 +375,9 @@ EN_IGNORE = {
     "fulfilment","individualisation","individualisering",
     # IKS — brittisk stavning, samhällsvetenskapliga termer
     "energised","relationalism","summarised",
+    # ISLL — egennamn (författare/forskare) och akronymer
+    "emily","hanan","idris","muhammed","murr","nasrallah","yousef","zakaria",
+    "hec",
 }
 
 
