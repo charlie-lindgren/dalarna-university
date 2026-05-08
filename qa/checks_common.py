@@ -198,6 +198,8 @@ SV_IGNORE = {
     # IIT — fältspecifika sammansättningar
     "vägprojekteringshjälpmedel","connectmöten","reellvärda",
     "böjmotstånd","affärsplanbedömningar",
+    # IHV — fältspecifika sammansättningar
+    "jämviktsystem","testläraprinciper","hälsodeterminanters",
 }
 HAS_SV = re.compile(r"[åäöÅÄÖ]")
 
@@ -365,6 +367,9 @@ EN_IGNORE = {
     # IIT — historiska civilisationer, brittisk stavning, tekniktermer
     "babylonian","mayan","sumerian","neighbourhood","neighbourhoods",
     "cobots","bioenergy","biofuel","microsystems","insolation",
+    # IHV — kvalitativ forskning, hälsovetenskap, brittisk stavning
+    "sensorimotor","generalizability","transferability","focussing",
+    "fulfilment","individualisation","individualisering",
 }
 
 
