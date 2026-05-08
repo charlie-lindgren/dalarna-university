@@ -130,14 +130,6 @@ Dessutom: **inget enskilt lärandemål bör överstiga 25 ord** — då har det 
 - Alla kursplaner under `0X {INST}/Kursplaner/` (IIT + IHV + IKS + ISLL)
 - Endast den svenska sektionen (`## Lärandemål`)
 
-## Resultat
-
-*Fylls i efter första genomgång.*
-
-## Observationer
-
-*Fylls i efter första genomgång.*
-
 ## Rekommendationer
 
 1. **Granska varje flaggad kursplan manuellt.** Riktlinjen 4–12 är vägledande, inte absolut.

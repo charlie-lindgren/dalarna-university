@@ -150,14 +150,6 @@ Frasens **exakta formulering** granskas inte här — det hanteras av [[Frasning
 - Endast den svenska sektionen (`## Lärandemål`)
 - Tidpunkt: senast skrapade datum, se [[Dalarna Dashboard]]
 
-## Resultat
-
-*Fylls i efter första genomgång — se tabellen ovan för rådata från senaste QA-körningen.*
-
-## Observationer
-
-*Fylls i efter första genomgång.*
-
 ## Rekommendationer
 
 1. **Flytta introduktionsprosa** till `## Kursinnehåll` eller motsvarande sektion — `## Lärandemål` ska börja direkt med *Efter ...*-frasen.

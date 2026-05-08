@@ -124,14 +124,6 @@ Denna analys är **manuellt kurerad** — automatisk paritetsmätning ger en sta
 - Kursplaner under `0X {INST}/Kursplaner/` som har **både** `## Lärandemål` och `## Learning Outcomes`
 - Tröskel: |sv − en| ≥ 1 (alla diskrepanser flaggas)
 
-## Resultat
-
-*Fylls i efter första genomgång.*
-
-## Observationer
-
-*Fylls i efter första genomgång.*
-
 ## Rekommendationer
 
 1. **Granska varje flaggad kursplan** med båda språkversionerna parallellt.

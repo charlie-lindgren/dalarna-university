@@ -59,6 +59,28 @@ def load_files() -> list[Path]:
 GOLD_INTRO_TEXT = "Efter godkänd kurs ska studenten kunna:"
 DELKURS_INTRO_TEXT = "Efter avslutad delkurs ska den studerande kunna:"
 
+# Bologna-domänrubriker som legitimt får inleda en lärandemålssektion.
+# De räknas som "skip and look further" snarare än som introfraser.
+BOLOGNA_HEADING_RE = re.compile(
+    r"^[\s_*]*(?:kunskap\s+och\s+förståelse"
+    r"|färdighet\s+och\s+förmåga"
+    r"|värderingsförmåga\s+och\s+förhållningssätt)"
+    r"[\s_*:]*$",
+    re.IGNORECASE,
+)
+
+
+def _first_significant_line(section: str) -> str | None:
+    """Returnera första raden som varken är tom eller en Bologna-domänrubrik."""
+    for ln in section.splitlines():
+        s = ln.strip()
+        if not s:
+            continue
+        if BOLOGNA_HEADING_RE.match(s):
+            continue
+        return s
+    return None
+
 
 def check_introfras(files: list[Path]) -> list[dict]:
     """Flagga kursplaner där rubriken ``## Lärandemål`` inte följs direkt
@@ -77,10 +99,7 @@ def check_introfras(files: list[Path]) -> list[dict]:
         lo_section = extract_section(body, "Lärandemål")
         if not lo_section:
             continue
-        first_line = next(
-            (ln.strip() for ln in lo_section.splitlines() if ln.strip()),
-            None,
-        )
+        first_line = _first_significant_line(lo_section)
         if first_line is None:
             continue
         if first_line.lower().startswith("efter"):
@@ -109,10 +128,7 @@ def check_frasning(files: list[Path]) -> list[dict]:
         lo_section = extract_section(body, "Lärandemål")
         if not lo_section:
             continue
-        first_line = next(
-            (ln.strip() for ln in lo_section.splitlines() if ln.strip()),
-            None,
-        )
+        first_line = _first_significant_line(lo_section)
         if first_line is None:
             continue
         if not first_line.lower().startswith("efter"):

@@ -69,14 +69,6 @@ Denna analys är **manuellt kurerad** — populate-skriptet skriver in fynden, g
 - Endast den svenska sektionen (`## Lärandemål`)
 - Kursnivå från frontmatter-fältet `niva:`
 
-## Resultat
-
-*Fylls i efter första genomgång.*
-
-## Observationer
-
-*Fylls i efter första genomgång.*
-
 ## Rekommendationer
 
 1. **Granska varje flaggad kursplan manuellt** med kontext från syftesbeskrivning, examination och kurslitteratur.

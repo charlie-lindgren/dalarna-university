@@ -187,36 +187,21 @@ status: första pass
 
 ## Syfte
 
-Två frågor om examinationen:
-
-1. **Form** — `## Examinationsformer` ska redovisa examinationsmoment som **punktlista** (`-`/`*`). Löpande prosa gör momenten otydliga och försämrar läsbarheten.
-2. **Hp-summa** — hp-vikterna på betygsskalans delmoment (i sektionen `## Betyg`) ska summera till kursens totala hp-värde. En felaktig summa tyder på att ett moment lagts till eller tagits bort utan att de övriga justerats.
+`## Examinationsformer` ska redovisa examinationsmoment som **punktlista** (`-`/`*`). Löpande prosa gör momenten otydliga och försämrar läsbarheten.
 
 ## Metod
 
-`qa/check_kursplaner.py` kör två fristående kontroller:
-
-- **Examinationsformer utan punktlista** (`examinationsformer-utan-punktlista`) — letar i `## Examinationsformer` efter rader som matchar `^\s*[-*]\s+\S`. Flaggar kursplanen om sektionen har innehåll men inga sådana rader.
-- **Betygsmoduler hp ≠ kurs hp** (`betyg-hp-summa`) — läser kursens hp från frontmatter (`hp:`), extraherar alla `X hp`-värden i bullet-rader i `## Betyg`-sektionen och flaggar filer där absolutavvikelsen överstiger 0,1 hp.
+`qa/check_kursplaner.py` (`examinationsformer-utan-punktlista`) letar i `## Examinationsformer` efter rader som matchar `^\s*[-*]\s+\S`. Flaggar kursplanen om sektionen har innehåll men inga sådana rader.
 
 **Begränsningar:**
 
-- Kurser utan hp-specifikation per delmoment i Betyg-sektionen flaggas inte (kan vara legitimt).
-- Numrerade listor (`1. tentamen`) räknas inte som punktlista — ger falskt positivt utfall för punktlista-checken.
-- Manuell granskning krävs för att skilja scraping-artefakter från verkliga datafel.
+- Numrerade listor (`1. tentamen`) räknas inte som punktlista — kan ge falskt positivt utfall.
+- Manuell granskning krävs för att skilja scraping-artefakter från verkliga problem.
 
 ## Datakälla
 
 - Alla kursplaner under `0X {INST}/Kursplaner/` (IIT + IHV + IKS + ISLL)
-- Sektionerna `## Examinationsformer` (form-checken) och `## Betyg` (hp-summa-checken)
-
-## Resultat
-
-*Fylls i efter första genomgång.*
-
-## Observationer
-
-*Fylls i efter första genomgång.*
+- Endast sektionen `## Examinationsformer`
 
 ## Rekommendationer
 

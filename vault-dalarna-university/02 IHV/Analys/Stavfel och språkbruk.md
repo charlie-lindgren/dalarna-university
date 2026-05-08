@@ -44,14 +44,6 @@ Båda hunspell-passen filtreras mot omfattande ignorelistor (domäntermer, akron
 - Svensk text: brödtext minus `## English Version`
 - Engelsk text: enbart `## English Version`
 
-## Resultat
-
-*Fylls i efter första genomgång — se tabellen ovan för rådata från senaste QA-körningen.*
-
-## Observationer
-
-*Fylls i efter första genomgång.*
-
 ## Rekommendationer
 
 1. **Korrigera bekräftade stavfel** vid nästa revision av respektive kursplan.

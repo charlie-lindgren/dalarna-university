@@ -348,14 +348,6 @@ Den enda strukturella undantagsformen som accepteras är *"Efter avslutad delkur
 - Endast den svenska sektionen (`## Lärandemål`)
 - Tidpunkt: senast skrapade datum, se [[Dalarna Dashboard]]
 
-## Resultat
-
-*Fylls i efter första genomgång — se tabellen ovan för rådata från senaste QA-körningen.*
-
-## Observationer
-
-*Fylls i efter första genomgång.*
-
 ## Rekommendationer
 
 1. **Fastställ en standardfras** — *"Efter godkänd kurs ska studenten kunna:"* rekommenderas av Bolognamodellen och bör vara den primära formen vid Högskolan Dalarna.

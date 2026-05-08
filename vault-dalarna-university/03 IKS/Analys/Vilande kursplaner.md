@@ -433,14 +433,6 @@ Identifiera kurser som är **vilande**: de saknar synlig aktiv kursomgång på k
 - Kursutbudslistning + kursplanssidor på du.se
 - Kursplansfiler under `0X {INST}/Kursplaner/`
 
-## Resultat
-
-*Fylls i efter genomgång.*
-
-## Observationer
-
-*Fylls i efter genomgång.*
-
 ## Rekommendationer
 
 1. Bekräfta med ämnesföreträdare om varje vilande kurs ska återaktiveras, kvarstå eller avvecklas.

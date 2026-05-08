@@ -39,14 +39,6 @@ Kartlägga **inkonsekventa betygsskalor** vid Högskolan Dalarna — typfallet �
 - Alla kursplaner under `0X {INST}/Kursplaner/` (IIT + IHV + IKS + ISLL)
 - Endast sektionen `## Betyg`
 
-## Resultat
-
-*Fylls i efter första genomgång.*
-
-## Observationer
-
-*Fylls i efter första genomgång. Förväntad bild: A–F förekommer främst på fristående kurser och utbytesprogram (legitima skäl); inkonsekventa delskalor uppstår vid revideringar där delmomentens skala inte uppdaterades samtidigt som kursens.*
-
 ## Rekommendationer
 
 1. **Bekräfta varje A–F-fynd** mot beslutsmotivering — om motiverat, lägg till i en förteckning av undantag i denna fil.
