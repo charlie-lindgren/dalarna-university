@@ -93,6 +93,7 @@ KNOWN_TYPOS = {
     r"såväll": "såväl",
     r"tilsammans": "tillsammans",
     r"avstämmning": "avstämning",
+    r"jämviktsystem": "jämviktssystem",
 }
 
 
@@ -199,7 +200,7 @@ SV_IGNORE = {
     "vägprojekteringshjälpmedel","connectmöten","reellvärda",
     "böjmotstånd","affärsplanbedömningar",
     # IHV — fältspecifika sammansättningar
-    "jämviktsystem","testläraprinciper","hälsodeterminanters",
+    "testläraprinciper","hälsodeterminanters",
 }
 HAS_SV = re.compile(r"[åäöÅÄÖ]")
 
