@@ -122,10 +122,11 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         if (selfContainedClusters) {
           const srcInst = institutionOfSlug(source)
           const dstInst = institutionOfSlug(dest)
-          // Drop edges that cross between two different institutions; keep
-          // edges where one or both ends sit outside the four institution
-          // folders (e.g. the Dashboard hub) so the dandyflower stays connected.
-          if (srcInst && dstInst && srcInst !== dstInst) continue
+          // Keep an edge only when both endpoints sit inside the same
+          // institution folder. Cross-institution links are dropped, and
+          // anything outside the four institutions (Dashboard, Templates …)
+          // becomes its own island.
+          if (!srcInst || !dstInst || srcInst !== dstInst) continue
         }
         links.push({ source: source, target: dest })
       }
