@@ -8,22 +8,17 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (323 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (318 rader)</span></a>
 
-> [!example]- 323 fynd — klicka för att expandera
+> [!example]- 318 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
-> | [AB1009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1009) | ABA | Felstavning | `angelöw` (sv) |
-> | [AB1014](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1014) | ABA | Felstavning (en) | `energised` (en) |
 > | [AB1019](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1019) | ABA | Felstavning | `arbetsträtt` (sv) |
 > | [AB1019](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1019) | ABA | Felstavning | `förläsningar` (sv) |
 > | [AB1019](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1019) | ABA | Felstavning (en) | `municpality` (en) |
 > | [AB1022](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1022) | ABA | Felstavning | `därmellen` (sv) |
-> | [AB1022](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1022) | ABA | Felstavning | `kravställan` (sv) |
 > | [AB1029](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1029) | ABA | Felstavning (en) | `abilith` (en) |
-> | [AB1031](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1031) | ABA | Felstavning (en) | `relationalism` (en) |
-> | [AB1031](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1031) | ABA | Felstavning (en) | `summarised` (en) |
 > | [AB3001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB3001) | ABA | Felstavning | `kommunförb` (sv) |
 > | [AB3001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB3001) | ABA | Felstavning | `sölvell` (sv) |
 > | [ABQ2AM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABQ2AM) | BPO | Felstavning (en) | `inludes` (en) |
