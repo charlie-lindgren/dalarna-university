@@ -87,7 +87,20 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     showTags,
     focusOnHover,
     enableRadial,
+    selfContainedClusters,
   } = JSON.parse(graph.dataset["cfg"]!) as D3Config
+
+  // HDA: derive institution prefix from a slug. Robust to whatever Quartz
+  // produces for "01 IIT/" / "02 IHV/" / "03 IKS/" / "04 ISLL/" — we just
+  // look at the first path segment.
+  const institutionOf = (slug: SimpleSlug): string | null => {
+    const first = slug.split("/")[0].toLowerCase()
+    if (first.includes("isll")) return "isll"
+    if (first.includes("iit")) return "iit"
+    if (first.includes("ihv")) return "ihv"
+    if (first.includes("iks")) return "iks"
+    return null
+  }
 
   const data: Map<SimpleSlug, ContentDetails> = new Map(
     Object.entries<ContentDetails>(await fetchData).map(([k, v]) => [
@@ -105,6 +118,14 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
     for (const dest of outgoing) {
       if (validLinks.has(dest)) {
+        if (selfContainedClusters) {
+          const srcInst = institutionOf(source)
+          const dstInst = institutionOf(dest)
+          // Drop edges that cross between two different institutions; keep
+          // edges where one or both ends sit outside the four institution
+          // folders (e.g. the Dashboard hub) so the dandyflower stays connected.
+          if (srcInst && dstInst && srcInst !== dstInst) continue
+        }
         links.push({ source: source, target: dest })
       }
     }

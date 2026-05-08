@@ -201,6 +201,8 @@ SV_IGNORE = {
     "böjmotstånd","affärsplanbedömningar",
     # IHV — fältspecifika sammansättningar
     "testläraprinciper","hälsodeterminanters",
+    # IKS — egennamn och fältspecifika sammansättningar
+    "angelöw","kravställan",
 }
 HAS_SV = re.compile(r"[åäöÅÄÖ]")
 
@@ -371,6 +373,8 @@ EN_IGNORE = {
     # IHV — kvalitativ forskning, hälsovetenskap, brittisk stavning
     "sensorimotor","generalizability","transferability","focussing",
     "fulfilment","individualisation","individualisering",
+    # IKS — brittisk stavning, samhällsvetenskapliga termer
+    "energised","relationalism","summarised",
 }
 
 
