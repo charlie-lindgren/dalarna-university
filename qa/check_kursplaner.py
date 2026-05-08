@@ -161,40 +161,8 @@ def check_betygsskala(files: list[Path]) -> list[dict]:
     return findings
 
 
-# ─────────────────────────────────────────────────────────────────────────────
-# Check 7 — hp-summa i Betyg matchar inte kursens hp
-# ─────────────────────────────────────────────────────────────────────────────
-COMPONENT_HP_RE = re.compile(r"[-*].*?(\d+(?:[,.]\d+)?)\s*hp", re.IGNORECASE)
+# Frontmatter-fältet `hp:` används av flera checkar (Omfång lärandemål m.fl.).
 TOTAL_HP_RE = re.compile(r"^hp:\s*(\d+(?:[,.]\d+)?)", re.MULTILINE)
-BETYG_SECTION_RE = re.compile(
-    r"^## Betyg\s*\n(.+?)(?=^## |\Z)", re.MULTILINE | re.DOTALL
-)
-
-
-def check_hp_sum(files: list[Path]) -> list[dict]:
-    findings = []
-    for p in files:
-        raw = p.read_text(encoding="utf-8")
-        m_hp = TOTAL_HP_RE.search(raw)
-        if not m_hp:
-            continue
-        course_hp = float(m_hp.group(1).replace(",", "."))
-        body = strip_frontmatter(raw)
-        m_betyg = BETYG_SECTION_RE.search(body)
-        if not m_betyg:
-            continue
-        components = COMPONENT_HP_RE.findall(m_betyg.group(1))
-        if not components:
-            continue
-        comp_sum = sum(float(x.replace(",", ".")) for x in components)
-        if abs(comp_sum - course_hp) > 0.1:
-            findings.append({
-                "check": "betyg-hp-summa",
-                "code": course_code(p),
-                "subj": subject(p),
-                "detail": f"Betygsmoduler summerar till {comp_sum:g} hp, kursens hp är {course_hp:g} hp",
-            })
-    return findings
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -443,7 +411,6 @@ CHECK_LABELS = {
     "introfras-fore-fras":   "Introfras före frasning",
     "frasning-avviker":      "Frasning avviker",
     "betygsskala-inkonsekvent": "Betygsskala inkonsekvent",
-    "betyg-hp-summa":        "Betygsmoduler hp ≠ kurs hp",
     "examinationsformer-utan-punktlista": "Examinationsformer utan punktlista",
     "omfång-få-mål":         "För få lärandemål",
     "omfång-många-mål":      "För många lärandemål",
@@ -473,7 +440,6 @@ def main():
         ("Introfras",                check_introfras),
         ("Frasningskonsistens",      check_frasning),
         ("Betygsskala",              check_betygsskala),
-        ("Betygsmoduler hp-summa",   check_hp_sum),
         ("Examinationsformer-format", check_examinationsformer_format),
         ("Omfång lärandemål",        check_omfang),
         ("Långa bullets",            check_long_bullets),
