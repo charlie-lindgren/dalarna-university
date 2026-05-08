@@ -94,23 +94,42 @@ KNOWN_TYPOS = {
     r"tilsammans": "tillsammans",
     r"avstämmning": "avstämning",
     r"jämviktsystem": "jämviktssystem",
+    r"solcellsanläggingar": "solcellsanläggningar",
+    r"respirationsystem": "respirationssystem",
+}
+
+KNOWN_TYPOS_EN = {
+    r"indicies": "indices",
+    r"rythm": "rhythm",
 }
 
 
 def check_known_typos(files: list[Path]) -> list[dict]:
     findings = []
-    patterns = [(re.compile(pat, re.IGNORECASE), corr)
-                for pat, corr in KNOWN_TYPOS.items()]
+    patterns_sv = [(re.compile(pat, re.IGNORECASE), corr)
+                   for pat, corr in KNOWN_TYPOS.items()]
+    patterns_en = [(re.compile(pat, re.IGNORECASE), corr)
+                   for pat, corr in KNOWN_TYPOS_EN.items()]
     for p in files:
         body = strip_frontmatter(p.read_text(encoding="utf-8"))
         body_sv = re.sub(r"\n## English Version.+", "", body, flags=re.DOTALL)
-        for rx, corr in patterns:
+        m_en = re.search(r"\n## English Version\s*\n(.+)", body, re.DOTALL)
+        body_en = m_en.group(1) if m_en else ""
+        for rx, corr in patterns_sv:
             if rx.search(body_sv):
                 findings.append({
                     "check": "känd-felstavning",
                     "code": course_code(p),
                     "subj": subject(p),
                     "detail": f"`{rx.pattern}` → {corr}",
+                })
+        for rx, corr in patterns_en:
+            if rx.search(body_en):
+                findings.append({
+                    "check": "känd-felstavning",
+                    "code": course_code(p),
+                    "subj": subject(p),
+                    "detail": f"`{rx.pattern}` → {corr} (en)",
                 })
     return findings
 
@@ -199,7 +218,7 @@ SV_IGNORE = {
     # IIT — fältspecifika sammansättningar
     "vägprojekteringshjälpmedel","connectmöten","reellvärda",
     "böjmotstånd","affärsplanbedömningar",
-    "gis-övningar","solstrålsberäkningar","solcellsanläggingar",
+    "gis-övningar","solstrålsberäkningar",
     "softlån","höckerlind","vridspänningar","eu-förordningen",
     # IHV — fältspecifika sammansättningar
     "testläraprinciper","hälsodeterminanters",
@@ -375,12 +394,12 @@ EN_IGNORE = {
     # IIT — historiska civilisationer, brittisk stavning, tekniktermer
     "babylonian","mayan","sumerian","neighbourhood","neighbourhoods",
     "cobots","bioenergy","biofuel","microsystems","insolation",
-    "horizontoscope","absorbers","mechatronic","indicies",
+    "horizontoscope","absorbers","mechatronic",
     # IHV — kvalitativ forskning, hälsovetenskap, brittisk stavning
     "sensorimotor","generalizability","transferability","focussing",
     "fulfilment","individualisation","individualisering",
     "individualising","intrapersonal","solopreneur","interprofessional",
-    "ukraine","respirationsystem","rythm",
+    "ukraine",
     # IKS — brittisk stavning, samhällsvetenskapliga termer
     "energised","relationalism","summarised",
     # ISLL — egennamn (författare/forskare) och akronymer
