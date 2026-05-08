@@ -171,32 +171,47 @@ def check_hp_sum(files: list[Path]) -> list[dict]:
 # Check 8 — Omfång lärandemål
 # ─────────────────────────────────────────────────────────────────────────────
 LO_BULLET_RE = re.compile(r"^\s*[-*]\s+.+", re.MULTILINE)
-LO_MIN = 4
-LO_MAX = 12
+
+
+def lo_bounds(hp: float) -> tuple[int, int]:
+    """Rimligt antal lärandemål skalat efter kursens hp."""
+    if hp <= 7.5:
+        return (3, 8)
+    if hp <= 15:
+        return (4, 10)
+    if hp <= 30:
+        return (5, 12)
+    return (6, 15)
 
 
 def check_omfang(files: list[Path]) -> list[dict]:
     findings = []
     for p in files:
-        body = strip_frontmatter(p.read_text(encoding="utf-8"))
+        raw = p.read_text(encoding="utf-8")
+        m_hp = TOTAL_HP_RE.search(raw)
+        if not m_hp:
+            continue
+        course_hp = float(m_hp.group(1).replace(",", "."))
+        lo_min, lo_max = lo_bounds(course_hp)
+        body = strip_frontmatter(raw)
         lo_section = extract_section(body, "Lärandemål")
         if not lo_section:
             continue
         bullets = LO_BULLET_RE.findall(lo_section)
         n = len(bullets)
-        if n < LO_MIN:
+        if n < lo_min:
             findings.append({
                 "check": "omfång-få-mål",
                 "code": course_code(p),
                 "subj": subject(p),
-                "detail": f"{n} lärandemål (minimum rekommenderat: {LO_MIN})",
+                "detail": f"{n} lärandemål (minimum rekommenderat: {lo_min} för {course_hp:g} hp)",
             })
-        elif n > LO_MAX:
+        elif n > lo_max:
             findings.append({
                 "check": "omfång-många-mål",
                 "code": course_code(p),
                 "subj": subject(p),
-                "detail": f"{n} lärandemål (maximum rekommenderat: {LO_MAX})",
+                "detail": f"{n} lärandemål (maximum rekommenderat: {lo_max} för {course_hp:g} hp)",
             })
     return findings
 
