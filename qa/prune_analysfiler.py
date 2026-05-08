@@ -61,7 +61,9 @@ ANALYS_CONFIG: dict[str, list[str]] = {
         "Långt lärandemål",
     ],
     "Bloom-taxonomi.md": [
-        "Bloom-nivå",
+        "Bloom-nivå låg (avancerad kurs)",
+        "Bloom-nivå hög (grundkurs)",
+        "Bloom okänt verb",
     ],
     "Samstämmighet svenska och engelska.md": [
         "Paritetsskillnad",

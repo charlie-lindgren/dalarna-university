@@ -98,7 +98,9 @@ ANALYS_FILES: dict[str, dict[str, str]] = {
         "Långt lärandemål":    "Långt mål",
     },
     "Bloom-taxonomi.md": {
-        "Bloom-nivå låg (avancerad kurs)": "Låg Bloom-nivå",
+        "Bloom-nivå låg (avancerad kurs)": "Låg verbnivå för avancerad kurs",
+        "Bloom-nivå hög (grundkurs)":      "Hög verbnivå för grundkurs",
+        "Bloom okänt verb":                "Okänt ledande verb",
     },
     "Samstämmighet svenska och engelska.md": {
         "Paritetsskillnad sv/en": "Paritetsskillnad",

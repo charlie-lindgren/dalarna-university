@@ -37,6 +37,7 @@ from checks_common import (
     strip_frontmatter,
     subject,
 )
+from bloom_verbs import bloom_level
 
 VAULT = Path(__file__).resolve().parent.parent / "vault-dalarna-university"
 INST_DIRS = ["01 IIT", "02 IHV", "03 IKS", "04 ISLL"]
@@ -303,40 +304,98 @@ def check_long_bullets(files: list[Path]) -> list[dict]:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# Check 10 — Bloom (avancerade kurser med enbart låga nivåer)
+# Check 10 — Bloom-taxonomi (deterministisk 6-nivå-analys)
 # ─────────────────────────────────────────────────────────────────────────────
-BLOOM_LOW = {
-    "redogöra", "beskriva", "definiera", "namnge", "identifiera", "lista",
-    "återge", "ange", "förklara", "sammanfatta", "tolka", "klassificera",
-    "jämföra", "känna", "förstå",
-}
-BLOOM_HIGH = {
-    "analysera", "utvärdera", "bedöma", "kritiskt", "granska", "värdera",
-    "motivera", "argumentera", "skapa", "utforma", "konstruera", "designa",
-    "utveckla", "planera", "genomföra", "lösa", "tillämpa", "implementera",
-    "integrera", "syntetisera", "föreslå", "reflektera", "diskutera",
-}
+NIVA_RE = re.compile(r'^niva:\s*"?([^"\n]+?)"?\s*$', re.MULTILINE)
+BULLET_RE = re.compile(r"^\s*[-*]\s+(.+)$", re.MULTILINE)
+WORD_RE = re.compile(r"\b([a-zåäö][a-zåäö-]+)\b", re.IGNORECASE)
+UNKNOWN_VERB_THRESHOLD = 3            # bullets utan klassbart verb innan kursen flaggas
+HIGH_GRUND_DOMINANCE_RATIO = 0.60     # andel värdera/skapa-bullets för att flagga grundkurs
+
+
+def _bullet_levels(lo_section: str) -> tuple[list[int], int, int]:
+    """Returnera (per-bullet-nivåer, totalt antal bullets, antal okända bullets).
+
+    För varje bullet letas efter det **första** ordet som finns i Bloom-
+    lexikonet. Det innebär att inledande adverb/prepositioner (*självständigt*,
+    *muntligt*, *utifrån*, …) hoppas över naturligt — de saknas i lexikonet.
+    Bullets där inget ord matchar räknas som okända.
+    """
+    levels: list[int] = []
+    total = 0
+    unknown = 0
+    for m in BULLET_RE.finditer(lo_section):
+        total += 1
+        bullet = m.group(1).lower()
+        found = None
+        for w_match in WORD_RE.finditer(bullet):
+            lvl = bloom_level(w_match.group(1))
+            if lvl is not None:
+                found = lvl
+                break
+        if found is None:
+            unknown += 1
+        else:
+            levels.append(found)
+    return levels, total, unknown
+
+
+def _distribution(levels: list[int]) -> list[int]:
+    """6-cells histogram över nivåer 1..6."""
+    hist = [0] * 6
+    for l in levels:
+        if 1 <= l <= 6:
+            hist[l - 1] += 1
+    return hist
 
 
 def check_bloom(files: list[Path]) -> list[dict]:
     findings = []
     for p in files:
-        code = course_code(p)
-        if not code.startswith(("A", "G2")):
-            continue
-        body = strip_frontmatter(p.read_text(encoding="utf-8"))
+        raw = p.read_text(encoding="utf-8")
+        m_niva = NIVA_RE.search(raw)
+        niva = m_niva.group(1).strip().lower() if m_niva else ""
+        body = strip_frontmatter(raw)
         lo_section = extract_section(body, "Lärandemål")
         if not lo_section:
             continue
-        words = set(re.findall(r"\b\w+\b", lo_section.lower()))
-        has_high = bool(words & BLOOM_HIGH)
-        has_low = bool(words & BLOOM_LOW)
-        if has_low and not has_high:
+
+        levels, total_bullets, unknown = _bullet_levels(lo_section)
+        if total_bullets == 0:
+            continue
+        hist = _distribution(levels)
+        hist_str = ",".join(str(c) for c in hist)
+        n_classified = len(levels)
+
+        # Regel 1: Avancerad kurs utan höga verb (nivå ≥ 4)
+        if niva.startswith("avancerad") and n_classified > 0:
+            high_count = sum(hist[3:])  # nivå 4,5,6
+            if high_count == 0:
+                findings.append({
+                    "check": "bloom-låg-avancerad",
+                    "code": course_code(p),
+                    "subj": subject(p),
+                    "detail": f"Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [{hist_str}]",
+                })
+
+        # Regel 2: Grundkurs där värdera+skapa dominerar (≥ 60 % av klassade bullets)
+        if niva.startswith("grund") and n_classified > 0:
+            top_count = hist[4] + hist[5]  # värdera + skapa
+            if top_count / n_classified >= HIGH_GRUND_DOMINANCE_RATIO:
+                findings.append({
+                    "check": "bloom-hög-grund",
+                    "code": course_code(p),
+                    "subj": subject(p),
+                    "detail": f"Grundkurs domineras av värdera/skapa; fördelning [{hist_str}]",
+                })
+
+        # Regel 3: Många okända ledande verb (signal till lexikonutökning)
+        if unknown >= UNKNOWN_VERB_THRESHOLD:
             findings.append({
-                "check": "bloom-låg-avancerad",
-                "code": code,
+                "check": "bloom-okant-verb",
+                "code": course_code(p),
                 "subj": subject(p),
-                "detail": "Avancerad kurs utan höga Bloom-verb (analysera/utvärdera/skapa…)",
+                "detail": f"{unknown} av {total_bullets} bullets har okänt ledande verb",
             })
     return findings
 
@@ -390,6 +449,8 @@ CHECK_LABELS = {
     "omfång-många-mål":      "För många lärandemål",
     "långt-lärandemål":      "Långt lärandemål",
     "bloom-låg-avancerad":   "Bloom-nivå låg (avancerad kurs)",
+    "bloom-hög-grund":       "Bloom-nivå hög (grundkurs)",
+    "bloom-okant-verb":      "Bloom okänt verb",
     "sv-en-paritet":         "Paritetsskillnad sv/en",
 }
 
