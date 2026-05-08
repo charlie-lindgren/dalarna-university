@@ -11,7 +11,8 @@ Kontroller som körs:
   2.  Kända felstavningar (svensk ordlista)
   3.  Hunspell stavning svenska (sv_SE)
   4.  Hunspell stavning engelska (en_US) — English Version-sektionen
-  5.  Frasningskonsistens lärandemål (introfras)
+  5a. Introfras (existens)
+  5b. Frasningskonsistens (gold standard + tom rad)
   6.  Betygsskala — inkonsekvent delskalor
   7.  Examinationsformer — hp-summa i Betyg matchar inte kursens hp
   8.  Omfång lärandemål — för få (< 4) eller för många (> 12)
@@ -51,23 +52,31 @@ def load_files() -> list[Path]:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# Check 5 — Frasningskonsistens (introfras lärandemål)
+# Check 5a — Introfras (existens)
+# Check 5b — Frasningskonsistens (gold-standard match + tom rad före punktlista)
 # ─────────────────────────────────────────────────────────────────────────────
-GOLD_INTRO = re.compile(
-    r"efter\s+godkänd\s+kurs\s+ska\s+studenten\s+kunna\s*:",
-    re.IGNORECASE,
+GOLD_INTRO_TEXT = "Efter godkänd kurs ska studenten kunna:"
+GOLD_INTRO_RE = re.compile(re.escape(GOLD_INTRO_TEXT))
+# Lös regex för att avgöra om en introfras alls existerar (något i stil med
+# "Efter ... kunna" eller "studenten ska ..."). Räcker för att skilja "ingen
+# introfras alls" från "introfras som avviker från gold standard".
+ANY_INTRO_RE = re.compile(
+    r"(?:efter\b.{0,80}\bkunna|studenten\s+(?:ska(?:ll)?|skall)\b.{0,80}\bkunna|"
+    r"kursens\s+\S+\s+m[åa]l\b|m[åa]let\s+med\s+kursen\b)",
+    re.IGNORECASE | re.DOTALL,
 )
-GOLD_NO_COLON = re.compile(
-    r"efter\s+godkänd\s+kurs\s+ska\s+studenten\s+kunna(?!\s*:)",
-    re.IGNORECASE,
-)
-DELKURS_EXEMPT = re.compile(
+DELKURS_EXEMPT_RE = re.compile(
     r"efter\s+avslutad\s+delkurs\s+ska\s+den\s+studerande\s+kunna\s*:",
     re.IGNORECASE,
 )
 
 
-def check_framing(files: list[Path]) -> list[dict]:
+def _first_bullet_match(text: str) -> re.Match | None:
+    return LO_BULLET_RE.search(text)
+
+
+def check_introfras(files: list[Path]) -> list[dict]:
+    """Finns en introfras före lärandemålen alls?"""
     findings = []
     for p in files:
         body = strip_frontmatter(p.read_text(encoding="utf-8"))
@@ -80,24 +89,62 @@ def check_framing(files: list[Path]) -> list[dict]:
                 "detail": "Saknar ## Lärandemål-sektion",
             })
             continue
-        if GOLD_INTRO.search(lo_section):
-            continue
-        if DELKURS_EXEMPT.search(lo_section):
-            continue
-        if GOLD_NO_COLON.search(lo_section):
+        first_bullet = _first_bullet_match(lo_section)
+        if first_bullet is None:
             findings.append({
-                "check": "introfras-kolon",
+                "check": "introfras-saknas",
                 "code": course_code(p),
                 "subj": subject(p),
-                "detail": "Saknar kolon: `Efter godkänd kurs ska studenten kunna`",
+                "detail": "Saknar punktlista med lärandemål",
             })
-        else:
-            snippet = lo_section[:120].replace("\n", " ").strip()
+            continue
+        before = lo_section[: first_bullet.start()]
+        if not ANY_INTRO_RE.search(before):
             findings.append({
-                "check": "introfras-avviker",
+                "check": "introfras-saknas",
                 "code": course_code(p),
                 "subj": subject(p),
-                "detail": f"Avvikande introfras: {snippet}…",
+                "detail": "Saknar introfras före lärandemålen",
+            })
+    return findings
+
+
+def check_frasning(files: list[Path]) -> list[dict]:
+    """Matchar introfrasen exakt 'Efter godkänd kurs ska studenten kunna:' och
+    finns en tom rad mellan frasen och första punktlistan?"""
+    findings = []
+    for p in files:
+        body = strip_frontmatter(p.read_text(encoding="utf-8"))
+        lo_section = extract_section(body, "Lärandemål")
+        if not lo_section:
+            continue
+        if DELKURS_EXEMPT_RE.search(lo_section):
+            continue
+        first_bullet = _first_bullet_match(lo_section)
+        if first_bullet is None:
+            continue
+        before = lo_section[: first_bullet.start()]
+        if not ANY_INTRO_RE.search(before):
+            # Existens-fallet hanteras av check_introfras.
+            continue
+        m_gold = GOLD_INTRO_RE.search(before)
+        if not m_gold:
+            snippet = before.strip().replace("\n", " ")[:120]
+            findings.append({
+                "check": "frasning-avviker",
+                "code": course_code(p),
+                "subj": subject(p),
+                "detail": f"Avviker från gold standard: {snippet}…",
+            })
+            continue
+        between = before[m_gold.end():]
+        # Kräv minst en tom rad (\n\n) mellan introfrasen och första bulleten.
+        if "\n\n" not in between:
+            findings.append({
+                "check": "frasning-utan-blankrad",
+                "code": course_code(p),
+                "subj": subject(p),
+                "detail": "Saknar tom rad mellan introfras och lärandemål",
             })
     return findings
 
@@ -322,8 +369,8 @@ CHECK_LABELS = {
     "stavning-sv":           "Stavfel (svenska)",
     "stavning-en":           "Stavfel (engelska)",
     "introfras-saknas":      "Introfras saknas",
-    "introfras-kolon":       "Introfras saknar kolon",
-    "introfras-avviker":     "Introfras avviker",
+    "frasning-avviker":      "Frasning avviker",
+    "frasning-utan-blankrad": "Frasning utan blankrad",
     "betygsskala-inkonsekvent": "Betygsskala inkonsekvent",
     "omfång-få-mål":         "För få lärandemål",
     "omfång-många-mål":      "För många lärandemål",
@@ -348,7 +395,8 @@ def main():
     steps = [
         ("Dubblerade ord",           check_dup_words),
         ("Kända felstavningar",      check_known_typos),
-        ("Frasningskonsistens",      check_framing),
+        ("Introfras",                check_introfras),
+        ("Frasningskonsistens",      check_frasning),
         ("Betygsskala",              check_betygsskala),
         ("Omfång lärandemål",        check_omfang),
         ("Långa bullets",            check_long_bullets),

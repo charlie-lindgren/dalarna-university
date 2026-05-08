@@ -189,11 +189,12 @@ Each file has an `up:` frontmatter key pointing to its parent MOC.
 
 ### Per-institution Analys layer
 
-Each institution owns its own Analys folder. The eight analysis files mirror
+Each institution owns its own Analys folder. The nine analysis files mirror
 across institutions:
 
 - `Stavfel och språkbruk.md`
-- `Frasningskonsistens lärandemål.md`
+- `Introfras.md`
+- `Frasningskonsistens.md`
 - `Omfång på lärandemål.md`
 - `Bloom-taxonomi.md`
 - `Examinationsformer.md`

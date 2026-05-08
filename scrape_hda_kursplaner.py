@@ -1026,7 +1026,8 @@ def build_institution_moc(inst_code: str, subjects: list[dict],
     if inst_dir:
         analys_files = [
             "Stavfel och språkbruk",
-            "Frasningskonsistens lärandemål",
+            "Introfras",
+            "Frasningskonsistens",
             "Omfång på lärandemål",
             "Bloom-taxonomi",
             "Examinationsformer",

@@ -73,10 +73,12 @@ def build_code_to_institution_map() -> dict[str, str]:
 
 # Analysfil → (rapport-sektionsprefix → "Problem"-etikett i analystabellen)
 ANALYS_FILES: dict[str, dict[str, str]] = {
-    "Frasningskonsistens lärandemål.md": {
-        "Introfras saknas":      "Introfras saknas",
-        "Introfras saknar kolon": "Saknar kolon",
-        "Introfras avviker":     "Avvikande formulering",
+    "Introfras.md": {
+        "Introfras saknas": "Saknar introfras",
+    },
+    "Frasningskonsistens.md": {
+        "Frasning avviker":        "Avviker från gold standard",
+        "Frasning utan blankrad":  "Saknar tom rad före punktlista",
     },
     "Stavfel och språkbruk.md": {
         "Dubblerat ord":      "Dubblerat ord",

@@ -36,10 +36,12 @@ def institution_analys_dir(inst_code: str) -> Path:
 # Konfiguration: vilka rapport-sektioner som "äger" varje analysfil
 # ─────────────────────────────────────────────────────────────────────────────
 ANALYS_CONFIG: dict[str, list[str]] = {
-    "Frasningskonsistens lärandemål.md": [
-        "Introfras avviker",
-        "Introfras saknar kolon",
+    "Introfras.md": [
         "Introfras saknas",
+    ],
+    "Frasningskonsistens.md": [
+        "Frasning avviker",
+        "Frasning utan blankrad",
     ],
     "Stavfel och språkbruk.md": [
         "Dubblerat ord",
