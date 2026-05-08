@@ -54,7 +54,8 @@ ANALYS_CONFIG: dict[str, list[str]] = {
         "Betygsskala inkonsekvent",
     ],
     "Examinationsformer.md": [
-        "Examinationsformer",
+        "Betygsmoduler hp ≠ kurs hp",
+        "Examinationsformer utan punktlista",
     ],
     "Omfång på lärandemål.md": [
         "För få lärandemål",

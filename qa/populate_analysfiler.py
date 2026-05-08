@@ -91,7 +91,8 @@ ANALYS_FILES: dict[str, dict[str, str]] = {
         "Betygsskala inkonsekvent": "Inkonsekvent delskalor",
     },
     "Examinationsformer.md": {
-        "Betygsmoduler hp ≠ kurs hp": "HP-summa stämmer ej",
+        "Betygsmoduler hp ≠ kurs hp":       "HP-summa stämmer ej",
+        "Examinationsformer utan punktlista": "Saknar punktlista",
     },
     "Omfång på lärandemål.md": {
         "För få lärandemål":   "För få mål",

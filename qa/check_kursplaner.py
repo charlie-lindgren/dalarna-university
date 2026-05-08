@@ -209,7 +209,38 @@ def check_hp_sum(files: list[Path]) -> list[dict]:
                 "check": "betyg-hp-summa",
                 "code": course_code(p),
                 "subj": subject(p),
-                "detail": f"Betygsmoduler summerar till {comp_sum} hp, kursäns hp är {course_hp} hp",
+                "detail": f"Betygsmoduler summerar till {comp_sum:g} hp, kursens hp är {course_hp:g} hp",
+            })
+    return findings
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Check 7b — Examinationsformer skrivna som punktlista
+# ─────────────────────────────────────────────────────────────────────────────
+EXAM_BULLET_RE = re.compile(r"^\s*[-*]\s+\S", re.MULTILINE)
+
+
+def check_examinationsformer_format(files: list[Path]) -> list[dict]:
+    """Flagga kursplaner där ## Examinationsformer-sektionen inte är skriven
+    som punktlista (- eller * som listmarkör).
+    """
+    findings = []
+    for p in files:
+        body = strip_frontmatter(p.read_text(encoding="utf-8"))
+        section = extract_section(body, "Examinationsformer")
+        # extract_section returnerar tom sträng både för saknad och tom
+        # sektion — i båda fallen är det inget för punktlista-checken att säga.
+        content = section.strip()
+        if not content:
+            continue
+        bullet_count = len(EXAM_BULLET_RE.findall(section))
+        if bullet_count == 0:
+            snippet = " ".join(content.split())[:120]
+            findings.append({
+                "check": "examinationsformer-utan-punktlista",
+                "code": course_code(p),
+                "subj": subject(p),
+                "detail": f"Examinationsformer skrivet som löpande text: {snippet}…",
             })
     return findings
 
@@ -372,6 +403,8 @@ CHECK_LABELS = {
     "frasning-avviker":      "Frasning avviker",
     "frasning-utan-blankrad": "Frasning utan blankrad",
     "betygsskala-inkonsekvent": "Betygsskala inkonsekvent",
+    "betyg-hp-summa":        "Betygsmoduler hp ≠ kurs hp",
+    "examinationsformer-utan-punktlista": "Examinationsformer utan punktlista",
     "omfång-få-mål":         "För få lärandemål",
     "omfång-många-mål":      "För många lärandemål",
     "långt-lärandemål":      "Långt lärandemål",
@@ -398,6 +431,8 @@ def main():
         ("Introfras",                check_introfras),
         ("Frasningskonsistens",      check_frasning),
         ("Betygsskala",              check_betygsskala),
+        ("Betygsmoduler hp-summa",   check_hp_sum),
+        ("Examinationsformer-format", check_examinationsformer_format),
         ("Omfång lärandemål",        check_omfang),
         ("Långa bullets",            check_long_bullets),
         ("Bloom-taxonomi",           check_bloom),
