@@ -40,9 +40,8 @@ status: första pass
 
 ## Syfte
 
-Lärandemålens **verbnivå bör matcha kursnivån**. En *avancerad nivå*-kurs vars lärandemål bara rör sig på Minnas/Förstå-nivå indikerar att kursen ligger lägre kognitivt än nivåklassningen anger; en *grundnivå*-kurs där värdera/skapa-verb dominerar kan tyda på fellabeling eller på en kurs som egentligen tillhör avancerad nivå. Det är ett pedagogiskt och formellt problem (Bologna, examensordningen).
 
-Inspirerat av KTH:s [Blomma-verktyg](https://skrutten.csc.kth.se/blomma/), men deterministiskt och utan extern NLP-tjänst.
+Lärandemålens **verbnivå bör matcha kursnivån**. En *avancerad nivå*-kurs vars lärandemål bara rör sig på Minnas/Förstå-nivå indikerar att kursen ligger lägre kognitivt än nivåklassningen anger; en *grundnivå*-kurs där värdera/skapa-verb dominerar kan tyda på fellabeling eller på en kurs som egentligen tillhör avancerad nivå. Det är ett pedagogiskt och formellt problem (Bologna, examensordningen).
 
 ## Metod
 
