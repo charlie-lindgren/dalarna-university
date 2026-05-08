@@ -1,6 +1,6 @@
 ---
 aliases: [Home, Start]
-tags: [dashboard, MOC]
+tags: [dashboard]
 cssclasses: [wide-page]
 ---
 
@@ -12,19 +12,14 @@ cssclasses: [wide-page]
 
 Högskolan Dalarna har fyra institutioner. Klicka för att utforska kurs- och utbildningsplaner per institution.
 
-- [[IIT MOC|IIT]] — Institutionen för information och teknik
-- [[IHV MOC|IHV]] — Institutionen för hälsa och välfärd
-- [[IKS MOC|IKS]] — Institutionen för kultur och samhälle
-- [[ISLL MOC|ISLL]] — Institutionen för språk, litteratur och lärande
+- Institutionen för information och teknik
+- Institutionen för hälsa och välfärd
+- Institutionen för kultur och samhälle
+- Institutionen för språk, litteratur och lärande
 
 ## Kvalitetsanalys
 
 Tvärgående kvalitetsgranskning av samtliga kurs- och utbildningsplaner — språk, frasning, examination, betygsskalor, Bloom-taxonomi och samstämmighet sv/en. Varje institution har en egen analysmapp.
-
-- [[01 IIT/Analys/Stavfel och språkbruk|IIT analyser]]
-- [[02 IHV/Analys/Stavfel och språkbruk|IHV analyser]]
-- [[03 IKS/Analys/Stavfel och språkbruk|IKS analyser]]
-- [[04 ISLL/Analys/Stavfel och språkbruk|ISLL analyser]]
 
 ## Om
 
