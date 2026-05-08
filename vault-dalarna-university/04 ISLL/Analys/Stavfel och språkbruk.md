@@ -8,21 +8,12 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (168 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (158 rader)</span></a>
 
-> [!example]- 168 fynd — klicka för att expandera
+> [!example]- 158 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
-> | [AR1003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR1003) | ARA | Felstavning (en) | `emily` (en) |
-> | [AR1003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR1003) | ARA | Felstavning (en) | `hanan` (en) |
-> | [AR1003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR1003) | ARA | Felstavning (en) | `idris` (en) |
-> | [AR1003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR1003) | ARA | Felstavning (en) | `muhammed` (en) |
-> | [AR1003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR1003) | ARA | Felstavning (en) | `murr` (en) |
-> | [AR1003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR1003) | ARA | Felstavning (en) | `nasrallah` (en) |
-> | [AR1003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR1003) | ARA | Felstavning (en) | `yousef` (en) |
-> | [AR1003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR1003) | ARA | Felstavning (en) | `zakaria` (en) |
-> | [AR1004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR1004) | ARA | Felstavning (en) | `hec` (en) |
 > | [AR1012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR1012) | ARA | Felstavning (en) | `syriand` (en) |
 > | [AR1025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR1025) | ARA | Felstavning (en) | `proficiencythrough` (en) |
 > | [AR2001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR2001) | ARA | Dubblerat ord | `the` — …resentations of varying length.  ### Assessment  Grades for the the _Grammar and Texts_ module are based on continuous assesmen… |
@@ -153,7 +144,6 @@ status: första pass
 > | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | SSA | Felstavning (en) | `dealrs` (en) |
 > | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | SSA | Felstavning (en) | `dourse` (en) |
 > | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | SSA | Felstavning (en) | `egarding` (en) |
-> | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | SSA | Felstavning (en) | `hec` (en) |
 > | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | SSA | Felstavning (en) | `langue` (en) |
 > | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | SSA | Felstavning (en) | `prespectives` (en) |
 > | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | SSA | Felstavning (en) | `relatec` (en) |

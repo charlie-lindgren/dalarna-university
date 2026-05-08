@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (52 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (45 rader)</span></a>
 
-> [!example]- 52 fynd — klicka för att expandera
+> [!example]- 45 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -35,11 +35,7 @@ status: första pass
 > | [GMT34K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34K) | MTA | Felstavning (en) | `programing` (en) |
 > | [GMT34R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34R) | MTA | Felstavning (en) | `variousengineering` (en) |
 > | [GMT3JQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JQ) | MTA | Felstavning (en) | `mechatronic` (en) |
-> | [GMT3JT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JT) | MTA | Felstavning | `eu-förordningen` (sv) |
-> | [MT1060](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT1060) | MTA | Felstavning | `vridspänningar` (sv) |
-> | [MT2006](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT2006) | MTA | Felstavning | `höckerlind` (sv) |
 > | [AEG225](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG225) | MÖY | Felstavning | `produktionskattelättnader` (sv) |
-> | [AEG225](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG225) | MÖY | Felstavning | `softlån` (sv) |
 > | [AEG22R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG22R) | MÖY | Felstavning | `mättteknik` (sv) |
 > | [AEG2AL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AL) | MÖY | Felstavning (en) | `andrelate` (en) |
 > | [AEG2AQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AQ) | MÖY | Felstavning (en) | `adress` (en) |
@@ -56,11 +52,8 @@ status: första pass
 > | [EG4001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG4001) | MÖY | Felstavning (en) | `fulltime` (en) |
 > | [GEG26J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG26J) | MÖY | Felstavning (en) | `tutoria` (en) |
 > | [GEG2ZQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZQ) | MÖY | Felstavning | `inlämninguppgifter` (sv) |
-> | [GEG2ZQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZQ) | MÖY | Felstavning | `solcellsanläggingar` (sv) |
-> | [GEG2ZQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZQ) | MÖY | Felstavning | `solstrålsberäkningar` (sv) |
 > | [GEG2ZR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZR) | MÖY | Felstavning | `inlämingsuppgifter` (sv) |
 > | [GSQ25J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25J) | SQQ | Dubblerat ord | `hp` — …ch skriftliga inlämningsuppgifter i kvantitativa metoder, 4 hp hp  ## Arbetsformer  Föreläsningar, seminarier och övningar.… |
-> | [GSQ25K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25K) | SQQ | Felstavning | `gis-övningar` (sv) |
 > | [GSQ25K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25K) | SQQ | Felstavning | `skalniåver` (sv) |
 > | [GSQ33N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ33N) | SQQ | Felstavning | `skalniåver` (sv) |
 > | [GMI23G](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI23G) | XYZ | Felstavning (en) | `eulides` (en) |

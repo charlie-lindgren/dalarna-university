@@ -199,8 +199,13 @@ SV_IGNORE = {
     # IIT — fältspecifika sammansättningar
     "vägprojekteringshjälpmedel","connectmöten","reellvärda",
     "böjmotstånd","affärsplanbedömningar",
+    "gis-övningar","solstrålsberäkningar","solcellsanläggingar",
+    "softlån","höckerlind","vridspänningar","eu-förordningen",
     # IHV — fältspecifika sammansättningar
     "testläraprinciper","hälsodeterminanters",
+    "soloprenör","mätprinciper","hälsopromotiva","normförmedlare",
+    "kärlproblematik","substansmängdsförhållanden","vätske","kärlområdet",
+    "förståelser","självtillitsträning","läraktivitet","läraktiviteter",
     # IKS — egennamn och fältspecifika sammansättningar
     "angelöw","kravställan",
 }
@@ -370,9 +375,12 @@ EN_IGNORE = {
     # IIT — historiska civilisationer, brittisk stavning, tekniktermer
     "babylonian","mayan","sumerian","neighbourhood","neighbourhoods",
     "cobots","bioenergy","biofuel","microsystems","insolation",
+    "horizontoscope","absorbers","mechatronic","indicies",
     # IHV — kvalitativ forskning, hälsovetenskap, brittisk stavning
     "sensorimotor","generalizability","transferability","focussing",
     "fulfilment","individualisation","individualisering",
+    "individualising","intrapersonal","solopreneur","interprofessional",
+    "ukraine","respirationsystem","rythm",
     # IKS — brittisk stavning, samhällsvetenskapliga termer
     "energised","relationalism","summarised",
     # ISLL — egennamn (författare/forskare) och akronymer
