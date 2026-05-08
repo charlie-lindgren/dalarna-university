@@ -17,19 +17,11 @@ status: första pass
 
 ## Syfte
 
-Kartlägga vilka betygsskalor som används vid Högskolan Dalarna och flagga **avvikare** som inte följer institutionens standardpraxis. Två typiska avvikelser:
-
-- **A–F-skala** istället för svensk standard (U/G/VG eller U/3/4/5).
-- **Inkonsekvent delskalor** — kursnivån sätts i U/3/4/5 men delmoment redovisas i U/G/VG (eller tvärtom). Vissa fall är medvetna; de bör listas som undantag.
+Kartlägga **inkonsekventa betygsskalor** vid Högskolan Dalarna — typfallet är att kursnivån sätts i U/3/4/5 medan delmoment redovisas i U/G/VG (eller tvärtom). Vissa fall är medvetna; de bör listas som undantag i koden.
 
 ## Metod
 
-`qa/check_kursplaner.py` letar i sektionen `## Betyg` efter:
-
-- **A–F-mönster:** `\bA\s*[–\-]\s*F\b` eller komma-separerad form `A, B, C, D, E`.
-- **Inkonsekvent delskalor:** `\bU,3\b` följt av `\bU,[GV]\b` (eller motsvarande).
-
-Kursplaner som uttryckligen är undantagna från flaggning anges i `MIXED_SCALE_EXEMPT` i [`qa/check_kursplaner.py`](../../qa/check_kursplaner.py).
+`qa/check_kursplaner.py` letar i sektionen `## Betyg` efter mönstret `\bU\s*[,/]\s*3\b` följt av `\bU\s*[,/]\s*[GV]\b` (eller tvärtom). Kursplaner som uttryckligen är undantagna anges i `MIXED_SCALE_EXEMPT` i [`qa/check_kursplaner.py`](../../qa/check_kursplaner.py).
 
 **Begränsningar:** Regex är konservativ. Den missar betygskolumner som beskrivs i prosa eller med ovanlig formattering. Manuell granskning rekommenderas för flaggade fall.
 

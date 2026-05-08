@@ -324,12 +324,9 @@ Lärandemål inleds typiskt med en standardiserad introfras: *"Efter godkänd ku
 
 ## Metod
 
-Regex-jämförelse i sektionen `## Lärandemål` (svensk version). `qa/check_kursplaner.py` flaggar två avvikelser från gold standard *"Efter godkänd kurs ska studenten kunna:"*:
+Regex-jämförelse i sektionen `## Lärandemål` (svensk version). `qa/check_kursplaner.py` (`frasning-avviker`) flaggar kursplaner där introfras finns men inte matchar referensformen *"Efter godkänd kurs ska studenten kunna:"* exakt — typiska avvikelser är varianter av modalverb (*ska*/*skall*), tidsfras (*godkänd*/*avslutad*/*genomgången*), subjekt (*studenten*/*den studerande*) eller saknat kolon.
 
-- **Frasning avviker** — introfras finns men matchar inte gold standard exakt (varianter av modalverb *ska*/*skall*, tidsfras *godkänd*/*avslutad*/*genomgången*, subjekt *studenten*/*den studerande*, eller saknat kolon).
-- **Frasning utan blankrad** — introfrasen matchar gold standard men det saknas en tom rad mellan introfrasen och första punkten i lärandemålslistan.
-
-Existens-fallet (helt avsaknad av introfras) hanteras separat i [[Introfras]].
+Inledande prosa eller delkurs-rubriker före introfrasen hanteras separat i [[Introfras]].
 
 Den enda strukturella undantagsformen som accepteras är *"Efter avslutad delkurs ska den studerande kunna:"*.
 

@@ -240,18 +240,23 @@ status: första pass
 
 ## Syfte
 
-Lärandemål bör vara **få nog att vara hanterbara** men **många nog att täcka kursens innehåll**. Riktlinjen som tillämpas är:
+Lärandemål bör vara **få nog att vara hanterbara** men **många nog att täcka kursens innehåll**. Antalet skalas efter kursens hp — en 7,5 hp-kurs behöver färre mål än en 30 hp-kurs:
 
-- **Minst 4 lärandemål** — färre signalerar att kursinnehållet inte specificerats tillräckligt.
-- **Högst 12 lärandemål** — fler tyder på att en del lärandemål egentligen är aktiviteter eller delmål.
-- **Inget enskilt lärandemål bör överstiga 25 ord** — då har det blivit en mening med flera lärandemål inbakade.
+| hp        | Min | Max |
+| --------- | --- | --- |
+| ≤ 7,5 hp  | 3   | 8   |
+| 7,5–15 hp | 4   | 10  |
+| 15–30 hp  | 5   | 12  |
+| > 30 hp   | 6   | 15  |
+
+Dessutom: **inget enskilt lärandemål bör överstiga 25 ord** — då har det blivit en mening med flera lärandemål inbakade.
 
 ## Metod
 
-`qa/check_kursplaner.py` räknar punkter (`-`/`*`) i sektionen `## Lärandemål` (svensk version) och flaggar tre kategorier:
+`qa/check_kursplaner.py` räknar punkter (`-`/`*`) i sektionen `## Lärandemål` (svensk version), läser kursens hp från frontmatter och flaggar tre kategorier:
 
-- **För få mål** — färre än 4 bullets.
-- **För många mål** — fler än 12 bullets.
+- **För få mål** — färre än `min(hp)` enligt tabellen ovan.
+- **För många mål** — fler än `max(hp)` enligt tabellen ovan.
 - **Långt mål** — enskild bullet med fler än 25 ord.
 
 **Begränsningar:** Om lärandemålen formaterats som numrerad lista (`1.`, `2.`, …) räknas de inte som bullets — falsk negativ. Långa bullets innehåller ibland legitim sammanvävning (*"x, y, samt z"*) som inte är ett tecken på dålig styckning.

@@ -41,7 +41,6 @@ ANALYS_CONFIG: dict[str, list[str]] = {
     ],
     "Frasningskonsistens.md": [
         "Frasning avviker",
-        "Frasning utan blankrad",
     ],
     "Stavfel och språkbruk.md": [
         "Dubblerat ord",
@@ -50,7 +49,6 @@ ANALYS_CONFIG: dict[str, list[str]] = {
         "Stavfel (engelska)",
     ],
     "Betygsskalor.md": [
-        "Betygsskala A–F",
         "Betygsskala inkonsekvent",
     ],
     "Examinationsformer.md": [

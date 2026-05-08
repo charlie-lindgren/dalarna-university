@@ -142,7 +142,7 @@ Identifiera **uppenbara skrivfel** (dubblerade ord, kända felstavningar, hunspe
 Fyra kontroller körs av `qa/check_kursplaner.py`:
 
 1. **Dubblerade ord** — regex `\b(\w{2,})[ \t]+\1\b` med whitelist av legitima upprepningar (*för för, och och, …*).
-2. **Kända felstavningar** — snäv lista med återkommande typos (*adminstrat*, *infomation*, *såväll*, *tilsammans*).
+2. **Kända felstavningar** — två snäva listor (`KNOWN_TYPOS` för svensk text, `KNOWN_TYPOS_EN` för engelsk text) i [`qa/checks_common.py`](../../qa/checks_common.py). Varje fynd visar både den felaktiga formen och föreslagen rättning.
 3. **Hunspell sv_SE** — flagga ord som hunspell inte känner igen och som förekommer i färre än fyra filer (sällsynta ord = sannolikare typo, vanliga ord = sannolikare domänterm).
 4. **Hunspell en_US** — samma logik mot `## English Version`-sektionen, tröskel < 5 filer.
 

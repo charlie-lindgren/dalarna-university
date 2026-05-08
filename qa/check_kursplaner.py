@@ -12,7 +12,7 @@ Kontroller som körs:
   3.  Hunspell stavning svenska (sv_SE)
   4.  Hunspell stavning engelska (en_US) — English Version-sektionen
   5a. Introfras (existens)
-  5b. Frasningskonsistens (gold standard + tom rad)
+  5b. Frasningskonsistens (introfras matchar referensformen)
   6.  Betygsskala — inkonsekvent delskalor
   7.  Examinationsformer — hp-summa i Betyg matchar inte kursens hp
   8.  Omfång lärandemål — för få (< 4) eller för många (> 12)
@@ -111,8 +111,8 @@ def check_introfras(files: list[Path]) -> list[dict]:
 
 
 def check_frasning(files: list[Path]) -> list[dict]:
-    """Matchar introfrasen exakt 'Efter godkänd kurs ska studenten kunna:' och
-    finns en tom rad mellan frasen och första punktlistan?"""
+    """Matchar introfrasen exakt referensformen
+    'Efter godkänd kurs ska studenten kunna:'?"""
     findings = []
     for p in files:
         body = strip_frontmatter(p.read_text(encoding="utf-8"))
@@ -126,27 +126,17 @@ def check_frasning(files: list[Path]) -> list[dict]:
             continue
         before = lo_section[: first_bullet.start()]
         if not ANY_INTRO_RE.search(before):
-            # Existens-fallet hanteras av check_introfras.
+            # Existens-/prosa-fallet hanteras av check_introfras.
             continue
-        m_gold = GOLD_INTRO_RE.search(before)
-        if not m_gold:
-            snippet = before.strip().replace("\n", " ")[:120]
-            findings.append({
-                "check": "frasning-avviker",
-                "code": course_code(p),
-                "subj": subject(p),
-                "detail": f"Avviker från gold standard: {snippet}…",
-            })
+        if GOLD_INTRO_RE.search(before):
             continue
-        between = before[m_gold.end():]
-        # Kräv minst en tom rad (\n\n) mellan introfrasen och första bulleten.
-        if "\n\n" not in between:
-            findings.append({
-                "check": "frasning-utan-blankrad",
-                "code": course_code(p),
-                "subj": subject(p),
-                "detail": "Saknar tom rad mellan introfras och lärandemål",
-            })
+        snippet = before.strip().replace("\n", " ")[:120]
+        findings.append({
+            "check": "frasning-avviker",
+            "code": course_code(p),
+            "subj": subject(p),
+            "detail": f"{snippet}…",
+        })
     return findings
 
 
@@ -402,7 +392,6 @@ CHECK_LABELS = {
     "stavning-en":           "Stavfel (engelska)",
     "introfras-fore-fras":   "Introfras före frasning",
     "frasning-avviker":      "Frasning avviker",
-    "frasning-utan-blankrad": "Frasning utan blankrad",
     "betygsskala-inkonsekvent": "Betygsskala inkonsekvent",
     "betyg-hp-summa":        "Betygsmoduler hp ≠ kurs hp",
     "examinationsformer-utan-punktlista": "Examinationsformer utan punktlista",

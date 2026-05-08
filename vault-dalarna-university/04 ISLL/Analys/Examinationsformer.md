@@ -296,18 +296,28 @@ status: första pass
 
 ## Syfte
 
-Säkerställa att hp-vikterna på betygsskalans **delmoment** (i sektionen `## Betyg`) summerar till kursens totala hp-värde. En felaktig summa tyder på att ett moment lagts till eller tagits bort utan att de övriga justerats.
+Två frågor om examinationen:
+
+1. **Form** — `## Examinationsformer` ska redovisa examinationsmoment som **punktlista** (`-`/`*`). Löpande prosa gör momenten otydliga och försämrar läsbarheten.
+2. **Hp-summa** — hp-vikterna på betygsskalans delmoment (i sektionen `## Betyg`) ska summera till kursens totala hp-värde. En felaktig summa tyder på att ett moment lagts till eller tagits bort utan att de övriga justerats.
 
 ## Metod
 
-`qa/check_kursplaner.py` läser kursens hp från frontmatter, extraherar alla `X hp`-värden i bullet-rader i `## Betyg`-sektionen och flaggar filer där absolutavvikelsen överstiger 0,1 hp.
+`qa/check_kursplaner.py` kör två fristående kontroller:
 
-**Begränsningar:** Kurser utan hp-specifikation per delmoment i Betyg-sektionen flaggas inte (kan vara legitimt). Manuell granskning krävs för att skilja scraping-artefakter från verkliga datafel.
+- **Examinationsformer utan punktlista** (`examinationsformer-utan-punktlista`) — letar i `## Examinationsformer` efter rader som matchar `^\s*[-*]\s+\S`. Flaggar kursplanen om sektionen har innehåll men inga sådana rader.
+- **Betygsmoduler hp ≠ kurs hp** (`betyg-hp-summa`) — läser kursens hp från frontmatter (`hp:`), extraherar alla `X hp`-värden i bullet-rader i `## Betyg`-sektionen och flaggar filer där absolutavvikelsen överstiger 0,1 hp.
+
+**Begränsningar:**
+
+- Kurser utan hp-specifikation per delmoment i Betyg-sektionen flaggas inte (kan vara legitimt).
+- Numrerade listor (`1. tentamen`) räknas inte som punktlista — ger falskt positivt utfall för punktlista-checken.
+- Manuell granskning krävs för att skilja scraping-artefakter från verkliga datafel.
 
 ## Datakälla
 
 - Alla kursplaner under `0X {INST}/Kursplaner/` (IIT + IHV + IKS + ISLL)
-- Endast sektionen `## Examinationsformer`
+- Sektionerna `## Examinationsformer` (form-checken) och `## Betyg` (hp-summa-checken)
 
 ## Resultat
 

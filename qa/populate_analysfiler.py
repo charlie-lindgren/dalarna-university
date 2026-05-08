@@ -77,8 +77,7 @@ ANALYS_FILES: dict[str, dict[str, str]] = {
         "Introfras före frasning": "Prosa/rubrik före frasning",
     },
     "Frasningskonsistens.md": {
-        "Frasning avviker":        "Avviker från gold standard",
-        "Frasning utan blankrad":  "Saknar tom rad före punktlista",
+        "Frasning avviker": "Avviker från referensformen",
     },
     "Stavfel och språkbruk.md": {
         "Dubblerat ord":      "Dubblerat ord",
@@ -87,7 +86,6 @@ ANALYS_FILES: dict[str, dict[str, str]] = {
         "Stavfel (engelska)": "Felstavning (en)",
     },
     "Betygsskalor.md": {
-        "Betygsskala A–F":          "A–F-skala",
         "Betygsskala inkonsekvent": "Inkonsekvent delskalor",
     },
     "Examinationsformer.md": {
