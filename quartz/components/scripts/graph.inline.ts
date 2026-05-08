@@ -9,6 +9,8 @@ import {
   forceLink,
   forceCollide,
   forceRadial,
+  forceX,
+  forceY,
   zoomIdentity,
   select,
   drag,
@@ -198,6 +200,32 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
   const radius = (Math.min(width, height) / 2) * 0.8
   if (enableRadial) simulation.force("radial", forceRadial(radius).strength(0.2))
+
+  // HDA: anchor each institution to its own quadrant so the four flowers
+  // sit in predictable, non-overlapping regions. Combined with the link
+  // filter above (selfContainedClusters), this gives a clean four-island
+  // layout regardless of cluster size.
+  if (selfContainedClusters) {
+    const dx = width / 3.5
+    const dy = height / 3.5
+    const quadrant: Record<string, [number, number]> = {
+      iit:  [-dx, -dy],
+      ihv:  [ dx, -dy],
+      iks:  [-dx,  dy],
+      isll: [ dx,  dy],
+    }
+    const anchorX = (n: NodeData) => {
+      const inst = institutionOfSlug(n.id)
+      return inst ? quadrant[inst][0] : 0
+    }
+    const anchorY = (n: NodeData) => {
+      const inst = institutionOfSlug(n.id)
+      return inst ? quadrant[inst][1] : 0
+    }
+    simulation
+      .force("anchorX", forceX<NodeData>(anchorX).strength(0.18))
+      .force("anchorY", forceY<NodeData>(anchorY).strength(0.18))
+  }
 
   // precompute style prop strings as pixi doesn't support css variables
   const cssVars = [
