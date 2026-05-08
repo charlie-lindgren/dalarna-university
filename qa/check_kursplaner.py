@@ -52,27 +52,11 @@ def load_files() -> list[Path]:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# Check 5a — Introfras (existens)
-# Check 5b — Frasningskonsistens (gold-standard match + tom rad före punktlista)
+# Check 5a — Introfras (rubriken följs direkt av en *Efter ...*-fras)
+# Check 5b — Frasningskonsistens (introfras matchar referensformen)
 # ─────────────────────────────────────────────────────────────────────────────
 GOLD_INTRO_TEXT = "Efter godkänd kurs ska studenten kunna:"
-GOLD_INTRO_RE = re.compile(re.escape(GOLD_INTRO_TEXT))
-# Lös regex för att avgöra om en introfras alls existerar (något i stil med
-# "Efter ... kunna" eller "studenten ska ..."). Räcker för att skilja "ingen
-# introfras alls" från "introfras som avviker från gold standard".
-ANY_INTRO_RE = re.compile(
-    r"(?:efter\b.{0,80}\bkunna|studenten\s+(?:ska(?:ll)?|skall)\b.{0,80}\bkunna|"
-    r"kursens\s+\S+\s+m[åa]l\b|m[åa]let\s+med\s+kursen\b)",
-    re.IGNORECASE | re.DOTALL,
-)
-DELKURS_EXEMPT_RE = re.compile(
-    r"efter\s+avslutad\s+delkurs\s+ska\s+den\s+studerande\s+kunna\s*:",
-    re.IGNORECASE,
-)
-
-
-def _first_bullet_match(text: str) -> re.Match | None:
-    return LO_BULLET_RE.search(text)
+DELKURS_INTRO_TEXT = "Efter avslutad delkurs ska den studerande kunna:"
 
 
 def check_introfras(files: list[Path]) -> list[dict]:
@@ -135,7 +119,7 @@ def check_frasning(files: list[Path]) -> list[dict]:
             continue
         if first_line == GOLD_INTRO_TEXT:
             continue
-        if first_line == "Efter avslutad delkurs ska den studerande kunna:":
+        if first_line == DELKURS_INTRO_TEXT:
             continue
         snippet = first_line[:120]
         findings.append({
