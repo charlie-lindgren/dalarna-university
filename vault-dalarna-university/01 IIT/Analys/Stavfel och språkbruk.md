@@ -24,6 +24,7 @@ status: första pass
 > | [BFY227](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY227) | FYA | Felstavning (en) | `fup` (en) |
 > | [AIK232](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AIK232) | IKA | Felstavning (en) | `immon` (en) |
 > | [GIK29B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK29B) | IKA | Felstavning (en) | `vgs` (en) |
+> | [GMA2EY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2EY) | MAA | Felstavning | `indicies` → indices (en) |
 > | [GMA2EY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2EY) | MAA | Felstavning (en) | `indicies` (en) |
 > | [MD1085](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD1085) | MDI | Felstavning | `förutsättingar` (sv) |
 > | [MD1098](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD1098) | MDI | Felstavning (en) | `pupls` (en) |
@@ -34,7 +35,6 @@ status: första pass
 > | [GMT2QF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT2QF) | MTA | Felstavning (en) | `reults` (en) |
 > | [GMT34K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34K) | MTA | Felstavning (en) | `programing` (en) |
 > | [GMT34R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34R) | MTA | Felstavning (en) | `variousengineering` (en) |
-> | [GMT3JQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JQ) | MTA | Felstavning (en) | `mechatronic` (en) |
 > | [AEG225](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG225) | MÖY | Felstavning | `produktionskattelättnader` (sv) |
 > | [AEG22R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG22R) | MÖY | Felstavning | `mättteknik` (sv) |
 > | [AEG2AL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AL) | MÖY | Felstavning (en) | `andrelate` (en) |
@@ -42,16 +42,16 @@ status: första pass
 > | [AEG2AW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AW) | MÖY | Felstavning (en) | `wich` (en) |
 > | [AEG2AY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AY) | MÖY | Felstavning | `inlämninguppgifter` (sv) |
 > | [AEG2C5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2C5) | MÖY | Felstavning (en) | `laboatory` (en) |
-> | [EG3007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3007) | MÖY | Felstavning (en) | `absorbers` (en) |
 > | [EG3014](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3014) | MÖY | Felstavning (en) | `appropiate` (en) |
 > | [EG3014](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3014) | MÖY | Felstavning (en) | `crediits` (en) |
-> | [EG3015](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3015) | MÖY | Felstavning (en) | `horizontoscope` (en) |
 > | [EG3017](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3017) | MÖY | Felstavning | `genomförds` (sv) |
 > | [EG3018](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3018) | MÖY | Felstavning | `genomförds` (sv) |
 > | [EG4001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG4001) | MÖY | Felstavning (en) | `continuewith` (en) |
 > | [EG4001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG4001) | MÖY | Felstavning (en) | `fulltime` (en) |
 > | [GEG26J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG26J) | MÖY | Felstavning (en) | `tutoria` (en) |
+> | [GEG2ZQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZQ) | MÖY | Felstavning | `solcellsanläggingar` → solcellsanläggningar |
 > | [GEG2ZQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZQ) | MÖY | Felstavning | `inlämninguppgifter` (sv) |
+> | [GEG2ZQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZQ) | MÖY | Felstavning | `solcellsanläggingar` (sv) |
 > | [GEG2ZR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZR) | MÖY | Felstavning | `inlämingsuppgifter` (sv) |
 > | [GSQ25J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25J) | SQQ | Dubblerat ord | `hp` — …ch skriftliga inlämningsuppgifter i kvantitativa metoder, 4 hp hp  ## Arbetsformer  Föreläsningar, seminarier och övningar.… |
 > | [GSQ25K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25K) | SQQ | Felstavning | `skalniåver` (sv) |

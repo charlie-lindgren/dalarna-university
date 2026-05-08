@@ -227,6 +227,13 @@ SV_IGNORE = {
     "förståelser","självtillitsträning","läraktivitet","läraktiviteter",
     # IKS — egennamn och fältspecifika sammansättningar
     "angelöw","kravställan",
+    # IKS+ISLL — egennamn (efternamn, orter)
+    "bjälesjö","clevesköld","elfström","hässel","linköpings","löfdahl",
+    "norrköping","nyström","sälenfjällen","sölvell","åberg","åke","göteborg",
+    # IKS+ISLL — fältspecifika sammansättningar och förkortningar
+    "europarådet","mastersnivå","transspråkande","vernakulär",
+    "standardnära","lpfö","iii-nivå","ränteparitetsvillkor",
+    "tillgångspristeorier",
 }
 HAS_SV = re.compile(r"[åäöÅÄÖ]")
 
@@ -405,6 +412,22 @@ EN_IGNORE = {
     # ISLL — egennamn (författare/forskare) och akronymer
     "emily","hanan","idris","muhammed","murr","nasrallah","yousef","zakaria",
     "hec",
+    # IKS+ISLL — egennamn (orter, personer, institutioner)
+    "balahga","canaan","jerusalem","jewish","maghreb","mesopotamia",
+    "modigliani","sardinia","scholes","sicily","stalin","irish",
+    "powerpoint","wikipedia","konjunkturinstitutet","kungliga",
+    # IKS+ISLL — humaniora/samhällsvetenskap, brittisk stavning, akademiska termer
+    "aggregative","attractivity","authorships","blogosphere","chassidism",
+    "chorological","civilising","confucianism","constructivism",
+    "demographical","digitalization","esotericism","externalities","filmic",
+    "ideational","interactionism","interconnectedness","judaism",
+    "kabbalistic","langue","modus","multimodality","operandi",
+    "problematique","systematised","systematising","taoism","internetbased",
+    # IKS+ISLL — Svenska ord som läcker in i engelsk text
+    "antagna","audiovisuell","avklarade","fritidshem","grund","inklusive",
+    "inriktningen","kurs","metod","sidor","studerande","tematisk",
+    "tidigare","uppsats","utveckling","vara","varav","specialiseringar",
+    "dessutom","hela",
 }
 
 
