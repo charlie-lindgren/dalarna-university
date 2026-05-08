@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Frasningskonsistens.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (98 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Frasningskonsistens.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (118 rader)</span></a>
 
-> [!example]- 98 fynd — klicka för att expandera
+> [!example]- 118 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -20,6 +20,7 @@ status: första pass
 > | [ABY2BL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABY2BL) | BYA | Avviker från referensformen | Efter godkänd kurs ska studenterna kunna:… |
 > | [BY1047](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1047) | BYA | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |
 > | [BY1054](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1054) | BYA | Avviker från referensformen | Efter avslutad kurs skall studenten kunna:… |
+> | [BY2025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY2025) | BYA | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | [BY3005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY3005) | BYA | Avviker från referensformen | Efter avslutad kurs ska studenterna kunna:… |
 > | [GBY2RN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2RN) | BYA | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |
 > | [GBY2V5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2V5) | BYA | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |
@@ -33,10 +34,29 @@ status: första pass
 > | [GDT2JN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT2JN) | DTA | Avviker från referensformen | Efter avslutad kurs skall studenten kunna:… |
 > | [GDT34Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT34Z) | DTA | Avviker från referensformen | Efter godkänd kurs skall studenten kunna:… |
 > | [ET1029](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ET1029) | ETA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | [GIE26L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26L) | IEA | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | [GIE26M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26M) | IEA | Avviker från referensformen | Efter avslutad kurs skall studenten kunna:… |
+> | [GIE26N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26N) | IEA | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | [GIE2QS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2QS) | IEA | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | [GIE2RF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2RF) | IEA | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |
 > | [GIE36Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE36Z) | IEA | Avviker från referensformen | Efter godkänd kurs ska studenten kunna:_… |
+> | [IE1069](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IE1069) | IEA | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | [GIK28T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK28T) | IKA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna… |
 > | [GIK29B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK29B) | IKA | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | [GIK2BD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2BD) | IKA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna… |
+> | [GIK2FB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2FB) | IKA | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | [GIK2Q3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2Q3) | IKA | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | [GIK2QZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2QZ) | IKA | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | [GIK2UK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2UK) | IKA | Avviker från referensformen | Efter genomförd kurs skall studenten kunna:… |
+> | [GIK2XJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2XJ) | IKA | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | [GIK2XK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2XK) | IKA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | [GIK2YP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YP) | IKA | Avviker från referensformen | Efter godkänd kurs ska den studerande kunna:… |
+> | [GIK2YR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YR) | IKA | Avviker från referensformen | Efter godkänd kurs ska den studerande kunna:… |
+> | [GIK32K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32K) | IKA | Avviker från referensformen | Efter godkänd kurs ska studenten kunna… |
+> | [GIK32L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32L) | IKA | Avviker från referensformen | Efter godkänd kurs ska studenten kunna… |
+> | [GIK32M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32M) | IKA | Avviker från referensformen | Efter godkänd kurs ska studenten kunna… |
+> | [GIK32N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32N) | IKA | Avviker från referensformen | Efter godkänd kurs ska studenten kunna… |
+> | [GIK339](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK339) | IKA | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | [GMA2EY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2EY) | MAA | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | [GMD2BH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2BH) | MDI | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [GMD2EX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2EX) | MDI | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |

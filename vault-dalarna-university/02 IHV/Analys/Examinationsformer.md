@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Examinationsformer.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (190 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Examinationsformer.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (173 rader)</span></a>
 
-> [!example]- 190 fynd — klicka för att expandera
+> [!example]- 173 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -28,7 +28,6 @@ status: första pass
 > | [GIH2DC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2DC) | IDA | Saknar punktlista | Examinationsformer skrivet som löpande text: Inlämningsuppgift samt muntlig salstentamen.… |
 > | [GIH2DD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2DD) | IDA | Saknar punktlista | Examinationsformer skrivet som löpande text: Salstentamen.… |
 > | [GIH2DE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2DE) | IDA | Saknar punktlista | Examinationsformer skrivet som löpande text: Salstentamen.… |
-> | [GIH2G4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2G4) | IDA | HP-summa stämmer ej | Betygsmoduler summerar till 7.5 hp, kursens hp är 15 hp |
 > | [GIH2G4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2G4) | IDA | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom seminarier, muntliga och praktiska redovisningar, tentamen samt skriftlig projektredovisning.… |
 > | [GIH2LP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2LP) | IDA | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom aktivt deltagande i seminarier och individuella skriftliga inlämningsuppgifter.… |
 > | [GIH2LT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2LT) | IDA | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig inlämningsuppgift, muntlig redovisning.… |
@@ -49,21 +48,8 @@ status: första pass
 > | [GIH2VK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2VK) | IDA | Saknar punktlista | Examinationsformer skrivet som löpande text: Praktisk redovisning, aktivt deltagande i seminarier och skriftliga inlämningsuppgifter.… |
 > | [GIH35B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35B) | IDA | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker skriftligt, genom färdigställandet av en vetenskaplig uppsats, och muntligt, genom ventilering av den e… |
 > | [GIH35W](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35W) | IDA | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker skriftligt, genom färdigställandet av en vetenskaplig uppsats, och muntligt, genom ventilering av den e… |
-> | [GIH392](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH392) | IDA | HP-summa stämmer ej | Betygsmoduler summerar till 15 hp, kursens hp är 7.5 hp |
-> | [GIH394](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH394) | IDA | HP-summa stämmer ej | Betygsmoduler summerar till 15 hp, kursens hp är 7.5 hp |
 > | [GIH3CS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3CS) | IDA | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom skriftlig salstentamen.… |
 > | [GIH3D6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3D6) | IDA | Saknar punktlista | Examinationsformer skrivet som löpande text: Muntlig redovisning och skriftliga inlämningsuppgifter.… |
-> | [GIH3F5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3F5) | IDA | HP-summa stämmer ej | Betygsmoduler summerar till 12 hp, kursens hp är 7.5 hp |
-> | [GIH3F8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3F8) | IDA | HP-summa stämmer ej | Betygsmoduler summerar till 12 hp, kursens hp är 7.5 hp |
-> | [GIH3F9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3F9) | IDA | HP-summa stämmer ej | Betygsmoduler summerar till 12.5 hp, kursens hp är 7.5 hp |
-> | [GIH3FF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3FF) | IDA | HP-summa stämmer ej | Betygsmoduler summerar till 10.5 hp, kursens hp är 7.5 hp |
-> | [GIH3G8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G8) | IDA | HP-summa stämmer ej | Betygsmoduler summerar till 24 hp, kursens hp är 15 hp |
-> | [GIH3GE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GE) | IDA | HP-summa stämmer ej | Betygsmoduler summerar till 12 hp, kursens hp är 7.5 hp |
-> | [GIH3GG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GG) | IDA | HP-summa stämmer ej | Betygsmoduler summerar till 12 hp, kursens hp är 7.5 hp |
-> | [GIH3GH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GH) | IDA | HP-summa stämmer ej | Betygsmoduler summerar till 10.5 hp, kursens hp är 7.5 hp |
-> | [GIH3GJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GJ) | IDA | HP-summa stämmer ej | Betygsmoduler summerar till 12 hp, kursens hp är 7.5 hp |
-> | [GIH3GK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GK) | IDA | HP-summa stämmer ej | Betygsmoduler summerar till 11.5 hp, kursens hp är 7.5 hp |
-> | [GIH3JL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3JL) | IDA | HP-summa stämmer ej | Betygsmoduler summerar till 12 hp, kursens hp är 7.5 hp |
 > | [IH1001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1001) | IDA | Saknar punktlista | Examinationsformer skrivet som löpande text: Seminarier, laborativa pass och redovisningar är examinerande och därmed obligatoriska. Examinationsformerna är såväl sk… |
 > | [IH1002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1002) | IDA | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftliga, muntliga och gestaltande. Seminarier, laborativa pass och redovisningar är examinerande och därmed obligator… |
 > | [IH1003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1003) | IDA | Saknar punktlista | Examinationsformer skrivet som löpande text: Seminarier, laborativa pass och redovisningar är examinerande och därmed obligatoriska. Examinationsformerna är såväl sk… |
@@ -123,7 +109,6 @@ status: första pass
 > | [GNV2KY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV2KY) | NAV | Saknar punktlista | Examinationsformer skrivet som löpande text: Den studerande examineras genom aktivt deltagande i seminarier, laborationer, workshops och exkursioner samt genom muntl… |
 > | [NV1024](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NV1024) | NAV | Saknar punktlista | Examinationsformer skrivet som löpande text: Bedömning sker kontinuerligt genom aktivt deltagande samt skriftliga och muntliga redovisningar vid seminarier, laborati… |
 > | [NV1027](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NV1027) | NAV | Saknar punktlista | Examinationsformer skrivet som löpande text: Bedömning sker kontinuerligt genom aktivt deltagande i seminarier, laborationer, exkursioner och studiebesök, samt genom… |
-> | [NV1035](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NV1035) | NAV | HP-summa stämmer ej | Betygsmoduler summerar till 50 hp, kursens hp är 30 hp |
 > | [NV1035](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NV1035) | NAV | Saknar punktlista | Examinationsformer skrivet som löpande text: Delkurs 1: aktivt deltagande i seminarier, lektioner, laborationer, genom muntliga och skriftliga redovisningar samt mun… |
 > | [NV1036](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NV1036) | NAV | Saknar punktlista | Examinationsformer skrivet som löpande text: Delkurs 1 examineras genom aktivt deltagande i seminarier, laborationer, workshops och exkursioner, genom muntliga redov… |
 > | [NV3001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NV3001) | NAV | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom seminarier samt skriftlig och muntlig redovisning av en individuell projektuppgift.… |
@@ -164,9 +149,7 @@ status: första pass
 > | [ASR24V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR24V) | SRP | Saknar punktlista | Examinationsformer skrivet som löpande text: Seminarier, projektplan och inlämningsuppgifter.… |
 > | [ASR24W](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR24W) | SRP | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftliga inlämningsuppgifter och seminarier.… |
 > | [ASR24X](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR24X) | SRP | Saknar punktlista | Examinationsformer skrivet som löpande text: Seminarier med inlämningsuppgifter, varav ett seminarium där kritisk granskning av varandras skriftliga arbeten genomför… |
-> | [ASR25P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR25P) | SRP | HP-summa stämmer ej | Betygsmoduler summerar till 4 hp, kursens hp är 7.5 hp |
 > | [ASR25P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR25P) | SRP | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination i kursen sker genom en skriftlig hemtentamen, inlämningsuppgifter som diskuteras vid seminarier och kliniska… |
-> | [ASR25Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR25Q) | SRP | HP-summa stämmer ej | Betygsmoduler summerar till 3 hp, kursens hp är 6 hp |
 > | [ASR25Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR25Q) | SRP | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination i kursen sker genom en skriftlig salstentamen, inlämningsuppgifter som diskuteras vid seminarier och klinisk… |
 > | [ASR25T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR25T) | SRP | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftliga inlämningsuppgifter och seminarium.… |
 > | [ASR25U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR25U) | SRP | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftliga inlämningsuppgifter och seminarier.… |

@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Frasningskonsistens.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (315 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Frasningskonsistens.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (332 rader)</span></a>
 
-> [!example]- 315 fynd — klicka för att expandera
+> [!example]- 332 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -58,7 +58,19 @@ status: första pass
 > | [GBQ2WK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2WK) | BPO | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | [GBQ2XC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2XC) | BPO | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [GBQ2XD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2XD) | BPO | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | [EU1027](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EU1027) | EUN | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |
+> | [EU1033](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EU1033) | EUN | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |
+> | [EU1034](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EU1034) | EUN | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |
+> | [EU1035](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EU1035) | EUN | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |
+> | [EU1036](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EU1036) | EUN | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |
+> | [EU1037](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EU1037) | EUN | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |
+> | [GEU2CA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2CA) | EUN | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |
+> | [GEU2CB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2CB) | EUN | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |
+> | [GEU2KV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2KV) | EUN | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |
+> | [GEU2KW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2KW) | EUN | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |
+> | [GEU2KX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2KX) | EUN | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | [AFI273](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFI273) | FIA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | [FI1040](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FI1040) | FIA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [GFI282](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFI282) | FIA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [AHI23V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI23V) | HIA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [AHI23W](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI23W) | HIA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
@@ -170,6 +182,8 @@ status: första pass
 > | [PE2007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE2007) | PEA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [PE2016](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE2016) | PEA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna… |
 > | [PE3002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE3002) | PEA | Avviker från referensformen | Efter avslutad kurs skall den studerande kunna:… |
+> | [GPA2LN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2LN) | PEE | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | [GPA2P7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2P7) | PEE | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |
 > | [APG246](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG246) | PGA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [APG247](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG247) | PGA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [APG27T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG27T) | PGA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
@@ -270,6 +284,7 @@ status: första pass
 > | [SK2013](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SK2013) | SKA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [SK2015](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SK2015) | SKA | Avviker från referensformen | Efter avslutade kurs ska den studerande kunna… |
 > | [SK2016](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SK2016) | SKA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | [GSO2PL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO2PL) | SOA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [GSO2UC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO2UC) | SOA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [SO1006](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SO1006) | SOA | Avviker från referensformen | Efter genomgången kurs ska den studerande kunna:… |
 > | [SO1019](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SO1019) | SOA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna… |
@@ -277,6 +292,7 @@ status: första pass
 > | [SO1033](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SO1033) | SOA | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |
 > | [SO1034](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SO1034) | SOA | Avviker från referensformen | Efter avslutad kurs skall den studerande kunna:… |
 > | [SO1037](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SO1037) | SOA | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |
+> | [SO1044](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SO1044) | SOA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [SO1047](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SO1047) | SOA | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |
 > | [ATR25Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATR25Z) | TRU | Avviker från referensformen | Efter avslutad kurs skall studenten kunna:… |
 > | [ATR26B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATR26B) | TRU | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
@@ -312,6 +328,7 @@ status: första pass
 > | [TR1036](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR1036) | TRU | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | [TR3006](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR3006) | TRU | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | [TR3009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR3009) | TRU | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | [TR3010](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR3010) | TRU | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | [AS2001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS2001) | UVX | Avviker från referensformen | Efter genomgången kurs ska den studerande kunna:… |
 > | [AS2002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS2002) | UVX | Avviker från referensformen | Efter genomgången kurs skall den studerande kunna:… |
 > | [AS2003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS2003) | UVX | Avviker från referensformen | Efter genomgången kurs skall den studerande kunna:… |

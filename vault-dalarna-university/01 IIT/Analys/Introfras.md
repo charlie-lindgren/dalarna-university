@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Introfras.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (135 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Introfras.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (102 rader)</span></a>
 
-> [!example]- 135 fynd — klicka för att expandera
+> [!example]- 102 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -22,7 +22,6 @@ status: första pass
 > | [BY1065](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1065) | BYA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att kursdeltagaren ska skaffa sig grundläggande kunskaper om BIM (Byggnadsinformati… |
 > | [BY2016](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY2016) | BYA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med examensarbetet är att studenten inom givna ramar ska utföra ett arbete av utvecklingskaraktär… |
 > | [BY2022](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY2022) | BYA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att studenten ska uppnå förmåga att med helhetssyn självständigt och kreativt ident… |
-> | [BY2025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY2025) | BYA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse_… |
 > | [BY3001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY3001) | BYA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Vid design av energieffektiva byggnader med hög nivå av komfort och hållbarhet krävs både en djup kunskap om detaljer so… |
 > | [BY3004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY3004) | BYA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen fokuserar på miljöklassningsverktyg för byggnader. Efter avslutad kurs ska studenterna kunna:… |
 > | [GBY2GB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2GB) | BYA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att studenten efter genomgången kurs ska kunna rita en 3D-modell.… |
@@ -39,64 +38,38 @@ status: första pass
 > | [GBY2VR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2VR) | BYA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att öka medvetenheten om de hållbarhetsutmaningar som vi står inför. Kursen avser a… |
 > | [GBY2XF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2XF) | BYA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att studenten ska skaffa sig kunskaper i husbyggnadsteknik, speciellt beträffande u… |
 > | [BFY224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY224) | FYA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande ska tillägna sig kunskap om vetenskapligt arbetssätt inom naturvetenskap … |
-> | [BFY225](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY225) | FYA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kunskap och förståelse… |
-> | [BFY226](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY226) | FYA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse_… |
-> | [BFY227](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY227) | FYA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse… |
+> | [BFY227](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY227) | FYA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Efter godkänd kurs ska studenten kunna:… |
 > | [FY1018](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FY1018) | FYA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Studenten skall efter genomgången kurs kunna… |
-> | [GFY345](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFY345) | FYA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse_… |
-> | [GIE26L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26L) | IEA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse_… |
-> | [GIE26M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26M) | IEA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse_… |
-> | [GIE26N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26N) | IEA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse_… |
-> | [GIE26P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26P) | IEA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse… |
-> | [GIE29N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE29N) | IEA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse… |
-> | [GIE2L7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2L7) | IEA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse… |
-> | [GIE2MF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2MF) | IEA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse… |
-> | [GIE2QS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2QS) | IEA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': **Kunskap och förståelse**… |
-> | [GIE2RF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2RF) | IEA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse_… |
-> | [GIE3H2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3H2) | IEA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse… |
-> | [IE1068](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IE1068) | IEA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse… |
-> | [IE1069](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IE1069) | IEA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse_… |
-> | [IE1076](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IE1076) | IEA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse… |
+> | [GIE26P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26P) | IEA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Efter avslutad kurs ska studenten kunna… |
+> | [GIE29N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE29N) | IEA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Efter avslutad kurs ska studenten kunna… |
+> | [GIE2L7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2L7) | IEA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Efter avslutad kurs ska studenten kunna… |
+> | [GIE2MF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2MF) | IEA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Efter avslutad kurs ska studenten kunna:… |
+> | [GIE3H2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3H2) | IEA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Efter godkänd kurs ska studenten kunna:… |
+> | [IE1068](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IE1068) | IEA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Efter avslutad kurs ska studenten kunna:… |
+> | [IE1076](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IE1076) | IEA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Efter avslutad kurs ska studenten kunna… |
 > | [IE2003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IE2003) | IEA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': De allmänna målen med examensarbetet är att ge kursdeltagarna möjligheter att utveckla sin förmåga att inom ämnet indust… |
-> | [AIK232](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AIK232) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse… |
+> | [AIK232](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AIK232) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Efter avslutad kurs ska studenten kunna:… |
 > | [GIK23M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK23M) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att studenten ska tillägna sig kunskap om principer och metoder för att designa och använda … |
-> | [GIK289](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK289) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse… |
+> | [GIK289](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK289) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Efter avslutad kurs ska studenten kunna:… |
 > | [GIK299](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK299) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande tillägnar sig grundläggande kunskaper och färdigheter i att utveckla prog… |
 > | [GIK2AL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2AL) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att studenten ska tillägna sig kunskap om principer och metoder för att designa och använda … |
-> | [GIK2BD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2BD) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kunskap och förståelse… |
-> | [GIK2FB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2FB) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kunskap och förståelse… |
-> | [GIK2JX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2JX) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': **Kunskap och förståelse… |
+> | [GIK2JX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2JX) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': **Efter avslutad kurs ska… |
 > | [GIK2KM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2KM) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet är att studenten ska förvärva fördjupade kunskaper och färdigheter i att använda och utveckla mju… |
-> | [GIK2LF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2LF) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse… |
+> | [GIK2LF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2LF) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Efter avslutad kurs ska den studerande… |
 > | [GIK2NV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2NV) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet är att studenten ska förvärva fördjupade kunskaper och färdigheter i att hantera data över ett da… |
 > | [GIK2NX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2NX) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande tillägnar sig kunskaper och färdigheter i att samla in och… |
 > | [GIK2PB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2PB) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande ska tillägna sig kunskap om och förståelse för systemförvaltning och test… |
 > | [GIK2PD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2PD) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att introducera studenten till nätverk, nätverkstjänster , nätverkssäkerhet, datakommunikati… |
 > | [GIK2PF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2PF) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet är att studenterna förvärvar fördjupade kunskaper och färdigheter inom IT-arkitektur som omfattar… |
 > | [GIK2PG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2PG) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att studenter i grupp i ett systemutvecklingsprojekt planerar, analyserar, designar… |
-> | [GIK2QZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2QZ) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse_… |
-> | [GIK2UK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2UK) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kunskap och förståelse… |
 > | [GIK2V4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2V4) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att introducera studenten till cybersäkerhetstrender, hotbilder vid IT-användning mot person… |
-> | [GIK2XJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2XJ) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kunskap och förståelse… |
-> | [GIK2XK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2XK) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': **Kunskap och förståelse**… |
-> | [GIK2XZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2XZ) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': **Kunskap och förståelse… |
-> | [GIK2YK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YK) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse… |
-> | [GIK2YL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YL) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse… |
-> | [GIK2YN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YN) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse… |
-> | [GIK2YP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YP) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse_… |
-> | [GIK2YR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YR) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kunskap och förståelse… |
-> | [GIK32J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32J) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kunskap och förståelse… |
-> | [GIK32K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32K) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse _… |
-> | [GIK32L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32L) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse _… |
-> | [GIK32M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32M) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse _… |
-> | [GIK32N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32N) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse _… |
-> | [GIK339](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK339) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse_… |
-> | [GIK346](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK346) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': **Kunskap och förståelse**… |
-> | [GIK347](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK347) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse… |
-> | [GIK348](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK348) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse… |
-> | [GIK34Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK34Y) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse_… |
-> | [GIK38G](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK38G) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse_… |
-> | [GIK38H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK38H) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse_… |
+> | [GIK2XZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2XZ) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': **Efter avslutad kurs ska den studerande kunna:… |
+> | [GIK2YK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YK) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Efter godkänd kurs ska den studerande kunna:… |
+> | [GIK2YL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YL) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Efter godkänd kurs ska den studerande kunna:… |
+> | [GIK2YN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YN) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Efter godkänd kurs ska den studerande kunna:… |
+> | [GIK32J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32J) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Efter godkänd kurs ska studenten kunna:_… |
+> | [GIK347](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK347) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Efter godkänd kurs ska den studenten kunna… |
+> | [GIK348](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK348) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Efter godkänd kurs ska studenten kunna:… |
 > | [IK1032](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IK1032) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Målet med examensarbetet är att studenten ska förvärva fördjupade kunskaper inom examensarbetets ämnesområde genom att u… |
 > | [IK1064](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IK1064) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande ska tillägna sig utökade kunskaper i objektorienterad programmering och m… |
 > | [IK1066](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IK1066) | IKA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande tillägnar sig fördjupade kunskaper och färdigheter inom ämnesområdet geno… |
@@ -115,11 +88,6 @@ status: första pass
 > | [GMD33X](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD33X) | MDI | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens… |
 > | [GMD33Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD33Y) | MDI | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att de studerande utvecklar och fördjupar sina matematiska förmågor och sina kunskaper i mat… |
 > | [MD2022](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2022) | MDI | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet för kursen är att den studerande ska vidga och… |
-> | [GMT343](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT343) | MTA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse_… |
-> | [GMT344](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT344) | MTA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse_… |
-> | [GMT349](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT349) | MTA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse_… |
-> | [GMT34R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34R) | MTA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse_… |
-> | [GMT34W](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34W) | MTA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Kunskap och förståelse_… |
 > | [MT1033](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT1033) | MTA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Studenten skall efter kursen kunna… |
 > | [MT1074](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT1074) | MTA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att studenten skall tillägna sig kännedom om och förmåga till analys av de viktigas… |
 > | [BEG222](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BEG222) | MÖY | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att studenten skall ha nått en förtrogenhet med rådande forsknings- och utbildnings… |
@@ -148,7 +116,6 @@ status: första pass
 > | [AMI295](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI295) | XYZ | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att studenten ska tillägna sig kunskaper om begrepp och metoder av Business Intelligence (BI… |
 > | [GMI2C8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI2C8) | XYZ | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Examensarbetet är det avslutande tillfället för studenten att tillämpa grundläggande kunskaper och ytterligare fördjupa … |
 > | [GMI2NW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI2NW) | XYZ | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att studenten ska behandla aktiviteter relaterade till automatiska programvarutest … |
-> | [GMI35R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI35R) | XYZ | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': **Kunskap och förståelse**… |
 
 ## Syfte
 

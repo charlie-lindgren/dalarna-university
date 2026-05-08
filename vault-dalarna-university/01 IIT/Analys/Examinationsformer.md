@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Examinationsformer.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (170 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Examinationsformer.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (168 rader)</span></a>
 
-> [!example]- 170 fynd — klicka för att expandera
+> [!example]- 168 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -76,7 +76,6 @@ status: första pass
 > | [GIK2NX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2NX) | IKA | Saknar punktlista | Examinationsformer skrivet som löpande text: Duggor (2 hp) Laborationsredovisningar (2,5 hp) och inlämningsuppgifter (3 hp).… |
 > | [GIK2PB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2PB) | IKA | Saknar punktlista | Examinationsformer skrivet som löpande text: Seminarieuppgifter (2.5 hp), projekt (3.5 hp), laboration (1.5 hp).… |
 > | [GIK2PD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2PD) | IKA | Saknar punktlista | Examinationsformer skrivet som löpande text: Duggor (4x1hp) och projekt (3,5hp).… |
-> | [GIK2PF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2PF) | IKA | HP-summa stämmer ej | Betygsmoduler summerar till 6 hp, kursens hp är 7.5 hp |
 > | [GIK2PF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2PF) | IKA | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig tentamen 1,5 hp, seminarier 3 hp och laborationer 3 hp.… |
 > | [GIK2PG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2PG) | IKA | Saknar punktlista | Examinationsformer skrivet som löpande text: Individuellt PM (1,5 hp) Projektuppgift (6 hp)… |
 > | [GIK2Q3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2Q3) | IKA | Saknar punktlista | Examinationsformer skrivet som löpande text: Projektarbete (3,5 hp), laborationsredovisning (2 hp) och seminarier (2 hp)… |
@@ -111,7 +110,6 @@ status: första pass
 > | [GMD2MH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2MH) | MDI | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom skriftlig salstentamen och två individuella inlämningsuppgifter samt muntliga redovisningar.… |
 > | [GMD2MJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2MJ) | MDI | Saknar punktlista | Examinationsformer skrivet som löpande text: Examinationen sker genom muntliga och skriftliga redovisningar samt en skriftlig salstentamen.… |
 > | [GMD2PA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2PA) | MDI | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom en salstentamen, skriftliga inlämningsuppgifter, seminarier samt redovisningar.… |
-> | [GMD2TV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2TV) | MDI | HP-summa stämmer ej | Betygsmoduler summerar till 23.5 hp, kursens hp är 30 hp |
 > | [GMD2TV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2TV) | MDI | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom seminarier, muntliga och skriftiga redovisningar, skriftliga individuella inlämningsuppgifter sam… |
 > | [MD1085](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD1085) | MDI | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom muntliga och skriftliga redovisningar.… |
 > | [MD1097](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD1097) | MDI | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom aktivt deltagande i seminarier och skriftliga inlämningsuppgifter.… |
