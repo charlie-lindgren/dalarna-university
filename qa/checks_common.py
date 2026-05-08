@@ -194,6 +194,9 @@ SV_IGNORE = {
     "välfärdstjänstearbete","lässtilar",
     # Städer/orter (gemener) som kan förekomma i kursplaner
     "malmö","jönköping","örebro",
+    # IIT — fältspecifika sammansättningar
+    "vägprojekteringshjälpmedel","connectmöten","reellvärda",
+    "böjmotstånd","affärsplanbedömningar",
 }
 HAS_SV = re.compile(r"[åäöÅÄÖ]")
 
@@ -358,6 +361,9 @@ EN_IGNORE = {
     "problematizes","socialisation","neuropsychiatric","chorology",
     "filmmaking","multicamera","judokas","cartographically","onwards",
     "roleplays","islamic",
+    # IIT — historiska civilisationer, brittisk stavning, tekniktermer
+    "babylonian","mayan","sumerian","neighbourhood","neighbourhoods",
+    "cobots","bioenergy","biofuel","microsystems","insolation",
 }
 
 
