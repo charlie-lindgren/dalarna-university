@@ -92,8 +92,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
   // HDA: derive institution prefix from a slug. Robust to whatever Quartz
   // produces for "01 IIT/" / "02 IHV/" / "03 IKS/" / "04 ISLL/" — we just
-  // look at the first path segment.
-  const institutionOf = (slug: SimpleSlug): string | null => {
+  // look at the first path segment. (Tag-based institutionOf for node
+  // colouring lives further down; this one is slug-based for link filtering.)
+  const institutionOfSlug = (slug: SimpleSlug): string | null => {
     const first = slug.split("/")[0].toLowerCase()
     if (first.includes("isll")) return "isll"
     if (first.includes("iit")) return "iit"
@@ -119,8 +120,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     for (const dest of outgoing) {
       if (validLinks.has(dest)) {
         if (selfContainedClusters) {
-          const srcInst = institutionOf(source)
-          const dstInst = institutionOf(dest)
+          const srcInst = institutionOfSlug(source)
+          const dstInst = institutionOfSlug(dest)
           // Drop edges that cross between two different institutions; keep
           // edges where one or both ends sit outside the four institution
           // folders (e.g. the Dashboard hub) so the dandyflower stays connected.
