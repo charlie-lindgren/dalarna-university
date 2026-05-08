@@ -74,7 +74,7 @@ def build_code_to_institution_map() -> dict[str, str]:
 # Analysfil → (rapport-sektionsprefix → "Problem"-etikett i analystabellen)
 ANALYS_FILES: dict[str, dict[str, str]] = {
     "Introfras.md": {
-        "Introfras saknas": "Saknar introfras",
+        "Introfras före frasning": "Prosa/rubrik före frasning",
     },
     "Frasningskonsistens.md": {
         "Frasning avviker":        "Avviker från gold standard",

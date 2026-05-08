@@ -18,7 +18,7 @@ Kontroller som körs:
   8.  Omfång lärandemål — för få (< 4) eller för många (> 12)
   9.  Långa bullets (> 25 ord)
   10. Bloom-taxonomi — avancerade kurser med enbart låga nivåer
-  11. Svenska/engelska paritet — stor skillnad i antal lärandemål
+  11. Svenska/engelska paritet — varje skillnad i antal lärandemål (diff ≥ 1)
 """
 
 import argparse
@@ -76,36 +76,37 @@ def _first_bullet_match(text: str) -> re.Match | None:
 
 
 def check_introfras(files: list[Path]) -> list[dict]:
-    """Finns en introfras före lärandemålen alls?"""
+    """Flagga kursplaner där rubriken ``## Lärandemål`` inte följs direkt
+    av en fras som börjar med *"Efter ..."*.
+
+    Lärandemålen förväntas inledas med en fras som börjar på *Efter*
+    (t.ex. *"Efter godkänd kurs ska studenten kunna:"* eller
+    *"Efter avslutad kurs skall den studerande kunna:"*). Står det
+    inledande prosa, en delkurs-rubrik eller bara punktlista där, flaggas
+    det här. Frasens exakta formulering granskas separat i
+    [[Frasningskonsistens]].
+    """
     findings = []
     for p in files:
         body = strip_frontmatter(p.read_text(encoding="utf-8"))
         lo_section = extract_section(body, "Lärandemål")
         if not lo_section:
-            findings.append({
-                "check": "introfras-saknas",
-                "code": course_code(p),
-                "subj": subject(p),
-                "detail": "Saknar ## Lärandemål-sektion",
-            })
             continue
-        first_bullet = _first_bullet_match(lo_section)
-        if first_bullet is None:
-            findings.append({
-                "check": "introfras-saknas",
-                "code": course_code(p),
-                "subj": subject(p),
-                "detail": "Saknar punktlista med lärandemål",
-            })
+        first_line = next(
+            (ln.strip() for ln in lo_section.splitlines() if ln.strip()),
+            None,
+        )
+        if first_line is None:
             continue
-        before = lo_section[: first_bullet.start()]
-        if not ANY_INTRO_RE.search(before):
-            findings.append({
-                "check": "introfras-saknas",
-                "code": course_code(p),
-                "subj": subject(p),
-                "detail": "Saknar introfras före lärandemålen",
-            })
+        if first_line.lower().startswith("efter"):
+            continue
+        snippet = first_line[:120]
+        findings.append({
+            "check": "introfras-fore-fras",
+            "code": course_code(p),
+            "subj": subject(p),
+            "detail": f"Lärandemål inleds inte med 'Efter ...': {snippet}…",
+        })
     return findings
 
 
@@ -399,7 +400,7 @@ CHECK_LABELS = {
     "känd-felstavning":      "Känd felstavning",
     "stavning-sv":           "Stavfel (svenska)",
     "stavning-en":           "Stavfel (engelska)",
-    "introfras-saknas":      "Introfras saknas",
+    "introfras-fore-fras":   "Introfras före frasning",
     "frasning-avviker":      "Frasning avviker",
     "frasning-utan-blankrad": "Frasning utan blankrad",
     "betygsskala-inkonsekvent": "Betygsskala inkonsekvent",

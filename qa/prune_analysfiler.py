@@ -37,7 +37,7 @@ def institution_analys_dir(inst_code: str) -> Path:
 # ─────────────────────────────────────────────────────────────────────────────
 ANALYS_CONFIG: dict[str, list[str]] = {
     "Introfras.md": [
-        "Introfras saknas",
+        "Introfras före frasning",
     ],
     "Frasningskonsistens.md": [
         "Frasning avviker",
