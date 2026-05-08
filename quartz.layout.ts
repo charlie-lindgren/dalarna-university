@@ -52,10 +52,10 @@ export const defaultContentPageLayout: PageLayout = {
       globalGraph: {
         showTags: false,
         depth: -1,
-        scale: 1.1,
+        scale: 0.7,
         linkDistance: 12,
-        repelForce: 0.3,
-        centerForce: 0.4,
+        repelForce: 1.0,
+        centerForce: 0.05,
         fontSize: 0.5,
         opacityScale: 1.5,
         enableRadial: false,
