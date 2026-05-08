@@ -92,6 +92,7 @@ KNOWN_TYPOS = {
     r"infomation": "information",
     r"såväll": "såväl",
     r"tilsammans": "tillsammans",
+    r"avstämmning": "avstämning",
 }
 
 
