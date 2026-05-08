@@ -53,7 +53,7 @@ export const defaultContentPageLayout: PageLayout = {
         showTags: false,
         depth: -1,
         scale: 0.6,
-        linkDistance: 25,
+        linkDistance: 35,
         repelForce: 0.35,
         centerForce: 0.12,
         fontSize: 0.5,
