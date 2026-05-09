@@ -50,7 +50,6 @@ tags: [MOC, institution, IIT]
 - [[Matematik MOC|Matematik]] (11 kurser)
 - [[Matematikdidaktik MOC|Matematikdidaktik]] (45 kurser)
 - [[Mikrodataanalys MOC|Mikrodataanalys]] (71 kurser)
-- [[Okänt ämne MOC|Okänt ämne]] (7 kurser)
 - [[Samhällsbyggnadsteknik MOC|Samhällsbyggnadsteknik]] (24 kurser)
 - [[Statistik MOC|Statistik]] (4 kurser)
 
