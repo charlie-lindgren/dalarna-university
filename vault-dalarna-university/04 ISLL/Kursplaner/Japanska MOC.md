@@ -9,7 +9,7 @@ up: "[[ISLL MOC]]"
 
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (39 st)
+## Kurser (35 st)
 
 - [[AJP23N]] — Introduktion till interkulturella litteraturstudier
 - [[AJP23P]] — Interkulturella litteraturstudier: Akademiskt skrivande
@@ -28,7 +28,6 @@ up: "[[ISLL MOC]]"
 - [[AJP2AH]] — Klassisk japanska
 - [[GJP23L]] — Japanska III: Att läsa manga
 - [[GJP23S]] — Japanska I: Språkfärdighet
-- [[GJP23S]] — Japanska I: Språkfärdighet
 - [[GJP242]] — Japanska III: Språkfärdighet
 - [[GJP243]] — Japanska IV: Språkfärdighet
 - [[GJP2MZ]] — Japanska II: Språkfärdighet 1
@@ -40,13 +39,10 @@ up: "[[ISLL MOC]]"
 - [[GJP39W]] — Japanska IV: Kulturantropologi
 - [[GJP39X]] — Japanska IV: Introduktion till lingvistik
 - [[GJP3AY]] — Japansk populärkultur representerad i Anime och Manga
-- [[GJP3AY]] — Japansk populärkultur representerad i Anime och Manga
 - [[GJP3AZ]] — Japanska: Introduktion till akademiskt skrivande
 - [[GJP3B2]] — Japanska IV: Introduktion till översättning
 - [[GJP3B3]] — Japanska: Kandidatexamensarbete
-- [[GJP3B3]] — Japanska: Kandidatexamensarbete
 - [[JP1045]] — Att kommunicera på japanskt vis
 - [[JP1046]] — Att göra affärer i Japan
-- [[JP1050]] — Japanska I: Grundläggande språkfärdighet
 - [[JP1050]] — Japanska I: Grundläggande språkfärdighet
 - [[JP2013]] — Japanska: Modern och nutida litteratur

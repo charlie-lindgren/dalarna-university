@@ -9,7 +9,7 @@ up: "[[IHV MOC]]"
 
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 
-## Kurser (25 st)
+## Kurser (23 st)
 
 - [[AMC22C]] — Personcentrerad vård vid astma/KOL/allergi, del 2
 - [[AMC243]] — Smärta i den kliniska vardagen
@@ -27,8 +27,6 @@ up: "[[IHV MOC]]"
 - [[GMC37E]] — Anatomi och fysiologi för sjuksköterskor II
 - [[GMC37F]] — Farmakologi, mikrobiologi och immunologi
 - [[GMC37T]] — Anatomi och fysiologi för sjuksköterskor I
-- [[GMC37T]] — Anatomi och fysiologi för sjuksköterskor I
-- [[MC1072]] — Anatomi och fysiologi I
 - [[MC1072]] — Anatomi och fysiologi I
 - [[MC1077]] — Mikrobiologi och farmakologi
 - [[MC1079]] — Farmakologi

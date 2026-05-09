@@ -9,7 +9,7 @@ up: "[[IIT MOC]]"
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
 
-## Kurser (24 st)
+## Kurser (21 st)
 
 - [[GSQ23J]] — Befolkning och sociala perspektiv
 - [[GSQ23K]] — Planeringsprojekt
@@ -17,14 +17,11 @@ up: "[[IIT MOC]]"
 - [[GSQ25J]] — Vetenskaplig metod
 - [[GSQ25K]] — Stadsbyggnad
 - [[GSQ25N]] — Examensarbete för kandidatexamen i Samhällsbyggnadsteknik
-- [[GSQ25N]] — Examensarbete för kandidatexamen i Samhällsbyggnadsteknik
-- [[GSQ25N]] — Examensarbete för kandidatexamen i Samhällsbyggnadsteknik
 - [[GSQ2DH]] — Introduktion till GIS
 - [[GSQ2H7]] — Gestaltad livsmiljö
 - [[GSQ2J4]] — Regional och ekonomisk planering
 - [[GSQ2L8]] — Fysisk planering II - översiktsplanering
 - [[GSQ2L9]] — Geografiska Informationssystem för samhällsplanering
-- [[GSQ2LA]] — Samhällsplanering och IT
 - [[GSQ2LA]] — Samhällsplanering och IT
 - [[GSQ2MC]] — Trafikplanering
 - [[GSQ2PH]] — Fysisk planering III - genomförande och juridisk fördjupning

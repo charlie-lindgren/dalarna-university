@@ -9,9 +9,8 @@ up: "[[ISLL MOC]]"
 
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (31 st)
+## Kurser (27 st)
 
-- [[AAR29B]] — Interkulturella litteraturstudier: Magisterexamensarbete
 - [[AAR29B]] — Interkulturella litteraturstudier: Magisterexamensarbete
 - [[AR1003]] — Den moderna arabiska novellen
 - [[AR1004]] — Arabiska dialekter med inriktning på den Syriska
@@ -27,12 +26,10 @@ up: "[[ISLL MOC]]"
 - [[AR2010]] — Arabiska: Avancerad grammatik
 - [[AR2011]] — Den arabiska akademiska kanon
 - [[AR2012]] — Arabiska: Kandidatexamensarbete
-- [[AR2012]] — Arabiska: Kandidatexamensarbete
 - [[GAR2HR]] — Arabisk barnlitteratur
 - [[GAR2HS]] — Modern arabisk poesi
 - [[GAR2SQ]] — Modern arabisk litteratur
 - [[GAR2VU]] — Arabiska: Att skriva akademiskt
-- [[GAR34X]] — Arabiska I
 - [[GAR34X]] — Arabiska I
 - [[GAR38K]] — Arabiska II
 - [[GAR38L]] — Arabiska III
@@ -40,5 +37,4 @@ up: "[[ISLL MOC]]"
 - [[GAR38N]] — Arabiska V
 - [[GAR39K]] — Modern arabisk ungdomslitteratur
 - [[GAR39L]] — Modern arabisk litteratur: social och politisk förändring
-- [[GAR39M]] — Ekokritik och miljöaspekter i arabisk litteratur
 - [[GAR39M]] — Ekokritik och miljöaspekter i arabisk litteratur

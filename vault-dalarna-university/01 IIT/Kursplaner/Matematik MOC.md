@@ -9,12 +9,10 @@ up: "[[IIT MOC]]"
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
 
-## Kurser (11 st)
+## Kurser (9 st)
 
 - [[GMA28W]] — Linjär algebra
 - [[GMA2EY]] — Byggmatematik
-- [[GMA2EY]] — Byggmatematik
-- [[GMA2ZS]] — Analys i en variabel
 - [[GMA2ZS]] — Analys i en variabel
 - [[GMA2ZT]] — Inledande matematik
 - [[GMA33Z]] — Matematik för tekniker

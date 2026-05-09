@@ -9,17 +9,12 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (55 st)
+## Kurser (45 st)
 
-- [[ATR25Z]] — Mot en mer hållbar och robust turismnäring I
 - [[ATR25Z]] — Mot en mer hållbar och robust turismnäring I
 - [[ATR26B]] — Mot en mer hållbar och robust turismnäring 2
 - [[ATR2AF]] — Marknadsföring av platser och destinationer
 - [[ATR2BB]] — Examensarbete för masterexamen i turismvetenskap
-- [[ATR2BB]] — Examensarbete för masterexamen i turismvetenskap
-- [[ATR2BB]] — Examensarbete för masterexamen i turismvetenskap
-- [[ATR2BJ]] — Projektarbete i turismvetenskap
-- [[ATR2BJ]] — Projektarbete i turismvetenskap
 - [[ATR2BJ]] — Projektarbete i turismvetenskap
 - [[GTR22D]] — Samhällsvetenskaplig forskningsmetod
 - [[GTR265]] — Resurser och produkter för turism
@@ -30,7 +25,6 @@ up: "[[IKS MOC]]"
 - [[GTR2DG]] — Kvantitativ metod
 - [[GTR2DP]] — Kvalitativ metod
 - [[GTR2G6]] — Fokusområden inom turism
-- [[GTR2HA]] — Verksamhetsförlagt projekt i Turismvetenskap
 - [[GTR2HA]] — Verksamhetsförlagt projekt i Turismvetenskap
 - [[GTR2K8]] — Eventstudier
 - [[GTR2UM]] — Naturbaserad turism
@@ -58,11 +52,7 @@ up: "[[IKS MOC]]"
 - [[TR1036]] — Turismteori och praxis
 - [[TR2004]] — Turismvetenskaplig teori och metod
 - [[TR2005]] — Examensarbete för kandidatexamen i Turismvetenskap
-- [[TR2005]] — Examensarbete för kandidatexamen i Turismvetenskap
-- [[TR2005]] — Examensarbete för kandidatexamen i Turismvetenskap
 - [[TR3006]] — Evenemangsturism - planering, marknadsföring, utvärdering
-- [[TR3008]] — Examensarbete för Magisterexamen i turismvetenskap
-- [[TR3008]] — Examensarbete för Magisterexamen i turismvetenskap
 - [[TR3008]] — Examensarbete för Magisterexamen i turismvetenskap
 - [[TR3009]] — Evenemangsturism - planering, marknadsföring, utvärdering
 - [[TR3010]] — Teori och forskningsmetoder

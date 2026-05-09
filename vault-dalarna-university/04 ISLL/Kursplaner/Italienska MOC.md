@@ -9,9 +9,8 @@ up: "[[ISLL MOC]]"
 
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (32 st)
+## Kurser (29 st)
 
-- [[GIT247]] — Italienska: Nybörjarkurs I
 - [[GIT247]] — Italienska: Nybörjarkurs I
 - [[GIT26V]] — Italienska B: Grammatik och skriftlig produktion
 - [[GIT26W]] — Italienska B: Litteraturhistoria med textanalys
@@ -32,7 +31,6 @@ up: "[[ISLL MOC]]"
 - [[GIT2TN]] — Italienska A: Textanalys, deckargenren
 - [[GIT2TP]] — Italienska A: Kultur och samhälle, mellersta Italien
 - [[GIT2TQ]] — Italienska A: Textanalys, en litterär resa i mellersta Italien
-- [[GIT2TQ]] — Italienska A: Textanalys, en litterär resa i mellersta Italien
 - [[GIT2Y8]] — Italienska A: Kultur och samhälle
 - [[GIT2Y9]] — Italienska A: Textanalys, familjeskildringar
 - [[GIT2YA]] — Italienska A: Textanalys, krig och fred
@@ -40,6 +38,5 @@ up: "[[ISLL MOC]]"
 - [[GIT2YC]] — Italienska A: Textanalys, 1900-talets skönlitteratur
 - [[GIT2YD]] — Italienska A: Textanalys, kvinnoskildringar
 - [[GIT2YE]] — Italienska A: Textanalys, barn- och ungdomsskildringar
-- [[GIT397]] — Italienska C: Examensarbete för kandidatexamen
 - [[GIT397]] — Italienska C: Examensarbete för kandidatexamen
 - [[IT1034]] — Italienska: Nybörjarkurs II

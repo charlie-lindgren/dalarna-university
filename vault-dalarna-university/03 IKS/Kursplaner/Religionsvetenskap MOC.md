@@ -9,17 +9,11 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (51 st)
+## Kurser (37 st)
 
 - [[ARK227]] — Mänskliga rättigheter och demokrati i Afrika söder om Sahara
-- [[ARK227]] — Mänskliga rättigheter och demokrati i Afrika söder om Sahara
-- [[ARK25B]] — Examensarbete i religionsvetenskap  för ämneslärarexamen, inriktning grundskolans årskurs 7-9
-- [[ARK25B]] — Examensarbete i religionsvetenskap  för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 - [[ARK25B]] — Examensarbete i religionsvetenskap  för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 - [[ARK25C]] — Examensarbete i religionsvetenskap för ämneslärarexamen, inriktning gymnasieskolan
-- [[ARK25C]] — Examensarbete i religionsvetenskap för ämneslärarexamen, inriktning gymnasieskolan
-- [[ARK25C]] — Examensarbete i religionsvetenskap för ämneslärarexamen, inriktning gymnasieskolan
-- [[ARK262]] — Religion och våld i samtiden
 - [[ARK262]] — Religion och våld i samtiden
 - [[ARK26T]] — Kabbala och judisk mystik från antiken till modern tid
 - [[ARK27Q]] — Kvinnor och gudinnor på gränsen till den äldsta förhistorien
@@ -27,9 +21,6 @@ up: "[[IKS MOC]]"
 - [[ARK29J]] — Religionsvetenskaplig vetenskapshistoria, teori och metod
 - [[ARK29K]] — Upplevelser av osynlig närvaro
 - [[ARK29L]] — Religionssociologiska perspektiv på barn och unga i slutna religiösa miljöer
-- [[ARK29L]] — Religionssociologiska perspektiv på barn och unga i slutna religiösa miljöer
-- [[ARK29M]] — Examensarbete, magisterexamen i religionsvetenskap
-- [[ARK29M]] — Examensarbete, magisterexamen i religionsvetenskap
 - [[ARK29M]] — Examensarbete, magisterexamen i religionsvetenskap
 - [[GRK2EF]] — Västerländsk buddhism
 - [[GRK2JJ]] — Mänskliga rättigheter: Migranter, barn och minoriteter
@@ -38,12 +29,9 @@ up: "[[IKS MOC]]"
 - [[GRK2P3]] — Religionsvetenskap III: Aktuella religionsvetenskapliga teman
 - [[GRK2P4]] — Religionsvetenskap III med didaktisk inriktning för gymnasieskolan
 - [[GRK2Q4]] — Religionsvetenskap I
-- [[GRK2Q4]] — Religionsvetenskap I
-- [[GRK2Q5]] — Religionsvetenskap I med didaktisk inriktning
 - [[GRK2Q5]] — Religionsvetenskap I med didaktisk inriktning
 - [[GRK2R7]] — Religionsvetenskap III: Uppsats
 - [[GRK2R8]] — Religionsvetenskap III: Examensarbete för kandidatexamen
-- [[GRK2TW]] — Introduktion till mänskliga rättigheter i Afrika
 - [[GRK2TW]] — Introduktion till mänskliga rättigheter i Afrika
 - [[GRK2TY]] — Religionsvetenskap II
 - [[GRK2TZ]] — Religionsvetenskap II med didaktisk inriktning
@@ -51,9 +39,7 @@ up: "[[IKS MOC]]"
 - [[GRK324]] — Religionsvetenskap III med didaktisk inriktning för gymnasieskolan
 - [[GRK32C]] — Religionsdidaktik
 - [[GRK366]] — Barn och unga i slutna religiösa miljöer
-- [[GRK366]] — Barn och unga i slutna religiösa miljöer
 - [[GRK36J]] — Från populärkultur till fiktionsbaserad religion
-- [[GRK36M]] — Religionsvetenskap III: Examensarbete för kandidatexamen
 - [[GRK36M]] — Religionsvetenskap III: Examensarbete för kandidatexamen
 - [[GRK36N]] — Religionsvetenskap III: Uppsats med didaktisk inriktning
 - [[GRK3B4]] — Levd religion: fältstudieresa utifrån ämnesteoretiska och religionsdidaktiska perspektiv

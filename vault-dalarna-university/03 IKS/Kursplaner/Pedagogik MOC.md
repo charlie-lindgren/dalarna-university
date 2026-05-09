@@ -9,10 +9,9 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (45 st)
+## Kurser (44 st)
 
 - [[GPE2SA]] — Utbildningssystemet i Sverige
-- [[GPE3AJ]] — Att leda kollegiala lärprocesser i förskola och skola
 - [[GPE3AJ]] — Att leda kollegiala lärprocesser i förskola och skola
 - [[PE1010]] — Lek och lärande
 - [[PE1011]] — Matematiklust och matematiksvårigheter

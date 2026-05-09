@@ -9,7 +9,7 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (56 st)
+## Kurser (42 st)
 
 - [[AB1005]] — Professionell förhandling på arbetsplatsen
 - [[AB1006]] — Professionell kommunikation - med och i grupper
@@ -25,7 +25,6 @@ up: "[[IKS MOC]]"
 - [[AB1026]] — Personligt ledarskap
 - [[AB1027]] — Ledarskap för ökat resultat
 - [[AB1028]] — Ledarskap för att motivera grupper
-- [[AB1029]] — Introduktion till Professionell kommunikation - mer än bara samtal
 - [[AB1029]] — Introduktion till Professionell kommunikation - mer än bara samtal
 - [[AB1030]] — Att arbeta i projekt
 - [[AB1031]] — Professionell utveckling - genom fokus på kollektivt lärande
@@ -44,26 +43,13 @@ up: "[[IKS MOC]]"
 - [[GAB3AK]] — Kommunal styrning och förändringsarbete
 - [[GAB3AL]] — Ledarskapets juridik
 - [[GAB3FZ]] — Hållbart arbetsliv, personalarbete och vetenskap
-- [[GAB3FZ]] — Hållbart arbetsliv, personalarbete och vetenskap
-- [[GAB3G2]] — Kompetensförsörjning
 - [[GAB3G2]] — Kompetensförsörjning
 - [[GAB3G3]] — Motivation och lärande
-- [[GAB3G3]] — Motivation och lärande
-- [[GAB3H4]] — Arbetsmarknad
 - [[GAB3H4]] — Arbetsmarknad
 - [[GAB3H5]] — Arbetsmiljökunskap
-- [[GAB3H5]] — Arbetsmiljökunskap
-- [[GAB3H5]] — Arbetsmiljökunskap
-- [[GAB3H6]] — Arbetsorganisation
 - [[GAB3H6]] — Arbetsorganisation
 - [[GAB3H7]] — Kvalitativ och kvantitativ metod
-- [[GAB3H7]] — Kvalitativ och kvantitativ metod
-- [[GAB3HQ]] — Personalarbete - med praktik
 - [[GAB3HQ]] — Personalarbete - med praktik
 - [[GAB3HR]] — Personalarbete - med case
-- [[GAB3HR]] — Personalarbete - med case
 - [[GAB3HS]] — Ledarskapets roll och förutsättningar
-- [[GAB3HS]] — Ledarskapets roll och förutsättningar
-- [[GAB3HV]] — Hållbar utveckling i personalarbetets praktik
-- [[GAB3HV]] — Hållbar utveckling i personalarbetets praktik
 - [[GAB3HV]] — Hållbar utveckling i personalarbetets praktik

@@ -9,16 +9,13 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (37 st)
+## Kurser (33 st)
 
 - [[GRV22R]] — Dataskyddsjuridik
 - [[GRV266]] — Beskattningsrätt
 - [[GRV2CE]] — Småföretagens regelverk
 - [[GRV2FC]] — Arbetsrätt I
-- [[GRV2FC]] — Arbetsrätt I
-- [[GRV2FC]] — Arbetsrätt I
 - [[GRV2MK]] — Småföretagens regelverk I
-- [[GRV3BF]] — IT-rätt
 - [[GRV3BF]] — IT-rätt
 - [[RV1001]] — Arbetsrätt
 - [[RV1002]] — Associationsrätt
@@ -34,7 +31,6 @@ up: "[[IKS MOC]]"
 - [[RV1043]] — Socialrätt för samhällsvetare
 - [[RV1044]] — Obeståndsrätt
 - [[RV1045]] — Arbetsrätt: ingående av anställning
-- [[RV1046]] — Socialrätt I
 - [[RV1046]] — Socialrätt I
 - [[RV1047]] — Socialrätt II
 - [[RV1048]] — Folkrätt

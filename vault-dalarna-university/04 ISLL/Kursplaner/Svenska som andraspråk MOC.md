@@ -9,32 +9,20 @@ up: "[[ISLL MOC]]"
 
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (85 st)
+## Kurser (63 st)
 
 - [[ASS257]] — Examensarbete i svenska som andraspråk för ämneslärarexamen, inriktning grundskolans årskurs 7-9
-- [[ASS257]] — Examensarbete i svenska som andraspråk för ämneslärarexamen, inriktning grundskolans årskurs 7-9
-- [[ASS257]] — Examensarbete i svenska som andraspråk för ämneslärarexamen, inriktning grundskolans årskurs 7-9
-- [[ASS258]] — Examensarbete i svenska som andraspråk för ämneslärarexamen, inriktning gymnasieskolan
-- [[ASS258]] — Examensarbete i svenska som andraspråk för ämneslärarexamen, inriktning gymnasieskolan
 - [[ASS258]] — Examensarbete i svenska som andraspråk för ämneslärarexamen, inriktning gymnasieskolan
 - [[ASS26C]] — Sveriges nationella minoriteter – språk, kultur och identitet
-- [[ASS28X]] — Examensarbete i modersmål arabiska för ämneslärarexamen, inriktning grundskolans årskurs 7-9
-- [[ASS28X]] — Examensarbete i modersmål arabiska för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 - [[ASS28X]] — Examensarbete i modersmål arabiska för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 - [[GSS22M]] — Studiehandledning på modersmål
 - [[GSS22P]] — Den globala skolan - förskola och grundskola
 - [[GSS2BY]] — Svenska språkets struktur i ett andraspråksperspektiv
-- [[GSS2BY]] — Svenska språkets struktur i ett andraspråksperspektiv
-- [[GSS2BZ]] — Skriftspråksutveckling i ett flerspråkigt perspektiv
 - [[GSS2BZ]] — Skriftspråksutveckling i ett flerspråkigt perspektiv
 - [[GSS2C4]] — Bedömning och respons i ett andraspråksperspektiv
-- [[GSS2C4]] — Bedömning och respons i ett andraspråksperspektiv
 - [[GSS2C5]] — Fonetik och uttal i ett andraspråksperspektiv
-- [[GSS2C5]] — Fonetik och uttal i ett andraspråksperspektiv
-- [[GSS2C6]] — Fiktionsberättande  och elevtext i ett flerspråkigt perspektiv
 - [[GSS2C6]] — Fiktionsberättande  och elevtext i ett flerspråkigt perspektiv
 - [[GSS2FJ]] — Flerspråkighet och andraspråksutveckling
-- [[GSS2FK]] — Svenska som andraspråk I med didaktisk inriktning
 - [[GSS2FK]] — Svenska som andraspråk I med didaktisk inriktning
 - [[GSS2G8]] — Svenska som andraspråk för lärare i åk 4-6, 30 hp (1-30 hp). Ingår i Lärarlyftet.
 - [[GSS2GP]] — Modersmål: Arabiska III med didaktisk inriktning
@@ -46,7 +34,6 @@ up: "[[ISLL MOC]]"
 - [[GSS2XE]] — Svenska som andraspråk för lärare i gymnasieskolan, 90 hp (1-90 hp). Ingår i Lärarlyftet.
 - [[GSS35H]] — Modersmål: Arabiska II med didaktisk inriktning
 - [[GSS36C]] — Sociolingvistik i ett flerspråkigt perspektiv
-- [[GSS36C]] — Sociolingvistik i ett flerspråkigt perspektiv
 - [[GSS39P]] — Svenska som andraspråk III - Andraspråksforskning: en forskningsöversikt
 - [[GSS39Q]] — Svenska som andraspråk III - Andraspråksforskning: tematisk fördjupning
 - [[GSS39R]] — Svenska som andraspråk III med didaktisk inriktning för gymnasieskolan
@@ -54,16 +41,13 @@ up: "[[ISLL MOC]]"
 - [[GSS39T]] — Den globala skolan - undervisning inom gymnasieskolan
 - [[GSS39U]] — Den globala skolan - undervisning inom vuxenutbildningen
 - [[GSS3BG]] — Grundläggande svenska som andraspråk I (nivå CEFR A1-A2.1)
-- [[GSS3BG]] — Grundläggande svenska som andraspråk I (nivå CEFR A1-A2.1)
 - [[GSS3BH]] — Grundläggande svenska som andraspråk  II (nivå CEFR A2.2)
 - [[GSS3BJ]] — Grundläggande svenska som andraspråk III (nivå CEFR B1.1)
 - [[GSS3BK]] — Grundläggande svenska som andraspråk IV (nivå CEFR B1.2)
 - [[GSS3BL]] — Grundläggande svenska som andraspråk V (nivå CEFR B2)
 - [[GSS3BM]] — Språk, undervisning och lärande i ett andraspråksperspektiv
-- [[GSS3BM]] — Språk, undervisning och lärande i ett andraspråksperspektiv
 - [[GSS3BN]] — Svenska som andraspråk II med didaktisk inriktning
 - [[GSS3BP]] — Bedömning av avancerade språkfärdigheter hos inlärare av svenska som andraspråk
-- [[GSS3C6]] — Lärande genom fiktionstext i gymnasieskolan
 - [[GSS3C6]] — Lärande genom fiktionstext i gymnasieskolan
 - [[GSS3C7]] — Svenska som andraspråk III med didaktisk inriktning för gymnasieskolan
 - [[GSS3H8]] — Svenska som andraspråk II
@@ -75,24 +59,18 @@ up: "[[ISLL MOC]]"
 - [[GSS3HF]] — Flerspråkiga perspektiv på skriftspråksutveckling
 - [[GSS3HG]] — Svenska som andraspråk III med didaktisk inriktning för gymnasieskolan
 - [[GSS3HH]] — Lärande genom fiktionstext i gymnasieskolan
-- [[GSS3HH]] — Lärande genom fiktionstext i gymnasieskolan
 - [[GSS3HJ]] — Svenska som andraspråk II med didaktisk inriktning
 - [[GSS3K2]] — Litteraturdidaktik för ämneslärare i svenska som andraspråk på gymnasial nivå
 - [[SS1085]] — Svenska som andraspråk för lärare åk 7-9, 45 hp (1-45). Ingår i Lärarlyftet II
 - [[SS2007]] — Svenska som andraspråk III -  examensarbete för kandidatexamen
-- [[SS2007]] — Svenska som andraspråk III -  examensarbete för kandidatexamen
 - [[SS2009]] — Svenska som andraspråk III - Andraspråksforskning
 - [[SS3002]] — Flerspråkighet som fenomen och företeelse - vetenskapsteoretiska förklaringsmodeller och metodologiska perspektiv
 - [[SS3003]] — Svenska som andraspråk i ett utvecklingsperspektiv - förklaringsmodeller och metodologiska perspektiv
-- [[SS3003]] — Svenska som andraspråk i ett utvecklingsperspektiv - förklaringsmodeller och metodologiska perspektiv
 - [[SS3004]] — Svenska som andraspråk i ett tvärspråkligt perspektiv
-- [[SS3006]] — Flerspråkighet, identitet och kulturmöten i sociala sammanhang
 - [[SS3006]] — Flerspråkighet, identitet och kulturmöten i sociala sammanhang
 - [[SS3007]] — Flerspråkighet, interaktion och identitetsskapande i klassrum
 - [[SS3008]] — Flerspråkiga röster i svensk skönlitteratur
-- [[SS3008]] — Flerspråkiga röster i svensk skönlitteratur
 - [[SS3009]] — Litteracitet och flerspråkighet
 - [[SS3010]] — Svensk fonologi i ett andraspråksperspektiv
-- [[SS3011]] — Svenska som andraspråk: Examensarbete för magisterexamen
 - [[SS3011]] — Svenska som andraspråk: Examensarbete för magisterexamen
 - [[SS3014]] — Flerspråkighet i ett samhällsperspektiv

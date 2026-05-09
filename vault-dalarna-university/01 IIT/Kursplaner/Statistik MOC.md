@@ -9,9 +9,7 @@ up: "[[IIT MOC]]"
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
 
-## Kurser (4 st)
+## Kurser (2 st)
 
 - [[GST2CL]] — Statistisk analys
-- [[ST1013]] — Dataanalys och statistik I
-- [[ST1013]] — Dataanalys och statistik I
 - [[ST1013]] — Dataanalys och statistik I

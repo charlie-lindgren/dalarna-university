@@ -9,7 +9,7 @@ up: "[[IIT MOC]]"
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
 
-## Kurser (63 st)
+## Kurser (54 st)
 
 - [[AEG225]] — Solenergins ekonomi
 - [[AEG22R]] — Tillämpad solenergiteknik
@@ -17,7 +17,6 @@ up: "[[IIT MOC]]"
 - [[AEG26X]] — Design av PV- och hybridsystem
 - [[AEG294]] — Energipositiva stadsdelar
 - [[AEG29N]] — Solcellsteknik
-- [[AEG2AK]] — Projektkurs 1 - dataanalys för solenergisystem
 - [[AEG2AK]] — Projektkurs 1 - dataanalys för solenergisystem
 - [[AEG2AL]] — Solcellsteknik
 - [[AEG2AP]] — Solenergins ekonomi och förvaltning av solcellssystem
@@ -37,8 +36,6 @@ up: "[[IIT MOC]]"
 - [[BEG222]] — Grundläggande forskningsmetodik
 - [[EG1012]] — Strömningslära
 - [[EG2004]] — Examensarbete för högskoleingenjörsexamen i energiteknik
-- [[EG2004]] — Examensarbete för högskoleingenjörsexamen i energiteknik
-- [[EG2004]] — Examensarbete för högskoleingenjörsexamen i energiteknik
 - [[EG3007]] — Solvärme
 - [[EG3009]] — Design av solvärmesystem
 - [[EG3012]] — Hållbara energisystem
@@ -48,10 +45,6 @@ up: "[[IIT MOC]]"
 - [[EG3018]] — Solenergiteknikpraktik
 - [[EG3019]] — Livscykelanalys och livscykelkostnadsanalys
 - [[EG3020]] — Examensarbete för magisterexamen i Energiteknik med fokus på energieffektivisering inom byggd miljö
-- [[EG3020]] — Examensarbete för magisterexamen i Energiteknik med fokus på energieffektivisering inom byggd miljö
-- [[EG3020]] — Examensarbete för magisterexamen i Energiteknik med fokus på energieffektivisering inom byggd miljö
-- [[EG3022]] — Examensarbete för magisterexamen i solenergiteknik
-- [[EG3022]] — Examensarbete för magisterexamen i solenergiteknik
 - [[EG3022]] — Examensarbete för magisterexamen i solenergiteknik
 - [[EG4001]] — Examensarbete för masterexamen i solenergiteknik
 - [[GEG26J]] — Vetenskaplig kommunikation
@@ -60,7 +53,6 @@ up: "[[IIT MOC]]"
 - [[GEG2UL]] — Förnybar kraftgenerering
 - [[GEG2ZQ]] — Solenergi
 - [[GEG2ZR]] — Introduktion till hållbara energisystem
-- [[GEG2ZR]] — Introduktion till hållbara energisystem
 - [[GEG33A]] — Installation av solcellssystem
 - [[GEG33B]] — Installation av solcellsanläggningar
 - [[GEG38F]] — Grundläggande energiteknik
@@ -68,7 +60,6 @@ up: "[[IIT MOC]]"
 - [[GEG39Z]] — Aktiva elnät
 - [[GEG3A2]] — Solel (grundnivå)
 - [[GEG3BX]] — Elektriska maskiner
-- [[GEG3DT]] — Hållbara energisystem
 - [[GEG3DT]] — Hållbara energisystem
 - [[GEG3DU]] — Kraftvärmesystem
 - [[GEG3DV]] — Förnybar Energiteknik

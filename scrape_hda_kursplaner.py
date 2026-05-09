@@ -929,11 +929,12 @@ def build_subject_moc(subject: dict, courses: list[dict]) -> str:
         lines.append(f"> Huvudområde: {huvudomrade}")
     lines.append("")
 
-    lines.append(f"## Kurser ({len(courses)} st)")
+    unique_courses = {c["code"]: c for c in courses}
+    lines.append(f"## Kurser ({len(unique_courses)} st)")
     lines.append("")
 
-    if courses:
-        for c in sorted(courses, key=lambda x: x["code"]):
+    if unique_courses:
+        for c in sorted(unique_courses.values(), key=lambda x: x["code"]):
             lines.append(f"- [[{c['code']}]] — {c['name']}")
     else:
         lines.append("_Inga kurser hittade._")
@@ -962,12 +963,13 @@ def build_subject_stray_moc(subject: dict, courses: list[dict]) -> str:
         f"> Strökurser i {name} vid {inst_name}, Högskolan Dalarna.",
         "> Dessa ligger utanför ordinarie ämnes-/programindex och markeras som vilande.",
         "",
-        f"## Kurser ({len(courses)} st)",
-        "",
     ]
+    unique_courses = {c["code"]: c for c in courses}
+    lines.append(f"## Kurser ({len(unique_courses)} st)")
+    lines.append("")
 
-    if courses:
-        for c in sorted(courses, key=lambda x: x["code"]):
+    if unique_courses:
+        for c in sorted(unique_courses.values(), key=lambda x: x["code"]):
             lines.append(f"- [[{c['code']}]] — {c['name']}")
     else:
         lines.append("_Inga strökurser hittade._")

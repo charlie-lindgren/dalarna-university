@@ -9,11 +9,9 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (22 st)
+## Kurser (17 st)
 
 - [[EU1027]] — Entreprenörskap - villkor och särart
-- [[EU1033]] — Examensarbete för högskoleexamen i entreprenörskap och innovationsteknik
-- [[EU1033]] — Examensarbete för högskoleexamen i entreprenörskap och innovationsteknik
 - [[EU1033]] — Examensarbete för högskoleexamen i entreprenörskap och innovationsteknik
 - [[EU1034]] — Försäljnings-, förhandling- och dialogkonst
 - [[EU1035]] — Projekt- grundläggande kunskaper i projektarbete
@@ -22,12 +20,9 @@ up: "[[IKS MOC]]"
 - [[GEU2CA]] — Det entreprenöriella företagets förutsättningar
 - [[GEU2CB]] — Ledarskap och grupprocesser
 - [[GEU2KV]] — Entreprenörskap i regional utveckling och tillväxt
-- [[GEU2KV]] — Entreprenörskap i regional utveckling och tillväxt
 - [[GEU2KW]] — Entreprenörskapets teoretiska klassiker
 - [[GEU2KX]] — Innovation A
 - [[GEU2QY]] — Ledarskap
-- [[GEU35L]] — Projektledning I
-- [[GEU35L]] — Projektledning I
 - [[GEU35L]] — Projektledning I
 - [[GEU35M]] — Entreprenörskap - villkor och särart
 - [[GEU35N]] — Projektledning II

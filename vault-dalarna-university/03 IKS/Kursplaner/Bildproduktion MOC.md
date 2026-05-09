@@ -9,18 +9,13 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (79 st)
+## Kurser (62 st)
 
 - [[ABQ2AM]] — Kreativ kodning
 - [[ABQ2AZ]] — Audiovisuella produktionsprocesser
 - [[ABQ2B2]] — Audiovisuella studier: Kunskapsproduktion genom gestaltning
 - [[ABQ2B3]] — Introduktion till magisterexamensarbete i Audiovisuella studier
-- [[ABQ2B3]] — Introduktion till magisterexamensarbete i Audiovisuella studier
-- [[ABQ2B3]] — Introduktion till magisterexamensarbete i Audiovisuella studier
 - [[ABQ2B4]] — Magisterexamensarbete i Audiovisuella studier
-- [[ABQ2B4]] — Magisterexamensarbete i Audiovisuella studier
-- [[ABQ2B4]] — Magisterexamensarbete i Audiovisuella studier
-- [[AU3005]] — Vetenskaplig teori och metod i Audiovisuella studier
 - [[AU3005]] — Vetenskaplig teori och metod i Audiovisuella studier
 - [[BQ1079]] — Manus för TV och film 2. Dramaturgi, manusskrivande och genre
 - [[BQ1081]] — TV-nyheter och flerkameraproduktion
@@ -45,8 +40,6 @@ up: "[[IKS MOC]]"
 - [[GBQ2NM]] — Vetenskapsteori och metod i Bildproduktion
 - [[GBQ2NP]] — Kandidatexamensarbete i Bildproduktion
 - [[GBQ2QB]] — Kvalificerat filmmanusprojekt
-- [[GBQ2QB]] — Kvalificerat filmmanusprojekt
-- [[GBQ2U2]] — Vetenskapsteori och metod i bildproduktion
 - [[GBQ2U2]] — Vetenskapsteori och metod i bildproduktion
 - [[GBQ2U3]] — Människan och den rörliga bilden
 - [[GBQ2U4]] — Informationsfilmsproduktion
@@ -55,11 +48,7 @@ up: "[[IKS MOC]]"
 - [[GBQ2U7]] — Tillämpad filmdesign 1
 - [[GBQ2U8]] — Den korta filmens berättarstruktur
 - [[GBQ2U9]] — Kandidatexamensarbete i Bildproduktion
-- [[GBQ2U9]] — Kandidatexamensarbete i Bildproduktion
-- [[GBQ2U9]] — Kandidatexamensarbete i Bildproduktion
 - [[GBQ2UB]] — Introduktion till produktion av rörlig bild
-- [[GBQ2UD]] — Exponeringsprojekt i bildproduktion
-- [[GBQ2UD]] — Exponeringsprojekt i bildproduktion
 - [[GBQ2UD]] — Exponeringsprojekt i bildproduktion
 - [[GBQ2UN]] — Filmanalys och gestaltning
 - [[GBQ2WG]] — Audiovisuell information och etik
@@ -71,14 +60,8 @@ up: "[[IKS MOC]]"
 - [[GBQ35K]] — Berätta med film om kulturarv och historia
 - [[GBQ36D]] — Kvalificerad filmproduktion
 - [[GBQ36E]] — Arbetsplatsförlagd bildproduktion
-- [[GBQ36E]] — Arbetsplatsförlagd bildproduktion
 - [[GBQ36K]] — Flerkameraproduktion, fördjupning
 - [[GBQ38V]] — Introduktion till redigering av rörliga bilder med Media Composer
-- [[GBQ38V]] — Introduktion till redigering av rörliga bilder med Media Composer
-- [[GBQ38V]] — Introduktion till redigering av rörliga bilder med Media Composer
-- [[GBQ38W]] — Fördjupning i redigering av rörliga bilder med Media Composer
-- [[GBQ38W]] — Fördjupning i redigering av rörliga bilder med Media Composer
-- [[GBQ38W]] — Fördjupning i redigering av rörliga bilder med Media Composer
 - [[GBQ38W]] — Fördjupning i redigering av rörliga bilder med Media Composer
 - [[GBQ38X]] — Fortsätt berätta med film om kulturarv och historia
 - [[GBQ3A5]] — Grunderna i filmproduktion

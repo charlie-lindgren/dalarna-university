@@ -9,13 +9,12 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (23 st)
+## Kurser (22 st)
 
 - [[AFI273]] — Humanvetenskapernas vetenskapsteori
 - [[FI1023]] — Filosofi och vetenskapsteori
 - [[FI1024]] — Filosofi: Två teman inom filosofi
 - [[FI1026]] — Filosofi: Moralfilosofi
-- [[FI1028]] — Filosofi: Filosofi I
 - [[FI1028]] — Filosofi: Filosofi I
 - [[FI1029]] — Filosofi: Filosofisk metod och kritiskt tänkande
 - [[FI1030]] — Filosofi: Filosofins historia

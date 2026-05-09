@@ -9,7 +9,7 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (38 st)
+## Kurser (34 st)
 
 - [[ANA235]] — Ledarskapets ekonomi
 - [[GNA2NT]] — Finansiella marknader och penningpolitik
@@ -38,14 +38,10 @@ up: "[[IKS MOC]]"
 - [[NA1040]] — Grundläggande samhällsekonomi
 - [[NA2001]] — Mikroekonomi
 - [[NA2008]] — Examensarbete för kandidatexamen i nationalekonomi
-- [[NA2008]] — Examensarbete för kandidatexamen i nationalekonomi
-- [[NA2008]] — Examensarbete för kandidatexamen i nationalekonomi
 - [[NA2009]] — Samhällsekonomisk utvärdering av offentliga projekt (Cost-Benefit Analysis)
 - [[NA3001]] — Tillämpad mikroekonomi
 - [[NA3005]] — Mikroekonomi, avancerad
 - [[NA3007]] — Välfärdsekonomisk analys av samhälleliga projekt
 - [[NA3008]] — Matematik för ekonomisk statisk analys
-- [[NA3010]] — Examensarbete för magisterexamen i nationalekonomi
-- [[NA3010]] — Examensarbete för magisterexamen i nationalekonomi
 - [[NA3010]] — Examensarbete för magisterexamen i nationalekonomi
 - [[NA3011]] — Ekonometri
