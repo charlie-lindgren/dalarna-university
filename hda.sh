@@ -33,13 +33,15 @@ print_header() {
 }
 
 print_menu() {
-    echo -e "  ${MAGENTA}${BOLD}Skrapa & bygg${RESET}"
-    echo -e "    ${BOLD}1.${RESET}  ${BOLD}Skrapa ALLA kursplaner${RESET} (inkl. strö-/orphan-koder)"
-    echo -e "    ${BOLD}2.${RESET}  Skrapa kursplaner (endast ordinarie ämnen)"
-    echo -e "    ${BOLD}3.${RESET}  Skrapa utbildningsplaner"
-    echo -e "    ${BOLD}4.${RESET}  Identifiera vilande kursplaner"
-    echo -e "    ${BOLD}5.${RESET}  Bygg Quartz-sajten (public/)"
-    echo -e "    ${BOLD}6.${RESET}  Bygg & förhandsvisa sajten lokalt"
+    echo -e "  ${MAGENTA}${BOLD}Komplett pipeline${RESET}"
+    echo -e "    ${BOLD}1.${RESET}  ${BOLD}Kör allt${RESET} — skrapa + QC + bygg till public/"
+    echo ""
+    echo -e "  ${MAGENTA}${BOLD}Skrapa${RESET}"
+    echo -e "    ${BOLD}2.${RESET}  Skrapa ALLA kursplaner (inkl. strö-/orphan-koder)"
+    echo -e "    ${BOLD}3.${RESET}  Skrapa kursplaner (endast ordinarie ämnen)"
+    echo -e "    ${BOLD}4.${RESET}  Skrapa utbildningsplaner"
+    echo -e "    ${BOLD}5.${RESET}  Identifiera vilande kursplaner"
+    echo -e "    ${BOLD}6.${RESET}  ${BOLD}Kör alla skrapa-steg${RESET} (2 + 4 + 5)"
     echo ""
     echo -e "  ${MAGENTA}${BOLD}Kvalitetsgranskning${RESET}"
     echo -e "    ${BOLD}7.${RESET}  QA kursplaner (rapport)"
@@ -47,6 +49,11 @@ print_menu() {
     echo -e "    ${BOLD}9.${RESET}  Jämför kursplan-rapporter (lösta/nya fynd)"
     echo -e "   ${BOLD}10.${RESET}  Populera analysfilerna (från senaste rapport)"
     echo -e "   ${BOLD}11.${RESET}  Rensa analysfilerna (ta bort lösta fynd)"
+    echo -e "   ${BOLD}12.${RESET}  ${BOLD}Kör alla QC-steg${RESET} (7 + 8 + 10)"
+    echo ""
+    echo -e "  ${MAGENTA}${BOLD}Bygg${RESET}"
+    echo -e "   ${BOLD}13.${RESET}  Bygg Quartz-sajten (public/)"
+    echo -e "   ${BOLD}14.${RESET}  Bygg & förhandsvisa sajten lokalt"
     echo ""
     echo -e "    ${BOLD}q.${RESET}  Avsluta"
     echo ""
@@ -54,6 +61,11 @@ print_menu() {
 
 prompt_apply_mode() {
     # Sätter $APPLY_FLAG till "--apply" eller tom sträng.
+    # Hoppas över om $BATCH_APPLY_FLAG redan är satt (för buntade körningar).
+    if [[ -n "${BATCH_APPLY_FLAG+x}" ]]; then
+        APPLY_FLAG="$BATCH_APPLY_FLAG"
+        return
+    fi
     local mode
     echo "Läge:"
     echo "  a) Dry-run (visa vad som skulle ändras, skriv ingenting)"
@@ -89,8 +101,8 @@ run_scrape_all() {
 
     echo ""
     echo -e "${GREEN}✓ Fullständig kursplan-skrapning klar${RESET}"
-    if [[ -n "$APPLY_FLAG" ]]; then
-        echo "  Tips: kör menyval 4 för att tagga vilande kursplaner."
+    if [[ -n "$APPLY_FLAG" && -z "${BATCH_APPLY_FLAG+x}" ]]; then
+        echo "  Tips: kör menyval 5 för att tagga vilande kursplaner."
     fi
 }
 
@@ -129,6 +141,28 @@ run_vilande() {
     echo ""
     # shellcheck disable=SC2086
     "$PYTHON" qa/identify_ej_aktiv.py $APPLY_FLAG
+}
+
+# ── steg: kör alla skrapa-steg i sekvens ────────────────────────────────────
+run_scrape_pipeline() {
+    echo -e "${BOLD}Kör alla skrapa-steg${RESET}"
+    echo ""
+    echo "Kör i sekvens:"
+    echo "  • Skrapa ALLA kursplaner (inkl. strö-/orphan-koder)"
+    echo "  • Skrapa utbildningsplaner"
+    echo "  • Identifiera vilande kursplaner"
+    echo ""
+    prompt_apply_mode
+    BATCH_APPLY_FLAG="$APPLY_FLAG"
+    echo ""
+    run_scrape_all
+    echo ""
+    run_scrape_utb
+    echo ""
+    run_vilande
+    unset BATCH_APPLY_FLAG
+    echo ""
+    echo -e "${GREEN}✓ Alla skrapa-steg klara${RESET}"
 }
 
 # ── steg: bygg Quartz-sajten ────────────────────────────────────────────────
@@ -178,8 +212,10 @@ run_qa_kurs() {
 
     echo ""
     echo -e "${GREEN}✓ QA-rapport sparad: ${BOLD}${OUTFILE}${RESET}"
-    echo ""
-    echo "  Nästa steg: kör menyval 10 för att populera analysfilerna i varje institutions Analys-mapp."
+    if [[ -z "${BATCH_APPLY_FLAG+x}" ]]; then
+        echo ""
+        echo "  Nästa steg: kör menyval 10 för att populera analysfilerna i varje institutions Analys-mapp."
+    fi
 }
 
 # ── steg: QA utbildningsplaner ──────────────────────────────────────────────
@@ -269,29 +305,88 @@ run_prune() {
     fi
 }
 
+# ── steg: kör alla QC-steg i sekvens ────────────────────────────────────────
+run_qc_pipeline() {
+    echo -e "${BOLD}Kör alla QC-steg${RESET}"
+    echo ""
+    echo "Kör i sekvens:"
+    echo "  • QA kursplaner (rapport)"
+    echo "  • QA utbildningsplaner (rapport)"
+    echo "  • Populera analysfilerna från senaste rapport"
+    echo ""
+    prompt_apply_mode
+    BATCH_APPLY_FLAG="$APPLY_FLAG"
+    echo ""
+    run_qa_kurs
+    echo ""
+    run_qa_utb
+    echo ""
+    run_populate
+    unset BATCH_APPLY_FLAG
+    echo ""
+    echo -e "${GREEN}✓ Alla QC-steg klara${RESET}"
+}
+
+# ── steg: hela pipelinen ────────────────────────────────────────────────────
+run_full_pipeline() {
+    echo -e "${BOLD}Komplett pipeline — skrapa + QC + bygg${RESET}"
+    echo ""
+    echo "Kör i sekvens:"
+    echo "  • Skrapa ALLA kursplaner (inkl. strö-/orphan-koder)"
+    echo "  • Skrapa utbildningsplaner"
+    echo "  • Identifiera vilande kursplaner"
+    echo "  • QA kursplaner (rapport)"
+    echo "  • QA utbildningsplaner (rapport)"
+    echo "  • Populera analysfilerna"
+    echo "  • Bygg Quartz-sajten till public/"
+    echo ""
+    prompt_apply_mode
+    BATCH_APPLY_FLAG="$APPLY_FLAG"
+    echo ""
+    run_scrape_all
+    echo ""
+    run_scrape_utb
+    echo ""
+    run_vilande
+    echo ""
+    run_qa_kurs
+    echo ""
+    run_qa_utb
+    echo ""
+    run_populate
+    unset BATCH_APPLY_FLAG
+    echo ""
+    run_build_site
+    echo ""
+    echo -e "${GREEN}✓ Komplett pipeline klar${RESET}"
+}
+
 print_header
 while true; do
     print_menu
     read -rp "Val: " choice
     echo ""
     case "$choice" in
-        1)  run_scrape_all ;;
-        2)  run_scrape_kurs ;;
-        3)  run_scrape_utb ;;
-        4)  run_vilande ;;
-        5)  run_build_site ;;
-        6)  run_serve_site ;;
+        1)  run_full_pipeline ;;
+        2)  run_scrape_all ;;
+        3)  run_scrape_kurs ;;
+        4)  run_scrape_utb ;;
+        5)  run_vilande ;;
+        6)  run_scrape_pipeline ;;
         7)  run_qa_kurs ;;
         8)  run_qa_utb ;;
         9)  run_diff ;;
         10) run_populate ;;
         11) run_prune ;;
+        12) run_qc_pipeline ;;
+        13) run_build_site ;;
+        14) run_serve_site ;;
         q|Q|quit|exit)
             echo "Hejdå."
             exit 0
             ;;
         *)
-            echo -e "${YELLOW}Ogiltigt val — ange 1–11 eller q.${RESET}"
+            echo -e "${YELLOW}Ogiltigt val — ange 1–14 eller q.${RESET}"
             ;;
     esac
     echo ""
