@@ -48,6 +48,7 @@ tags: [MOC, institution, IKS]
 - [[Filosofi MOC|Filosofi]] (23 kurser)
 - [[Företagsekonomi MOC|Företagsekonomi]] (41 kurser)
 - [[Historia MOC|Historia]] (82 kurser)
+- [[Industriell ekonomi MOC|Industriell ekonomi]] (2 kurser)
 - [[Kulturgeografi MOC|Kulturgeografi]] (23 kurser)
 - [[Ljud- och musikproduktion MOC|Ljud- och musikproduktion]] (68 kurser)
 - [[Medieproduktion MOC|Medieproduktion]] (36 kurser)
