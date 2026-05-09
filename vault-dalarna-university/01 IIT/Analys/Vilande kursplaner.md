@@ -106,10 +106,10 @@ Identifiera kurser som är **vilande**: de saknar synlig aktiv kursomgång på k
 
 ## Metod
 
-1. Läs in aktuellt kursutbud per ämne från du.se (sök/listning).
-2. Jämför mot kurskoder som finns i vaulten.
-3. För koder som saknas i aktuellt utbud: kontrollera direkt kursplans-URL.
-4. Markera som **vilande** när ingen aktiv kursomgång ("Start vecka") hittas.
+1. Aktuellt kursutbud per ämne hämtas från du.se.
+2. Listan jämförs mot de kurser som finns publicerade här.
+3. För kurser som saknas i aktuellt utbud kontrolleras kursplanssidan direkt.
+4. Kurser utan aktiv kursomgång (*"Start vecka"* saknas) markeras som **vilande**.
 
 **Begränsningar:**
 
@@ -118,12 +118,11 @@ Identifiera kurser som är **vilande**: de saknar synlig aktiv kursomgång på k
 
 ## Datakälla
 
-- `qa/identify_ej_aktiv.py`
-- Kursutbudslistning + kursplanssidor på du.se
-- Kursplansfiler under `0X {INST}/Kursplaner/`
+- Kursutbudslistning och kursplanssidor på du.se vid Högskolan Dalarna.
+- Datapunkten uppdateras vid varje körning.
 
 ## Rekommendationer
 
 1. Bekräfta med ämnesföreträdare om varje vilande kurs ska återaktiveras, kvarstå eller avvecklas.
-2. För kurser som ska avvecklas: planera flytt till ej-aktiv eller annan tydlig arkiveringsstatus.
+2. För kurser som ska avvecklas: planera flytt till tydlig arkiveringsstatus.
 3. Kör analysen regelbundet för att upptäcka glidning mellan utbud och publicerade kursplaner.

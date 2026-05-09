@@ -158,11 +158,11 @@ status: första pass
 
 ## Syfte
 
-Rubriken ``## Lärandemål`` förväntas följas direkt av en fras som börjar på *Efter ...* (vanligen *"Efter godkänd kurs ska studenten kunna:"*). Inledande beskrivning, kursintroduktion eller delkurs-rubriker emellan riskerar att skymma läsbarheten av målen, försvåra automatisk extraktion och göra strukturen ojämn över institutionerna. Syftet är att kartlägga **vilka kursplaner som har stray-prosa mellan rubriken och frasningen**.
+Rubriken ## Lärandemål förväntas följas direkt av en fras som börjar på *Efter ...* (vanligen *"Efter godkänd kurs ska studenten kunna:"*). Inledande beskrivning, kursintroduktion eller delkurs-rubriker emellan riskerar att skymma läsbarheten av målen och göra strukturen ojämn över institutionerna. Syftet är att kartlägga **vilka kursplaner som har strötext mellan rubriken och introfrasen**.
 
 ## Metod
 
-`qa/check_kursplaner.py` (check-id `introfras-fore-fras`) extraherar `## Lärandemål`-sektionen och tittar på den **första icke-tomma raden**. Om den raden inte börjar med *Efter* (skiftlägesokänsligt) flaggas kursplanen.
+Sektionen ## Lärandemål extraheras och dess **första icke-tomma rad** undersöks. Om den raden inte börjar med *Efter* (skiftlägesokänsligt) flaggas kursplanen.
 
 Acceptabla varianter (alla börjar på *Efter*):
 
@@ -171,18 +171,15 @@ Acceptabla varianter (alla börjar på *Efter*):
 - *Efter genomgången kurs ska studenten kunna:*
 - *Efter avslutad delkurs ska den studerande kunna:*
 
-Frasens **exakta formulering** granskas separat i [[Frasningskonsistens]] — den här checken bryr sig endast om att rubriken följs av *en* fras som börjar med *Efter*.
-
-Frasens **exakta formulering** granskas inte här — det hanteras av [[Frasningskonsistens]].
+Frasens **exakta formulering** granskas inte här — det hanteras av [[Frasningskonsistens]]. Den här analysen bryr sig endast om att rubriken följs av *en* fras som börjar med *Efter*.
 
 ## Datakälla
 
-- Alla kursplaner under `0X {INST}/Kursplaner/`
-- Endast den svenska sektionen (`## Lärandemål`)
-- Tidpunkt: senast skrapade datum, se [[Dalarna Dashboard]]
+- Samtliga kursplaner från du.se vid Högskolan Dalarna.
+- Endast den svenska sektionen ## Lärandemål.
 
 ## Rekommendationer
 
-1. **Flytta introduktionsprosa** till `## Kursinnehåll` eller motsvarande sektion — `## Lärandemål` ska börja direkt med *Efter ...*-frasen.
+1. **Flytta introduktionsprosa** till ## Kursinnehåll eller motsvarande sektion — ## Lärandemål ska börja direkt med *Efter ...*-frasen.
 2. **Ta bort delkurs-rubriker** ovanför första frasningen om det rör sig om en sammansatt kurs; varje delkurs kan istället ha sin egen *Efter ... kunna*-fras under en gemensam rubrik.
 3. **Lyft frågan i berörda kvalitetsutskott** — bör ramen runt lärandemålen vara en explicit punkt i institutionernas riktlinjer?

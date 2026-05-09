@@ -185,21 +185,21 @@ status: första pass
 
 ## Syfte
 
-`## Examinationsformer` ska redovisa examinationsmoment som **punktlista** (`-`/`*`). Löpande prosa gör momenten otydliga och försämrar läsbarheten.
+Sektionen ## Examinationsformer ska redovisa examinationsmoment som **punktlista**. Löpande prosa gör momenten otydliga och försämrar läsbarheten — både för studenter och för Ladok-administration.
 
 ## Metod
 
-`qa/check_kursplaner.py` (`examinationsformer-utan-punktlista`) letar i `## Examinationsformer` efter rader som matchar `^\s*[-*]\s+\S`. Flaggar kursplanen om sektionen har innehåll men inga sådana rader.
+Varje kursplan kontrolleras: om sektionen ## Examinationsformer har innehåll men saknar punktlista (rader inledda med *-* eller *\**) flaggas den.
 
 **Begränsningar:**
 
-- Numrerade listor (`1. tentamen`) räknas inte som punktlista — kan ge falskt positivt utfall.
-- Manuell granskning krävs för att skilja scraping-artefakter från verkliga problem.
+- Numrerade listor (*1. tentamen*) räknas inte som punktlista — kan ge falskt positivt utfall.
+- Manuell granskning krävs för att skilja formfel från verkliga problem.
 
 ## Datakälla
 
-- Alla kursplaner under `0X {INST}/Kursplaner/` (IIT + IHV + IKS + ISLL)
-- Endast sektionen `## Examinationsformer`
+- Samtliga kursplaner från du.se vid Högskolan Dalarna (IIT, IHV, IKS, ISLL).
+- Endast sektionen ## Examinationsformer.
 
 ## Rekommendationer
 

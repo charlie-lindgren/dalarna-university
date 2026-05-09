@@ -240,7 +240,7 @@ status: första pass
 
 ## Syfte
 
-Lärandemål bör vara **få nog att vara hanterbara** men **många nog att täcka kursens innehåll**. Antalet skalas efter kursens hp — en 7,5 hp-kurs behöver färre mål än en 30 hp-kurs:
+Lärandemål bör vara **få nog att vara hanterbara** men **många nog att täcka kursens innehåll**. Antalet skalas efter kursens omfång — en 7,5 hp-kurs behöver färre mål än en 30 hp-kurs:
 
 | hp        | Min | Max |
 | --------- | --- | --- |
@@ -253,21 +253,21 @@ Dessutom: **inget enskilt lärandemål bör överstiga 25 ord** — då har det 
 
 ## Metod
 
-`qa/check_kursplaner.py` räknar punkter (`-`/`*`) i sektionen `## Lärandemål` (svensk version), läser kursens hp från frontmatter och flaggar tre kategorier:
+Antalet punkter i sektionen ## Lärandemål (svensk version) räknas och jämförs mot tabellens intervall för kursens hp. Tre kategorier flaggas:
 
-- **För få mål** — färre än `min(hp)` enligt tabellen ovan.
-- **För många mål** — fler än `max(hp)` enligt tabellen ovan.
-- **Långt mål** — enskild bullet med fler än 25 ord.
+- **För få mål** — färre än miniminivån enligt tabellen ovan.
+- **För många mål** — fler än maxnivån enligt tabellen ovan.
+- **Långt mål** — enskild punkt med fler än 25 ord.
 
-**Begränsningar:** Om lärandemålen formaterats som numrerad lista (`1.`, `2.`, …) räknas de inte som bullets — falsk negativ. Långa bullets innehåller ibland legitim sammanvävning (*"x, y, samt z"*) som inte är ett tecken på dålig styckning.
+**Begränsningar:** Om lärandemålen formaterats som numrerad lista (*1.*, *2.*, …) räknas de inte — falsk negativ. Långa punkter innehåller ibland legitim sammanvävning (*"x, y, samt z"*) som inte är ett tecken på dålig styckning.
 
 ## Datakälla
 
-- Alla kursplaner under `0X {INST}/Kursplaner/` (IIT + IHV + IKS + ISLL)
-- Endast den svenska sektionen (`## Lärandemål`)
+- Samtliga kursplaner från du.se vid Högskolan Dalarna (IIT, IHV, IKS, ISLL).
+- Endast den svenska sektionen ## Lärandemål.
 
 ## Rekommendationer
 
-1. **Granska varje flaggad kursplan manuellt.** Riktlinjen 4–12 är vägledande, inte absolut.
-2. **Bryt långa bullets** vid nästa revision — om bullet innehåller flera lärandemål, gör om den till flera bullets.
-3. **Övervägs att gå till numrerad lista**? Justera regex i `LO_BULLET_RE` så även `1.`-format räknas.
+1. **Granska varje flaggad kursplan manuellt.** Riktlinjen är vägledande, inte absolut.
+2. **Bryt långa punkter** vid nästa revision — om ett mål innehåller flera lärandemål, gör om det till flera punkter.
+3. **Numrerad lista istället?** Om institutionen vill övergå till numrerad lista bör detta beslutas medvetet och föras in i mallarna.

@@ -268,11 +268,11 @@ status: första pass
 
 ## Syfte
 
-Lärandemål inleds typiskt med en standardiserad introfras: *"Efter godkänd kurs ska studenten kunna:"*. När formuleringen varierar mellan kursplaner försvåras både läsning, automatisk extraktion och studenternas igenkänning. Syftet är att kartlägga **hur många varianter** som faktiskt används vid Högskolan Dalarna och hur **distributionen** ser ut tvärs de fyra institutionerna (IIT, IHV, IKS, ISLL).
+Lärandemål inleds typiskt med en standardiserad introfras: *"Efter godkänd kurs ska studenten kunna:"*. När formuleringen varierar mellan kursplaner försvåras både läsning och studenternas igenkänning. Syftet är att kartlägga **hur många varianter** som faktiskt används vid Högskolan Dalarna och hur **distributionen** ser ut tvärs de fyra institutionerna (IIT, IHV, IKS, ISLL).
 
 ## Metod
 
-Regex-jämförelse i sektionen `## Lärandemål` (svensk version). `qa/check_kursplaner.py` (`frasning-avviker`) flaggar kursplaner där introfras finns men inte matchar referensformen *"Efter godkänd kurs ska studenten kunna:"* exakt — typiska avvikelser är varianter av modalverb (*ska*/*skall*), tidsfras (*godkänd*/*avslutad*/*genomgången*), subjekt (*studenten*/*den studerande*) eller saknat kolon.
+I sektionen ## Lärandemål (svensk version) jämförs första frasningen mot referensformen *"Efter godkänd kurs ska studenten kunna:"*. Avvikelser flaggas — typiska varianter rör modalverb (*ska*/*skall*), tidsfras (*godkänd*/*avslutad*/*genomgången*), subjekt (*studenten*/*den studerande*) eller saknat kolon.
 
 Inledande prosa eller delkurs-rubriker före introfrasen hanteras separat i [[Introfras]].
 
@@ -280,9 +280,8 @@ Den enda strukturella undantagsformen som accepteras är *"Efter avslutad delkur
 
 ## Datakälla
 
-- Alla kursplaner under `0X {INST}/Kursplaner/` (IIT + IHV + IKS + ISLL)
-- Endast den svenska sektionen (`## Lärandemål`)
-- Tidpunkt: senast skrapade datum, se [[Dalarna Dashboard]]
+- Samtliga kursplaner från du.se vid Högskolan Dalarna.
+- Endast den svenska sektionen ## Lärandemål.
 
 ## Rekommendationer
 

@@ -38,36 +38,34 @@ status: första pass
 ## Syfte
 
 
-Lärandemålens **verbnivå bör matcha kursnivån**. En *avancerad nivå*-kurs vars lärandemål bara rör sig på Minnas/Förstå-nivå indikerar att kursen ligger lägre kognitivt än nivåklassningen anger; en *grundnivå*-kurs där värdera/skapa-verb dominerar kan tyda på fellabeling eller på en kurs som egentligen tillhör avancerad nivå. Det är ett pedagogiskt och formellt problem (Bologna, examensordningen).
+Lärandemålens **verbnivå bör matcha kursnivån**. En kurs på *avancerad nivå* vars lärandemål bara rör sig på Minnas/Förstå-nivå indikerar att kursen ligger lägre kognitivt än nivåklassningen anger; en kurs på *grundnivå* där värdera/skapa-verb dominerar kan tyda på fellabeling eller på en kurs som egentligen tillhör avancerad nivå. Det är ett pedagogiskt och formellt problem (Bologna, examensordningen).
 
 ## Metod
 
-`qa/check_kursplaner.py` använder ett svenskt verb-lexikon med sex revisade Bloom-nivåer (1 Minnas → 6 Skapa) som finns i [`qa/bloom_verbs.py`](../../qa/bloom_verbs.py). För varje bullet i sektionen `## Lärandemål` (svensk version) letas det **första klassbara ordet**; ledande adverb (*självständigt*, *muntligt*) saknas i lexikonet och hoppas över naturligt.
+För varje punkt i sektionen ## Lärandemål (svensk version) klassificeras det **första klassbara verbet** mot ett svenskt verb-lexikon strukturerat enligt de sex reviderade Bloom-nivåerna (1 Minnas → 2 Förstå → 3 Tillämpa → 4 Analysera → 5 Värdera → 6 Skapa). Ledande adverb (*självständigt*, *muntligt*) hoppas över. Kursnivån läses från kursplanens metadata (*Grundnivå* eller *Avancerad nivå*) — inte från kurskodprefix, eftersom prefix som G2 faktiskt kan beteckna grundnivå.
 
-Kursnivån läses från frontmatter-fältet `niva:` (*"Grundnivå"* eller *"Avancerad nivå"*) — inte från kurskodprefix, eftersom prefix som `G2` faktiskt kan vara grundnivå.
+Tre regler ger fynd:
 
-Tre regler ger findings:
+- **Låg verbnivå för avancerad kurs** — kursen är på avancerad nivå men inga lärandemål ligger på nivå 4–6 (Analysera/Värdera/Skapa).
+- **Hög verbnivå för grundkurs** — kursen är på grundnivå men ≥ 60 % av klassade lärandemål ligger på nivå 5–6 (Värdera/Skapa).
+- **Okänt verb** — ≥ 3 lärandemål inleds med ett verb som inte finns i lexikonet. Inte ett kvalitetsfel i sig, utan en signal att utöka lexikonet.
 
-- **Bloom-nivå låg (avancerad kurs)** — `niva: "Avancerad nivå"` och inga bullets på nivå ≥ 4 (Analysera/Värdera/Skapa).
-- **Bloom-nivå hög (grundkurs)** — `niva: "Grundnivå"` och ≥ 60 % av klassade bullets ligger på nivå 5–6 (Värdera/Skapa).
-- **Bloom okänt verb** — ≥ 3 bullets i kursplanen vars första klassbara ord saknas i lexikonet. Inte ett kvalitetsfel, utan en signal till att utöka lexikonet.
-
-Detalj-strängen för varje finding visar fördelningen som ett 6-cells histogram, t.ex. `fördelning [2,3,1,0,0,0]` (cell 1 = Minnas, cell 6 = Skapa).
+Detalj-strängen för varje fynd visar fördelningen som ett 6-cells histogram, t.ex. *fördelning [2,3,1,0,0,0]* (cell 1 = Minnas, cell 6 = Skapa).
 
 **Begränsningar:**
 
-- Lexikonet är handkurerat och ofullständigt — utökas iterativt utifrån `bloom-okant-verb`-fynd.
+- Lexikonet är handkurerat och ofullständigt — utökas iterativt utifrån fynd av okända verb.
 - Kontext räknas inte: *"redogöra för komplexa samband"* kan vara ett kvalificerat lärandemål trots Minnas-verbet.
 - Vid dubbelplacerade verb (t.ex. *jämföra* mellan Förstå och Analysera) väljs alltid den högsta nivån.
 - Endast svenska analyseras; engelska Learning Outcomes granskas inte här.
 
-Denna analys är **manuellt kurerad** — populate-skriptet skriver in fynden, granskaren tar bort eller flaggar enligt egen bedömning.
+Listan ska användas som diskussionsunderlag — granskaren bedömer varje fynd i sitt sammanhang.
 
 ## Datakälla
 
-- Alla kursplaner under `0X {INST}/Kursplaner/` (IIT + IHV + IKS + ISLL)
-- Endast den svenska sektionen (`## Lärandemål`)
-- Kursnivå från frontmatter-fältet `niva:`
+- Samtliga kursplaner från du.se vid Högskolan Dalarna (IIT, IHV, IKS, ISLL).
+- Endast svensk version, sektionen ## Lärandemål.
+- Kursnivå läses från kursplanens metadata (*Grundnivå* / *Avancerad nivå*).
 
 ## Rekommendationer
 
