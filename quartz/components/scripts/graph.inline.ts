@@ -248,24 +248,26 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
   // Graph color scheme — Högskolan Dalarna
   // Each of the four institutions gets its own hue family.
-  // Within an institution, three luminance steps mark hierarchy:
-  //   moc      — top-level institution MOC node (vivid)
-  //   subject  — subject MOC (kursplaner) and programme files (mid-tone)
-  //   leaf     — individual kursplan / utbildningsplan (pale)
+  // Within an institution, four luminance steps mark hierarchy (vivid → pale):
+  //   moc      — top-level institution MOC node
+  //   subject  — subject MOC (darkest content tier)
+  //   program  — utbildningsplan (mid tier)
+  //   course   — kursplan (lightest leaf)
   // Ej-aktiv overrides everything in warm red. Unrecognized nodes fade to gray.
   // Hues are placed ~90° apart for max separation; each institution keeps a
-  // single hue across the moc/subject/leaf hierarchy (only luminance shifts).
-  // Leaf saturation is kept high enough that institution membership is obvious
-  // at a glance, even in dense regions of the global graph.
-  const INSTITUTION_PALETTE: Record<string, { moc: string; subject: string; leaf: string }> = {
-    IIT:  { moc: "#0d57c2", subject: "#3b7fd9", leaf: "#7eaae6" },  // royal blue (~215°)
-    IHV:  { moc: "#0e8c5a", subject: "#2cb077", leaf: "#6ed5a3" },  // emerald   (~150°)
-    IKS:  { moc: "#d65a1c", subject: "#ef8534", leaf: "#f5b073" },  // orange    (~25°)
-    ISLL: { moc: "#a3268f", subject: "#cd4cbf", leaf: "#e08bd6" },  // magenta   (~315°)
+  // single hue across the moc/subject/program/course hierarchy.
+  const INSTITUTION_PALETTE: Record<
+    string,
+    { moc: string; subject: string; program: string; course: string }
+  > = {
+    IIT:  { moc: "#0d57c2", subject: "#3b7fd9", program: "#7eaae6", course: "#b6cff0" },  // royal blue (~215°)
+    IHV:  { moc: "#0e8c5a", subject: "#2cb077", program: "#6ed5a3", course: "#a7e8c8" },  // emerald   (~150°)
+    IKS:  { moc: "#d65a1c", subject: "#ef8534", program: "#f5b073", course: "#f9cfa8" },  // orange    (~25°)
+    ISLL: { moc: "#a3268f", subject: "#cd4cbf", program: "#e08bd6", course: "#efbce9" },  // magenta   (~315°)
   }
   const INSTITUTIONS = ["IIT", "IHV", "IKS", "ISLL"] as const
   const STRUCTURAL_GOLD = "#d4a843"   // Dashboard, Analys MOC — cross-institution structure
-  const ANALYS_SLATE    = "#7e8a96"   // Analys leaf pages
+  const ANALYS_PURPLE   = "#7e3aed"   // Analys leaf pages — vivid violet in the hue gap between IIT and ISLL
   const EJ_AKTIV_RED    = "#c0392b"   // not-running courses
   const VILANDE_RED     = "#c0392b"   // vilande courses
 
@@ -288,14 +290,16 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       if (d.tags.includes("institution")) return palette.moc
       // Subject MOC: tags include `MOC` (and usually `amne`)
       if (d.tags.includes("MOC")) return palette.subject
-      // Leaf: kursplan / utbildningsplan
-      return palette.leaf
+      // Programme plan
+      if (d.tags.includes("utbildningsplan")) return palette.program
+      // Course plan (kursplan) or other leaves under the institution
+      return palette.course
     }
 
     // Cross-institution structural MOCs (Dashboard, Analys MOC)
     if (d.tags.includes("dashboard") || d.tags.includes("MOC")) return STRUCTURAL_GOLD
     // Analys leaf pages
-    if (d.tags.includes("analys")) return ANALYS_SLATE
+    if (d.tags.includes("analys")) return ANALYS_PURPLE
 
     return computedStyleMap["--gray"]
   }
