@@ -190,11 +190,11 @@ status: första pass
 
 ## Syfte
 
-Sektionen ## Examinationsformer ska redovisa examinationsmoment som **punktlista**. Löpande prosa gör momenten otydliga och försämrar läsbarheten — både för studenter och för Ladok-administration.
+Sektionen `Examinationsformer` ska redovisa examinationsmoment som **punktlista**. Löpande prosa gör momenten otydliga och försämrar läsbarheten — både för studenter och för Ladok-administration.
 
 ## Metod
 
-Varje kursplan kontrolleras: om sektionen ## Examinationsformer har innehåll men saknar punktlista (rader inledda med *-* eller *\**) flaggas den.
+Varje kursplan kontrolleras: om sektionen `Examinationsformer` har innehåll men saknar punktlista (rader inledda med *-* eller *\**) flaggas den.
 
 **Begränsningar:**
 
@@ -204,7 +204,7 @@ Varje kursplan kontrolleras: om sektionen ## Examinationsformer har innehåll me
 ## Datakälla
 
 - Samtliga kursplaner från du.se vid Högskolan Dalarna (IIT, IHV, IKS, ISLL).
-- Endast sektionen ## Examinationsformer.
+- Endast sektionen `Examinationsformer`.
 
 ## Rekommendationer
 

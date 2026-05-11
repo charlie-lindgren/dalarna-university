@@ -182,7 +182,10 @@ def build_callout(
     ]
     for code, subj, problem, detail in rows:
         url = KURSPLAN_URL.format(code=code)
-        lines.append(f"> | [{code}]({url}) | {subj} | {problem} | {detail} |")
+        # Escape `##` so Quartz doesn't render it as a heading/tag link inside
+        # the table cell — the excerpt quotes raw kursplan markdown verbatim.
+        cell_detail = detail.replace("##", r"\##")
+        lines.append(f"> | [{code}]({url}) | {subj} | {problem} | {cell_detail} |")
     return lines
 
 

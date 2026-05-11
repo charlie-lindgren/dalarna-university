@@ -153,8 +153,8 @@ Båda stavningskontrollerna filtreras mot omfattande ignorelistor (domäntermer,
 ## Datakälla
 
 - Samtliga kursplaner från du.se vid Högskolan Dalarna (IIT, IHV, IKS, ISLL).
-- Svensk text: kursplanens brödtext exklusive avsnittet ## English Version.
-- Engelsk text: enbart avsnittet ## English Version.
+- Svensk text: kursplanens brödtext exklusive avsnittet `English Version`.
+- Engelsk text: enbart avsnittet `English Version`.
 
 ## Rekommendationer
 

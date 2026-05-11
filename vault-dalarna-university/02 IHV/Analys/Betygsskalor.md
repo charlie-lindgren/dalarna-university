@@ -21,14 +21,14 @@ Kartlägga **inkonsekventa betygsskalor** vid Högskolan Dalarna — typfallet �
 
 ## Metod
 
-I sektionen ## Betyg letas mönster av blandade skalor: en kurs med totalbetyg i U/3/4/5 vars delmoment redovisas i U/G/VG, eller tvärtom. Kursplaner som uttryckligen är undantagna upprätthålls i en kurerad lista.
+I sektionen `Betyg` letas mönster av blandade skalor: en kurs med totalbetyg i U/3/4/5 vars delmoment redovisas i U/G/VG, eller tvärtom. Kursplaner som uttryckligen är undantagna upprätthålls i en kurerad lista.
 
 **Begränsningar:** Detektionen är konservativ. Den missar betygskolumner som beskrivs i prosa eller med ovanlig formatering. Manuell granskning rekommenderas för flaggade fall.
 
 ## Datakälla
 
 - Samtliga kursplaner från du.se vid Högskolan Dalarna (IIT, IHV, IKS, ISLL).
-- Endast sektionen ## Betyg.
+- Endast sektionen `Betyg`.
 
 ## Rekommendationer
 

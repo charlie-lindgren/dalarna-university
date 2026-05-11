@@ -155,7 +155,7 @@ status: första pass
 > | [PE1023](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1023) | PEA | Felstavning | `rättsäkerhet` (sv) |
 > | [PE1054](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1054) | PEA | Felstavning | `lärstrategier` (sv) |
 > | [PE1064](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1064) | PEA | Felstavning | `rättsäkerhetsproblematiken` (sv) |
-> | [PE1067](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1067) | PEA | Dubblerat ord | `att` — ….m. 2013-11-13.  ## Lärandemål  Kursens övergripande mål är att att den studerande förstår hur man kan styra sina informationsf… |
+> | [PE1067](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1067) | PEA | Dubblerat ord | `att` — ….m. 2013-11-13.  \## Lärandemål  Kursens övergripande mål är att att den studerande förstår hur man kan styra sina informationsf… |
 > | [PE1068](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1068) | PEA | Felstavning | `känndom` (sv) |
 > | [PE2005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE2005) | PEA | Felstavning (en) | `gryndsyn` (en) |
 > | [PE3004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE3004) | PEA | Felstavning | `högskole-mässighet` (sv) |
@@ -284,8 +284,8 @@ Båda stavningskontrollerna filtreras mot omfattande ignorelistor (domäntermer,
 ## Datakälla
 
 - Samtliga kursplaner från du.se vid Högskolan Dalarna (IIT, IHV, IKS, ISLL).
-- Svensk text: kursplanens brödtext exklusive avsnittet ## English Version.
-- Engelsk text: enbart avsnittet ## English Version.
+- Svensk text: kursplanens brödtext exklusive avsnittet `English Version`.
+- Engelsk text: enbart avsnittet `English Version`.
 
 ## Rekommendationer
 

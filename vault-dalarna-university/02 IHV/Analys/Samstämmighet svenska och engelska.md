@@ -97,7 +97,7 @@ Kursplaner med både svensk och engelsk version bör ha **samma antal lärandem�
 
 ## Metod
 
-Antalet punkter i sektionen ## Lärandemål jämförs med antalet i ## Learning Outcomes. Varje kursplan där antalet skiljer sig (med minst en) flaggas. Antalet lärandemål ska vara identiskt mellan språken.
+Antalet punkter i sektionen `Lärandemål` jämförs med antalet i `Learning Outcomes`. Varje kursplan där antalet skiljer sig (med minst en) flaggas. Antalet lärandemål ska vara identiskt mellan språken.
 
 **Begränsningar:**
 

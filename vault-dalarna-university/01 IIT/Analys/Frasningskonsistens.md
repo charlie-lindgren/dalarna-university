@@ -139,7 +139,7 @@ Lärandemål inleds typiskt med en standardiserad introfras: *"Efter godkänd ku
 
 ## Metod
 
-I sektionen ## Lärandemål (svensk version) jämförs första frasningen mot referensformen *"Efter godkänd kurs ska studenten kunna:"*. Avvikelser flaggas — typiska varianter rör modalverb (*ska*/*skall*), tidsfras (*godkänd*/*avslutad*/*genomgången*), subjekt (*studenten*/*den studerande*) eller saknat kolon.
+I sektionen `Lärandemål` (svensk version) jämförs första frasningen mot referensformen *"Efter godkänd kurs ska studenten kunna:"*. Avvikelser flaggas — typiska varianter rör modalverb (*ska*/*skall*), tidsfras (*godkänd*/*avslutad*/*genomgången*), subjekt (*studenten*/*den studerande*) eller saknat kolon.
 
 Inledande prosa eller delkurs-rubriker före introfrasen hanteras separat i [[Introfras]].
 
@@ -148,7 +148,7 @@ Den enda strukturella undantagsformen som accepteras är *"Efter avslutad delkur
 ## Datakälla
 
 - Samtliga kursplaner från du.se vid Högskolan Dalarna.
-- Endast den svenska sektionen ## Lärandemål.
+- Endast den svenska sektionen `Lärandemål`.
 
 ## Rekommendationer
 

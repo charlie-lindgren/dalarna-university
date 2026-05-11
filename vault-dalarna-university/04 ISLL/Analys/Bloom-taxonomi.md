@@ -41,7 +41,7 @@ Lärandemålens **verbnivå bör matcha kursnivån**. En kurs på *avancerad niv
 
 ## Metod
 
-För varje punkt i sektionen ## Lärandemål (svensk version) klassificeras det **första klassbara verbet** mot ett svenskt verb-lexikon strukturerat enligt de sex reviderade Bloom-nivåerna (1 Minnas → 2 Förstå → 3 Tillämpa → 4 Analysera → 5 Värdera → 6 Skapa). Ledande adverb (*självständigt*, *muntligt*) hoppas över. Kursnivån läses från kursplanens metadata (*Grundnivå* eller *Avancerad nivå*) — inte från kurskodprefix, eftersom prefix som G2 faktiskt kan beteckna grundnivå.
+För varje punkt i sektionen `Lärandemål` (svensk version) klassificeras det **första klassbara verbet** mot ett svenskt verb-lexikon strukturerat enligt de sex reviderade Bloom-nivåerna (1 Minnas → 2 Förstå → 3 Tillämpa → 4 Analysera → 5 Värdera → 6 Skapa). Ledande adverb (*självständigt*, *muntligt*) hoppas över. Kursnivån läses från kursplanens metadata (*Grundnivå* eller *Avancerad nivå*) — inte från kurskodprefix, eftersom prefix som G2 faktiskt kan beteckna grundnivå.
 
 Tre regler ger fynd:
 
@@ -63,7 +63,7 @@ Listan ska användas som diskussionsunderlag — granskaren bedömer varje fynd 
 ## Datakälla
 
 - Samtliga kursplaner från du.se vid Högskolan Dalarna (IIT, IHV, IKS, ISLL).
-- Endast svensk version, sektionen ## Lärandemål.
+- Endast svensk version, sektionen `Lärandemål`.
 - Kursnivå läses från kursplanens metadata (*Grundnivå* / *Avancerad nivå*).
 
 ## Rekommendationer

@@ -100,11 +100,11 @@ status: första pass
 
 ## Syfte
 
-Rubriken ## Lärandemål förväntas följas direkt av en fras som börjar på *Efter ...* (vanligen *"Efter godkänd kurs ska studenten kunna:"*). Inledande beskrivning, kursintroduktion eller delkurs-rubriker emellan riskerar att skymma läsbarheten av målen och göra strukturen ojämn över institutionerna. Syftet är att kartlägga **vilka kursplaner som har strötext mellan rubriken och introfrasen**.
+Rubriken `Lärandemål` förväntas följas direkt av en fras som börjar på *Efter ...* (vanligen *"Efter godkänd kurs ska studenten kunna:"*). Inledande beskrivning, kursintroduktion eller delkurs-rubriker emellan riskerar att skymma läsbarheten av målen och göra strukturen ojämn över institutionerna. Syftet är att kartlägga **vilka kursplaner som har strötext mellan rubriken och introfrasen**.
 
 ## Metod
 
-Sektionen ## Lärandemål extraheras och dess **första icke-tomma rad** undersöks. Om den raden inte börjar med *Efter* (skiftlägesokänsligt) flaggas kursplanen.
+Sektionen `Lärandemål` extraheras och dess **första icke-tomma rad** undersöks. Om den raden inte börjar med *Efter* (skiftlägesokänsligt) flaggas kursplanen.
 
 Acceptabla varianter (alla börjar på *Efter*):
 
@@ -118,10 +118,10 @@ Frasens **exakta formulering** granskas inte här — det hanteras av [[Frasning
 ## Datakälla
 
 - Samtliga kursplaner från du.se vid Högskolan Dalarna.
-- Endast den svenska sektionen ## Lärandemål.
+- Endast den svenska sektionen `Lärandemål`.
 
 ## Rekommendationer
 
-1. **Flytta introduktionsprosa** till ## Kursinnehåll eller motsvarande sektion — ## Lärandemål ska börja direkt med *Efter ...*-frasen.
+1. **Flytta introduktionsprosa** till `Kursinnehåll` eller motsvarande sektion — `Lärandemål` ska börja direkt med *Efter ...*-frasen.
 2. **Ta bort delkurs-rubriker** ovanför första frasningen om det rör sig om en sammansatt kurs; varje delkurs kan istället ha sin egen *Efter ... kunna*-fras under en gemensam rubrik.
 3. **Lyft frågan i berörda kvalitetsutskott** — bör ramen runt lärandemålen vara en explicit punkt i institutionernas riktlinjer?

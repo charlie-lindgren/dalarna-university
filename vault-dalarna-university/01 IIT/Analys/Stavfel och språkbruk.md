@@ -53,7 +53,7 @@ status: första pass
 > | [GEG2ZQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZQ) | MÖY | Felstavning | `inlämninguppgifter` (sv) |
 > | [GEG2ZQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZQ) | MÖY | Felstavning | `solcellsanläggingar` (sv) |
 > | [GEG2ZR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZR) | MÖY | Felstavning | `inlämingsuppgifter` (sv) |
-> | [GSQ25J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25J) | SQQ | Dubblerat ord | `hp` — …ch skriftliga inlämningsuppgifter i kvantitativa metoder, 4 hp hp  ## Arbetsformer  Föreläsningar, seminarier och övningar.… |
+> | [GSQ25J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25J) | SQQ | Dubblerat ord | `hp` — …ch skriftliga inlämningsuppgifter i kvantitativa metoder, 4 hp hp  \## Arbetsformer  Föreläsningar, seminarier och övningar.… |
 > | [GSQ25K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25K) | SQQ | Felstavning | `skalniåver` (sv) |
 > | [GSQ33N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ33N) | SQQ | Felstavning | `skalniåver` (sv) |
 > | [GMI23G](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI23G) | XYZ | Felstavning (en) | `eulides` (en) |
@@ -80,8 +80,8 @@ Båda stavningskontrollerna filtreras mot omfattande ignorelistor (domäntermer,
 ## Datakälla
 
 - Samtliga kursplaner från du.se vid Högskolan Dalarna (IIT, IHV, IKS, ISLL).
-- Svensk text: kursplanens brödtext exklusive avsnittet ## English Version.
-- Engelsk text: enbart avsnittet ## English Version.
+- Svensk text: kursplanens brödtext exklusive avsnittet `English Version`.
+- Engelsk text: enbart avsnittet `English Version`.
 
 ## Rekommendationer
 

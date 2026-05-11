@@ -117,7 +117,7 @@ Dessutom: **inget enskilt lärandemål bör överstiga 25 ord** — då har det 
 
 ## Metod
 
-Antalet punkter i sektionen ## Lärandemål (svensk version) räknas och jämförs mot tabellens intervall för kursens hp. Tre kategorier flaggas:
+Antalet punkter i sektionen `Lärandemål` (svensk version) räknas och jämförs mot tabellens intervall för kursens hp. Tre kategorier flaggas:
 
 - **För få mål** — färre än miniminivån enligt tabellen ovan.
 - **För många mål** — fler än maxnivån enligt tabellen ovan.
@@ -128,7 +128,7 @@ Antalet punkter i sektionen ## Lärandemål (svensk version) räknas och jämfö
 ## Datakälla
 
 - Samtliga kursplaner från du.se vid Högskolan Dalarna (IIT, IHV, IKS, ISLL).
-- Endast den svenska sektionen ## Lärandemål.
+- Endast den svenska sektionen `Lärandemål`.
 
 ## Rekommendationer
 
