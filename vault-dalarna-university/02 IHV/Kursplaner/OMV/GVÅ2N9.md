@@ -26,6 +26,7 @@ up: "[[Omvårdnad MOC]]"
 - **Kursen kan ingå i följande huvudområde(n):** Omvårdnad 1
 - **Ämnestillhörighet:** Omvårdnad (OMV)
 - **Fastställd:** Fastställd 2021-03-09 . Kursplanen gäller fr.o.m. 2021-03-09.
+- **Reviderad:** Reviderad 2021-03-15 . Revideringen är giltig fr.o.m. 2021-03-15.
 
 ## Lärandemål
 

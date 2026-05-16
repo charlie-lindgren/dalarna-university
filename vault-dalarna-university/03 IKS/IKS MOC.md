@@ -8,7 +8,7 @@ tags: [MOC, institution, IKS]
 
 > Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Program (27 st)
+## Program (28 st)
 
 - [[KAPSG]] — Audiovisuell produktion för scen och event – kandidatprogram
 - [[SBMPG]] — Business Managementprogrammet - Kandidatprogram i företagsekonomi
@@ -37,6 +37,7 @@ tags: [MOC, institution, IKS]
 - [[LVALA]] — Vidareutbildning av lärare som saknar lärarexamen
 - [[LP79A]] — Ämneslärarprogrammet inriktning grundskolans årskurs 7-9
 - [[LPGYA]] — Ämneslärarprogrammet inriktning gymnasieskolan
+- [[L7I9A]] — Ämneslärarprogrammet årskurs 7-9 arbetsintegrerad utbildning med inriktning matematik och idrott och hälsa
 
 ## Ämnen
 

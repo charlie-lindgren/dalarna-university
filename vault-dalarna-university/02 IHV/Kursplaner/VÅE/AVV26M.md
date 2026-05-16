@@ -27,6 +27,7 @@ up: "[[Vårdvetenskap MOC]]"
 - **Kursen kan ingå i följande huvudområde(n):** Socialt arbete 1 Vårdvetenskap 2
 - **Ämnestillhörighet:** Vårdvetenskap (VÅE)
 - **Fastställd:** Fastställd 2021-02-24 . Kursplanen gäller fr.o.m. 2021-02-24.
+- **Reviderad:** Reviderad 2021-03-02 . Revideringen är giltig fr.o.m. 2021-03-02.
 
 ## Lärandemål
 

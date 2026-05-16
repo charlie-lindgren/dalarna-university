@@ -26,6 +26,7 @@ up: "[[Matematikdidaktik MOC]]"
 - **Kursen kan ingå i följande huvudområde(n):** Ej huvudområde 1
 - **Ämnestillhörighet:** Matematikdidaktik (MDI)
 - **Fastställd:** Fastställd 2021-12-22 . Kursplanen gäller fr.o.m. 2022-03-01.
+- **Reviderad:** Reviderad 2022-05-23 . Revideringen är giltig fr.o.m. 2022-05-23.
 
 ## Lärandemål
 

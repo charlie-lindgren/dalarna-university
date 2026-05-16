@@ -26,6 +26,7 @@ up: "[[Historia MOC]]"
 - **Kursen kan ingå i följande huvudområde(n):** Historia 1
 - **Ämnestillhörighet:** Historia (HIA)
 - **Fastställd:** Fastställd 2023-03-08 . Kursplanen gäller fr.o.m. 2023-03-08.
+- **Reviderad:** Reviderad 2023-05-25 . Revideringen är giltig fr.o.m. 2023-05-25.
 
 ## Lärandemål
 

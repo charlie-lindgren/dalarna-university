@@ -26,6 +26,7 @@ up: "[[Spanska MOC]]"
 - **Kursen kan ingå i följande huvudområde(n):** Spanska 1
 - **Ämnestillhörighet:** Spanska (SPA)
 - **Fastställd:** Fastställd 2022-04-28 . Kursplanen gäller fr.o.m. 2022-04-28.
+- **Reviderad:** Reviderad 2023-11-02 . Revideringen är giltig fr.o.m. 2023-11-02.
 
 ## Lärandemål
 

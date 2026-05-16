@@ -26,6 +26,7 @@ up: "[[Statsvetenskap MOC]]"
 - **Kursen kan ingå i följande huvudområde(n):** Statsvetenskap 1
 - **Ämnestillhörighet:** Statsvetenskap (SKA)
 - **Fastställd:** Fastställd 2019-11-28 . Kursplanen gäller fr.o.m. 2020-08-31.
+- **Reviderad:** Reviderad 2020-03-03 . Revideringen är giltig fr.o.m. 2020-03-03.
 
 ## Lärandemål
 

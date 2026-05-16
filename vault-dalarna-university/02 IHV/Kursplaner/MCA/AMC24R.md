@@ -27,6 +27,7 @@ up: "[[Medicinsk vetenskap MOC]]"
 - **Kursen kan ingå i följande huvudområde(n):** Ej huvudområde 1
 - **Ämnestillhörighet:** Medicinsk vetenskap (MCA)
 - **Fastställd:** Fastställd 2020-02-13 . Kursplanen gäller fr.o.m. 2020-03-03.
+- **Reviderad:** Reviderad 2020-05-18 . Revideringen är giltig fr.o.m. 2020-05-18.
 
 ## Lärandemål
 

@@ -26,6 +26,7 @@ up: "[[Pedagogiskt arbete MOC]]"
 - **Kursen kan ingå i följande huvudområde(n):** Ej huvudområde 1
 - **Ämnestillhörighet:** Pedagogiskt arbete (PGA)
 - **Fastställd:** Fastställd 2018-03-08 . Kursplanen gäller fr.o.m. 2018-09-03.
+- **Reviderad:** Reviderad 2020-09-30 . Revideringen är giltig fr.o.m. 2020-09-30.
 
 ## Lärandemål
 

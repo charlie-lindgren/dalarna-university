@@ -26,6 +26,7 @@ up: "[[Medieproduktion MOC]]"
 - **Kursen kan ingå i följande huvudområde(n):** Ej huvudområde 1
 - **Ämnestillhörighet:** Medieproduktion (MPR)
 - **Fastställd:** Fastställd 2025-07-02 . Kursplanen gäller fr.o.m. 2025-07-02.
+- **Reviderad:** Reviderad 2025-11-06 . Revideringen är giltig fr.o.m. 2025-11-06.
 
 ## Lärandemål
 

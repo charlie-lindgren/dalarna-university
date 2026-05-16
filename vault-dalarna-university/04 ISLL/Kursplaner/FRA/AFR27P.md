@@ -26,6 +26,7 @@ up: "[[Franska MOC]]"
 - **Kursen kan ingå i följande huvudområde(n):** Franska 1 Interkulturella litteraturstudier 2
 - **Ämnestillhörighet:** Franska (FRA)
 - **Fastställd:** Fastställd 2021-12-22 . Kursplanen gäller fr.o.m. 2021-12-22.
+- **Reviderad:** Reviderad 2023-12-08 . Revideringen är giltig fr.o.m. 2023-12-08.
 
 ## Lärandemål
 

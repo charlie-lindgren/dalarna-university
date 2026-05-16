@@ -27,6 +27,7 @@ up: "[[Socialt arbete MOC]]"
 - **Kursen kan ingå i följande huvudområde(n):** Omvårdnad 1 Socialt arbete 2
 - **Ämnestillhörighet:** Socialt arbete (SAA)
 - **Fastställd:** Fastställd 2020-02-19 . Kursplanen gäller fr.o.m. 2020-08-31.
+- **Reviderad:** Reviderad 2020-06-24 . Revideringen är giltig fr.o.m. 2020-06-24.
 
 ## Lärandemål
 

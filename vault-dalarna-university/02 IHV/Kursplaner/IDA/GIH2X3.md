@@ -27,6 +27,7 @@ up: "[[Idrotts- och hälsovetenskap MOC]]"
 - **Kursen kan ingå i följande huvudområde(n):** Idrotts- och hälsovetenskap 1
 - **Ämnestillhörighet:** Idrotts- och hälsovetenskap (IDA)
 - **Fastställd:** Fastställd 2022-06-16 . Kursplanen gäller fr.o.m. 2022-06-16.
+- **Reviderad:** Reviderad 2022-08-22 . Revideringen är giltig fr.o.m. 2022-08-22.
 
 ## Lärandemål
 

@@ -27,6 +27,7 @@ up: "[[Tyska MOC]]"
 - **Kursen kan ingå i följande huvudområde(n):** Interkulturella litteraturstudier 1
 - **Ämnestillhörighet:** Tyska (TYA)
 - **Fastställd:** Fastställd 2023-06-28 . Kursplanen gäller fr.o.m. 2023-06-28.
+- **Reviderad:** Reviderad 2023-12-08 . Revideringen är giltig fr.o.m. 2023-12-08.
 
 ## Lärandemål
 

@@ -26,6 +26,7 @@ up: "[[Franska MOC]]"
 - **Kursen kan ingå i följande huvudområde(n):** Franska 1
 - **Ämnestillhörighet:** Franska (FRA)
 - **Fastställd:** Fastställd 2021-03-02 . Kursplanen gäller fr.o.m. 2021-03-02.
+- **Reviderad:** Reviderad 2021-12-08 . Revideringen är giltig fr.o.m. 2021-12-08.
 
 ## Lärandemål
 

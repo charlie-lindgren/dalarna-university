@@ -27,6 +27,7 @@ up: "[[Socialt arbete MOC]]"
 - **Kursen kan ingå i följande huvudområde(n):** Socialt arbete 1
 - **Ämnestillhörighet:** Socialt arbete (SAA)
 - **Fastställd:** Fastställd 2018-09-27 . Kursplanen gäller fr.o.m. 2019-01-21.
+- **Reviderad:** Reviderad 2018-10-19 . Revideringen är giltig fr.o.m. 2018-10-19.
 
 ## Lärandemål
 

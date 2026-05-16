@@ -26,6 +26,7 @@ up: "[[Engelska MOC]]"
 - **Kursen kan ingå i följande huvudområde(n):** Engelska 1
 - **Ämnestillhörighet:** Engelska (ENA)
 - **Fastställd:** Fastställd 2019-03-21 . Kursplanen gäller fr.o.m. 2019-03-21.
+- **Reviderad:** Reviderad 2023-03-17 . Revideringen är giltig fr.o.m. 2023-03-17.
 
 ## Lärandemål
 

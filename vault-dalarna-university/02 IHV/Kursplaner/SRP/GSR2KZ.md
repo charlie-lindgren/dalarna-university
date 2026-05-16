@@ -27,6 +27,7 @@ up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 - **Kursen kan ingå i följande huvudområde(n):** Ej huvudområde 1
 - **Ämnestillhörighet:** Sexuell, reproduktiv och perinatal hälsa (SRP)
 - **Fastställd:** Fastställd 2020-11-26 . Kursplanen gäller fr.o.m. 2020-11-26.
+- **Reviderad:** Reviderad 2020-12-10 . Revideringen är giltig fr.o.m. 2020-12-10.
 
 ## Lärandemål
 

@@ -4,7 +4,7 @@ kursnamn: "Hållbart arbetsliv, personalarbete och vetenskap"
 course_name: "Sustainable Working Life, Human Resources and Science"
 hp: 15 högskolepoäng
 niva: "Grundnivå"
-huvudomrade: "Ej huvudområde 1"
+huvudomrade: "Arbetsvetenskap 1"
 amne: "Arbetsvetenskap"
 amne_kod: "ABA"
 institution: "IKS"
@@ -23,9 +23,10 @@ up: "[[Arbetsvetenskap MOC]]"
 
 - **Poäng:** 15 högskolepoäng
 - **Nivå:** Grundnivå
-- **Kursen kan ingå i följande huvudområde(n):** Ej huvudområde 1
+- **Kursen kan ingå i följande huvudområde(n):** Arbetsvetenskap 1
 - **Ämnestillhörighet:** Arbetsvetenskap (ABA)
 - **Fastställd:** Fastställd 2025-06-02 . Kursplanen gäller fr.o.m. 2025-06-02.
+- **Reviderad:** Reviderad 2026-03-24 . Revideringen är giltig fr.o.m. 2026-03-24.
 
 ## Lärandemål
 

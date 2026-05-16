@@ -27,6 +27,7 @@ up: "[[Italienska MOC]]"
 - **Kursen kan ingå i följande huvudområde(n):** Italienska 1
 - **Ämnestillhörighet:** Italienska (ITA)
 - **Fastställd:** Fastställd 2021-12-21 . Kursplanen gäller fr.o.m. 2021-12-21.
+- **Reviderad:** Reviderad 2023-12-18 . Revideringen är giltig fr.o.m. 2023-12-18.
 
 ## Lärandemål
 

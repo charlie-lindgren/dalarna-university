@@ -26,6 +26,7 @@ up: "[[Arbetsvetenskap MOC]]"
 - **Kursen kan ingå i följande huvudområde(n):** Ej huvudområde 1
 - **Ämnestillhörighet:** Arbetsvetenskap (ABA)
 - **Fastställd:** Fastställd 2025-12-17 . Kursplanen gäller fr.o.m. 2025-12-17.
+- **Reviderad:** Reviderad 2026-02-09 . Revideringen är giltig fr.o.m. 2026-02-09.
 
 ## Lärandemål
 
