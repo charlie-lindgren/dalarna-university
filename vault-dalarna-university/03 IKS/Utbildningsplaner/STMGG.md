@@ -122,7 +122,7 @@ Kurserna kombinerar föreläsningar, seminarier och kontakt med näringslivets a
 
 **År 2**
 
-- [[GTR265|Resurser och produkter för turism]], 7,5 hp
+- [[TR1024|Resurser och produkter för turism]], 7,5 hp
 - [[GTR296|Management och marknadsföring av upplevelser]], 7,5 hp
 - [[GTR29Q|Hållbar destinationsplanering och utveckling]], 15 hp
 - Turismstudier utomlands, 30 hp

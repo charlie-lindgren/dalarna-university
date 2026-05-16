@@ -114,7 +114,7 @@ Termin 3 omfattas av ett examensarbete inom huvudområdet omvårdnad där studen
 
 - [[AVÅ2A3|Evidensbaserad vård och ledarskap]], 7,5 högskolepoäng
 - [[AVÅ2A4|Folkhälsa och folkhälsoarbete]], 7,5 högskolepoäng
-- [[AMC2BG|Förskrivningsrätt för vissa läkemedel och förbrukningsartiklar]], 15 högskolepoäng
+- [[AMC29Y|Förskrivningsrätt för vissa läkemedel och förbrukningsartiklar]], 15 högskolepoäng
 
 **Termin 2**
 

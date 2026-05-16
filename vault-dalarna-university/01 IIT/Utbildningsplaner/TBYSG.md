@@ -117,14 +117,14 @@ Med tidigare nämnda kurser som utgångspunkt ges också tillämpningskurser ino
 - [[GBY2J2|Husbyggnadsprojekt I – små byggnader och bostadsområden]], 15 hp
 - [[GBY2VR|Hållbar utveckling]], 5 hp
 - [[GSQ2WM|Introduktion till Geografiska Informationssystem för samhällsplanering]], 7,5 hp
-- [[GSQ33M|Planeringsprojekt]], 7,5 hp
+- [[GSQ23K|Planeringsprojekt]], 7,5 hp
 - [[GBY2MB|Projektmetodik]], 5 hp
 - [[GSQ2J4|Regional och ekonomisk planering]], 7,5 hp
 - [[GSQ2LA|Samhällsplanering och IT]], 7,5 hp
-- [[GSQ33N|Stadsbyggnad]], 7,5 hp
+- [[GSQ25K|Stadsbyggnad]], 7,5 hp
 - [[GSQ2MC|Trafikplanering]], 7,5 hp
 - [[GSQ2R5|Urban och regional analys]], 7,5 hp
-- [[GSQ2Y2|Vetenskaplig metod]], 7,5 hp
+- [[GSQ25J|Vetenskaplig metod]], 7,5 hp
 ***) ingår i huvudområdet samhällsbyggnadsteknik**
 
 

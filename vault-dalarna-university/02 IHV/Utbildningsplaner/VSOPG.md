@@ -122,14 +122,14 @@ Professionsseminarier innehåller föreläsning och seminarium om aktuell forskn
 **Termin 4**
 
 - [[RV1047|Socialrätt II]], 7,5 högskolepoäng
-- [[GSA3DP|Missbruk och beroende]], 7,5 högskolepoäng
+- [[GSA2XN|Missbruk och beroende]], 7,5 högskolepoäng
 - [[GSA3DQ|Familjeperspektiv på socialt arbete]], 7,5 högskolepoäng
-- [[GSA3DR|Perspektiv på våld]], 7,5 högskolepoäng
+- [[GSA24U|Perspektiv på våld]], 7,5 högskolepoäng
 
 **Termin 5**
 
-- [[GSA3FK|Utredning i socialt arbete]], 7,5 högskolepoäng
-- [[GSA2SD|Arbetsmetoder i socialt arbete]], 7,5 högskolepoäng
+- [[GSA2E5|Utredning i socialt arbete]], 7,5 högskolepoäng
+- [[GSA2E4|Arbetsmetoder i socialt arbete]], 7,5 högskolepoäng
 - [[GSA2SE|Arbetsmetoder och utvärdering i socialt arbete]], 7,5 högskolepoäng
 - [[GSA2E3|Forskningsmetoder och vetenskaplighet i socialt arbete]], 7,5 högskolepoäng
 

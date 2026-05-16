@@ -71,7 +71,7 @@ Bedömning av studentens kunskaper sker, förutom genom progression i examensarb
 
 **Termin1**
 
-- [[ASR2CE|Global sexuell reproduktiv hälsa och rättigheter]], 15 hp
+- [[ASR24V|Global sexuell reproduktiv hälsa och rättigheter]], 15 hp
 - [[ASR2CF|Forskningsmetodik inom global sexuell och reproduktiv hälsa]], 7,5 hp
 - Strategier för implementering av förbättringsarbete i hälso-sjukvård, 7,5 hp
 
@@ -79,7 +79,7 @@ Bedömning av studentens kunskaper sker, förutom genom progression i examensarb
 
 - [[ASR25T|Hälso- och sjukvårdssystemforskning i låg-, medel- och höginkomstkontext]], 7,5 hp
 - [[ASR25U|Ledarskap och organisation inom hälso- och sjukvårdssystem]], 7,5 hp
-- [[ASR29S|Examensarbete i sexuell, reproduktiv och perinatal hälsa]], 15 hp
+- [[ASR286|Examensarbete i sexuell, reproduktiv och perinatal hälsa]], 15 hp
 
 ## 4. Examensbenämning
 

@@ -38,14 +38,15 @@ tags: [MOC, institution, ISLL]
 - [[Portugisiska MOC|Portugisiska]] (32 kurser)
 - [[Ryska MOC|Ryska]] (33 kurser)
 - [[Spanska MOC|Spanska]] (40 kurser)
-- [[Svenska MOC|Svenska]] (20 kurser)
+- [[Svenska MOC|Svenska]] (22 kurser)
 - [[Svenska som andraspråk MOC|Svenska som andraspråk]] (85 kurser)
 - [[Tyska MOC|Tyska]] (59 kurser)
 
 ## Kvalitetsanalys
 
 - [[04 ISLL/Analys/Stavfel och språkbruk|Stavfel och språkbruk]]
-- [[04 ISLL/Analys/Frasningskonsistens lärandemål|Frasningskonsistens lärandemål]]
+- [[04 ISLL/Analys/Introfras|Introfras]]
+- [[04 ISLL/Analys/Frasningskonsistens|Frasningskonsistens]]
 - [[04 ISLL/Analys/Omfång på lärandemål|Omfång på lärandemål]]
 - [[04 ISLL/Analys/Bloom-taxonomi|Bloom-taxonomi]]
 - [[04 ISLL/Analys/Examinationsformer|Examinationsformer]]

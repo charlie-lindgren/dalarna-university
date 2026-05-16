@@ -31,13 +31,14 @@ tags: [MOC, institution, IHV]
 - [[Omvårdnad MOC|Omvårdnad]] (53 kurser)
 - [[Psykologi MOC|Psykologi]] (1 kurser)
 - [[Sexuell, reproduktiv och perinatal hälsa MOC|Sexuell, reproduktiv och perinatal hälsa]] (64 kurser)
-- [[Socialt arbete MOC|Socialt arbete]] (85 kurser)
+- [[Socialt arbete MOC|Socialt arbete]] (86 kurser)
 - [[Vårdvetenskap MOC|Vårdvetenskap]] (21 kurser)
 
 ## Kvalitetsanalys
 
 - [[02 IHV/Analys/Stavfel och språkbruk|Stavfel och språkbruk]]
-- [[02 IHV/Analys/Frasningskonsistens lärandemål|Frasningskonsistens lärandemål]]
+- [[02 IHV/Analys/Introfras|Introfras]]
+- [[02 IHV/Analys/Frasningskonsistens|Frasningskonsistens]]
 - [[02 IHV/Analys/Omfång på lärandemål|Omfång på lärandemål]]
 - [[02 IHV/Analys/Bloom-taxonomi|Bloom-taxonomi]]
 - [[02 IHV/Analys/Examinationsformer|Examinationsformer]]

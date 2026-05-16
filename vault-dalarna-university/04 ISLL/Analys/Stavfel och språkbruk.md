@@ -8,15 +8,15 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (141 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (144 rader)</span></a>
 
-> [!example]- 141 fynd — klicka för att expandera
+> [!example]- 144 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
 > | [AR1012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR1012) | ARA | Felstavning (en) | `syriand` (en) |
 > | [AR1025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR1025) | ARA | Felstavning (en) | `proficiencythrough` (en) |
-> | [AR2001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR2001) | ARA | Dubblerat ord | `the` — …resentations of varying length.  ### Assessment  Grades for the the _Grammar and Texts_ module are based on continuous assesmen… |
+> | [AR2001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR2001) | ARA | Dubblerat ord | `the` — …resentations of varying length.  \### Assessment  Grades for the the _Grammar and Texts_ module are based on continuous assesmen… |
 > | [AR2001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR2001) | ARA | Felstavning (en) | `assesment` (en) |
 > | [AR2001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR2001) | ARA | Felstavning (en) | `diffrent` (en) |
 > | [AR2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR2009) | ARA | Felstavning (en) | `stilistic` (en) |
@@ -135,6 +135,9 @@ status: första pass
 > | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | SSA | Felstavning (en) | `teorritoriality` (en) |
 > | [SS3007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3007) | SSA | Felstavning | `användingen` (sv) |
 > | [SS3009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3009) | SSA | Felstavning | `skriftspråksanvänding` (sv) |
+> | [ASV2CP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2CP) | SVE | Felstavning | `framåtsiktande` (sv) |
+> | [ASV2CP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2CP) | SVE | Felstavning | `läsförkunskaper` (sv) |
+> | [ASV2CQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2CQ) | SVE | Felstavning | `framåtsiktande` (sv) |
 > | [GSV2ZW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2ZW) | SVE | Felstavning | `läsmiljöns` (sv) |
 > | [GSV2ZW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2ZW) | SVE | Felstavning (en) | `devleopment` (en) |
 > | [GSV2ZX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2ZX) | SVE | Felstavning | `läsmiljöns` (sv) |

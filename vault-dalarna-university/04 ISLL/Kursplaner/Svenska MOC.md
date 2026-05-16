@@ -9,10 +9,12 @@ up: "[[ISLL MOC]]"
 
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (14 st)
+## Kurser (16 st)
 
 - [[ASV29Z]] — Examensarbete i svenska för ämneslärarexamen, inriktning gymnasieskolan
 - [[ASV2A2]] — Examensarbete i svenska för ämneslärarexamen, inriktning grundskolans årskurs 7–9
+- [[ASV2CP]] — Språk-, läs- och skrivdidaktisk fördjupning för undervisning i förskoleklass och årskurs 1–3 utifrån första- och andraspråksperspektiv
+- [[ASV2CQ]] — Språk-, läs- och skrivdidaktisk fördjupning för undervisning i årskurs 4–6 utifrån första- och andraspråksperspektiv
 - [[GSV2BN]] — Svenska: Text och tal
 - [[GSV2BP]] — Svenska: Barn- och ungdomslitteratur i samhällsdialog
 - [[GSV2P9]] — Läs- och skrivinlärning för förskollärare i förskoleklass

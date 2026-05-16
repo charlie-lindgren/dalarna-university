@@ -113,7 +113,7 @@ Programmets upplägg ger behörighet till vidareutbildning på magister- och mas
 - [[GIK373|Informationsdesign]], 15 hp
 - [[GIK347|Interaktionsdesign]], 7,5 hp
 - [[GIK36Q|Kollaborativt projekt]], 15 hp
-- Layout och typografi, 7,5 hp
+- [[GIK32K|Layout och typografi]], 7,5 hp
 - [[GIK299|Objektorienterad programmering]], 7,5 hp
 - [[GIK32J|Responsiv webbdesign]], 7,5 hp
 - [[GST2CL|Statistisk analys]], 7,5 hp

@@ -89,18 +89,18 @@ Under tredje läsåret fördjupas gestaltningsteori. Alternativa skrivmetoder gr
 
 **Första läsåret**
 
-- Manus för TV och film 1. Filmberättandets grundelement och gestaltning, 15 hp
+- [[GBQ27K|Manus för TV och film 1. Filmberättandets grundelement och gestaltning]], 15 hp
 - Manus för TV och film 2. Dramaturgi, genre och filmhistoria, 15 hp
-- Introduktion till produktion av rörlig bild för Manus för film och TV, 15 hp
+- [[GBQ2HC|Introduktion till produktion av rörlig bild för Manus för film och TV]], 15 hp
 - Grundläggande filmproduktion för Manus för film och TV, 15 hp
 
 **Andra läsåret**
 
-- Filmanalys och gestaltning, 7,5 hp
+- [[GBQ2UN|Filmanalys och gestaltning]], 7,5 hp
 - Dokumentär metod för filmisk gestaltning, 7,5 hp
-- Fakta, fiktion och flerkameraproduktion, 15 hp
-- Manus för TV och film 3. Dialog i audiovisuella medier, 15 hp
-- Manus för TV och film 4. TV-format och klassiskt berättande, 15 hp
+- [[GBQ2EB|Fakta, fiktion och flerkameraproduktion]], 15 hp
+- [[GBQ2XC|Manus för TV och film 3. Dialog i audiovisuella medier]], 15 hp
+- [[BQ2058|Manus för TV och film 4. TV-format och klassiskt berättande]], 15 hp
 
 **Tredje läsåret**
 
@@ -108,7 +108,7 @@ Under tredje läsåret fördjupas gestaltningsteori. Alternativa skrivmetoder gr
 **Manus för TV och film 5. Gestaltning och filmiskt berättande,**
 
 - 7, 5 hp
-- [[GBQ2U2|Vetenskapsteori och metod i Bildproduktion]], 7,5 hp
+- [[GBQ2NM|Vetenskapsteori och metod i Bildproduktion]], 7,5 hp
 - [[GBQ2U9|Kandidatexamensarbete i Bildproduktion]], 15 hp
 - [[GBQ2QB|Kvalificerat filmmanusprojekt]], 15 hp
 - [[GBQ36E|Arbetsplatsförlagd bildproduktion]], 15 hp

@@ -48,7 +48,6 @@ tags: [MOC, institution, IKS]
 - [[Filosofi MOC|Filosofi]] (23 kurser)
 - [[Företagsekonomi MOC|Företagsekonomi]] (41 kurser)
 - [[Historia MOC|Historia]] (82 kurser)
-- [[Industriell ekonomi MOC|Industriell ekonomi]] (2 kurser)
 - [[Kulturgeografi MOC|Kulturgeografi]] (23 kurser)
 - [[Ljud- och musikproduktion MOC|Ljud- och musikproduktion]] (68 kurser)
 - [[Medieproduktion MOC|Medieproduktion]] (36 kurser)
@@ -59,13 +58,14 @@ tags: [MOC, institution, IKS]
 - [[Religionsvetenskap MOC|Religionsvetenskap]] (51 kurser)
 - [[Rättsvetenskap MOC|Rättsvetenskap]] (37 kurser)
 - [[Sociologi MOC|Sociologi]] (21 kurser)
-- [[Statsvetenskap MOC|Statsvetenskap]] (51 kurser)
+- [[Statsvetenskap MOC|Statsvetenskap]] (52 kurser)
 - [[Turismvetenskap MOC|Turismvetenskap]] (55 kurser)
 
 ## Kvalitetsanalys
 
 - [[03 IKS/Analys/Stavfel och språkbruk|Stavfel och språkbruk]]
-- [[03 IKS/Analys/Frasningskonsistens lärandemål|Frasningskonsistens lärandemål]]
+- [[03 IKS/Analys/Introfras|Introfras]]
+- [[03 IKS/Analys/Frasningskonsistens|Frasningskonsistens]]
 - [[03 IKS/Analys/Omfång på lärandemål|Omfång på lärandemål]]
 - [[03 IKS/Analys/Bloom-taxonomi|Bloom-taxonomi]]
 - [[03 IKS/Analys/Examinationsformer|Examinationsformer]]

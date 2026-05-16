@@ -8,8 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (146 rader)</span></a>
-> [!example]- 146 fynd — klicka för att expandera
+<a class="download-xlsx" href="04-ISLL/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (148 rader)</span></a>
+
+> [!example]- 148 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Institution | Fastställd | Problem |
 > | --- | --- | --- | --- | --- |
@@ -159,6 +160,8 @@ status: första pass
 > | [GSV3JE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3JE) | SVE | ISLL | 2026-01-27 | Ingen aktiv kursomgång hittad på kurssidan |
 > | [GSS3K2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3K2) | SSA | ISLL | 2026-04-20 | Ingen aktiv kursomgång hittad på kurssidan |
 > | [GEN3K3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3K3) | ENA | ISLL | 2026-04-27 | Ingen aktiv kursomgång hittad på kurssidan |
+> | [ASV2CP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2CP) | SVE | ISLL | 2026-05-13 | Ingen aktiv kursomgång hittad på kurssidan |
+> | [ASV2CQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2CQ) | SVE | ISLL | 2026-05-13 | Ingen aktiv kursomgång hittad på kurssidan |
 
 ## Syfte
 

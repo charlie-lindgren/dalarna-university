@@ -94,9 +94,9 @@ De tre obligatoriska kurserna läses i valfri ordning under programmets tidigar
 **Samtliga kurser erbjuds inte varje termin men vid något tillfälle under programmets fyra terminer.**
 
 - [[SS3008|Flerspråkiga röster i svensk skönlitteratur]], 7,5 hp
-- Flerspråkighet i ett samhällsperspektiv, 7,5 hp
+- [[SS3014|Flerspråkighet i ett samhällsperspektiv]], 7,5 hp
 - [[SS3006|Flerspråkighet, identitet och kulturmöten i sociala sammanhang]], 7,5 hp
-- Flerspråkighet, interaktion och identitetsskapande i klassrum, 7,5 hp
+- [[SS3007|Flerspråkighet, interaktion och identitetsskapande i klassrum]], 7,5 hp
 - [[SS3009|Litteracitet och flerspråkighet]], 7,5 hp
 - [[ASS26C|Sveriges nationella minoriteter – språk, kultur och identitet]], 7,5 hp
 

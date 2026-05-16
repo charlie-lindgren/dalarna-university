@@ -95,7 +95,7 @@ run_scrape_all() {
     echo ""
     echo -e "${YELLOW}Kör scrape --discover-stray ${APPLY_FLAG} …${RESET}"
     # shellcheck disable=SC2086
-    "$PYTHON" scrape_hda_kursplaner.py \
+    "$PYTHON" scripts/scrape_hda_kursplaner.py \
         --discover-stray \
         $APPLY_FLAG
 
@@ -114,7 +114,7 @@ run_scrape_kurs() {
     echo ""
     echo -e "${YELLOW}Kör scrape ${APPLY_FLAG} …${RESET}"
     # shellcheck disable=SC2086
-    "$PYTHON" scrape_hda_kursplaner.py $APPLY_FLAG
+    "$PYTHON" scripts/scrape_hda_kursplaner.py $APPLY_FLAG
     echo -e "${GREEN}✓ Kursplan-skrapning klar${RESET}"
 }
 
@@ -126,7 +126,7 @@ run_scrape_utb() {
     echo ""
     echo -e "${YELLOW}Kör scrape ${APPLY_FLAG} …${RESET}"
     # shellcheck disable=SC2086
-    "$PYTHON" scrape_hda_utbildningsplaner.py $APPLY_FLAG
+    "$PYTHON" scripts/scrape_hda_utbildningsplaner.py $APPLY_FLAG
     echo -e "${GREEN}✓ Utbildningsplan-skrapning klar${RESET}"
 }
 

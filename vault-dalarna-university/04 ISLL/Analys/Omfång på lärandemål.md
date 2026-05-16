@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (335 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (339 rader)</span></a>
 
-> [!example]- 335 fynd — klicka för att expandera
+> [!example]- 339 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -269,6 +269,10 @@ status: första pass
 > | [SS3011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3011) | SSA | Långt mål | 28 ord: - visa fördjupad förmåga att analysera, värdera och diskutera andras vetenskapli… |
 > | [ASV29Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV29Z) | SVE | Långt mål | 26 ord: - visa fördjupad förmåga att i tal och skrift beskriva och argumentera för den e… |
 > | [ASV2A2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2A2) | SVE | Långt mål | 26 ord: - visa fördjupad förmåga att i tal och skrift beskriva och argumentera för den e… |
+> | [ASV2CP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2CP) | SVE | Långt mål | 28 ord: - analysera och värdera sambandet mellan elevers språkförståelse, läsförkunskape… |
+> | [ASV2CP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2CP) | SVE | Långt mål | 27 ord: - problematisera och diskutera utmaningar i undervisningen i förskoleklass och å… |
+> | [ASV2CQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2CQ) | SVE | Långt mål | 30 ord: - analysera och värdera sambandet mellan elevers språkförståelse, fortsatta läsu… |
+> | [ASV2CQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2CQ) | SVE | Långt mål | 29 ord: - analysera och kritiskt granska hur läsundervisningen kan stödja utvecklingen a… |
 > | [GSV2ZU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2ZU) | SVE | För många mål | 23 lärandemål (maximum rekommenderat: 10 för 15 hp) |
 > | [GSV2ZV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2ZV) | SVE | För många mål | 23 lärandemål (maximum rekommenderat: 10 för 15 hp) |
 > | [GSV2ZV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2ZV) | SVE | Långt mål | 26 ord: - redogöra för olika sätt att betrakta språk och för vilken betydelse olika språ… |

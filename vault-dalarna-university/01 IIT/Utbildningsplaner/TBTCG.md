@@ -110,12 +110,12 @@ Utbildningen avslutas med ett examensarbete på 15 högskolepoäng. Genom examen
 - [[GEG38F|Grundläggande Energiteknik]], 4,5 hp
 - [[GBY2XF|Husbyggnadsprojekt II – Byggprojekt stora byggnader]], 7,5 hp
 - [[GMA2ZT|Inledande matematik]], 3 hp
-- [[GBY38E|Installationsteknik och dimensionering]], 7,5 hp
+- [[BY1061|Installationsteknik och dimensionering]], 7,5 hp
 - [[MD2025|Linjär algebra]], 7,5 hp
 
 **Åk3**
 
-- [[GBY34N|Examensarbete i Byggteknik för högskoleingenjörsexamen]], 15 hp
+- [[BY2016|Examensarbete i Byggteknik för högskoleingenjörsexamen]], 15 hp
 - [[GBY2RX|Fastighetsförvaltning]], 7,5 hp
 - [[GBY38D|Geoteknik och konstruktionsteknik betong]], 7,5 hp
 - [[GBY3AX|Husbyggnadsprojekt III – Byggkonstruktionsprojekt]], 7,5 hp
@@ -125,7 +125,7 @@ Utbildningen avslutas med ett examensarbete på 15 högskolepoäng. Genom examen
 
 **Valbara kurser**
 
-- Energiprojekt, 7,5 hp
+- [[BY2022|Energiprojekt]], 7,5 hp
 - [[GBY3DW|Resurseffektivt byggande]], 7,5 hp
 - [[GBY3DX|Väg- och trafikplanering]], 7,5 hp
 

@@ -98,25 +98,25 @@ Det tredje läsåret förbereder sig studenten för ett yrkesverksamt liv genom 
 
 **_Första läsåret _**
 
-- Introduktion till produktion av rörlig bild, 15 hp
-- Grunderna i filmproduktion, 15 hp
+- [[GBQ2UB|Introduktion till produktion av rörlig bild]], 15 hp
+- [[GBQ3A5|Grunderna i filmproduktion]], 15 hp
 - Digitalefterbearbetning av ljud och bild, 15 hp
-- TV-nyheter och flerkameraproduktion, 15 hp
+- [[BQ1081|TV-nyheter och flerkameraproduktion]], 15 hp
 
 **_Andra läsåret _**
 
-- Fördjupning i klippning för film/TV, 7,5 hp
-- Människan och den rörliga bilden, 7,5 hp
-- [[GBQ36K|Flerkameraproduktion, fördjupning]], 15 hp
+- [[BQ2057|Fördjupning i klippning för film/TV]], 7,5 hp
+- [[GBQ2U3|Människan och den rörliga bilden]], 7,5 hp
+- [[GBQ29D|Flerkameraproduktion, fördjupning]], 15 hp
 - [[GMN3EK|Dokumentärfilmsproduktion]], 15 hp
-- [[GBQ36D|Kvalificerad filmproduktion]], 15 hp
+- [[GBQ22U|Kvalificerad filmproduktion]], 15 hp
 
 **_Tredje läsåret _**
 
-- [[GBQ2U2|Vetenskapsteori och metod i Bildproduktion]], 7,5 hp
+- [[GBQ2NM|Vetenskapsteori och metod i Bildproduktion]], 7,5 hp
 - [[GBQ2U9|Kandidatexamensarbete i Bildproduktion]], 15 hp
 - Konceptutveckling inom medieproduktion, 7,5 hp
-- [[GBQ2UD|Exponeringsprojekt i bildproduktion]], 15 hp
+- [[GBQ29E|Exponeringsprojekt i bildproduktion]], 15 hp
 - [[GBQ36E|Arbetsplatsförlagd bildproduktion]], 15 hp
 
 ## 4. Examensbenämning

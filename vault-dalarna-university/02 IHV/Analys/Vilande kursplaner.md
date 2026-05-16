@@ -8,8 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (185 rader)</span></a>
-> [!example]- 185 fynd — klicka för att expandera
+<a class="download-xlsx" href="02-IHV/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (186 rader)</span></a>
+
+> [!example]- 186 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Institution | Fastställd | Problem |
 > | --- | --- | --- | --- | --- |
@@ -156,6 +157,7 @@ status: första pass
 > | [ASR284](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR284) | SRP | IHV | 2022-06-16 | Ingen aktiv kursomgång hittad på kurssidan |
 > | [ASR285](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR285) | SRP | IHV | 2022-06-16 | Ingen aktiv kursomgång hittad på kurssidan |
 > | [ASR286](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR286) | SRP | IHV | 2022-06-16 | Ingen aktiv kursomgång hittad på kurssidan |
+> | [GSA2XN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2XN) | SAA | IHV | 2022-09-08 | Ingen aktiv kursomgång hittad på kurssidan |
 > | [GIH2ZB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZB) | IDA | IHV | 2022-12-12 | Ingen aktiv kursomgång hittad på kurssidan |
 > | [GSA32Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA32Y) | SAA | IHV | 2023-02-07 | Ingen aktiv kursomgång hittad på kurssidan |
 > | [GIH33J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH33J) | IDA | IHV | 2023-02-23 | Ingen aktiv kursomgång hittad på kurssidan |

@@ -30,7 +30,7 @@ from bs4 import BeautifulSoup, Tag
 # Konfiguration
 # ---------------------------------------------------------------------------
 
-VAULT = Path(__file__).resolve().parent / "vault-dalarna-university"
+VAULT = Path(__file__).resolve().parent.parent / "vault-dalarna-university"
 INST_DIR_NAME = {"IIT": "01 IIT", "IHV": "02 IHV", "IKS": "03 IKS", "ISLL": "04 ISLL"}
 
 

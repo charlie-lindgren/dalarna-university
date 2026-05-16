@@ -102,7 +102,7 @@ Hållbarhet kommer utöver en orienterande kurs att ligga som självklar del i f
 - [[GMA33Z|Matematik för tekniker]], 7,5 hp
 - [[GMT344|Materialets roll i produktionskedjan]], 7,5 hp
 - [[GMT343|Produktionsteknik]], 7,5 hp
-- [[GSQ2Y2|Vetenskaplig metod]], 2.5 hp
+- [[GSQ25J|Vetenskaplig metod]], 2.5 hp
 
 **Åk2**
 

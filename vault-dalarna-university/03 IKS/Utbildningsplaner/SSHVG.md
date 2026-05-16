@@ -95,7 +95,7 @@ Programmet inbegriper ett tydligt internationaliseringsperspektiv, dels genom m�
 **År 2**
 
 - [[GSK2PS|Internationella relationer]], 7,5 hp
-- [[GSK2PQ|Politik i Sverige och EU]], 7,5 hp
+- [[SK1055|Politik i Sverige och EU]], 7,5 hp
 - [[SO1030|Socialpsykologi]], 7,5 hp
 - [[SO1037|Välfärdsstaten i sociologisk belysning]], 7,5 hp
 - Inriktning sociologi II, 30 hp
@@ -116,7 +116,7 @@ Programmet inbegriper ett tydligt internationaliseringsperspektiv, dels genom m�
 - Fördjupningskurs i sociologisk teori, 7,5 hp
 - Samhällsvetenskapliga metoder II, 7,5 hp
 - Inriktning statsvetenskap III, 30 hp
-- [[GSK2UJ|Examensarbete för kandidatexamen i statsvetenskap]], 15 hp
+- [[GSK2PW|Examensarbete för kandidatexamen i statsvetenskap]], 15 hp
 - [[GSK2QE|Tematisk forskningsintroduktion i statsvetenskap]], 7,5 hp
 - Samhällsvetenskapliga metoder II inriktning statsvetenskap, 7,5 hp
 - Valbar termin (med möjlighet till internationellt utbyte eller läsning av valfri temakurs/kurser om, 30 hp

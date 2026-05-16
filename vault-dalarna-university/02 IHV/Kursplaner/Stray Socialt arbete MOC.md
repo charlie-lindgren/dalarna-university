@@ -10,7 +10,7 @@ up: "[[Socialt arbete MOC]]"
 > Strökurser i Socialt arbete vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 > Dessa ligger utanför ordinarie ämnes-/programindex och markeras som vilande.
 
-## Kurser (20 st)
+## Kurser (21 st)
 
 - [[ASA24J]] — Ledarskap och verksamhetsutveckling i socialt arbete
 - [[ASA24M]] — Välfärdsteknik i vård och omsorg
@@ -23,6 +23,7 @@ up: "[[Socialt arbete MOC]]"
 - [[GSA2E5]] — Utredning i socialt arbete
 - [[GSA2GZ]] — Introduktion till kognitiv beteendeterapi
 - [[GSA2NC]] — Organisation, grupp och samverkan
+- [[GSA2XN]] — Missbruk och beroende
 - [[GSA32Y]] — Organisation, grupp och samverkan
 - [[GSA3AS]] — Samsjuklighet - skadligt bruk eller beroende och samtidig psykisk ohälsa
 - [[GSA3DN]] — Försörjning, rehabilitering och aktivering i socialt arbete

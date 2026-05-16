@@ -9,7 +9,7 @@ up: "[[IHV MOC]]"
 
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 
-## Kurser (47 st)
+## Kurser (48 st)
 
 - [[ASA24J]] — Ledarskap och verksamhetsutveckling i socialt arbete
 - [[ASA24K]] — Etik i socialt arbete
@@ -38,6 +38,7 @@ up: "[[IHV MOC]]"
 - [[GSA2RE]] — Socialpolitikens betydelse för socialt arbete
 - [[GSA2SD]] — Arbetsmetoder i socialt arbete
 - [[GSA2SE]] — Arbetsmetoder och utvärdering i socialt arbete
+- [[GSA2XN]] — Missbruk och beroende
 - [[GSA32Y]] — Organisation, grupp och samverkan
 - [[GSA352]] — Internationellt socialt arbete: samtida debatter och praktiker
 - [[GSA3AS]] — Samsjuklighet - skadligt bruk eller beroende och samtidig psykisk ohälsa

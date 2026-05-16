@@ -85,7 +85,7 @@ Utbildningen erbjuder möjlighet till fördjupning och specialisering inom ett s
 **År 2**
 
 - [[PG3061|Att kritiskt granska utbildningsvetenskaplig forskning]], 7,5 högskolepoäng
-- Examensarbete för magisterexamen i pedagogiskt arbete, 15 högskolepoäng
+- [[PG3065|Examensarbete för magisterexamen i pedagogiskt arbete]], 15 högskolepoäng
 - Utbildningsvetenskapliga ansatser – teoretisk och metodologisk fördjupning, 7,5 högskolepoäng
 
 ## 4. Examensbenämning

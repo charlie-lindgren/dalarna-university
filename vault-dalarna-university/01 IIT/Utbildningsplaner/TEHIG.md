@@ -110,7 +110,7 @@ Programmets upplägg syftar till att inledningsvis ge generell ingenjörskompete
 
 ****ÅR 1****
 
-- Introduktion till produktutveckling, 4,0 hp
+- [[MT1068|Introduktion till produktutveckling]], 4,0 hp
 - [[GEG2ZR|Introduktion till hållbara energisystem]], 3,5 hp
 - Linjär algebra för ingenjörer, 7,5 hp
 - Industriell ekonomi och kalkylering, 7,5 hp
@@ -129,18 +129,18 @@ Programmets upplägg syftar till att inledningsvis ge generell ingenjörskompete
 - [[FY1018|Termodynamik]], 7,5 hp
 - [[EG1012|Strömningslära]], 7,5 hp
 - [[ET1029|Styr- och reglerteknik]], 7,5 hp
-- [[GBY38E|Installationsteknik och dimensionering]], 7,5 hp
+- [[BY1061|Installationsteknik och dimensionering]], 7,5 hp
 - [[GEG39Y|Elkraftteknik]], 7,5 hp
 - Driftsäkerhet och kvalitetsstyrning, 7,5 hp
 
 ****ÅR 3****
 
-- Förnybar kraftgenerering, 7,5 hp
+- [[GEG2UL|Förnybar kraftgenerering]], 7,5 hp
 - [[GEG39Z|Aktiva elnät]], 7,5 hp
 - Industriell värmeteknik, 7,5 hp
 - [[GEG2UE|Energieffektivisering]], 7,5 hp
 - Energisystem, 7,5 hp
-- [[GSQ2Y2|Vetenskaplig metod]], 2,5 hp
+- [[GSQ25J|Vetenskaplig metod]], 2,5 hp
 - Energisystemens miljöpåverkan, 5 hp
 - Examensarbete högskoleingenjör energiteknik, 15 hp
 

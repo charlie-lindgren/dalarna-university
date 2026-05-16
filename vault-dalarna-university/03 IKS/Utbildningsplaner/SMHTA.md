@@ -98,7 +98,7 @@ Under den fjärde terminen skriver studenterna ett examensarbete i turismvetensk
 **Termin 1**
 
 - [[KG3019|Hållbar destinationsutveckling]], 7,5 hp
-- [[AKG27R|Management och tolkning av kulturarv]], 7,5 hp
+- [[KG3018|Management och tolkning av kulturarv]], 7,5 hp
 - [[TR3009|Evenemangsturism - planering, marknadsföring, utvärdering]], 7,5 hp
 - [[ATR2AF|Marknadsföring av platser och destinationer]], 7,5 hp
 

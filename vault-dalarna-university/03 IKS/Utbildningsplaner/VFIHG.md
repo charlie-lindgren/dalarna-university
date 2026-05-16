@@ -99,22 +99,22 @@ Sista terminen består av examensarbete inom Idrotts- och hälsovetenskap, verks
 
 - [[GIH2LP|Tränarskap, idrott, friluftsliv och hälsa i samhället]], 7,5 hp
 - [[GTR2UP|Turismens principer och praktiker]], 7,5 hp
-- Grundläggande vetenskaplig metod, 7,5 hp
-- Grundläggande upplevelseproduktion, 7,5 hp
+- [[GIH2UR|Grundläggande vetenskaplig metod]], 7,5 hp
+- [[GIH2VK|Grundläggande upplevelseproduktion]], 7,5 hp
 
 **Termin 2**
 
 - [[GTR3AU|Turismmarknadsföring]], 7,5 hp
 - Turism och samhället, 7,5 hp
-- [[GTR26E|Internationella evenemang och festivaler]], 7,5 hp
+- [[TR1035|Internationella evenemang och festivaler]], 7,5 hp
 - [[GFÖ35C|Ekonomistyrning, grundläggande]], 7,5 hp
 
 **Termin 3**
 
 - Motivation och kris, 7,5 hp
-- [[GTR265|Resurser och produkter för turism]], 7,5 hp
+- [[TR1024|Resurser och produkter för turism]], 7,5 hp
 - [[GEU2KX|Innovation A]], 7,5 hp
-- Naturbaserad turism, 7,5 hp
+- [[GTR2UM|Naturbaserad turism]], 7,5 hp
 
 **Termin 4**
 
@@ -132,7 +132,7 @@ Sista terminen består av examensarbete inom Idrotts- och hälsovetenskap, verks
 - [[IH1082|Journalistik och skriftlig PR inom idrottsområdet]], 7,5 hp
 - Idrottspsykologi- mentala processer och gruppdynamik, 7,5 hp
 - Personalansvar, juridik och arbetsrätt inom området för friluftsliv, idrott och hälsa, 7,5 hp
-- Kvalitativ och kvantitativ vetenskaplig metod, 7,5 hp
+- [[GIH34D|Kvalitativ och kvantitativ vetenskaplig metod]], 7,5 hp
 - Projektarbete outdoor, 7,5 hp
 
 **Termin 6**

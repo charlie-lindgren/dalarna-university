@@ -84,25 +84,25 @@ Under det tredje läsåret förbereder sig studenten för ett yrkesverksamt liv 
 **Första läsåret**
 
 - Det cinematiska språket: Mise-en-scène, 15 hp
-- Den korta filmens berättarstruktur, 7,5 hp
-- Tillämpad filmdesign 1, 7,5 hp
-- Tillämpad filmdesign 2, 7,5 hp
-- Ljudinspelning och ljudläggning inom filmdesign, 7,5 hp
-- Ljussättning och färgkorrigering inom filmdesign, 7,5 hp
-- Människan och den rörliga bilden, 7,5 hp
+- [[GBQ2U8|Den korta filmens berättarstruktur]], 7,5 hp
+- [[GBQ2U7|Tillämpad filmdesign 1]], 7,5 hp
+- [[GBQ2WH|Tillämpad filmdesign 2]], 7,5 hp
+- [[GBQ2XD|Ljudinspelning och ljudläggning inom filmdesign]], 7,5 hp
+- [[GBQ2AZ|Ljussättning och färgkorrigering inom filmdesign]], 7,5 hp
+- [[GBQ2U3|Människan och den rörliga bilden]], 7,5 hp
 
 **Andra läsåret**
 
-- Projektplanering och användarperspektiv, 15 hp
-- Informationsfilmsproduktion, 15 hp
-- Audiovisuell information och etik, 15 hp
-- Reklamfilmsproduktion, 15 hp
+- [[GBQ2NH|Projektplanering och användarperspektiv]], 15 hp
+- [[GBQ2U4|Informationsfilmsproduktion]], 15 hp
+- [[GBQ2WG|Audiovisuell information och etik]], 15 hp
+- [[GBQ2WJ|Reklamfilmsproduktion]], 15 hp
 
 **Tredje läsåret**
 
-- [[GBQ2U2|Vetenskapsteori och metod i Bildproduktion]], 7,5 hp
-- Kvalificerad filmdesign i transmedia, 7,5 hp
-- [[GBQ2UD|Exponeringsprojekt i Bildproduktion]], 15 hp
+- [[GBQ2NM|Vetenskapsteori och metod i Bildproduktion]], 7,5 hp
+- [[GBQ2U5|Kvalificerad filmdesign i transmedia]], 7,5 hp
+- [[GBQ29E|Exponeringsprojekt i Bildproduktion]], 15 hp
 - [[GBQ2U9|Kandidatexamensarbete i Bildproduktion]], 15 hp
 - [[GBQ36E|Arbetsplatsförlagd bildproduktion]], 15 hp
 

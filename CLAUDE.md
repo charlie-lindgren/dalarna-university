@@ -37,6 +37,9 @@ qa/                         Quality-control pipeline (Python)
   identify_ej_aktiv.py      Tag courses no longer in du.se as ej-aktiv (orphan detector)
   rapporter/                Timestamped course-plan QA reports
   rapporter-utb/            Timestamped programme-plan QA reports
+scripts/                    du.se scrapers
+  scrape_hda_kursplaner.py       Course-plan scraper
+  scrape_hda_utbildningsplaner.py Programme-plan scraper
 hda.sh                      Interactive menu for the full workflow
 ```
 
@@ -79,14 +82,14 @@ Deploy is automatic via GitHub Actions on push to main.
 Scrape all course plans from du.se:
 
 ```bash
-python3 scrape_hda_kursplaner.py                     # dry-run (discover all)
-python3 scrape_hda_kursplaner.py --apply              # write files
-python3 scrape_hda_kursplaner.py --institution IIT    # only IIT
-python3 scrape_hda_kursplaner.py --subject DTA        # only Datateknik
-python3 scrape_hda_kursplaner.py --list-institutions  # list institutions
-python3 scrape_hda_kursplaner.py --list-subjects      # list all subjects
-python3 scrape_hda_kursplaner.py --list-courses       # list all courses
-python3 scrape_hda_kursplaner.py GIK29B GDT34Z        # specific courses
+python3 scripts/scrape_hda_kursplaner.py                     # dry-run (discover all)
+python3 scripts/scrape_hda_kursplaner.py --apply              # write files
+python3 scripts/scrape_hda_kursplaner.py --institution IIT    # only IIT
+python3 scripts/scrape_hda_kursplaner.py --subject DTA        # only Datateknik
+python3 scripts/scrape_hda_kursplaner.py --list-institutions  # list institutions
+python3 scripts/scrape_hda_kursplaner.py --list-subjects      # list all subjects
+python3 scripts/scrape_hda_kursplaner.py --list-courses       # list all courses
+python3 scripts/scrape_hda_kursplaner.py GIK29B GDT34Z        # specific courses
 ```
 
 Requires: `requests`, `beautifulsoup4`.
@@ -96,10 +99,10 @@ Requires: `requests`, `beautifulsoup4`.
 Scrape all programme plans from du.se:
 
 ```bash
-python3 scrape_hda_utbildningsplaner.py               # dry-run
-python3 scrape_hda_utbildningsplaner.py --apply        # write files
-python3 scrape_hda_utbildningsplaner.py --list-programmes  # list all programmes
-python3 scrape_hda_utbildningsplaner.py LGGYA HMILA    # specific programmes
+python3 scripts/scrape_hda_utbildningsplaner.py               # dry-run
+python3 scripts/scrape_hda_utbildningsplaner.py --apply        # write files
+python3 scripts/scrape_hda_utbildningsplaner.py --list-programmes  # list all programmes
+python3 scripts/scrape_hda_utbildningsplaner.py LGGYA HMILA    # specific programmes
 ```
 
 Requires: `requests`, `beautifulsoup4`.

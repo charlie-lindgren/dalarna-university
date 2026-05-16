@@ -138,7 +138,7 @@ Studenter som väljer huvudområdet företagsekonomi och vill bli revisor rekomm
 
 **Obligatoriska kurser för ekonomie kandidatexamen i företagsekonomi eller nationalekonomi**
 
-- [[GNA3BA|Finansiella marknader och penningpolitik]], 7,5 hp
+- [[GNA2NT|Finansiella marknader och penningpolitik]], 7,5 hp
 - [[GNA3B9|Internationell ekonomi]], 7,5 hp
 
 **År 3**

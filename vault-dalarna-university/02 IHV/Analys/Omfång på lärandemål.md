@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (223 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (224 rader)</span></a>
 
-> [!example]- 223 fynd — klicka för att expandera
+> [!example]- 224 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -163,6 +163,7 @@ status: första pass
 > | [GSA2RE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2RE) | SAA | För många mål | 10 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [GSA2SD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2SD) | SAA | För många mål | 10 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [GSA2SE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2SE) | SAA | För många mål | 12 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
+> | [GSA2XN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2XN) | SAA | För många mål | 11 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [GSA32Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA32Y) | SAA | För många mål | 18 lärandemål (maximum rekommenderat: 10 för 15 hp) |
 > | [GSA352](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA352) | SAA | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [GSA3DM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DM) | SAA | För många mål | 23 lärandemål (maximum rekommenderat: 10 för 15 hp) |

@@ -152,24 +152,24 @@ Under den sjätte terminens kurs Projektarbete inom medieproduktion, fördjupnin
 
 **Termin 1**
 
-- [[GMN3DY|Introduktion till medieproduktion]], 7,5 hp
-- Audioteknologi 1, 7,5hp
-- Ljudteori, 7,5 hp
-- Ljudskapande till rörliga bilder, 7,5 hp
+- [[GLP2FH|Introduktion till medieproduktion]], 7,5 hp
+- [[GLP29R|Audioteknologi 1]], 7,5hp
+- [[GLP2FP|Ljudteori]], 7,5 hp
+- [[GLP29S|Ljudskapande till rörliga bilder]], 7,5 hp
 
 **Termin 2**
 
-- Inspelning i studio, 7,5 hp
-- Liveljud och liveinspelning, 7,5
-- Audioteknologi 2, 7,5 hp
-- Vetenskaplig uppsats i Ljud- och musikproduktion, 7,5 hp
+- [[GLP2QU|Inspelning i studio]], 7,5 hp
+- [[GLP2WB|Liveljud och liveinspelning]], 7,5
+- [[LP1080|Audioteknologi 2]], 7,5 hp
+- [[LP1065|Vetenskaplig uppsats i Ljud- och musikproduktion]], 7,5 hp
 
 **Termin 3**
 
-- Musikskapande, 7,5 hp
-- Analys av musikproduktioner, 7,5 hp
+- [[GLP2CX|Musikskapande]], 7,5 hp
+- [[LP1074|Analys av musikproduktioner]], 7,5 hp
 - Produktionsprocesser och -villkor inom musikproduktion, 7,5 hp
-- Från idé till master, 7,5 hp
+- [[LP1071|Från idé till master]], 7,5 hp
 
 **Termin 4**
 

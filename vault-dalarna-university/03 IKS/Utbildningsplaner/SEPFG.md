@@ -99,10 +99,10 @@ Första delen av andra året behandlar den praktiska delen av programmet. Detta 
 - [[GFÖ2PJ|Ekonomistyrning A]], 7,5 hp
 - Entreprenörskap - entreprenörskapets villkor och särart, 7,5 hp
 - [[GFÖ2WE|Extern redovisning A]], 7,5 hp
-- Ledarskap och grupprocesser, 7,5 hp
+- [[GEU2CB|Ledarskap och grupprocesser]], 7,5 hp
 - [[GFÖ32F|Marknadsföring A]], 7,5 hp
 - [[GFÖ2RL|Organisation A]], 7,5 hp
-- Småföretagens regelverk, 7,5 hp
+- [[GRV2CE|Småföretagens regelverk]], 7,5 hp
 - [[GFÖ3GL|Vetenskap och metod I]], 7,5 hp
 
 **År 2**
@@ -110,7 +110,7 @@ Första delen av andra året behandlar den praktiska delen av programmet. Detta 
 
 **Affärsplanering (EU) 7,5 h**
 
-- Det entreprenöriella företagets förutsättningar, 7,5 hp
+- [[GEU2CA|Det entreprenöriella företagets förutsättningar]], 7,5 hp
 - [[GEU2KV|Entreprenörskap i regional utveckling och tillväxt]], 7,5 hp
 - [[GEU2KW|Entreprenörskapets teoretiska klassiker]], 7,5 hp
 - [[EU1033|Examensarbete för högskoleexamen i Entreprenörskap och innovationsteknik]], 7,5 hp

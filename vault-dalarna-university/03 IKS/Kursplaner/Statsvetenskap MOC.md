@@ -9,7 +9,7 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (37 st)
+## Kurser (38 st)
 
 - [[ASK22G]] — Transnationell integration och nationell fragmentering
 - [[ASK22H]] — Statsbyggnad och medborgarskap
@@ -26,6 +26,7 @@ up: "[[IKS MOC]]"
 - [[GSK2PP]] — Politiska system i jämförande perspektiv
 - [[GSK2PQ]] — Politik i Sverige och EU
 - [[GSK2PR]] — Offentlig förvaltning
+- [[GSK2PS]] — Internationella relationer
 - [[GSK2PT]] — Samhällsvetenskapliga metoder I - inriktning statsvetenskap
 - [[GSK2PU]] — Examensarbete för högskoleexamen i statsvetenskap
 - [[GSK2PV]] — Samhällsvetenskapliga metoder II - inriktning statsvetenskap

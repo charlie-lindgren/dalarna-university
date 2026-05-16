@@ -26,9 +26,8 @@ vault-dalarna-university/   Obsidian vault — living knowledge base
 content -> vault-dalarna-university   Symlink for Quartz site build
 quartz/                     Quartz 4 static site engine
 qa/                         Quality-control pipeline (Python)
+scripts/                    Scrapers (course + programme plans)
 hda.sh                      Interactive menu for the full workflow
-scrape_hda_kursplaner.py    Course-plan scraper
-scrape_hda_utbildningsplaner.py  Programme-plan scraper
 ```
 
 ## Workflow via `./hda.sh`
@@ -112,15 +111,15 @@ The menu wraps these scripts; you can also invoke them directly.
 ### Course-plan scraping
 
 ```bash
-python3 scrape_hda_kursplaner.py                       # dry-run
-python3 scrape_hda_kursplaner.py --apply               # write files
-python3 scrape_hda_kursplaner.py --apply --discover-stray
-python3 scrape_hda_kursplaner.py --institution IIT     # only IIT
-python3 scrape_hda_kursplaner.py --subject DTA         # only Datateknik
-python3 scrape_hda_kursplaner.py GIK29B GDT34Z         # specific courses
-python3 scrape_hda_kursplaner.py --list-institutions
-python3 scrape_hda_kursplaner.py --list-subjects
-python3 scrape_hda_kursplaner.py --list-courses
+python3 scripts/scrape_hda_kursplaner.py                       # dry-run
+python3 scripts/scrape_hda_kursplaner.py --apply               # write files
+python3 scripts/scrape_hda_kursplaner.py --apply --discover-stray
+python3 scripts/scrape_hda_kursplaner.py --institution IIT     # only IIT
+python3 scripts/scrape_hda_kursplaner.py --subject DTA         # only Datateknik
+python3 scripts/scrape_hda_kursplaner.py GIK29B GDT34Z         # specific courses
+python3 scripts/scrape_hda_kursplaner.py --list-institutions
+python3 scripts/scrape_hda_kursplaner.py --list-subjects
+python3 scripts/scrape_hda_kursplaner.py --list-courses
 ```
 
 Requires: `requests`, `beautifulsoup4`.
@@ -128,10 +127,10 @@ Requires: `requests`, `beautifulsoup4`.
 ### Programme-plan scraping
 
 ```bash
-python3 scrape_hda_utbildningsplaner.py                # dry-run
-python3 scrape_hda_utbildningsplaner.py --apply        # write files
-python3 scrape_hda_utbildningsplaner.py --list-programmes
-python3 scrape_hda_utbildningsplaner.py LGGYA HMILA    # specific programmes
+python3 scripts/scrape_hda_utbildningsplaner.py                # dry-run
+python3 scripts/scrape_hda_utbildningsplaner.py --apply        # write files
+python3 scripts/scrape_hda_utbildningsplaner.py --list-programmes
+python3 scripts/scrape_hda_utbildningsplaner.py LGGYA HMILA    # specific programmes
 ```
 
 ### QA pipeline

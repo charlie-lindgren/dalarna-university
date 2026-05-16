@@ -102,8 +102,8 @@ Majoriteten av programmets kurser bygger på grundläggande behörighet medan n�
 - Audioteknologi II, 7,5 hp
 - Introduktion till Musik- och ljuddesign, 7,5 hp
 - Ljudskapande och ljudsyntes, 7,5 hp
-- Ljudteori, 7,5 hp
-- [[GLP2RK|Musikproduktionsanalys]], 7,5 hp
+- [[GLP2FP|Ljudteori]], 7,5 hp
+- [[GLP29V|Musikproduktionsanalys]], 7,5 hp
 - [[GLP2QX|Möten med skilda musikgenrer]], 7,5 hp
 - Vår tids musik och musikliv, 7,5 hp
 
@@ -111,11 +111,11 @@ Majoriteten av programmets kurser bygger på grundläggande behörighet medan n�
 
 - Examensarbete för högskoleexamen i musik­ och ljuddesign, 15 hp
 - Företagsekonomi för musikbranschen, 7,5 hp
-- Inspelning i studio, 7,5 hp
+- [[GLP2QU|Inspelning i studio]], 7,5 hp
 - [[LP1052|Ljudläggning till rörliga bilder]], 7,5 hp
 - Musikbranschen, 7,5 hp
 - [[GLP29T|Musikproduktion i praktiken]], 7,5 hp
-- Musikskapande, 7,5 hp
+- [[GLP2CX|Musikskapande]], 7,5 hp
 
 ## 4. Examensbenämning
 

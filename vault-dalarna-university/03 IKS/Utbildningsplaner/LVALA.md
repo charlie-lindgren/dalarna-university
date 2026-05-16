@@ -403,9 +403,9 @@ Examen avsedd för undervisning i grundskolans årskurs 1-7, grundskolans årsku
 - [[APG28M|Vetenskapsteori och utbildningsvetenskaplig forskning]], 7,5 hp
 - [[GPG3FU|Utvärdering och utvecklingsarbete]], 7,5 hp
 - [[GPG3FV|Självständigt arbete]], 7,5 hp
-- Verksamhetsförlagd utbildning 1, 7,5 hp
-- Verksamhetsförlagd utbildning 2, 15 hp
-- Verksamhetsförlagd utbildning 3, 7,5 hp
+- [[GPG3FS|Verksamhetsförlagd utbildning 1]], 7,5 hp
+- [[GPG3FT|Verksamhetsförlagd utbildning 2]], 15 hp
+- [[APG2BK|Verksamhetsförlagd utbildning 3]], 7,5 hp
 - [[GPG33F|Didaktik och bedömning]], 7,5 hp
 - [[GPG33D|Utveckling, lärande och ledarskap]], 7,5 hp
 - [[GPG33E|Sociala relationer, skolans historiska utveckling och samhällsuppdrag]], 7,5 hp

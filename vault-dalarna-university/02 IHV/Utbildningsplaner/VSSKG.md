@@ -139,9 +139,9 @@ Utbildningsprogrammet samverkar aktivt för en ökad internationalisering mellan
 - Introduktion omvårdnad och etik - Huvudområde Omvårdnad, 15 hp
 - [[MC1072|Anatomi och fysiologi I]], 7,5 hp
 - Metoder för evidensbaserad vård I - Huvudområde Omvårdnad, 7,5 hp
-- Anatomi och fysiologi II, 7,5 hp
+- [[GMC2M2|Anatomi och fysiologi II]], 7,5 hp
 - Människans grundläggande omvårdnadsbehov - Huvudområde Omvårdnad, 10,5 hp
-- Farmakologi, 4,5 hp
+- [[MC1079|Farmakologi]], 4,5 hp
 - Människa, hälsa och samhälle - Huvudområde Omvårdnad, 7,5 hp
 - Metoder och teorier vid symtom och tecken på hälsa/ohälsa I - Huvudområde Omvårdnad, 30 hp
 - Personcentrerad vård inom somatisk vård - Huvudområde Omvårdnad, 15 hp

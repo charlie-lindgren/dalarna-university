@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: 0cdbb50db936e9ad
+scrape_hash: e74d9604bfbc68b9
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK36Q
 up: "[[Informatik MOC]]"
 ---
@@ -125,8 +125,8 @@ The grading scale used for the final course grade is U–G.
 
 Grades are reported as follows:
 
-  - Continous Examination - 1.5 Credits | U–G
-  - Continous Examination - 3.5 Credits | U–G
+  - Continuous Examination - 1.5 Credits | U–G
+  - Continuous Examination - 3.5 Credits | U–G
   - Projects - 10 Credits | U–G
 
 ### Prerequisites

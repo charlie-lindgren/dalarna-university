@@ -122,12 +122,12 @@ Examensarbetet kan utföras vid ett universitet/högskola, eller på ett företa
 
 **År 2**
 
-- Elektriska lagringssystem och tjänster, 5 hp
-- Elnätsintegrering av förnybar kraft, 7,5 hp
-- Examensarbete för masterexamen i solenergiteknik, 30 hp
-- Hållbarhet hos solenergisystem, 5 hp
-- Projektkurs 3 – grupprojekt och kommunikation, 5 hp
-- Urbana energisystem, 7.5 hp
+- [[AEG2AY|Elektriska lagringssystem och tjänster]], 5 hp
+- [[AEG2AX|Elnätsintegrering av förnybar kraft]], 7,5 hp
+- [[EG4001|Examensarbete för masterexamen i solenergiteknik]], 30 hp
+- [[AEG2AV|Hållbarhet hos solenergisystem]], 5 hp
+- [[AEG2B5|Projektkurs 3 – grupprojekt och kommunikation]], 5 hp
+- [[AEG2AW|Urbana energisystem]], 7.5 hp
 
 *** Kurser som krävs för att programmålen ska uppfyllas.**
 

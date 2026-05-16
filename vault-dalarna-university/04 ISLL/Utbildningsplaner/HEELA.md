@@ -85,9 +85,9 @@ Programmet består av sju obligatoriska kurser på avancerad nivå inom huvudomr
 
 - [[AEN26E|Engelska: Litteraturvetenskapligt skrivande]], 7,5 hp
 - [[AEN25S|Engelska: Litteratur och teori]], 7,5 hp
-- Engelska: Samtida irländsk skönlitteratur, 7,5 hp
+- [[EN3029|Engelska: Samtida irländsk skönlitteratur]], 7,5 hp
 - [[AEN252|Migration, klimat och ångest i engelskspråkig litteratur]], 7,5 hp
-- Engelska: Avancerad litteraturteori, 7,5 hp
+- [[EN3064|Engelska: Avancerad litteraturteori]], 7,5 hp
 - [[EN3062|Världslitteratur på engelska]], 7,5 hp
 - [[EN3063|Engelska: Magisterexamensarbete i litteratur]], 15 hp
 

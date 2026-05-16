@@ -120,10 +120,10 @@ Programmet avslutas med ett examensarbete. Examensarbetet kan utföras i vid uni
 ****Termin 1****
 
 - [[AEG2B6|Solstrålning och solgeometri]], 5 hp
-- Solvärme, 7,5 hp
-- Solenergins ekonomi, 2,5 hp
-- Solel, 7,5 hp
-- Tillämpad solenergiteknik, 7,5 hp
+- [[EG3007|Solvärme]], 7,5 hp
+- [[AEG225|Solenergins ekonomi]], 2,5 hp
+- [[AEG233|Solel]], 7,5 hp
+- [[AEG22R|Tillämpad solenergiteknik]], 7,5 hp
 
 ****Termin 2****
 

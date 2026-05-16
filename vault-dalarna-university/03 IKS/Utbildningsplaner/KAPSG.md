@@ -105,17 +105,17 @@ Under den sjätte terminens kurs Projektarbete inom medieproduktion, fördjupnin
 
 **År 1:**
 
-- Introduktion till audiovisuell produktion, 15 hp
-- Audiovisuellt berättande, 15 hp
-- Audiovisuell komposition, 15 hp
-- Audiovisuell gestaltning, 7,5 hp
-- Vetenskaplig uppsats i Ljud- och musikproduktion, 7,5 hp
+- [[GLP239|Introduktion till audiovisuell produktion]], 15 hp
+- [[GLP23B|Audiovisuellt berättande]], 15 hp
+- [[GLP23A|Audiovisuell komposition]], 15 hp
+- [[GLP234|Audiovisuell gestaltning]], 7,5 hp
+- [[LP1065|Vetenskaplig uppsats i Ljud- och musikproduktion]], 7,5 hp
 
 **År 2:**
 
-- Audiovisuella installationer, 15 hp
-- Audiovisuell performance, 15 hp
-- Kommunikationsteorier, 7,5 hp
+- [[GLP235|Audiovisuella installationer]], 15 hp
+- [[GLP236|Audiovisuell performance]], 15 hp
+- [[GLP2MS|Kommunikationsteorier]], 7,5 hp
 - [[LP1053|Entreprenörskap för medieproducenter]], 7,5 hp
 - [[GLP2BQ|Medieproduktion som projektarbete]], 15 hp
 
@@ -125,7 +125,7 @@ Under den sjätte terminens kurs Projektarbete inom medieproduktion, fördjupnin
 - [[GLP2NN|Kandidatexamensarbete i Ljud- och musikproduktion]], 15 hp
 - Konceptutveckling inom medieproduktion för Ljud- och musikproduktion, 7,5 hp
 - [[GLP2WP|Projektarbete inom medieproduktion, fördjupningskurs]], 15 hp
-- [[GLP32S|Arbetsplatsförlagd utbildning i medieproduktion]], 15 hp
+- [[GLP2QD|Arbetsplatsförlagd utbildning i medieproduktion]], 15 hp
 
 ## 4. Examensbenämning
 

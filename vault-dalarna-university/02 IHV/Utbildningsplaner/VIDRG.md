@@ -76,12 +76,12 @@ Idrottstränarutbildningen består av studier inom ämnet idrotts- och hälsovet
 **År 1**
 
 - [[GIH3F9|Hållbart idrottsledarskap]], 7,5hp
-- [[GIH3GG|Idrottens funktionella anatomi och biomekanik]], 7,5hp
+- [[GIH3F8|Idrottens funktionella anatomi och biomekanik]], 7,5hp
 - [[GIH3GE|Idrottens organisation i samhället]], 7,5hp
-- [[GIH3GK|Idrottsmedicin]], 7,5hp
+- [[GIH2VJ|Idrottsmedicin]], 7,5hp
 - [[GIH3F7|Idrottspedagogik]], 7,5hp
 - [[GIH3GD|Idrottspsykologi med praktisk tillämpning]], 7,5hp
-- [[GIH3FF|Tillämpad idrottsfysiologi]], 7,5hp
+- [[GIH3JL|Tillämpad idrottsfysiologi]], 7,5hp
 - [[GIH3FD|Träningslära]], 7,5hp
 
 **År 2**
@@ -96,11 +96,11 @@ Idrottstränarutbildningen består av studier inom ämnet idrotts- och hälsovet
 
 **År 3**
 
-- Coachning och träningsprocesser i praktiken, 15hp
-- [[GIH335|Entreprenörskap inom idrott och hälsa]], 7,5hp
-- [[GIH35W|Examensarbete för kandidatexamen i idrotts- och hälsovetenskap]], 15hp
-- Idrottsnutrition, 7,5hp
-- Idrottsvetenskaplig fördjupning, 7,5hp
+- [[GIH3G8|Coachning och träningsprocesser i praktiken]], 15hp
+- [[GIH3G9|Entreprenörskap inom idrott och hälsa]], 7,5hp
+- [[GIH3GA|Examensarbete för kandidatexamen i idrotts- och hälsovetenskap]], 15hp
+- [[GIH3GC|Idrottsnutrition]], 7,5hp
+- [[GIH3G6|Idrottsvetenskaplig fördjupning]], 7,5hp
 - [[GIH35U|Idrottsvetenskaplig metod]], 7,5hp
 
 ## 4. Examensbenämning

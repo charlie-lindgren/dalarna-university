@@ -104,7 +104,7 @@ Stor vikt läggs vid att studentens vunna kunskaper omsätts i praktisk tillämp
 - Introduktion till informatik och eTjänster, 7,5 hp
 - Programutvecklingsteknik, introduktion, 7,5 hp
 - Kommunikation, gruppdynamik och eTjänster, 7,5 hp
-- Hård infrastruktur, 7,5 hp
+- [[GIK2PD|Hård infrastruktur]], 7,5 hp
 
 **eTjänster, perspektiv och utvärdering 7,5 h**
 
@@ -115,8 +115,8 @@ Stor vikt läggs vid att studentens vunna kunskaper omsätts i praktisk tillämp
 - [[GIK2AL|Databassystem]], 7,5 hp
 - e-samhället: e-governance och eTjänster, 7,5 hp
 - Applikationsutveckling för mobila Android-enheter 1, 7,5 hp
-- Datasäkerhet och integritet, 7,5 hp
-- Nätjuridik, 7,5 hp
+- [[GIK2V4|Datasäkerhet och integritet]], 7,5 hp
+- [[RV1054|Nätjuridik]], 7,5 hp
 - Examensarbete, 15 hp
 
 ## 4. Examensbenämning

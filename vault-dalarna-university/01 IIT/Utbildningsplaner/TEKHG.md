@@ -87,7 +87,7 @@ Utbildningen avslutas med ett examensarbete på 7,5 högskolepoäng. Examensarbe
 **År 1**
 
 - [[GIK34Y|Forskningsmetodik]], 7,5 hp
-- [[GIE3H2|Industriell ekonomi – grundläggande kurs]], 7,5 hp
+- [[GIE26P|Industriell ekonomi – grundläggande kurs]], 7,5 hp
 - [[GIE26M|Industriell ekonomi – organisation och ledarskap]], 7,5 hp
 - [[GIE36Z|Industriell ekonomi - verksamhetsstyrning]], 7,5 hp
 - [[GIE3FW|Industriell marknadsföring]], 7,5 hp

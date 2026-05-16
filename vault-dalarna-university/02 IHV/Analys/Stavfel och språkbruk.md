@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (118 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (119 rader)</span></a>
 
-> [!example]- 118 fynd — klicka för att expandera
+> [!example]- 119 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -79,6 +79,7 @@ status: första pass
 > | [ASA24N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA24N) | SAA | Felstavning (en) | `namn` (en) |
 > | [ASA28Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA28Q) | SAA | Felstavning (en) | `researcg` (en) |
 > | [GSA2NC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2NC) | SAA | Dubblerat ord | `credits` — …7.5 credits, Psychological Perspectives on Social Work 7.5 credits credits and Welfare Measures and User Perspective 15 credits… |
+> | [GSA2XN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2XN) | SAA | Felstavning (en) | `guidlines` (en) |
 > | [GSA32Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA32Y) | SAA | Dubblerat ord | `credits` — …7.5 credits, Psychological Perspectives on Social Work 7.5 credits credits and Welfare Measures and User Perspective 15 credits… |
 > | [GSA352](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA352) | SAA | Felstavning (en) | `assignmentss` (en) |
 > | [GSA3AS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3AS) | SAA | Felstavning (en) | `interorganizational` (en) |

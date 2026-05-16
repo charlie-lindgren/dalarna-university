@@ -91,7 +91,7 @@ Det tredje läsåret samläses helt med studenter från övriga utbildningsprogr
 **År 1**
 
 - [[GMN3EC|Audiovisuella perspektiv]], 7,5 hp
-- [[GMN3DY|Introduktion till medieproduktion]], 15hp
+- [[GLP2FH|Introduktion till medieproduktion]], 15hp
 - [[GMN3E3|Konceptutveckling]], 15 hp
 - [[GMN3EA|Producentperspektiv]], 15 hp
 - [[GMN3ED|Uppsats i medieproduktion]], 7,5 hp
@@ -107,11 +107,11 @@ Det tredje läsåret samläses helt med studenter från övriga utbildningsprogr
 
 **År 3**
 
-- Alternativa gestaltningsformer, 7,5 hp
-- Exponeringsprojekt inom medieproduktion, 15 hp
-- Kandidatexamensarbete i Medieproduktion, 15 hp
-- Verksamhetsförlagd utbildning inom medieproduktion, 15 hp
-- Vetenskapsteori och metod i Medieproduktion, 7,5 hp
+- [[GMN3EX|Alternativa gestaltningsformer]], 7,5 hp
+- [[GMN3F2|Exponeringsprojekt inom medieproduktion]], 15 hp
+- [[GMN3EZ|Kandidatexamensarbete i Medieproduktion]], 15 hp
+- [[GMN3F3|Verksamhetsförlagd utbildning inom medieproduktion]], 15 hp
+- [[GMN3EY|Vetenskapsteori och metod i Medieproduktion]], 7,5 hp
 
 ## 4. Examensbenämning
 

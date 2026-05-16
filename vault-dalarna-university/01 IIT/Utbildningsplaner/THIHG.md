@@ -116,7 +116,7 @@ Under programmets senare del knyts kraft- och värmeteknik ihop med energieffekt
 - [[GMA2ZS|Analys i en variabel]], 7,5 hp
 - [[GET36T|Ellära]], 7,5 hp
 - [[GMA2ZT|Inledande matematik]], 3 hp
-- [[GIE3H2|Industriell ekonomi – grundläggande kurs]], 7,5 hp
+- [[GIE26P|Industriell ekonomi – grundläggande kurs]], 7,5 hp
 - [[GEG2ZR|Introduktion till hållbara energisystem]], 4,5 hp
 - [[MD2025|Linjär algebra]], 7,5 hp
 - [[GIK299|Objektorienterad programmering]], 7,5 hp
@@ -126,9 +126,9 @@ Under programmets senare del knyts kraft- och värmeteknik ihop med energieffekt
 
 - [[GEG3BX|Elektriska maskiner]], 7,5 hp
 - [[GEG39Y|Elkraftteknik]], 7,5 hp
-- [[GBY38E|Installationsteknik och dimensionering]], 7,5 hp
+- [[BY1061|Installationsteknik och dimensionering]], 7,5 hp
 - [[GMT3BW|Mekanik]], 7,5 hp
-- Solel, 7,5 hp
+- [[AEG233|Solel]], 7,5 hp
 - [[EG1012|Strömningslära]], 7,5 hp
 - [[ET1029|Styr- och reglerteknik]], 7,5 hp
 - [[FY1018|Termodynamik]], 7,5 hp

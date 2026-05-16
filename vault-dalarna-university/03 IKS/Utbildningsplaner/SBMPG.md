@@ -83,7 +83,7 @@ Programmets tredje år ger en fördjupning inom företagsekonomins delämnesomr�
 - [[GFÖ32F|Marknadsföring A]], 7,5 hp
 - Makroekonomi introduktion, 7,5 hp
 - Mikroekonomi introduktion, 7,5 hp
-- [[GNA3BA|Finansiella marknader och penningpolitik]], 7,5 hp
+- [[GNA2NT|Finansiella marknader och penningpolitik]], 7,5 hp
 - [[GNA3B9|Internationell ekonomi]], 7,5 hp
 
 **År 2**

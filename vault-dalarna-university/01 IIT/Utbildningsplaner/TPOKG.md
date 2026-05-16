@@ -98,7 +98,7 @@ Under hela programmet sker dessutom en stegvis utveckling av förmågan att: sam
 
 **ÅR 1**
 
-- Introduktion till produktutveckling, 4hp
+- [[MT1068|Introduktion till produktutveckling]], 4hp
 - [[GEG2ZR|Introduktion till hållbara energisystem]], 3,5hp
 - Industriell Ekonomi med kalkylering, 7,5hp
 - [[GMD2MJ|Envariabelanalys]], 7,5hp
@@ -114,21 +114,21 @@ Under hela programmet sker dessutom en stegvis utveckling av förmågan att: sam
 - Grundläggande materiallära, 7,5hp
 - [[FY1018|Termodynamik]], 7,5hp
 - CAD/CAM, 7,5hp
-- Hållfasthetslära, 7,5hp
+- [[MT1060|Hållfasthetslära]], 7,5hp
 - Hydraulik och Pneumatik, 7,5hp
 - Grundläggande ellära för maskinteknik, 3,5hp
 - Materialval, 4hp
-- Maskinelement, 7,5hp
+- [[MT1074|Maskinelement]], 7,5hp
 
 **ÅR 3**
 
-- Produktutvecklingsmetoder, 7,5hp
+- [[GMT228|Produktutvecklingsmetoder]], 7,5hp
 - Finita elementmetoden, 7,5hp
 - Introduktion till hållbar utveckling inom maskinteknik, 7,5hp
 - Konstruktionsprojekt, 7,5hp
 - Kvalitetsteknik, 7,5hp
 - Industriell produktion, 7,5hp
-- Examensarbete Högskoleingenjör Maskinteknik, 15hp
+- [[GMT25Z|Examensarbete Högskoleingenjör Maskinteknik]], 15hp
 
 ## 4. Examensbenämning
 
