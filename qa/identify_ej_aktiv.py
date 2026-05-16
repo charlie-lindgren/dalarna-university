@@ -259,8 +259,28 @@ def read_course_established_date(path: Path) -> str | None:
     return m.group(1) if m else None
 
 
+def read_course_revised_date(path: Path) -> str | None:
+    """Extract the revision date from the course file's Reviderad line.
+
+    The line looks like:
+        - **Reviderad:** Reviderad 2018-10-19 . Revideringen är giltig fr.o.m. 2018-10-19.
+    The first ISO date on that line is the revision date. Returns None for
+    course plans that have never been revised (no Reviderad line)."""
+    try:
+        text = path.read_text(encoding="utf-8")
+    except Exception:
+        return None
+
+    for line in text.split("\n"):
+        if "**Reviderad:**" in line or line.lstrip().startswith("- **Reviderad:**"):
+            m = re.search(r"(\d{4}-\d{2}-\d{2})", line)
+            if m:
+                return m.group(1)
+    return None
+
+
 def build_vilande_analysis_callout(
-    rows: list[tuple[str, str, str, str, str, str | None]],
+    rows: list[tuple[str, str, str, str, str, str | None, str | None]],
     xlsx_filename: str,
     inst_code: str | None = None,
 ) -> list[str]:
@@ -284,16 +304,18 @@ def build_vilande_analysis_callout(
         "",
         f"> [!example]- {n} fynd — klicka för att expandera",
         ">",
-        "> | Kursplan | Ämne | Institution | Fastställd | Problem |",
-        "> | --- | --- | --- | --- | --- |",
+        "> | Kursplan | Ämne | Institution | Fastställd | Reviderad | Problem |",
+        "> | --- | --- | --- | --- | --- | --- |",
     ]
-    for code, subj_code, inst_code, _subject_name, _course_name, established_date in rows:
+    for (code, subj_code, inst_code, _subject_name, _course_name,
+         established_date, revised_date) in rows:
         established = established_date or "okänt"
+        revised = revised_date or "—"
         lines.append(
             "> | "
             f"[{code}]({KURSPLAN_URL.format(code=code)}) | "
             f"{subj_code} | {inst_code} | "
-            f"{established} | "
+            f"{established} | {revised} | "
             "Ingen aktiv kursomgång hittad på kurssidan |"
         )
     return lines
@@ -381,15 +403,19 @@ def build_vilande_analysis_template(callout_lines: list[str], inst_code: str) ->
 
 
 def write_vilande_analysis(
-    rows_by_inst: dict[str, list[tuple[str, str, str, str, str, str | None]]],
+    rows_by_inst: dict[str, list[tuple[str, str, str, str, str, str | None, str | None]]],
     apply: bool,
 ) -> dict[str, tuple[bool, bool]]:
     """Skriv/uppdatera Vilande kursplaner.md + .xlsx per institution.
 
     Returnerar {inst_code: (md_changed, xlsx_changed)}.
     """
-    def row_sort_key(r: tuple[str, str, str, str, str, str | None]) -> tuple[dt.date, str, str, str]:
-        date_str = r[5]
+    def row_sort_key(r: tuple[str, str, str, str, str, str | None, str | None]) -> tuple[dt.date, str, str, str]:
+        # Sortera på Reviderad (kolumn 7). Aldrig reviderade kursplaner saknar
+        # datum — fall tillbaka på Fastställd (kolumn 6), dvs. kursplanens
+        # effektiva senast-ändrad-datum, så de ändå hamnar i rätt ordning
+        # i stället för att klumpas sist. Äldsta först.
+        date_str = r[6] or r[5]
         if date_str:
             try:
                 parsed = dt.date.fromisoformat(date_str)
@@ -433,6 +459,7 @@ def write_vilande_analysis(
             "Ämne",
             "Institution",
             "Fastställd",
+            "Reviderad",
             "Ämnesnamn",
             "Kursnamn",
             "Problem",
@@ -444,13 +471,15 @@ def write_vilande_analysis(
             cell.fill = HEADER_FILL
             cell.alignment = Alignment(horizontal="left", vertical="center")
 
-        for code, subj_code, inst_c, subject_name, course_name, established_date in inst_rows:
+        for (code, subj_code, inst_c, subject_name, course_name,
+             established_date, revised_date) in inst_rows:
             url = KURSPLAN_URL.format(code=code)
             ws.append([
                 code,
                 subj_code,
                 inst_c,
                 established_date or "",
+                revised_date or "",
                 subject_name,
                 course_name,
                 "Ingen aktiv kursomgång hittad på kurssidan",
@@ -460,11 +489,11 @@ def write_vilande_analysis(
             code_cell = ws.cell(row=row_idx, column=1)
             code_cell.hyperlink = url
             code_cell.font = LINK_FONT
-            url_cell = ws.cell(row=row_idx, column=8)
+            url_cell = ws.cell(row=row_idx, column=9)
             url_cell.hyperlink = url
             url_cell.font = LINK_FONT
 
-        widths = [12, 8, 12, 14, 30, 45, 58, 70]
+        widths = [12, 8, 12, 14, 14, 30, 45, 58, 70]
         for i, width in enumerate(widths, start=1):
             ws.column_dimensions[get_column_letter(i)].width = width
 
@@ -570,7 +599,7 @@ def main():
 
     total_vilande = 0
     total_reactivated = 0
-    vilande_rows: list[tuple[str, str, str, str, str, str | None]] = []
+    vilande_rows: list[tuple[str, str, str, str, str, str | None, str | None]] = []
 
     for subj_code, current_codes in codes_per_subject.items():
         info = subject_info.get(subj_code, {})
@@ -608,6 +637,7 @@ def main():
                         subj_name,
                         read_course_name(path),
                         read_course_established_date(path),
+                        read_course_revised_date(path),
                     )
                 )
             time.sleep(REQUEST_DELAY)
@@ -626,7 +656,7 @@ def main():
         total_vilande += len(vilande_codes)
         total_reactivated += len(reactivated)
 
-    rows_by_inst: dict[str, list[tuple[str, str, str, str, str, str | None]]] = defaultdict(list)
+    rows_by_inst: dict[str, list[tuple[str, str, str, str, str, str | None, str | None]]] = defaultdict(list)
     for row in vilande_rows:
         inst_c = row[2]
         if inst_c in INST_DIR_NAME:

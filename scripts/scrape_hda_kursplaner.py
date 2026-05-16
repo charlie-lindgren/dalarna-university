@@ -756,7 +756,7 @@ def build_course_markdown(scraped: dict, subject_name: str, subject_code: str,
     lines.append("")
 
     # Metadata-block
-    meta_keys = ["Poäng", "Nivå", "Kursen kan ingå i följande huvudområde(n)", "Ämnestillhörighet", "Fastställd"]
+    meta_keys = ["Poäng", "Nivå", "Kursen kan ingå i följande huvudområde(n)", "Ämnestillhörighet", "Fastställd", "Reviderad"]
     for key in meta_keys:
         if key in meta:
             lines.append(f"- **{key}:** {meta[key]}")
@@ -844,6 +844,17 @@ def update_existing_file(path: Path, scraped: dict, subject_name: str,
             changes.append("  + English Version")
         elif normalize_for_compare(existing_en) != normalize_for_compare(new_en):
             changes.append("  ↻ English Version")
+
+    # Metadata-block: upptäck om Reviderad-raden saknas/avviker så att
+    # befintliga (annars oförändrade) filer backfillas vid om-skrapning.
+    scraped_meta = scraped.get("metadata", {})
+    existing_header = result["header_block"]
+    revised_val = scraped_meta.get("Reviderad")
+    if revised_val:
+        expected_line = f"- **Reviderad:** {revised_val}"
+        if expected_line not in existing_header:
+            changes.append("  ↻ Reviderad" if "**Reviderad:**" in existing_header
+                           else "  + Reviderad")
 
     # Update scrape_hash in frontmatter
     scraped_text_for_hash = str(scraped["sections_sv"]) + str(scraped["sections_en"])
