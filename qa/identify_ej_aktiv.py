@@ -316,7 +316,7 @@ def build_vilande_analysis_callout(
             f"[{code}]({KURSPLAN_URL.format(code=code)}) | "
             f"{subj_code} | {inst_code} | "
             f"{established} | {revised} | "
-            "Ingen aktiv kursomgång hittad på kurssidan |"
+            "Ingen aktiv kursomgång |"
         )
     return lines
 
@@ -482,7 +482,7 @@ def write_vilande_analysis(
                 revised_date or "",
                 subject_name,
                 course_name,
-                "Ingen aktiv kursomgång hittad på kurssidan",
+                "Ingen aktiv kursomgång",
                 url,
             ])
             row_idx = ws.max_row
