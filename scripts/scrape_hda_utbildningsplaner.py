@@ -755,6 +755,14 @@ def main():
                 total_errors += 1
                 continue
 
+            # En kod utan programnamn är ingen riktig utbildningsplan
+            # (t.ex. nedlagd/ogiltig kod). Skapa ingen artefakt.
+            if not (scraped.get("name_sv") or "").strip():
+                if not args.quiet:
+                    print("ingen utbildningsplan — hoppar över")
+                total_skipped += 1
+                continue
+
             # --- Determine institution ---
             faststalld = scraped["metadata"].get("Fastställd", "")
             institution = detect_institution_from_faststalld(faststalld)
