@@ -635,9 +635,16 @@ def scrape_course(code: str) -> dict | None:
     ):
         return None
 
+    # En kod utan kursnamn är ingen riktig kursplan (t.ex. ogiltig kod
+    # eller en fallback-/felsida). Skapa ingen artefakt — och därmed
+    # ingen "Okänt ämne (OKANT)"-katalog.
+    name_sv = extract_course_name(sv_soup)
+    if not (name_sv or "").strip():
+        return None
+
     return {
         "code": code,
-        "name_sv": extract_course_name(sv_soup),
+        "name_sv": name_sv,
         "name_en": extract_course_name(en_soup) if en_soup else "",
         "metadata": extract_metadata(sv_soup),
         "sections_sv": extract_sections(sv_soup, SECTION_MAP_SV),
