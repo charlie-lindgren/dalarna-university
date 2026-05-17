@@ -9,7 +9,9 @@ up: "[[IIT MOC]]"
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
 
-## Kurser (7 st)
+## Vilande kursplaner (7 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[AF]] — AF
 - [[AV]] — AV

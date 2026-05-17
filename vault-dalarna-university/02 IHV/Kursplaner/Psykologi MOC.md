@@ -9,6 +9,8 @@ up: "[[IHV MOC]]"
 
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 
-## Kurser (1 st)
+## Vilande kursplaner (1 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[PS1018]] — Psykologiska behandlingsmetoder

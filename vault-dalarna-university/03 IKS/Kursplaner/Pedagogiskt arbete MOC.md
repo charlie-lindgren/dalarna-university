@@ -9,7 +9,7 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (109 st)
+## Kurser (75 st)
 
 - [[APG22X]] — Tematisk fördjupning inom ett utbildningsvetenskapligt område
 - [[APG244]] — Vetenskapsteori och utbildningsvetenskaplig forskning för grundlärare F-3
@@ -20,40 +20,27 @@ up: "[[IKS MOC]]"
 - [[APG24E]] — Vetenskapsteori och utbildningsvetenskaplig forskning för ämneslärare
 - [[APG24S]] — Utvärdering och utvecklingsarbete i grundskolans åk 7-9 och gymnasieskolan
 - [[APG25N]] — Vetenskap och beprövad erfarenhet i undervisning och handledning
-- [[APG26D]] — Didaktisk analys för fortsatt professionsutveckling
 - [[APG275]] — Utvärdering och utvecklingsarbete i förskoleklass och grundskolans åk 1-3 (varav 7,5 hp VFU)
 - [[APG276]] — Utvärdering och utvecklingsarbete i grundskolans åk 4-6, (varav 7,5 hp VFU)
-- [[APG27T]] — Rektors ledning och organisering för utveckling av barns och elevers lärandemiljö
-- [[APG27U]] — Utvärdering och verksamhetsutveckling i förskola och förskoleklass (varav 7,5 hp VFU)
-- [[APG27Z]] — Professionellt lärarskap och skolutveckling - KPU (varav 10 hp VFU)
 - [[APG282]] — Examensarbete för ämneslärare (avancerad nivå)
-- [[APG28B]] — Verksamhetsförlagd utbildning för lärare (KPU)
 - [[APG28M]] — Vetenskapsteori och utbildningsvetenskaplig forskning - VAL
 - [[APG28R]] — Verksamhetsförlagd utbildning i gymnasieskolan
 - [[APG28S]] — Verksamhetsförlagd utbildning i grundskolan årskurs 7-9
 - [[APG29G]] — Att vägleda kollegor och lärarstudenter för professionsutveckling
-- [[APG2AA]] — Lärarskicklighet - utveckling av lärarskicklighet i förskola och skola utifrån forskning
-- [[APG2AB]] — Bedömning och betygssättning för ämneslärare årskurs 7-9 - AIL
-- [[APG2AC]] — Rektors pedagogiska ledarskap med fokus på förskolans utbildningsuppdrag
 - [[APG2AJ]] — Verksamhetsförlagd utbildning för lärare - VAL
 - [[APG2BC]] — Professionellt lärarskap och skolutveckling - KPU (varav 10 hp VFU)
-- [[APG2BF]] — Att främja en professionsdriven verksamhetsutveckling i förskola, skola och fritidshem
-- [[APG2BK]] — Verksamhetsförlagd utbildning 3 - VAL
 - [[APG2C3]] — Vidareutveckling och analys av kvalitet i undervisning
 - [[APG2C6]] — Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare F-3
 - [[APG2C7]] — Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare 4-6
-- [[APG2CC]] — Mentorsutbildning för en kvalitativ introduktionsperiod
 - [[APG2CD]] — Perspektiv på pedagogisk praktik
 - [[APG2CL]] — Undervisningsskicklighet i teori och praktik (USP) Ämneslärare
 - [[APG2CM]] — Undervisningsskicklighet i teori och praktik (USP) F-6
 - [[GPG22J]] — Att handleda lärarstuderande - kurs för verksamhetsförlagda lärarutbildare
 - [[GPG22K]] — Examensarbete för ämneslärarexamen - KPU
-- [[GPG27X]] — Lärares ledarskap
 - [[GPG2E6]] — Examensarbete för grundlärarexamen inriktning F-3 del 1
 - [[GPG2E7]] — Examensarbete för grundlärarexamen inriktning 4-6 del 1
 - [[GPG2LZ]] — Sociala relationer, konflikter och makt i grundskolan åk 4-6 (varav 7,5 hp VFU)
 - [[GPG2M9]] — Sociala relationer, konflikter och makt i förskoleklass och grundskolan åk 1-3 (varav 7,5 hp VFU)
-- [[GPG2N7]] — Skolväsendets historia
 - [[GPG2QP]] — Undervisning och ledarskap (varav 10 hp VFU)
 - [[GPG2RH]] — Undervisning och ledarskap - KPU (varav 10 hp VFU)
 - [[GPG2RR]] — Kunskap, lärande och bedömning
@@ -61,15 +48,9 @@ up: "[[IKS MOC]]"
 - [[GPG2S7]] — Kunskap, lärande och bedömning - KPU
 - [[GPG2S8]] — Ämnesdidaktik och specialpedagogik - KPU (varav 10 hp VFU)
 - [[GPG2S9]] — Sociala relationer, konflikter och makt i grundskolan åk 7-9 och gymnasieskolan
-- [[GPG2SC]] — Samhällsorienterande ämnen, årskurs 4-6
-- [[GPG2SG]] — Omsorg, relationer och etik i förskolläraryrket
-- [[GPG2SH]] — Lek i förskolan (varav 7,5 hp VFU)
-- [[GPG2TT]] — Omsorg, relationer och etik i förskolläraryrket
-- [[GPG2VW]] — Professionellt lärarskap och skolutveckling (varav 10 hp VFU)
 - [[GPG2VX]] — Självständigt arbete för yrkeslärare
 - [[GPG2WR]] — Examensarbete för ämneslärare (grundnivå)
 - [[GPG2YG]] — Kommunikation och berättande i ett flerspråkigt klassrum för grundlärare årskurs F-3
-- [[GPG2YH]] — Verksamhetsförlagd utbildning för lärare (YRK)
 - [[GPG2Z3]] — Bedömning och betygssättning - VAL
 - [[GPG2Z4]] — Utveckling och lärande - VAL
 - [[GPG2Z6]] — Sociala relationer och konflikthantering - VAL
@@ -82,15 +63,9 @@ up: "[[IKS MOC]]"
 - [[GPG33D]] — Utveckling, lärande och ledarskap - VAL
 - [[GPG33E]] — Sociala relationer, skolans historiska utveckling och samhällsuppdrag - VAL
 - [[GPG33F]] — Didaktik och bedömning - VAL
-- [[GPG36A]] — Didaktik och läroplansteori - KPU
-- [[GPG36B]] — Didaktik och läroplansteori
 - [[GPG3AB]] — Introduktion till läraryrket för ämneslärare årskurs 7–9 - AIL
 - [[GPG3AC]] — Didaktik och ledarskap för ämneslärare årskurs 7–9 - AIL
-- [[GPG3AD]] — Verksamhetsförlagd utbildning 1 för ämneslärare årskurs 7–9 - AIL
 - [[GPG3AE]] — Utveckling och lärande för ämneslärare årskurs 7-9 - AIL
-- [[GPG3AF]] — Specialpedagogik och ett läraruppdrag i förändring för ämneslärare årskurs 7–9 - AIL
-- [[GPG3AG]] — Verksamhetsförlagd utbildning 2 för ämneslärare årskurs 7–9 - AIL
-- [[GPG3BD]] — Introduktion till läraryrket
 - [[GPG3BE]] — Didaktik och ledarskap - VAL
 - [[GPG3CF]] — Utveckling och lärande i förskoleklass och grundskolans åk 1-3 (varav 7,5 hp VFU)
 - [[GPG3CG]] — Utveckling och lärande i grundskolans åk 4-6 (varav 7,5 hp VFU)
@@ -98,25 +73,55 @@ up: "[[IKS MOC]]"
 - [[GPG3CJ]] — Didaktik och ledarskap i grundskolans årskurs 4-6 (inkl 7,5 hp VFU)
 - [[GPG3CK]] — Skolväsendets historia och samhällsuppdrag - förskoleklass och grundskolan åk 1-6
 - [[GPG3CL]] — Samhällsorienterande ämnen, årskurs 4-6
-- [[GPG3CN]] — Undervisning och lärande genom rollspel - inriktning pedagogiskt arbete
 - [[GPG3EU]] — Didaktik och läroplansteori
 - [[GPG3EV]] — Professionellt lärarskap och skolutveckling (varav 10 hp VFU)
-- [[GPG3FR]] — Introduktion till studier i program - VAL
-- [[GPG3FS]] — Verksamhetsförlagd utbildning 1 - VAL
-- [[GPG3FT]] — Verksamhetsförlagd utbildning 2 - VAL
 - [[GPG3FU]] — Utvärdering och utvecklingsarbete - VAL
 - [[GPG3FV]] — Självständigt arbete - VAL
 - [[GPG3JC]] — Utbildningssystemet i Sverige
 - [[GPG3JD]] — Att leda kollegiala lärprocesser i förskola och skola
 - [[GPG3JP]] — Interkulturell och inkluderande undervisning i globala sammanhang
-- [[PG2043]] — Pedagogiskt arbete IIIb: Examensarbete (grundnivå 2)
-- [[PG2048]] — Pedagogiskt arbete IIIb: Examensarbete (grundnivå)
-- [[PG3023]] — Pedagogiskt arbete IIIb: Examensarbete
 - [[PG3024]] — Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare F-3
 - [[PG3025]] — Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare 4-6
 - [[PG3031]] — Utbildningsfilosofiska perspektiv
 - [[PG3041]] — Utbildningsvetenskapliga teorier
-- [[PG3056]] — Perspektiv på pedagogisk praktik
 - [[PG3061]] — Att kritiskt granska utbildningsvetenskaplig forskning
-- [[PG3065]] — Examensarbete för magisterexamen i pedagogiskt arbete
 - [[PG3069]] — Utbildningsvetenskapliga ansatser - teoretisk och  metodologisk fördjupning
+
+## Vilande kursplaner (34 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
+
+- [[APG26D]] — Didaktisk analys för fortsatt professionsutveckling
+- [[APG27T]] — Rektors ledning och organisering för utveckling av barns och elevers lärandemiljö
+- [[APG27U]] — Utvärdering och verksamhetsutveckling i förskola och förskoleklass (varav 7,5 hp VFU)
+- [[APG27Z]] — Professionellt lärarskap och skolutveckling - KPU (varav 10 hp VFU)
+- [[APG28B]] — Verksamhetsförlagd utbildning för lärare (KPU)
+- [[APG2AA]] — Lärarskicklighet - utveckling av lärarskicklighet i förskola och skola utifrån forskning
+- [[APG2AB]] — Bedömning och betygssättning för ämneslärare årskurs 7-9 - AIL
+- [[APG2AC]] — Rektors pedagogiska ledarskap med fokus på förskolans utbildningsuppdrag
+- [[APG2BF]] — Att främja en professionsdriven verksamhetsutveckling i förskola, skola och fritidshem
+- [[APG2BK]] — Verksamhetsförlagd utbildning 3 - VAL
+- [[APG2CC]] — Mentorsutbildning för en kvalitativ introduktionsperiod
+- [[GPG27X]] — Lärares ledarskap
+- [[GPG2N7]] — Skolväsendets historia
+- [[GPG2SC]] — Samhällsorienterande ämnen, årskurs 4-6
+- [[GPG2SG]] — Omsorg, relationer och etik i förskolläraryrket
+- [[GPG2SH]] — Lek i förskolan (varav 7,5 hp VFU)
+- [[GPG2TT]] — Omsorg, relationer och etik i förskolläraryrket
+- [[GPG2VW]] — Professionellt lärarskap och skolutveckling (varav 10 hp VFU)
+- [[GPG2YH]] — Verksamhetsförlagd utbildning för lärare (YRK)
+- [[GPG36A]] — Didaktik och läroplansteori - KPU
+- [[GPG36B]] — Didaktik och läroplansteori
+- [[GPG3AD]] — Verksamhetsförlagd utbildning 1 för ämneslärare årskurs 7–9 - AIL
+- [[GPG3AF]] — Specialpedagogik och ett läraruppdrag i förändring för ämneslärare årskurs 7–9 - AIL
+- [[GPG3AG]] — Verksamhetsförlagd utbildning 2 för ämneslärare årskurs 7–9 - AIL
+- [[GPG3BD]] — Introduktion till läraryrket
+- [[GPG3CN]] — Undervisning och lärande genom rollspel - inriktning pedagogiskt arbete
+- [[GPG3FR]] — Introduktion till studier i program - VAL
+- [[GPG3FS]] — Verksamhetsförlagd utbildning 1 - VAL
+- [[GPG3FT]] — Verksamhetsförlagd utbildning 2 - VAL
+- [[PG2043]] — Pedagogiskt arbete IIIb: Examensarbete (grundnivå 2)
+- [[PG2048]] — Pedagogiskt arbete IIIb: Examensarbete (grundnivå)
+- [[PG3023]] — Pedagogiskt arbete IIIb: Examensarbete
+- [[PG3056]] — Perspektiv på pedagogisk praktik
+- [[PG3065]] — Examensarbete för magisterexamen i pedagogiskt arbete

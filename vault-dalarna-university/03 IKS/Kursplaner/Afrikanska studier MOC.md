@@ -9,7 +9,9 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (19 st)
+## Vilande kursplaner (19 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[AS2001]] — Afrikanska studier: Utbildning och förändring i afrikanska samhällen
 - [[AS2002]] — Afrikanska studier: Afrikanska samhällen i förändring

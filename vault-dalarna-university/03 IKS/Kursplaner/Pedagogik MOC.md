@@ -9,10 +9,15 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (44 st)
+## Kurser (1 st)
+
+- [[GPE3AJ]] — Att leda kollegiala lärprocesser i förskola och skola
+
+## Vilande kursplaner (43 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[GPE2SA]] — Utbildningssystemet i Sverige
-- [[GPE3AJ]] — Att leda kollegiala lärprocesser i förskola och skola
 - [[PE1010]] — Lek och lärande
 - [[PE1011]] — Matematiklust och matematiksvårigheter
 - [[PE1018]] — En förskola och skola för alla - inriktning specialpedagogik

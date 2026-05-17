@@ -9,12 +9,18 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (23 st)
+## Kurser (4 st)
 
 - [[AKG27R]] — Management och tolkning av kulturarv
-- [[GKG2CS]] — Marknadsanalyser med hjälp av GIS
 - [[GKG3A3]] — Geografiska Informationssystem (GIS) 1: Introduktion
 - [[GKG3AT]] — Geografiska Informationssystem (GIS) 2: Rumslig analys
+- [[KG3019]] — Hållbar destinationsutveckling
+
+## Vilande kursplaner (19 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
+
+- [[GKG2CS]] — Marknadsanalyser med hjälp av GIS
 - [[KG1005]] — Fysisk och lokal planering
 - [[KG1010]] — Introduktion till Geografiska Informations System (GIS)
 - [[KG1016]] — Mobility and Travel Behaviour
@@ -33,4 +39,3 @@ up: "[[IKS MOC]]"
 - [[KG3015]] — Examensarbete för Magisterexamen i kulturgeografi
 - [[KG3016]] — Teori och forskningsmetoder
 - [[KG3018]] — Management och tolkning av kulturarv
-- [[KG3019]] — Hållbar destinationsutveckling

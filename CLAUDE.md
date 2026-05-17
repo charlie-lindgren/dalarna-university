@@ -128,6 +128,17 @@ The `vault-dalarna-university/03 Analys/` files are the editorial layer — `pop
 
 `qa/identify_ej_aktiv.py` rediscovers the current du.se course offering per subject (using the same logic as the kursplan scraper, without per-course scraping) and compares it to the vault. Course files in the vault whose codes are no longer on du.se are tagged `ej-aktiv` (in both `tags:` and `cssclasses:`) and re-pointed via `up:` to a generated `Ej Aktiv {Subject} MOC.md`. Re-emerged courses are auto-untagged. The graph view colors `ej-aktiv` nodes in warm red so they stand out.
 
+### Active vs vilande in subject MOCs
+
+Every course plan — active or vilande — lives in the **same** subject MOC; there are no separate `Stray {Subject} MOC.md` files. `build_subject_moc` / `render_course_sections` (in `scripts/scrape_hda_kursplaner.py`) render active courses under `## Kurser (N st)` first, then any dormant ones under `## Vilande kursplaner (M st)`. A course is the same `[[code]]` link in either section, and course `up:` still points at the subject MOC, so the split does not change the graph.
+
+`identify_ej_aktiv.py` rebuilds the subject-MOC course lists from the vault after re-classifying (vilande detected via the `vilande` tag/cssclass in each course's frontmatter) and deletes any stale `Stray …` MOCs. To regenerate the existing dataset without hitting du.se:
+
+```bash
+python3 qa/identify_ej_aktiv.py --rebuild-mocs-only --dry-run   # preview
+python3 qa/identify_ej_aktiv.py --rebuild-mocs-only --apply     # write
+```
+
 ## Four institutions
 
 | Abbrev | Swedish name | English name |

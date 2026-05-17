@@ -914,14 +914,69 @@ def write_course_file(
 # MOC-generering
 # ---------------------------------------------------------------------------
 
+def _is_vilande(course: dict) -> bool:
+    """En kurs räknas som vilande om den uttryckligen markerats som vilande
+    (frontmatter-tagg) eller, vid skrapning, hittats som strökurs."""
+    return bool(course.get("vilande") or course.get("stray"))
+
+
+def render_course_sections(courses: list[dict]) -> list[str]:
+    """Renderar kurslistan för en ämnes-MOC, uppdelad så att aktiva kurser
+    listas först och vilande kursplaner i en egen sektion därefter.
+
+    En kurs förekommer som samma ``[[kod]]``-länk oavsett sektion, så
+    graf-vyn påverkas inte av uppdelningen.
+    """
+    unique = {c["code"]: c for c in courses}
+    ordered = sorted(unique.values(), key=lambda x: x["code"])
+    active = [c for c in ordered if not _is_vilande(c)]
+    vilande = [c for c in ordered if _is_vilande(c)]
+
+    lines: list[str] = []
+
+    def _list(items: list[dict]) -> None:
+        for c in items:
+            lines.append(f"- [[{c['code']}]] — {c['name']}")
+
+    if not unique:
+        lines.append("## Kurser (0 st)")
+        lines.append("")
+        lines.append("_Inga kurser hittade._")
+        lines.append("")
+        return lines
+
+    if active or not vilande:
+        lines.append(f"## Kurser ({len(active)} st)")
+        lines.append("")
+        if active:
+            _list(active)
+        else:
+            lines.append("_Inga aktiva kurser._")
+        lines.append("")
+
+    if vilande:
+        lines.append(f"## Vilande kursplaner ({len(vilande)} st)")
+        lines.append("")
+        lines.append("> Kursplaner utan aktiv kursomgång. De hör till ämnet men"
+                     " saknar planerad start.")
+        lines.append("")
+        _list(vilande)
+        lines.append("")
+
+    return lines
+
+
 def build_subject_moc(subject: dict, courses: list[dict]) -> str:
-    """Bygger en ämnes-MOC fil."""
+    """Bygger en ämnes-MOC fil.
+
+    Alla kursplaner – aktiva som vilande – hör hemma i samma ämnes-MOC.
+    Aktiva kurser listas först, vilande kursplaner i en egen sektion."""
     name = subject["name"]
     code = subject["code"]
     inst_code = subject["institution"]
     inst_name = INSTITUTIONS[inst_code]["name"]
     huvudomrade = subject.get("huvudomrade", "")
-    stype = subject["type"]
+    stype = subject.get("type", "subject")
     type_label = "Forskarutbildningsämne" if stype == "research" else "Ämne"
 
     lines = [
@@ -940,51 +995,7 @@ def build_subject_moc(subject: dict, courses: list[dict]) -> str:
         lines.append(f"> Huvudområde: {huvudomrade}")
     lines.append("")
 
-    unique_courses = {c["code"]: c for c in courses}
-    lines.append(f"## Kurser ({len(unique_courses)} st)")
-    lines.append("")
-
-    if unique_courses:
-        for c in sorted(unique_courses.values(), key=lambda x: x["code"]):
-            lines.append(f"- [[{c['code']}]] — {c['name']}")
-    else:
-        lines.append("_Inga kurser hittade._")
-    lines.append("")
-
-    return "\n".join(lines)
-
-
-def build_subject_stray_moc(subject: dict, courses: list[dict]) -> str:
-    """Bygger separat MOC för strökurser inom ett ämne."""
-    name = subject["name"]
-    code = subject["code"]
-    inst_code = subject["institution"]
-    inst_name = INSTITUTIONS[inst_code]["name"]
-
-    lines = [
-        "---",
-        f"aliases: [Stray {name}]",
-        f"cssclasses: [moc-page, vilande]",
-        f"tags: [MOC, amne, stray, vilande, {code}, {inst_code}]",
-        f"up: \"[[{name} MOC]]\"",
-        "---",
-        "",
-        f"# Stray {name} MOC",
-        "",
-        f"> Strökurser i {name} vid {inst_name}, Högskolan Dalarna.",
-        "> Dessa ligger utanför ordinarie ämnes-/programindex och markeras som vilande.",
-        "",
-    ]
-    unique_courses = {c["code"]: c for c in courses}
-    lines.append(f"## Kurser ({len(unique_courses)} st)")
-    lines.append("")
-
-    if unique_courses:
-        for c in sorted(unique_courses.values(), key=lambda x: x["code"]):
-            lines.append(f"- [[{c['code']}]] — {c['name']}")
-    else:
-        lines.append("_Inga strökurser hittade._")
-    lines.append("")
+    lines.extend(render_course_sections(courses))
 
     return "\n".join(lines)
 
@@ -1531,13 +1542,13 @@ def main():
             if not args.quiet:
                 print(f"  ✓ {moc_path.name}")
 
-            stray_courses = [c for c in info["courses"] if c.get("stray")]
-            if stray_courses:
-                stray_moc_path = kursplaner_dir(ic) / f"Stray {info['name']} MOC.md"
-                stray_moc_text = build_subject_stray_moc(info, stray_courses)
-                stray_moc_path.write_text(stray_moc_text, encoding="utf-8")
+            # Vilande/strökurser ligger numera i samma ämnes-MOC (egen
+            # sektion) – ingen separat "Stray …"-MOC genereras längre.
+            stray_moc_path = kursplaner_dir(ic) / f"Stray {info['name']} MOC.md"
+            if stray_moc_path.exists():
+                stray_moc_path.unlink()
                 if not args.quiet:
-                    print(f"  ✓ {stray_moc_path.name}")
+                    print(f"  ✗ Tog bort {stray_moc_path.name}")
 
         # Institutions-MOC:ar (med utbildningsplaner)
         inst_programmes: dict[str, list[dict]] = {ic: [] for ic in INSTITUTIONS}

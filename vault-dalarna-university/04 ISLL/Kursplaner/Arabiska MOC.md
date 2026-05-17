@@ -9,9 +9,26 @@ up: "[[ISLL MOC]]"
 
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (27 st)
+## Kurser (13 st)
 
 - [[AAR29B]] — Interkulturella litteraturstudier: Magisterexamensarbete
+- [[AR2012]] — Arabiska: Kandidatexamensarbete
+- [[GAR2HR]] — Arabisk barnlitteratur
+- [[GAR2HS]] — Modern arabisk poesi
+- [[GAR2VU]] — Arabiska: Att skriva akademiskt
+- [[GAR34X]] — Arabiska I
+- [[GAR38K]] — Arabiska II
+- [[GAR38L]] — Arabiska III
+- [[GAR38M]] — Arabiska IV
+- [[GAR38N]] — Arabiska V
+- [[GAR39K]] — Modern arabisk ungdomslitteratur
+- [[GAR39L]] — Modern arabisk litteratur: social och politisk förändring
+- [[GAR39M]] — Ekokritik och miljöaspekter i arabisk litteratur
+
+## Vilande kursplaner (14 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
+
 - [[AR1003]] — Den moderna arabiska novellen
 - [[AR1004]] — Arabiska dialekter med inriktning på den Syriska
 - [[AR1007]] — Arabiska dialekter med inriktning på den syriska II
@@ -25,16 +42,4 @@ up: "[[ISLL MOC]]"
 - [[AR2009]] — Modern arabisk litteratur och sökandet efter frihet
 - [[AR2010]] — Arabiska: Avancerad grammatik
 - [[AR2011]] — Den arabiska akademiska kanon
-- [[AR2012]] — Arabiska: Kandidatexamensarbete
-- [[GAR2HR]] — Arabisk barnlitteratur
-- [[GAR2HS]] — Modern arabisk poesi
 - [[GAR2SQ]] — Modern arabisk litteratur
-- [[GAR2VU]] — Arabiska: Att skriva akademiskt
-- [[GAR34X]] — Arabiska I
-- [[GAR38K]] — Arabiska II
-- [[GAR38L]] — Arabiska III
-- [[GAR38M]] — Arabiska IV
-- [[GAR38N]] — Arabiska V
-- [[GAR39K]] — Modern arabisk ungdomslitteratur
-- [[GAR39L]] — Modern arabisk litteratur: social och politisk förändring
-- [[GAR39M]] — Ekokritik och miljöaspekter i arabisk litteratur

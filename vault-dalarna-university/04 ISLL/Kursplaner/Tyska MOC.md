@@ -9,25 +9,17 @@ up: "[[ISLL MOC]]"
 
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (45 st)
+## Kurser (35 st)
 
 - [[ATY255]] — Examensarbete i tyska för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 - [[ATY256]] — Examensarbete i tyska för ämneslärarexamen, inriktning gymnasieskolan
-- [[ATY29E]] — Interkulturella litteraturstudier: Masterexamensarbete med inriktning tyska
-- [[ATY2B7]] — Tyska: Språk, media och AI
 - [[ATY2B8]] — Tyska: identitet och genus i tyskspråkig litteratur
-- [[GTY23C]] — Tyskspråkig barn- och ungdomslitteratur
-- [[GTY2N3]] — Tyska: Språk och nya medier
-- [[GTY2N4]] — Tyskspråkig nutidslitteratur och litteraturkritik
 - [[GTY2N5]] — Tyska III med didaktisk inriktning
-- [[GTY2ST]] — Tyska: Tysk grammatik med textkommentar
 - [[GTY2SU]] — Tyska: Tysk grammatik
-- [[GTY2SV]] — Tyska: Tyskspråkig litteratur och litteraturdidaktik i teori och praktik
 - [[GTY2SW]] — Tyska: Modern tyskspråkig litteratur
 - [[GTY2SY]] — Tyska: Processkrivning
 - [[GTY2SZ]] — Tyska: Muntlig språkfärdighet med kulturkunskap I
 - [[GTY2W5]] — Tyska: Skriftlig språkfärdighet I
-- [[GTY32H]] — Tyska: Språkdidaktik II
 - [[GTY369]] — Tyska: Muntlig språkfärdighet med fonetik och kulturkunskap I
 - [[GTY3CT]] — Tyska I med didaktisk inriktning
 - [[GTY3CU]] — Tyska II med didaktisk inriktning
@@ -52,7 +44,20 @@ up: "[[ISLL MOC]]"
 - [[TY2007]] — Tyska: Examensarbete
 - [[TY2008]] — Tyska: Den moderna tyskspråkiga lingvistikens utveckling
 - [[TY3010]] — Tyska: Magisterexamensarbete
-- [[TY3012]] — Tyska: Språkvetenskapens historia
-- [[TY3013]] — Tyska: Modern kvinnolitteratur
 - [[TY3015]] — Tyska: Intertextualitet och intermedialitet i teori och praktik
 - [[TY3016]] — Tyska: Former och villkor för dramer och prosatexter
+
+## Vilande kursplaner (10 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
+
+- [[ATY29E]] — Interkulturella litteraturstudier: Masterexamensarbete med inriktning tyska
+- [[ATY2B7]] — Tyska: Språk, media och AI
+- [[GTY23C]] — Tyskspråkig barn- och ungdomslitteratur
+- [[GTY2N3]] — Tyska: Språk och nya medier
+- [[GTY2N4]] — Tyskspråkig nutidslitteratur och litteraturkritik
+- [[GTY2ST]] — Tyska: Tysk grammatik med textkommentar
+- [[GTY2SV]] — Tyska: Tyskspråkig litteratur och litteraturdidaktik i teori och praktik
+- [[GTY32H]] — Tyska: Språkdidaktik II
+- [[TY3012]] — Tyska: Språkvetenskapens historia
+- [[TY3013]] — Tyska: Modern kvinnolitteratur

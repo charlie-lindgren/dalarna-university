@@ -42,9 +42,11 @@ sys.path.insert(0, str(ROOT / "scripts"))
 from scrape_hda_kursplaner import (  # noqa: E402
     INSTITUTIONS,
     REQUEST_DELAY,
+    build_subject_moc,
     discover_subjects_for_institution,
     discover_courses_for_subject,
     fetch_page,
+    render_course_sections,
 )
 
 VAULT = ROOT / "vault-dalarna-university"
@@ -168,6 +170,101 @@ def list_vault_codes_per_subject() -> dict[str, dict[str, Path]]:
                 if COURSE_CODE_RE.match(stem):
                     result[subj_code][stem] = f
     return result
+
+
+def _course_is_vilande(text: str) -> bool:
+    parsed = parse_frontmatter(text)
+    if not parsed:
+        return False
+    fm, _, _ = parsed
+    tags = parse_list_field(fm.get("tags", ""))
+    css = parse_list_field(fm.get("cssclasses", ""))
+    return STATUS_VILANDE in tags or STATUS_VILANDE in css
+
+
+def _course_name(text: str) -> str:
+    parsed = parse_frontmatter(text)
+    if parsed:
+        name = parsed[0].get("kursnamn", "").strip().strip('"')
+        if name:
+            return name
+    return ""
+
+
+def rebuild_subject_mocs(apply: bool,
+                         only_institutions: set[str] | None = None) -> tuple[int, int]:
+    """Bygger om ämnes-MOC:arna från vaulten (utan nätverk).
+
+    Aktiva kurser listas först, vilande kursplaner i en egen sektion i
+    *samma* MOC. Eventuella föråldrade ``Stray … MOC.md`` tas bort så att
+    alla kursplaner utgår från en och samma ämnes-MOC.
+
+    Returnerar (antal ombyggda MOC:ar, antal borttagna Stray-MOC:ar).
+    """
+    rebuilt = 0
+    removed = 0
+    for inst_code in INST_DIR_NAME:
+        if only_institutions and inst_code not in only_institutions:
+            continue
+        kp = kursplaner_dir(inst_code)
+        if not kp.exists():
+            continue
+
+        # amne_kod -> kursmapp (underkataloger till Kursplaner/)
+        code_dirs = {d.name: d for d in kp.iterdir() if d.is_dir()}
+
+        for moc in sorted(kp.glob("* MOC.md")):
+            stem = moc.stem
+            if stem.startswith("Stray ") or stem.startswith("Ej Aktiv "):
+                continue
+            text = moc.read_text(encoding="utf-8")
+            parsed = parse_frontmatter(text)
+            if not parsed:
+                continue
+            fm, _, _ = parsed
+            tags = parse_list_field(fm.get("tags", ""))
+            subj_code = next((t for t in tags if t in code_dirs), None)
+            if not subj_code:
+                continue
+
+            courses: list[dict] = []
+            for cf in code_dirs[subj_code].glob("*.md"):
+                if "MOC" in cf.name:
+                    continue
+                ct = cf.read_text(encoding="utf-8")
+                courses.append({
+                    "code": cf.stem,
+                    "name": _course_name(ct) or cf.stem,
+                    "vilande": _course_is_vilande(ct),
+                })
+
+            sections = "\n".join(render_course_sections(courses)).rstrip("\n") + "\n"
+
+            idx = text.find("\n## ")
+            if idx == -1:
+                # Ingen kurssektion att ersätta — bygg hela filen på nytt.
+                new_text = build_subject_moc(
+                    {"name": stem[:-4], "code": subj_code,
+                     "institution": inst_code, "type": "subject"},
+                    courses,
+                )
+                if not new_text.endswith("\n"):
+                    new_text += "\n"
+            else:
+                new_text = text[:idx + 1] + sections
+
+            if new_text != text:
+                rebuilt += 1
+                if apply:
+                    moc.write_text(new_text, encoding="utf-8")
+
+        # Föråldrade Stray-MOC:ar bort.
+        for stray in sorted(kp.glob("Stray * MOC.md")):
+            removed += 1
+            if apply:
+                stray.unlink()
+
+    return rebuilt, removed
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -580,10 +677,26 @@ def main():
     parser.add_argument("--subject", "-s", action="append",
                         help="Begränsa till specifikt ämne (kod, t.ex. DTA).")
     parser.add_argument("--quiet", "-q", action="store_true")
+    parser.add_argument(
+        "--rebuild-mocs-only", action="store_true",
+        help="Bygg bara om ämnes-MOC:arna från vaulten (offline, inget "
+             "nätverk) och avsluta.",
+    )
     args = parser.parse_args()
 
     only_institutions = set(i.upper() for i in args.institution) if args.institution else None
     only_subjects = set(s.upper() for s in args.subject) if args.subject else None
+
+    if args.rebuild_mocs_only:
+        print(f"{BOLD}{CYAN}Bygger om ämnes-MOC:ar från vaulten (offline){RESET}")
+        if not args.apply:
+            print(f"  {YELLOW}DRY-RUN — inga filer skrivs{RESET}")
+        rebuilt, removed = rebuild_subject_mocs(args.apply, only_institutions)
+        print(f"  Ämnes-MOC:ar ombyggda:   {rebuilt}")
+        print(f"  Stray-MOC:ar borttagna:  {removed}")
+        if not args.apply and (rebuilt or removed):
+            print(f"\n  Kör igen med {BOLD}--apply{RESET} för att skriva ändringarna.")
+        return
 
     print(f"{BOLD}{CYAN}Identifiera kursstatus (aktiv/vilande){RESET}")
     if not args.apply:
@@ -665,9 +778,16 @@ def main():
     results = write_vilande_analysis(rows_by_inst, args.apply)
     any_md_changed = any(md for md, _ in results.values())
 
+    # Bygg om ämnes-MOC:arna så att de speglar den nya aktiv/vilande-
+    # klassificeringen (aktiva först, vilande i egen sektion) och ta bort
+    # eventuella föråldrade Stray-MOC:ar.
+    moc_rebuilt, stray_removed = rebuild_subject_mocs(args.apply, only_institutions)
+
     print(f"\n{BOLD}Sammanfattning{RESET}")
     print(f"  Vilande:             {total_vilande}")
     print(f"  Återaktiverade:      {total_reactivated}")
+    print(f"  Ämnes-MOC:ar ombyggda: {moc_rebuilt}")
+    print(f"  Stray-MOC:ar borttagna: {stray_removed}")
     print(f"  Vilande per institution:")
     for inst_code in INST_DIR_NAME:
         n_rows = len(rows_by_inst.get(inst_code, []))

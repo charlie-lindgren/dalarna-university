@@ -9,7 +9,26 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (57 st)
+## Kurser (14 st)
+
+- [[GLP29T]] — Musikproduktion i praktiken
+- [[GLP29U]] — Inspelning i studio för Musik- och ljuddesign
+- [[GLP2BQ]] — Medieproduktion som projektarbete
+- [[GLP2MU]] — Möten med skilda musikgenrer för Musik- och ljuddesign
+- [[GLP2NK]] — Konceptutveckling inom medieproduktion för Ljud- och musikproduktion
+- [[GLP2NL]] — Vetenskapsteori och metod i Ljud- och musikproduktion
+- [[GLP2NN]] — Kandidatexamensarbete i Ljud- och musikproduktion
+- [[GLP2QX]] — Möten med skilda musikgenrer
+- [[GLP2RK]] — Musikproduktionsanalys
+- [[GLP2WP]] — Projektarbete inom medieproduktion, fördjupningskurs
+- [[GLP32S]] — Arbetsplatsförlagd utbildning i medieproduktion
+- [[LP1032]] — Examensarbete för högskoleexamen i musik- och ljuddesign
+- [[LP1052]] — Ljudläggning till rörliga bilder
+- [[LP1053]] — Entreprenörskap för medieproducenter
+
+## Vilande kursplaner (43 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[GLP234]] — Audiovisuell gestaltning
 - [[GLP235]] — Audiovisuella installationer
@@ -19,12 +38,9 @@ up: "[[IKS MOC]]"
 - [[GLP23B]] — Audiovisuellt berättande
 - [[GLP29R]] — Audioteknologi 1
 - [[GLP29S]] — Ljudskapande till rörliga bilder
-- [[GLP29T]] — Musikproduktion i praktiken
-- [[GLP29U]] — Inspelning i studio för Musik- och ljuddesign
 - [[GLP29V]] — Musikproduktionsanalys
 - [[GLP29W]] — Möten med skilda musikgenrer för Musik- och ljuddesign
 - [[GLP29X]] — Inspelning i studio
-- [[GLP2BQ]] — Medieproduktion som projektarbete
 - [[GLP2CX]] — Musikskapande
 - [[GLP2FH]] — Introduktion till medieproduktion
 - [[GLP2FP]] — Ljudteori
@@ -32,29 +48,18 @@ up: "[[IKS MOC]]"
 - [[GLP2JZ]] — Audioteknologi 1
 - [[GLP2KH]] — Ljudskapande till rörliga bilder
 - [[GLP2MS]] — Kommunikationsteorier
-- [[GLP2MU]] — Möten med skilda musikgenrer för Musik- och ljuddesign
-- [[GLP2NK]] — Konceptutveckling inom medieproduktion för Ljud- och musikproduktion
-- [[GLP2NL]] — Vetenskapsteori och metod i Ljud- och musikproduktion
-- [[GLP2NN]] — Kandidatexamensarbete i Ljud- och musikproduktion
 - [[GLP2QC]] — Projektarbete inom medieproduktion, fördjupningskurs
 - [[GLP2QD]] — Arbetsplatsförlagd utbildning i medieproduktion
 - [[GLP2QU]] — Inspelning i studio
-- [[GLP2QX]] — Möten med skilda musikgenrer
-- [[GLP2RK]] — Musikproduktionsanalys
 - [[GLP2UG]] — Ljudskapande till rörliga bilder
 - [[GLP2VS]] — Arbetsplatsförlagd utbildning i medieproduktion
 - [[GLP2VT]] — Produktionsprocesser inom musikproduktion
 - [[GLP2WB]] — Liveljud och liveinspelning
 - [[GLP2WC]] — Projektarbete inom medieproduktion, fördjupningskurs
-- [[GLP2WP]] — Projektarbete inom medieproduktion, fördjupningskurs
-- [[GLP32S]] — Arbetsplatsförlagd utbildning i medieproduktion
 - [[GLP33C]] — Audiovisuell produktion för pedagogisk verksamhet
 - [[GLP359]] — Dansmusikhistoria och klubbkultur 1: DJ-kulturens utveckling 1970-2000
 - [[GLP3AH]] — Hårdrock och metal: musikproduktion, kultur och kreativa konventioner
 - [[GLP3AR]] — Ljud- och musikproduktion med Pro Tools
-- [[LP1032]] — Examensarbete för högskoleexamen i musik- och ljuddesign
-- [[LP1052]] — Ljudläggning till rörliga bilder
-- [[LP1053]] — Entreprenörskap för medieproducenter
 - [[LP1054]] — Kommunikationsteorier
 - [[LP1064]] — Liveljud och liveinspelning
 - [[LP1065]] — Vetenskaplig uppsats i Ljud- och musikproduktion

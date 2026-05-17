@@ -9,12 +9,68 @@ up: "[[IHV MOC]]"
 
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 
-## Kurser (156 st)
+## Kurser (55 st)
 
 - [[AIH237]] — Examensarbete i idrott och hälsa för ämneslärarexamen inriktning grundskolans årskurs 7-9
 - [[AIH24T]] — Examensarbete i idrott och hälsa för ämneslärarexamen inriktning gymnasieskolan
 - [[GIH24A]] — Medier och kommunikation inom hälsa och idrott
 - [[GIH2A6]] — Idrottspsykologi
+- [[GIH2LP]] — Tränarskap, idrott, friluftsliv och hälsa i samhället
+- [[GIH2WU]] — Fotbollstränare - inriktning senior- och elitförberedande ungdomsverksamhet
+- [[GIH2XY]] — Idrottsvetenskaplig uppsats
+- [[GIH2ZA]] — Vinterfriluftsliv genom skidor och skridskor (VAL)
+- [[GIH2ZC]] — Humanbiologi 1 (VAL)
+- [[GIH2ZD]] — Simning (VAL)
+- [[GIH2ZE]] — Bedömning och betygssättning i idrott och hälsa (VAL)
+- [[GIH32Z]] — Verksamhetsförlagt projekt inom tränarskap
+- [[GIH334]] — Sportjournalistik
+- [[GIH335]] — Entreprenörskap inom idrott och hälsa
+- [[GIH34S]] — Lek, dans samt mål- och nätspel (VAL)
+- [[GIH34U]] — Dans, gymnastik och friidrott (VAL)
+- [[GIH35T]] — Fördjupning inom idrottsvetenskap
+- [[GIH35U]] — Idrottsvetenskaplig metod
+- [[GIH35W]] — Examensarbete för kandidatexamen i idrotts- och hälsovetenskap
+- [[GIH37R]] — Idrott och hälsa II med didaktisk inriktning
+- [[GIH37S]] — Idrott och hälsa III med didaktisk inriktning
+- [[GIH38Y]] — Humanbiologi 2
+- [[GIH38Z]] — Lek, dans samt mål- och nätspel
+- [[GIH392]] — Friluftsliv i närmiljön: orientering, vandring, paddling
+- [[GIH393]] — Hälsopedagogik
+- [[GIH394]] — Idrotten i samhället
+- [[GIH395]] — Arbetsmiljö, ergonomi och näringslära
+- [[GIH39B]] — Mål- och nätspel
+- [[GIH39C]] — Rörelse, rytm och dans
+- [[GIH39D]] — Vinterfriluftsliv genom skidor och skridskor
+- [[GIH39E]] — Simning
+- [[GIH39F]] — Bedömning och betygssättning i idrott och hälsa
+- [[GIH39G]] — Dans, gymnastik och friidrott
+- [[GIH39H]] — Humanbiologi 1
+- [[GIH3AN]] — Idrott och hälsa I med didaktisk inriktning åk 4-6
+- [[GIH3AP]] — Idrott och hälsa I med didaktisk inriktning
+- [[GIH3C2]] — Journalistik: Sportreportage och sportkommentering
+- [[GIH3D4]] — Träningslära för tävlingsinriktad idrott
+- [[GIH3D5]] — Träningslära för hälsoinriktad fysisk aktivitet
+- [[GIH3F7]] — Idrottspedagogik
+- [[GIH3F9]] — Hållbart idrottsledarskap
+- [[GIH3FA]] — Coachning och idrottsdidaktik
+- [[GIH3FD]] — Träningslära
+- [[GIH3FF]] — Tillämpad Idrottsfysiologi
+- [[GIH3G4]] — Examensarbete för högskoleexamen i idrotts- och hälsovetenskap
+- [[GIH3G7]] — Prestationsanalys och träningsplanering
+- [[GIH3GB]] — Introduktion till vetenskapligt skrivande och forskningsmetodik
+- [[GIH3GD]] — Idrottspsykologi med praktisk tillämpning
+- [[GIH3GE]] — Idrottens organisation i samhället
+- [[GIH3GF]] — Medier och kommunikation inom idrott
+- [[GIH3GG]] — Idrottens funktionella anatomi och biomekanik
+- [[GIH3GH]] — Åldersanpassad träning
+- [[GIH3GJ]] — Tillämpad motorisk färdighetsträning
+- [[GIH3GK]] — Idrottsmedicin
+- [[IH1082]] — Journalistik och skriftlig PR inom idrottsområdet
+
+## Vilande kursplaner (101 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
+
 - [[GIH2D4]] — Grundläggande judohistoria, judo i samhället och judodidaktik
 - [[GIH2D5]] — Grundläggande styrkelyftsdidaktik
 - [[GIH2D6]] — Grundläggande fysiologi och tillämpad idrottsfysiologi (Judo)
@@ -26,7 +82,6 @@ up: "[[IHV MOC]]"
 - [[GIH2DD]] — Funktionell anatomi (Judo)
 - [[GIH2DE]] — Funktionell anatomi (Styrkelyft)
 - [[GIH2G4]] — Tillämpad rörelse- och prestationsanalys
-- [[GIH2LP]] — Tränarskap, idrott, friluftsliv och hälsa i samhället
 - [[GIH2LT]] — Idrottspedagogik (judo)
 - [[GIH2LU]] — Idrottspedagogik (styrkelyft)
 - [[GIH2LV]] — Tränings- och tävlingslära (judo)
@@ -44,87 +99,38 @@ up: "[[IHV MOC]]"
 - [[GIH2VJ]] — Idrottsmedicin
 - [[GIH2VK]] — Grundläggande upplevelseproduktion
 - [[GIH2WT]] — Fotbollstränare - inriktning barn och ungdom (6-15 år)
-- [[GIH2WU]] — Fotbollstränare - inriktning senior- och elitförberedande ungdomsverksamhet
 - [[GIH2WX]] — Idrotten i samhället (VAL)
 - [[GIH2WY]] — Friluftsliv i närmiljön: orientering, vandring, paddling (VAL)
 - [[GIH2X3]] — Träningslära för tävlingsinriktad idrott
-- [[GIH2XY]] — Idrottsvetenskaplig uppsats
-- [[GIH2ZA]] — Vinterfriluftsliv genom skidor och skridskor (VAL)
 - [[GIH2ZB]] — Hälsopedagogik (VAL)
-- [[GIH2ZC]] — Humanbiologi 1 (VAL)
-- [[GIH2ZD]] — Simning (VAL)
-- [[GIH2ZE]] — Bedömning och betygssättning i idrott och hälsa (VAL)
-- [[GIH32Z]] — Verksamhetsförlagt projekt inom tränarskap
-- [[GIH334]] — Sportjournalistik
-- [[GIH335]] — Entreprenörskap inom idrott och hälsa
 - [[GIH33J]] — Grundläggande fysiologi och tillämpad idrottsfysiologi (Klättring)
 - [[GIH33K]] — Funktionell anatomi (Klättring)
 - [[GIH33P]] — Biomekanik (Klättring)
 - [[GIH34D]] — Kvalitativ och kvantitativ vetenskaplig metod
-- [[GIH34S]] — Lek, dans samt mål- och nätspel (VAL)
 - [[GIH34T]] — Humanbiologi 2 (VAL)
-- [[GIH34U]] — Dans, gymnastik och friidrott (VAL)
 - [[GIH34V]] — Arbetsmiljö, ergonomi och näringslära (VAL)
 - [[GIH35B]] — Examensarbete för kandidatexamen i idrotts- och hälsovetenskap
 - [[GIH35P]] — Träningslära: styrkelyft för öppen klass och veteraner
-- [[GIH35T]] — Fördjupning inom idrottsvetenskap
-- [[GIH35U]] — Idrottsvetenskaplig metod
 - [[GIH35V]] — Idrottens träningslära
-- [[GIH35W]] — Examensarbete för kandidatexamen i idrotts- och hälsovetenskap
 - [[GIH35Z]] — Medier och kommunikation inom hälsa och idrott
 - [[GIH37B]] — Mål- och nätspel (VAL)
 - [[GIH37C]] — Rörelse, rytm och dans (VAL)
 - [[GIH37N]] — Friluftsliv och bedömning i ämnet idrott och hälsa
 - [[GIH37P]] — Idrott och hälsa I med didaktisk inriktning åk 4-6
 - [[GIH37Q]] — Idrott och hälsa I med didaktisk inriktning
-- [[GIH37R]] — Idrott och hälsa II med didaktisk inriktning
-- [[GIH37S]] — Idrott och hälsa III med didaktisk inriktning
-- [[GIH38Y]] — Humanbiologi 2
-- [[GIH38Z]] — Lek, dans samt mål- och nätspel
-- [[GIH392]] — Friluftsliv i närmiljön: orientering, vandring, paddling
-- [[GIH393]] — Hälsopedagogik
-- [[GIH394]] — Idrotten i samhället
-- [[GIH395]] — Arbetsmiljö, ergonomi och näringslära
-- [[GIH39B]] — Mål- och nätspel
-- [[GIH39C]] — Rörelse, rytm och dans
-- [[GIH39D]] — Vinterfriluftsliv genom skidor och skridskor
-- [[GIH39E]] — Simning
-- [[GIH39F]] — Bedömning och betygssättning i idrott och hälsa
-- [[GIH39G]] — Dans, gymnastik och friidrott
-- [[GIH39H]] — Humanbiologi 1
 - [[GIH3AM]] — Klättringens tränarskap
-- [[GIH3AN]] — Idrott och hälsa I med didaktisk inriktning åk 4-6
-- [[GIH3AP]] — Idrott och hälsa I med didaktisk inriktning
 - [[GIH3AQ]] — Styrketräningens teori och praktiska tillämpning
-- [[GIH3C2]] — Journalistik: Sportreportage och sportkommentering
 - [[GIH3CS]] — Grundläggande idrottsfysiologi
-- [[GIH3D4]] — Träningslära för tävlingsinriktad idrott
-- [[GIH3D5]] — Träningslära för hälsoinriktad fysisk aktivitet
 - [[GIH3D6]] — Näringslära med inriktning mot idrott och fysisk aktivitet
 - [[GIH3F4]] — Idrottspsykologi med praktisk tillämpning
 - [[GIH3F5]] — Idrottens organisation i samhället
-- [[GIH3F7]] — Idrottspedagogik
 - [[GIH3F8]] — Idrottens funktionella anatomi och biomekanik
-- [[GIH3F9]] — Hållbart idrottsledarskap
-- [[GIH3FA]] — Coachning och idrottsdidaktik
-- [[GIH3FD]] — Träningslära
-- [[GIH3FF]] — Tillämpad Idrottsfysiologi
-- [[GIH3G4]] — Examensarbete för högskoleexamen i idrotts- och hälsovetenskap
 - [[GIH3G5]] — Idrottsvetenskaplig metod
 - [[GIH3G6]] — Idrottsvetenskaplig fördjupning
-- [[GIH3G7]] — Prestationsanalys och träningsplanering
 - [[GIH3G8]] — Coachning och träningsprocesser i praktiken
 - [[GIH3G9]] — Entreprenörskap inom idrott och hälsa
 - [[GIH3GA]] — Examensarbete för kandidatexamen i idrotts- och hälsovetenskap
-- [[GIH3GB]] — Introduktion till vetenskapligt skrivande och forskningsmetodik
 - [[GIH3GC]] — Idrottsnutrition
-- [[GIH3GD]] — Idrottspsykologi med praktisk tillämpning
-- [[GIH3GE]] — Idrottens organisation i samhället
-- [[GIH3GF]] — Medier och kommunikation inom idrott
-- [[GIH3GG]] — Idrottens funktionella anatomi och biomekanik
-- [[GIH3GH]] — Åldersanpassad träning
-- [[GIH3GJ]] — Tillämpad motorisk färdighetsträning
-- [[GIH3GK]] — Idrottsmedicin
 - [[GIH3JL]] — Tillämpad idrottsfysiologi
 - [[IH1001]] — Idrott I
 - [[IH1002]] — Idrott II
@@ -146,7 +152,6 @@ up: "[[IHV MOC]]"
 - [[IH1026]] — Idrottsmedicin för idrottare
 - [[IH1029]] — Idrott och hälsa på 2000-talet
 - [[IH1062]] — Fysisk aktivitet och hälsobefrämjande personlig träning II
-- [[IH1082]] — Journalistik och skriftlig PR inom idrottsområdet
 - [[IH1095]] — Innovation och entreprenörskap inom idrott och hälsa - idé- och konceptvärdering
 - [[IH1096]] — Innovation och entreprenörskap inom idrott och hälsa - affärsmodell
 - [[IH1097]] — Innovation och entreprenörskap inom idrott och hälsa - nätverk och partnerskap

@@ -9,13 +9,18 @@ up: "[[IHV MOC]]"
 
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 
-## Kurser (18 st)
+## Kurser (3 st)
 
-- [[AVV26K]] — Säker hälso- och sjukvård samt vård och omsorg - komplexa system och förbättringskunskap
-- [[AVV26M]] — Implementering av nya arbetssätt i hälso- och sjukvården och socialtjänstens områden
 - [[AVV2A6]] — Säker hälso- och sjukvård samt omsorg - komplexa system och förbättringskunskap
 - [[GVV3JJ]] — Människokroppen och funktionsnedsättningar
 - [[GVV3JK]] — Mätmetoder för tillämpningar inom assisterande teknik
+
+## Vilande kursplaner (15 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
+
+- [[AVV26K]] — Säker hälso- och sjukvård samt vård och omsorg - komplexa system och förbättringskunskap
+- [[AVV26M]] — Implementering av nya arbetssätt i hälso- och sjukvården och socialtjänstens områden
 - [[VV2001]] — Handledarutbildning för barnmorskor
 - [[VV2002]] — Samverkan inom kommunal äldreomsorg inriktning vård
 - [[VV3003]] — Examensarbete i Vårdvetenskap

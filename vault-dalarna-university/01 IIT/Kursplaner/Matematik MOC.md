@@ -9,7 +9,7 @@ up: "[[IIT MOC]]"
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
 
-## Kurser (9 st)
+## Kurser (7 st)
 
 - [[GMA28W]] — Linjär algebra
 - [[GMA2EY]] — Byggmatematik
@@ -18,5 +18,10 @@ up: "[[IIT MOC]]"
 - [[GMA33Z]] — Matematik för tekniker
 - [[MA0011]] — Matematik 3c
 - [[MA0013]] — Matematik 4
+
+## Vilande kursplaner (2 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
+
 - [[MA1040]] — Matematik för tekniker
 - [[MA1042]] — Flervariabelanalys
