@@ -414,6 +414,39 @@ def _count_outcomes(section: str) -> int:
     return count
 
 
+def check_lo_bullets(files: list[Path]) -> list[dict]:
+    """Flagga kursplaner där lärandemål är skrivna i löpande text istället
+    för punktlista. Rapporteras separat per språksida — kvarstår även när
+    antalet mål är i paritet, eftersom punktlistformen är en strukturell
+    konvention som efterfrågas oberoende av översättningens antal."""
+    findings = []
+    for p in files:
+        body = strip_frontmatter(p.read_text(encoding="utf-8"))
+        sv_lo = extract_section(body, "Lärandemål")
+        if sv_lo and not LO_BULLET_RE.search(sv_lo):
+            n = _count_outcomes(sv_lo)
+            if n > 0:
+                findings.append({
+                    "check": "lo-saknar-bullets-sv",
+                    "code": course_code(p),
+                    "subj": subject(p),
+                    "detail": f"Lärandemål skrivet som löpande text ({n} mål utan punktlista)",
+                })
+        m = EN_LO_RE.search(body)
+        if m:
+            en_lo = m.group(1)
+            if en_lo and not LO_BULLET_RE.search(en_lo):
+                n = _count_outcomes(en_lo)
+                if n > 0:
+                    findings.append({
+                        "check": "lo-saknar-bullets-en",
+                        "code": course_code(p),
+                        "subj": subject(p),
+                        "detail": f"Learning Outcomes skrivet som löpande text ({n} mål utan punktlista)",
+                    })
+    return findings
+
+
 def check_sv_en_parity(files: list[Path]) -> list[dict]:
     findings = []
     for p in files:
@@ -460,6 +493,8 @@ CHECK_LABELS = {
     "bloom-hög-grund":       "Bloom-nivå hög (grundkurs)",
     "bloom-okant-verb":      "Bloom okänt verb",
     "sv-en-paritet":         "Paritetsskillnad sv/en",
+    "lo-saknar-bullets-sv":  "Lärandemål saknar punktlista (sv)",
+    "lo-saknar-bullets-en":  "Lärandemål saknar punktlista (en)",
 }
 
 
@@ -486,6 +521,7 @@ def main():
         ("Långa bullets",            check_long_bullets),
         ("Bloom-taxonomi",           check_bloom),
         ("Paritet sv/en",            check_sv_en_parity),
+        ("Lärandemål-punktlista",    check_lo_bullets),
     ]
 
     if not args.skip_hunspell:

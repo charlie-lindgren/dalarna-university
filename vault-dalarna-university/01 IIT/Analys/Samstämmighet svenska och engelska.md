@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (129 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (141 rader)</span></a>
 
-> [!example]- 129 fynd — klicka för att expandera
+> [!example]- 141 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -77,13 +77,17 @@ status: första pass
 > | [MA1040](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MA1040) | MAA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [MA1042](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MA1042) | MAA | Paritetsskillnad | Svenska: 10 mål, engelska: 0 mål (diff 10) |
 > | [AMD238](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMD238) | MDI | Paritetsskillnad | Svenska: 17 mål, engelska: 2 mål (diff 15) |
+> | [AMD238](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMD238) | MDI | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
 > | [AMD239](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMD239) | MDI | Paritetsskillnad | Svenska: 17 mål, engelska: 2 mål (diff 15) |
+> | [AMD239](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMD239) | MDI | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
 > | [GMD2AR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2AR) | MDI | Paritetsskillnad | Svenska: 28 mål, engelska: 1 mål (diff 27) |
+> | [GMD2AR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2AR) | MDI | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
 > | [GMD2BH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2BH) | MDI | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [GMD2EX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2EX) | MDI | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
 > | [GMD2GF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2GF) | MDI | Paritetsskillnad | Svenska: 24 mål, engelska: 1 mål (diff 23) |
 > | [GMD2GG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2GG) | MDI | Paritetsskillnad | Svenska: 24 mål, engelska: 1 mål (diff 23) |
 > | [GMD2GU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2GU) | MDI | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | [GMD2H3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2H3) | MDI | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (8 mål utan punktlista) |
 > | [GMD2H5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2H5) | MDI | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
 > | [GMD2HE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2HE) | MDI | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
 > | [GMD2HF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2HF) | MDI | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
@@ -92,12 +96,17 @@ status: första pass
 > | [GMD2HJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2HJ) | MDI | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
 > | [GMD2HK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2HK) | MDI | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
 > | [GMD2MH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2MH) | MDI | Paritetsskillnad | Svenska: 10 mål, engelska: 8 mål (diff 2) |
+> | [GMD2MH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2MH) | MDI | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (8 mål utan punktlista) |
 > | [GMD2MJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2MJ) | MDI | Paritetsskillnad | Svenska: 10 mål, engelska: 0 mål (diff 10) |
 > | [GMD2PA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2PA) | MDI | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [GMD2TV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2TV) | MDI | Paritetsskillnad | Svenska: 32 mål, engelska: 2 mål (diff 30) |
+> | [GMD2TV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2TV) | MDI | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
 > | [GMD2XQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2XQ) | MDI | Paritetsskillnad | Svenska: 77 mål, engelska: 2 mål (diff 75) |
+> | [GMD2XQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2XQ) | MDI | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
 > | [GMD33X](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD33X) | MDI | Paritetsskillnad | Svenska: 45 mål, engelska: 7 mål (diff 38) |
+> | [GMD33X](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD33X) | MDI | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (7 mål utan punktlista) |
 > | [GMD33Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD33Y) | MDI | Paritetsskillnad | Svenska: 77 mål, engelska: 2 mål (diff 75) |
+> | [GMD33Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD33Y) | MDI | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
 > | [GMD3FX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD3FX) | MDI | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
 > | [GMD3GZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD3GZ) | MDI | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [MD1085](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD1085) | MDI | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
@@ -115,10 +124,12 @@ status: första pass
 > | [GMT34W](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34W) | MTA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [GMT3BW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3BW) | MTA | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
 > | [GMT3JZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JZ) | MTA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | [MT1033](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT1033) | MTA | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
 > | [MT1060](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT1060) | MTA | Paritetsskillnad | Svenska: 10 mål, engelska: 9 mål (diff 1) |
 > | [MT1068](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT1068) | MTA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [MT1074](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT1074) | MTA | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
 > | [MT2006](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT2006) | MTA | Paritetsskillnad | Svenska: 3 mål, engelska: 1 mål (diff 2) |
+> | [MT2006](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT2006) | MTA | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
 > | [BEG222](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BEG222) | MÖY | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
 > | [GEG2JP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2JP) | MÖY | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
 > | [GEG2UE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2UE) | MÖY | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
@@ -141,22 +152,26 @@ status: första pass
 > | [SQ1003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SQ1003) | SQQ | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [GST2CL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GST2CL) | STA | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
 > | [ST1013](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ST1013) | STA | Paritetsskillnad | Svenska: 8 mål, engelska: 1 mål (diff 7) |
+> | [ST1013](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ST1013) | STA | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
 > | [GMI24H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI24H) | XYZ | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
 > | [GMI2C8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI2C8) | XYZ | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
 
 ## Syfte
 
-Kursplaner med både svensk och engelsk version bör ha **samma antal lärandemål och samma struktur** i båda språken. När en översättning saknar lärandemål eller utökar med fler riskerar de att avvika i sak — vilket är ett formellt problem för internationella studenter.
+Kursplaner med både svensk och engelsk version bör ha **samma antal lärandemål och samma struktur** i båda språken. När en översättning saknar lärandemål eller utökar med fler riskerar de att avvika i sak — vilket är ett formellt problem för internationella studenter. Lärandemålen bör också presenteras som **punktlista** på båda språken; löpande text gör målen svårare att avgränsa och granska.
 
 ## Metod
 
-Antalet punkter i sektionen `Lärandemål` jämförs med antalet i `Learning Outcomes`. Varje kursplan där antalet skiljer sig (med minst en) flaggas. Antalet lärandemål ska vara identiskt mellan språken.
+Två kontroller körs per kursplan med både svensk och engelsk version:
+
+1. **Paritet i antal mål.** Antalet lärandemål i sektionen `Lärandemål` jämförs med antalet i `Learning Outcomes`. Antalet ska vara identiskt; varje skillnad ≥ 1 flaggas. Räkningen baseras i första hand på punktlistor (`-`/`*`); saknas punktlista räknas i stället stycken som inte är introfraser (rader som slutar med `:`), så att löpande text inte felaktigt rapporteras som *0 mål*.
+2. **Punktlistform.** Lärandemålssektioner som har innehåll men saknar punktlista flaggas separat per språksida (`Saknar punktlista (sv)` / `Saknar punktlista (en)`) — även när paritet i antal råder.
 
 **Begränsningar:**
 
-- Endast antalsjämförelse. Översättningens **kvalitet** (terminologi, stilistik, exakthet) kan inte mätas automatiskt.
+- Endast antals- och strukturjämförelse. Översättningens **kvalitet** (terminologi, stilistik, exakthet) kan inte mätas automatiskt.
 - Om ett språk har sammanslagna punkter (*"a, b, samt c"* i en punkt) medan det andra har separata, flaggas det fastän sak-innehållet är detsamma.
-- Kursplaner som saknar engelsk version helt utelämnas (legitimt — inte alla kurser ges på engelska).
+- Kursplaner som saknar engelsk version helt utelämnas (legitimt — inte alla kurser ges på engelska). Saknas däremot bara `### Learning Outcomes`-rubriken inom engelska versionen räknas engelska som 0 mål och paritetsbrottet flaggas.
 
 Listan ska användas som diskussionsunderlag. Slutbedömningen kräver att en granskare läser båda versionerna parallellt.
 

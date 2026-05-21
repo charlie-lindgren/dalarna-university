@@ -103,6 +103,8 @@ ANALYS_FILES: dict[str, dict[str, str]] = {
     },
     "Samstämmighet svenska och engelska.md": {
         "Paritetsskillnad sv/en": "Paritetsskillnad",
+        "Lärandemål saknar punktlista (sv)": "Saknar punktlista (sv)",
+        "Lärandemål saknar punktlista (en)": "Saknar punktlista (en)",
     },
 }
 
