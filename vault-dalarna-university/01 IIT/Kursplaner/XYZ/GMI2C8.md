@@ -9,7 +9,7 @@ amne: "Mikrodataanalys"
 amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
-scrape_hash: 99424ba0f1d0c958
+scrape_hash: 6580e1fae8696816
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI2C8
 up: "[[Mikrodataanalys MOC]]"
 ---
@@ -97,4 +97,4 @@ The Swedish grades U–VG.
 
 ### Prerequisites
 
-- 150 credits whereof at least 60 credits in the main field of subject Microdata Analysis, including the course Research Mathodology 7.5 credtis
+- 150 credits whereof at least 60 credits in the main field of subject Microdata Analysis, including the course Research Methodology 7.5 credits

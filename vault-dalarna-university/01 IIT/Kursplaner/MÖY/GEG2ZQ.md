@@ -10,7 +10,7 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 995f7724096014da
+scrape_hash: 27157afed85f13eb
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZQ
 up: "[[Energiteknik MOC]]"
 ---
@@ -42,7 +42,7 @@ Efter godkänd kurs ska studenten kunna:
 
 ## Innehåll
 
-Kursen behandlar solstrålningens potential och fördelning över tid och beroende på det geografiska läget. Kursen innehåller en introduktion till solvärme och solvärmesystem men fokuserar mest på  nätanslutna eller fristående solcellsanläggingar. Anläggningars komponenter och uppbyggnad gås igenom. Manuell dimensionering och dimensionering med hjälp av beräkningsverktyg är viktiga delar av kursen.
+Kursen behandlar solstrålningens potential och fördelning över tid och beroende på det geografiska läget. Kursen innehåller en introduktion till solvärme och solvärmesystem men fokuserar mest på  nätanslutna eller fristående solcellsanläggningar. Anläggningars komponenter och uppbyggnad gås igenom. Manuell dimensionering och dimensionering med hjälp av beräkningsverktyg är viktiga delar av kursen.
 
 ## Examinationsformer
 

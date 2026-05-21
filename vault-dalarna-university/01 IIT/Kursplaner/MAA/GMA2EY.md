@@ -8,7 +8,7 @@ amne: "Matematik"
 amne_kod: "MAA"
 institution: "IIT"
 tags: [kursplan, MAA, IIT]
-scrape_hash: 92de7d96efec99be
+scrape_hash: 83fd69a32c128f2c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2EY
 up: "[[Matematik MOC]]"
 ---
@@ -99,7 +99,7 @@ After the course is finished the student will be able to:
 
 ### Course Content
 
-The course starts with operations on different forms of numbers like decimal numbers, fractions, square roots and indicies. Especially, rounding up, significant figures and estimates, as well as the concepts: percentage, per thousand and parts-per-million are treated. Units, symbols and scales commonly used in architectonic applications are introduced.The second part of the course is focussed on elementary algebra: equations and formulae transposition, _geometry:_ uniformity, angles, calculations of triangles, circles and area- and volume calculations. The course ends by treating simple functions and elementary statistical concepts.
+The course starts with operations on different forms of numbers like decimal numbers, fractions, square roots and indices. Especially, rounding up, significant figures and estimates, as well as the concepts: percentage, per thousand and parts-per-million are treated. Units, symbols and scales commonly used in architectonic applications are introduced.The second part of the course is focussed on elementary algebra: equations and formulae transposition, _geometry:_ uniformity, angles, calculations of triangles, circles and area- and volume calculations. The course ends by treating simple functions and elementary statistical concepts.
 
 ### Assessment
 

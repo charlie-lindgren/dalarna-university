@@ -95,7 +95,6 @@ KNOWN_TYPOS = {
     r"avstämmning": "avstämning",
     r"jämviktsystem": "jämviktssystem",
     r"solcellsanläggingar": "solcellsanläggningar",
-    r"respirationsystem": "respirationssystem",
 }
 
 KNOWN_TYPOS_EN = {
@@ -181,6 +180,8 @@ SV_IGNORE = {
     "mdu","bth","gih","gu","su","liu","lth","fup","inkl","dvs","exkl","osv",
     "etc","bl","ca","resp","mfl","pga","tex",
     "samhälls","stjärn","räkne",
+    # Tvärinstitutionella ord och sammansättningsstammar
+    "lärar","respirationsystem","idrottsläramoment","sjuksköterske",
     "knäckkrafter","släntstabilitet","skärkrafter","skärparametrar","skärzonen",
     "tryckfallsberäkningar","värmekomfortbedömningar","byggnadsskalslösningar",
     "utförandeskedet","samhällsplanerarbranschen","kulturmiljövärden",
@@ -259,6 +260,18 @@ def check_hunspell_sv(files: list[Path]) -> list[dict]:
         capture_output=True, text=True,
     )
     unknown = {w.strip() for w in proc.stdout.splitlines() if w.strip()}
+    # Korsspråkskontroll: ord som är okända i sv men giltiga i en betraktas
+    # som lånord från engelska och flaggas inte.
+    if unknown:
+        env_en = os.environ.copy()
+        env_en["DICPATH"] = DICPATH
+        proc_en = subprocess.run(
+            ["hunspell", "-d", "en_US", "-i", "UTF-8", "-l"],
+            input="\n".join(sorted(unknown)),
+            capture_output=True, text=True, env=env_en,
+        )
+        unknown_in_en = {w.strip() for w in proc_en.stdout.splitlines() if w.strip()}
+        unknown &= unknown_in_en
     rare = {w for w in unknown if len(word_to_files[w]) < 4}
 
     findings = []
@@ -292,6 +305,7 @@ EN_IGNORE = {
     "ie","etc","vs","fig","no","nr","pp","ed","eds","vol","ch",
     "bloom","biggs","bologna","nordic","swedish",
     "kursplan","lärandemål","examinator","tentamen",
+    "intrapreneur","dietician","artefacts",
     "organise","organised","organising","organisation","organisations",
     "recognise","recognised","recognising","recognisable",
     "analyse","analysed","analysing","characterise","characterised",
@@ -433,6 +447,12 @@ EN_IGNORE = {
 }
 
 
+GRADES_SECTION_RE = re.compile(
+    r"^###\s*Grades\s*\n.*?(?=^###\s|^##\s|\Z)",
+    re.MULTILINE | re.DOTALL,
+)
+
+
 def check_hunspell_en(files: list[Path]) -> list[dict]:
     word_to_files: dict[str, set[Path]] = defaultdict(set)
     for p in files:
@@ -440,7 +460,8 @@ def check_hunspell_en(files: list[Path]) -> list[dict]:
         m = re.search(r"\n## English Version\s*\n(.+)", raw, re.DOTALL)
         if not m:
             continue
-        txt = remove_markdown(m.group(1))
+        en_text = GRADES_SECTION_RE.sub("", m.group(1))
+        txt = remove_markdown(en_text)
         for w in re.findall(r"\b[a-zA-Z\-]{3,}\b", txt):
             lw = w.lower().strip("-")
             if lw not in EN_IGNORE and not w.isupper():
