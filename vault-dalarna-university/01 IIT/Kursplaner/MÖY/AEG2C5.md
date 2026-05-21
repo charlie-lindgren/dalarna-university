@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: b1f503c9cd1d7c07
+scrape_hash: eca071018584303a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2C5
 up: "[[Energiteknik MOC]]"
 ---
@@ -97,4 +97,4 @@ The grading scale used for the final course grade is U, 3, 4, 5.
 Grades are reported as follows:
 
   - Written exam - 4 Credits | U, 3, 4, 5
-  - Laboatory report - 1 Credit | U–G
+  - Laboratory report - 1 Credit | U–G

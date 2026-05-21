@@ -10,7 +10,7 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: cbcdcd9ddb1d863e
+scrape_hash: 995f7724096014da
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZQ
 up: "[[Energiteknik MOC]]"
 ---
@@ -56,7 +56,7 @@ Som betygsskala på hel kurs används U–G.
 
 Betyg rapporteras enligt följande:
 
-  - Inlämninguppgifter - 5 hp | U–G
+  - Inlämningsuppgifter - 5 hp | U–G
   - Projekt - 2,5 hp | U–G
 
 ## Övrigt

@@ -8,13 +8,12 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (17 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (16 rader)</span></a>
 
-> [!example]- 17 fynd — klicka för att expandera
+> [!example]- 16 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
-> | [IK1064](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IK1064) | IKA | Paritetsskillnad | Svenska: 12 mål, engelska: 0 mål (diff 12) |
 > | [AMD238](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMD238) | MDI | Paritetsskillnad | Svenska: 17 mål, engelska: 0 mål (diff 17) |
 > | [AMD239](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMD239) | MDI | Paritetsskillnad | Svenska: 17 mål, engelska: 0 mål (diff 17) |
 > | [GMD2AR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2AR) | MDI | Paritetsskillnad | Svenska: 28 mål, engelska: 0 mål (diff 28) |

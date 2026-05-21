@@ -84,7 +84,7 @@ status: första pass
 > | [MD2025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2025) | MDI | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [MD2026](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2026) | MDI | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [GMT228](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT228) | MTA | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
-> | [GMT25Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT25Z) | MTA | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | [GMT25Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT25Z) | MTA | Avviker från referensformen | Efter godkänd kurs ska studenten kunna:… |
 > | [GMT2QF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT2QF) | MTA | Avviker från referensformen | Efter avslutad kurs skall studenten kunna:… |
 > | [GMT2WL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT2WL) | MTA | Avviker från referensformen | Efter avslutad kurs skall studenten kunna:… |
 > | [MT1060](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT1060) | MTA | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |

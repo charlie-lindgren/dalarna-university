@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: 8c8859f8cce6edb4
+scrape_hash: e6c5e9b7fa206f23
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZR
 up: "[[Energiteknik MOC]]"
 ---
@@ -65,7 +65,7 @@ Som betygsskala på hel kurs används U–G.
 
 Betyg rapporteras enligt följande:
 
-  - Inlämingsuppgifter - 1,0 hp | U–G
+  - Inlämningsuppgifter - 1,0 hp | U–G
   - Seminarier - 1,5 hp | U–G
   - Salstentamen - 2,0 hp | U–G
 

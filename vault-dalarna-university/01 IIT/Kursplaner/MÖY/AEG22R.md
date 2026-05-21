@@ -10,7 +10,7 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: ee08c13ff1459aff
+scrape_hash: 28d923342ee96661
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG22R
 up: "[[Energiteknik MOC]]"
 ---
@@ -31,13 +31,17 @@ up: "[[Energiteknik MOC]]"
 ## Lärandemål
 
 Efter avslutad kurs, ska studenten kunna:
- 
- 
-  - Redogöra för grundläggande elteknik, termodynamik och mättteknik som krävs för solenergisystem
-  - Planera, utveckla, bygga och testa ett solenergisystem  
-  - Tillämpa grundläggande ingenjörskunskap och solenergikunskap på ett kritiskt och systematiskt sätt 
+
+  - Redogöra för grundläggande elteknik, termodynamik och mätteknik som krävs för solenergisystem
+
+  - Planera, utveckla, bygga och testa ett solenergisystem 
+
+  - Tillämpa grundläggande ingenjörskunskap och solenergikunskap på ett kritiskt och systematiskt sätt
+
   - Kommunicera ingenjörsarbete genom att presentera projektresultaten muntligt och skriftligt 
+
   - Reflektera över sociala aspekter vid införandet av solenergisystem
+
   - Kritiskt utvärdera projekts arbetsresultat
 
 ## Innehåll

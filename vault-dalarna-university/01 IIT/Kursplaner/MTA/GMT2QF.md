@@ -10,7 +10,7 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 9f9537034f97c938
+scrape_hash: 35742832c1934126
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT2QF
 up: "[[Maskinteknik MOC]]"
 ---
@@ -83,7 +83,7 @@ After completing the course, students will be able to:
 
   - use boundary conditions in a correct way to create an efficient FEM model
 
-  - account for possible sources of error, and the importance of the verification of reults through estimate calculations and measurements
+  - account for possible sources of error, and the importance of the verification of results through estimate calculations and measurements
 
   - interpret and present the results in a competent manner
 

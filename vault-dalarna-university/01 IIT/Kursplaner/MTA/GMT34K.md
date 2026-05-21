@@ -9,7 +9,7 @@ amne: "Maskinteknik"
 amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT]
-scrape_hash: 23dd7787b8b5ebe1
+scrape_hash: c436af8e79120946
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34K
 up: "[[Maskinteknik MOC]]"
 ---
@@ -75,7 +75,7 @@ The grading scale used for the final course grade is U, 3, 4, 5.
 Grades are reported as follows:
 
   - Written exam - 2.5 Credits | U, 3, 4, 5
-  - Laboratory Work: Robot programing - 5 Credits | U–G
+  - Laboratory Work: Robot programming - 5 Credits | U–G
 
 ### Prerequisites
 

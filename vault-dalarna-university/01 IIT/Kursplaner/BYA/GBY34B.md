@@ -10,7 +10,7 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 0d7a330db32592fe
+scrape_hash: a58981eba4f1a4d7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY34B
 up: "[[Byggteknik MOC]]"
 ---
@@ -36,7 +36,7 @@ Efter godkänd kurs ska studenten kunna:
 
   - redogöra för olika övergripande mål för väghållningen
 
-  - översiktlig beskriva olika vägprojekteringshjälpmedel och kunna använda dessa i enkla tillämningar
+  - översiktlig beskriva olika vägprojekteringshjälpmedel och använda dessa i enkla tillämpningar
 
   - redogöra översiktligt för nationella regelverk och riktlinjer för planering och projektering
 

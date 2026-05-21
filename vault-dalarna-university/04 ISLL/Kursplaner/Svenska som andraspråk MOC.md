@@ -9,7 +9,7 @@ up: "[[ISLL MOC]]"
 
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (39 st)
+## Kurser (38 st)
 
 - [[ASS257]] — Examensarbete i svenska som andraspråk för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 - [[ASS258]] — Examensarbete i svenska som andraspråk för ämneslärarexamen, inriktning gymnasieskolan
@@ -48,10 +48,9 @@ up: "[[ISLL MOC]]"
 - [[SS3003]] — Svenska som andraspråk i ett utvecklingsperspektiv - förklaringsmodeller och metodologiska perspektiv
 - [[SS3006]] — Flerspråkighet, identitet och kulturmöten i sociala sammanhang
 - [[SS3008]] — Flerspråkiga röster i svensk skönlitteratur
-- [[SS3009]] — Litteracitet och flerspråkighet
 - [[SS3011]] — Svenska som andraspråk: Examensarbete för magisterexamen
 
-## Vilande kursplaner (24 st)
+## Vilande kursplaner (25 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -77,5 +76,6 @@ up: "[[ISLL MOC]]"
 - [[SS2009]] — Svenska som andraspråk III - Andraspråksforskning
 - [[SS3004]] — Svenska som andraspråk i ett tvärspråkligt perspektiv
 - [[SS3007]] — Flerspråkighet, interaktion och identitetsskapande i klassrum
+- [[SS3009]] — Litteracitet och flerspråkighet
 - [[SS3010]] — Svensk fonologi i ett andraspråksperspektiv
 - [[SS3014]] — Flerspråkighet i ett samhällsperspektiv

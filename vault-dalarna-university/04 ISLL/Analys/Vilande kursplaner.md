@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (148 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (149 rader)</span></a>
 
-> [!example]- 148 fynd — klicka för att expandera
+> [!example]- 149 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Institution | Fastställd | Reviderad | Problem |
 > | --- | --- | --- | --- | --- | --- |
@@ -21,6 +21,7 @@ status: första pass
 > | [SS3004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3004) | SSA | ISLL | 2014-04-11 | — | Ingen aktiv kursomgång |
 > | [KI1043](https://www.du.se/sv/utbildning/kurser/kursplan/?code=KI1043) | KIA | ISLL | 2014-07-11 | — | Ingen aktiv kursomgång |
 > | [SS3007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3007) | SSA | ISLL | 2014-10-30 | — | Ingen aktiv kursomgång |
+> | [SS3009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3009) | SSA | ISLL | 2014-10-30 | — | Ingen aktiv kursomgång |
 > | [KI2012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=KI2012) | KIA | ISLL | 2015-02-05 | — | Ingen aktiv kursomgång |
 > | [SS1085](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS1085) | SSA | ISLL | 2015-03-03 | — | Ingen aktiv kursomgång |
 > | [EN3070](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3070) | ENA | ISLL | 2015-03-12 | — | Ingen aktiv kursomgång |

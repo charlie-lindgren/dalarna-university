@@ -9,7 +9,7 @@ amne: "Mikrodataanalys"
 amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
-scrape_hash: 9835f53021d23ca3
+scrape_hash: aa1e95fc85bede6e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI2J3
 up: "[[Mikrodataanalys MOC]]"
 ---
@@ -89,7 +89,7 @@ After completing the course, students will be able to
 
 ### Course Content
 
-The course provides an overview of software tests, names, tools and standards, and discusess why software tests are conducted. As well, the course examines the way in which software tests are conducted both in theory and in practice for the purpose of improving the quality of software in different developmental and operational situations.
+The course provides an overview of software tests, names, tools and standards, and discusses why software tests are conducted. As well, the course examines the way in which software tests are conducted both in theory and in practice for the purpose of improving the quality of software in different developmental and operational situations.
 
 A description is given of existing standards, tools, types and test methods. Different levels of tests and requirements (functional and non-functional) as well as the way in which test documentation is written are highlighted. Subjects that are covered, in addition to actual test implementation, are the impact of context on tests, principles, planning and test management, as well as test environments, test data and automated tests.
 

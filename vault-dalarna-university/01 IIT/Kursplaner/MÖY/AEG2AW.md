@@ -10,7 +10,7 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 8dc61727a89c404f
+scrape_hash: 3f7ebbbaa5f3338f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AW
 up: "[[Energiteknik MOC]]"
 ---
@@ -91,7 +91,7 @@ The course covers four aspects of urban energy systems. The first aspect is the 
 
 - Seminar
 
-  - Project, wich is assessed individually and as a group
+  - Project, which is assessed individually and as a group
 
 ### Grades
 

@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: 1d85064eb3fe15a4
+scrape_hash: 13b1b381f73c87c2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK29B
 up: "[[Informatik MOC]]"
 ---
@@ -108,7 +108,7 @@ The student is expected to acquire knowledge and skills mainly through independ
 
 The Swedish grades U–VG.
 
-To obtain VG as the final course grade, students must acquire G in the laboratory work and two VGs, according to the sections below. 
+To obtain VG as the final course grade, students must acquire G in the laboratory work and two VG, according to the sections below. 
 
   - Written examination, U - VG, 
 

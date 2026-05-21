@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: 208c29576a5a97c5
+scrape_hash: 7d7990804fc8ccbd
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AL
 up: "[[Energiteknik MOC]]"
 ---
@@ -74,7 +74,7 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 On completion of the course, students will be able to:
 
-  - analyse and explain the physical processes that determine the output of different types of solar cells, andrelate this to the physical models that can be used to calculate this output,
+  - analyse and explain the physical processes that determine the output of different types of solar cells, and relate this to the physical models that can be used to calculate this output,
 
   - explain the mechanism that generate current and voltage in illuminated semi-conductors,
 

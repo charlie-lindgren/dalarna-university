@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: 5cb486369b28abf0
+scrape_hash: 44986cbf501db2fb
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AQ
 up: "[[Energiteknik MOC]]"
 ---
@@ -81,7 +81,7 @@ On completion of the course, students will be able to:
 
   - critically discuss future energy scenarios, how they are developed, their limitations and their implications,
 
-  - explain challenges with the energy transition in society and discuss how stakeholders can prepare for and adress these challenges,
+  - explain challenges with the energy transition in society and discuss how stakeholders can prepare for and implement these challenges,
 
   - discuss the work within society to achieve an energy transition with national plans, policies, laws and strategies, such as carbon-trading mechanisms.
 

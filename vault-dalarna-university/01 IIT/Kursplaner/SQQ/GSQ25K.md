@@ -10,7 +10,7 @@ amne_kod: "SQQ"
 institution: "IIT"
 tags: [kursplan, SQQ, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: b3666f7dddf56b39
+scrape_hash: 8992a431b93ca629
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25K
 up: "[[Samhällsbyggnadsteknik MOC]]"
 ---
@@ -41,12 +41,11 @@ Efter genomgången kurs ska studenten kunna:
 
 ## Innehåll
 
-Kursen ger en överblick över städer som företeelse i ett historiskt utvecklingsperspektiv och urbangeografiska koncept för att beskriva och analysera städers strukturer och förändringsprocesser. Särskilt betonas ett komplext adaptivt systemperspektiv där olika delsystem kan identifieras, analyseras och hanteras i relation till varandra på olika skalniåver i samhällsplanering. Detta inkluderar såväl fysisk-strukturella, socio-ekonomiska och tekniska infrastrukturaspekter som kulturella och institutionella aspekter i ett rumsligt perspektiv. Kursen ger också en introduktion till urbanmorfologi som kunskapsfält och sätt att beskriva och analysera städer med fokus på dels ett arkitektoniskt gestaltningsperspektiv, dels ett funktionellt modelleringsperspektiv. Historiska och nutida stadsbyggnadsdiskurser tas upp med utgångspunkt i aktuella planeringssituationer. Hållbar utveckling adresseras med ett fokus på samspelet mellan olika ekologiska, sociala, ekonomiska och rumsliga faktorer och delsystem i ett resiliensperspektiv och med beaktande av betydelsen av städers styrning och institutionella faktorer. Kursen introducerar GIS-baserade verktyg för stadsanalys som tillämpas i ett projektarbete om stadsomvandling baserat på reflexivt processarbete med iteration mellan analys och designsyntes. Utvärderings- och konsekvensanalysverktyg som multikriterieanalyser och indikatorer tillämpas för att värdera projektarbetet.
+Kursen ger en överblick över städer som företeelse i ett historiskt utvecklingsperspektiv och urbangeografiska koncept för att beskriva och analysera städers strukturer och förändringsprocesser. Särskilt betonas ett komplext adaptivt systemperspektiv där olika delsystem kan identifieras, analyseras och hanteras i relation till varandra på olika skalnivåer i samhällsplanering. Detta inkluderar såväl fysisk-strukturella, socio-ekonomiska och tekniska infrastrukturaspekter som kulturella och institutionella aspekter i ett rumsligt perspektiv. Kursen ger också en introduktion till urbanmorfologi som kunskapsfält och sätt att beskriva och analysera städer med fokus på dels ett arkitektoniskt gestaltningsperspektiv, dels ett funktionellt modelleringsperspektiv. Historiska och nutida stadsbyggnadsdiskurser tas upp med utgångspunkt i aktuella planeringssituationer. Hållbar utveckling adresseras med ett fokus på samspelet mellan olika ekologiska, sociala, ekonomiska och rumsliga faktorer och delsystem i ett resiliensperspektiv och med beaktande av betydelsen av städers styrning och institutionella faktorer. Kursen introducerar GIS-baserade verktyg för stadsanalys som tillämpas i ett projektarbete om stadsomvandling baserat på reflexivt processarbete med iteration mellan analys och designsyntes. Utvärderings- och konsekvensanalysverktyg som multikriterieanalyser och indikatorer tillämpas för att värdera projektarbetet.
 
 ## Examinationsformer
 
-Projektarbete inklusive presentationer i ord och bild, seminarier och GIS-analyser, 5 hp  
-Tentamen, 2,5 hp
+Projektarbete inklusive presentationer i ord och bild, seminarier och GIS-analyser, 5 hp
 
 ## Arbetsformer
 

@@ -10,7 +10,7 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 31587a5fd6f1688b
+scrape_hash: 747575609acd92a1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG26J
 up: "[[Energiteknik MOC]]"
 ---
@@ -94,7 +94,7 @@ Students will attend at least two tutorials to receive feedback on their report 
 ### Assessment
 
 Workshops, active participation, 1 credit  
-Presentation preparation and tutoria,l 0.5 credit  
+Presentation preparation and tutorial, 0.5 credit  
 Presentation delivery, self-analysis, and reflections document, 0.5 credits  
 Report tutorials (at least 2), 0.5 credits
 

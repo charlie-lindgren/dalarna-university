@@ -10,7 +10,7 @@ amne_kod: "SQQ"
 institution: "IIT"
 tags: [kursplan, SQQ, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 85cffa5f8df99613
+scrape_hash: 92ab807fadf9deac
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25J
 up: "[[Samhällsbyggnadsteknik MOC]]"
 ---
@@ -48,7 +48,7 @@ Vidare är kursen inriktad på att göra studenten förtrogen med etablerade kva
 ## Examinationsformer
 
 Seminarier och skriftliga inlämningsuppgifter i kvalitativa metoder, 3,5 hp  
-Seminarier och skriftliga inlämningsuppgifter i kvantitativa metoder, 4 hp hp
+Seminarier och skriftliga inlämningsuppgifter i kvantitativa metoder, 4 hp
 
 ## Arbetsformer
 

@@ -10,7 +10,7 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: ed0c1deba898391e
+scrape_hash: a11e8edbcd4b3f7f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AY
 up: "[[Energiteknik MOC]]"
 ---
@@ -58,7 +58,7 @@ Slutbetyget på kursen sätts efter en samlad bedömning av examinator.
 
 Betyg rapporteras enligt följande:
 
-  - Inlämninguppgifter - 2 hp | U–G
+  - Inlämningsuppgifter - 2 hp | U–G
   - Projektarbete - 3 hp | U–VG
 
 ## Övrigt

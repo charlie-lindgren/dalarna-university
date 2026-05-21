@@ -10,7 +10,7 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: b6a4d5e9e72012da
+scrape_hash: 44864ad68bee932c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT25Z
 up: "[[Maskinteknik MOC]]"
 ---
@@ -30,17 +30,23 @@ up: "[[Maskinteknik MOC]]"
 
 ## Lärandemål
 
-Efter avslutad kurs ska studenten kunna:
- 
- 
-  - självständigt planera och genomföra ett maskintekniskt projektarbete inom givna tidsramar 
-  - formulera problemställningar och analysera dessa 
-  - uppvisa kritiskt förhållningssätt och metodmedvetenhet 
-  - söka litteratur som belyser en problemställning från olika perspektiv 
-  - generera och värdera lösningar med hänsyn till vetenskapliga, samhälleliga och etiska aspekter 
-  - kritiskt och systematiskt granska och värdera eget och andras arbete med hänsyn till vetenskapliga aspekter 
-  - visa förmåga att välformulerat redogöra för ett arbetes genomförande och resultat i muntlig och skriftlig form 
-  - visa förmåga att identifiera sitt behov av ytterligare kunskap
+Efter godkänd kurs ska studenten kunna:
+
+  - självständigt planera och genomföra ett maskintekniskt projektarbete inom givna tidsramar
+
+  - formulera problemställningar och analysera dessa
+
+  - uppvisa kritiskt förhållningssätt och metodmedvetenhet
+
+  - söka litteratur som belyser en problemställning från olika perspektiv
+
+  - generera och värdera lösningar med hänsyn till vetenskapliga, samhälleliga och etiska aspekter
+
+  - kritiskt och systematiskt granska och värdera eget och andras arbete med hänsyn till vetenskapliga aspekter
+
+  - visa förmåga att välformulerat redogöra för ett arbetes genomförande och resultat i muntlig och skriftlig form
+
+  - visa förmåga att identifiera sitt behov av ytterligare kunskap.
 
 ## Innehåll
 
@@ -57,7 +63,7 @@ Följande delar ingår i examinationen:
 
 ## Arbetsformer
 
-Självständigt utfört projektarbete med handledning av lärare vid Högskolan Dalarna. Handledning från annan person utanför ämnet kan förekomma efter beslut av examinator. Regelbundna avstämmningar med handledaren på initiativ av studenten där studenten lyfter frågeställningar som dykt upp och obligatoriska seminarier.
+Självständigt utfört projektarbete med handledning av lärare vid Högskolan Dalarna. Handledning från annan person utanför ämnet kan förekomma efter beslut av examinator. Regelbundna avstämningar med handledaren på initiativ av studenten där studenten lyfter frågeställningar som dykt upp och obligatoriska seminarier.
 
 ## Betyg
 
@@ -119,4 +125,4 @@ The Swedish grades U, 3, 4, 5.
 
 ### Prerequisites
 
-- 150 credits from a Bachelor programme in Mechanical Engineering and minumum 75 credits in the major subject Mechanical Engineering
+- 150 credits from a Bachelor programme in Mechanical Engineering and minimum 75 credits in the major subject Mechanical Engineering

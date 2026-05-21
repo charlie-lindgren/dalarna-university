@@ -9,7 +9,7 @@ amne: "Mikrodataanalys"
 amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
-scrape_hash: bd23711265bf8c43
+scrape_hash: 5083a7acd31027e0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI23G
 up: "[[Mikrodataanalys MOC]]"
 ---
@@ -74,11 +74,11 @@ On completion of the course the student shall be able to:
 
   - apply induction and recursion to problem solving and programming, with emphasis on working with combinatorial problems
 
-  - relate logic and mathematics to computer science
+  - relate logic and mathematics to computer science.
 
 ### Course Content
 
-The course covers algebraic systems, including modular arithmetic and polynomial arithmetic. Logic and set theory is covered as is graph theory, predicate calculus, truth tables, sets and set operators, functions and relations. The course also covers elementary concepts in number theory, combinatorics, divisors, primes, division algorithms including Eulides BCD algorithm, fundamental theorems of arithmetic, induction and recursion, permutations and combinations and the binomial theorem.
+The course covers algebraic systems, including modular arithmetic and polynomial arithmetic. Logic and set theory is covered as is graph theory, predicate calculus, truth tables, sets and set operators, functions and relations. The course also covers elementary concepts in number theory, combinatorics, divisors, primes, division algorithms including Euclidian BCD algorithm, fundamental theorems of arithmetic, induction and recursion, permutations and combinations and the binomial theorem.
 
 The theoretical content of the course is explored through programming exercises so that the students are able to understand how computer science has a foundation in logic and mathematics.
 

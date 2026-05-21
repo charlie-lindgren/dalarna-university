@@ -9,7 +9,7 @@ amne: "Maskinteknik"
 amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT]
-scrape_hash: 77a19cb6b2587eef
+scrape_hash: 8bc249bbd6a8dd18
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34R
 up: "[[Maskinteknik MOC]]"
 ---
@@ -102,7 +102,7 @@ Upon completion of the course, students will be able to:
 
   - master the various steps of metallographic sample preparation,
 
-  - perform hardness testing and tensile testing of variousengineering materials,
+  - perform hardness testing and tensile testing of various engineering materials,
 
   - perform simple material analyses using light optical microscopy and scanning electron microscopy / X-ray analysis,
 
