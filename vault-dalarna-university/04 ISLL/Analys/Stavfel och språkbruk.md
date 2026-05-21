@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (135 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (134 rader)</span></a>
 
-> [!example]- 135 fynd — klicka för att expandera
+> [!example]- 134 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -34,7 +34,6 @@ status: första pass
 > | [EN2043](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN2043) | ENA | Felstavning (en) | `knowlege` (en) |
 > | [EN2046](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN2046) | ENA | Felstavning | `ämnesdidaktiskområde` (sv) |
 > | [EN3063](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3063) | ENA | Felstavning (en) | `coomprising` (en) |
-> | [EN3064](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3064) | ENA | Felstavning (en) | `historicism` (en) |
 > | [EN3071](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3071) | ENA | Felstavning | `samtidafrågor` (sv) |
 > | [GEN2HB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2HB) | ENA | Felstavning | `affärsmötesrollspel` (sv) |
 > | [GEN33R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN33R) | ENA | Felstavning | `förseminarieupgifter` (sv) |

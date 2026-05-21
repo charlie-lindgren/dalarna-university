@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (94 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (89 rader)</span></a>
 
-> [!example]- 94 fynd — klicka för att expandera
+> [!example]- 89 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -33,7 +33,6 @@ status: första pass
 > | [GIH3F7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3F7) | IDA | Felstavning (en) | `teories` (en) |
 > | [GIH3G6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G6) | IDA | Felstavning | `kunskapnivå` (sv) |
 > | [GIH3JL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3JL) | IDA | Felstavning (en) | `emphasising` (en) |
-> | [IH1001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1001) | IDA | Felstavning | `rörel-sekompetensen` (sv) |
 > | [IH1003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1003) | IDA | Felstavning (en) | `leasure` (en) |
 > | [IH1003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1003) | IDA | Felstavning (en) | `workingform` (en) |
 > | [IH1004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1004) | IDA | Felstavning (en) | `peda` (en) |
@@ -41,8 +40,6 @@ status: första pass
 > | [IH1114](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1114) | IDA | Felstavning | `hjäipmedels` (sv) |
 > | [IH1122](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1122) | IDA | Felstavning (en) | `hisory` (en) |
 > | [IH2002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH2002) | IDA | Felstavning | `rythm` → rhythm (en) |
-> | [IH3007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH3007) | IDA | Felstavning (en) | `humanbiologi` (en) |
-> | [IH3007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH3007) | IDA | Felstavning (en) | `idrottsinriktning` (en) |
 > | [BKE223](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BKE223) | KEA | Felstavning | `stökiometri` (sv) |
 > | [AMC243](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC243) | MCA | Felstavning (en) | `naprapath` (en) |
 > | [AMC243](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC243) | MCA | Felstavning (en) | `physiotherpy` (en) |
@@ -51,8 +48,6 @@ status: första pass
 > | [GNV3GV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3GV) | NAV | Felstavning | `inlämingsuppgift` (sv) |
 > | [NV1024](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NV1024) | NAV | Felstavning (en) | `educationas` (en) |
 > | [NV1027](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NV1027) | NAV | Felstavning (en) | `adresses` (en) |
-> | [ASA24N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA24N) | SAA | Felstavning (en) | `engelskt` (en) |
-> | [ASA24N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA24N) | SAA | Felstavning (en) | `namn` (en) |
 > | [ASA28Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA28Q) | SAA | Felstavning (en) | `researcg` (en) |
 > | [GSA2AF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2AF) | SAA | Felstavning (en) | `enablement` (en) |
 > | [GSA2BV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2BV) | SAA | Felstavning (en) | `enablement` (en) |

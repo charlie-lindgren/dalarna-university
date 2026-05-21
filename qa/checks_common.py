@@ -478,6 +478,16 @@ def check_hunspell_en(files: list[Path]) -> list[dict]:
         capture_output=True, text=True, env=env,
     )
     unknown = {w.strip() for w in proc.stdout.splitlines() if w.strip()}
+    # Korsspråkskontroll: ord som är okända i en men giltiga i sv är svenska
+    # ord som läckt in i engelsk text — flaggas inte.
+    if unknown:
+        proc_sv = subprocess.run(
+            ["hunspell", "-d", "sv_SE", "-i", "UTF-8", "-l"],
+            input="\n".join(sorted(unknown)),
+            capture_output=True, text=True,
+        )
+        unknown_in_sv = {w.strip() for w in proc_sv.stdout.splitlines() if w.strip()}
+        unknown &= unknown_in_sv
     rare = {w for w in unknown if len(word_to_files[w]) < 5}
 
     findings = []
