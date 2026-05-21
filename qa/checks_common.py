@@ -220,6 +220,7 @@ SV_IGNORE = {
     "böjmotstånd","affärsplanbedömningar",
     "gis-övningar","solstrålsberäkningar",
     "softlån","höckerlind","vridspänningar","eu-förordningen",
+    "startgodkännandeformulär","produktionskattelättnader","skalnivåer",
     # IHV — fältspecifika sammansättningar
     "testläraprinciper","hälsodeterminanters",
     "soloprenör","mätprinciper","hälsopromotiva","normförmedlare",
@@ -402,6 +403,7 @@ EN_IGNORE = {
     "babylonian","mayan","sumerian","neighbourhood","neighbourhoods",
     "cobots","bioenergy","biofuel","microsystems","insolation",
     "horizontoscope","absorbers","mechatronic",
+    "knowledges","xxxxx","fup","immon","euclidian",
     # IHV — kvalitativ forskning, hälsovetenskap, brittisk stavning
     "sensorimotor","generalizability","transferability","focussing",
     "fulfilment","individualisation","individualisering",

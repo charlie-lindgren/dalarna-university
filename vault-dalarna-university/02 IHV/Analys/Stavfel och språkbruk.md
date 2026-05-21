@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (119 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (115 rader)</span></a>
 
-> [!example]- 119 fynd — klicka för att expandera
+> [!example]- 115 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -18,9 +18,7 @@ status: första pass
 > | [AFT2CA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFT2CA) | FYS | Felstavning (en) | `scienfific` (en) |
 > | [AIH237](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AIH237) | IDA | Felstavning (en) | `cedits` (en) |
 > | [GIH2DB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2DB) | IDA | Felstavning | `jämviktsystem` → jämviktssystem |
-> | [GIH2DB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2DB) | IDA | Felstavning | `jämviktsystem` (sv) |
 > | [GIH2DC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2DC) | IDA | Felstavning | `jämviktsystem` → jämviktssystem |
-> | [GIH2DC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2DC) | IDA | Felstavning | `jämviktsystem` (sv) |
 > | [GIH2NR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2NR) | IDA | Felstavning (en) | `lecturs` (en) |
 > | [GIH2QL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2QL) | IDA | Felstavning | `idrottsränarprogrammet` (sv) |
 > | [GIH2WX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2WX) | IDA | Felstavning | `lärar` (sv) |
@@ -32,7 +30,6 @@ status: första pass
 > | [GIH334](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH334) | IDA | Felstavning (en) | `collaboratation` (en) |
 > | [GIH334](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH334) | IDA | Felstavning (en) | `reciece` (en) |
 > | [GIH33P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH33P) | IDA | Felstavning | `jämviktsystem` → jämviktssystem |
-> | [GIH33P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH33P) | IDA | Felstavning | `jämviktsystem` (sv) |
 > | [GIH34D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34D) | IDA | Felstavning (en) | `humanistiv` (en) |
 > | [GIH34T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34T) | IDA | Felstavning (en) | `respirationsystem` (en) |
 > | [GIH37S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37S) | IDA | Felstavning (en) | `enviroment` (en) |
@@ -54,7 +51,6 @@ status: första pass
 > | [IH1114](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1114) | IDA | Felstavning | `hjäipmedels` (sv) |
 > | [IH1122](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1122) | IDA | Felstavning (en) | `hisory` (en) |
 > | [IH2002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH2002) | IDA | Felstavning | `rythm` → rhythm (en) |
-> | [IH2002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH2002) | IDA | Felstavning (en) | `rythm` (en) |
 > | [IH3007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH3007) | IDA | Felstavning (en) | `humanbiologi` (en) |
 > | [IH3007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH3007) | IDA | Felstavning (en) | `idrottsinriktning` (en) |
 > | [BKE223](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BKE223) | KEA | Felstavning | `stökiometri` (sv) |

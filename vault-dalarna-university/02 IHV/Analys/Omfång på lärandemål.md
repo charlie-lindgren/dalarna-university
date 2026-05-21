@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (224 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (222 rader)</span></a>
 
-> [!example]- 224 fynd — klicka för att expandera
+> [!example]- 222 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -55,7 +55,6 @@ status: första pass
 > | [GIH37Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37Q) | IDA | Långt mål | 28 ord: - på en grundläggande nivå diskutera och problematisera skolämnet idrott och häl… |
 > | [GIH37Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37Q) | IDA | Långt mål | 26 ord: - utifrån valt syfte, innehåll och målgrupp samt i relation till aktuella styrdo… |
 > | [GIH37Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37Q) | IDA | Långt mål | 26 ord: - diskutera och problematisera skolämnet idrott och hälsa utifrån olika didaktis… |
-> | [GIH37Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37Q) | IDA | Långt mål | 26 ord: - utifrån valt syfte, innehåll och målgrupp samt i relation till aktuella styrdo… |
 > | [GIH37R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37R) | IDA | För många mål | 15 lärandemål (maximum rekommenderat: 12 för 30 hp) |
 > | [GIH37S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37S) | IDA | För många mål | 19 lärandemål (maximum rekommenderat: 12 för 30 hp) |
 > | [GIH38Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH38Z) | IDA | Långt mål | 28 ord: - diskutera och problematisera skolämnet idrott och hälsa utifrån olika didaktis… |
@@ -69,7 +68,6 @@ status: första pass
 > | [GIH3AP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AP) | IDA | Långt mål | 28 ord: - på en grundläggande nivå diskutera och problematisera skolämnet idrott och häl… |
 > | [GIH3AP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AP) | IDA | Långt mål | 26 ord: - utifrån valt syfte, innehåll och målgrupp samt i relation till aktuella styrdo… |
 > | [GIH3AP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AP) | IDA | Långt mål | 26 ord: - diskutera och problematisera skolämnet idrott och hälsa utifrån olika didaktis… |
-> | [GIH3AP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AP) | IDA | Långt mål | 26 ord: - utifrån valt syfte, innehåll och målgrupp samt i relation till aktuella styrdo… |
 > | [GIH3D4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3D4) | IDA | Långt mål | 29 ord: - utifrån vetenskaplig grund inom området välja övningar och designa ett träning… |
 > | [GIH3D5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3D5) | IDA | Långt mål | 28 ord: - utifrån vetenskaplig grund inom området välja övningar och designa ett hälsoin… |
 > | [GIH3FA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3FA) | IDA | För få mål | 2 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |

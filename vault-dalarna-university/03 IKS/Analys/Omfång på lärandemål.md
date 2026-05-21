@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (415 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (412 rader)</span></a>
 
-> [!example]- 415 fynd — klicka för att expandera
+> [!example]- 412 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -153,8 +153,6 @@ status: första pass
 > | [PE1010](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1010) | PEA | Långt mål | 28 ord: - visa kunskap och förståelse för betydelsen av leken, kreativiteten och det soc… |
 > | [PE1010](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1010) | PEA | Långt mål | 29 ord: - visa kunskap och förståelse för hur idéer och föreställningar om barn, barndom… |
 > | [PE1018](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1018) | PEA | För många mål | 12 lärandemål (maximum rekommenderat: 10 för 15 hp) |
-> | [PE1018](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1018) | PEA | Långt mål | 30 ord: - förstå förskolans och skolans samhällsuppdrag i förhållande till hur man bemöt… |
-> | [PE1018](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1018) | PEA | Långt mål | 33 ord: - redogöra för hur samverkan kan utvecklas mellan barn och elever i förhållande … |
 > | [PE1018](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1018) | PEA | Långt mål | 30 ord: - förstå förskolans och skolans samhällsuppdrag i förhållande till hur man bemöt… |
 > | [PE1018](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1018) | PEA | Långt mål | 33 ord: - redogöra för hur samverkan kan utvecklas mellan barn och elever i förhållande … |
 > | [PE1023](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1023) | PEA | För många mål | 12 lärandemål (maximum rekommenderat: 10 för 15 hp) |
@@ -368,7 +366,6 @@ status: första pass
 > | [RV1003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1003) | RVA | Långt mål | 30 ord: - visa god kunskap om och förståelse av de lagar och den rättspraxis som gäller … |
 > | [RV1004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1004) | RVA | För få mål | 3 lärandemål (minimum rekommenderat: 4 för 15 hp) |
 > | [RV1015](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1015) | RVA | Långt mål | 27 ord: - fått kunskap om fysiska och juridiska personers rättsliga ställning samt deras… |
-> | [RV1015](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1015) | RVA | Långt mål | 29 ord: - fått grundläggande kunskaper om rättsprinciper av vikt för individen och föret… |
 > | [RV1015](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1015) | RVA | Långt mål | 29 ord: - fått grundläggande kunskaper om rättsprinciper av vikt för individen och föret… |
 > | [RV1026](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1026) | RVA | För få mål | 3 lärandemål (minimum rekommenderat: 4 för 15 hp) |
 > | [RV1038](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1038) | RVA | För få mål | 0 lärandemål (minimum rekommenderat: 4 för 15 hp) |

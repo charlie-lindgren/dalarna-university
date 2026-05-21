@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (339 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (336 rader)</span></a>
 
-> [!example]- 339 fynd — klicka för att expandera
+> [!example]- 336 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -212,7 +212,6 @@ status: första pass
 > | [PR1021](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PR1021) | PRA | Långt mål | 27 ord: - reflektera över det portugisiska språkets geografiska spridning i världen och … |
 > | [GRY2BS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY2BS) | RYA | Långt mål | 31 ord: - inom en given tidsram genomföra en självständig litteraturvetenskaplig, kultur… |
 > | [GSP28C](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP28C) | SPA | Långt mål | 28 ord: - reflektera över, värdera och kritiskt granska vetenskapliga artiklar och textt… |
-> | [GSP28C](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP28C) | SPA | Långt mål | 28 ord: - reflektera över, värdera och kritiskt granska vetenskapliga artiklar och textt… |
 > | [GSP2FQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2FQ) | SPA | För många mål | 33 lärandemål (maximum rekommenderat: 12 för 30 hp) |
 > | [GSP2FQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2FQ) | SPA | Långt mål | 35 ord: - visa kunskap om elevers syn på och upplevelser av sitt språklärande samt refle… |
 > | [GSP2FQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2FQ) | SPA | Långt mål | 35 ord: - diskutera och reflektera över samspelet mellan inre och yttre faktorer som är … |
@@ -286,12 +285,10 @@ status: första pass
 > | [GSV3DD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DD) | SVE | För många mål | 20 lärandemål (maximum rekommenderat: 12 för 30 hp) |
 > | [GSV3DD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DD) | SVE | Långt mål | 28 ord: - reflektera över texter och andra verktyg som medel för att stimulera elevers s… |
 > | [GSV3DD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DD) | SVE | Långt mål | 35 ord: - tala och skriva i enlighet med de normer som finns för formell svenska och på … |
-> | [GSV3DD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DD) | SVE | Långt mål | 35 ord: - tala och skriva i enlighet med de normer som finns för formell svenska och på … |
 > | [GSV3DE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DE) | SVE | För många mål | 23 lärandemål (maximum rekommenderat: 12 för 30 hp) |
 > | [GSV3DE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DE) | SVE | Långt mål | 27 ord: - göra kritiska läsningar av skönlitterära verk och diskutera deras potential so… |
 > | [GSV3DE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DE) | SVE | Långt mål | 32 ord: - tala och skriva i enlighet med de normer som finns för formell svenska och på … |
 > | [GSV3DE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DE) | SVE | Långt mål | 28 ord: - beskriva olika typer av språkpolicy samt utifrån exempel från Sverige och Nord… |
-> | [GSV3DE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DE) | SVE | Långt mål | 32 ord: - tala och skriva i enlighet med de normer som finns för formell svenska och på … |
 > | [GSV3DE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DE) | SVE | Långt mål | 33 ord: - föra en fördjupad diskussion kring hur ungdomars utveckling av litteracitet oc… |
 > | [GSV3DE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DE) | SVE | Långt mål | 28 ord: - utifrån aktuell forskning och beprövad erfarenhet planera svenskundervisning s… |
 > | [GSV3DE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DE) | SVE | Långt mål | 41 ord: - tala och skriva i enlighet med de normer som finns för formell svenska och på … |

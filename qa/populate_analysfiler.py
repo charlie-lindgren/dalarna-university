@@ -108,6 +108,33 @@ ANALYS_FILES: dict[str, dict[str, str]] = {
 
 KURSPLAN_URL = "https://www.du.se/sv/utbildning/kurser/kursplan/?code={code}"
 
+# Plocka ut det understrukna ordet/uttrycket ur en detaljkolumn — texten inom
+# första backtickparet. Används vid deduplicering så att t.ex. en träff från
+# "Känd felstavning" och en träff från hunspell-stavning för samma ord i samma
+# kursplan räknas som *ett* fynd.
+DETAIL_TOKEN_RE = re.compile(r"`([^`]+)`")
+
+
+def dedup_rows(
+    rows: list[tuple[str, str, str, str]],
+) -> list[tuple[str, str, str, str]]:
+    """En och samma underliggande textuella företeelse räknas bara en gång per
+    kursplan. Om samma ord träffas av flera kontroller (t.ex. känd felstavning
+    + hunspell) behåller vi det rikare fyndet — det med " → "-rättning vinner."""
+    best: dict[tuple[str, str], tuple[str, str, str, str]] = {}
+    order: list[tuple[str, str]] = []
+    for row in rows:
+        code, _subj, _problem, detail = row
+        m = DETAIL_TOKEN_RE.search(detail)
+        token = m.group(1).lower() if m else detail
+        key = (code, token)
+        if key not in best:
+            best[key] = row
+            order.append(key)
+        elif "→" in detail and "→" not in best[key][3]:
+            best[key] = row
+    return [best[k] for k in order]
+
 # ─────────────────────────────────────────────────────────────────────────────
 # Rapportparsning
 # ─────────────────────────────────────────────────────────────────────────────
@@ -324,6 +351,7 @@ def main():
             for code, subj, detail in by_section.get(section_label, []):
                 all_rows.append((code, subj, problem_label, detail))
 
+        all_rows = dedup_rows(all_rows)
         all_rows.sort(key=lambda r: (r[1], r[0]))  # by subj, then code
 
         rows_by_inst: dict[str, list[tuple[str, str, str, str]]] = {

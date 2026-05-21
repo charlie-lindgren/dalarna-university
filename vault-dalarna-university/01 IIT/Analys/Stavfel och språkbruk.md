@@ -8,27 +8,14 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (16 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (3 rader)</span></a>
 
-> [!example]- 16 fynd — klicka för att expandera
+> [!example]- 3 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
-> | [BY2016](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY2016) | BYA | Felstavning (en) | `knowledges` (en) |
-> | [BY2016](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY2016) | BYA | Felstavning (en) | `xxxxx` (en) |
-> | [BFY225](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY225) | FYA | Felstavning (en) | `fup` (en) |
-> | [BFY226](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY226) | FYA | Felstavning (en) | `fup` (en) |
-> | [BFY227](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY227) | FYA | Felstavning (en) | `fup` (en) |
-> | [AIK232](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AIK232) | IKA | Felstavning (en) | `immon` (en) |
 > | [GMA2EY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2EY) | MAA | Felstavning | `indicies` → indices (en) |
-> | [GMA2EY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2EY) | MAA | Felstavning (en) | `indicies` (en) |
-> | [GMT25Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT25Z) | MTA | Felstavning | `startgodkännandeformulär` (sv) |
-> | [AEG225](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG225) | MÖY | Felstavning | `produktionskattelättnader` (sv) |
 > | [GEG2ZQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZQ) | MÖY | Felstavning | `solcellsanläggingar` → solcellsanläggningar |
-> | [GEG2ZQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZQ) | MÖY | Felstavning | `solcellsanläggingar` (sv) |
-> | [GSQ25K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25K) | SQQ | Felstavning | `skalnivåer` (sv) |
-> | [GSQ33N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ33N) | SQQ | Felstavning | `skalnivåer` (sv) |
-> | [GMI23G](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI23G) | XYZ | Felstavning (en) | `euclidian` (en) |
 > | [GMI2C8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI2C8) | XYZ | Felstavning (en) | `mathodology` (en) |
 
 ## Syfte
