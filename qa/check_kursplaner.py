@@ -392,6 +392,26 @@ EN_LO_RE = re.compile(
     r"^#{2,3}\s+Learning Outcomes\s*\n(.+?)(?=^#{2,3}\s|\Z)",
     re.MULTILINE | re.DOTALL,
 )
+EN_VERSION_RE = re.compile(r"^## English Version\b", re.MULTILINE)
+
+
+def _count_outcomes(section: str) -> int:
+    """Antal lärandemål i en sektion. Räknar bullets (``- `` / ``* ``) i första
+    hand; faller tillbaka till antalet styckesblock om sektionen är skriven i
+    löpande text. Stycken som slutar med ``:`` (introfraser av typen
+    *"Efter avslutad kurs ska studenten kunna:"*) räknas inte."""
+    bullets = len(LO_BULLET_RE.findall(section))
+    if bullets > 0:
+        return bullets
+    count = 0
+    for para in re.split(r"\n\s*\n", section.strip()):
+        text = para.strip()
+        if not text:
+            continue
+        if text.rstrip().endswith(":"):
+            continue
+        count += 1
+    return count
 
 
 def check_sv_en_parity(files: list[Path]) -> list[dict]:
@@ -399,12 +419,17 @@ def check_sv_en_parity(files: list[Path]) -> list[dict]:
     for p in files:
         body = strip_frontmatter(p.read_text(encoding="utf-8"))
         sv_lo = extract_section(body, "Lärandemål")
-        m = EN_LO_RE.search(body)
-        en_lo = m.group(1) if m else ""
-        if not sv_lo or not en_lo:
+        if not sv_lo:
             continue
-        sv_n = len(LO_BULLET_RE.findall(sv_lo))
-        en_n = len(LO_BULLET_RE.findall(en_lo))
+        m = EN_LO_RE.search(body)
+        if m:
+            en_lo = m.group(1)
+        elif EN_VERSION_RE.search(body):
+            en_lo = ""
+        else:
+            continue
+        sv_n = _count_outcomes(sv_lo)
+        en_n = _count_outcomes(en_lo)
         if abs(sv_n - en_n) > PARITY_THRESHOLD:
             findings.append({
                 "check": "sv-en-paritet",
