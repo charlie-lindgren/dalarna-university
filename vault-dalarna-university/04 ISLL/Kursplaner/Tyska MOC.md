@@ -9,7 +9,7 @@ up: "[[ISLL MOC]]"
 
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (35 st)
+## Kurser (33 st)
 
 - [[ATY255]] — Examensarbete i tyska för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 - [[ATY256]] — Examensarbete i tyska för ämneslärarexamen, inriktning gymnasieskolan
@@ -42,12 +42,10 @@ up: "[[ISLL MOC]]"
 - [[TY1073]] — Tyska: Muntlig språkfärdighet och kulturkunskap II
 - [[TY2004]] — Tyska: Tyskspråkig litteratur och litteraturvetenskap
 - [[TY2007]] — Tyska: Examensarbete
-- [[TY2008]] — Tyska: Den moderna tyskspråkiga lingvistikens utveckling
 - [[TY3010]] — Tyska: Magisterexamensarbete
 - [[TY3015]] — Tyska: Intertextualitet och intermedialitet i teori och praktik
-- [[TY3016]] — Tyska: Former och villkor för dramer och prosatexter
 
-## Vilande kursplaner (10 st)
+## Vilande kursplaner (12 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -59,5 +57,7 @@ up: "[[ISLL MOC]]"
 - [[GTY2ST]] — Tyska: Tysk grammatik med textkommentar
 - [[GTY2SV]] — Tyska: Tyskspråkig litteratur och litteraturdidaktik i teori och praktik
 - [[GTY32H]] — Tyska: Språkdidaktik II
+- [[TY2008]] — Tyska: Den moderna tyskspråkiga lingvistikens utveckling
 - [[TY3012]] — Tyska: Språkvetenskapens historia
 - [[TY3013]] — Tyska: Modern kvinnolitteratur
+- [[TY3016]] — Tyska: Former och villkor för dramer och prosatexter

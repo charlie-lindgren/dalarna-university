@@ -9,7 +9,7 @@ up: "[[ISLL MOC]]"
 
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (55 st)
+## Kurser (51 st)
 
 - [[AEN252]] — Migration, klimat och ångest i engelskspråkig litteratur
 - [[AEN25H]] — Examensarbete i engelska för ämneslärarexamen, inriktning grundskolans årskurs 7-9
@@ -21,7 +21,6 @@ up: "[[ISLL MOC]]"
 - [[AEN29C]] — Interkulturella litteraturstudier: Masterexamensarbete med inriktning engelska
 - [[AEN2BP]] — Introduktion till interkulturella litteraturstudier
 - [[AEN2BQ]] — Interkulturella litteraturstudier: Akademiskt skrivande
-- [[AEN2BR]] — Interkulturella litteraturstudier: Akademisk läsning
 - [[AEN2BS]] — Interkulturella litteraturstudier: Teori och metod
 - [[AEN2BT]] — Interkulturella litteraturstudier: Skönlitteratur på originalspråk
 - [[AEN2BU]] — Interkulturella litteraturstudier: Översättningsprojekt
@@ -35,11 +34,9 @@ up: "[[ISLL MOC]]"
 - [[EN2033]] — Engelsk korpuslingvistik
 - [[EN2034]] — Introduktion till språkvetenskaplig metod
 - [[EN2035]] — Engelska: Kandidatexamensarbete i lingvistik
-- [[EN2037]] — Social variation, språkkontakt och språklig makt i engelskan
 - [[EN2043]] — Engelska III: Fokus lingvistik
 - [[EN3062]] — Världslitteratur på engelska
 - [[EN3063]] — Engelska: Magisterexamensarbete i litteratur
-- [[EN3072]] — Engelska: Diskursanalys
 - [[EN3073]] — Metoder inom tillämpad engelsk lingvistik
 - [[EN3074]] — Engelsk språkvetenskap i tal och skrift
 - [[EN3075]] — Teman inom tillämpad engelsk lingvistik
@@ -49,7 +46,6 @@ up: "[[ISLL MOC]]"
 - [[GEN2BJ]] — Engelska för grundlärare F-3
 - [[GEN2BK]] — Engelska för grundlärare åk 4-6, 1A
 - [[GEN2LD]] — Engelska för grundlärare åk 4-6, 1B
-- [[GEN2QW]] — Engelska, Språkdidaktik l
 - [[GEN2S2]] — Engelska för specifika ändamål: Muntlig kommunikation på interkulturella arbetsplatser
 - [[GEN2VF]] — Den moderna engelskans struktur
 - [[GEN33R]] — Engelskspråkig barn- och ungdomslitteratur
@@ -67,22 +63,26 @@ up: "[[ISLL MOC]]"
 - [[GEN3E6]] — Introduktion till engelsk lingvistik
 - [[GEN3E7]] — Brittisk och amerikansk litteratur- och idéhistoria
 
-## Vilande kursplaner (16 st)
+## Vilande kursplaner (20 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
+- [[AEN2BR]] — Interkulturella litteraturstudier: Akademisk läsning
 - [[EN1086]] — Engelsk språkstruktur
 - [[EN1129]] — Engelska: Skriftlig språkfärdighet
 - [[EN2025]] — Litteratur och teori
+- [[EN2037]] — Social variation, språkkontakt och språklig makt i engelskan
 - [[EN2046]] — Engelska III, inklusive examensarbete 1 för ämneslärarexamen, gy
 - [[EN2047]] — Engelska III, examensarbete 1 för ämneslärarexamen, åk 7-9
 - [[EN3029]] — Engelska: Samtida irländsk skönlitteratur
 - [[EN3064]] — Engelska: Avancerad litteraturteori
 - [[EN3070]] — Engelska IV, examensarbete 2 för ämneslärarexamen, åk 7-9
 - [[EN3071]] — Engelska IV, inklusive examensarbete 2 för ämneslärarexamen, gy
+- [[EN3072]] — Engelska: Diskursanalys
 - [[GEN222]] — Engelska för lärare, 45 hp (1-45 hp), åk 7-9 - ingår i Lärarlyftet II
 - [[GEN2HB]] — Engelska för internationellt företagande: kommunikation och kultur
 - [[GEN2JG]] — Engelska, Språkdidaktik I
+- [[GEN2QW]] — Engelska, Språkdidaktik l
 - [[GEN2RZ]] — Engelska för specifika ändamål: Presentationer i akademiska och professionella sammanhang
 - [[GEN2VE]] — Engelskspråkig litteratur
 - [[GEN3BR]] — Kulturella texter och kontexter

@@ -30,7 +30,7 @@ tags: [MOC, institution, ISLL]
 ## Ämnen
 
 - [[Arabiska MOC|Arabiska]] (31 kurser)
-- [[Engelska MOC|Engelska]] (96 kurser)
+- [[Engelska MOC|Engelska]] (94 kurser)
 - [[Franska MOC|Franska]] (62 kurser)
 - [[Italienska MOC|Italienska]] (32 kurser)
 - [[Japanska MOC|Japanska]] (39 kurser)
@@ -40,7 +40,7 @@ tags: [MOC, institution, ISLL]
 - [[Spanska MOC|Spanska]] (40 kurser)
 - [[Svenska MOC|Svenska]] (22 kurser)
 - [[Svenska som andraspråk MOC|Svenska som andraspråk]] (85 kurser)
-- [[Tyska MOC|Tyska]] (59 kurser)
+- [[Tyska MOC|Tyska]] (57 kurser)
 
 ## Kvalitetsanalys
 

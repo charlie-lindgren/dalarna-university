@@ -28,9 +28,9 @@ tags: [MOC, institution, IHV]
 - [[Kemi MOC|Kemi]] (1 kurser)
 - [[Medicinsk vetenskap MOC|Medicinsk vetenskap]] (25 kurser)
 - [[Naturvetenskap MOC|Naturvetenskap]] (13 kurser)
-- [[Omvårdnad MOC|Omvårdnad]] (53 kurser)
+- [[Omvårdnad MOC|Omvårdnad]] (48 kurser)
 - [[Psykologi MOC|Psykologi]] (1 kurser)
-- [[Sexuell, reproduktiv och perinatal hälsa MOC|Sexuell, reproduktiv och perinatal hälsa]] (64 kurser)
+- [[Sexuell, reproduktiv och perinatal hälsa MOC|Sexuell, reproduktiv och perinatal hälsa]] (61 kurser)
 - [[Socialt arbete MOC|Socialt arbete]] (86 kurser)
 - [[Vårdvetenskap MOC|Vårdvetenskap]] (21 kurser)
 
