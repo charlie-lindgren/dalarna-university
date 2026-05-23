@@ -150,11 +150,11 @@ status: första pass
 
 ## Syfte
 
-Sektionen `Förkunskapskrav` beskriver vilka tidigare studier eller motsvarande meriter som krävs för antagning till kursen. Den är central både för antagningsbeslut och för studenter som planerar sin studiegång — saknas eller är ofullständig sektion leder det till otydlighet och ojämn praxis mellan ämnen. Syftet med analysen är att kartlägga **var sektionen saknas helt, var den endast finns på engelska, var innehållet är osannolikt kort, samt var svensk och engelsk version skiljer sig markant i längd**.
+Sektionen *Förkunskapskrav* (på du.se ibland rubricerad *Behörighet* — orden behandlas som synonymer i analysen) beskriver vilka tidigare studier eller motsvarande meriter som krävs för antagning till kursen. Den är central både för antagningsbeslut och för studenter som planerar sin studiegång — saknas eller är ofullständig sektion leder det till otydlighet och ojämn praxis mellan ämnen. Syftet med analysen är att kartlägga **var sektionen saknas helt, var den endast finns på engelska, var innehållet är osannolikt kort, samt var svensk och engelsk version skiljer sig markant i längd**.
 
 ## Metod
 
-Sektionen `## Förkunskapskrav` extraheras från den svenska sidan av kursplanen och motsvarigheten `### Prerequisites` från sektionen `## English Version`. Fyra mönster flaggas:
+Den svenska sektionen läses oavsett om källsidan rubricerar den *Förkunskapskrav* eller *Behörighet* — scrapern (`scripts/scrape_hda_kursplaner.py`) normaliserar bägge rubrikvarianter till `## Förkunskapskrav` i de lokala kursplansfilerna. Den engelska motsvarigheten är `### Prerequisites` (eller alternativa rubriker som *Entry Requirements* / *Admission Requirements*) under `## English Version`. Fyra mönster flaggas:
 
 1. **Sektion saknas** — varken svensk eller engelsk variant finns i kursplanen.
 2. **Endast engelsk variant** — `### Prerequisites` har innehåll men `## Förkunskapskrav` saknas eller är tom. Detta är typiskt tecken på en lucka i den svenska källsidan på du.se.
@@ -164,7 +164,7 @@ Sektionen `## Förkunskapskrav` extraheras från den svenska sidan av kursplanen
 ## Datakälla
 
 - Samtliga kursplaner från du.se vid Högskolan Dalarna.
-- Både svensk sektion `## Förkunskapskrav` och engelsk subsektion `### Prerequisites`.
+- Svensk sektion `## Förkunskapskrav` (normaliserad från du.se-rubriken *Behörighet* när så förekommer) och engelsk subsektion `### Prerequisites` (motsvarande normalisering på engelska).
 
 ## Rekommendationer
 
