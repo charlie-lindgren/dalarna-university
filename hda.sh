@@ -154,6 +154,8 @@ run_scrape_pipeline() {
     run_scrape_utb
     echo ""
     run_vilande
+    echo ""
+    run_huvudomrade_mocs
     unset BATCH_APPLY_FLAG
     echo ""
     echo -e "${GREEN}✓ Alla skrapa-steg klara${RESET}"
