@@ -1,21 +1,16 @@
 ---
 programkod: KFTPG
 programnamn: "Film- och TV-produktion"
-institution: "IIT"
+institution: "IKS"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2014-03-19 . Gäller fr.o.m.  HT 2014."
-tags: [utbildningsplan, program, IIT, tvärfakultet]
+tags: [utbildningsplan, program, IKS]
 scrape_hash: 53c5dc3744530dc3
-up: "IIT MOC"
+up: "IKS MOC"
 ---
 
 # KFTPG
 
 **Programnamn:** Film- och TV-produktion
-
-> [!info] Tvärfakultetsprogram
-> Detta program inkluderar kurser från flera fakulteter och visas
-> därför fristående i den globala grafvyn — kurslänkar bevaras dock
-> som vanliga hyperlänkar i texten nedan.
 
 - **Programkod:** KFTPG
 - **Programansvarig:** Axel Grigor
@@ -103,26 +98,26 @@ Det tredje läsåret förbereder sig studenten för ett yrkesverksamt liv genom 
 
 **_Första läsåret _**
 
-- <a class="no-graph" href="GBQ2UB">Introduktion till produktion av rörlig bild</a>, 15 hp
-- <a class="no-graph" href="GBQ3A5">Grunderna i filmproduktion</a>, 15 hp
+- [[GBQ2UB|Introduktion till produktion av rörlig bild]], 15 hp
+- [[GBQ3A5|Grunderna i filmproduktion]], 15 hp
 - Digitalefterbearbetning av ljud och bild, 15 hp
-- <a class="no-graph" href="BQ1081">TV-nyheter och flerkameraproduktion</a>, 15 hp
+- [[BQ1081|TV-nyheter och flerkameraproduktion]], 15 hp
 
 **_Andra läsåret _**
 
-- <a class="no-graph" href="BQ2057">Fördjupning i klippning för film/TV</a>, 7,5 hp
-- <a class="no-graph" href="GBQ2U3">Människan och den rörliga bilden</a>, 7,5 hp
-- <a class="no-graph" href="GBQ29D">Flerkameraproduktion, fördjupning</a>, 15 hp
-- <a class="no-graph" href="GMN3EK">Dokumentärfilmsproduktion</a>, 15 hp
-- <a class="no-graph" href="GBQ22U">Kvalificerad filmproduktion</a>, 15 hp
+- [[BQ2057|Fördjupning i klippning för film/TV]], 7,5 hp
+- [[GBQ2U3|Människan och den rörliga bilden]], 7,5 hp
+- [[GBQ29D|Flerkameraproduktion, fördjupning]], 15 hp
+- [[GMN3EK|Dokumentärfilmsproduktion]], 15 hp
+- [[GBQ22U|Kvalificerad filmproduktion]], 15 hp
 
 **_Tredje läsåret _**
 
-- <a class="no-graph" href="GBQ2NM">Vetenskapsteori och metod i Bildproduktion</a>, 7,5 hp
-- <a class="no-graph" href="GBQ2U9">Kandidatexamensarbete i Bildproduktion</a>, 15 hp
+- [[GBQ2NM|Vetenskapsteori och metod i Bildproduktion]], 7,5 hp
+- [[GBQ2U9|Kandidatexamensarbete i Bildproduktion]], 15 hp
 - Konceptutveckling inom medieproduktion, 7,5 hp
-- <a class="no-graph" href="GBQ29E">Exponeringsprojekt i bildproduktion</a>, 15 hp
-- <a class="no-graph" href="GBQ36E">Arbetsplatsförlagd bildproduktion</a>, 15 hp
+- [[GBQ29E|Exponeringsprojekt i bildproduktion]], 15 hp
+- [[GBQ36E|Arbetsplatsförlagd bildproduktion]], 15 hp
 
 ## 4. Examensbenämning
 

@@ -1,21 +1,16 @@
 ---
 programkod: HFRIG
 programnamn: "Filmproduktion för reklam och information – kandidatprogram"
-institution: "IIT"
+institution: "IKS"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2018-12-20 . Gäller fr.o.m.  HT 2018."
-tags: [utbildningsplan, program, IIT, tvärfakultet]
+tags: [utbildningsplan, program, IKS]
 scrape_hash: eb616771f856bb6a
-up: "IIT MOC"
+up: "IKS MOC"
 ---
 
 # HFRIG
 
 **Programnamn:** Filmproduktion för reklam och information – kandidatprogram
-
-> [!info] Tvärfakultetsprogram
-> Detta program inkluderar kurser från flera fakulteter och visas
-> därför fristående i den globala grafvyn — kurslänkar bevaras dock
-> som vanliga hyperlänkar i texten nedan.
 
 - **Programkod:** HFRIG
 - **Programansvarig:** Therese Herkules Henrik Stub
@@ -89,27 +84,27 @@ Under det tredje läsåret förbereder sig studenten för ett yrkesverksamt liv 
 **Första läsåret**
 
 - Det cinematiska språket: Mise-en-scène, 15 hp
-- <a class="no-graph" href="GBQ2U8">Den korta filmens berättarstruktur</a>, 7,5 hp
-- <a class="no-graph" href="GBQ2U7">Tillämpad filmdesign 1</a>, 7,5 hp
-- <a class="no-graph" href="GBQ2WH">Tillämpad filmdesign 2</a>, 7,5 hp
-- <a class="no-graph" href="GBQ2XD">Ljudinspelning och ljudläggning inom filmdesign</a>, 7,5 hp
-- <a class="no-graph" href="GBQ2AZ">Ljussättning och färgkorrigering inom filmdesign</a>, 7,5 hp
-- <a class="no-graph" href="GBQ2U3">Människan och den rörliga bilden</a>, 7,5 hp
+- [[GBQ2U8|Den korta filmens berättarstruktur]], 7,5 hp
+- [[GBQ2U7|Tillämpad filmdesign 1]], 7,5 hp
+- [[GBQ2WH|Tillämpad filmdesign 2]], 7,5 hp
+- [[GBQ2XD|Ljudinspelning och ljudläggning inom filmdesign]], 7,5 hp
+- [[GBQ2AZ|Ljussättning och färgkorrigering inom filmdesign]], 7,5 hp
+- [[GBQ2U3|Människan och den rörliga bilden]], 7,5 hp
 
 **Andra läsåret**
 
-- <a class="no-graph" href="GBQ2NH">Projektplanering och användarperspektiv</a>, 15 hp
-- <a class="no-graph" href="GBQ2U4">Informationsfilmsproduktion</a>, 15 hp
-- <a class="no-graph" href="GBQ2WG">Audiovisuell information och etik</a>, 15 hp
-- <a class="no-graph" href="GBQ2WJ">Reklamfilmsproduktion</a>, 15 hp
+- [[GBQ2NH|Projektplanering och användarperspektiv]], 15 hp
+- [[GBQ2U4|Informationsfilmsproduktion]], 15 hp
+- [[GBQ2WG|Audiovisuell information och etik]], 15 hp
+- [[GBQ2WJ|Reklamfilmsproduktion]], 15 hp
 
 **Tredje läsåret**
 
-- <a class="no-graph" href="GBQ2NM">Vetenskapsteori och metod i Bildproduktion</a>, 7,5 hp
-- <a class="no-graph" href="GBQ2U5">Kvalificerad filmdesign i transmedia</a>, 7,5 hp
-- <a class="no-graph" href="GBQ29E">Exponeringsprojekt i Bildproduktion</a>, 15 hp
-- <a class="no-graph" href="GBQ2U9">Kandidatexamensarbete i Bildproduktion</a>, 15 hp
-- <a class="no-graph" href="GBQ36E">Arbetsplatsförlagd bildproduktion</a>, 15 hp
+- [[GBQ2NM|Vetenskapsteori och metod i Bildproduktion]], 7,5 hp
+- [[GBQ2U5|Kvalificerad filmdesign i transmedia]], 7,5 hp
+- [[GBQ29E|Exponeringsprojekt i Bildproduktion]], 15 hp
+- [[GBQ2U9|Kandidatexamensarbete i Bildproduktion]], 15 hp
+- [[GBQ36E|Arbetsplatsförlagd bildproduktion]], 15 hp
 
 ## 4. Examensbenämning
 
