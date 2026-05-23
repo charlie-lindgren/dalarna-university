@@ -106,6 +106,9 @@ ANALYS_FILES: dict[str, dict[str, str]] = {
         "Lärandemål saknar punktlista (sv)": "Saknar punktlista (sv)",
         "Lärandemål saknar punktlista (en)": "Saknar punktlista (en)",
     },
+    "Betygsrapportering.md": {
+        "Betyg saknar punktlista": "Saknar punktlista",
+    },
     "Förkunskapskrav.md": {
         "Förkunskapskrav saknas":           "Sektion saknas",
         "Förkunskapskrav endast på engelska": "Endast engelsk variant",

@@ -23,6 +23,7 @@ Kontroller som körs:
   13. Förkunskapskrav — endast engelsk variant finns
   14. Förkunskapskrav — osannolikt kort innehåll
   15. Förkunskapskrav — stor sv/en-längdskillnad
+  16. Betyg — sektionen saknar punktlista (rapportering i löpande text)
 """
 
 import argparse
@@ -194,6 +195,34 @@ def check_betygsskala(files: list[Path]) -> list[dict]:
                 "code": course_code(p),
                 "subj": subject(p),
                 "detail": "Inkonsekvent delskalor: kursnivå U,3,4,5 men delmoment i U,G,VG",
+            })
+    return findings
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Check 6b — Betygsrapportering utan punktlista
+# ─────────────────────────────────────────────────────────────────────────────
+BETYG_BULLET_RE = re.compile(r"^\s*[-*]\s+\S", re.MULTILINE)
+
+
+def check_betyg_punktlista(files: list[Path]) -> list[dict]:
+    """Flagga kursplaner där `## Betyg`-sektionen saknar punktlista. Konventionen
+    är att modul- och delkursbetygsrapportering listas som bullets. Sektioner
+    skrivna helt i löpande text granskas inte vidare här — endast existensen
+    av minst en bullet kontrolleras."""
+    findings = []
+    for p in files:
+        body = strip_frontmatter(p.read_text(encoding="utf-8"))
+        betyg_section = extract_section(body, "Betyg")
+        if not betyg_section.strip():
+            continue
+        if not BETYG_BULLET_RE.search(betyg_section):
+            snippet = " ".join(betyg_section.split())[:120]
+            findings.append({
+                "check": "betyg-saknar-punktlista",
+                "code": course_code(p),
+                "subj": subject(p),
+                "detail": f"Betyg skrivet utan punktlista: {snippet}…",
             })
     return findings
 
@@ -585,6 +614,7 @@ CHECK_LABELS = {
     "introfras-fore-fras":   "Introfras före frasning",
     "frasning-avviker":      "Frasning avviker",
     "betygsskala-inkonsekvent": "Betygsskala inkonsekvent",
+    "betyg-saknar-punktlista": "Betyg saknar punktlista",
     "examinationsformer-utan-punktlista": "Examinationsformer utan punktlista",
     "omfång-få-mål":         "För få lärandemål",
     "omfång-många-mål":      "För många lärandemål",
@@ -620,6 +650,7 @@ def main():
         ("Introfras",                check_introfras),
         ("Frasningskonsistens",      check_frasning),
         ("Betygsskala",              check_betygsskala),
+        ("Betyg-punktlista",         check_betyg_punktlista),
         ("Examinationsformer-format", check_examinationsformer_format),
         ("Omfång lärandemål",        check_omfang),
         ("Långa bullets",            check_long_bullets),
