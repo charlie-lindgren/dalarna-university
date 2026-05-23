@@ -614,7 +614,17 @@ def build_programme_markdown(scraped: dict, kursplan_index: dict) -> str:
                     cname = _normalize_course_name(raw_name)
                     hit = _lookup_course(raw_name, kursplan_index)
                     if hit:
-                        lines.append(f"- [[{hit[0]}|{cname}]], {hp}")
+                        course_code, course_inst = hit
+                        if institution and course_inst and course_inst != institution:
+                            # Korsinstitutionell referens — programmet hämtar
+                            # en kurs från en annan institution. Behåll
+                            # navigeringen som ren HTML-länk (``no-graph``) så
+                            # att grafvyn inte broar institutionerna.
+                            lines.append(
+                                f'- <a class="no-graph" href="{course_code}">{cname}</a>, {hp}'
+                            )
+                        else:
+                            lines.append(f"- [[{course_code}|{cname}]], {hp}")
                     else:
                         lines.append(f"- {cname}, {hp}")
                 lines.append("")
