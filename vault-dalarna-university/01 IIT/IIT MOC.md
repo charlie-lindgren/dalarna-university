@@ -39,31 +39,20 @@ tags: [MOC, institution, IIT]
 
 ## Ämnen
 
-- [[Byggteknik MOC|Byggteknik]] (88 kurser)
+- [[Byggteknik MOC|Byggteknik]] (89 kurser)
 - [[Datateknik MOC|Datateknik]] (8 kurser)
 - [[Elektroteknik MOC|Elektroteknik]] (2 kurser)
 - [[Energiteknik MOC|Energiteknik]] (63 kurser)
 - [[Fysik MOC|Fysik]] (6 kurser)
 - [[Industriell ekonomi MOC|Industriell ekonomi]] (30 kurser)
-- [[Informatik MOC|Informatik]] (69 kurser)
+- [[Informatik MOC|Informatik]] (70 kurser)
 - [[Maskinteknik MOC|Maskinteknik]] (36 kurser)
 - [[Matematik MOC|Matematik]] (11 kurser)
 - [[Matematikdidaktik MOC|Matematikdidaktik]] (45 kurser)
-- [[Mikrodataanalys MOC|Mikrodataanalys]] (70 kurser)
+- [[Mikrodataanalys MOC|Mikrodataanalys]] (71 kurser)
 - [[Samhällsbyggnadsteknik MOC|Samhällsbyggnadsteknik]] (24 kurser)
 - [[Statistik MOC|Statistik]] (4 kurser)
 
-## Huvudområden
-
-- <a class="no-graph" href="Huvudområden/Huvudområde - Assisterande teknik (IIT) MOC">Assisterande teknik</a> (7 kurser, 2 ämnen)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Datateknik MOC">Datateknik</a> (17 kurser, 3 ämnen)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Energiteknik MOC">Energiteknik</a> (16 kurser, 2 ämnen)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Industriell ekonomi (IIT) MOC">Industriell ekonomi</a> (22 kurser, 2 ämnen)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Informatik MOC">Informatik</a> (54 kurser, 2 ämnen)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Kulturgeografi (IIT) MOC">Kulturgeografi</a> (6 kurser, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Mikrodataanalys (IIT) MOC">Mikrodataanalys</a> (53 kurser, 5 ämnen)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Samhällsbyggnadsteknik MOC">Samhällsbyggnadsteknik</a> (25 kurser, 2 ämnen)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Solenergiteknik MOC">Solenergiteknik</a> (24 kurser, 2 ämnen)
 ## Kvalitetsanalys
 
 - <a class="no-graph" href="01 IIT/Analys/Stavfel och språkbruk">Stavfel och språkbruk</a>

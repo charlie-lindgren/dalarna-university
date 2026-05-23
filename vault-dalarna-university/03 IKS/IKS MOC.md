@@ -42,16 +42,16 @@ tags: [MOC, institution, IKS]
 ## Ämnen
 
 - [[Afrikanska studier MOC|Afrikanska studier]] (19 kurser)
-- [[Arbetsvetenskap MOC|Arbetsvetenskap]] (54 kurser)
+- [[Arbetsvetenskap MOC|Arbetsvetenskap]] (56 kurser)
 - [[Bild MOC|Bild]] (15 kurser)
 - [[Bildproduktion MOC|Bildproduktion]] (79 kurser)
 - [[Entreprenörskap och innovationsteknik MOC|Entreprenörskap och innovationsteknik]] (22 kurser)
 - [[Filosofi MOC|Filosofi]] (23 kurser)
-- [[Företagsekonomi MOC|Företagsekonomi]] (39 kurser)
+- [[Företagsekonomi MOC|Företagsekonomi]] (41 kurser)
 - [[Historia MOC|Historia]] (82 kurser)
 - [[Kulturgeografi MOC|Kulturgeografi]] (23 kurser)
 - [[Ljud- och musikproduktion MOC|Ljud- och musikproduktion]] (68 kurser)
-- [[Medieproduktion MOC|Medieproduktion]] (34 kurser)
+- [[Medieproduktion MOC|Medieproduktion]] (36 kurser)
 - [[Nationalekonomi MOC|Nationalekonomi]] (38 kurser)
 - [[Pedagogik MOC|Pedagogik]] (45 kurser)
 - [[Pedagogiskt arbete MOC|Pedagogiskt arbete]] (204 kurser)
@@ -62,29 +62,6 @@ tags: [MOC, institution, IKS]
 - [[Statsvetenskap MOC|Statsvetenskap]] (52 kurser)
 - [[Turismvetenskap MOC|Turismvetenskap]] (55 kurser)
 
-## Huvudområden
-
-- <a class="no-graph" href="Huvudområden/Huvudområde - Afrikanska studier MOC">Afrikanska studier</a> (38 kurser, 2 ämnen)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Arbetsvetenskap MOC">Arbetsvetenskap</a> (5 kurser, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Audiovisuella studier MOC">Audiovisuella studier</a> (6 kurser, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Bildproduktion MOC">Bildproduktion</a> (54 kurser, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Företagsekonomi MOC">Företagsekonomi</a> (25 kurser, 2 ämnen)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Historia MOC">Historia</a> (41 kurser, 2 ämnen)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Industriell ekonomi (IKS) MOC">Industriell ekonomi</a> (6 kurser, 3 ämnen)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Interkulturella litteraturstudier (IKS) MOC">Interkulturella litteraturstudier</a> (1 kurs, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Internationella relationer MOC">Internationella relationer</a> (9 kurser, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Kulturgeografi (IKS) MOC">Kulturgeografi</a> (32 kurser, 3 ämnen)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Ljud- och musikproduktion MOC">Ljud- och musikproduktion</a> (56 kurser, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Materialteknik MOC">Materialteknik</a> (1 kurs, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Medieproduktion MOC">Medieproduktion</a> (11 kurser, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Mikrodataanalys (IKS) MOC">Mikrodataanalys</a> (12 kurser, 2 ämnen)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Nationalekonomi MOC">Nationalekonomi</a> (34 kurser, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Pedagogiskt arbete MOC">Pedagogiskt arbete</a> (18 kurser, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Personal och arbetsliv MOC">Personal och arbetsliv</a> (17 kurser, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Religionsvetenskap MOC">Religionsvetenskap</a> (33 kurser, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Sociologi MOC">Sociologi</a> (23 kurser, 3 ämnen)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Statsvetenskap MOC">Statsvetenskap</a> (39 kurser, 4 ämnen)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Turismvetenskap MOC">Turismvetenskap</a> (62 kurser, 2 ämnen)
 ## Kvalitetsanalys
 
 - <a class="no-graph" href="03 IKS/Analys/Stavfel och språkbruk">Stavfel och språkbruk</a>

@@ -28,21 +28,12 @@ tags: [MOC, institution, IHV]
 - [[Kemi MOC|Kemi]] (1 kurser)
 - [[Medicinsk vetenskap MOC|Medicinsk vetenskap]] (25 kurser)
 - [[Naturvetenskap MOC|Naturvetenskap]] (13 kurser)
-- [[Omvårdnad MOC|Omvårdnad]] (51 kurser)
+- [[Omvårdnad MOC|Omvårdnad]] (53 kurser)
 - [[Psykologi MOC|Psykologi]] (1 kurser)
 - [[Sexuell, reproduktiv och perinatal hälsa MOC|Sexuell, reproduktiv och perinatal hälsa]] (64 kurser)
 - [[Socialt arbete MOC|Socialt arbete]] (86 kurser)
 - [[Vårdvetenskap MOC|Vårdvetenskap]] (21 kurser)
 
-## Huvudområden
-
-- <a class="no-graph" href="Huvudområden/Huvudområde - Assisterande teknik (IHV) MOC">Assisterande teknik</a> (2 kurser, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Fysioterapi MOC">Fysioterapi</a> (6 kurser, 2 ämnen)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Idrotts- och hälsovetenskap MOC">Idrotts- och hälsovetenskap</a> (122 kurser, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Omvårdnad MOC">Omvårdnad</a> (42 kurser, 3 ämnen)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Sexuell, reproduktiv och perinatal hälsa MOC">Sexuell, reproduktiv och perinatal hälsa</a> (43 kurser, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Socialt arbete MOC">Socialt arbete</a> (36 kurser, 2 ämnen)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Vårdvetenskap MOC">Vårdvetenskap</a> (15 kurser, 2 ämnen)
 ## Kvalitetsanalys
 
 - <a class="no-graph" href="02 IHV/Analys/Stavfel och språkbruk">Stavfel och språkbruk</a>

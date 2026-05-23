@@ -29,37 +29,19 @@ tags: [MOC, institution, ISLL]
 
 ## Ämnen
 
-- [[Arabiska MOC|Arabiska]] (30 kurser)
+- [[Arabiska MOC|Arabiska]] (31 kurser)
 - [[Engelska MOC|Engelska]] (95 kurser)
 - [[Franska MOC|Franska]] (62 kurser)
 - [[Italienska MOC|Italienska]] (32 kurser)
-- [[Japanska MOC|Japanska]] (38 kurser)
+- [[Japanska MOC|Japanska]] (39 kurser)
 - [[Kinesiska MOC|Kinesiska]] (51 kurser)
-- [[Portugisiska MOC|Portugisiska]] (31 kurser)
+- [[Portugisiska MOC|Portugisiska]] (32 kurser)
 - [[Ryska MOC|Ryska]] (33 kurser)
 - [[Spanska MOC|Spanska]] (40 kurser)
 - [[Svenska MOC|Svenska]] (22 kurser)
 - [[Svenska som andraspråk MOC|Svenska som andraspråk]] (85 kurser)
 - [[Tyska MOC|Tyska]] (59 kurser)
 
-## Huvudområden
-
-- <a class="no-graph" href="Huvudområden/Huvudområde - Arabiska MOC">Arabiska</a> (27 kurser, 2 ämnen)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Engelska MOC">Engelska</a> (36 kurser, 2 ämnen)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Engelskspråkig litteratur MOC">Engelskspråkig litteratur</a> (9 kurser, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Franska MOC">Franska</a> (35 kurser, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Interkulturella litteraturstudier (ISLL) MOC">Interkulturella litteraturstudier</a> (44 kurser, 5 ämnen)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Italienska MOC">Italienska</a> (27 kurser, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Japanska MOC">Japanska</a> (20 kurser, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Kinesiska MOC">Kinesiska</a> (33 kurser, 2 ämnen)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Litteraturvetenskap MOC">Litteraturvetenskap</a> (1 kurs, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Portugisiska MOC">Portugisiska</a> (19 kurser, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Ryska MOC">Ryska</a> (26 kurser, 2 ämnen)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Spanska MOC">Spanska</a> (19 kurser, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Svenska som andraspråk MOC">Svenska som andraspråk</a> (41 kurser, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Svenska språket MOC">Svenska språket</a> (5 kurser, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Tillämpad engelsk lingvistik MOC">Tillämpad engelsk lingvistik</a> (6 kurser, 1 ämne)
-- <a class="no-graph" href="Huvudområden/Huvudområde - Tyska MOC">Tyska</a> (36 kurser, 1 ämne)
 ## Kvalitetsanalys
 
 - <a class="no-graph" href="04 ISLL/Analys/Stavfel och språkbruk">Stavfel och språkbruk</a>
