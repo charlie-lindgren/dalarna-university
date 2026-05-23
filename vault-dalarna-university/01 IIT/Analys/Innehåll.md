@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Innehåll.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (126 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Innehåll.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (127 rader)</span></a>
 
-> [!example]- 126 fynd — klicka för att expandera
+> [!example]- 127 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -70,6 +70,7 @@ status: första pass
 > | [GMD2H3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2H3) | MDI | Ostyckad textmassa | 5 meningar i ett stycke (836 tecken): I kursen behandlas statistikens och sannolikhetsberäkningarnas roll i matematik samt hur statistiska undersökningar kan … |
 > | [GMD2H4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2H4) | MDI | Ostyckad textmassa | 5 meningar i ett stycke (408 tecken): Kursen inleds med geometrins historia. Därefter behandlas grundläggande begrepp och samband i trianglar och cirklar såso… |
 > | [GMD2MH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2MH) | MDI | Ostyckad textmassa | 5 meningar i ett stycke (836 tecken): I kursen behandlas statistikens och sannolikhetsberäkningarnas roll i matematik samt hur statistiska undersökningar kan … |
+> | [GMD2TV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2TV) | MDI | Stub/platshållare | Osannolikt kort (32 tecken): 'Kursen består av fyra delkurser.' |
 > | [GMD3GZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD3GZ) | MDI | Ostyckad textmassa | 5 meningar i ett stycke (692 tecken): Kursen är en introduktiontill matematikdidaktik som vetenskapsområde och undervisningspraktik. I kursen behandlas olika … |
 > | [MD1097](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD1097) | MDI | Ostyckad textmassa | 8 meningar i ett stycke (1093 tecken): Kursen belyser matematikens historia i stora drag, med särskild tonvikt på olika talsystem, symboler och räkneoperatione… |
 > | [MD1098](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD1098) | MDI | Ostyckad textmassa | 4 meningar i ett stycke (643 tecken): I kursen introduceras nationell såväl som internationell forskning om hur elever lär matematik och hur undervisningen ka… |

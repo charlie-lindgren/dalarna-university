@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Innehåll.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (302 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Innehåll.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (304 rader)</span></a>
 
-> [!example]- 302 fynd — klicka för att expandera
+> [!example]- 304 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -241,6 +241,7 @@ status: första pass
 > | [GPG3BE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3BE) | PGA | Ostyckad textmassa | 7 meningar i ett stycke (732 tecken): I kursen fokuseras det pedagogiska ledarskapet i ett didaktiskt och yrkesetiskt perspektiv. Vidare diskuteras och proble… |
 > | [GPG3CK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CK) | PGA | Ostyckad textmassa | 5 meningar i ett stycke (890 tecken): Kursen tar sin utgångspunkt i frågeställningarna V_ad är skola? _och _Varför har vi den?_ Den svenska skolans samhällsup… |
 > | [GPG3CN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CN) | PGA | Ostyckad textmassa | 6 meningar i ett stycke (669 tecken): Denna kurs vänder sig till lärare på grund- och gymnasieskolor. Den behandlar olika former av rollspel i relation till a… |
+> | [GPG3FR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FR) | PGA | Stub/platshållare | Osannolikt kort (16 tecken): 'Innehåll saknas.' |
 > | [GPG3FS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FS) | PGA | Ostyckad textmassa | 4 meningar i ett stycke (429 tecken): Den studerande planerar och genomför undervisning i den verksamhetsförlagda utbildningen. Didaktiska frågor och utmaning… |
 > | [GPG3FT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FT) | PGA | Ostyckad textmassa | 4 meningar i ett stycke (637 tecken): I kursen integreras ämneskunskaper och utbildningsvetenskap och den studerande tar ett självständigt helhetsansvar för p… |
 > | [GPG3FU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FU) | PGA | Ostyckad textmassa | 4 meningar i ett stycke (620 tecken): I kursen undersöks den egna skolans systematiska kvalitetsarbete samt olika arenor för lärares och övrig personals läran… |
@@ -306,6 +307,7 @@ status: första pass
 > | [TR1019](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR1019) | TRU | Ostyckad textmassa | 4 meningar i ett stycke (570 tecken): I kursen ges en introduktion till kartografi, korologi och GIS (Geografiska Informationssystem). Kursen behandlar översi… |
 > | [TR1025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR1025) | TRU | Ostyckad textmassa | 4 meningar i ett stycke (541 tecken): Kursen inleds med diskusisoner kring olika sorters tjänster, deras karaktäristik och betydelse i samhället med särskild … |
 > | [TR1029](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR1029) | TRU | Ostyckad textmassa | 4 meningar i ett stycke (541 tecken): Kursen inleds med diskusisoner kring olika sorters tjänster, deras karaktäristik och betydelse i samhället med särskild … |
+> | [TR1030](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR1030) | TRU | Modulrubrik utan hp | Modulrubrik utan hp-angivelse: 'modul 1' |
 > | [TR1033](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR1033) | TRU | Ostyckad textmassa | 7 meningar i ett stycke (789 tecken): Kursen behandlar turismens roll i samhället. Utveckling av turismen i olika delar av världen analyseras utifrån den glob… |
 > | [TR1034](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR1034) | TRU | Ostyckad textmassa | 5 meningar i ett stycke (726 tecken): Kursen utgår från att studenten i samråd med handledare från företag och akademi fastställer ett strategiskt utvecklings… |
 > | [AS2001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS2001) | UVX | Ostyckad textmassa | 5 meningar i ett stycke (439 tecken): Kursen behandlar utbildningspolitik samt utbildningens roll för utvecklingen av afrikanska samhällen. Fokus i kursen är … |
@@ -319,17 +321,17 @@ status: första pass
 
 ## Syfte
 
-Sektionen `## Innehåll` beskriver kursens stoff och upplägg. När sektionen består av en monolitisk textmassa — flera meningar utan styckeindelning — blir det svårare för studenter att skanna efter delmoment, teman eller progressionen genom kursen. Konventionen är att längre innehållsbeskrivningar styckeindelas så att läsbarheten håller, och att varje stycke motsvarar ett logiskt avsnitt (delkurs, tema, fas). Syftet med analysen är att kartlägga **vilka kursplaner som har ett enda långt stycke trots att texten innehåller flera meningar**.
+Sektionen `## Innehåll` beskriver kursens stoff och upplägg. När sektionen brister i struktur — som monolitisk textmassa, som tom platshållare, eller som modulrubriker utan hp-angivelser — blir det svårare för studenter att skanna efter delmoment, teman och progressionen genom kursen. Syftet med analysen är att kartlägga tre olika strukturproblem i Innehåll-sektionen.
 
 ## Metod
 
-Sektionen `## Innehåll` extraheras från den svenska sidan. En kursplan flaggas om:
+Sektionen `## Innehåll` extraheras från den svenska sidan. Tre olika mönster flaggas:
 
-1. Sektionen består av endast ett stycke (ingen blankrad mellan textblock), och
-2. Stycket innehåller minst 4 meningar, och
-3. Stycket är minst 400 tecken långt.
+1. **Ostyckad textmassa** — sektionen består av endast ett stycke (ingen blankrad mellan textblock), stycket innehåller minst 4 meningar, och är minst 400 tecken långt. Mjuka radbrytningar via två efterföljande mellanslag (markdowns `<br>`-semantik) räknas inte som styckeindelning eftersom de inte skapar ett nytt stycke vid renderingen.
+2. **Stub/platshållare** — sektionen är under 80 tecken, t.ex. *"Innehåll saknas."* eller *"Kursen består av tre delkurser."* utan beskrivning av delkurserna.
+3. **Modulrubrik utan hp-angivelse** — sektionen refererar till `Modul N` eller `Delkurs N` men ingen hp-siffra finns i sektionen, vilket gör det svårt att se hur kursens totala hp fördelar sig.
 
-Tröskelvärdena är medvetet konservativa — korta innehållsbeskrivningar (1–3 meningar) anses inte vinna på styckeindelning, och mycket korta sektioner under 400 tecken faller utanför oavsett antal meningar. Mjuka radbrytningar via två efterföljande mellanslag (markdowns `<br>`-semantik) räknas inte som styckeindelning eftersom de inte skapar ett nytt stycke vid renderingen.
+Tröskelvärdena för stycketestet är medvetet konservativa — korta innehållsbeskrivningar (1–3 meningar) anses inte vinna på styckeindelning, och mycket korta sektioner under 400 tecken faller utanför oavsett antal meningar.
 
 ## Datakälla
 
@@ -340,4 +342,5 @@ Tröskelvärdena är medvetet konservativa — korta innehållsbeskrivningar (1�
 
 1. **Inför blankrader mellan logiska avsnitt** — varje delkurs, tema eller fas blir sitt eget stycke.
 2. **Använd fetstilta delrubriker eller punktlistor** när innehållet naturligt delas in i moduler eller faser med egna hp-värden.
-3. **Kortare innehållsbeskrivningar** behöver inte alltid styckeindelas, men om sektionen växer förbi 3–4 meningar bör styckesstrukturen ses över i samband med nästa revidering.
+3. **Ersätt platshållartexter** med en konkret beskrivning av stoffet. Kursplaner med stub-sektioner bör revideras vid nästa tillfälle.
+4. **Ange hp per modul** när Innehåll listar moduler eller delkurser — t.ex. *"Modul 1: Grammatik, 7,5 hp"* — så att studenter och studieadministration kan se hur kursens totala omfattning fördelar sig.

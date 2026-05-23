@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Innehåll.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (91 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Innehåll.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (96 rader)</span></a>
 
-> [!example]- 91 fynd — klicka för att expandera
+> [!example]- 96 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -31,6 +31,7 @@ status: första pass
 > | [GIH2WT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2WT) | IDA | Ostyckad textmassa | 5 meningar i ett stycke (768 tecken): I denna kurs behandlas olika fysiologiska förmågors träningsbarhet hos barn och ungdomar, det vill säga vid vilken ålder… |
 > | [GIH2WU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2WU) | IDA | Ostyckad textmassa | 5 meningar i ett stycke (823 tecken): I denna kurs behandlas olika fysiologiska förmågors träningsbarhet hos ungdomar och vuxna, där stort fokus läggs på hur … |
 > | [GIH2X3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2X3) | IDA | Ostyckad textmassa | 9 meningar i ett stycke (1358 tecken): Kursen syftar till att den studerande utvecklar sina teoretiska kunskaper inom kunskapsområdet träningsvetenskap och sin… |
+> | [GIH2ZE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZE) | IDA | Stub/platshållare | Osannolikt kort (62 tecken): 'Betyg och bedömningsfrågor knutna till ämnet idrott och hälsa.' |
 > | [GIH32Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH32Z) | IDA | Ostyckad textmassa | 5 meningar i ett stycke (807 tecken): Verksamhetsförlagt projekt (VFP) inom idrottstränarprogrammet utförs i en organisation som verkar inom området idrott, f… |
 > | [GIH335](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH335) | IDA | Ostyckad textmassa | 5 meningar i ett stycke (830 tecken): Entreprenörskap inom området idrott och hälsa sätts i ett nationellt, internationellt och globalt perspektiv. I kursen f… |
 > | [GIH33P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH33P) | IDA | Ostyckad textmassa | 4 meningar i ett stycke (581 tecken): Kursen belyser de yttre krafter som påverkar en idrottare under fysisk aktivitet. Vidare så studeras vilken inre muskelk… |
@@ -38,6 +39,7 @@ status: första pass
 > | [GIH35Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35Z) | IDA | Ostyckad textmassa | 5 meningar i ett stycke (421 tecken): Kursen omfattar såväl teoretisk som tillämpad strategisk medieplanering för både traditionella och nya medier. Kursen in… |
 > | [GIH37C](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37C) | IDA | Ostyckad textmassa | 4 meningar i ett stycke (513 tecken): I kursen utforskas olika möjligheter att röra sig till musikens puls, rytm och karaktär. Den studerande får skapa och ge… |
 > | [GIH39C](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH39C) | IDA | Ostyckad textmassa | 4 meningar i ett stycke (513 tecken): I kursen utforskas olika möjligheter att röra sig till musikens puls, rytm och karaktär. Den studerande får skapa och ge… |
+> | [GIH39F](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH39F) | IDA | Stub/platshållare | Osannolikt kort (62 tecken): 'Betyg och bedömningsfrågor knutna till ämnet idrott och hälsa.' |
 > | [GIH3AQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AQ) | IDA | Ostyckad textmassa | 7 meningar i ett stycke (922 tecken): I kursen behandlas teoretiska och praktiska metoder för att planera, genomföra och utvärdera styrketräning för tävlingsi… |
 > | [GIH3D4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3D4) | IDA | Ostyckad textmassa | 9 meningar i ett stycke (1358 tecken): Kursen syftar till att den studerande utvecklar sina teoretiska kunskaper inom kunskapsområdet träningsvetenskap och sin… |
 > | [GIH3D5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3D5) | IDA | Ostyckad textmassa | 9 meningar i ett stycke (1298 tecken): Kursen syftar till att den studerande utvecklar sina teoretiska kunskaper inom kunskapsområdet träningsvetenskap och sin… |
@@ -55,6 +57,8 @@ status: första pass
 > | [IH1015](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1015) | IDA | Ostyckad textmassa | 5 meningar i ett stycke (476 tecken): I kursen introduceras några socialpsykologiska teorier om individer och grupper. Med dessa teorier som grund granskas oc… |
 > | [IH1025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1025) | IDA | Ostyckad textmassa | 7 meningar i ett stycke (630 tecken): I kursen behandlas begreppen testers validitet och reliabilitet. Därutöver belyses testers roll för optimering av hälsoa… |
 > | [IH1026](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1026) | IDA | Ostyckad textmassa | 4 meningar i ett stycke (505 tecken): I kursen behandlas idrottsmedicinska grunder såsom förberedelse och träning, förebyggande av skador, diagnos och behandl… |
+> | [IH1097](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1097) | IDA | Stub/platshållare | Osannolikt kort (70 tecken): 'I kursen behandlas hur strategiska nätverk och partnerskap kan byggas.' |
+> | [IH1101](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1101) | IDA | Stub/platshållare | Osannolikt kort (75 tecken): 'Kursen behandlar produktutvecklingsprocessen utifrån aktuell teoribildning.' |
 > | [IH1113](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1113) | IDA | Ostyckad textmassa | 4 meningar i ett stycke (625 tecken): I kursen behandlas grundläggande kunskaper om och vissa färdigheter i åldersanpassad träning med specifik inriktning mot… |
 > | [IH1114](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1114) | IDA | Ostyckad textmassa | 7 meningar i ett stycke (990 tecken): I kursen studeras grundläggande kunskaper om näringsbehov och rekommendationer vid fysisk aktivitet på olika nivåer. Kur… |
 > | [IH1130](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1130) | IDA | Ostyckad textmassa | 8 meningar i ett stycke (1202 tecken): I kursen studeras människokroppens uppbyggnad och dess funktion i förhållande till idrott och fysisk aktivitet. Särskild… |
@@ -80,6 +84,7 @@ status: första pass
 > | [ASA266](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA266) | SAA | Ostyckad textmassa | 4 meningar i ett stycke (476 tecken): Kursen fokuserar på personer med funktionsnedsättning ur ett brukar-, samhälls- och delaktighetsperspektiv. Levnadsvillk… |
 > | [ASA27E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA27E) | SAA | Ostyckad textmassa | 4 meningar i ett stycke (478 tecken): Kursen behandlar elevhälsopersonalens roll, kompetens och yrkesområde som delaktig i arbetet för att förebygga, fånga up… |
 > | [GSA2GZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2GZ) | SAA | Ostyckad textmassa | 4 meningar i ett stycke (515 tecken): I kursen studeras och behandlas historik, grunder och förhållningssätt inom kognitiv beteendeterapi. Betoningen i kursen… |
+> | [GSA2NC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2NC) | SAA | Stub/platshållare | Osannolikt kort (55 tecken): '**Moment 1. Campusförlagd utbildning, 5 högskolepoäng**' |
 > | [GSA2RE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2RE) | SAA | Ostyckad textmassa | 5 meningar i ett stycke (559 tecken): Kursen introducerar den studerande i svensk och internationell socialpolitik utifrån centrala socialpolitiska begrepp oc… |
 > | [GSA3AS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3AS) | SAA | Ostyckad textmassa | 5 meningar i ett stycke (703 tecken): Kursen är en grundläggande kurs om samsjuklighet i form av skadligt bruk eller beroende avseende alkohol, narkotika elle… |
 > | [GSA3HA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3HA) | SAA | Ostyckad textmassa | 4 meningar i ett stycke (510 tecken): Kursen behandlar teoretiska och praktiska kunskaper i socialt arbete rörande försörjning, rehabilitering och aktivering … |
@@ -108,17 +113,17 @@ status: första pass
 
 ## Syfte
 
-Sektionen `## Innehåll` beskriver kursens stoff och upplägg. När sektionen består av en monolitisk textmassa — flera meningar utan styckeindelning — blir det svårare för studenter att skanna efter delmoment, teman eller progressionen genom kursen. Konventionen är att längre innehållsbeskrivningar styckeindelas så att läsbarheten håller, och att varje stycke motsvarar ett logiskt avsnitt (delkurs, tema, fas). Syftet med analysen är att kartlägga **vilka kursplaner som har ett enda långt stycke trots att texten innehåller flera meningar**.
+Sektionen `## Innehåll` beskriver kursens stoff och upplägg. När sektionen brister i struktur — som monolitisk textmassa, som tom platshållare, eller som modulrubriker utan hp-angivelser — blir det svårare för studenter att skanna efter delmoment, teman och progressionen genom kursen. Syftet med analysen är att kartlägga tre olika strukturproblem i Innehåll-sektionen.
 
 ## Metod
 
-Sektionen `## Innehåll` extraheras från den svenska sidan. En kursplan flaggas om:
+Sektionen `## Innehåll` extraheras från den svenska sidan. Tre olika mönster flaggas:
 
-1. Sektionen består av endast ett stycke (ingen blankrad mellan textblock), och
-2. Stycket innehåller minst 4 meningar, och
-3. Stycket är minst 400 tecken långt.
+1. **Ostyckad textmassa** — sektionen består av endast ett stycke (ingen blankrad mellan textblock), stycket innehåller minst 4 meningar, och är minst 400 tecken långt. Mjuka radbrytningar via två efterföljande mellanslag (markdowns `<br>`-semantik) räknas inte som styckeindelning eftersom de inte skapar ett nytt stycke vid renderingen.
+2. **Stub/platshållare** — sektionen är under 80 tecken, t.ex. *"Innehåll saknas."* eller *"Kursen består av tre delkurser."* utan beskrivning av delkurserna.
+3. **Modulrubrik utan hp-angivelse** — sektionen refererar till `Modul N` eller `Delkurs N` men ingen hp-siffra finns i sektionen, vilket gör det svårt att se hur kursens totala hp fördelar sig.
 
-Tröskelvärdena är medvetet konservativa — korta innehållsbeskrivningar (1–3 meningar) anses inte vinna på styckeindelning, och mycket korta sektioner under 400 tecken faller utanför oavsett antal meningar. Mjuka radbrytningar via två efterföljande mellanslag (markdowns `<br>`-semantik) räknas inte som styckeindelning eftersom de inte skapar ett nytt stycke vid renderingen.
+Tröskelvärdena för stycketestet är medvetet konservativa — korta innehållsbeskrivningar (1–3 meningar) anses inte vinna på styckeindelning, och mycket korta sektioner under 400 tecken faller utanför oavsett antal meningar.
 
 ## Datakälla
 
@@ -129,4 +134,5 @@ Tröskelvärdena är medvetet konservativa — korta innehållsbeskrivningar (1�
 
 1. **Inför blankrader mellan logiska avsnitt** — varje delkurs, tema eller fas blir sitt eget stycke.
 2. **Använd fetstilta delrubriker eller punktlistor** när innehållet naturligt delas in i moduler eller faser med egna hp-värden.
-3. **Kortare innehållsbeskrivningar** behöver inte alltid styckeindelas, men om sektionen växer förbi 3–4 meningar bör styckesstrukturen ses över i samband med nästa revidering.
+3. **Ersätt platshållartexter** med en konkret beskrivning av stoffet. Kursplaner med stub-sektioner bör revideras vid nästa tillfälle.
+4. **Ange hp per modul** när Innehåll listar moduler eller delkurser — t.ex. *"Modul 1: Grammatik, 7,5 hp"* — så att studenter och studieadministration kan se hur kursens totala omfattning fördelar sig.

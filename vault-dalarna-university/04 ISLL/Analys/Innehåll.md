@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Innehåll.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (191 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Innehåll.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (195 rader)</span></a>
 
-> [!example]- 191 fynd — klicka för att expandera
+> [!example]- 195 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -23,6 +23,7 @@ status: första pass
 > | [GAR2HR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR2HR) | ARA | Ostyckad textmassa | 4 meningar i ett stycke (606 tecken): Kursen introducerar arabisk barn- och ungdomslitteratur och fokuserar på genrens utveckling under 1900- och 2000-talet i… |
 > | [GAR2VU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR2VU) | ARA | Ostyckad textmassa | 4 meningar i ett stycke (566 tecken): Kursen är uppdelad i två moduler, i den första modulen, _Akademiskt skrivande - metod_, studeras några av de klassiska k… |
 > | [GAR34X](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR34X) | ARA | Ostyckad textmassa | 8 meningar i ett stycke (764 tecken): Kursen förutsätter inga kunskaper i det arabiska språket. Den består av två moduler; språkfärdighet 1 och 2. Språkfärdig… |
+> | [GAR34X](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR34X) | ARA | Modulrubrik utan hp | Modulrubrik utan hp-angivelse: 'modul 1' |
 > | [GAR38K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR38K) | ARA | Ostyckad textmassa | 6 meningar i ett stycke (606 tecken): Kursen består av tre moduler. Modulerna _Språkfärdighet 1_ och _Språkfärdighet 2_ bygger på varandra. I modulerna introd… |
 > | [GAR38L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR38L) | ARA | Ostyckad textmassa | 7 meningar i ett stycke (632 tecken): Kursen består av tre moduler. Modulen _Språkfärdighet 2 _bygger på färdigheter från _Språkfärdighet 1_. I båda modulerna… |
 > | [GAR38M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR38M) | ARA | Ostyckad textmassa | 7 meningar i ett stycke (734 tecken): Kursen är uppbyggd runt tre moduler. Modulerna _Grammatik och textläsning_ samt _Muntlig språkfärdighet _samläses; modul… |
@@ -59,12 +60,14 @@ status: första pass
 > | [GEN2QW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2QW) | ENA | Ostyckad textmassa | 7 meningar i ett stycke (1129 tecken): Kursen ger en teoretisk grund till språklärande och språkundervisning och kompletterar övriga studier i engelska inför d… |
 > | [GEN2RZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2RZ) | ENA | Ostyckad textmassa | 7 meningar i ett stycke (909 tecken): Kursen introducerar ett genreperspektiv på muntliga presentationer i akademiska och professionella (arbetslivsrelaterade… |
 > | [GEN2S2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2S2) | ENA | Ostyckad textmassa | 4 meningar i ett stycke (567 tecken): I kursen får studenterna möjligheter att delta i övningar där de får utforska olika sätt att kommunicera på arbetsplatse… |
+> | [GEN2VE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2VE) | ENA | Modulrubrik utan hp | Modulrubrik utan hp-angivelse: 'Modul 1' |
 > | [GEN2VF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2VF) | ENA | Ostyckad textmassa | 6 meningar i ett stycke (767 tecken): Kursen består av tre moduler. **Modul 1. Grammatik - 7.5 hp** Grammatikmodulen behandlar grundläggande delar av den enge… |
 > | [GEN33R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN33R) | ENA | Ostyckad textmassa | 5 meningar i ett stycke (536 tecken): Kursen innehåller studier av ett urval moderna och samtida barn- och ungdomsverk från den engelskspråkiga världen. Grund… |
 > | [GEN35G](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN35G) | ENA | Ostyckad textmassa | 4 meningar i ett stycke (464 tecken): Kursen omfattar studier om olika syn på språklärande, som under seminarierna bearbetas och diskuteras. Kursen behandlar … |
 > | [GEN3BQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3BQ) | ENA | Ostyckad textmassa | 4 meningar i ett stycke (568 tecken): Kursen innehåller ett tematiskt studium av ett antal samtida populära texter från den engelskspråkiga världen. Genom att… |
 > | [GEN3C5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3C5) | ENA | Ostyckad textmassa | 5 meningar i ett stycke (488 tecken): Kursen består av två moduler. I modulen _Form och funktion_ introduceras perspektiv på skönlitteratur som fokuserar på l… |
 > | [GEN3DH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DH) | ENA | Ostyckad textmassa | 4 meningar i ett stycke (583 tecken): Kursen introducerar ett urval av representativa litteraturteorier och tillhörande metodologier för litteraturkritik från… |
+> | [GEN3DK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DK) | ENA | Stub/platshållare | Osannolikt kort (31 tecken): 'Kursen består av tre delkurser.' |
 > | [GEN3E6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3E6) | ENA | Ostyckad textmassa | 5 meningar i ett stycke (703 tecken): Kursen innehåller en översikt av engelsk lingvistik. Kursen behandlar olika perspektiv på språk och betydelse och tillha… |
 > | [GEN3E7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3E7) | ENA | Ostyckad textmassa | 6 meningar i ett stycke (745 tecken): Kursen innehåller ett studium av brittisk och amerikansk litteratur- och idéhistoria från renässansen till postmodernism… |
 > | [AFR24A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR24A) | FRA | Ostyckad textmassa | 8 meningar i ett stycke (1201 tecken): Examensarbetet har en tydlig ämnesdidaktisk prägel och fokuserar på franskämnets vad-, hur- och varför-frågor. Examensar… |
@@ -100,6 +103,7 @@ status: första pass
 > | [GKI2PY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2PY) | KIA | Ostyckad textmassa | 4 meningar i ett stycke (480 tecken): Kursen består av två moduler: 1. Tala och lyssna: I den här modulen tränar studenten på att tala och lyssna genom gramma… |
 > | [GKI2QA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2QA) | KIA | Ostyckad textmassa | 5 meningar i ett stycke (538 tecken): Kursen består av ett individuellt projekt inom något av ämnesområdena kinesisk litteratur, lingvistik, kulturella studie… |
 > | [GKI2VM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2VM) | KIA | Ostyckad textmassa | 4 meningar i ett stycke (535 tecken): I kursen studeras inlärning av och undervisning i kinesiska som främmande språk i ljuset av aktuell forskning. Didaktisk… |
+> | [GKI2W3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2W3) | KIA | Stub/platshållare | Osannolikt kort (46 tecken): 'Kursen består av fyra obligatoriska delkurser:' |
 > | [GKI3CA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3CA) | KIA | Ostyckad textmassa | 4 meningar i ett stycke (549 tecken): Kursen omfattar sex delmoment som bygger på varandra. De fyra färdigheterna lyssna, tala, läsa och skriva integreras i m… |
 > | [GKI3CB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3CB) | KIA | Ostyckad textmassa | 4 meningar i ett stycke (506 tecken): Kursen omfattar sex delmoment som bygger på varandra. De fyra färdigheterna lyssna, tala, läsa och skriva integreras i m… |
 > | [GKI3CD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3CD) | KIA | Ostyckad textmassa | 5 meningar i ett stycke (538 tecken): Kursen består av ett individuellt projekt inom något av ämnesområdena kinesisk litteratur, lingvistik, kulturella studie… |
@@ -208,17 +212,17 @@ status: första pass
 
 ## Syfte
 
-Sektionen `## Innehåll` beskriver kursens stoff och upplägg. När sektionen består av en monolitisk textmassa — flera meningar utan styckeindelning — blir det svårare för studenter att skanna efter delmoment, teman eller progressionen genom kursen. Konventionen är att längre innehållsbeskrivningar styckeindelas så att läsbarheten håller, och att varje stycke motsvarar ett logiskt avsnitt (delkurs, tema, fas). Syftet med analysen är att kartlägga **vilka kursplaner som har ett enda långt stycke trots att texten innehåller flera meningar**.
+Sektionen `## Innehåll` beskriver kursens stoff och upplägg. När sektionen brister i struktur — som monolitisk textmassa, som tom platshållare, eller som modulrubriker utan hp-angivelser — blir det svårare för studenter att skanna efter delmoment, teman och progressionen genom kursen. Syftet med analysen är att kartlägga tre olika strukturproblem i Innehåll-sektionen.
 
 ## Metod
 
-Sektionen `## Innehåll` extraheras från den svenska sidan. En kursplan flaggas om:
+Sektionen `## Innehåll` extraheras från den svenska sidan. Tre olika mönster flaggas:
 
-1. Sektionen består av endast ett stycke (ingen blankrad mellan textblock), och
-2. Stycket innehåller minst 4 meningar, och
-3. Stycket är minst 400 tecken långt.
+1. **Ostyckad textmassa** — sektionen består av endast ett stycke (ingen blankrad mellan textblock), stycket innehåller minst 4 meningar, och är minst 400 tecken långt. Mjuka radbrytningar via två efterföljande mellanslag (markdowns `<br>`-semantik) räknas inte som styckeindelning eftersom de inte skapar ett nytt stycke vid renderingen.
+2. **Stub/platshållare** — sektionen är under 80 tecken, t.ex. *"Innehåll saknas."* eller *"Kursen består av tre delkurser."* utan beskrivning av delkurserna.
+3. **Modulrubrik utan hp-angivelse** — sektionen refererar till `Modul N` eller `Delkurs N` men ingen hp-siffra finns i sektionen, vilket gör det svårt att se hur kursens totala hp fördelar sig.
 
-Tröskelvärdena är medvetet konservativa — korta innehållsbeskrivningar (1–3 meningar) anses inte vinna på styckeindelning, och mycket korta sektioner under 400 tecken faller utanför oavsett antal meningar. Mjuka radbrytningar via två efterföljande mellanslag (markdowns `<br>`-semantik) räknas inte som styckeindelning eftersom de inte skapar ett nytt stycke vid renderingen.
+Tröskelvärdena för stycketestet är medvetet konservativa — korta innehållsbeskrivningar (1–3 meningar) anses inte vinna på styckeindelning, och mycket korta sektioner under 400 tecken faller utanför oavsett antal meningar.
 
 ## Datakälla
 
@@ -229,4 +233,5 @@ Tröskelvärdena är medvetet konservativa — korta innehållsbeskrivningar (1�
 
 1. **Inför blankrader mellan logiska avsnitt** — varje delkurs, tema eller fas blir sitt eget stycke.
 2. **Använd fetstilta delrubriker eller punktlistor** när innehållet naturligt delas in i moduler eller faser med egna hp-värden.
-3. **Kortare innehållsbeskrivningar** behöver inte alltid styckeindelas, men om sektionen växer förbi 3–4 meningar bör styckesstrukturen ses över i samband med nästa revidering.
+3. **Ersätt platshållartexter** med en konkret beskrivning av stoffet. Kursplaner med stub-sektioner bör revideras vid nästa tillfälle.
+4. **Ange hp per modul** när Innehåll listar moduler eller delkurser — t.ex. *"Modul 1: Grammatik, 7,5 hp"* — så att studenter och studieadministration kan se hur kursens totala omfattning fördelar sig.
