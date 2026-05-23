@@ -287,6 +287,10 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     // Wins over the regular programme color so the four institutional
     // clusters stay readable in the global graph.
     if (d.tags.includes("tvärfakultet")) return TVARFAK_AMBER
+    // Institutional Analys MOCs (tagged `MOC` + `analys` + institution) are
+    // colored as analys nodes, not subject MOCs — they head a small kvalitets-
+    // analys family that should read as one category in the graph.
+    if (d.tags.includes("analys") && d.tags.includes("MOC")) return ANALYS_PURPLE
 
     const inst = institutionOf(d)
     if (inst) {
