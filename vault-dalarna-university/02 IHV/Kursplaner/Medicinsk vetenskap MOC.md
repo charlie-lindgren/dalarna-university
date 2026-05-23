@@ -9,8 +9,11 @@ up: "[[IHV MOC]]"
 
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 
-## Kurser (6 st)
+## Kurser (9 st)
 
+- [[AMC288]] — Fysisk aktivitet och träning som prevention och behandling
+- [[AMC28N]] — Evidensbaserat arbetssätt och forskningsmetodik inom fysioterapi
+- [[AMC29F]] — Examensarbete för magisterexamen i fysioterapi
 - [[AMC2BG]] — Förskrivningsrätt för vissa läkemedel och förbrukningsartiklar
 - [[GMC32X]] — Vård och behandling vid blås- och tarmdysfunktion
 - [[GMC37E]] — Anatomi och fysiologi för sjuksköterskor II
@@ -18,7 +21,7 @@ up: "[[IHV MOC]]"
 - [[GMC37T]] — Anatomi och fysiologi för sjuksköterskor I
 - [[MC1072]] — Anatomi och fysiologi I
 
-## Vilande kursplaner (17 st)
+## Vilande kursplaner (16 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -27,7 +30,6 @@ up: "[[IHV MOC]]"
 - [[AMC24R]] — Personcentrerad vård vid astma/KOL/allergi, del I
 - [[AMC25W]] — Personcentrerad vård vid astma/KOL/allergi, del 2
 - [[AMC265]] — Farmakologisk behandling vid diabetes
-- [[AMC288]] — Fysisk aktivitet och träning som prevention och behandling
 - [[AMC29Y]] — Förskrivningsrätt för vissa läkemedel och förbrukningsartiklar
 - [[AMC2A7]] — Kardiologi: Arytmi
 - [[GMC22H]] — Anatomi och fysiologi II

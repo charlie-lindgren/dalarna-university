@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (203 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (202 rader)</span></a>
 
-> [!example]- 203 fynd — klicka för att expandera
+> [!example]- 202 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -51,7 +51,6 @@ status: första pass
 > | [FI1039](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FI1039) | FIA | Felstavning (en) | `developement` (en) |
 > | [GFI3BT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFI3BT) | FIA | Felstavning (en) | `througout` (en) |
 > | [GFI3BU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFI3BU) | FIA | Felstavning (en) | `througout` (en) |
-> | [AHI272](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI272) | HIA | Felstavning | `europeiskspråkiga` (sv) |
 > | [AHI272](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI272) | HIA | Felstavning (en) | `poitical` (en) |
 > | [AHI29Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI29Q) | HIA | Felstavning (en) | `consultaion` (en) |
 > | [AHI29Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI29Q) | HIA | Felstavning (en) | `situatin` (en) |

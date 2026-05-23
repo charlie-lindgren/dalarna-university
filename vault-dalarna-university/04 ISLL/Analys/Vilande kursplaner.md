@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (149 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (152 rader)</span></a>
 
-> [!example]- 149 fynd — klicka för att expandera
+> [!example]- 152 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Institution | Fastställd | Reviderad | Problem |
 > | --- | --- | --- | --- | --- | --- |
@@ -20,6 +20,7 @@ status: första pass
 > | [KI1030](https://www.du.se/sv/utbildning/kurser/kursplan/?code=KI1030) | KIA | ISLL | 2011-02-01 | 2013-11-04 | Ingen aktiv kursomgång |
 > | [SS3004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3004) | SSA | ISLL | 2014-04-11 | — | Ingen aktiv kursomgång |
 > | [KI1043](https://www.du.se/sv/utbildning/kurser/kursplan/?code=KI1043) | KIA | ISLL | 2014-07-11 | — | Ingen aktiv kursomgång |
+> | [EN2037](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN2037) | ENA | ISLL | 2014-09-17 | — | Ingen aktiv kursomgång |
 > | [SS3007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3007) | SSA | ISLL | 2014-10-30 | — | Ingen aktiv kursomgång |
 > | [SS3009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3009) | SSA | ISLL | 2014-10-30 | — | Ingen aktiv kursomgång |
 > | [KI2012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=KI2012) | KIA | ISLL | 2015-02-05 | — | Ingen aktiv kursomgång |
@@ -97,6 +98,7 @@ status: första pass
 > | [GKI2PX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2PX) | KIA | ISLL | 2021-05-03 | — | Ingen aktiv kursomgång |
 > | [GKI2PY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2PY) | KIA | ISLL | 2021-05-03 | — | Ingen aktiv kursomgång |
 > | [GKI2Q2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2Q2) | KIA | ISLL | 2021-05-04 | — | Ingen aktiv kursomgång |
+> | [GEN2QW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2QW) | ENA | ISLL | 2021-06-30 | — | Ingen aktiv kursomgång |
 > | [GSS2QV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2QV) | SSA | ISLL | 2021-06-30 | — | Ingen aktiv kursomgång |
 > | [GFR2R3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2R3) | FRA | ISLL | 2021-09-06 | — | Ingen aktiv kursomgång |
 > | [GFR2R4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2R4) | FRA | ISLL | 2021-09-06 | — | Ingen aktiv kursomgång |
@@ -155,6 +157,7 @@ status: första pass
 > | [GFR3DL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3DL) | FRA | ISLL | 2025-01-13 | — | Ingen aktiv kursomgång |
 > | [GPR3E5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR3E5) | PRA | ISLL | 2025-02-03 | — | Ingen aktiv kursomgång |
 > | [GSV3FP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3FP) | SVE | ISLL | 2025-05-14 | — | Ingen aktiv kursomgång |
+> | [AEN2BR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BR) | ENA | ISLL | 2025-09-03 | — | Ingen aktiv kursomgång |
 > | [GFR3HL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3HL) | FRA | ISLL | 2025-12-15 | — | Ingen aktiv kursomgång |
 > | [GSS3HE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HE) | SSA | ISLL | 2025-12-15 | — | Ingen aktiv kursomgång |
 > | [GSS3HF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HF) | SSA | ISLL | 2025-12-15 | — | Ingen aktiv kursomgång |

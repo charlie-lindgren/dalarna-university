@@ -9,7 +9,7 @@ up: "[[IIT MOC]]"
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
 
-## Kurser (32 st)
+## Kurser (34 st)
 
 - [[AEG26X]] — Design av PV- och hybridsystem
 - [[AEG294]] — Energipositiva stadsdelar
@@ -21,6 +21,7 @@ up: "[[IIT MOC]]"
 - [[AEG2AR]] — Elektrisk lagrings- och omvandlingsteknik
 - [[AEG2AS]] — Design av hållbara värmesystem
 - [[AEG2AT]] — Design av nätkopplade solcellssystem
+- [[AEG2AU]] — Projektkurs 2 - mätsystem
 - [[AEG2B6]] — Solstrålning och solgeometri
 - [[AEG2C4]] — Installation av solcellssystem och design av fristående system
 - [[AEG2C5]] — Hållbara värmesystem
@@ -35,6 +36,7 @@ up: "[[IIT MOC]]"
 - [[GEG2UE]] — Energieffektivisering
 - [[GEG2ZR]] — Introduktion till hållbara energisystem
 - [[GEG33B]] — Installation av solcellsanläggningar
+- [[GEG38F]] — Grundläggande energiteknik
 - [[GEG39Y]] — Elkraftteknik
 - [[GEG39Z]] — Aktiva elnät
 - [[GEG3A2]] — Solel (grundnivå)
@@ -44,14 +46,13 @@ up: "[[IIT MOC]]"
 - [[GEG3DV]] — Förnybar Energiteknik
 - [[GEG3FM]] — Vetenskaplig metodik och kommunikation
 
-## Vilande kursplaner (22 st)
+## Vilande kursplaner (20 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[AEG225]] — Solenergins ekonomi
 - [[AEG22R]] — Tillämpad solenergiteknik
 - [[AEG233]] — Solel
-- [[AEG2AU]] — Projektkurs 2 - mätsystem
 - [[AEG2AV]] — Hållbarhet hos solenergisystem
 - [[AEG2AW]] — Urbana energisystem
 - [[AEG2AX]] — Elnätsintegrering av förnybar kraft
@@ -68,5 +69,4 @@ up: "[[IIT MOC]]"
 - [[GEG2UL]] — Förnybar kraftgenerering
 - [[GEG2ZQ]] — Solenergi
 - [[GEG33A]] — Installation av solcellssystem
-- [[GEG38F]] — Grundläggande energiteknik
 - [[GEG3FY]] — Praktik inom energiteknik

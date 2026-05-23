@@ -8,10 +8,11 @@ huvudomrade: "Interkulturella litteraturstudier 1"
 amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
-tags: [kursplan, ENA, ISLL]
+tags: [kursplan, ENA, ISLL, vilande]
 scrape_hash: 30b8f758dd8f7173
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BR
 up: "[[Engelska MOC]]"
+cssclasses: [vilande]
 ---
 
 # AEN2BR

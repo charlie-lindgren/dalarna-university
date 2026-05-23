@@ -9,9 +9,10 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (14 st)
+## Kurser (15 st)
 
 - [[ABQ2AZ]] — Audiovisuella produktionsprocesser
+- [[ABQ2B2]] — Audiovisuella studier: Kunskapsproduktion genom gestaltning
 - [[ABQ2B3]] — Introduktion till magisterexamensarbete i Audiovisuella studier
 - [[ABQ2B4]] — Magisterexamensarbete i Audiovisuella studier
 - [[AU3005]] — Vetenskaplig teori och metod i Audiovisuella studier
@@ -26,12 +27,11 @@ up: "[[IKS MOC]]"
 - [[GBQ38V]] — Introduktion till redigering av rörliga bilder med Media Composer
 - [[GBQ38W]] — Fördjupning i redigering av rörliga bilder med Media Composer
 
-## Vilande kursplaner (48 st)
+## Vilande kursplaner (47 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[ABQ2AM]] — Kreativ kodning
-- [[ABQ2B2]] — Audiovisuella studier: Kunskapsproduktion genom gestaltning
 - [[BQ1079]] — Manus för TV och film 2. Dramaturgi, manusskrivande och genre
 - [[BQ1081]] — TV-nyheter och flerkameraproduktion
 - [[BQ1094]] — Dokumentär metod för filmisk framställning

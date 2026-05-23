@@ -9,7 +9,7 @@ up: "[[ISLL MOC]]"
 
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (51 st)
+## Kurser (52 st)
 
 - [[AEN252]] — Migration, klimat och ångest i engelskspråkig litteratur
 - [[AEN25H]] — Examensarbete i engelska för ämneslärarexamen, inriktning grundskolans årskurs 7-9
@@ -37,6 +37,7 @@ up: "[[ISLL MOC]]"
 - [[EN2043]] — Engelska III: Fokus lingvistik
 - [[EN3062]] — Världslitteratur på engelska
 - [[EN3063]] — Engelska: Magisterexamensarbete i litteratur
+- [[EN3072]] — Engelska: Diskursanalys
 - [[EN3073]] — Metoder inom tillämpad engelsk lingvistik
 - [[EN3074]] — Engelsk språkvetenskap i tal och skrift
 - [[EN3075]] — Teman inom tillämpad engelsk lingvistik
@@ -63,7 +64,7 @@ up: "[[ISLL MOC]]"
 - [[GEN3E6]] — Introduktion till engelsk lingvistik
 - [[GEN3E7]] — Brittisk och amerikansk litteratur- och idéhistoria
 
-## Vilande kursplaner (20 st)
+## Vilande kursplaner (19 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -78,7 +79,6 @@ up: "[[ISLL MOC]]"
 - [[EN3064]] — Engelska: Avancerad litteraturteori
 - [[EN3070]] — Engelska IV, examensarbete 2 för ämneslärarexamen, åk 7-9
 - [[EN3071]] — Engelska IV, inklusive examensarbete 2 för ämneslärarexamen, gy
-- [[EN3072]] — Engelska: Diskursanalys
 - [[GEN222]] — Engelska för lärare, 45 hp (1-45 hp), åk 7-9 - ingår i Lärarlyftet II
 - [[GEN2HB]] — Engelska för internationellt företagande: kommunikation och kultur
 - [[GEN2JG]] — Engelska, Språkdidaktik I

@@ -236,6 +236,10 @@ SV_IGNORE = {
     "europarådet","mastersnivå","transspråkande","vernakulär",
     "standardnära","lpfö","iii-nivå","ränteparitetsvillkor",
     "tillgångspristeorier",
+    # Tillagda undantag
+    "affärsmötesrollspel","främmandespråksinlärning",
+    "låneord","europeiskspråkiga","främmandespråksforskning","läsintryck",
+    "lärsituation","lärsituationer","läsmiljöns","högstadie",
 }
 HAS_SV = re.compile(r"[åäöÅÄÖ]")
 
@@ -347,7 +351,7 @@ EN_IGNORE = {
     "electrochemical","electromechanical","hydronic","incompressible",
     "pipings","microclimate",
     "socio","pre",
-    "arab","arabic","syrian",
+    "arab","arabic","syrian","syriand",
     # Proper nouns — places, nationalities, religions, writing systems
     "angola","asian","australia","australian","berlin","brazil","brazilian",
     "britain","british","buddhism","cambridge","canada","caribbean","christianity",
