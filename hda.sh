@@ -60,22 +60,8 @@ print_menu() {
 }
 
 prompt_apply_mode() {
-    # Sätter $APPLY_FLAG till "--apply" eller tom sträng.
-    # Hoppas över om $BATCH_APPLY_FLAG redan är satt (för buntade körningar).
-    if [[ -n "${BATCH_APPLY_FLAG+x}" ]]; then
-        APPLY_FLAG="$BATCH_APPLY_FLAG"
-        return
-    fi
-    local mode
-    echo "Läge:"
-    echo "  a) Dry-run (visa vad som skulle ändras, skriv ingenting)"
-    echo "  b) Apply  (skriv ändringar till disk)"
-    echo ""
-    read -rp "Välj läge [a/b]: " mode
-    case "$mode" in
-        b|B) APPLY_FLAG="--apply" ;;
-        *)   APPLY_FLAG="" ;;
-    esac
+    # Alla körningar är "apply" — inga dry-runs och inga interaktiva prompts.
+    APPLY_FLAG="--apply"
 }
 
 # ── steg: skrapa allt (inkl. strökoder) ─────────────────────────────────────
