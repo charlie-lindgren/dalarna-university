@@ -64,14 +64,6 @@ prompt_apply_mode() {
     APPLY_FLAG="--apply"
 }
 
-# ── steg: bygg huvudområdes-MOC:ar ──────────────────────────────────────────
-run_huvudomrade_mocs() {
-    echo -e "${BOLD}Bygg huvudområdes-MOC:ar${RESET}"
-    echo ""
-    "$PYTHON" scripts/build_huvudomrade_mocs.py --apply
-    echo -e "${GREEN}✓ Huvudområdes-MOC:ar klara${RESET}"
-}
-
 # ── steg: skrapa allt (inkl. strökoder) ─────────────────────────────────────
 run_scrape_all() {
     echo -e "${BOLD}Skrapa ALLA kursplaner från du.se${RESET}"
@@ -154,8 +146,6 @@ run_scrape_pipeline() {
     run_scrape_utb
     echo ""
     run_vilande
-    echo ""
-    run_huvudomrade_mocs
     unset BATCH_APPLY_FLAG
     echo ""
     echo -e "${GREEN}✓ Alla skrapa-steg klara${RESET}"
@@ -319,7 +309,6 @@ run_full_pipeline() {
     echo "  • Skrapa ALLA kursplaner (inkl. strö-/orphan-koder)"
     echo "  • Skrapa utbildningsplaner"
     echo "  • Identifiera vilande kursplaner"
-    echo "  • Bygg huvudområdes-MOC:ar"
     echo "  • QA kursplaner (rapport)"
     echo "  • QA utbildningsplaner (rapport)"
     echo "  • Populera analysfilerna"
@@ -333,8 +322,6 @@ run_full_pipeline() {
     run_scrape_utb
     echo ""
     run_vilande
-    echo ""
-    run_huvudomrade_mocs
     echo ""
     run_qa_kurs
     echo ""
