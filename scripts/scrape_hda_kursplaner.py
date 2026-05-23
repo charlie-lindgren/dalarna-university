@@ -626,14 +626,12 @@ def scrape_course(code: str) -> dict | None:
     if sv_soup is None:
         return None
 
-    # Hoppa över nedlagda kursplaner — de är inte intressanta för QA.
-    page_text_lower = sv_soup.get_text(" ", strip=True).lower()
-    if (
-        "nedlagd" in page_text_lower
-        or "upphörd" in page_text_lower
-        or "avvecklad" in page_text_lower
-    ):
-        return None
+    # Nedlagda kursplaner skrapas fortfarande — innehållet är giltig kursplan,
+    # bara metadata säger att kursen är avvecklad. Att hoppa över dem orsakade
+    # tidigare luckor (t.ex. saknad ## Förkunskapskrav efter att rubrikvarianten
+    # *Behörighet* lades till som alias). ``identify_ej_aktiv.py`` ansvarar för
+    # att tagga nedlagda kurser separat utifrån att de inte längre listas i
+    # ämnenas kursutbud.
 
     # En kod utan kursnamn är ingen riktig kursplan (t.ex. ogiltig kod
     # eller en fallback-/felsida). Skapa ingen artefakt — och därmed

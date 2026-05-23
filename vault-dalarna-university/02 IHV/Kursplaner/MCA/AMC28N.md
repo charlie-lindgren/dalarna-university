@@ -9,7 +9,7 @@ amne: "Medicinsk vetenskap"
 amne_kod: "MCA"
 institution: "IHV"
 tags: [kursplan, MCA, IHV]
-scrape_hash: 00b97b3b5fcb4c73
+scrape_hash: 3fe968c57496de5e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC28N
 up: "[[Medicinsk vetenskap MOC]]"
 ---
@@ -63,6 +63,10 @@ Betyg rapporteras enligt följande:
 
   - Modul 1: Evidensbaserat arbetssätt - 7,5 hp | U–G
   - Modul 2: Forskningsmetodik - 7,5 hp | U–G
+
+## Förkunskapskrav
+
+- Kandidatexamen i fysioterapi eller fysioterapeutexamen om minst 180 hp
 
 ## Övrigt
 
