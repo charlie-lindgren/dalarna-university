@@ -9,7 +9,7 @@ up: "[[IIT MOC]]"
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
 
-## Kurser (36 st)
+## Kurser (34 st)
 
 - [[AIK232]] — Data Warehousing
 - [[GIK23M]] — Introduktion till relationsdatabaser
@@ -21,14 +21,12 @@ up: "[[IIT MOC]]"
 - [[GIK2FB]] — Artificiell Intelligens
 - [[GIK2JX]] — Webbaserade geografiska informationssystem (GIS)
 - [[GIK2KM]] — Data Science och maskininlärning
-- [[GIK2LF]] — Digital bild
 - [[GIK2NV]] — Data Storage and Management Technologies
 - [[GIK2NX]] — Distributed Computing
 - [[GIK2PB]] — Systemförvaltning och test av IT-system
 - [[GIK2PF]] — IT-arkitektur
 - [[GIK2PG]] — Projektbaserad systemutveckling
 - [[GIK2Q3]] — Tillämpad Big Data och Cloud Computing
-- [[GIK2QZ]] — Visuell identitet
 - [[GIK2UK]] — Data- och informationshantering
 - [[GIK2XJ]] — Objektorienterad design och problemlösning
 - [[GIK2XK]] — Design av webbapplikationer
@@ -48,12 +46,14 @@ up: "[[IIT MOC]]"
 - [[GIK38J]] — Visualisering
 - [[GIK3BY]] — Examensarbete för Högskoleexamen i Informatik
 
-## Vilande kursplaner (18 st)
+## Vilande kursplaner (20 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[GIK289]] — Objektorienterad programmering och problemlösning
+- [[GIK2LF]] — Digital bild
 - [[GIK2PD]] — Hård infrastruktur
+- [[GIK2QZ]] — Visuell identitet
 - [[GIK2V4]] — Datasäkerhet och integritet
 - [[GIK2YK]] — Relationsdatabaser
 - [[GIK2YL]] — Projekt och agila arbetsmetoder

@@ -9,7 +9,7 @@ up: "[[IHV MOC]]"
 
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 
-## Kurser (51 st)
+## Kurser (55 st)
 
 - [[AIH237]] — Examensarbete i idrott och hälsa för ämneslärarexamen inriktning grundskolans årskurs 7-9
 - [[AIH24T]] — Examensarbete i idrott och hälsa för ämneslärarexamen inriktning gymnasieskolan
@@ -22,6 +22,7 @@ up: "[[IHV MOC]]"
 - [[GIH2ZC]] — Humanbiologi 1 (VAL)
 - [[GIH2ZD]] — Simning (VAL)
 - [[GIH2ZE]] — Bedömning och betygssättning i idrott och hälsa (VAL)
+- [[GIH32Z]] — Verksamhetsförlagt projekt inom tränarskap
 - [[GIH334]] — Sportjournalistik
 - [[GIH335]] — Entreprenörskap inom idrott och hälsa
 - [[GIH34S]] — Lek, dans samt mål- och nätspel (VAL)
@@ -31,11 +32,14 @@ up: "[[IHV MOC]]"
 - [[GIH35W]] — Examensarbete för kandidatexamen i idrotts- och hälsovetenskap
 - [[GIH37R]] — Idrott och hälsa II med didaktisk inriktning
 - [[GIH37S]] — Idrott och hälsa III med didaktisk inriktning
+- [[GIH38Y]] — Humanbiologi 2
 - [[GIH38Z]] — Lek, dans samt mål- och nätspel
 - [[GIH392]] — Friluftsliv i närmiljön: orientering, vandring, paddling
+- [[GIH393]] — Hälsopedagogik
 - [[GIH394]] — Idrotten i samhället
 - [[GIH395]] — Arbetsmiljö, ergonomi och näringslära
 - [[GIH39B]] — Mål- och nätspel
+- [[GIH39C]] — Rörelse, rytm och dans
 - [[GIH39D]] — Vinterfriluftsliv genom skidor och skridskor
 - [[GIH39E]] — Simning
 - [[GIH39F]] — Bedömning och betygssättning i idrott och hälsa
@@ -63,7 +67,7 @@ up: "[[IHV MOC]]"
 - [[GIH3GK]] — Idrottsmedicin
 - [[IH1082]] — Journalistik och skriftlig PR inom idrottsområdet
 
-## Vilande kursplaner (105 st)
+## Vilande kursplaner (101 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -99,7 +103,6 @@ up: "[[IHV MOC]]"
 - [[GIH2WY]] — Friluftsliv i närmiljön: orientering, vandring, paddling (VAL)
 - [[GIH2X3]] — Träningslära för tävlingsinriktad idrott
 - [[GIH2ZB]] — Hälsopedagogik (VAL)
-- [[GIH32Z]] — Verksamhetsförlagt projekt inom tränarskap
 - [[GIH33J]] — Grundläggande fysiologi och tillämpad idrottsfysiologi (Klättring)
 - [[GIH33K]] — Funktionell anatomi (Klättring)
 - [[GIH33P]] — Biomekanik (Klättring)
@@ -115,9 +118,6 @@ up: "[[IHV MOC]]"
 - [[GIH37N]] — Friluftsliv och bedömning i ämnet idrott och hälsa
 - [[GIH37P]] — Idrott och hälsa I med didaktisk inriktning åk 4-6
 - [[GIH37Q]] — Idrott och hälsa I med didaktisk inriktning
-- [[GIH38Y]] — Humanbiologi 2
-- [[GIH393]] — Hälsopedagogik
-- [[GIH39C]] — Rörelse, rytm och dans
 - [[GIH3AM]] — Klättringens tränarskap
 - [[GIH3AQ]] — Styrketräningens teori och praktiska tillämpning
 - [[GIH3CS]] — Grundläggande idrottsfysiologi

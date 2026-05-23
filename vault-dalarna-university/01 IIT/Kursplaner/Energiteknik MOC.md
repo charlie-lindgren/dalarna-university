@@ -9,7 +9,7 @@ up: "[[IIT MOC]]"
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
 
-## Kurser (33 st)
+## Kurser (34 st)
 
 - [[AEG26X]] — Design av PV- och hybridsystem
 - [[AEG294]] — Energipositiva stadsdelar
@@ -36,6 +36,7 @@ up: "[[IIT MOC]]"
 - [[GEG2UE]] — Energieffektivisering
 - [[GEG2ZR]] — Introduktion till hållbara energisystem
 - [[GEG33B]] — Installation av solcellsanläggningar
+- [[GEG38F]] — Grundläggande energiteknik
 - [[GEG39Y]] — Elkraftteknik
 - [[GEG39Z]] — Aktiva elnät
 - [[GEG3A2]] — Solel (grundnivå)
@@ -45,7 +46,7 @@ up: "[[IIT MOC]]"
 - [[GEG3DV]] — Förnybar Energiteknik
 - [[GEG3FM]] — Vetenskaplig metodik och kommunikation
 
-## Vilande kursplaner (21 st)
+## Vilande kursplaner (20 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -68,5 +69,4 @@ up: "[[IIT MOC]]"
 - [[GEG2UL]] — Förnybar kraftgenerering
 - [[GEG2ZQ]] — Solenergi
 - [[GEG33A]] — Installation av solcellssystem
-- [[GEG38F]] — Grundläggande energiteknik
 - [[GEG3FY]] — Praktik inom energiteknik

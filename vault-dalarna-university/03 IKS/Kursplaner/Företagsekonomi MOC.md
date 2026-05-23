@@ -9,7 +9,7 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (30 st)
+## Kurser (31 st)
 
 - [[AFÖ26H]] — Examensarbete för magisterexamen i företagsekonomi
 - [[FÖ2026]] — Organisationsförändring och ledarskap
@@ -38,12 +38,7 @@ up: "[[IKS MOC]]"
 - [[GFÖ398]] — Redovisning B
 - [[GFÖ39J]] — Marknadsföring B
 - [[GFÖ3FH]] — Sport Management I
+- [[GFÖ3FJ]] — Sport Management II
 - [[GFÖ3GL]] — Vetenskap och metod I
 - [[GFÖ3JM]] — Ledning och marknadsföring i tjänsteföretag
 - [[GFÖ3JN]] — Sport Management III
-
-## Vilande kursplaner (1 st)
-
-> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
-
-- [[GFÖ3FJ]] — Sport Management II

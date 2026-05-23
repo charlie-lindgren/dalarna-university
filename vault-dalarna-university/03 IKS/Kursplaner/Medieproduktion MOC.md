@@ -9,7 +9,7 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (26 st)
+## Kurser (24 st)
 
 - [[GMN3DY]] — Introduktion till medieproduktion
 - [[GMN3DZ]] — Grunder i filmproduktion
@@ -27,7 +27,6 @@ up: "[[IKS MOC]]"
 - [[GMN3EJ]] — Liveljud
 - [[GMN3EK]] — Dokumentärfilmsproduktion
 - [[GMN3EL]] — Att utveckla och skriva för serier
-- [[GMN3EM]] — Flerkameraproduktion
 - [[GMN3EN]] — Komposition och musikskapande
 - [[GMN3EP]] — Entreprenörskap för medieproducenter
 - [[GMN3EQ]] — Professionella filmproduktionsprocesser
@@ -36,15 +35,16 @@ up: "[[IKS MOC]]"
 - [[GMN3ET]] — Ljudnarration
 - [[GMN3EW]] — Medieproduktion som projektarbete
 - [[GMN3GY]] — Postproduktion
-- [[GMN3JF]] — Dramaturgi, manusskrivande och medieproduktionens villkor
 
-## Vilande kursplaner (6 st)
+## Vilande kursplaner (8 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[GMN3E2]] — Dramaturgi, manusskrivande och medieproduktionens villkor
+- [[GMN3EM]] — Flerkameraproduktion
 - [[GMN3EX]] — Alternativa gestaltningsformer
 - [[GMN3EY]] — Vetenskapsteori och metod i Medieproduktion
 - [[GMN3EZ]] — Kandidatexamensarbete i Medieproduktion
 - [[GMN3F2]] — Exponeringsprojekt inom Medieproduktion
 - [[GMN3F3]] — Verksamhetsförlagd utbildning inom medieproduktion
+- [[GMN3JF]] — Dramaturgi, manusskrivande och medieproduktionens villkor
