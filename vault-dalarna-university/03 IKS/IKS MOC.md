@@ -8,7 +8,7 @@ tags: [MOC, institution, IKS]
 
 > Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Program (30 st)
+## Program (29 st)
 
 - <a class="no-graph" href="KAPSG">KAPSG</a> — Audiovisuell produktion för scen och event – kandidatprogram
 - <a class="no-graph" href="SBMPG">SBMPG</a> — Business Managementprogrammet - Kandidatprogram i företagsekonomi
@@ -35,7 +35,6 @@ tags: [MOC, institution, IKS]
 - <a class="no-graph" href="SPARG">SPARG</a> — Personal- och arbetslivsprogrammet
 - <a class="no-graph" href="SSHVG">SSHVG</a> — Samhällsvetarprogrammet
 - <a class="no-graph" href="SPTMG">SPTMG</a> — Sport Managementprogrammet
-- <a class="no-graph" href="VFIHG">VFIHG</a> — Upplevelseproduktion – Friluftsliv, idrott och hälsa, 180 högskolepoäng
 - <a class="no-graph" href="LVALA">LVALA</a> — Vidareutbildning av lärare som saknar lärarexamen
 - <a class="no-graph" href="LP79A">LP79A</a> — Ämneslärarprogrammet inriktning grundskolans årskurs 7-9
 - <a class="no-graph" href="LPGYA">LPGYA</a> — Ämneslärarprogrammet inriktning gymnasieskolan

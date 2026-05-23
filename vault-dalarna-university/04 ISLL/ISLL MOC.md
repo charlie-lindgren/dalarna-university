@@ -8,7 +8,7 @@ tags: [MOC, institution, ISLL]
 
 > Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Program (16 st)
+## Program (15 st)
 
 - <a class="no-graph" href="LLF3A">LLF3A</a> — Grundlärarprogrammet förskoleklass och grundskolans årskurs 1-3
 - <a class="no-graph" href="LLL3A">LLL3A</a> — Grundlärarprogrammet förskoleklass och grundskolans årskurs 1-3
@@ -19,7 +19,6 @@ tags: [MOC, institution, ISLL]
 - <a class="no-graph" href="LU79A">LU79A</a> — Kompletterande pedagogisk utbildning, inriktning årskurs 7–9
 - <a class="no-graph" href="HAFSA">HAFSA</a> — Magisterprogram i Afrikanska studier
 - <a class="no-graph" href="HEELA">HEELA</a> — Magisterprogram i engelska med inriktning mot engelskspråkig litteratur
-- <a class="no-graph" href="HRVPA">HRVPA</a> — Magisterprogram i religionsvetenskap - Den heliga människan: religiositet i samtiden
 - <a class="no-graph" href="HSVAA">HSVAA</a> — Magisterprogram i svenska som andraspråk
 - <a class="no-graph" href="HTESA">HTESA</a> — Magisterprogram i tillämpad engelsk språkvetenskap
 - <a class="no-graph" href="HMILA">HMILA</a> — Masterprogram i interkulturella litteraturstudier
