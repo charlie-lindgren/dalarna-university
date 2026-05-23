@@ -508,6 +508,17 @@ def scrape_programme(code: str) -> dict | None:
     if soup is None:
         return None
 
+    # Nedlagda utbildningsplaner skrapas inte — programmet ska inte längre
+    # ingå i vaulten. Returnera markören ``"NEDLAGD"`` så att anropande kod
+    # kan ta bort eventuell lokal artefakt.
+    page_text_lower = soup.get_text(" ", strip=True).lower()
+    if (
+        "nedlagd" in page_text_lower
+        or "upphörd" in page_text_lower
+        or "avvecklad" in page_text_lower
+    ):
+        return "NEDLAGD"
+
     name = extract_programme_name(soup)
     metadata = extract_programme_metadata(soup)
     sections = extract_plan_sections(soup)
@@ -806,6 +817,26 @@ def main():
 
         try:
             scraped = scrape_programme(code)
+            if scraped == "NEDLAGD":
+                # Programmet är nedlagt på du.se — radera eventuell lokal
+                # artefakt. Vaulten innehåller endast aktiva utbildningsplaner.
+                removed = False
+                for inst_code_check in INST_DIR_NAME:
+                    for existing in (utbildningsplaner_dir(inst_code_check).rglob(f"{code}.md")):
+                        if args.apply:
+                            existing.unlink()
+                        removed = True
+                        if not args.quiet:
+                            verb = "raderar" if args.apply else "skulle radera"
+                            print(f"nedlagd — {verb} {existing.relative_to(VAULT)}")
+                        break
+                    if removed:
+                        break
+                if not removed and not args.quiet:
+                    print("nedlagd")
+                if removed:
+                    total_changes += 1
+                continue
             if scraped is None:
                 if not args.quiet:
                     print("misslyckades")
@@ -821,13 +852,25 @@ def main():
                 continue
 
             # --- Determine institution ---
+            # Prioritetsordning:
+            #   1. Modern Fastställd-text ("prefekt för institutionen för …")
+            #      — aktuell administrativ hemvist, t.ex. lärarutbildning
+            #      vars kurser hämtas från andra institutioner.
+            #   2. Kursfördelningen — om majoriteten av kurserna ligger i
+            #      en institution är det den nuvarande pedagogiska hemvisten.
+            #      Fångar gamla program (KFTPG, HFRIG) som ratificerades av
+            #      en numera borttagen områdesnämnd men idag undervisas
+            #      enbart med kurser från en annan institution.
+            #   3. Äldre Fastställd-text (områdesnämnder) som fallback.
             faststalld = scraped["metadata"].get("Fastställd", "")
-            institution = detect_institution_from_faststalld(faststalld)
-
+            institution = None
+            if "institutionen för" in faststalld.lower():
+                institution = detect_institution_from_faststalld(faststalld)
             if not institution:
-                # Fallback: match courses against kursplanindex
                 course_text = scraped["sections"].get("3. Programmets kurser", "")
                 institution = detect_institution_from_courses(course_text, kursplan_index)
+            if not institution:
+                institution = detect_institution_from_faststalld(faststalld)
 
             if institution:
                 scraped["institution"] = institution
