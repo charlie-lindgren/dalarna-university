@@ -21,8 +21,7 @@ Kontroller som körs:
   11. Svenska/engelska paritet — varje skillnad i antal lärandemål (diff ≥ 1)
   12. Förkunskapskrav — sektion saknas helt
   13. Förkunskapskrav — endast engelsk variant finns
-  14. Förkunskapskrav — osannolikt kort innehåll
-  15. Förkunskapskrav — stor sv/en-längdskillnad
+  14. Förkunskapskrav — stor sv/en-längdskillnad
   16. Betyg — sektionen saknar punktlista (rapportering i löpande text)
   16b. Förkunskapskrav — refererar HDa-kurs som inte finns i vaulten
   17. Innehåll — sektionen är ett enda stycke trots flera meningar
@@ -631,7 +630,7 @@ def check_forkunskap_okand_kurs(files: list[Path]) -> list[dict]:
                     "check": "förkunskap-okand-kurs",
                     "code": course_code(p),
                     "subj": subject(p),
-                    "detail": f"Refererad kurs hittas ej i vaulten: {title!r}",
+                    "detail": f"Refererad kurs hittas ej i vaulten (troligen nedlagd): {title!r}",
                 })
     return findings
 
@@ -806,7 +805,6 @@ EN_PREREQ_RE = re.compile(
     r"^### Prerequisites\s*\n(.+?)(?=^#{2,3}\s|\Z)",
     re.MULTILINE | re.DOTALL,
 )
-FORKUNSKAP_TUNN_MIN_CHARS = 25
 FORKUNSKAP_PARITY_MIN_CHARS = 30
 FORKUNSKAP_PARITY_RATIO = 2.0
 
@@ -821,14 +819,12 @@ def _extract_en_prerequisites(body: str) -> str | None:
 
 
 def check_forkunskap(files: list[Path]) -> list[dict]:
-    """Kvalitetskontroll av förkunskapskravssektionen. Flaggar fyra mönster:
+    """Kvalitetskontroll av förkunskapskravssektionen. Flaggar tre mönster:
 
     1. ``förkunskap-saknas`` — varken svensk eller engelsk sektion finns.
     2. ``förkunskap-bara-engelska`` — engelska finns men svenska saknas
        (vanligaste tecknet på en luckig svensk källsida).
-    3. ``förkunskap-tunn`` — svensk text är osannolikt kort (< 25 tecken),
-       t.ex. ``- Lärarexamen`` utan ämnesangivelse.
-    4. ``förkunskap-paritet`` — svensk och engelsk text skiljer sig mer än 2×
+    3. ``förkunskap-paritet`` — svensk och engelsk text skiljer sig mer än 2×
        i längd (båda måste vara över 30 tecken för att räknas).
     """
     findings = []
@@ -853,14 +849,6 @@ def check_forkunskap(files: list[Path]) -> list[dict]:
                     "detail": "Ingen förkunskapssektion i kursplanen",
                 })
             continue
-
-        if len(sv) < FORKUNSKAP_TUNN_MIN_CHARS:
-            findings.append({
-                "check": "förkunskap-tunn",
-                "code": course_code(p),
-                "subj": subject(p),
-                "detail": f"Osannolikt kort ({len(sv)} tecken): {sv!r}",
-            })
 
         if en and len(sv) >= FORKUNSKAP_PARITY_MIN_CHARS and len(en) >= FORKUNSKAP_PARITY_MIN_CHARS:
             ratio = max(len(sv), len(en)) / min(len(sv), len(en))
@@ -906,9 +894,8 @@ CHECK_LABELS = {
     "lo-saknar-bullets-en":  "Lärandemål saknar punktlista (en)",
     "förkunskap-saknas":     "Förkunskapskrav saknas",
     "förkunskap-bara-engelska": "Förkunskapskrav endast på engelska",
-    "förkunskap-tunn":       "Förkunskapskrav osannolikt kort",
     "förkunskap-paritet":    "Förkunskapskrav paritet sv/en",
-    "förkunskap-okand-kurs": "Förkunskapskrav refererar okänd HDa-kurs",
+    "förkunskap-okand-kurs": "Förkunskapskrav refererar troligen nedlagd kurs",
 }
 
 
