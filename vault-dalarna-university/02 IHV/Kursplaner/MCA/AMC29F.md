@@ -9,7 +9,7 @@ amne: "Medicinsk vetenskap"
 amne_kod: "MCA"
 institution: "IHV"
 tags: [kursplan, MCA, IHV]
-scrape_hash: 9fcf0be6841552eb
+scrape_hash: 8d76ea95fa5287f2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC29F
 up: "[[Medicinsk vetenskap MOC]]"
 ---
@@ -64,6 +64,10 @@ Som betygsskala på hel kurs används U–G.
 Betyg rapporteras enligt följande:
 
   - Examensarbete och seminarium - 15 hp | U–G
+
+## Förkunskapskrav
+
+- Kandidatexamen i fysioterapi eller fysioterapeutexamen om minst 180 hp samt minst 7,5 hp i forskningsmetodik på avancerad nivå
 
 ## Övrigt
 

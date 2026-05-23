@@ -23,7 +23,7 @@ tags: [MOC, institution, IHV]
 
 ## Ämnen
 
-- [[Medicinsk vetenskap MOC|Medicinsk vetenskap]] (2 kurser)
+- [[Medicinsk vetenskap MOC|Medicinsk vetenskap]] (3 kurser)
 
 ## Kvalitetsanalys
 

@@ -11,4 +11,4 @@ up: "[[IHV MOC]]"
 
 ## Kurser (1 st)
 
-- [[AMC28N]] — Evidensbaserat arbetssätt och forskningsmetodik inom fysioterapi
+- [[AMC29F]] — Examensarbete för magisterexamen i fysioterapi
