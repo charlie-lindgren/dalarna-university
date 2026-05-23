@@ -9,10 +9,37 @@ up: "[[IIT MOC]]"
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
 
-## Kurser (11 st)
+## Kurser (38 st)
 
+- [[ABY22V]] — Energieffektiva installationssystem
+- [[ABY22W]] — Byggnaders energiprestanda - simulering och analys
+- [[ABY27W]] — Introduktion till bioklimatisk design
 - [[ABY2BL]] — Hållbar samhällsplanering
+- [[BY1053]] — Arkitektur och byggande
+- [[BY1054]] — Vägteknik
+- [[BY1056]] — Byggfysik
+- [[BY1058]] — Bygg-CAD
+- [[BY2025]] — Vetenskaplig metodik
+- [[BY3001]] — Energieffektiva byggnader
+- [[BY3004]] — Miljöklassningsverktyg
+- [[GBY2GB]] — Digitala ritverktyg
+- [[GBY2GC]] — BIM i byggprocessen
+- [[GBY2GR]] — Fysisk planering I – detaljplanering och samhällsbyggandets grunder
+- [[GBY2J2]] — Husbyggnadsprojekt I - Små byggnader och bostadsområden
+- [[GBY2MA]] — Byggprojektering
+- [[GBY2MB]] — Projektmetodik
+- [[GBY2ME]] — Husbyggnadssystem
+- [[GBY2NF]] — Byggkonstruktioner
+- [[GBY2NG]] — Byggplanering och arbetsmiljö
+- [[GBY2RN]] — Installationsteknik
+- [[GBY2RX]] — Fastighetsförvaltning
+- [[GBY2V5]] — Byggproduktion och arbetsmiljö
+- [[GBY2V6]] — Arbetsplatsförlagd utbildning
+- [[GBY2V8]] — Konstruktionsteknik trä och stål
+- [[GBY2VR]] — Hållbar utveckling
+- [[GBY2XF]] — Husbyggnadsprojekt II – Byggprojekt stora byggnader
 - [[GBY33L]] — Byggd miljö
+- [[GBY342]] — Bygg - CAD fortsättningskurs
 - [[GBY34M]] — Examensarbete inom byggteknik för högskoleexamen
 - [[GBY34N]] — Examensarbete i byggteknik för högskoleingenjörsexamen
 - [[GBY36S]] — En introduktion till byggprocessen
@@ -23,8 +50,15 @@ up: "[[IIT MOC]]"
 - [[GBY3DW]] — Resurseffektivt byggande
 - [[GBY3DX]] — Väg- och trafikplanering
 
-## Vilande kursplaner (1 st)
+## Vilande kursplaner (8 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
+- [[BY1047]] — Bärkraftigt byggande och boende
+- [[BY1059]] — Praktisk byggteknik
+- [[BY1061]] — Installationsteknik och dimensionering
+- [[BY1065]] — BIM projekt och projektering
+- [[BY2016]] — Examensarbete i byggteknik för högskoleingenjörsexamen
+- [[BY2022]] — Energiprojekt
+- [[BY3005]] — Hållbar samhällsplanering
 - [[GBY34B]] — Vägplanering

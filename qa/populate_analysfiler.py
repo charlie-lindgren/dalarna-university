@@ -125,7 +125,6 @@ ANALYS_FILES: dict[str, dict[str, str]] = {
     "Förkunskapskrav.md": {
         "Förkunskapskrav saknas":           "Sektion saknas",
         "Förkunskapskrav endast på engelska": "Endast engelsk variant",
-        "Förkunskapskrav paritet sv/en":    "Stor sv/en-längdskillnad",
         "Förkunskapskrav refererar troligen nedlagd kurs": "Refererar troligen nedlagd kurs",
     },
 }

@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (244 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (242 rader)</span></a>
 
-> [!example]- 244 fynd — klicka för att expandera
+> [!example]- 242 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -154,8 +154,6 @@ status: första pass
 > | [AMC25W](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC25W) | MCA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [AMC265](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC265) | MCA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [AMC288](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC288) | MCA | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
-> | [AMC28N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC28N) | MCA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [AMC29F](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC29F) | MCA | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
 > | [AMC29Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC29Y) | MCA | Paritetsskillnad | Svenska: 9 mål, engelska: 1 mål (diff 8) |
 > | [AMC29Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC29Y) | MCA | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
 > | [AMC2A7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC2A7) | MCA | Paritetsskillnad | Svenska: 11 mål, engelska: 0 mål (diff 11) |

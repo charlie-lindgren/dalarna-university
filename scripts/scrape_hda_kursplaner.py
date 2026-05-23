@@ -626,12 +626,17 @@ def scrape_course(code: str) -> dict | None:
     if sv_soup is None:
         return None
 
-    # Nedlagda kursplaner skrapas fortfarande — innehållet är giltig kursplan,
-    # bara metadata säger att kursen är avvecklad. Att hoppa över dem orsakade
-    # tidigare luckor (t.ex. saknad ## Förkunskapskrav efter att rubrikvarianten
-    # *Behörighet* lades till som alias). ``identify_ej_aktiv.py`` ansvarar för
-    # att tagga nedlagda kurser separat utifrån att de inte längre listas i
-    # ämnenas kursutbud.
+    # Nedlagda kursplaner skrapas inte — kursen ska inte längre ingå i vaulten.
+    # Returnera den speciella markören ``"NEDLAGD"`` så att anropande kod kan
+    # ta bort eventuell lokal artefakt istället för att låta den ligga kvar
+    # som inaktuell stale-data.
+    page_text_lower = sv_soup.get_text(" ", strip=True).lower()
+    if (
+        "nedlagd" in page_text_lower
+        or "upphörd" in page_text_lower
+        or "avvecklad" in page_text_lower
+    ):
+        return "NEDLAGD"
 
     # En kod utan kursnamn är ingen riktig kursplan (t.ex. ogiltig kod
     # eller en fallback-/felsida). Skapa ingen artefakt — och därmed
@@ -1394,6 +1399,26 @@ def main():
                 try:
                     scraped = (prefetched[code] if code in prefetched
                                else scrape_course(code))
+                    if scraped == "NEDLAGD":
+                        # Kursen är nedlagd på du.se — radera eventuell lokal
+                        # artefakt. Vaulten innehåller endast aktiva/vilande
+                        # kurser, aldrig nedlagda.
+                        removed = False
+                        for inst_code_check in INST_DIR_NAME:
+                            for existing in kursplaner_dir(inst_code_check).rglob(f"{code}.md"):
+                                if args.apply:
+                                    existing.unlink()
+                                removed = True
+                                if not args.quiet:
+                                    verb = "raderar" if args.apply else "skulle radera"
+                                    print(f"nedlagd — {verb} {existing.relative_to(VAULT)}")
+                                break
+                            if removed:
+                                break
+                        if not removed and not args.quiet:
+                            print("nedlagd")
+                        total_changes += 1 if removed else 0
+                        continue
                     if scraped is None:
                         if not args.quiet:
                             print("misslyckades")

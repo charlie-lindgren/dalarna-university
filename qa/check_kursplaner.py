@@ -21,7 +21,6 @@ Kontroller som körs:
   11. Svenska/engelska paritet — varje skillnad i antal lärandemål (diff ≥ 1)
   12. Förkunskapskrav — sektion saknas helt
   13. Förkunskapskrav — endast engelsk variant finns
-  14. Förkunskapskrav — stor sv/en-längdskillnad
   16. Betyg — sektionen saknar punktlista (rapportering i löpande text)
   16b. Förkunskapskrav — refererar HDa-kurs som inte finns i vaulten
   17. Innehåll — sektionen är ett enda stycke trots flera meningar
@@ -805,10 +804,6 @@ EN_PREREQ_RE = re.compile(
     r"^### Prerequisites\s*\n(.+?)(?=^#{2,3}\s|\Z)",
     re.MULTILINE | re.DOTALL,
 )
-FORKUNSKAP_PARITY_MIN_CHARS = 30
-FORKUNSKAP_PARITY_RATIO = 2.0
-
-
 def _extract_en_prerequisites(body: str) -> str | None:
     """Returnera engelska Prerequisites-sektionen om English Version finns,
     annars None. Tom sträng betyder att rubriken finns men saknar innehåll."""
@@ -819,13 +814,11 @@ def _extract_en_prerequisites(body: str) -> str | None:
 
 
 def check_forkunskap(files: list[Path]) -> list[dict]:
-    """Kvalitetskontroll av förkunskapskravssektionen. Flaggar tre mönster:
+    """Kvalitetskontroll av förkunskapskravssektionen. Flaggar två mönster:
 
     1. ``förkunskap-saknas`` — varken svensk eller engelsk sektion finns.
     2. ``förkunskap-bara-engelska`` — engelska finns men svenska saknas
        (vanligaste tecknet på en luckig svensk källsida).
-    3. ``förkunskap-paritet`` — svensk och engelsk text skiljer sig mer än 2×
-       i längd (båda måste vara över 30 tecken för att räknas).
     """
     findings = []
     for p in files:
@@ -847,17 +840,6 @@ def check_forkunskap(files: list[Path]) -> list[dict]:
                     "code": course_code(p),
                     "subj": subject(p),
                     "detail": "Ingen förkunskapssektion i kursplanen",
-                })
-            continue
-
-        if en and len(sv) >= FORKUNSKAP_PARITY_MIN_CHARS and len(en) >= FORKUNSKAP_PARITY_MIN_CHARS:
-            ratio = max(len(sv), len(en)) / min(len(sv), len(en))
-            if ratio >= FORKUNSKAP_PARITY_RATIO:
-                findings.append({
-                    "check": "förkunskap-paritet",
-                    "code": course_code(p),
-                    "subj": subject(p),
-                    "detail": f"Längdskillnad sv {len(sv)} tecken vs en {len(en)} tecken (×{ratio:.1f})",
                 })
     return findings
 
@@ -894,7 +876,6 @@ CHECK_LABELS = {
     "lo-saknar-bullets-en":  "Lärandemål saknar punktlista (en)",
     "förkunskap-saknas":     "Förkunskapskrav saknas",
     "förkunskap-bara-engelska": "Förkunskapskrav endast på engelska",
-    "förkunskap-paritet":    "Förkunskapskrav paritet sv/en",
     "förkunskap-okand-kurs": "Förkunskapskrav refererar troligen nedlagd kurs",
 }
 

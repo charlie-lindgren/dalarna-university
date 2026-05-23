@@ -9,6 +9,7 @@ up: "[[IIT MOC]]"
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
 
-## Kurser (1 st)
+## Kurser (2 st)
 
+- [[ET1029]] — Styr- och reglerteknik
 - [[GET36T]] — Ellära
