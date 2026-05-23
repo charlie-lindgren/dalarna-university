@@ -87,7 +87,7 @@ SECTION_MAP_SV = {
     "Examinationsformer": ["Examinationsformer"],
     "Arbetsformer": ["Arbetsformer"],
     "Betyg": ["Betyg"],
-    "Förkunskapskrav": ["Förkunskapskrav"],
+    "Förkunskapskrav": ["Förkunskapskrav", "Behörighet"],
     "Övrigt": ["Övrigt"],
     "Litteratur": ["Litteratur"],
 }
@@ -98,7 +98,7 @@ SECTION_MAP_EN = {
     "Assessment": ["Assessment"],
     "Forms of Study": ["Forms of Study"],
     "Grades": ["Grades"],
-    "Prerequisites": ["Prerequisites"],
+    "Prerequisites": ["Prerequisites", "Entry Requirements", "Admission Requirements"],
     "Other": ["Other"],
     "Reading List": ["Reading List"],
 }
