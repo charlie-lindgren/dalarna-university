@@ -270,6 +270,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const ANALYS_PURPLE   = "#7e3aed"   // Analys leaf pages — vivid violet in the hue gap between IIT and ISLL
   const EJ_AKTIV_RED    = "#c0392b"   // not-running courses
   const VILANDE_RED     = "#c0392b"   // vilande courses
+  const TVARFAK_AMBER   = "#f59e0b"   // cross-faculty programmes that legitimately float
 
   function institutionOf(d: NodeData): (typeof INSTITUTIONS)[number] | null {
     for (const inst of INSTITUTIONS) {
@@ -282,6 +283,10 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     if (d.id === slug) return computedStyleMap["--secondary"]
     if (d.tags.includes("ej-aktiv")) return EJ_AKTIV_RED
     if (d.tags.includes("vilande")) return VILANDE_RED
+    // Cross-faculty programmes — visually identified as floaters by design.
+    // Wins over the regular programme color so the four institutional
+    // clusters stay readable in the global graph.
+    if (d.tags.includes("tvärfakultet")) return TVARFAK_AMBER
 
     const inst = institutionOf(d)
     if (inst) {
