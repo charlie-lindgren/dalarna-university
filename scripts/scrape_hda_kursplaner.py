@@ -498,6 +498,27 @@ def discover_stray_codes_from_known(known_codes: set[str], padding: int = 0) -> 
 # Steg 3: Skrapa enskild kursplan
 # ---------------------------------------------------------------------------
 
+def _emit_emphasis(node, parts: list, list_depth: int, marker: str) -> None:
+    """Skriv ut ``<strong>`` / ``<em>`` som markdown utan trasiga markörer.
+
+    Markdown kräver att betoningsmarkörer (``**`` / ``_``) inte har whitespace
+    direkt innanför sig — annars renderas markörerna som literal text. När
+    du.se:s HTML innehåller ``<strong>X </strong>`` eller ``<i>X<br/></i>``
+    flyttar vi det yttre whitespace utanför markörerna så att fetstilen/
+    kursiveringen faktiskt renderar."""
+    inner: list = []
+    for child in node.children:
+        _walk(child, inner, list_depth)
+    inner_text = "".join(inner)
+    stripped = inner_text.strip()
+    if not stripped:
+        parts.append(inner_text)
+        return
+    lead = inner_text[: len(inner_text) - len(inner_text.lstrip())]
+    trail = inner_text[len(inner_text.rstrip()) :]
+    parts.append(f"{lead}{marker}{stripped}{marker}{trail}")
+
+
 def html_to_markdown(element) -> str:
     if element is None:
         return ""
@@ -535,15 +556,9 @@ def _walk(node, parts, list_depth=0):
             _walk(child, parts, list_depth)
         parts.append("\n")
     elif tag in ("strong", "b"):
-        parts.append("**")
-        for child in node.children:
-            _walk(child, parts, list_depth)
-        parts.append("**")
+        _emit_emphasis(node, parts, list_depth, "**")
     elif tag in ("em", "i"):
-        parts.append("_")
-        for child in node.children:
-            _walk(child, parts, list_depth)
-        parts.append("_")
+        _emit_emphasis(node, parts, list_depth, "_")
     elif tag == "sup":
         pass
     elif tag in ("span", "div", "a"):
