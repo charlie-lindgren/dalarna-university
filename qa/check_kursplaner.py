@@ -24,6 +24,13 @@ Kontroller som körs:
   14. Förkunskapskrav — osannolikt kort innehåll
   15. Förkunskapskrav — stor sv/en-längdskillnad
   16. Betyg — sektionen saknar punktlista (rapportering i löpande text)
+  17. Innehåll — sektionen är ett enda stycke trots flera meningar
+  18. Innehåll — sektionen är en stub/platshållare (< 80 tecken)
+  19. Innehåll — modulrubrik utan hp-angivelse
+  20. Övrigt — sektionen saknas helt
+  21. Övrigt — saknar standardfras om pedagogiskt stöd
+  22. Terminologi — blandar 'studenten' och 'den studerande'
+  23. Terminologi — blandar 'ska' och 'skall'
 """
 
 import argparse
@@ -528,6 +535,169 @@ def check_sv_en_parity(files: list[Path]) -> list[dict]:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
+# Check 17 — Innehåll utan styckeindelning
+# ─────────────────────────────────────────────────────────────────────────────
+SENTENCE_END_RE = re.compile(r"[.!?](?=\s+[A-ZÅÄÖ]|\s*$)")
+INNEHALL_RUNON_MIN_SENTENCES = 4
+INNEHALL_RUNON_MIN_CHARS = 400
+
+
+INNEHALL_STUB_MAX_CHARS = 80
+INNEHALL_MODUL_RE = re.compile(r"\b[MmDd](?:odul|elkurs)\s+\d+\b")
+HP_MENTION_RE = re.compile(r"\b\d+(?:[,.]\d+)?\s*hp\b|högskolepoäng\b", re.IGNORECASE)
+
+
+def check_innehall_stub(files: list[Path]) -> list[dict]:
+    """Flagga kursplaner vars `## Innehåll`-sektion är så kort att den ser ut
+    som en platshållartext (t.ex. *"Innehåll saknas."* eller *"Kursen består
+    av tre delkurser."* utan beskrivning av delkurserna)."""
+    findings = []
+    for p in files:
+        body = strip_frontmatter(p.read_text(encoding="utf-8"))
+        sec = extract_section(body, "Innehåll").strip()
+        if not sec or len(sec) >= INNEHALL_STUB_MAX_CHARS:
+            continue
+        findings.append({
+            "check": "innehåll-stub",
+            "code": course_code(p),
+            "subj": subject(p),
+            "detail": f"Osannolikt kort ({len(sec)} tecken): {sec!r}",
+        })
+    return findings
+
+
+def check_innehall_modul_utan_hp(files: list[Path]) -> list[dict]:
+    """Flagga kursplaner där `## Innehåll` refererar till moduler eller
+    delkurser men ingen hp-angivelse finns i sektionen. Modulrubriker utan hp
+    gör det svårt att se hur kursens totala hp-summa fördelar sig."""
+    findings = []
+    for p in files:
+        body = strip_frontmatter(p.read_text(encoding="utf-8"))
+        sec = extract_section(body, "Innehåll").strip()
+        if not sec:
+            continue
+        m = INNEHALL_MODUL_RE.search(sec)
+        if not m:
+            continue
+        if HP_MENTION_RE.search(sec):
+            continue
+        findings.append({
+            "check": "innehåll-modul-utan-hp",
+            "code": course_code(p),
+            "subj": subject(p),
+            "detail": f"Modulrubrik utan hp-angivelse: {m.group(0)!r}",
+        })
+    return findings
+
+
+def check_innehall_styckeindelning(files: list[Path]) -> list[dict]:
+    """Flagga kursplaner vars `## Innehåll`-sektion består av ett enda långt
+    stycke (ingen blankrad mellan logiska avsnitt) men ändå innehåller flera
+    meningar. Konventionen är att längre innehållsbeskrivningar styckeindelas
+    så att läsbarheten håller; en monolitisk textmassa skymmer strukturen."""
+    findings = []
+    for p in files:
+        body = strip_frontmatter(p.read_text(encoding="utf-8"))
+        sec = extract_section(body, "Innehåll").strip()
+        if not sec:
+            continue
+        paragraphs = [pp for pp in re.split(r"\n\s*\n", sec) if pp.strip()]
+        if len(paragraphs) > 1:
+            continue
+        txt = paragraphs[0]
+        sentences = len(SENTENCE_END_RE.findall(txt))
+        if sentences >= INNEHALL_RUNON_MIN_SENTENCES and len(txt) >= INNEHALL_RUNON_MIN_CHARS:
+            snippet = " ".join(txt.split())[:120]
+            findings.append({
+                "check": "innehåll-ostyckat",
+                "code": course_code(p),
+                "subj": subject(p),
+                "detail": f"{sentences} meningar i ett stycke ({len(txt)} tecken): {snippet}…",
+            })
+    return findings
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Check 18-19 — Övrigt
+# ─────────────────────────────────────────────────────────────────────────────
+OVRIGT_BOILERPLATE_RE = re.compile(r"pedagogiskt stöd från Högskolan Dalarna")
+
+
+def check_ovrigt(files: list[Path]) -> list[dict]:
+    """Två kontroller på `## Övrigt`-sektionen:
+
+    1. ``övrigt-saknas`` — ingen Övrigt-sektion finns.
+    2. ``övrigt-utan-boilerplate`` — sektionen finns men saknar standardfrasen
+       om riktat pedagogiskt stöd från Högskolan Dalarna. Den frasen är central
+       för studenter med funktionsnedsättning som behöver anpassad examination.
+    """
+    findings = []
+    for p in files:
+        body = strip_frontmatter(p.read_text(encoding="utf-8"))
+        sec = extract_section(body, "Övrigt").strip()
+        if not sec:
+            findings.append({
+                "check": "övrigt-saknas",
+                "code": course_code(p),
+                "subj": subject(p),
+                "detail": "Ingen Övrigt-sektion i kursplanen",
+            })
+            continue
+        if not OVRIGT_BOILERPLATE_RE.search(sec):
+            snippet = " ".join(sec.split())[:120]
+            findings.append({
+                "check": "övrigt-utan-boilerplate",
+                "code": course_code(p),
+                "subj": subject(p),
+                "detail": f"Saknar standardfras om pedagogiskt stöd: {snippet}…",
+            })
+    return findings
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Check 20 — Terminologi-blandning
+# ─────────────────────────────────────────────────────────────────────────────
+STUDENTEN_RE = re.compile(r"\bstudenten\b")
+DEN_STUDERANDE_RE = re.compile(r"\bden studerande\b")
+SKA_RE = re.compile(r"\bska\b")
+SKALL_RE = re.compile(r"\bskall\b")
+
+
+def _strip_to_swedish(raw: str) -> str:
+    body = strip_frontmatter(raw)
+    return re.sub(r"\n## English Version.+", "", body, flags=re.DOTALL)
+
+
+def check_terminologi(files: list[Path]) -> list[dict]:
+    """Flagga kursplaner som blandar olika varianter av samma term inom den
+    svenska delen. Två blandningar fångas:
+
+    1. ``terminologi-studenten-blandning`` — *studenten* och *den studerande*
+       förekommer båda. Stilguider rekommenderar att man väljer en.
+    2. ``terminologi-ska-skall-blandning`` — *ska* och *skall* förekommer båda;
+       *skall* är ålderdomligt och bör harmoniseras till *ska*.
+    """
+    findings = []
+    for p in files:
+        sv = _strip_to_swedish(p.read_text(encoding="utf-8"))
+        if STUDENTEN_RE.search(sv) and DEN_STUDERANDE_RE.search(sv):
+            findings.append({
+                "check": "terminologi-studenten-blandning",
+                "code": course_code(p),
+                "subj": subject(p),
+                "detail": "Blandar 'studenten' och 'den studerande' i samma kursplan",
+            })
+        if SKA_RE.search(sv) and SKALL_RE.search(sv):
+            findings.append({
+                "check": "terminologi-ska-skall-blandning",
+                "code": course_code(p),
+                "subj": subject(p),
+                "detail": "Blandar 'ska' och 'skall' i samma kursplan",
+            })
+    return findings
+
+
+# ─────────────────────────────────────────────────────────────────────────────
 # Check 12-15 — Förkunskapskrav
 # ─────────────────────────────────────────────────────────────────────────────
 EN_PREREQ_RE = re.compile(
@@ -615,6 +785,13 @@ CHECK_LABELS = {
     "frasning-avviker":      "Frasning avviker",
     "betygsskala-inkonsekvent": "Betygsskala inkonsekvent",
     "betyg-saknar-punktlista": "Betyg saknar punktlista",
+    "innehåll-ostyckat":      "Innehåll ostyckat",
+    "innehåll-stub":          "Innehåll stub/platshållare",
+    "innehåll-modul-utan-hp": "Innehåll modul utan hp",
+    "övrigt-saknas":          "Övrigt saknas",
+    "övrigt-utan-boilerplate": "Övrigt utan pedagogiskt-stöd-fras",
+    "terminologi-studenten-blandning": "Blandar studenten/den studerande",
+    "terminologi-ska-skall-blandning": "Blandar ska/skall",
     "examinationsformer-utan-punktlista": "Examinationsformer utan punktlista",
     "omfång-få-mål":         "För få lärandemål",
     "omfång-många-mål":      "För många lärandemål",
@@ -658,6 +835,11 @@ def main():
         ("Paritet sv/en",            check_sv_en_parity),
         ("Lärandemål-punktlista",    check_lo_bullets),
         ("Förkunskapskrav",          check_forkunskap),
+        ("Innehåll-styckeindelning", check_innehall_styckeindelning),
+        ("Innehåll-stub",            check_innehall_stub),
+        ("Innehåll-modul-utan-hp",   check_innehall_modul_utan_hp),
+        ("Övrigt",                   check_ovrigt),
+        ("Terminologi",              check_terminologi),
     ]
 
     if not args.skip_hunspell:
