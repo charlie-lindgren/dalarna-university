@@ -127,6 +127,7 @@ ANALYS_FILES: dict[str, dict[str, str]] = {
         "Förkunskapskrav endast på engelska": "Endast engelsk variant",
         "Förkunskapskrav osannolikt kort":  "Osannolikt kort innehåll",
         "Förkunskapskrav paritet sv/en":    "Stor sv/en-längdskillnad",
+        "Förkunskapskrav refererar okänd HDa-kurs": "Refererar okänd HDa-kurs",
     },
 }
 

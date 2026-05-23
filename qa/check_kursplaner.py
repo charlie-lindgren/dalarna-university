@@ -24,6 +24,7 @@ Kontroller som körs:
   14. Förkunskapskrav — osannolikt kort innehåll
   15. Förkunskapskrav — stor sv/en-längdskillnad
   16. Betyg — sektionen saknar punktlista (rapportering i löpande text)
+  16b. Förkunskapskrav — refererar HDa-kurs som inte finns i vaulten
   17. Innehåll — sektionen är ett enda stycke trots flera meningar
   18. Innehåll — sektionen är en stub/platshållare (< 80 tecken)
   19. Innehåll — modulrubrik utan hp-angivelse
@@ -535,6 +536,107 @@ def check_sv_en_parity(files: list[Path]) -> list[dict]:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
+# Check 16b — Förkunskapskrav refererar okänd HDa-kurs
+# ─────────────────────────────────────────────────────────────────────────────
+FORKUNSKAP_KURSNAMN_RE = re.compile(r'^kursnamn:\s*"?(.+?)"?\s*$', re.MULTILINE)
+FORKUNSKAP_KURSEN_RE = re.compile(
+    r"(?:^|\W)[Kk]urs(?:en|erna)?\s+([A-ZÅÄÖ][^,;.]{4,80}?)\s*,?\s+\d+(?:[,.]\d+)?\s*hp\b"
+)
+FORKUNSKAP_LINE_LEAD_RE = re.compile(
+    r"^([A-ZÅÄÖ][^,;.]{4,80}?)\s*,\s+\d+(?:[,.]\d+)?\s*hp\b"
+)
+FORKUNSKAP_HP_RE = re.compile(r"\b\d+(?:[,.]\d+)?\s*hp\b", re.IGNORECASE)
+FORKUNSKAP_BULLET_RE = re.compile(r"^\s*[-*]\s+(.+?)\s*$", re.MULTILINE)
+# Förstaord som indikerar att "titeln" inte är ett kursnamn utan tröskel/grad/verb.
+FORKUNSKAP_STOPWORDS = {
+    "och","samt","eller","inklusive","varav","inom","på","i","av","för","med",
+    "minst","högst","antingen","grundläggande","kandidatexamen","magisterexamen",
+    "masterexamen","lärarexamen","yrkesexamen","examen","behörighet","filosofie",
+    "krävs","studenten","skall","ska","den","studerande","antagen","har","ha",
+    "uppfylls","uppfyller","godkänd","godkänt","motsvarande","tillträde",
+}
+
+
+def _normalize_title(s: str) -> str:
+    s = s.lower().replace("\xa0", " ")
+    s = re.sub(r"[^\wåäö ]+", " ", s)
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
+
+
+def _build_vault_title_index(files: list[Path]) -> tuple[dict[str, set[str]], list[str]]:
+    """Indexera samtliga kursnamn (active *och* vilande) från frontmatter.
+    Returnerar (exakt-uppslag, lista över titlar ≥ 12 tecken för fuzzy-match)."""
+    idx: dict[str, set[str]] = {}
+    for p in files:
+        raw = p.read_text(encoding="utf-8")
+        fm = re.match(r"^---\n(.*?)\n---", raw, re.DOTALL)
+        if not fm:
+            continue
+        m = FORKUNSKAP_KURSNAMN_RE.search(fm.group(1))
+        if not m:
+            continue
+        title = m.group(1).strip().strip('"')
+        norm = _normalize_title(title)
+        if norm:
+            idx.setdefault(norm, set()).add(course_code(p))
+    long_titles = [t for t in idx if len(t) >= 12]
+    return idx, long_titles
+
+
+def check_forkunskap_okand_kurs(files: list[Path]) -> list[dict]:
+    """Flagga förkunskapskrav som refererar en HDa-kurs vars kursnamn inte
+    återfinns i vaulten (varken aktiv eller vilande). Sannolik indikation på
+    att förkunskapsformuleringen är inaktuell och behöver revideras.
+
+    Endast bullets som nämner ``hp`` granskas — gymnasiekurser (*Engelska 6*,
+    *Matematik 2b* osv.) saknar hp och hoppas över per design. Två
+    extraktionsmönster används för att hålla precisionen hög:
+
+    1. ``kursen X, N hp`` (eller ``kurs X, N hp``) — explicit kursreferens.
+    2. Bullet som börjar med ``X, N hp`` där X startar med versal.
+
+    Titel-startord på en stopplista (*krävs, studenten, kandidatexamen, …*)
+    förkastas eftersom de inte utgör kursnamn."""
+    title_index, long_titles = _build_vault_title_index(files)
+    findings = []
+    for p in files:
+        body = strip_frontmatter(p.read_text(encoding="utf-8"))
+        sec = extract_section(body, "Förkunskapskrav").strip()
+        if not sec:
+            continue
+        reported: set[str] = set()
+        for b in FORKUNSKAP_BULLET_RE.finditer(sec):
+            line = b.group(1).strip()
+            if not FORKUNSKAP_HP_RE.search(line):
+                continue
+            candidates: set[str] = set()
+            for m in FORKUNSKAP_KURSEN_RE.finditer(line):
+                candidates.add(m.group(1).strip())
+            for m in FORKUNSKAP_LINE_LEAD_RE.finditer(line):
+                candidates.add(m.group(1).strip())
+            for title in candidates:
+                first = title.split(maxsplit=1)[0].lower()
+                if first in FORKUNSKAP_STOPWORDS or len(title) < 8:
+                    continue
+                norm = _normalize_title(title)
+                if norm in title_index:
+                    continue
+                if any(vt in norm or norm in vt for vt in long_titles):
+                    continue
+                if title in reported:
+                    continue
+                reported.add(title)
+                findings.append({
+                    "check": "förkunskap-okand-kurs",
+                    "code": course_code(p),
+                    "subj": subject(p),
+                    "detail": f"Refererad kurs hittas ej i vaulten: {title!r}",
+                })
+    return findings
+
+
+# ─────────────────────────────────────────────────────────────────────────────
 # Check 17 — Innehåll utan styckeindelning
 # ─────────────────────────────────────────────────────────────────────────────
 SENTENCE_END_RE = re.compile(r"[.!?](?=\s+[A-ZÅÄÖ]|\s*$)")
@@ -806,6 +908,7 @@ CHECK_LABELS = {
     "förkunskap-bara-engelska": "Förkunskapskrav endast på engelska",
     "förkunskap-tunn":       "Förkunskapskrav osannolikt kort",
     "förkunskap-paritet":    "Förkunskapskrav paritet sv/en",
+    "förkunskap-okand-kurs": "Förkunskapskrav refererar okänd HDa-kurs",
 }
 
 
@@ -835,6 +938,7 @@ def main():
         ("Paritet sv/en",            check_sv_en_parity),
         ("Lärandemål-punktlista",    check_lo_bullets),
         ("Förkunskapskrav",          check_forkunskap),
+        ("Förkunskap-okänd-kurs",    check_forkunskap_okand_kurs),
         ("Innehåll-styckeindelning", check_innehall_styckeindelning),
         ("Innehåll-stub",            check_innehall_stub),
         ("Innehåll-modul-utan-hp",   check_innehall_modul_utan_hp),
