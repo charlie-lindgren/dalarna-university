@@ -117,7 +117,7 @@ Stor vikt läggs vid att studentens vunna kunskaper omsätts i praktisk tillämp
 - Applikationsutveckling för mobila Android-enheter 1, 7,5 hp
 - [[GIK2V4|Datasäkerhet och integritet]], 7,5 hp
 - <a class="no-graph" href="RV1054">Nätjuridik</a>, 7,5 hp
-- Examensarbete, 15 hp
+- <a class="no-graph" href="TY2007">Examensarbete</a>, 15 hp
 
 ## 4. Examensbenämning
 

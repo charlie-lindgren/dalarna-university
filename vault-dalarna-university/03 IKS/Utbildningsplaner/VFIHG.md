@@ -139,7 +139,7 @@ Sista terminen består av examensarbete inom Idrotts- och hälsovetenskap, verks
 
 - Verksamhetsförlagt projekt, 7,5 hp
 - <a class="no-graph" href="GIH24A">Medier och kommunikation inom hälsa och idrott</a>, 7,5 hp
-- Examensarbete, 15hp
+- <a class="no-graph" href="TY2007">Examensarbete</a>, 15hp
 
 ## 4. Examensbenämning
 

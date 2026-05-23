@@ -90,9 +90,14 @@ def detect_institution_from_faststalld(faststalld_text: str) -> str | None:
 def build_kursplan_index() -> dict[str, tuple[str, str]]:
     """Bygg index kursnamn → (kurskod, institution) från befintliga kursplaner.
 
-    Returnerar dict med lowercase kursnamn som nyckel.
+    Returnerar dict med lowercase kursnamn som nyckel. För kursnamn med
+    ämnesprefix (``"Afrikanska studier: X"``) indexeras även suffixet
+    (``"X"``) så att utbildningsplaners kortare titellistor matchar.
+    Suffixmatchen registreras endast om suffixet är unikt över hela vaulten.
     """
     index = {}
+    # Suffix-räknare för att senare bara behålla unika suffixmatchningar
+    suffix_hits: dict[str, list[tuple[str, str]]] = {}
     md_files = []
     for ic in INST_DIR_NAME:
         kp = kursplaner_dir(ic)
@@ -117,6 +122,17 @@ def build_kursplan_index() -> dict[str, tuple[str, str]]:
             continue
         if kursnamn and institution:
             index[kursnamn.lower()] = (code, institution)
+            if ":" in kursnamn:
+                suffix = kursnamn.split(":", 1)[1].strip().lower()
+                if suffix and len(suffix) >= 8:
+                    suffix_hits.setdefault(suffix, []).append((code, institution))
+    # Lägg in suffix i index — om flera kursplaner delar suffix väljs den med
+    # högst sorteringsbar kurskod (oftast den nyare versionen). Skriver inte
+    # över ett exakt namn.
+    for suffix, hits in suffix_hits.items():
+        if suffix in index:
+            continue
+        index[suffix] = max(hits, key=lambda h: h[0])
     return index
 
 
@@ -525,6 +541,14 @@ def content_hash(text: str) -> str:
     return hashlib.sha256(normalized.encode()).hexdigest()[:16]
 
 
+TVARFAK_BANNER = (
+    "> [!info] Tvärfakultetsprogram\n"
+    "> Detta program inkluderar kurser från flera fakulteter och visas\n"
+    "> därför fristående i den globala grafvyn — kurslänkar bevaras dock\n"
+    "> som vanliga hyperlänkar i texten nedan."
+)
+
+
 def build_programme_markdown(scraped: dict, kursplan_index: dict) -> str:
     """Bygger en utbildningsplansfil från skrapade data."""
     code = scraped["code"]
@@ -537,6 +561,73 @@ def build_programme_markdown(scraped: dict, kursplan_index: dict) -> str:
     scraped_text = str(sections) + str(scraped.get("sections_en", {}))
     s_hash = content_hash(scraped_text)
 
+    # Pre-pass: bygg sektionsinnehållet och räkna kursreferenser per institution
+    # så vi vet *innan* frontmatter skrivs om programmet är tvärfakultetsmässigt.
+    section_blocks: list[tuple[str, str]] = []
+    same_inst_links = 0
+    cross_inst_links = 0
+
+    def _sec_sort_key(name: str) -> tuple[int, str]:
+        m = SECTION_NUM_RE.match(name)
+        return (int(m.group(1)) if m else 999, name)
+
+    for section_name, text in sorted(sections.items(), key=lambda kv: _sec_sort_key(kv[0])):
+        if not text:
+            continue
+        sec_lines: list[str] = [f"## {section_name}", ""]
+        m_sec = SECTION_NUM_RE.match(section_name)
+        section_num = int(m_sec.group(1)) if m_sec else None
+
+        if section_num == 3:
+            matched = match_courses_to_codes(text, kursplan_index)
+            if matched:
+                current_heading = None
+                for raw_line in text.split("\n"):
+                    stripped = raw_line.strip()
+                    if not stripped:
+                        continue
+                    parsed = _parse_course_line(stripped)
+                    if not parsed:
+                        if current_heading is not None:
+                            sec_lines.append("")
+                        sec_lines.append(f"**{stripped}**")
+                        sec_lines.append("")
+                        current_heading = stripped
+                        continue
+                    raw_name, hp = parsed
+                    cname = _normalize_course_name(raw_name)
+                    hit = _lookup_course(raw_name, kursplan_index)
+                    if hit:
+                        course_code, course_inst = hit
+                        if institution and course_inst and course_inst != institution:
+                            # Korsinstitutionell referens — behåll navigation
+                            # som ``no-graph``-länk för att inte bro grafens
+                            # institutionskluster.
+                            sec_lines.append(
+                                f'- <a class="no-graph" href="{course_code}">{cname}</a>, {hp}'
+                            )
+                            cross_inst_links += 1
+                        else:
+                            sec_lines.append(f"- [[{course_code}|{cname}]], {hp}")
+                            same_inst_links += 1
+                    else:
+                        sec_lines.append(f"- {cname}, {hp}")
+                sec_lines.append("")
+            else:
+                sec_lines.append(text)
+                sec_lines.append("")
+        else:
+            sec_lines.append(text)
+            sec_lines.append("")
+        section_blocks.append((section_name, "\n".join(sec_lines)))
+
+    # Klassificera tvärfakultet: programmet har minst en korsinstitutionell
+    # kursreferens *och* skulle annars sakna alla samma-institutions-länkar
+    # (alltså flyta i graf-vyn av institutionsskäl, inte för att kursplanen
+    # är tom).
+    is_tvarfakultet = cross_inst_links > 0 and same_inst_links == 0
+
+    # Frontmatter
     lines = [
         "---",
         f"programkod: {code}",
@@ -548,10 +639,12 @@ def build_programme_markdown(scraped: dict, kursplan_index: dict) -> str:
         lines.append(f"institution: \"{institution}\"")
     if meta.get("Fastställd"):
         lines.append(f"faststalld: \"{meta['Fastställd']}\"")
+    tag_list = ["utbildningsplan", "program"]
     if institution:
-        lines.append(f"tags: [utbildningsplan, program, {institution}]")
-    else:
-        lines.append(f"tags: [utbildningsplan, program]")
+        tag_list.append(institution)
+    if is_tvarfakultet:
+        tag_list.append("tvärfakultet")
+    lines.append(f"tags: [{', '.join(tag_list)}]")
     lines.append(f"scrape_hash: {s_hash}")
     if institution:
         # Plain string (utan ``[[ ]]``) — Quartz extraherar wikilinks från
@@ -569,6 +662,11 @@ def build_programme_markdown(scraped: dict, kursplan_index: dict) -> str:
         lines.append(f"**Programme Name:** {name_en}")
     lines.append("")
 
+    # Banner för tvärfakultetsprogram — förklarar varför noden flyter i grafen.
+    if is_tvarfakultet:
+        lines.append(TVARFAK_BANNER)
+        lines.append("")
+
     # Metadata
     meta_keys = ["Programkod", "Programansvarig", "Fastställd", "Reviderad"]
     for key in meta_keys:
@@ -577,63 +675,9 @@ def build_programme_markdown(scraped: dict, kursplan_index: dict) -> str:
     if any(k in meta for k in meta_keys):
         lines.append("")
 
-    # Sektioner — sortera på den ledande siffran (du.se varierar headerorden:
-    # ibland "1. Mål", ibland "1. Programmets mål"). Kursavsnittet (3.) cross-linkas.
-    def _sec_sort_key(name: str) -> tuple[int, str]:
-        m = SECTION_NUM_RE.match(name)
-        return (int(m.group(1)) if m else 999, name)
-
-    for section_name, text in sorted(sections.items(), key=lambda kv: _sec_sort_key(kv[0])):
-        if not text:
-            continue
-
-        lines.append(f"## {section_name}")
-        lines.append("")
-
-        m = SECTION_NUM_RE.match(section_name)
-        section_num = int(m.group(1)) if m else None
-        if section_num == 3:
-            matched = match_courses_to_codes(text, kursplan_index)
-            if matched:
-                current_heading = None
-                for raw_line in text.split("\n"):
-                    stripped = raw_line.strip()
-                    if not stripped:
-                        continue
-                    # Check if this is a year/section heading (no hp pattern)
-                    parsed = _parse_course_line(stripped)
-                    if not parsed:
-                        if current_heading is not None:
-                            lines.append("")
-                        lines.append(f"**{stripped}**")
-                        lines.append("")
-                        current_heading = stripped
-                        continue
-                    # Course line — try to match
-                    raw_name, hp = parsed
-                    cname = _normalize_course_name(raw_name)
-                    hit = _lookup_course(raw_name, kursplan_index)
-                    if hit:
-                        course_code, course_inst = hit
-                        if institution and course_inst and course_inst != institution:
-                            # Korsinstitutionell referens — programmet hämtar
-                            # en kurs från en annan institution. Behåll
-                            # navigeringen som ren HTML-länk (``no-graph``) så
-                            # att grafvyn inte broar institutionerna.
-                            lines.append(
-                                f'- <a class="no-graph" href="{course_code}">{cname}</a>, {hp}'
-                            )
-                        else:
-                            lines.append(f"- [[{course_code}|{cname}]], {hp}")
-                    else:
-                        lines.append(f"- {cname}, {hp}")
-                lines.append("")
-            else:
-                lines.append(text)
-                lines.append("")
-        else:
-            lines.append(text)
-            lines.append("")
+    # Sektioner
+    for _section_name, block in section_blocks:
+        lines.append(block)
 
     return "\n".join(lines)
 

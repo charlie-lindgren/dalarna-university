@@ -3,7 +3,7 @@ programkod: KFTPG
 programnamn: "Film- och TV-produktion"
 institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2014-03-19 . Gäller fr.o.m.  HT 2014."
-tags: [utbildningsplan, program, IIT]
+tags: [utbildningsplan, program, IIT, tvärfakultet]
 scrape_hash: 53c5dc3744530dc3
 up: "IIT MOC"
 ---
@@ -11,6 +11,11 @@ up: "IIT MOC"
 # KFTPG
 
 **Programnamn:** Film- och TV-produktion
+
+> [!info] Tvärfakultetsprogram
+> Detta program inkluderar kurser från flera fakulteter och visas
+> därför fristående i den globala grafvyn — kurslänkar bevaras dock
+> som vanliga hyperlänkar i texten nedan.
 
 - **Programkod:** KFTPG
 - **Programansvarig:** Axel Grigor

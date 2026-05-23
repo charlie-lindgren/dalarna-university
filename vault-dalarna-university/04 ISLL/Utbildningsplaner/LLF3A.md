@@ -3,7 +3,7 @@ programkod: LLF3A
 programnamn: "Grundlärarprogrammet förskoleklass och grundskolans årskurs 1-3"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
-tags: [utbildningsplan, program, ISLL]
+tags: [utbildningsplan, program, ISLL, tvärfakultet]
 scrape_hash: 2db4409d5e510386
 up: "ISLL MOC"
 ---
@@ -11,6 +11,11 @@ up: "ISLL MOC"
 # LLF3A
 
 **Programnamn:** Grundlärarprogrammet förskoleklass och grundskolans årskurs 1-3
+
+> [!info] Tvärfakultetsprogram
+> Detta program inkluderar kurser från flera fakulteter och visas
+> därför fristående i den globala grafvyn — kurslänkar bevaras dock
+> som vanliga hyperlänkar i texten nedan.
 
 - **Programkod:** LLF3A
 - **Programansvarig:** Hannele Junkala

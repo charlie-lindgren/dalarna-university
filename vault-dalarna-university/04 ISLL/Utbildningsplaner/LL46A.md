@@ -3,7 +3,7 @@ programkod: LL46A
 programnamn: "Grundlärarprogrammet grundskolans årskurs 4-6 arbetsintegrerad utbildning"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
-tags: [utbildningsplan, program, ISLL]
+tags: [utbildningsplan, program, ISLL, tvärfakultet]
 scrape_hash: 10c09b7d43e0322d
 up: "ISLL MOC"
 ---
@@ -11,6 +11,11 @@ up: "ISLL MOC"
 # LL46A
 
 **Programnamn:** Grundlärarprogrammet grundskolans årskurs 4-6 arbetsintegrerad utbildning
+
+> [!info] Tvärfakultetsprogram
+> Detta program inkluderar kurser från flera fakulteter och visas
+> därför fristående i den globala grafvyn — kurslänkar bevaras dock
+> som vanliga hyperlänkar i texten nedan.
 
 - **Programkod:** LL46A
 - **Programansvarig:** Helen Sterner

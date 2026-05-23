@@ -3,7 +3,7 @@ programkod: LU79A
 programnamn: "Kompletterande pedagogisk utbildning, inriktning årskurs 7–9"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
-tags: [utbildningsplan, program, ISLL]
+tags: [utbildningsplan, program, ISLL, tvärfakultet]
 scrape_hash: 54be6963df5c8539
 up: "ISLL MOC"
 ---
@@ -11,6 +11,11 @@ up: "ISLL MOC"
 # LU79A
 
 **Programnamn:** Kompletterande pedagogisk utbildning, inriktning årskurs 7–9
+
+> [!info] Tvärfakultetsprogram
+> Detta program inkluderar kurser från flera fakulteter och visas
+> därför fristående i den globala grafvyn — kurslänkar bevaras dock
+> som vanliga hyperlänkar i texten nedan.
 
 - **Programkod:** LU79A
 - **Programansvarig:** Johanne Maad

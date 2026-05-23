@@ -3,7 +3,7 @@ programkod: HAFSA
 programnamn: "Magisterprogram i Afrikanska studier"
 institution: "ISLL"
 faststalld: "Fastställd av Områdesnämnden Humaniora och språk 2014-11-20 . Gäller fr.o.m.  HT 2015."
-tags: [utbildningsplan, program, ISLL]
+tags: [utbildningsplan, program, ISLL, tvärfakultet]
 scrape_hash: 163447ed480693db
 up: "ISLL MOC"
 ---
@@ -11,6 +11,11 @@ up: "ISLL MOC"
 # HAFSA
 
 **Programnamn:** Magisterprogram i Afrikanska studier
+
+> [!info] Tvärfakultetsprogram
+> Detta program inkluderar kurser från flera fakulteter och visas
+> därför fristående i den globala grafvyn — kurslänkar bevaras dock
+> som vanliga hyperlänkar i texten nedan.
 
 - **Programkod:** HAFSA
 - **Programansvarig:** Lars Berge
@@ -80,15 +85,15 @@ Genom hela programmet sker en progression kunskapsmässigt från den första ter
 
 ****3.1 Obligatoriska kurser****
 
-- _1. Afrikanska samhällen i förändring, 12 hp
+- <a class="no-graph" href="AS3022">Afrikanska samhällen i förändring</a>, 12 hp
 
 **_Kursen innehåller synkrona och diakrona perspektiv i afrikanska samhällen från tidigt 1800-tal fram till nutiden. Viktiga frågor som behandlas rör strukturer i afrikanska ekonomiska system, principer för politisk organisering, förhållandena mellan individuellt och allmänt samt produktion och reproduktion av materiell kultur i olika afrikanska samhällen.**
 
-- _2. Religion och politik i afrikanska samhällen, 9 hp
+- <a class="no-graph" href="AS3023">Religion och politik i afrikanska samhällen</a>, 9 hp
 
 **Studenten genomför ett fördjupat studium av ett urval av Afrikas religioner. Kristendomens olika riktningar liksom islam och grunddragen i afrikansk religion studeras i förhållande till de ekonomiska, politiska och sociala miljöer där de uppstått och förekommer. Viktiga frågor handlar om hur religioner kan påverka olika samhällens politiska utveckling, hur religionsmöten och religionskonflikter uppstår och kan hanteras samt vilken roll religion spelar i organiserandet av det sociala, ekonomiska och politiska livet.**
 
-- _3. Utbildning och förändring i afrikanska samhällen, 8 hp
+- <a class="no-graph" href="AS3021">Utbildning och förändring i afrikanska samhällen</a>, 8 hp
 
 **Kursen behandlar utbildningspolitik samt utbildningens roll för utvecklingen av afrikanska samhällen. Fokus i kursen är på relationen mellan utbildning och social förändring. Inhemska system för kunskap och lärande relateras till formella och strukturerade utbildningssystem. Utbildningsbiståndets roll för utveckling i afrikanska samhällen diskuteras. Frågor knutna till yrkesetik samt till officiella läroplaners roll behandlas.**
 
@@ -111,19 +116,19 @@ Genom hela programmet sker en progression kunskapsmässigt från den första ter
 ****3.2 Valbara kurser****
 
 - _1. Bistånd och utveckling i Afrika söder om Sahara, 7 hp
-- _2. Litteratur och politik i det samtida Afrika, 7 hp
-- _3. Ekonomisk utveckling i Afrika, en introduktion, 7 hp
+- <a class="no-graph" href="AS3017">Litteratur och politik i det samtida Afrika</a>, 7 hp
+- <a class="no-graph" href="AS3019">Ekonomisk utveckling i Afrika, en introduktion</a>, 7 hp
 - _4. Egypten och medierna, 7 hp
 - _5. Egyptisk–sudanesiska relationer: Vattenresursernas geopolitik, 7 hp
-- _6. Mänskliga rättigheter och demokrati i Afrika söder om Sahara, 7 hp
-- _7. Internationell hälsa med fokus på nutrition i ett genus- och ekonomiskt perspektiv, 7hp
+- <a class="no-graph" href="ARK227">Mänskliga rättigheter och demokrati i Afrika söder om Sahara</a>, 7 hp
+- <a class="no-graph" href="AS3014">Internationell hälsa med fokus på nutrition i ett genus- och ekonomiskt perspektiv</a>, 7hp
 - _8. Den nordafrikanska novellen, 7 hp
 - _9. Islam och muslimska samhällen i Afrika, 7 hp
 - _10. Språk och nationalitet i afrikanska flerspråkliga länder, 7 hp
 - _11. Södra Afrikas moderna historia, 7 hp
 - _12. Afrikas horn, 7 hp
 - _13. Fred och konflikt i Afrika: Internationell institutionell lag, 7 hp
-- _14. Det urbana rummet och urbaniseringspolitik i Afrika söder om Sahara, 7 hp
+- <a class="no-graph" href="AS3018">Det urbana rummet och urbaniseringspolitik i Afrika söder om Sahara</a>, 7 hp
 - _15. Västafrika sedan 1800-talet, 7 hp
 
 ## 4. Examensbenämning

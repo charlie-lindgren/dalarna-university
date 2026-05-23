@@ -158,17 +158,17 @@ T11: Examensarbete
 
 - [[GIH3AP|Idrott och hälsa I med didaktisk inriktning]], 30 hp
 - <a class="no-graph" href="GPG3AE">Utveckling och lärande för ämneslärare årskurs 7–9 - AIL</a>, 7,5 hp
-- Verksamhetsförlagd utbildning 1 för ämneslärare årskurs 7–9 - AIL, 7,5 hp
+- <a class="no-graph" href="GPG3AD">Verksamhetsförlagd utbildning 1 för ämneslärare årskurs 7–9 - AIL</a>, 7,5 hp
 
 **År 3**
 
 - <a class="no-graph" href="GMD2TV">Matematik II med didaktisk inriktning</a>, 30 hp
-- Specialpedagogik och ett läraruppdrag i förändring för ämneslärare årskurs 7–9 - AIL, 7,5 hp
-- Verksamhetsförlagd utbildning 2 för ämneslärare årskurs 7–9 - AIL, 7,5 hp
+- <a class="no-graph" href="GPG3AF">Specialpedagogik och ett läraruppdrag i förändring för ämneslärare årskurs 7–9 - AIL</a>, 7,5 hp
+- <a class="no-graph" href="GPG3AG">Verksamhetsförlagd utbildning 2 för ämneslärare årskurs 7–9 - AIL</a>, 7,5 hp
 
 **År 4**
 
-- Bedömning och betygssättning för ämneslärare årskurs 7–9 - AIL, 7,5 hp
+- <a class="no-graph" href="APG2AB">Bedömning och betygssättning för ämneslärare årskurs 7–9 - AIL</a>, 7,5 hp
 - [[GIH37R|Idrott och hälsa II med didaktisk inriktning]], 30 hp
 - Sociala relationer, konflikter och makt för ämneslärare årskurs 7–9 - AIL, 7,5 hp
 

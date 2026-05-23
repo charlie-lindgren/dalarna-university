@@ -3,7 +3,7 @@ programkod: HFRIG
 programnamn: "Filmproduktion för reklam och information – kandidatprogram"
 institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2018-12-20 . Gäller fr.o.m.  HT 2018."
-tags: [utbildningsplan, program, IIT]
+tags: [utbildningsplan, program, IIT, tvärfakultet]
 scrape_hash: eb616771f856bb6a
 up: "IIT MOC"
 ---
@@ -11,6 +11,11 @@ up: "IIT MOC"
 # HFRIG
 
 **Programnamn:** Filmproduktion för reklam och information – kandidatprogram
+
+> [!info] Tvärfakultetsprogram
+> Detta program inkluderar kurser från flera fakulteter och visas
+> därför fristående i den globala grafvyn — kurslänkar bevaras dock
+> som vanliga hyperlänkar i texten nedan.
 
 - **Programkod:** HFRIG
 - **Programansvarig:** Therese Herkules Henrik Stub
