@@ -240,6 +240,10 @@ SV_IGNORE = {
     "affärsmötesrollspel","främmandespråksinlärning",
     "låneord","europeiskspråkiga","främmandespråksforskning","läsintryck",
     "lärsituation","lärsituationer","läsmiljöns","högstadie",
+    "skalnivå","flerspårsmaterial","fördjupningskod","användar","efterfråge",
+    "studieförb","longterm","shortterm","tobbit","lärarlagsarbete",
+    "lärstrategier","rättsäkerhetsproblematiken","lärarprofessionsspecifika",
+    "obestånds",
 }
 HAS_SV = re.compile(r"[åäöÅÄÖ]")
 
