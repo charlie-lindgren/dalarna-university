@@ -1,6 +1,6 @@
 ---
 tags: [analys, forkunskapskrav]
-up: "IKS MOC"
+up: "[[IKS Analys MOC]]"
 status: första pass
 ---
 

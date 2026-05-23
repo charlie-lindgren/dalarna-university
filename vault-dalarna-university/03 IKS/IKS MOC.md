@@ -65,12 +65,5 @@ tags: [MOC, institution, IKS]
 
 ## Kvalitetsanalys
 
-- <a class="no-graph" href="03 IKS/Analys/Stavfel och språkbruk">Stavfel och språkbruk</a>
-- <a class="no-graph" href="03 IKS/Analys/Introfras">Introfras</a>
-- <a class="no-graph" href="03 IKS/Analys/Frasningskonsistens">Frasningskonsistens</a>
-- <a class="no-graph" href="03 IKS/Analys/Omfång på lärandemål">Omfång på lärandemål</a>
-- <a class="no-graph" href="03 IKS/Analys/Bloom-taxonomi">Bloom-taxonomi</a>
-- <a class="no-graph" href="03 IKS/Analys/Examinationsformer">Examinationsformer</a>
-- <a class="no-graph" href="03 IKS/Analys/Betygsskalor">Betygsskalor</a>
-- <a class="no-graph" href="03 IKS/Analys/Samstämmighet svenska och engelska">Samstämmighet svenska och engelska</a>
-- <a class="no-graph" href="03 IKS/Analys/Vilande kursplaner">Vilande kursplaner</a>
+- [[IKS Analys MOC]] — kvalitetsanalys för IKS
+

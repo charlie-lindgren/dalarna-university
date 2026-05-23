@@ -43,12 +43,5 @@ tags: [MOC, institution, ISLL]
 
 ## Kvalitetsanalys
 
-- <a class="no-graph" href="04 ISLL/Analys/Stavfel och språkbruk">Stavfel och språkbruk</a>
-- <a class="no-graph" href="04 ISLL/Analys/Introfras">Introfras</a>
-- <a class="no-graph" href="04 ISLL/Analys/Frasningskonsistens">Frasningskonsistens</a>
-- <a class="no-graph" href="04 ISLL/Analys/Omfång på lärandemål">Omfång på lärandemål</a>
-- <a class="no-graph" href="04 ISLL/Analys/Bloom-taxonomi">Bloom-taxonomi</a>
-- <a class="no-graph" href="04 ISLL/Analys/Examinationsformer">Examinationsformer</a>
-- <a class="no-graph" href="04 ISLL/Analys/Betygsskalor">Betygsskalor</a>
-- <a class="no-graph" href="04 ISLL/Analys/Samstämmighet svenska och engelska">Samstämmighet svenska och engelska</a>
-- <a class="no-graph" href="04 ISLL/Analys/Vilande kursplaner">Vilande kursplaner</a>
+- [[ISLL Analys MOC]] — kvalitetsanalys för ISLL
+

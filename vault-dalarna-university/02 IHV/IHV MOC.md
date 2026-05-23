@@ -36,12 +36,5 @@ tags: [MOC, institution, IHV]
 
 ## Kvalitetsanalys
 
-- <a class="no-graph" href="02 IHV/Analys/Stavfel och språkbruk">Stavfel och språkbruk</a>
-- <a class="no-graph" href="02 IHV/Analys/Introfras">Introfras</a>
-- <a class="no-graph" href="02 IHV/Analys/Frasningskonsistens">Frasningskonsistens</a>
-- <a class="no-graph" href="02 IHV/Analys/Omfång på lärandemål">Omfång på lärandemål</a>
-- <a class="no-graph" href="02 IHV/Analys/Bloom-taxonomi">Bloom-taxonomi</a>
-- <a class="no-graph" href="02 IHV/Analys/Examinationsformer">Examinationsformer</a>
-- <a class="no-graph" href="02 IHV/Analys/Betygsskalor">Betygsskalor</a>
-- <a class="no-graph" href="02 IHV/Analys/Samstämmighet svenska och engelska">Samstämmighet svenska och engelska</a>
-- <a class="no-graph" href="02 IHV/Analys/Vilande kursplaner">Vilande kursplaner</a>
+- [[IHV Analys MOC]] — kvalitetsanalys för IHV
+

@@ -48,12 +48,5 @@ tags: [MOC, institution, IIT]
 
 ## Kvalitetsanalys
 
-- <a class="no-graph" href="01 IIT/Analys/Stavfel och språkbruk">Stavfel och språkbruk</a>
-- <a class="no-graph" href="01 IIT/Analys/Introfras">Introfras</a>
-- <a class="no-graph" href="01 IIT/Analys/Frasningskonsistens">Frasningskonsistens</a>
-- <a class="no-graph" href="01 IIT/Analys/Omfång på lärandemål">Omfång på lärandemål</a>
-- <a class="no-graph" href="01 IIT/Analys/Bloom-taxonomi">Bloom-taxonomi</a>
-- <a class="no-graph" href="01 IIT/Analys/Examinationsformer">Examinationsformer</a>
-- <a class="no-graph" href="01 IIT/Analys/Betygsskalor">Betygsskalor</a>
-- <a class="no-graph" href="01 IIT/Analys/Samstämmighet svenska och engelska">Samstämmighet svenska och engelska</a>
-- <a class="no-graph" href="01 IIT/Analys/Vilande kursplaner">Vilande kursplaner</a>
+- [[IIT Analys MOC]] — kvalitetsanalys för IIT
+
