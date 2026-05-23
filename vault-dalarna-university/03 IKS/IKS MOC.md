@@ -8,12 +8,14 @@ tags: [MOC, institution, IKS]
 
 > Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Program (28 st)
+## Program (30 st)
 
 - <a class="no-graph" href="KAPSG">KAPSG</a> — Audiovisuell produktion för scen och event – kandidatprogram
 - <a class="no-graph" href="SBMPG">SBMPG</a> — Business Managementprogrammet - Kandidatprogram i företagsekonomi
 - <a class="no-graph" href="SENGR">SENGR</a> — Ekonomprogrammet
 - <a class="no-graph" href="SEPFG">SEPFG</a> — Entreprenöriellt företagande
+- <a class="no-graph" href="KFTPG">KFTPG</a> — Film- och TV-produktion
+- <a class="no-graph" href="HFRIG">HFRIG</a> — Filmproduktion för reklam och information – kandidatprogram
 - <a class="no-graph" href="KFPPG">KFPPG</a> — Filmproduktionsprogrammet
 - <a class="no-graph" href="LBF3A">LBF3A</a> — Grundlärarprogrammet Förskoleklass och grundskolans årskurs 1–3 arbetsintegrerad utbildning
 - <a class="no-graph" href="STMGG">STMGG</a> — International Tourism Management
