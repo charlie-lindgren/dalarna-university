@@ -143,17 +143,17 @@ status: första pass
 
 ## Syfte
 
-Sektionen `## Innehåll` beskriver kursens stoff och upplägg. När sektionen består av en monolitisk textmassa — flera meningar utan styckeindelning — blir det svårare för studenter att skanna efter delmoment, teman eller progressionen genom kursen. Konventionen är att längre innehållsbeskrivningar styckeindelas så att läsbarheten håller, och att varje stycke motsvarar ett logiskt avsnitt (delkurs, tema, fas). Syftet med analysen är att kartlägga **vilka kursplaner som har ett enda långt stycke trots att texten innehåller flera meningar**.
+Sektionen `## Innehåll` beskriver kursens stoff och upplägg. När sektionen brister i struktur — som monolitisk textmassa, som tom platshållare, eller som modulrubriker utan hp-angivelser — blir det svårare för studenter att skanna efter delmoment, teman och progressionen genom kursen. Syftet med analysen är att kartlägga tre olika strukturproblem i Innehåll-sektionen.
 
 ## Metod
 
-Sektionen `## Innehåll` extraheras från den svenska sidan. En kursplan flaggas om:
+Sektionen `## Innehåll` extraheras från den svenska sidan. Tre olika mönster flaggas:
 
-1. Sektionen består av endast ett stycke (ingen blankrad mellan textblock), och
-2. Stycket innehåller minst 4 meningar, och
-3. Stycket är minst 400 tecken långt.
+1. **Ostyckad textmassa** — sektionen består av endast ett stycke (ingen blankrad mellan textblock), stycket innehåller minst 4 meningar, och är minst 400 tecken långt. Mjuka radbrytningar via två efterföljande mellanslag (markdowns `<br>`-semantik) räknas inte som styckeindelning eftersom de inte skapar ett nytt stycke vid renderingen.
+2. **Stub/platshållare** — sektionen är under 80 tecken, t.ex. *"Innehåll saknas."* eller *"Kursen består av tre delkurser."* utan beskrivning av delkurserna.
+3. **Modulrubrik utan hp-angivelse** — sektionen refererar till `Modul N` eller `Delkurs N` men ingen hp-siffra finns i sektionen, vilket gör det svårt att se hur kursens totala hp fördelar sig.
 
-Tröskelvärdena är medvetet konservativa — korta innehållsbeskrivningar (1–3 meningar) anses inte vinna på styckeindelning, och mycket korta sektioner under 400 tecken faller utanför oavsett antal meningar. Mjuka radbrytningar via två efterföljande mellanslag (markdowns `<br>`-semantik) räknas inte som styckeindelning eftersom de inte skapar ett nytt stycke vid renderingen.
+Tröskelvärdena för stycketestet är medvetet konservativa — korta innehållsbeskrivningar (1–3 meningar) anses inte vinna på styckeindelning, och mycket korta sektioner under 400 tecken faller utanför oavsett antal meningar.
 
 ## Datakälla
 
@@ -164,4 +164,5 @@ Tröskelvärdena är medvetet konservativa — korta innehållsbeskrivningar (1�
 
 1. **Inför blankrader mellan logiska avsnitt** — varje delkurs, tema eller fas blir sitt eget stycke.
 2. **Använd fetstilta delrubriker eller punktlistor** när innehållet naturligt delas in i moduler eller faser med egna hp-värden.
-3. **Kortare innehållsbeskrivningar** behöver inte alltid styckeindelas, men om sektionen växer förbi 3–4 meningar bör styckesstrukturen ses över i samband med nästa revidering.
+3. **Ersätt platshållartexter** med en konkret beskrivning av stoffet. Kursplaner med stub-sektioner bör revideras vid nästa tillfälle.
+4. **Ange hp per modul** när Innehåll listar moduler eller delkurser — t.ex. *"Modul 1: Grammatik, 7,5 hp"* — så att studenter och studieadministration kan se hur kursens totala omfattning fördelar sig.
