@@ -398,15 +398,9 @@ def _walk(node, parts, list_depth=0):
             _walk(child, parts, list_depth)
         parts.append("\n")
     elif tag in ("strong", "b"):
-        parts.append("**")
-        for child in node.children:
-            _walk(child, parts, list_depth)
-        parts.append("**")
+        _emit_emphasis(node, parts, list_depth, "**")
     elif tag in ("em", "i"):
-        parts.append("_")
-        for child in node.children:
-            _walk(child, parts, list_depth)
-        parts.append("_")
+        _emit_emphasis(node, parts, list_depth, "_")
     elif tag == "sup":
         pass
     elif tag in ("span", "div", "a"):
