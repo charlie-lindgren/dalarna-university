@@ -231,17 +231,9 @@ def main():
 
             if not dry_run:
                 if fraction >= LARGE_DELETION_THRESHOLD:
-                    answer = input(
-                        f"      Bekräfta borttagning av {removed} rader ur "
-                        f"{inst_code}/{filename}? [j/N]: "
-                    ).strip().lower()
-                    if answer not in ("j", "ja", "y", "yes"):
-                        print(f"      {YELLOW}Hoppas över.{RESET}")
-                        continue
+                    print(f"      {YELLOW}Stor ändring — tar bort {removed} rader.{RESET}")
                 prune_analys_file(analys_path, active, dry_run=False)
-                total_removed += removed
-            else:
-                total_removed += removed
+            total_removed += removed
 
     print()
     if total_removed > 0:

@@ -269,26 +269,14 @@ run_diff() {
 run_populate() {
     echo -e "${BOLD}Populera analysfilerna${RESET}"
     echo ""
-    prompt_apply_mode
-    echo ""
-    if [[ -n "$APPLY_FLAG" ]]; then
-        "$PYTHON" qa/populate_analysfiler.py
-    else
-        "$PYTHON" qa/populate_analysfiler.py --dry-run
-    fi
+    "$PYTHON" qa/populate_analysfiler.py
 }
 
 # ── steg: rensa analysfilerna ───────────────────────────────────────────────
 run_prune() {
     echo -e "${BOLD}Rensa analysfilerna${RESET}"
     echo ""
-    prompt_apply_mode
-    echo ""
-    if [[ -n "$APPLY_FLAG" ]]; then
-        "$PYTHON" qa/prune_analysfiler.py
-    else
-        "$PYTHON" qa/prune_analysfiler.py --dry-run
-    fi
+    "$PYTHON" qa/prune_analysfiler.py
 }
 
 # ── steg: kör alla QC-steg i sekvens ────────────────────────────────────────
