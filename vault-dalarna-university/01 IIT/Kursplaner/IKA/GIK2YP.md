@@ -41,8 +41,8 @@ Efter godkänd kurs ska den studerande kunna:
 
   - redogöra för tillgänglighetsperspektiv vid webbdesign
 
-_Färdighet och förmåga  
-_Efter godkänd kurs ska den studerande kunna:
+_Färdighet och förmåga_  
+Efter godkänd kurs ska den studerande kunna:
 
   - använda ett urval av HTML-element för att strukturera information hos en webbplats
 
@@ -90,8 +90,8 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 ### Learning Outcomes
 
-_Knowledge and Understanding  
-_Upon completion of the course, the students will be able to:
+_Knowledge and Understanding_  
+Upon completion of the course, the students will be able to:
 
   - explain the rendering process of HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets)
 

@@ -30,8 +30,8 @@ up: "[[Industriell ekonomi MOC]]"
 
 ## Lärandemål
 
-_Kunskap och förståelse  
-_Efter avslutad kurs ska studenten kunna
+_Kunskap och förståelse_  
+Efter avslutad kurs ska studenten kunna
  
  
   - redogöra för projektledarens roll och ansvar 
@@ -40,8 +40,8 @@ _Efter avslutad kurs ska studenten kunna
   - redogöra för de olika faserna i en förändringsprocess – identifiering, analys, utveckling och etablering av nya affärsprocesser
  
 
-_Färdighet och förmåga  
-_Efter avslutad kurs ska studenten kunna
+_Färdighet och förmåga_  
+Efter avslutad kurs ska studenten kunna
  
  
   - tillämpa projektledarens verktyg och tekniker för att definiera, planera och organisera projekt 

@@ -40,7 +40,7 @@ Efter avslutad kurs ska studenten kunna:
 
   - diskutera och förklara de grundläggande begrepp och koncept som berör personalarbete i organisationer på internationell nivå
 
-_Färdighet och förmåga _  
+_Färdighet och förmåga_   
 Efter avslutad kurs ska studenten kunna:
 
   - formulera personalstrategier som är inkluderande och effektiviserar organisationer

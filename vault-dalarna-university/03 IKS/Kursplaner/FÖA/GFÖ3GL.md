@@ -51,13 +51,13 @@ Denna kurs behandlar grundläggande frågor inom samhällsvetenskaplig forskning
 
 - Gruppvis bedömda skriftliga inlämningsuppgifter
 
-_Om kurstillfället är utlyst som campus gäller följande: _
+_Om kurstillfället är utlyst som campus gäller följande:_ 
 
   - Aktivt deltagande under seminarier och workshoppar på campus
 
   - Skriftlig övervakad examination på plats
 
-_Om kurstillfället är utlyst som distans gäller följande: _
+_Om kurstillfället är utlyst som distans gäller följande:_ 
 
   - Aktivt deltagande under seminarier och workshoppar on-line
 

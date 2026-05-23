@@ -192,9 +192,9 @@ This part introduces ideological perspectives on fiction. Modern and contemporar
 This module has three parts.**  
 Part 1: ****Grammar**  
 This part of the module deals with the fundamental aspects of English grammar including applied exercises in contrastive analyses of authentic texts that have different kinds of grammatical problems.  
-**Part 2: ****Phonetics**  
+**Part 2:** **Phonetics**  
 This part of the module deals with the principles of English pronunciation as well as the main differences between English and Swedish pronunciation. English pronunciation is practiced through the study of phonetic transcription.  
-**Part 3: ****Exploring Language**  
+**Part 3:** **Exploring Language**  
 This part of the module introduces students to basic concepts and terminology in linguistics and deals with how English works in different contexts. Perspectives on language of people in general and linguists are compared.
 
 ### Assessment

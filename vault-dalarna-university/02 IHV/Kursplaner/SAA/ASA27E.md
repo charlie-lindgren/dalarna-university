@@ -30,7 +30,7 @@ up: "[[Socialt arbete MOC]]"
 
 ## Lärandemål
 
-**Kunskap och förståelse **  
+**Kunskap och förståelse**   
 
 Efter avslutad kurs ska den studerande kunna:  
 
@@ -44,7 +44,7 @@ barns och ungas utveckling, uppväxt och villkor.
 
 ** **  
 
-**Färdighet och förmåga **  
+**Färdighet och förmåga**   
 
 Efter avslutad kurs ska den studerande kunna:  
 
@@ -57,7 +57,7 @@ vetenskapliga, psykosociala och etiska aspekter med utgångspunkt i barnets beho
 
 ** **  
 
-**Värderingsförmåga och förhållningssätt **  
+**Värderingsförmåga och förhållningssätt**   
 
 Efter avslutad kurs ska den studerande kunna:  
 

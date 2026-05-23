@@ -33,8 +33,8 @@ up: "[[Informatik MOC]]"
 Kursens övergripande mål är att introducera studenten till nätverk, nätverkstjänster , nätverkssäkerhet, datakommunikation samt konfigurering av nätverksutrustning. 
  
 
-_Kunskap och förståelse  
-_Efter avslutad kurs skall studenten kunna:
+_Kunskap och förståelse_  
+Efter avslutad kurs skall studenten kunna:
  
  
   - Förklara hur slutanvändarenheter och lokala nätverk interagerar med det globala Internet. 
@@ -44,8 +44,8 @@ _Efter avslutad kurs skall studenten kunna:
  
 
   
-_Färdighet och förmåga  
-_Efter avslutad kurs skall studenten kunna:
+_Färdighet och förmåga_  
+Efter avslutad kurs skall studenten kunna:
  
  
   - Konfigurera en integrerad trådlös router och trådlösa klienter för att ansluta säkert till Internet. 

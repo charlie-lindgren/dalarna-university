@@ -58,16 +58,16 @@ För kandidatexamen skall studenten
 ### 
 1.3 Utbildningsprogrammets mål
 
-_Kunskap och förståelse  
-_För kandidatexamen skall studenten  
+_Kunskap och förståelse_  
+För kandidatexamen skall studenten  
 - kunna redogöra för och förklara personalarbete utifrån perspektiven arbetsmiljö, arbetsorganisation och arbetsmarknad.
 
-_Färdighet och förmåga  
-_För kandidatexamen skall studenten  
+_Färdighet och förmåga_  
+För kandidatexamen skall studenten  
 - visa förmåga att reflektera över och analysera personalarbetets roll i samhället och möjlighet att bidra till ett hållbart arbetsliv.
 
-_Värderingsförmåga och förhållningssätt  
-_För kandidatexamen skall studenten  
+_Värderingsförmåga och förhållningssätt_  
+För kandidatexamen skall studenten  
 - kunna värdera och förhålla sig kritiskt till arbetssätt och praktiker inom personal- och arbetslivsområdet.
 
 ## 2. Huvudsaklig uppläggning

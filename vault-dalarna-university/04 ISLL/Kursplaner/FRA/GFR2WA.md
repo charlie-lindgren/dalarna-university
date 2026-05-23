@@ -125,7 +125,7 @@ Delkurs 4. Franskspråkig litteratur I: Från 1900 till idag, 5,5 hp
 De studerande läser sedan en av de två didaktiska delkurserna:  
 Delkurs 5. Språkdidaktik 1A, 6 hp  
 Delkurs 6. Språkdidaktik 1B, 6 hp  
-De studerande som läser **franska som sitt första ämne** OCH de studerande som har läst **ett annat ämne än språk som första ämne** ska läsa delkurs 5, Språkdidaktik 1A.  
+De studerande som läser **franska som sitt första ämne **OCH de studerande som har läst** ett annat ämne än språk som första ämne** ska läsa delkurs 5, Språkdidaktik 1A.  
 De studerande som har läst **ett annat språk som första ämne** ska läsa delkurs 6, Språkdidaktik 1B.
 
 ### Delkurser

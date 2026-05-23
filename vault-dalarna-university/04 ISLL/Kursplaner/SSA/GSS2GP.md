@@ -147,7 +147,7 @@ befinner sig i.
 skriftliga inlämningsuppgifter. Delkursen avslutas med en muntlig och en skriftlig tentamen.  
 **Delkurs 2** examineras kontinuerligt genom aktivt deltagande på seminarier samt genom en muntlig presentation och en skriftlig tentamen.  
 **Delkurs 3** examineras kontinuerligt genom aktivt deltagande på seminarier samt genom skriftliga inlämningsuppgifter. Delkursen avslutas med en muntlig och en skriftlig tentamen.  
-**Delkurs 4 **examineras genom skriftliga inlämningsuppgifter samt en muntlig presentation och en uppsats.
+**Delkurs 4** examineras genom skriftliga inlämningsuppgifter samt en muntlig presentation och en uppsats.
 
 ## Arbetsformer
 

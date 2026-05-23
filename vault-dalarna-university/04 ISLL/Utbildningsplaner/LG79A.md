@@ -69,7 +69,7 @@ För ämneslärarexamen ska studenten också
 
   - visa fördjupad kunskap om bedömning och betygsättning. 
 
-**Färdigheter och förmåga **  
+**Färdigheter och förmåga**   
 För ämneslärarexamen ska studenten 
 
   - visa fördjupad förmåga att skapa förutsättningar för alla elever att lära och utvecklas, 
@@ -140,7 +140,7 @@ Studierna inom den utbildningsvetenskapliga kärnan ska anknyta till kommande yr
 
   - utvärdering och utvecklingsarbete.
 
-**Självständigt arbete (examensarbete) **  
+**Självständigt arbete (examensarbete)**   
 För ämneslärarexamen ska studenten inom ramen för kursfordringarna ha fullgjort ett självständigt arbete (examensarbete) om 30 högskolepoäng i ett av de undervisningsämnen för vilket utbildningen är avsedd.
 
 **2.2 Utbildningens struktur**

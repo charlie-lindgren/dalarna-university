@@ -108,7 +108,7 @@ Programmets tredje år ger en fördjupning inom företagsekonomins delämnesomr�
 **Examensarbete för kandidatexamen i företagsekonomi 15* hp (Företagsekonomi)**
 
 
-*** För att programnamnet ska visas i examensbeviset, är kurser märkta med asterisk obligatoriska.**
+* **För att programnamnet ska visas i examensbeviset, är kurser märkta med asterisk obligatoriska.**
 
 
 ## 4. Examensbenämning

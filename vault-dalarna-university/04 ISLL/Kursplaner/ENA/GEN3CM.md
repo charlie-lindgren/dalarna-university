@@ -95,7 +95,7 @@ Delkurs 2. Introduktion till engelsk lingvistik för lärarstuderande, 12 hp
 De studerande väljer sedan en av de två didaktiska delkurserna:  
 Delkurs 3. Språkdidaktik II A, 6 hp  
 Delkurs 4. Språkdidaktik II B, 6 hp  
-De studerande som läser **engelska som sitt första ämne** OCH de studerande som har läst **ett annat ämne än språk som första ämne** läser delkurs 3, Språkdidaktik II A.  
+De studerande som läser **engelska som sitt första ämne **OCH de studerande som har läst** ett annat ämne än språk som första ämne** läser delkurs 3, Språkdidaktik II A.  
 De studerande som har läst **ett annat språk som första ämne** läser delkurs 4, Språkdidaktik II B.
 
 ### Delkurser
@@ -250,7 +250,7 @@ Module 2. Introduction to English Linguistics for Teacher Students, 12 credits
 Students then choose one of the two didactic modules:  
 Module 3. Language Learning and Teaching II A, 6 credits  
 Module 4. Language Learning and Teaching II B, 6 credits  
-Students whose **first subject is English** AND students whose **first subject was not a language **take module 3, Language Learning and Teaching II A.  
+Students whose **first subject is English **AND students whose** first subject was not a language **take module 3, Language Learning and Teaching II A.  
 Students whose **first subject was another language **take module 4, Language Learning and Teaching II B.
 
 ### Modules
@@ -267,7 +267,7 @@ The module provides an overview of English linguistics. The learning outcomes ar
 
 3.Language Learning and Teaching II A, 6 Credits
 
-This module contains studies of various aspects of language learning, where discussion and reflection around the didactic issues are central. One element is pupils’ linguistic awareness and how they perceive their situation as language learners as expressed in the project _Strategies in Learning Modern Languages _(_STRIMS_). This project is a starting point for reflection and discussion about awareness in language learning, the connection between strategies and language development and the way this knowledge can be used in language teaching. Different aspects of assessment and grading in languages constitute another important feature of the module. The Common European Framework of Reference for Languages (CEFR) is used and put in relation to Swedish school syllabuses and subject plans in English. The module also includes studies of how information technology can be used in language teaching as well as the review of other types of teaching materials. Through these different themes in the module, students can connect the content of the various modules to their future profession and the concrete teaching situation as well as to the demands placed on language teachers in their professional role in schools.
+This module contains studies of various aspects of language learning, where discussion and reflection around the didactic issues are central. One element is pupils’ linguistic awareness and how they perceive their situation as language learners as expressed in the project _Strategies in Learning Modern Languages_ (_STRIMS_). This project is a starting point for reflection and discussion about awareness in language learning, the connection between strategies and language development and the way this knowledge can be used in language teaching. Different aspects of assessment and grading in languages constitute another important feature of the module. The Common European Framework of Reference for Languages (CEFR) is used and put in relation to Swedish school syllabuses and subject plans in English. The module also includes studies of how information technology can be used in language teaching as well as the review of other types of teaching materials. Through these different themes in the module, students can connect the content of the various modules to their future profession and the concrete teaching situation as well as to the demands placed on language teachers in their professional role in schools.
 
 4.Language Learning and Teaching II B, 6 Credits
 

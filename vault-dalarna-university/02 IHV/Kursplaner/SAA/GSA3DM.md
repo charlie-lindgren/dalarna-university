@@ -31,7 +31,7 @@ up: "[[Socialt arbete MOC]]"
 
 Det övergripande målet med kursen är att den studerande ska tillägna sig kunskaper om välfärdsinsatser på individ-, grupp- och samhällsnivå och få en förståelse för samspelet mellan sociala problem, livsvillkor och brukares behov.
 
-**Modul 1. Campusförlagd utbildning, 10,5 högskolepoäng **
+**Modul 1. Campusförlagd utbildning, 10,5 högskolepoäng** 
 
 Kunskap och förståelse
 

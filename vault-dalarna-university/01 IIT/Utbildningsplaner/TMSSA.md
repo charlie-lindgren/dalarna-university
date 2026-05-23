@@ -64,7 +64,7 @@ _Värderingsförmåga och förhållningssätt_
 
 För masterexamen skall studenten kunna:
 
-_Kunskap och förståelse _
+_Kunskap och förståelse_ 
 
   - visa fördjupad förståelse för olika solenergiteknikers fysikaliska processer och matematiska modeller för energiutbyte vid omvandling av solinstrålning till elektrisk eller termisk energi,
 
@@ -72,7 +72,7 @@ _Kunskap och förståelse _
 
   - visa fördjupad förståelse för hur lagring kan nyttjas för att förbättra integreringen av solenergi i energisystem.
 
-_Färdighet och förmåga _
+_Färdighet och förmåga_ 
 
   - visa förmåga att självständigt med ett vetenskapligt förhållningssätt teoretiskt och experimentellt förstå och analysera såväl solenergisystem som enskilda ingående komponenters funktion och inbördes förhållande,
 
@@ -129,7 +129,7 @@ Examensarbetet kan utföras vid ett universitet/högskola, eller på ett företa
 - [[AEG2B5|Projektkurs 3 – grupprojekt och kommunikation]], 5 hp
 - [[AEG2AW|Urbana energisystem]], 7.5 hp
 
-*** Kurser som krävs för att programmålen ska uppfyllas.**
+* **Kurser som krävs för att programmålen ska uppfyllas.**
 
 
 **Valbar kurs:**

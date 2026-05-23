@@ -36,7 +36,7 @@ Efter avslutad kurs ska den studerande kunna:
 
   - redogöra för designmönster för både användargränssnitt och mjukvaruarkitektur
 
-**Färdighet och förmåga **  
+**Färdighet och förmåga**   
 Efter avslutad kurs ska den studerande kunna:
 
   - tillämpa relevanta metoder och aktiviteter i en användarcentrerad process

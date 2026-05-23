@@ -58,13 +58,13 @@ För högskoleexamen skall studenten inom ramen för kursfordringarna ha fullgjo
 
 Efter avslutad utbildning ska studenten förutom det som anges och regleras i Högskolelagen och Högskoleförordningen ha uppnått följande lärandemål: 
 
-_Kunskap och förståelse _  
+_Kunskap och förståelse_   
 - visa kunskap om de vanligaste ingående delarna i ett automatiskt system inom tillverkande industri och förståelse för de etiska problem som kan uppkomma vid automation  
 - förklara och visa kunskap om vanliga tillverkningsmetoder inom verkstadsindustrin  
 - visa kunskap om de vanligaste konstruktionsmaterialens uppbyggnad och materialets betydelse för en resurseffektiv, miljövänlig och kvalitativ produkt   
 - redogöra för planering och olika styrprinciper av ett produktionsflöde.
 
-_Färdighet och förmåga _  
+_Färdighet och förmåga_   
 - kunna programmera styrda bearbetningsmaskiner med hjälp av CAM programvaror och utföra enklare programmering vid maskinen  
 - kunna programmera enklare styr- och robotsystem med stöd av manualer och programmeringsverktyg  
 - kunna självständigt tillämpa olika kvalitetsmetoder i produktionsprocessen samt utföra enklare ekonomiska kalkyler  

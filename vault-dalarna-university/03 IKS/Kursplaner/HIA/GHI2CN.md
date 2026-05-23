@@ -103,7 +103,7 @@ processer hänger samman och påverkar varandra.
 ## Examinationsformer
 
 Alla delkurser examineras genom aktivt seminariedeltagande och olika skriftliga inlämningsuppgifter.  
-**Delkurs 1 **examineras dessutom genom författandet och ventilering av en
+**Delkurs 1** examineras dessutom genom författandet och ventilering av en
 mikrohistorisk uppsats och granskning av medstuderandes uppsats vid ett seminarium.  
 **Delkurs 2** examineras dessutom genom en skriftlig hemtentamen.
 

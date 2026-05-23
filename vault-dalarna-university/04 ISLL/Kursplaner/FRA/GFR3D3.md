@@ -175,7 +175,7 @@ Delkurs 8. Språkdidaktik 2B, 6 hp
 
 Delkurserna Språkdidaktik 1 och Språkdidaktik 2 kan läsas i valfri ordning. De ges i normalfallet en gång per år. De studerande som redan har läst Språkdidaktik 1 läser Språkdidaktik 2 och vice versa.
 
-De studerande som läser **franska som sitt första ämne** OCH de studerande som har läst **ett annat ämne än språk som första ämne** läser delkurs 5, Språkdidaktik 1A eller delkurs 7, Språkdidaktik 2A.  
+De studerande som läser **franska som sitt första ämne **OCH de studerande som har läst** ett annat ämne än språk som första ämne** läser delkurs 5, Språkdidaktik 1A eller delkurs 7, Språkdidaktik 2A.  
 De studerande som har läst **ett annat språk som första ämne** läser delkurs 6, Språkdidaktik 1B eller delkurs 8, Språkdidaktik 2B.
 
 ### Delkurser
@@ -409,7 +409,7 @@ Module 8. Language Learning and Teaching 2B, 6 credits
 The modules Language Learning and Teaching 1 and Language Learning and Teaching 2 can be taken in any order. They are normally offered once a year. Students who have already taken Language Learning and Teaching 1 take Language Learning and Teaching 2 and vice versa.
 
 Students who are studying **French as their first subject **AND students who have studied **a subject other than language as their first subject** take module 5, Language Learning and Teaching 1A or module 7, Language Learning and Teaching 2A.  
-Students who have studied **another language as their first subject **take module 6, Language Learning and Teaching 1B or module 8, Language Learning and Teaching 2B.
+Students who have studied **another language as their first subject** take module 6, Language Learning and Teaching 1B or module 8, Language Learning and Teaching 2B.
 
 ### Modules
 

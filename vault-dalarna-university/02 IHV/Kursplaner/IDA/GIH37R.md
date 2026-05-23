@@ -115,7 +115,7 @@ Delkursen behandlar rörelse och rörelseaktiviteter i syfte att utveckla allsid
 
   - Skriftlig inlämningsuppgift.
 
-**Delkurs 4. Rörelse 2: gymnastik, parkour och friidrott, 7,5 hp **
+**Delkurs 4. Rörelse 2: gymnastik, parkour och friidrott, 7,5 hp** 
 
   - Gestaltande redovisningar
 

@@ -61,8 +61,8 @@ Utbildning på avancerad nivå ska innebära fördjupning av kunskaper, färdigh
 
 För ämneslärarexamen ska studenten visa sådan kunskap och förmåga som krävs för att självständigt arbeta som ämneslärare i den verksamhet som utbildningen avser. Studenten ska även visa kunskap och förmåga för annan undervisning för vilken examen enligt gällande föreskrifter kan ge behörighet.
 
-_Kunskap och förståelse  
-_För ämneslärarexamen med inriktning mot arbete i årskurs 7–9 ska studenten
+_Kunskap och förståelse_  
+För ämneslärarexamen med inriktning mot arbete i årskurs 7–9 ska studenten
 
   - visa sådana ämneskunskaper som krävs för yrkesutövningen, inbegripet såväl överblick över ämnesstudiernas huvudområde som fördjupade kunskaper inom vissa delar av detta område och insikt i aktuellt forsknings- och utvecklingsarbete.
 

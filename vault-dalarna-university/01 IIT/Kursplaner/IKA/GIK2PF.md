@@ -31,15 +31,15 @@ up: "[[Informatik MOC]]"
 
 Det övergripande målet är att studenterna förvärvar fördjupade kunskaper och färdigheter inom IT-arkitektur som omfattar IT-metoder och lösningar.
 
-_Kunskap och förståelse   
-_Efter avslutad kurs ska studenten kunna:
+_Kunskap och förståelse_   
+Efter avslutad kurs ska studenten kunna:
 
   - Förklara grundläggande strukturer och komponenter avseende IT-arkitektur, inklusive metoder och modeller
 
   - Redogöra för IT-arkitekturlösningar och deras tillämpningar.
 
-_Färdighet och förmåga  
-_Efter avslutad kurs ska studenten kunna:
+_Färdighet och förmåga_  
+Efter avslutad kurs ska studenten kunna:
 
   - Analysera olika applikationsproblem, i vilken specifik kompetens krävs för design och utveckling av IT-arkitektur
 
@@ -47,8 +47,8 @@ _Efter avslutad kurs ska studenten kunna:
 
   - Utveckla IT-arkitekturlösningar baserade på etablerade teorier.
 
-_Värderingsförmåga och förhållningssätt  
-_Efter avslutad kurs ska studenten kunna:
+_Värderingsförmåga och förhållningssätt_  
+Efter avslutad kurs ska studenten kunna:
 
   - Utvärdera IT-arkitekturers metoder och ramverk
 

@@ -130,7 +130,7 @@ Institutionen som ansvarar för programmet samarbetar med andra lärosäten nati
 ****År 2****
 
 
-**Interkulturella litteraturstudier: Masterexamensarbete (30 hp) ***
+**Interkulturella litteraturstudier: Masterexamensarbete (30 hp)** *
 
 
 **Inriktning engelskspråkig litteratur**
@@ -181,7 +181,7 @@ Institutionen som ansvarar för programmet samarbetar med andra lärosäten nati
 **Interkulturella litteraturstudier: Masterexamensarbete med inriktning tyska (30 hp)**
 
 
-****Valbara kurser inom programmet: ****
+****Valbara kurser inom programmet:** **
 
 - Världslitteraturer: Asien och Europa (7, 5 hp
 - Världslitteraturer: Nord- och Sydamerika (7, 5 hp

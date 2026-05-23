@@ -104,11 +104,11 @@ On completion of the course, students will be able to:
 ### Course Content
 
 The course consists of three modules.**  
-Module 1. ****Grammar - 7.5 credits **  
+Module 1. ****Grammar - 7.5 credits**   
 The grammar module deals with the fundamental aspects of English grammar including applied exercises in contrastive analyses of authentic texts that have different kinds of grammatical problems.   
-**Module 2. ****Phonetics - 1.5 credits **  
+**Module 2.** **Phonetics - 1.5 credits**   
 The phonetics module deals with the principles of English pronunciation as well as the main differences between English and Swedish pronunciation. English pronunciation is practiced through the study of phonetic transcription.   
-**Module 3. ****Exploring Language - 3 credits**  
+**Module 3.** **Exploring Language - 3 credits**  
 The _Exploring Language_ module introduces students to basic concepts and terminology in linguistics and deals with how English works in different contexts. Perspectives on language of people in general and linguists are compared.
 
 ### Assessment

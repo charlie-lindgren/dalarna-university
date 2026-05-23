@@ -35,7 +35,7 @@ Utbildning på avancerad nivå ska innebära fördjupning av kunskaper, färdigh
 ### 
 1.2 Examensmål enligt Högskoleförordningen (1993:100), bilaga 2:
 
-_Kunskap och förståelse _
+_Kunskap och förståelse_ 
 
 För magisterexamen skall studenten 
 
@@ -43,7 +43,7 @@ För magisterexamen skall studenten
 
   - visa fördjupad metodkunskap inom huvudområdet för utbildningen. 
 
-_Färdighet och förmåga _
+_Färdighet och förmåga_ 
 
 För magisterexamen skall studenten 
 
@@ -55,7 +55,7 @@ För magisterexamen skall studenten
 
   - visa sådan färdighet som fordras för att delta i forsknings- och utvecklingsarbete eller för att arbeta i annan kvalificerad verksamhet. 
 
-_Värderingsförmåga och förhållningssätt _
+_Värderingsförmåga och förhållningssätt_ 
 
 För magisterexamen skall studenten 
 

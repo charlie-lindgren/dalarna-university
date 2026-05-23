@@ -32,13 +32,13 @@ utveckla studenternas förmåga att hantera komplexa företeelser, frågeställn
 ### 
 1.2 Examensmål enligt Högskoleförordningen (1993:100), bilaga 2:
 
-_Kunskap och förståelse _  
+_Kunskap och förståelse_   
   
 För magisterexamen skall studenten:   
 – visa kunskap och förståelse inom huvudområdet för utbildningen, inbegripet såväl överblick över området som fördjupade kunskaper inom vissa delar av området samt insikt i aktuellt forsknings- och utvecklingsarbete, och   
 – visa fördjupad metodkunskap inom huvudområdet för utbildningen.   
   
-_Färdighet och förmåga _  
+_Färdighet och förmåga_   
   
 För magisterexamen skall studenten:   
 – visa förmåga att integrera kunskap och att analysera, bedöma och hantera komplexa företeelser, frågeställningar och situationer även med begränsad information,   
@@ -46,7 +46,7 @@ För magisterexamen skall studenten:
 – visa förmåga att muntligt och skriftligt klart redogöra för och diskutera sina slutsatser och den kunskap och de argument som ligger till grund för dessa i dialog med olika grupper, och   
 – visa sådan färdighet som fordras för att delta i forsknings- och utvecklingsarbete eller för att arbeta i annan kvalificerad verksamhet.   
   
-_Värderingsförmåga och förhållningssätt _  
+_Värderingsförmåga och förhållningssätt_   
   
 För magisterexamen skall studenten:   
 – visa förmåga att inom huvudområdet för utbildningen göra bedömningar med hänsyn till relevanta vetenskapliga, samhälleliga och etiska aspekter samt visa medvetenhet om etiska aspekter på forsknings- och utvecklingsarbete,   

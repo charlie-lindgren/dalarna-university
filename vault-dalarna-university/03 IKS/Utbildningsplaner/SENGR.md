@@ -177,7 +177,7 @@ Studenter som väljer huvudområdet företagsekonomi och vill bli revisor rekomm
 - Samhällsekonomisk utvärdering av offentliga projekt, 7,5 hp
 - [[NA2008|Examensarbete för kandidatexamen i nationalekonomi]], 15 hp
 
-*** För att programmålen ska anses vara uppfyllda och programnamn därmed ska visas i examensbeviset, är kurser märkta med asterisk obligatoriska.**
+* **För att programmålen ska anses vara uppfyllda och programnamn därmed ska visas i examensbeviset, är kurser märkta med asterisk obligatoriska.**
 
 
 ## 4. Examensbenämning

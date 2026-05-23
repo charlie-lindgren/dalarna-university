@@ -43,7 +43,7 @@ delar av området samt insikt i aktuellt forsknings- och utvecklingsarbete,
 och  
 – visa fördjupad metodkunskap inom huvudområdet för utbildningen.  
   
-_Färdighet och förmåga _  
+_Färdighet och förmåga_   
 – visa förmåga att integrera kunskap och att analysera, bedöma och hantera komplexa företeelser, frågeställningar och situationer även med begränsad information,  
 – visa förmåga att självständigt identifiera och formulera frågeställningar samt att planera och med adekvata metoder genomföra kvalificerade uppgifter inom givna tidsramar,  
 – visa förmåga att muntligt och skriftligt klart redogöra för och diskutera sina slutsatser och den kunskap och de argument som ligger till grund för dessa i dialog med olika grupper, och  
@@ -57,7 +57,7 @@ _Värderingsförmåga och förhållningssätt_
 ### 
 1.3 Utbildningsprogrammets mål
 
-**Efter avslutad utbildning ska den studerande kunna: **  
+**Efter avslutad utbildning ska den studerande kunna:**   
 · visa djup kunskap samt teoretisk och kritisk förståelse av politiska, sociala och ekonomiska funktioner i afrikanska samhällen från början av artonhundratalet till idag  
 · självständigt analysera samspelet mellan religion och politik i afrikanska samhällen söder om Sahara och tillämpa och utvärdera resultaten av analyser av vissa afrikanska länder och regioner  
 

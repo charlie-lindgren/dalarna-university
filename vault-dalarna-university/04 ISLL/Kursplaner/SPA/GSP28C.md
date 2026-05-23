@@ -86,7 +86,7 @@ Delkursen fokuserar på 1900-talets viktigaste litterära uttryck i Spanien och 
 
 ## Examinationsformer
 
-**Samtliga delkurser **examineras genom bedömning av muntliga redovisningar och individuella skriftliga inlämningsuppgifter samt genom aktivt deltagande i seminarier.
+**Samtliga delkurser** examineras genom bedömning av muntliga redovisningar och individuella skriftliga inlämningsuppgifter samt genom aktivt deltagande i seminarier.
 
 ## Arbetsformer
 

@@ -30,8 +30,8 @@ up: "[[Industriell ekonomi MOC]]"
 
 ## Lärandemål
 
-_Kunskap och förståelse  
-_Efter avslutad kurs ska studenten kunna:
+_Kunskap och förståelse_  
+Efter avslutad kurs ska studenten kunna:
 
   - redogöra översiktligt för utvecklingen från traditionell ekonomistyrning till processorienterad verksamhetsstyrning
   - redogöra för den processorienterade verksamhetsstyrningens relation till företagets strategi och affärsmodell

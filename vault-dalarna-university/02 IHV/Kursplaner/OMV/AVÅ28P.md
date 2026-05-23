@@ -31,7 +31,7 @@ up: "[[Omvårdnad MOC]]"
 
 Kursens övergripande mål är att studenten ska tillägna sig en djupare förståelse av åldrande utifrån socialgerontologiska teorier, och hur olika faktorer på individ-, grupp- och samhällsnivå kan påverka äldre personers levnadsvillkor.
 
-**Kunskap och förståelse **
+**Kunskap och förståelse** 
 
 Efter godkänd kurs ska studenten kunna:
 
@@ -109,7 +109,7 @@ After completion of the course, the student will be able to:
 
   - Identify and problematize the importance of intersectional perspectives in relation to older adults’ living conditions, wellbeing, and health.
 
-**Judgement and approach **
+**Judgement and approach** 
 
 After completion of the course, the student will be able to:
 

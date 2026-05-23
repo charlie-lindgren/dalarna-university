@@ -30,7 +30,7 @@ up: "[[Informatik MOC]]"
 
 ## Lärandemål
 
-_Kunskap och förståelse _
+_Kunskap och förståelse_ 
 
 Efter godkänd kurs ska studenten kunna
 
@@ -38,7 +38,7 @@ Efter godkänd kurs ska studenten kunna
 
   - förklara genomfört designarbete utifrån berörda principer och givna kriterier
 
-_Färdighet och förmåga _
+_Färdighet och förmåga_ 
 
 Efter godkänd kurs ska studenten kunna
 

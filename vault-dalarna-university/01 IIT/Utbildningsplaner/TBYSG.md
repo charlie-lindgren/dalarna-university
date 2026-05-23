@@ -38,13 +38,13 @@ och färdigheter, utveckla förmåga att
 ### 
 1.2 Examensmål enligt Högskoleförordningen (1993:100), bilaga 2:
 
-_Kunskap och förståelse  
-_För kandidatexamen skall studenten:
+_Kunskap och förståelse_  
+För kandidatexamen skall studenten:
 
 - visa kunskap och förståelse inom huvudområdet för utbildningen, inbegripet kunskap om områdets vetenskapliga grund, kunskap om tillämpliga metoder inom området, fördjupning inom någon del av området samt orientering om aktuella forskningsfrågor.
 
-_Färdighet och förmåga  
-_För kandidatexamen skall studenten:
+_Färdighet och förmåga_  
+För kandidatexamen skall studenten:
 
 - visa förmåga att söka, samla, värdera och kritiskt tolka relevant information i en problemställning samt att kritiskt diskutera företeelser, frågeställningar och situationer,  
 - visa förmåga att självständigt identifiera, formulera och lösa problem samt att genomföra uppgifter inom givna tidsramar,  
@@ -58,16 +58,16 @@ För kandidatexamen skall studenten:
 - visa insikt om kunskapens roll i samhället och om människors ansvar för hur den används och  
 - visa förmåga att identifiera sitt behov av ytterligare kunskap och att utveckla sin kompetens.
 
-_Självständigt arbete (examensarbete)  
-_För kandidatexamen skall studenten inom ramen för kursfordringarna ha fullgjort ett   
+_Självständigt arbete (examensarbete)_  
+För kandidatexamen skall studenten inom ramen för kursfordringarna ha fullgjort ett   
 självständigt arbete (examensarbete) om minst 15 högskolepoäng inom huvudområdet för   
 utbildningen.
 
 ### 
 1.3 Utbildningsprogrammets mål
 
-_Kunskap och förståelse  
-_För kandidatexamen i samhällsbyggnadsteknik ska studenten kunna:
+_Kunskap och förståelse_  
+För kandidatexamen i samhällsbyggnadsteknik ska studenten kunna:
 
 - visa kunskap om byggprocessens olika skeden vid alla typer av byggande,  
 - visa kunskap och förståelse för planeringsprocessernas olika skeden vid regionala, urbana och rurala utvecklingsprocesser,  
@@ -75,8 +75,8 @@ _För kandidatexamen i samhällsbyggnadsteknik ska studenten kunna:
 - förstå ITs betydelse för samhällsutveckling och planering, och  
 - visa kunskap om och förståelse för resurshushållning och hållbar utveckling i samhällsbyggandet.
 
-_Färdighet och förmåga  
-_För kandidatexamen i samhällsbyggnadsteknik ska studenten kunna:
+_Färdighet och förmåga_  
+För kandidatexamen i samhällsbyggnadsteknik ska studenten kunna:
 
 - planera, utforma och gestalta byggd miljö från byggnad till region för en hållbar utveckling utifrån brukarnas perspektiv,  
 - använda digitala verktyg lämpliga vid planering, utformning och gestaltning av byggd miljö och regionformering.   
@@ -85,8 +85,8 @@ _För kandidatexamen i samhällsbyggnadsteknik ska studenten kunna:
 - delta i och leda bygg  och planeringsprocesser i olika skeden, och   
 - använda modeller och statistiska metoder för att analysera och prognostisera relevanta indata för planering på såväl lokal som regional nivå.
 
-_Värderingsförmåga och förhållningssätt  
-_För kandidatexamen i samhällsbyggnadsteknik ska studenten kunna:
+_Värderingsförmåga och förhållningssätt_  
+För kandidatexamen i samhällsbyggnadsteknik ska studenten kunna:
 
 - kritiskt värdera olika ideologier, intentioner, strategier och lösningar i planering och byggande ur ett hållbarhetsperspektiv.
 
@@ -138,8 +138,8 @@ Teknologie kandidatexamen, huvudområde Samhällsbyggnadsteknik (Degree of Bache
 
 ## 6. Summary in English
 
-_Knowledge and understanding  
-_For a degree in Civil Planning and Construction the student shall:
+_Knowledge and understanding_  
+For a degree in Civil Planning and Construction the student shall:
 
 - demonstrate knowledge of the various stages involved in the construction process for all   types of construction,   
 - demonstrate knowledge and understanding of the various stages in the planning processes for regional, urban and rural developmental processes,  
@@ -148,8 +148,8 @@ _For a degree in Civil Planning and Construction the student shall:
 - demonstrate knowledge and understanding of resource management and sustainable   
 development within civic construction
 
-_Competence and skills  
-_For a degree in Civil Planning and Construction the student shall:
+_Competence and skills_  
+For a degree in Civil Planning and Construction the student shall:
 
 - plan and design and form man made environments from the perspective of all users and stakeholders for a sustainable development,   
 - use and develop digital tools appropriate for use when planning and forming built environment and regional development,  
@@ -158,8 +158,8 @@ _For a degree in Civil Planning and Construction the student shall:
 - participate in and lead various stages in construction and planning processes,    
 - use models and statistical methods for analyzing and predicting relevant data for planning on local as well as regional level.
 
-_Judgement and approach  
-_For a degree in Civil Planning and Construction the student shall:
+_Judgement and approach_  
+For a degree in Civil Planning and Construction the student shall:
 
 - critically analyze various ideologies, intentions, strategies and solutions when planning and constructing from a sustainability perspective.
 

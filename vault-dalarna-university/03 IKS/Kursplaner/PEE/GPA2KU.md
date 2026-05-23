@@ -37,11 +37,11 @@ _Kunskap och förståelse_
 
   - Diskutera hur strukturer, styrning och organisering interagerar och påverkar förutsättningar i ledningsarbetet 
 
- _Färdighet och förmåga _
+ _Färdighet och förmåga_ 
 
   - Kritiskt analysera och tolka empiriska data insamlad i den egna organisationen, samt presentera resultatet
 
- _Värderingsförmåga och förhållningssätt _
+ _Värderingsförmåga och förhållningssätt_ 
 
   - Kritiskt granska och förhålla sig till ett strukturellt och organisatoriskt perspektiv gällande styrning samt ledarskapets förutsättningar
 

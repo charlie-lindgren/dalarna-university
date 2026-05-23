@@ -29,15 +29,15 @@ up: "[[Entreprenörskap och innovationsteknik MOC]]"
 
 ## Lärandemål
 
-_Kunskap och förståelse  
-_Efter genomgången kurs ska studenten kunna:
+_Kunskap och förståelse_  
+Efter genomgången kurs ska studenten kunna:
 
   - redogöra för grundläggande begrepp, modeller och teoretiska grunder inom ledarskapsområdet för att organisationen ska kunna fungera och prestera
 
   - redogöra för grundläggande begrepp, modeller och teoretiska grunder inom kunskapsområdet grupprocesser för att gruppen ska kunna fungera och prestera
 
-_Färdighet och förmåga  
-_Efter genomgången kurs ska studenten kunna:
+_Färdighet och förmåga_  
+Efter genomgången kurs ska studenten kunna:
 
   - identifiera och analysera grupprocesser och dess påverkan på organisationen
 
@@ -45,8 +45,8 @@ _Efter genomgången kurs ska studenten kunna:
 
   - visa förmåga att kunna göra gruppdynamiska anpassningar och förändringar
 
-_Värderingsförmåga och förhållningssätt  
-_Efter genomgången kurs ska studenten kunna:
+_Värderingsförmåga och förhållningssätt_  
+Efter genomgången kurs ska studenten kunna:
 
   - visa förmåga att inom området ledarskap och grupprocesser göra bedömningar med hänsyn till samhälleliga och etiska aspekter
 

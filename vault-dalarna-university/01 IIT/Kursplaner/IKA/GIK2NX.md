@@ -32,7 +32,7 @@ bearbeta data från en heterogen datoriserad miljö innefattande distribuerade s
   
 Efter avslutad kurs ska studenten kunna:   
 
-_Kunskap och förståelse _  
+_Kunskap och förståelse_   
 
   - Redogöra för koncept kopplade till mjukvaruagenter, multi-agentsystem, autonoma och distribuerade system 
   - Beskriva egenskaper hos distribuerade och parallella system. 
@@ -105,7 +105,7 @@ The overall goal of the course is that students acquire knowledge and skills in 
 
 After completing the course, students will be able to:
 
-_Knowledge and Understanding _
+_Knowledge and Understanding_ 
 
   - Describe concepts related to software agents, multi-agent systems, and autonomous and distributed systems
 

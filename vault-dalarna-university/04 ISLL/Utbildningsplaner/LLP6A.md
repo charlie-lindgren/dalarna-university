@@ -68,7 +68,7 @@ För grundlärarexamen med inriktning mot arbete i grundskolans årskurs 4–6 s
 - visa fördjupad förmåga att kritiskt och självständigt tillvarata, systematisera och reflektera över egna och andras erfarenheter samt relevanta forskningsresultat för att därigenom bidra till utvecklingen av yrkesverksamheten och kunskapsutvecklingen inom yrkesområdet, och  
 - visa förmåga att tillämpa sådan didaktik och ämnesdidaktik inklusive metodik som krävs för undervisning och lärande inom det eller de ämnen som utbildningen avser och för yrkesutövningen i övrigt.
 
-**Värderingsförmåga och förhållningssätt **  
+**Värderingsförmåga och förhållningssätt**   
 För grundlärarexamen med inriktning mot arbete i grundskolans årskurs 4-6 ska studenten  
 - visa självkännedom och empatisk förmåga,  
 - visa förmåga till ett professionellt förhållningssätt gentemot elever och deras vårdnadshavare,  
@@ -79,7 +79,7 @@ För grundlärarexamen med inriktning mot arbete i grundskolans årskurs 4-6 ska
 
 ## 2. Huvudsaklig uppläggning
 
-**Omfattning enligt högskoleförordningen (1993:100); bilaga 2 samt Förordning om utbildning till lärare och förskollärare 2021:1335.  **
+**Omfattning enligt högskoleförordningen (1993:100); bilaga 2 samt Förordning om utbildning till lärare och förskollärare 2021:1335. ** 
 
 Grundlärarexamen med inriktning mot arbete i grundskolans årskurs 4–6 avläggs på avancerad nivå och uppnås efter att studenten fullgjort kursfordringar om 240 högskolepoäng. 
 

@@ -30,15 +30,15 @@ up: "[[Informatik MOC]]"
 
 ## Lärandemål
 
-_Kunskap och förståelse  
-_Efter godkänd kurs ska den studerande kunna:
+_Kunskap och förståelse_  
+Efter godkänd kurs ska den studerande kunna:
 
   - förklara normaliseringens betydelse för en designlösning av en relationsdatabas
 
   - förklara betydelsen av tydliga identifierare för tabeller i relationsdatabaser
 
-_Färdighet och förmåga  
-_Efter godkänd kurs ska den studerande kunna:
+_Färdighet och förmåga_  
+Efter godkänd kurs ska den studerande kunna:
 
   - tillämpa grundläggande principer för relationsdatabaser i enlighet med relationsmodellen
 
@@ -91,8 +91,8 @@ Upon completion of the course, the students will be able to:
 
   - explain the importance of clear identifiers for tables in relational databases
 
-_Skills and Abilities  
-_Upon completion of the course, the students will be able to:
+_Skills and Abilities_  
+Upon completion of the course, the students will be able to:
 
   - apply basic principles of relational databases in accordance with the relational model
 

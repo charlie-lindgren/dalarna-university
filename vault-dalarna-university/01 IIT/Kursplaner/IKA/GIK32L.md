@@ -29,7 +29,7 @@ up: "[[Informatik MOC]]"
 
 ## Lärandemål
 
-_Kunskap och förståelse _
+_Kunskap och förståelse_ 
 
 Efter godkänd kurs ska studenten kunna
 
@@ -45,7 +45,7 @@ Efter godkänd kurs ska studenten kunna
 
   - använda verktyg avsedda för arbete med grafisk design
 
-_Värderingsförmåga och förhållningssätt _
+_Värderingsförmåga och förhållningssätt_ 
 
 Efter godkänd kurs ska studenten kunna
 

@@ -93,10 +93,10 @@ uppsats.
 
 ## Examinationsformer
 
-**Delkurs 1 och 3 **examineras genom aktivt
+**Delkurs 1 och 3** examineras genom aktivt
 seminariedeltagande, muntlig och skriftlig redovisning samt genom hemtentamen.  
 
-**Delkurs 2 **examineras genom aktivt
+**Delkurs 2** examineras genom aktivt
 seminariedeltagande samt muntlig och skriftlig redovisning.**  
 Delkurs 4 **examineras genom aktivt
 seminariedeltagande samt genom en uppsats som försvaras vid ett

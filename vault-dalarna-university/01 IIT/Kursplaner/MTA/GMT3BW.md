@@ -31,7 +31,7 @@ up: "[[Maskinteknik MOC]]"
 
 Efter godkänd kurs ska studenten kunna:
 
-_Kunskap och förståelse _
+_Kunskap och förståelse_ 
 
   - redogöra för innebörden av begrepp och teoretiska grunder inom statiska- och dynamiska system, vilket innefattar kraftvillkor för jämvikt och vridmoment, samt krafter som orsak till förändring av hastighet,
 

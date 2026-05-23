@@ -29,19 +29,19 @@ up: "[[Informatik MOC]]"
 
 ## Lärandemål
 
-_Kunskap och förståelse _
+_Kunskap och förståelse_ 
 
 Efter godkänd kurs ska studenten kunna
 
   - använda centrala begrepp inom grafisk produktion
 
-_Färdighet och förmåga _
+_Färdighet och förmåga_ 
 
 Efter godkänd kurs ska studenten kunna
 
   - producera grafiskt material med sådan kvalitet som fordras för att arbeta med produktion inom det område som utbildningen avser
 
-_Värderingsförmåga och förhållningssätt _
+_Värderingsförmåga och förhållningssätt_ 
 
 Efter godkänd kurs ska studenten kunna
 

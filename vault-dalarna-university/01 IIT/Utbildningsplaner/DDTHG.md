@@ -42,12 +42,12 @@ Inom det område som utbildningen avser ska studenterna, utöver kunskaper och f
 ### 
 1.2 Examensmål enligt Högskoleförordningen (1993:100), bilaga 2:
 
-_Kunskap och förståelse   
-_För högskoleexamen ska studenten 
+_Kunskap och förståelse_   
+För högskoleexamen ska studenten 
 
 – visa kunskap och förståelse inom det huvudsakliga området (huvudområdet) för utbildningen, inbegripet kännedom om områdets vetenskapliga grund och kunskap om några tillämpliga metoder inom området. 
 
-_Färdighet och förmåga _
+_Färdighet och förmåga_ 
 
 För högskoleexamen ska studenten  
   
@@ -55,7 +55,7 @@ För högskoleexamen ska studenten
 – visa förmåga att redogöra för och diskutera sitt kunnande med olika grupper, och   
 – visa sådan färdighet som fordras för att självständigt arbeta med vissa uppgifter inom det område som utbildningen avser. 
 
-_Värderingsförmåga och förhållningssätt _
+_Värderingsförmåga och förhållningssätt_ 
 
 För högskoleexamen ska studenten   
   
@@ -68,11 +68,11 @@ Det övergripande målet med programmet Digitala tjänster är att studenten eft
 
 Efter avslutad utbildning ska studenten förutom det som anges och regleras i Högskolelagen och Högskoleförordningen ha uppnått följande lärandemål:  
   
-_Kunskap och förståelse _  
+_Kunskap och förståelse_   
 – visa kunskap och förståelse för digitala tjänster och deras roll, funktion och påverkan i samhället, och  
 – visa kunskap och förståelse för processer och arbetssätt som tillämpas vid nyutveckling och förvaltning av digitala tjänster.
 
-_Färdighet och förmåga _  
+_Färdighet och förmåga_   
 – visa färdighet och förmåga att utveckla, designa och utvärdera digitala tjänster,  
 – visa förmåga att söka, samla in och analysera relevant forskning på vetenskaplig grund inom området för digitala tjänster och informationsteknologi (IT), och  
 – visa färdighet och förmåga att planera, genomföra, analysera samt rapportera en undersökning eller utredning.  

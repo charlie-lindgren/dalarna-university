@@ -30,8 +30,8 @@ up: "[[Industriell ekonomi MOC]]"
 
 ## Lärandemål
 
-_Kunskap och förståelse   
-_Efter avslutad kurs ska studenten kunna 
+_Kunskap och förståelse_   
+Efter avslutad kurs ska studenten kunna 
  
  
   - redogöra för grundläggande begrepp och förutsättningar för industriellt företagande 
@@ -39,16 +39,16 @@ _Efter avslutad kurs ska studenten kunna
   - redogöra för grundläggande begrepp och modeller inom ekonomistyrning med särskild vikt på produkt- och investeringskalkylering samt budgetering
  
 
-_Färdighet och förmåga   
-_Efter avslutad kurs ska studenten kunna 
+_Färdighet och förmåga_   
+Efter avslutad kurs ska studenten kunna 
  
  
   - göra kostnadskalkyler, investeringskalkyler och analyser vid resultatplanering  
   - diskutera principer för beslutsfattande grundat på ekonomiska kalkyler
  
 
-_Värderingsförmåga och förhållningssätt   
-_Efter avslutad kurs ska studenten kunna: 
+_Värderingsförmåga och förhållningssätt_   
+Efter avslutad kurs ska studenten kunna: 
  
  
   - kritiskt diskutera och reflektera över industriföretagets roll i samhället samt dess hållbarhetsmässiga och etiska aspekter

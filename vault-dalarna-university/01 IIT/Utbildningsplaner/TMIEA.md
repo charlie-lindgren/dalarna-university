@@ -41,8 +41,8 @@ För magisterexamen skall studenten
 
   - visa fördjupad metodkunskap inom huvudområdet för utbildningen.
 
-_Färdighet och förmåga  
-_För magisterexamen skall studenten
+_Färdighet och förmåga_  
+För magisterexamen skall studenten
 
   - visa förmåga att integrera kunskap och att analysera, bedöma och hantera komplexa företeelser, frågeställningar och situationer även med begränsad information,
 
@@ -52,8 +52,8 @@ _För magisterexamen skall studenten
 
   - visa sådan färdighet som fordras för att delta i forsknings- och utvecklingsarbete eller för att arbeta i annan kvalificerad verksamhet.
 
-_Värderingsförmåga och förhållningssätt  
-_För magisterexamen skall studenten
+_Värderingsförmåga och förhållningssätt_  
+För magisterexamen skall studenten
 
   - visa förmåga att inom huvudområdet för utbildningen göra bedömningar med hänsyn till relevanta vetenskapliga, samhälleliga och etiska aspekter samt visa medvetenhet om etiska aspekter på forsknings- och utvecklingsarbete,
 

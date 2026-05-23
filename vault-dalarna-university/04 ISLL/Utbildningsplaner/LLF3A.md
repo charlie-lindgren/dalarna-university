@@ -68,7 +68,7 @@ För grundlärarexamen med inriktning mot arbete i förskoleklass och grundskola
 - visa fördjupad förmåga att kritiskt och självständigt tillvarata, systematisera och reflektera över egna och andras erfarenheter samt relevanta forskningsresultat för att därigenom bidra till utvecklingen av yrkesverksamheten och kunskapsutvecklingen inom yrkesområdet, och  
 - visa förmåga att tillämpa sådan didaktik och ämnesdidaktik inklusive metodik som krävs för undervisning och lärande inom det eller de ämnen som utbildningen avser och för yrkesutövningen i övrigt.
 
-**Värderingsförmåga och förhållningssätt **  
+**Värderingsförmåga och förhållningssätt**   
 För grundlärarexamen med inriktning mot arbete i förskoleklass och grundskolans årskurs 1–3 ska studenten  
 - visa självkännedom och empatisk förmåga,  
 - visa förmåga till ett professionellt förhållningssätt gentemot elever och deras vårdnadshavare,  
@@ -79,7 +79,7 @@ För grundlärarexamen med inriktning mot arbete i förskoleklass och grundskola
 
 ## 2. Huvudsaklig uppläggning
 
-**Omfattning enligt högskoleförordningen (1993:100); bilaga 2 samt Förordning om utbildning till lärare och förskollärare 2021:1335.  **
+**Omfattning enligt högskoleförordningen (1993:100); bilaga 2 samt Förordning om utbildning till lärare och förskollärare 2021:1335. ** 
 
 Grundlärarexamen med inriktning mot arbete i förskoleklass och grundskolans årskurs 1-3 avläggs på avancerad nivå och uppnås efter att studenten fullgjort kursfordringar om 240 högskolepoäng.
 
@@ -103,8 +103,8 @@ För grundlärarexamen med inriktning mot arbete i förskoleklass och grundskola
 **Utbildningens struktur**  
 Grundlärarutbildningen vid Högskolan Dalarna innehåller två integrerade utbildningsområden: pedagogiskt arbete och ämnesstudier. Området pedagogiskt arbete består i sin tur av utbildningsvetenskaplig kärna, verksamhetsförlagd utbildning och ett examensarbete. Utbildningens examensarbete och all verksamhetsförlagd utbildning vid Högskolan Dalarna räknas till området pedagogiskt arbete men fullgörs alltid inom något eller några av de undervisningsämnen som ingår i utbildningen. Därigenom uppfylls Examensordningens krav på minst 165 högskolepoäng ämnesstudier.
 
-_Pedagogiskt arbete 120 högskolepoäng  
-_Studierna inom pedagogiskt arbete fördelas enligt följande:
+_Pedagogiskt arbete 120 högskolepoäng_  
+Studierna inom pedagogiskt arbete fördelas enligt följande:
 
 a) Utbildningsvetenskaplig kärna 60 högskolepoäng  
 Kurserna omfattar kunskaper om utveckling, lärande och socialisation samt skolans och den pedagogiska verksamhetens mål och villkor. Kurserna behandlar också pedagogiskt ledarskap, läroplansteori och didaktik, konflikthantering, sociala relationer, yrkesetiska perspektiv, vetenskapsteori och forskningsmetodik, utbildningsvetenskaplig forskning, bedömning och betygsättning, specialpedagogik, skola i samverkan samt utvärdering och utvecklingsarbete inom grundskolan. Kurserna omfattar också skolväsendets historia, organisation och villkor samt skolans värdegrund innefattande de grundläggande demokratiska värderingarna och de mänskliga rättigheterna.

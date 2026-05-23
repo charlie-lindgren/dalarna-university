@@ -31,8 +31,8 @@ up: "[[Informatik MOC]]"
 
 Det övergripande målet är att studenten ska förvärva fördjupade kunskaper och färdigheter i att använda och utveckla mjukvara för data science samt grundläggande kunskaper inom data science, dvs ett tvärvetenskapligt förhållningssätt för att hitta, extrahera och upptäcka mönster i data genom användande av analysmetoder, domänkompetens och teknik.
 
-_Kunskap och förståelse  
-_Efter avslutad kurs ska studenten kunna:
+_Kunskap och förståelse_  
+Efter avslutad kurs ska studenten kunna:
 
   - förklara data science-livscykeln
   - förklara Big Data och dataanalys

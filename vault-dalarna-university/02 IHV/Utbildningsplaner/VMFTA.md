@@ -34,15 +34,15 @@ Utbildning på avancerad nivå skall innebära fördjupning av kunskaper, färdi
 ### 
 1.2 Examensmål enligt Högskoleförordningen (1993:100), bilaga 2:
 
-_Kunskap och förståelse _  
+_Kunskap och förståelse_   
 För magisterexamen skall studenten: 
 
   - visa kunskap och förståelse inom huvudområdet för utbildningen, inbegripet såväl överblick över området som fördjupade kunskaper inom vissa delar av området samt insikt i aktuellt forsknings- och utvecklingsarbete, och 
 
   - visa fördjupad metodkunskap inom huvudområdet för utbildningen. 
 
-_Färdighet och förmåga   
-_För magisterexamen skall studenten: 
+_Färdighet och förmåga_   
+För magisterexamen skall studenten: 
 
   - visa förmåga att integrera kunskap och att analysera, bedöma och hantera komplexa företeelser, frågeställningar och situationer även med begränsad information, 
 
@@ -61,13 +61,13 @@ För magisterexamen skall studenten:
 
   - visa förmåga att identifiera sitt behov av ytterligare kunskap och att ta ansvar för sin kunskapsutveckling 
 
-_Självständigt arbete (examensarbete)   
-_För magisterexamen skall studenten inom ramen för kursfordringarna ha fullgjort ett självständigt arbete (examensarbete) om minst 15 högskolepoäng inom huvudområdet för utbildningen.
+_Självständigt arbete (examensarbete)_   
+För magisterexamen skall studenten inom ramen för kursfordringarna ha fullgjort ett självständigt arbete (examensarbete) om minst 15 högskolepoäng inom huvudområdet för utbildningen.
 
 ### 
 1.3 Utbildningsprogrammets mål
 
-_Kunskap och förståelse _  
+_Kunskap och förståelse_   
 Efter avslutad utbildning skall studenten: 
 
   - visa insikt om betydelsen av att arbeta för en hållbar utveckling som innebär att nuvarande och kommande generationer tillförsäkras en hälsosam och god miljö, ekonomisk och social välfärd och rättvisa
@@ -101,8 +101,8 @@ Filosofie magisterexamen, huvudområde Fysioterapi. (Degree of Master of Science
 
 ## 6. Summary in English
 
-_Knowledge and understanding   
-_On completion of the programme, students will be able to: 
+_Knowledge and understanding_   
+On completion of the programme, students will be able to: 
 
   - demonstrate awareness of the importance of promoting sustainable development that ensures a good and healthy environment, economic and social welfare, and justice for both present and future generations.
 

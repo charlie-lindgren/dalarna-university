@@ -30,13 +30,13 @@ up: "[[Informatik MOC]]"
 
 ## Lärandemål
 
-_Kunskap och förståelse  
-_Efter godkänd kurs ska den studerande kunna:
+_Kunskap och förståelse_  
+Efter godkänd kurs ska den studerande kunna:
 
   - redogöra för grundläggande begrepp inom objektorienterad programmering
 
-_Färdighet och förmåga  
-_Efter godkänd kurs ska den studerande kunna:
+_Färdighet och förmåga_  
+Efter godkänd kurs ska den studerande kunna:
 
   - utveckla språkoberoende algoritmer vid utveckling av program
 

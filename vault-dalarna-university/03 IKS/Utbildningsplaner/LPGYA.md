@@ -37,7 +37,7 @@ Utbildning på avancerad nivå ska innebära fördjupning av kunskaper, färdigh
 
 För ämneslärarexamen ska studenten visa sådan kunskap och förmåga som krävs för att självständigt arbeta som ämneslärare i den verksamhet som utbildningen avser. Studenten ska även visa kunskap och förmåga för annan undervisning för vilken examen enligt gällande föreskrifter kan ge behörighet. 
 
-**Kunskap och förståelse  **  
+**Kunskap och förståelse **   
 För ämneslärarexamen med inriktning mot arbete i gymnasieskolan ska studenten 
 
   - visa sådana ämneskunskaper som krävs för yrkesutövningen, inbegripet såväl brett kunnande inom ämnesstudiernas huvudområde som väsentligt fördjupade kunskaper inom vissa delar av detta område och fördjupad insikt i aktuellt forsknings- och utvecklingsarbete. 
@@ -56,7 +56,7 @@ För ämneslärarexamen ska studenten också
 
   - visa fördjupad kunskap om bedömning och betygsättning. 
 
-**Färdigheter och förmåga **  
+**Färdigheter och förmåga**   
 För ämneslärarexamen ska studenten 
 
   - visa fördjupad förmåga att skapa förutsättningar för alla elever att lära och utvecklas, 
@@ -87,7 +87,7 @@ För ämneslärarexamen ska studenten
 
   - visa förmåga att i den pedagogiska verksamheten utveckla färdigheter som är värdefulla för yrkesutövningen. 
 
-**Värderingsförmåga och förhållningssätt **  
+**Värderingsförmåga och förhållningssätt**   
 För ämneslärarexamen ska studenten 
 
   - visa självkännedom och empatisk förmåga, 
@@ -130,7 +130,7 @@ Studierna inom den utbildningsvetenskapliga kärnan ska anknyta till kommande yr
 
   - utvärdering och utvecklingsarbete.
 
-**Självständigt arbete (examensarbete) **  
+**Självständigt arbete (examensarbete)**   
 För ämneslärarexamen ska studenten inom ramen för kursfordringarna ha fullgjort ett självständigt arbete (examensarbete) om 30 högskolepoäng i ett av de undervisningsämnen för vilket utbildningen är avsedd.
 
 **2.2 Utbildningens struktur**

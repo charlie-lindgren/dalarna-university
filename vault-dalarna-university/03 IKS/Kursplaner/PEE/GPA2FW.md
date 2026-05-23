@@ -44,7 +44,7 @@ Efter avslutad kurs ska studenten kunna:
   - beskriva det svenska pensionssystemet och arbetsgivarens ansvar för pensionsfrågorna
  
 
-_Färdighet och förmåga _  
+_Färdighet och förmåga_   
 Efter avslutad kurs ska studenten kunna:
  
  

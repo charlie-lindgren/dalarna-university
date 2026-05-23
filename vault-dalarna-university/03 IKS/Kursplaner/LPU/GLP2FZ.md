@@ -64,8 +64,8 @@ Under delkursen initierar, planerar och genomför studenten ett eget forskningsa
 
 ## Examinationsformer
 
-**Delkurs 1 **examineras genom en skriftlig tentamen.  
-**Delkurs 2 **examineras genom en skriftlig inlämningsuppgift som även redovisas muntligt vid seminarium.  
+**Delkurs 1** examineras genom en skriftlig tentamen.  
+**Delkurs 2** examineras genom en skriftlig inlämningsuppgift som även redovisas muntligt vid seminarium.  
 **Delkurs 3** examineras genom ett examensarbete i form av en vetenskaplig uppsats som försvaras vid ett slutseminarium.
 
 ## Arbetsformer

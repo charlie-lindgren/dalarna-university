@@ -29,16 +29,16 @@ up: "[[Informatik MOC]]"
 
 ## Lärandemål
 
-_Kunskap och förståelse  
-_Efter avslutad kurs ska den studerande
+_Kunskap och förståelse_  
+Efter avslutad kurs ska den studerande
 kunna
 
   - beskriva lagar som reglerar användning av digital grafik
   - redogöra för centrala begrepp som används vid produktion av digital grafik
   - ge exempel på arbetsprocesser för statisk respektive rörlig grafik
 
-_Färdighet och förmåga  
-_Efter
+_Färdighet och förmåga_  
+Efter
 avslutad kurs ska den studerande kunna
 
   - planera arbetsprocess utifrån kravspecifikation

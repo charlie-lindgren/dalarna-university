@@ -164,7 +164,7 @@ Delkurs 5. Litteratur, film och samhälle i Latinamerika, 6 hp
 Dessutom ska en av de två didaktiska delkurserna läsas:  
 Delkurs 6. Språkdidaktik II A, 6 hp  
 Delkurs 7. Språkdidaktik II B, 6 hp  
-De studerande som läser **spanska som sitt första ämne** OCH de studerande som har läst **ett annat ämne än språk som första ämne** läser delkurs 6, Språkdidaktik II A.  
+De studerande som läser **spanska som sitt första ämne **OCH de studerande som har läst** ett annat ämne än språk som första ämne** läser delkurs 6, Språkdidaktik II A.  
 De studerande som har läst **ett annat språk som första ämne** läser delkurs 7, Språkdidaktik II B.
 
 ### Delkurser
@@ -453,7 +453,7 @@ Module 5. Language Learning and Teaching II A, 6 credits
 Module 6. Language Learning and Teaching II B, 6 credits
 
 Students who are studying **Spanish as their first subject **AND students who have studied **a subject other than language as their first subject** take module 6, Language Learning and Teaching II A.  
-Students who have studied **another language as their first subject **take module 7, Language Learning and Teaching II B.  
+Students who have studied **another language as their first subject** take module 7, Language Learning and Teaching II B.  
 
 ### Modules
 

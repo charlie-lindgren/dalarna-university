@@ -27,8 +27,8 @@ up: "[[Industriell ekonomi MOC]]"
 
 ## Lärandemål
 
-_Kunskap och förståelse   
-_Efter avslutad kurs ska studenten kunna
+_Kunskap och förståelse_   
+Efter avslutad kurs ska studenten kunna
 
   - redogöra för den historiska framväxten av Lean.
 
@@ -44,8 +44,8 @@ _Efter avslutad kurs ska studenten kunna
 
   - analysera och diskutera Leans koppling till andra former av kvalitetsarbete och förbättringskoncept.
 
-_Värderingsförmåga och förhållningssätt   
-_Efter avslutad kurs ska studenten kunna:
+_Värderingsförmåga och förhållningssätt_   
+Efter avslutad kurs ska studenten kunna:
 
   - kritiskt diskutera och reflektera över hur olika aspekter av Lean kan påverka det omgivande samhället utifrån etiska och hållbarhetsmässiga aspekter
 

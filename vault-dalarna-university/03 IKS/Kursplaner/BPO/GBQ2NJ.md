@@ -53,7 +53,7 @@ samarbetspartner.
 
 ## Examinationsformer
 
-**Modul 1 **examineras genom muntliga
+**Modul 1** examineras genom muntliga
 presentationer, samt en ‘pitch‘ av ett
 konceptförslag.   
 **Modul 2** examineras genom presentationer av audiovisuella prototyper.  

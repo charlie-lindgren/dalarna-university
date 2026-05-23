@@ -30,15 +30,15 @@ up: "[[Informatik MOC]]"
 
 ## Lärandemål
 
-_Kunskap och förståelse  
-_Efter godkänd kurs ska den studerande kunna:
+_Kunskap och förståelse_  
+Efter godkänd kurs ska den studerande kunna:
 
   - redogöra för metoder och modeller inom projekthantering och agil systemutveckling
 
   - redogöra för aspekter av grupputveckling, gruppdynamik och konflikthantering
 
-_Färdighet och förmåga  
-_Efter godkänd kurs ska den studerande kunna:
+_Färdighet och förmåga_  
+Efter godkänd kurs ska den studerande kunna:
 
   - praktiskt tillämpa teoretiska kunskaper på IT-projekt inom digitala tjänster
 
