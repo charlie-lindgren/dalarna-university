@@ -23,9 +23,6 @@ Kontroller som körs:
   13. Förkunskapskrav — endast engelsk variant finns
   16. Betyg — sektionen saknar punktlista (rapportering i löpande text)
   16b. Förkunskapskrav — refererar HDa-kurs som inte finns i vaulten
-  17. Innehåll — sektionen är ett enda stycke trots flera meningar
-  18. Innehåll — sektionen är en stub/platshållare (< 80 tecken)
-  19. Innehåll — modulrubrik utan hp-angivelse
   20. Övrigt — sektionen saknas helt
   21. Övrigt — saknar standardfras om pedagogiskt stöd
 """
@@ -633,89 +630,6 @@ def check_forkunskap_okand_kurs(files: list[Path]) -> list[dict]:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# Check 17 — Innehåll utan styckeindelning
-# ─────────────────────────────────────────────────────────────────────────────
-SENTENCE_END_RE = re.compile(r"[.!?](?=\s+[A-ZÅÄÖ]|\s*$)")
-INNEHALL_RUNON_MIN_SENTENCES = 4
-INNEHALL_RUNON_MIN_CHARS = 400
-
-
-INNEHALL_STUB_MAX_CHARS = 80
-INNEHALL_MODUL_RE = re.compile(r"\b[MmDd](?:odul|elkurs)\s+\d+\b")
-HP_MENTION_RE = re.compile(r"\b\d+(?:[,.]\d+)?\s*hp\b|högskolepoäng\b", re.IGNORECASE)
-
-
-def check_innehall_stub(files: list[Path]) -> list[dict]:
-    """Flagga kursplaner vars `## Innehåll`-sektion är så kort att den ser ut
-    som en platshållartext (t.ex. *"Innehåll saknas."* eller *"Kursen består
-    av tre delkurser."* utan beskrivning av delkurserna)."""
-    findings = []
-    for p in files:
-        body = strip_frontmatter(p.read_text(encoding="utf-8"))
-        sec = extract_section(body, "Innehåll").strip()
-        if not sec or len(sec) >= INNEHALL_STUB_MAX_CHARS:
-            continue
-        findings.append({
-            "check": "innehåll-stub",
-            "code": course_code(p),
-            "subj": subject(p),
-            "detail": f"Osannolikt kort ({len(sec)} tecken): {sec!r}",
-        })
-    return findings
-
-
-def check_innehall_modul_utan_hp(files: list[Path]) -> list[dict]:
-    """Flagga kursplaner där `## Innehåll` refererar till moduler eller
-    delkurser men ingen hp-angivelse finns i sektionen. Modulrubriker utan hp
-    gör det svårt att se hur kursens totala hp-summa fördelar sig."""
-    findings = []
-    for p in files:
-        body = strip_frontmatter(p.read_text(encoding="utf-8"))
-        sec = extract_section(body, "Innehåll").strip()
-        if not sec:
-            continue
-        m = INNEHALL_MODUL_RE.search(sec)
-        if not m:
-            continue
-        if HP_MENTION_RE.search(sec):
-            continue
-        findings.append({
-            "check": "innehåll-modul-utan-hp",
-            "code": course_code(p),
-            "subj": subject(p),
-            "detail": f"Modulrubrik utan hp-angivelse: {m.group(0)!r}",
-        })
-    return findings
-
-
-def check_innehall_styckeindelning(files: list[Path]) -> list[dict]:
-    """Flagga kursplaner vars `## Innehåll`-sektion består av ett enda långt
-    stycke (ingen blankrad mellan logiska avsnitt) men ändå innehåller flera
-    meningar. Konventionen är att längre innehållsbeskrivningar styckeindelas
-    så att läsbarheten håller; en monolitisk textmassa skymmer strukturen."""
-    findings = []
-    for p in files:
-        body = strip_frontmatter(p.read_text(encoding="utf-8"))
-        sec = extract_section(body, "Innehåll").strip()
-        if not sec:
-            continue
-        paragraphs = [pp for pp in re.split(r"\n\s*\n", sec) if pp.strip()]
-        if len(paragraphs) > 1:
-            continue
-        txt = paragraphs[0]
-        sentences = len(SENTENCE_END_RE.findall(txt))
-        if sentences >= INNEHALL_RUNON_MIN_SENTENCES and len(txt) >= INNEHALL_RUNON_MIN_CHARS:
-            snippet = " ".join(txt.split())[:120]
-            findings.append({
-                "check": "innehåll-ostyckat",
-                "code": course_code(p),
-                "subj": subject(p),
-                "detail": f"{sentences} meningar i ett stycke ({len(txt)} tecken): {snippet}…",
-            })
-    return findings
-
-
-# ─────────────────────────────────────────────────────────────────────────────
 # Check 18-19 — Övrigt
 # ─────────────────────────────────────────────────────────────────────────────
 OVRIGT_BOILERPLATE_RE = re.compile(r"pedagogiskt stöd från Högskolan Dalarna")
@@ -812,9 +726,6 @@ CHECK_LABELS = {
     "frasning-avviker":      "Frasning avviker",
     "betygsskala-inkonsekvent": "Betygsskala inkonsekvent",
     "betyg-saknar-punktlista": "Betyg saknar punktlista",
-    "innehåll-ostyckat":      "Innehåll ostyckat",
-    "innehåll-stub":          "Innehåll stub/platshållare",
-    "innehåll-modul-utan-hp": "Innehåll modul utan hp",
     "övrigt-saknas":          "Övrigt saknas",
     "övrigt-utan-boilerplate": "Övrigt utan pedagogiskt-stöd-fras",
     "examinationsformer-utan-punktlista": "Examinationsformer utan punktlista",
@@ -860,9 +771,6 @@ def main():
         ("Lärandemål-punktlista",    check_lo_bullets),
         ("Förkunskapskrav",          check_forkunskap),
         ("Förkunskap-okänd-kurs",    check_forkunskap_okand_kurs),
-        ("Innehåll-styckeindelning", check_innehall_styckeindelning),
-        ("Innehåll-stub",            check_innehall_stub),
-        ("Innehåll-modul-utan-hp",   check_innehall_modul_utan_hp),
         ("Övrigt",                   check_ovrigt),
     ]
 

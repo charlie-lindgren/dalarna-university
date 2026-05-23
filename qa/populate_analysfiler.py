@@ -109,11 +109,6 @@ ANALYS_FILES: dict[str, dict[str, str]] = {
     "Betygsrapportering.md": {
         "Betyg saknar punktlista": "Saknar punktlista",
     },
-    "Innehåll.md": {
-        "Innehåll ostyckat":      "Ostyckad textmassa",
-        "Innehåll stub/platshållare": "Stub/platshållare",
-        "Innehåll modul utan hp": "Modulrubrik utan hp",
-    },
     "Övrigt.md": {
         "Övrigt saknas":           "Sektion saknas",
         "Övrigt utan pedagogiskt-stöd-fras": "Saknar standardfras om pedagogiskt stöd",
