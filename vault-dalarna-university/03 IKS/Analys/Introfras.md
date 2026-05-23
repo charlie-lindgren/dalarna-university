@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Introfras.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (239 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Introfras.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (234 rader)</span></a>
 
-> [!example]- 239 fynd — klicka för att expandera
+> [!example]- 234 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -47,7 +47,6 @@ status: första pass
 > | [GBP365](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBP365) | BIL | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen förbereder för undervisning i ämnet bild i gymnasieskolan. Målet är att den studerande efter avslutad kurs har up… |
 > | [BQ1081](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BQ1081) | BPO | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Studenten ska efter genomförd kurs kunna:… |
 > | [BQ1094](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BQ1094) | BPO | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Studenten ska efter fullbordad kurs kunna:… |
-> | [GEU2QY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2QY) | EUN | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': _Efter genomgången kurs ska studenten kunna:… |
 > | [FI1023](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FI1023) | FIA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen mål är att den studerande efter genomgången kurs ska kunna:… |
 > | [FI1024](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FI1024) | FIA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': **Kursens mål är att den studerande efter genomgången kurs ska kunna:**… |
 > | [FI1026](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FI1026) | FIA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': **Kursen mål är att den studerande efter genomgången kurs ska kunna:**… |
@@ -230,8 +229,6 @@ status: första pass
 > | [GRV3BF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRV3BF) | RVA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Under kursen ska studenten utveckla grundläggande kunskaper, färdigheter och förmågor för att kunna hantera juridiska fr… |
 > | [RV1037](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1037) | RVA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande med utgångspunkt i teorier samt egna och andras erfarenheter av verksamhe… |
 > | [RV1045](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1045) | RVA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att studenten ska utveckla en förmåga att avgöra lämplig anställningsform utifrån reglerna i… |
-> | [RV1046](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1046) | RVA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Den studerande ska efter avslutad kurs kunna:… |
-> | [RV1047](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1047) | RVA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Den studerande skall efter avslutad kurs kunna:… |
 > | [RV1048](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1048) | RVA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att studenten skall utveckla grundläggande kunskaper, färdigheter och förhållningssätt för a… |
 > | [RV1049](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1049) | RVA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål och syfte är att studenten skall utveckla grundläggande kunskap, färdigheter och förhållningssä… |
 > | [RV1050](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1050) | RVA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att studenten skall utveckla grundläggande kunskaper, färdigheter och förhållningssätt för a… |
@@ -246,8 +243,6 @@ status: första pass
 > | [GSO2XU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO2XU) | SOA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att den… |
 > | [GSO2XV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO2XV) | SOA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att den studerande utvecklar fördjupade kunskaper om teorier och metoder som använd… |
 > | [GSO33U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO33U) | SOA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att den studerande utvecklar fördjupade kunskaper om teorier och metoder som använd… |
-> | [SO1030](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SO1030) | SOA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Den studerande ska efter avslutad kurs kunna:… |
-> | [GTR2DP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2DP) | TRU | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Studenten skall efter avslutad kurs kunna:… |
 > | [TR2004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR2004) | TRU | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen är uppbyggd av tre moduler som examineras i tur och ordning.… |
 > | [TR2005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR2005) | TRU | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande syfte är att studenten fördjupar sina kunskaper i turismvetenskap med särskild bäring på destinatio… |
 > | [TR3008](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR3008) | TRU | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att studenten fördjupar sina kunskaper i turismvetenskap med särskild bäring på destinations… |

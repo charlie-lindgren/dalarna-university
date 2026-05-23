@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Introfras.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (83 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Introfras.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (80 rader)</span></a>
 
-> [!example]- 83 fynd — klicka för att expandera
+> [!example]- 80 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -49,11 +49,9 @@ status: första pass
 > | [ASA24N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA24N) | SAA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens… |
 > | [ASA28A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA28A) | SAA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande tillägnar sig kunskaper om välfärdsteknik… |
 > | [ASA28Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA28Q) | SAA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att studenten ska tillägna sig en djupare förståelse av åldrande utifrån socialgerontologisk… |
-> | [GSA24V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA24V) | SAA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Den studerande ska efter avslutad kurs kunna:… |
 > | [GSA2BV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2BV) | SAA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': unskap och förståelse… |
 > | [GSA2DW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2DW) | SAA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att den studerande ska tillägna sig kunskaper och färdigheter inom socialt arbete m… |
 > | [GSA2NC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2NC) | SAA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': **Moment 1. Campusförlagd utbildning, 5 högskolepoäng**… |
-> | [GSA2SE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2SE) | SAA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': **Efter avslutad kurs ska den studerande kunna:… |
 > | [GSA32Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA32Y) | SAA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': **Modul 1. Campusförlagd utbildning, 5 högskolepoäng**… |
 > | [GSA3DM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DM) | SAA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att den studerande ska tillägna sig kunskaper om välfärdsinsatser på individ-, grup… |
 > | [GSA3DN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DN) | SAA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att den studerande ska tillägna sig kunskaper och färdigheter inom socialt arbete m… |
@@ -90,7 +88,6 @@ status: första pass
 > | [SR3015](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SR3015) | SRP | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande med hög grad av systematik och kritiskt förhållningssätt ska fördjupa och… |
 > | [VV2001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV2001) | VÅE | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att studenten tillägnar sig kunskaper om handledning och handledningssituationer som är spec… |
 > | [VV3004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3004) | VÅE | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Som övergripande mål ska studenten ha tillägnat sig kunskaper inom vårdvetenskaplig teori och metod, som förberedelse fö… |
-> | [VV3009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3009) | VÅE | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': **Efter avslutad kurs ska studenten kunna:… |
 > | [VV3010](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3010) | VÅE | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen har som övergripande mål att studenten ska fördjupa och integrera sina teoretiska och praktiska kunskaper inom äm… |
 > | [VV3011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3011) | VÅE | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen har som övergripande mål att studenten ska fördjupa och integrera sina teoretiska och praktiska kunskaper inom äm… |
 > | [VV3012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3012) | VÅE | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Genom ett självständigt arbete erhålla fördjupad kunskap inom ett komplext problemområde med relevans för vårdvetenskap … |

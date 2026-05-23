@@ -106,6 +106,12 @@ ANALYS_FILES: dict[str, dict[str, str]] = {
         "Lärandemål saknar punktlista (sv)": "Saknar punktlista (sv)",
         "Lärandemål saknar punktlista (en)": "Saknar punktlista (en)",
     },
+    "Förkunskapskrav.md": {
+        "Förkunskapskrav saknas":           "Sektion saknas",
+        "Förkunskapskrav endast på engelska": "Endast engelsk variant",
+        "Förkunskapskrav osannolikt kort":  "Osannolikt kort innehåll",
+        "Förkunskapskrav paritet sv/en":    "Stor sv/en-längdskillnad",
+    },
 }
 
 KURSPLAN_URL = "https://www.du.se/sv/utbildning/kurser/kursplan/?code={code}"

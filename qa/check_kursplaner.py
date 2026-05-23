@@ -19,6 +19,10 @@ Kontroller som körs:
   9.  Långa bullets (> 25 ord)
   10. Bloom-taxonomi — avancerade kurser med enbart låga nivåer
   11. Svenska/engelska paritet — varje skillnad i antal lärandemål (diff ≥ 1)
+  12. Förkunskapskrav — sektion saknas helt
+  13. Förkunskapskrav — endast engelsk variant finns
+  14. Förkunskapskrav — osannolikt kort innehåll
+  15. Förkunskapskrav — stor sv/en-längdskillnad
 """
 
 import argparse
@@ -495,6 +499,81 @@ def check_sv_en_parity(files: list[Path]) -> list[dict]:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
+# Check 12-15 — Förkunskapskrav
+# ─────────────────────────────────────────────────────────────────────────────
+EN_PREREQ_RE = re.compile(
+    r"^### Prerequisites\s*\n(.+?)(?=^#{2,3}\s|\Z)",
+    re.MULTILINE | re.DOTALL,
+)
+FORKUNSKAP_TUNN_MIN_CHARS = 25
+FORKUNSKAP_PARITY_MIN_CHARS = 30
+FORKUNSKAP_PARITY_RATIO = 2.0
+
+
+def _extract_en_prerequisites(body: str) -> str | None:
+    """Returnera engelska Prerequisites-sektionen om English Version finns,
+    annars None. Tom sträng betyder att rubriken finns men saknar innehåll."""
+    if not EN_VERSION_RE.search(body):
+        return None
+    m = EN_PREREQ_RE.search(body)
+    return m.group(1).strip() if m else ""
+
+
+def check_forkunskap(files: list[Path]) -> list[dict]:
+    """Kvalitetskontroll av förkunskapskravssektionen. Flaggar fyra mönster:
+
+    1. ``förkunskap-saknas`` — varken svensk eller engelsk sektion finns.
+    2. ``förkunskap-bara-engelska`` — engelska finns men svenska saknas
+       (vanligaste tecknet på en luckig svensk källsida).
+    3. ``förkunskap-tunn`` — svensk text är osannolikt kort (< 25 tecken),
+       t.ex. ``- Lärarexamen`` utan ämnesangivelse.
+    4. ``förkunskap-paritet`` — svensk och engelsk text skiljer sig mer än 2×
+       i längd (båda måste vara över 30 tecken för att räknas).
+    """
+    findings = []
+    for p in files:
+        body = strip_frontmatter(p.read_text(encoding="utf-8"))
+        sv = extract_section(body, "Förkunskapskrav").strip()
+        en = _extract_en_prerequisites(body)
+
+        if not sv:
+            if en:
+                findings.append({
+                    "check": "förkunskap-bara-engelska",
+                    "code": course_code(p),
+                    "subj": subject(p),
+                    "detail": f"Engelska Prerequisites finns ({len(en)} tecken) men svenska saknas",
+                })
+            else:
+                findings.append({
+                    "check": "förkunskap-saknas",
+                    "code": course_code(p),
+                    "subj": subject(p),
+                    "detail": "Ingen förkunskapssektion i kursplanen",
+                })
+            continue
+
+        if len(sv) < FORKUNSKAP_TUNN_MIN_CHARS:
+            findings.append({
+                "check": "förkunskap-tunn",
+                "code": course_code(p),
+                "subj": subject(p),
+                "detail": f"Osannolikt kort ({len(sv)} tecken): {sv!r}",
+            })
+
+        if en and len(sv) >= FORKUNSKAP_PARITY_MIN_CHARS and len(en) >= FORKUNSKAP_PARITY_MIN_CHARS:
+            ratio = max(len(sv), len(en)) / min(len(sv), len(en))
+            if ratio >= FORKUNSKAP_PARITY_RATIO:
+                findings.append({
+                    "check": "förkunskap-paritet",
+                    "code": course_code(p),
+                    "subj": subject(p),
+                    "detail": f"Längdskillnad sv {len(sv)} tecken vs en {len(en)} tecken (×{ratio:.1f})",
+                })
+    return findings
+
+
+# ─────────────────────────────────────────────────────────────────────────────
 # Rapport
 # ─────────────────────────────────────────────────────────────────────────────
 
@@ -516,6 +595,10 @@ CHECK_LABELS = {
     "sv-en-paritet":         "Paritetsskillnad sv/en",
     "lo-saknar-bullets-sv":  "Lärandemål saknar punktlista (sv)",
     "lo-saknar-bullets-en":  "Lärandemål saknar punktlista (en)",
+    "förkunskap-saknas":     "Förkunskapskrav saknas",
+    "förkunskap-bara-engelska": "Förkunskapskrav endast på engelska",
+    "förkunskap-tunn":       "Förkunskapskrav osannolikt kort",
+    "förkunskap-paritet":    "Förkunskapskrav paritet sv/en",
 }
 
 
@@ -543,6 +626,7 @@ def main():
         ("Bloom-taxonomi",           check_bloom),
         ("Paritet sv/en",            check_sv_en_parity),
         ("Lärandemål-punktlista",    check_lo_bullets),
+        ("Förkunskapskrav",          check_forkunskap),
     ]
 
     if not args.skip_hunspell:

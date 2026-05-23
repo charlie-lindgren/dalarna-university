@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (222 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (202 rader)</span></a>
 
-> [!example]- 222 fynd — klicka för att expandera
+> [!example]- 202 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -28,17 +28,7 @@ status: första pass
 > | [AIH24T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AIH24T) | IDA | Långt mål | 29 ord: - självständigt identifiera ett idrottsdidaktiskt problemområde och formulera fo… |
 > | [AIH24T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AIH24T) | IDA | Långt mål | 31 ord: - utifrån ett vetenskapsteoretiskt perspektiv diskutera kvalitativ och kvantitat… |
 > | [AIH24T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AIH24T) | IDA | Långt mål | 30 ord: - genomföra ett självständigt idrottsdidaktiskt vetenskapligt arbete med tydlig … |
-> | [GIH2D8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2D8) | IDA | För få mål | 2 lärandemål (minimum rekommenderat: 3 för 2 hp) |
-> | [GIH2D9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2D9) | IDA | För få mål | 2 lärandemål (minimum rekommenderat: 3 för 2 hp) |
-> | [GIH2DD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2DD) | IDA | För få mål | 1 lärandemål (minimum rekommenderat: 3 för 3 hp) |
-> | [GIH2DE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2DE) | IDA | För få mål | 1 lärandemål (minimum rekommenderat: 3 för 3 hp) |
 > | [GIH2G4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2G4) | IDA | För få mål | 3 lärandemål (minimum rekommenderat: 4 för 15 hp) |
-> | [GIH2LT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2LT) | IDA | För få mål | 2 lärandemål (minimum rekommenderat: 3 för 2.5 hp) |
-> | [GIH2LU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2LU) | IDA | För få mål | 2 lärandemål (minimum rekommenderat: 3 för 2.5 hp) |
-> | [GIH2LX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2LX) | IDA | För få mål | 2 lärandemål (minimum rekommenderat: 3 för 5 hp) |
-> | [GIH2LY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2LY) | IDA | För få mål | 2 lärandemål (minimum rekommenderat: 3 för 5 hp) |
-> | [GIH2M4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2M4) | IDA | För få mål | 2 lärandemål (minimum rekommenderat: 3 för 5 hp) |
-> | [GIH2M6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2M6) | IDA | För få mål | 2 lärandemål (minimum rekommenderat: 3 för 2.5 hp) |
 > | [GIH2QL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2QL) | IDA | Långt mål | 30 ord: - med goda rörelsekvaliteter delta i olika rörelseaktiviteter med relevans för t… |
 > | [GIH2WT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2WT) | IDA | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [GIH2WY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2WY) | IDA | Långt mål | 26 ord: - utifrån valt syfte, innehåll och målgrupp samt i relation till aktuella styrdo… |
@@ -46,7 +36,6 @@ status: första pass
 > | [GIH2ZC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZC) | IDA | Långt mål | 26 ord: - diskutera och problematisera skolämnet idrott och hälsa utifrån olika didaktis… |
 > | [GIH2ZD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZD) | IDA | Långt mål | 26 ord: - utifrån valt syfte, innehåll och målgrupp samt i relation till aktuella styrdo… |
 > | [GIH335](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH335) | IDA | Långt mål | 27 ord: - formulera en affärsplan med tillhörande budget inom området idrott och hälsa s… |
-> | [GIH33K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH33K) | IDA | För få mål | 1 lärandemål (minimum rekommenderat: 3 för 3 hp) |
 > | [GIH34S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34S) | IDA | Långt mål | 28 ord: - diskutera och problematisera skolämnet idrott och hälsa utifrån olika didaktis… |
 > | [GIH34S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34S) | IDA | Långt mål | 26 ord: - utifrån valt syfte, innehåll och målgrupp samt i relation till aktuella styrdo… |
 > | [GIH35T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35T) | IDA | För få mål | 2 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
@@ -62,7 +51,6 @@ status: första pass
 > | [GIH392](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH392) | IDA | Långt mål | 26 ord: - utifrån valt syfte, innehåll och målgrupp samt i relation till aktuella styrdo… |
 > | [GIH39E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH39E) | IDA | Långt mål | 26 ord: - utifrån valt syfte, innehåll och målgrupp samt i relation till aktuella styrdo… |
 > | [GIH39H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH39H) | IDA | Långt mål | 26 ord: - diskutera och problematisera skolämnet idrott och hälsa utifrån olika didaktis… |
-> | [GIH3AM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AM) | IDA | För få mål | 2 lärandemål (minimum rekommenderat: 3 för 2 hp) |
 > | [GIH3AN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AN) | IDA | För många mål | 23 lärandemål (maximum rekommenderat: 12 för 30 hp) |
 > | [GIH3AP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AP) | IDA | För många mål | 23 lärandemål (maximum rekommenderat: 12 för 30 hp) |
 > | [GIH3AP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AP) | IDA | Långt mål | 28 ord: - på en grundläggande nivå diskutera och problematisera skolämnet idrott och häl… |
@@ -81,14 +69,6 @@ status: första pass
 > | [IH1012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1012) | IDA | För få mål | 2 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
 > | [IH1029](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1029) | IDA | Långt mål | 29 ord: - skapa lärandesituationer i de kunskapsområden som explicit nämns i kursplanern… |
 > | [IH1062](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1062) | IDA | För många mål | 16 lärandemål (maximum rekommenderat: 12 för 20 hp) |
-> | [IH1095](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1095) | IDA | För få mål | 1 lärandemål (minimum rekommenderat: 3 för 1.5 hp) |
-> | [IH1096](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1096) | IDA | För få mål | 1 lärandemål (minimum rekommenderat: 3 för 1.5 hp) |
-> | [IH1097](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1097) | IDA | För få mål | 1 lärandemål (minimum rekommenderat: 3 för 1.5 hp) |
-> | [IH1098](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1098) | IDA | För få mål | 1 lärandemål (minimum rekommenderat: 3 för 1.5 hp) |
-> | [IH1099](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1099) | IDA | För få mål | 1 lärandemål (minimum rekommenderat: 3 för 1.5 hp) |
-> | [IH1100](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1100) | IDA | För få mål | 1 lärandemål (minimum rekommenderat: 3 för 1.5 hp) |
-> | [IH1101](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1101) | IDA | För få mål | 1 lärandemål (minimum rekommenderat: 3 för 1.5 hp) |
-> | [IH1102](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1102) | IDA | För få mål | 1 lärandemål (minimum rekommenderat: 3 för 1.5 hp) |
 > | [IH1113](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1113) | IDA | Långt mål | 30 ord: - tillämpa grundläggande kunskaper inom ämnesområdet fysisk träning med specifik… |
 > | [IH1113](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1113) | IDA | Långt mål | 26 ord: - praktisk genomföra och instruera övningar inriktade mot optimering av de fysis… |
 > | [IH1114](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1114) | IDA | Långt mål | 28 ord: - redogöra för de viktigaste mikro- och makronutrienterna och deras betydelse vi… |
@@ -135,7 +115,7 @@ status: första pass
 > | [ASA24L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA24L) | SAA | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [ASA266](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA266) | SAA | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [ASA26U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA26U) | SAA | För många mål | 10 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
-> | [ASA27E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA27E) | SAA | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 5 hp) |
+> | [ASA27E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA27E) | SAA | För många mål | 9 lärandemål (maximum rekommenderat: 6 för 5 hp) |
 > | [ASA293](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA293) | SAA | För många mål | 10 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [GSA24U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA24U) | SAA | För många mål | 11 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [GSA24V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA24V) | SAA | För många mål | 14 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |

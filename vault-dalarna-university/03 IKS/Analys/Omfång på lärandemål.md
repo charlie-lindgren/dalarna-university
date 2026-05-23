@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (412 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (411 rader)</span></a>
 
-> [!example]- 412 fynd — klicka för att expandera
+> [!example]- 411 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -168,13 +168,13 @@ status: första pass
 > | [PE1050](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1050) | PEA | Långt mål | 27 ord: - visa förmåga att omsätta teoretisk kunskap i planering och genomförande av ped… |
 > | [PE1050](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1050) | PEA | Långt mål | 35 ord: - redogöra för och diskutera hur samverkan kan utvecklas mellan barn och elever … |
 > | [PE1050](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1050) | PEA | Långt mål | 27 ord: - redogöra för och diskutera olika tolkningar av hur förskolans och skolans peda… |
-> | [PE1053](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1053) | PEA | För få mål | 2 lärandemål (minimum rekommenderat: 3 för 5 hp) |
 > | [PE1054](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1054) | PEA | Långt mål | 37 ord: - använda pedagogisk dokumentation som underlag för att tillsammans med kollegor… |
 > | [PE1055](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1055) | PEA | Långt mål | 38 ord: - beskriva, dokumentera och analysera möjligheter och hinder i förskolans verksa… |
 > | [PE1056](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1056) | PEA | Långt mål | 26 ord: - identifiera och reflektera över vad det innebär att planera, följa upp, utvärd… |
 > | [PE1056](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1056) | PEA | Långt mål | 26 ord: - beskriva och analysera hur förskolechefen kan planera och leda arbetsprocesser… |
-> | [PE1060](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1060) | PEA | För få mål | 2 lärandemål (minimum rekommenderat: 3 för 1.5 hp) |
+> | [PE1062](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1062) | PEA | För många mål | 5 lärandemål (maximum rekommenderat: 4 för 1.5 hp) |
 > | [PE1070](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1070) | PEA | Långt mål | 26 ord: - visa kunskap om vilka steg som bör tas för att bygga upp organisationen i form… |
+> | [PE1072](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1072) | PEA | För många mål | 5 lärandemål (maximum rekommenderat: 4 för 1.5 hp) |
 > | [PE1074](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1074) | PEA | Långt mål | 32 ord: - ha insikt i lärplattans möjligheter och begränsningar i arbetet med yngre elev… |
 > | [PE2007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE2007) | PEA | För få mål | 2 lärandemål (minimum rekommenderat: 4 för 15 hp) |
 > | [PE2017](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE2017) | PEA | Långt mål | 28 ord: - skriftligt och muntligt kritiskt granska och argumentera för och emot hur olik… |
@@ -340,7 +340,7 @@ status: första pass
 > | [GPG3EU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3EU) | PGA | För många mål | 15 lärandemål (maximum rekommenderat: 10 för 15 hp) |
 > | [GPG3EU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3EU) | PGA | Långt mål | 27 ord: - identifiera och beakta grundläggande demokratiska värderingar samt olika jämst… |
 > | [GPG3EV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3EV) | PGA | För många mål | 13 lärandemål (maximum rekommenderat: 10 för 15 hp) |
-> | [GPG3FR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FR) | PGA | För få mål | 0 lärandemål (minimum rekommenderat: 3 för 0 hp) |
+> | [GPG3FR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FR) | PGA | För få mål | 0 lärandemål (minimum rekommenderat: 1 för 0 hp) |
 > | [GPG3FT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FT) | PGA | Långt mål | 27 ord: - självständigt och tillsammans med andra planera, genomföra, utvärdera och utve… |
 > | [GPG3FU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FU) | PGA | Långt mål | 38 ord: - identifiera och diskutera problem samt föreslå utvecklingsområden i den pedago… |
 > | [GPG3FV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FV) | PGA | Långt mål | 28 ord: - utifrån egna erfarenheter i den pedagogiska verksamheten och tidigare forsknin… |
@@ -359,7 +359,6 @@ status: första pass
 > | [GRK324](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK324) | RKA | Långt mål | 29 ord: - redogöra för samt på ett reflekterat sätt diskutera komplexiteten i identitets… |
 > | [GRK324](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK324) | RKA | Långt mål | 31 ord: - redogöra för och problematisera olika synsätt på relationen mellan religion oc… |
 > | [GRK324](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK324) | RKA | Långt mål | 26 ord: - diskutera och reflektera över hur normkritiska aspekter kan bidra till en förd… |
-> | [GRV22R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRV22R) | RVA | För få mål | 2 lärandemål (minimum rekommenderat: 3 för 1.5 hp) |
 > | [GRV266](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRV266) | RVA | För få mål | 3 lärandemål (minimum rekommenderat: 4 för 15 hp) |
 > | [GRV266](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRV266) | RVA | Långt mål | 30 ord: - visa god kunskap om och förståelse av de lagar och den rättspraxis som gäller … |
 > | [RV1003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1003) | RVA | För få mål | 3 lärandemål (minimum rekommenderat: 4 för 15 hp) |

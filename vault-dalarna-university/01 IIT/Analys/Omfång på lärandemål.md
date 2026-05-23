@@ -8,23 +8,25 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (87 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (90 rader)</span></a>
 
-> [!example]- 87 fynd — klicka för att expandera
+> [!example]- 90 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
 > | [BY1054](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1054) | BYA | För många mål | 14 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [BY1061](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1061) | BYA | För många mål | 12 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [GBY2MA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2MA) | BYA | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
-> | [GBY2NF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2NF) | BYA | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 5 hp) |
+> | [GBY2NF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2NF) | BYA | För många mål | 9 lärandemål (maximum rekommenderat: 6 för 5 hp) |
 > | [GBY2NG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2NG) | BYA | För många mål | 10 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
-> | [GBY2RN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2RN) | BYA | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 5 hp) |
+> | [GBY2RN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2RN) | BYA | För många mål | 9 lärandemål (maximum rekommenderat: 6 för 5 hp) |
 > | [GBY2RX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2RX) | BYA | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
+> | [GBY342](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY342) | BYA | För många mål | 7 lärandemål (maximum rekommenderat: 6 för 5 hp) |
 > | [GDT2JM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT2JM) | DTA | För många mål | 10 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [GDT2JN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT2JN) | DTA | Långt mål | 29 ord: - Praktiskt konfigurera och implementera tekniker som möjliggör trådlös kommunik… |
+> | [BFY224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY224) | FYA | För många mål | 7 lärandemål (maximum rekommenderat: 6 för 5 hp) |
 > | [BFY226](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY226) | FYA | För många mål | 12 lärandemål (maximum rekommenderat: 10 för 10 hp) |
-> | [BFY227](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY227) | FYA | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 5 hp) |
+> | [BFY227](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY227) | FYA | För många mål | 9 lärandemål (maximum rekommenderat: 6 för 5 hp) |
 > | [GIE3JG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3JG) | IEA | För många mål | 11 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [GIE3JH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3JH) | IEA | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [AIK232](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AIK232) | IKA | För många mål | 11 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
@@ -44,7 +46,7 @@ status: första pass
 > | [IK1032](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IK1032) | IKA | För få mål | 3 lärandemål (minimum rekommenderat: 4 för 15 hp) |
 > | [IK1064](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IK1064) | IKA | För många mål | 12 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [IK1066](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IK1066) | IKA | För många mål | 11 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
-> | [GMA2EY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2EY) | MAA | För många mål | 11 lärandemål (maximum rekommenderat: 8 för 5 hp) |
+> | [GMA2EY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2EY) | MAA | För många mål | 11 lärandemål (maximum rekommenderat: 6 för 5 hp) |
 > | [MA1042](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MA1042) | MAA | För många mål | 10 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [AMD238](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMD238) | MDI | För många mål | 17 lärandemål (maximum rekommenderat: 12 för 30 hp) |
 > | [AMD238](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMD238) | MDI | Långt mål | 28 ord: - med utgångspunkt i tidigare forskning identifiera ett väl avgränsat matematikd… |
@@ -82,13 +84,14 @@ status: första pass
 > | [GMT34R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34R) | MTA | Långt mål | 31 ord: - kritiskt diskutera och reflektera över hur olika typer av materialfel kan påve… |
 > | [GMT3BW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3BW) | MTA | Långt mål | 29 ord: - redogöra för innebörden av begrepp och teoretiska grunder inom statiska- och d… |
 > | [GMT3BW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3BW) | MTA | Långt mål | 27 ord: - redogöra för innebörden av begrepp och teoretiska grunder inom energisystem, v… |
-> | [MT1033](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT1033) | MTA | För få mål | 1 lärandemål (minimum rekommenderat: 3 för 2 hp) |
+> | [GMT3J4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3J4) | MTA | För många mål | 5 lärandemål (maximum rekommenderat: 4 för 3 hp) |
 > | [MT1060](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT1060) | MTA | För många mål | 10 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
-> | [AEG225](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG225) | MÖY | För få mål | 2 lärandemål (minimum rekommenderat: 3 för 2.5 hp) |
 > | [AEG233](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG233) | MÖY | Långt mål | 28 ord: - analysera och diskutera de fysiska processer som styr utbytet av olika typer a… |
+> | [AEG294](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG294) | MÖY | För många mål | 6 lärandemål (maximum rekommenderat: 4 för 3 hp) |
 > | [AEG2AL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AL) | MÖY | Långt mål | 28 ord: - analysera och förklara de fysiska processer som styr utbytet hos olika typer a… |
 > | [EG3007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3007) | MÖY | Långt mål | 27 ord: - analysera och diskutera de fysikaliska processer som styr utbytet av en termis… |
 > | [EG3009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3009) | MÖY | Långt mål | 26 ord: - analysera olika metoder som kan användas för att skydda solvärmekretsen för sk… |
+> | [EG3012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3012) | MÖY | För många mål | 7 lärandemål (maximum rekommenderat: 6 för 5 hp) |
 > | [EG3014](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3014) | MÖY | Långt mål | 35 ord: - ange och självständigt analysera olika sätt att anpassa och designa byggnader … |
 > | [EG3014](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3014) | MÖY | Långt mål | 28 ord: - Självständigt använda beräkningsprogram och göra beräkningar på en byggnads vä… |
 > | [EG3015](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3015) | MÖY | Långt mål | 29 ord: - behärska den grundläggande geometrin och vanliga begrepp vad gäller beskrivnin… |
