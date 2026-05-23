@@ -9,14 +9,13 @@ up: "[[IHV MOC]]"
 
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 
-## Kurser (37 st)
+## Kurser (35 st)
 
 - [[AVÅ27L]] — Vård och omsorg för personer med demens (fristående kurs)
 - [[AVÅ28G]] — Nutrition och ätande
 - [[AVÅ28H]] — Nutrition och ätande (fristående kurs)
 - [[AVÅ28J]] — Att vårda äldre personer, VFU
 - [[AVÅ28K]] — Personcentrerad vård vid multisjuklighet, psykisk ohälsa och demenssjukdom
-- [[AVÅ28L]] — Multisjuklighet, diagnostik och behandling för äldre ur ett omvårdnadsperspektiv
 - [[AVÅ28P]] — Äldre personers levnadsvillkor
 - [[AVÅ28T]] — Examensarbete i omvårdnad - distriktssköterska
 - [[AVÅ28U]] — Examensarbete i omvårdnad - vård av äldre
@@ -36,7 +35,6 @@ up: "[[IHV MOC]]"
 - [[GVÅ37K]] — Personcentrerad omvårdnad inom äldreomsorg
 - [[GVÅ37L]] — Leda och samverka i personcentrerad vård
 - [[GVÅ37Y]] — Metoder och teorier vid symtom och tecken på hälsa/ohälsa II
-- [[GVÅ382]] — Personcentrerad vård inom olika vårdsammanhang
 - [[GVÅ383]] — Personcentrerad vård inom olika vårdsammanhang
 - [[GVÅ385]] — Personcentrerad vård inom somatisk vård
 - [[GVÅ386]] — Personcentrerad vård inom psykiatrisk vård

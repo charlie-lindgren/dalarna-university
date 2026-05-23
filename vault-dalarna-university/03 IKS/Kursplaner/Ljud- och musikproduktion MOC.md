@@ -9,7 +9,7 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (14 st)
+## Kurser (13 st)
 
 - [[GLP29T]] — Musikproduktion i praktiken
 - [[GLP29U]] — Inspelning i studio för Musik- och ljuddesign
@@ -24,9 +24,8 @@ up: "[[IKS MOC]]"
 - [[GLP32S]] — Arbetsplatsförlagd utbildning i medieproduktion
 - [[LP1032]] — Examensarbete för högskoleexamen i musik- och ljuddesign
 - [[LP1052]] — Ljudläggning till rörliga bilder
-- [[LP1053]] — Entreprenörskap för medieproducenter
 
-## Vilande kursplaner (43 st)
+## Vilande kursplaner (44 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -60,6 +59,7 @@ up: "[[IKS MOC]]"
 - [[GLP359]] — Dansmusikhistoria och klubbkultur 1: DJ-kulturens utveckling 1970-2000
 - [[GLP3AH]] — Hårdrock och metal: musikproduktion, kultur och kreativa konventioner
 - [[GLP3AR]] — Ljud- och musikproduktion med Pro Tools
+- [[LP1053]] — Entreprenörskap för medieproducenter
 - [[LP1054]] — Kommunikationsteorier
 - [[LP1064]] — Liveljud och liveinspelning
 - [[LP1065]] — Vetenskaplig uppsats i Ljud- och musikproduktion
