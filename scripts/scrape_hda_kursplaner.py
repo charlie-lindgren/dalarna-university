@@ -1060,32 +1060,14 @@ def build_institution_moc(inst_code: str, subjects: list[dict],
             lines.append(f"- [[{s['name']} MOC|{s['name']}]] ({count} kurser)")
         lines.append("")
 
-    # Kvalitetsanalys per institution: länka till institutionens egen Analys-mapp.
-    inst_dir = {"IIT": "01 IIT", "IHV": "02 IHV", "IKS": "03 IKS", "ISLL": "04 ISLL"}.get(inst_code)
-    if inst_dir:
-        analys_files = [
-            "Stavfel och språkbruk",
-            "Introfras",
-            "Frasningskonsistens",
-            "Omfång på lärandemål",
-            "Bloom-taxonomi",
-            "Examinationsformer",
-            "Betygsskalor",
-            "Samstämmighet svenska och engelska",
-            "Vilande kursplaner",
-        ]
-        lines.append("## Kvalitetsanalys")
-        lines.append("")
-        for name in analys_files:
-            # Page-only länk (``class="no-graph"``) — institutions-MOC:en
-            # ska bara koppla till ämnes-MOC:ar i grafen, inte till
-            # analyssidor. Analyssidornas frontmatter (``up:``) använder
-            # ren textsträng för samma anledning.
-            href = f"{inst_dir}/Analys/{name}"
-            lines.append(
-                f'- <a class="no-graph" href="{href}">{name}</a>'
-            )
-        lines.append("")
+    # Kvalitetsanalys per institution: en enda länk till institutionens Analys
+    # MOC, som i sin tur listar och länkar till samtliga analyssidor. Detta ger
+    # institutionshubben en kontrollerad granne i grafen (Analys MOC:en) som
+    # drar analyssidorna till rätt kluster istället för att låta dem flyta fritt.
+    lines.append("## Kvalitetsanalys")
+    lines.append("")
+    lines.append(f"- [[{inst_code} Analys MOC]] — kvalitetsanalys för {inst_code}")
+    lines.append("")
 
     return "\n".join(lines)
 
