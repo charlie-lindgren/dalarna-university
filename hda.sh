@@ -319,6 +319,7 @@ run_full_pipeline() {
     echo "  • Skrapa ALLA kursplaner (inkl. strö-/orphan-koder)"
     echo "  • Skrapa utbildningsplaner"
     echo "  • Identifiera vilande kursplaner"
+    echo "  • Bygg huvudområdes-MOC:ar"
     echo "  • QA kursplaner (rapport)"
     echo "  • QA utbildningsplaner (rapport)"
     echo "  • Populera analysfilerna"
@@ -332,6 +333,8 @@ run_full_pipeline() {
     run_scrape_utb
     echo ""
     run_vilande
+    echo ""
+    run_huvudomrade_mocs
     echo ""
     run_qa_kurs
     echo ""
