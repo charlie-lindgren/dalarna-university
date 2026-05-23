@@ -8,8 +8,8 @@ huvudomrade: "Sexuell, reproduktiv och perinatal hälsa 1"
 amne: "Sexuell, reproduktiv och perinatal hälsa"
 amne_kod: "SRP"
 institution: "IHV"
-tags: [kursplan, SRP, IHV, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, SRP, IHV, stray]
+
 scrape_hash: b1eaed54216deb2c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CE
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
