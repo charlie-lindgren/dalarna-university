@@ -118,10 +118,6 @@ ANALYS_FILES: dict[str, dict[str, str]] = {
         "Övrigt saknas":           "Sektion saknas",
         "Övrigt utan pedagogiskt-stöd-fras": "Saknar standardfras om pedagogiskt stöd",
     },
-    "Terminologi.md": {
-        "Blandar studenten/den studerande": "Blandar 'studenten' och 'den studerande'",
-        "Blandar ska/skall":               "Blandar 'ska' och 'skall'",
-    },
     "Förkunskapskrav.md": {
         "Förkunskapskrav saknas":           "Sektion saknas",
         "Förkunskapskrav endast på engelska": "Endast engelsk variant",

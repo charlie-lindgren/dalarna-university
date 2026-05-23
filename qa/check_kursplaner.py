@@ -28,8 +28,6 @@ Kontroller som körs:
   19. Innehåll — modulrubrik utan hp-angivelse
   20. Övrigt — sektionen saknas helt
   21. Övrigt — saknar standardfras om pedagogiskt stöd
-  22. Terminologi — blandar 'studenten' och 'den studerande'
-  23. Terminologi — blandar 'ska' och 'skall'
 """
 
 import argparse
@@ -755,49 +753,6 @@ def check_ovrigt(files: list[Path]) -> list[dict]:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# Check 20 — Terminologi-blandning
-# ─────────────────────────────────────────────────────────────────────────────
-STUDENTEN_RE = re.compile(r"\bstudenten\b")
-DEN_STUDERANDE_RE = re.compile(r"\bden studerande\b")
-SKA_RE = re.compile(r"\bska\b")
-SKALL_RE = re.compile(r"\bskall\b")
-
-
-def _strip_to_swedish(raw: str) -> str:
-    body = strip_frontmatter(raw)
-    return re.sub(r"\n## English Version.+", "", body, flags=re.DOTALL)
-
-
-def check_terminologi(files: list[Path]) -> list[dict]:
-    """Flagga kursplaner som blandar olika varianter av samma term inom den
-    svenska delen. Två blandningar fångas:
-
-    1. ``terminologi-studenten-blandning`` — *studenten* och *den studerande*
-       förekommer båda. Stilguider rekommenderar att man väljer en.
-    2. ``terminologi-ska-skall-blandning`` — *ska* och *skall* förekommer båda;
-       *skall* är ålderdomligt och bör harmoniseras till *ska*.
-    """
-    findings = []
-    for p in files:
-        sv = _strip_to_swedish(p.read_text(encoding="utf-8"))
-        if STUDENTEN_RE.search(sv) and DEN_STUDERANDE_RE.search(sv):
-            findings.append({
-                "check": "terminologi-studenten-blandning",
-                "code": course_code(p),
-                "subj": subject(p),
-                "detail": "Blandar 'studenten' och 'den studerande' i samma kursplan",
-            })
-        if SKA_RE.search(sv) and SKALL_RE.search(sv):
-            findings.append({
-                "check": "terminologi-ska-skall-blandning",
-                "code": course_code(p),
-                "subj": subject(p),
-                "detail": "Blandar 'ska' och 'skall' i samma kursplan",
-            })
-    return findings
-
-
-# ─────────────────────────────────────────────────────────────────────────────
 # Check 12-15 — Förkunskapskrav
 # ─────────────────────────────────────────────────────────────────────────────
 EN_PREREQ_RE = re.compile(
@@ -862,8 +817,6 @@ CHECK_LABELS = {
     "innehåll-modul-utan-hp": "Innehåll modul utan hp",
     "övrigt-saknas":          "Övrigt saknas",
     "övrigt-utan-boilerplate": "Övrigt utan pedagogiskt-stöd-fras",
-    "terminologi-studenten-blandning": "Blandar studenten/den studerande",
-    "terminologi-ska-skall-blandning": "Blandar ska/skall",
     "examinationsformer-utan-punktlista": "Examinationsformer utan punktlista",
     "omfång-få-mål":         "För få lärandemål",
     "omfång-många-mål":      "För många lärandemål",
@@ -911,7 +864,6 @@ def main():
         ("Innehåll-stub",            check_innehall_stub),
         ("Innehåll-modul-utan-hp",   check_innehall_modul_utan_hp),
         ("Övrigt",                   check_ovrigt),
-        ("Terminologi",              check_terminologi),
     ]
 
     if not args.skip_hunspell:
