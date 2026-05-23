@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: a10af2222f4663ec
+scrape_hash: dc05f777116fd02f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH38Z
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -67,6 +67,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Lek, dans samt mål- och nätspel - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

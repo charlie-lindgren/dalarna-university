@@ -10,7 +10,7 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: a509153d5e08554a
+scrape_hash: 9228e447c3839edb
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG3FY
 up: "[[Energiteknik MOC]]"
 ---
@@ -58,6 +58,10 @@ Betyg rapporteras enligt följande:
 
   - Skriftlig praktikrapport och muntlig presentation - 15 hp | U–G
 
+## Förkunskapskrav
+
+- 60 hp i energiteknik
+
 ## Övrigt
 
 Studenten ska själv, i samråd med lärare, söka upp och ansöka om praktikplats.   
@@ -101,3 +105,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - Written internship report and oral presentation - 15 Credits | U–G
+
+### Prerequisites
+
+- 60 credits in Energy Technology

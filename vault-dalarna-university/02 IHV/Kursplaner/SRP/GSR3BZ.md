@@ -9,7 +9,7 @@ amne: "Sexuell, reproduktiv och perinatal hälsa"
 amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV]
-scrape_hash: 2ac291c0c0599a43
+scrape_hash: 9f6a9bd31e3e4cf8
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSR3BZ
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
@@ -57,6 +57,10 @@ Betyg rapporteras enligt följande:
   - Individuell skriftlig rapport och seminarium on-line - 2,5 hp | U–G
   - Individuell reflektion med muntlig redovisning on-line - 2 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Engelska 6. Eller: Engelska nivå 2
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -97,3 +101,7 @@ Grades are reported as follows:
   - Written individual assignment - 3 Credits | U–G
   - Written individual report and on-line seminar - 2.5 Credits | U–G
   - Individual reflection with an oral on-line exam - 2 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements and English 6. Or: English level 2

@@ -9,7 +9,7 @@ amne: "Historia"
 amne_kod: "HIA"
 institution: "IKS"
 tags: [kursplan, HIA, IKS]
-scrape_hash: 1c1a471e9dd35ffb
+scrape_hash: 2c21aa644cb6eda5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI35A
 up: "[[Historia MOC]]"
 ---
@@ -123,6 +123,10 @@ Betyg rapporteras enligt följande:
   - De nationella minoriteternas samhällshistoria - 7,5 hp | U–VG
   - Förintelsen: Hjältar, bödlar och åskådare - 7,5 hp | U–VG
   - Historiedidaktik III: Att undervisa i historia - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Historia I med didaktisk inriktning, 30 hp och Historia II med didaktisk inriktning, 22,5 hp
 
 ## Övrigt
 

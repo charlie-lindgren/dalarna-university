@@ -10,7 +10,7 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 7c5930663653359e
+scrape_hash: 36ea03585075044a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G8
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
   - Praktiskt tränarskap - 9 hp | U–VG
   - Tränarskap och reflektion - 6 hp | U–G
 
+## Förkunskapskrav
+
+- 60 hp i huvudområdet idrotts- och hälsovetenskap
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -99,3 +103,7 @@ Grades are reported as follows:
 
   - Practical coaching - 9 Credits | U–VG
   - Coaching and reflection - 6 Credits | U–G
+
+### Prerequisites
+
+- 60 credits in Sport and Health Science

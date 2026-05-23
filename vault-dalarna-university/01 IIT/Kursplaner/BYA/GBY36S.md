@@ -9,7 +9,7 @@ amne: "Byggteknik"
 amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
-scrape_hash: 4dd676463d4f1304
+scrape_hash: 202a159e1b9e26da
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY36S
 up: "[[Byggteknik MOC]]"
 ---
@@ -59,6 +59,10 @@ Betyg rapporteras enligt följande:
 
   - tentamen - 3 hp | U, 3, 4, 5
   - inlämningsuppgift - 2 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

@@ -9,7 +9,7 @@ amne: "Maskinteknik"
 amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT]
-scrape_hash: 9029498390e34955
+scrape_hash: d281a41de223bb95
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34Q
 up: "[[Maskinteknik MOC]]"
 ---
@@ -64,6 +64,10 @@ Betyg rapporteras enligt följande:
   - Salstentamen - 4 hp | U, 3, 4, 5
   - Inlämningsuppgift - 2 hp | U–G
   - Seminarium - 1,5 hp | U–G
+
+## Förkunskapskrav
+
+- Produktionsteknik 7,5 hp
 
 ## Övrigt
 

@@ -9,7 +9,7 @@ amne: "Franska"
 amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
-scrape_hash: 4bcb4e1b1692c188
+scrape_hash: 5d60469b54ba7046
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3GS
 up: "[[Franska MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
 
   - Fransk språkhistoria - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- 60 hp inom huvudområdet Franska inklusive 30 hp i Franska II
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskoder GFR2KQ, GFR2AU och GFR26U.
@@ -112,3 +116,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - History of the French Language - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- 60 credits in the main field of study French, including 30 credits in French II

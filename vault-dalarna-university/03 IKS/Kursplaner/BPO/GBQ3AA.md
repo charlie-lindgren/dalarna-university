@@ -10,7 +10,7 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 91336ac8b7996b11
+scrape_hash: 373c26830a5829dd
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3AA
 up: "[[Bildproduktion MOC]]"
 ---
@@ -60,6 +60,10 @@ Betyg rapporteras enligt följande:
 
   - Filmhistoria - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -99,3 +103,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - Film History - 7.5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

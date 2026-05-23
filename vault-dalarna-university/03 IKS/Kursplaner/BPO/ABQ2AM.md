@@ -10,7 +10,7 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: f5bffb6894a83d0b
+scrape_hash: c857d7b683150f85
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABQ2AM
 up: "[[Bildproduktion MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
   - Gestaltningsprojekt: kommunikation med audiovisuella verktyg eller kontrollenheter. - 2,5 hp | U–G
   - Interaktivt gestaltningsprojekt: samverkande verktyg. - 2,5 hp | U–G
 
+## Förkunskapskrav
+
+- Kandidatexamen i musik, ljud- och musikproduktion, komposition, bildproduktion, audiovisuell produktion, grafisk design eller lärarexamen med inriktning mot medieproduktion alternativt kandidatexamen tillsammans med dokumenterad kunskap om och erfarenhet av produktionsprocesser och aktuell teknologi inom ljud- och/eller bildområdet.
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -110,3 +114,7 @@ Grades are reported as follows:
   - Exercises: create audiovisual compositions, use the standard library, troubleshooting, and versioning. - 2.5 Credits | U–G
   - Design project: communication with other audiovisual tools or controllers. - 2.5 Credits | U–G
   - Interactive design project: cooperating tools. - 2.5 Credits | U–G
+
+### Prerequisites
+
+- Bachelor‘s degree in music, sound and music production, composition, visual production, audiovisual production, graphic design, or teaching degree with a focus on media production, alternatively a bachelor‘s degree combined with documented knowledge and experience of production processes and current technology in the audio and/or visual field.

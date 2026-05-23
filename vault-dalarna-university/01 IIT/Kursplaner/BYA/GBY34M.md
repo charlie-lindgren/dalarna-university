@@ -9,7 +9,7 @@ amne: "Byggteknik"
 amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
-scrape_hash: e9ec98fb6d581693
+scrape_hash: f3ef19ac8fea6a4d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY34M
 up: "[[Byggteknik MOC]]"
 ---
@@ -71,6 +71,10 @@ examensarbetet betyget U.
 Betyg rapporteras enligt följande:
 
   - Examensarbete - 7,5 hp | U–G
+
+## Förkunskapskrav
+
+- 90 hp i programmet Byggteknik - Produktion och förvaltning
 
 ## Övrigt
 

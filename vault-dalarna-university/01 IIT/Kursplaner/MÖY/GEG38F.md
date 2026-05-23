@@ -8,8 +8,9 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
-tags: [kursplan, MÖY, IIT]
-scrape_hash: 28009b85e74676af
+tags: [kursplan, MÖY, IIT, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: e22bb006db13de7d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG38F
 up: "[[Energiteknik MOC]]"
 ---
@@ -58,6 +59,10 @@ Betyg rapporteras enligt följande:
   - Laboration - 0,5 hp | U–G
   - Seminarium - 0,5 hp | U–G
   - Tentamen - 3,5 hp | U, 3, 4, 5
+
+## Förkunskapskrav
+
+- Byggfysik, 7,5 hp
 
 ## Övrigt
 

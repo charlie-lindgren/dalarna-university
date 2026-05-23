@@ -10,7 +10,7 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 45435ae728c1e76f
+scrape_hash: 4b5b9867fede02e1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG33A
 up: "[[Energiteknik MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
   - Muntlig tentamen - 3 hp | U–VG
   - Seminarier - 1 hp | U–G
   - Projekt - 1 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Matematik 3c eller Matematik D, Fysik 2, Engelska 6. Eller: Matematik fortsättning nivå 1c, Fysik nivå 2, Engelska nivå 2
 
 ## Övrigt
 

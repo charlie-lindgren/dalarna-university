@@ -9,7 +9,7 @@ amne: "Spanska"
 amne_kod: "SPA"
 institution: "ISLL"
 tags: [kursplan, SPA, ISLL]
-scrape_hash: 501d1b06bcd08176
+scrape_hash: 61ac70075fb411a0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3GW
 up: "[[Spanska MOC]]"
 ---
@@ -68,6 +68,10 @@ Betyg rapporteras enligt följande:
 
   - Uppsats - 15 hp | U–VG
 
+## Förkunskapskrav
+
+- 54 hp inom huvudområdet spanska varav 24 hp i Spanska II, inklusive Spanska II: Skriftlig språkfärdighet och grammatik, 6 hp, Spanska II: Akademiskt skrivande, 6 hp och Spanska II: Språklig variation i den spansktalande världen, 6 hp
+
 ## Övrigt
 
 Det rekommenderas att läsa denna kurs efter att ha avslutat kursen _Spanska III Lingvistisk inriktning: Människan, språket och samhället. Spansk sociolingvistik_, 15 hp.
@@ -117,3 +121,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Thesis - 15 Credits | U–VG
+
+### Prerequisites
+
+- 54 credits in the main field of study Spanish with 24 credits in Spanish II, including Spanish II: Written Language Proficiency and Grammar, 6 credits, Spanish II: Academic Writing, 6 credits and Spanish II: Linguistic Variation in the Spanish Speaking World, 6 credits

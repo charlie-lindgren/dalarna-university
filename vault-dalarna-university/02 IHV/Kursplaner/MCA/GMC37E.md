@@ -9,7 +9,7 @@ amne: "Medicinsk vetenskap"
 amne_kod: "MCA"
 institution: "IHV"
 tags: [kursplan, MCA, IHV]
-scrape_hash: ab3d4fe6020b0bfc
+scrape_hash: 34c45d250e82441a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC37E
 up: "[[Medicinsk vetenskap MOC]]"
 ---
@@ -56,6 +56,10 @@ Betyg rapporteras enligt följande:
   - Nervsystemet och sinnen - 2 hp | U–G
   - Matspjälkning och näringshantering - 1,5 hp | U–G
   - Njurar och urinvägar - 1,5 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Matematik 2a eller 2b eller 2c, Naturkunskap 2, Samhällskunskap 1b eller 1a1+1a2. Eller: Matematik nivå 2a eller nivå 2b eller nivå 2c, Naturkunskap nivå 2, Samhällskunskap nivå 1b eller nivå 1a2
 
 ## Övrigt
 

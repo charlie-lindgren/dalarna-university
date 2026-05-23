@@ -9,7 +9,7 @@ amne: "Svenska som andraspråk"
 amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
-scrape_hash: 8158e382e351fb0a
+scrape_hash: da34cea1fd380ba1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HB
 up: "[[Svenska som andraspråk MOC]]"
 ---
@@ -134,6 +134,10 @@ Betyg rapporteras enligt följande:
   - Sociolingvistiska perspektiv på modersmålsundervisning - 7,5 hp | U–VG
   - Flerspråkiga perspektiv på skriftspråksutveckling - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen är relevant för blivande modersmålslärare, studiehandledare och övriga som arbetar i flerspråkiga utbildningssammanhang.
@@ -166,3 +170,7 @@ Grades are reported as follows:
   - Language didactics with a focus on the mother tongue and multilingualism - 7.5 Credits | U–VG
   - Sociolinguistic perspectives on mother tongue instruction - 7.5 Credits | U–VG
   - Multilingual perspectives on written language development - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements

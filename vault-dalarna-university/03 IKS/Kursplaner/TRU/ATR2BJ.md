@@ -9,7 +9,7 @@ amne: "Turismvetenskap"
 amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
-scrape_hash: 0f7b8d1bde80b369
+scrape_hash: 894eafea61f042da
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATR2BJ
 up: "[[Turismvetenskap MOC]]"
 ---
@@ -67,6 +67,10 @@ Betyg rapporteras enligt följande:
   - Lägesrapport och reflektion kring hållbarhet och eget lärande - 3 hp | U–G
   - Kritisk analys och diskussion av projektarbete - 6 hp | A–F
 
+## Förkunskapskrav
+
+- 30 hp på avancerad nivå inom huvudområdet turismvetenskap
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -113,3 +117,7 @@ Grades are reported as follows:
   - Formulation and discussion of a project plan - 3 Credits | U–G
   - Progress report and reflection on sustainability and own learning - 3 Credits | U–G
   - Critical analysis and discussion of project - 6 Credits | A–F
+
+### Prerequisites
+
+- 30 credits in the Main Field of Study Tourism Studies at second Level

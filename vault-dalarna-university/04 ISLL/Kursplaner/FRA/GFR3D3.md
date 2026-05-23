@@ -9,7 +9,7 @@ amne: "Franska"
 amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
-scrape_hash: 99caf735c03e8625
+scrape_hash: 57f2c3cc40707d4d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3D3
 up: "[[Franska MOC]]"
 ---
@@ -244,6 +244,10 @@ Betyg rapporteras enligt följande:
   - Språkdidaktik 2A, muntlig och skriftlig redovisning - 6 hp | U–VG
   - Språkdidaktik 2B, muntlig och skriftlig redovisning - 6 hp | U–VG
 
+## Förkunskapskrav
+
+- Franska I med didaktisk inriktning, 22,5 hp, inklusive delkurserna Skriftlig språkfärdighet I, 7,5 hp och Språkdidaktik, 6 hp
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskoder GFR2R4, GFR2JD, GFR27E och GFR24D.
@@ -470,3 +474,7 @@ Grades are reported as follows:
   - Language Learning and Teaching 1B - 6 Credits | U–VG
   - Language Learning and Teaching 2A - 6 Credits | U–VG
   - Language Learning and Teaching 2B - 6 Credits | U–VG
+
+### Prerequisites
+
+- French I for Teacher Education Students, 22.5, including the modules Written Language Proficiency I, 7.5 credits and Language Learning and Teaching, 6 credits

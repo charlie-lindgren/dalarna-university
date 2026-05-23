@@ -8,11 +8,11 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
-tags: [kursplan, PGA, IKS, vilande]
-scrape_hash: b3925daf1e88b644
+tags: [kursplan, PGA, IKS, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: 240217cdb51d1628
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2CC
 up: "[[Pedagogiskt arbete MOC]]"
-cssclasses: [vilande]
 ---
 
 # APG2CC
@@ -66,6 +66,10 @@ Betyg rapporteras enligt följande:
 
   - Mentorsutbildning för en kvalitativ introduktionsperiod - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- Legitimerad förskollärare, lärare eller lärare i fritidshem. Dokumenterad sex års erfarenhet av arbete i förskola, skola eller fritidshem.
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -81,3 +85,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - Assignments, oral presentations - 7.5 Credits | U–G
+
+### Prerequisites
+
+- Licensed preschool teacher, teacher or teacher in after-school center. Documented six years of experience working in preschool, school or after-school center.

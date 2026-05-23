@@ -10,7 +10,7 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: ab2cf781cc6e1629
+scrape_hash: 268b3719cf8efd8c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YK
 up: "[[Informatik MOC]]"
 ---
@@ -66,6 +66,10 @@ Betyg rapporteras enligt följande:
 
   - Laborationsrapport - 4 hp | U–G
   - Hemtentamen - 3,5 hp | U–G
+
+## Förkunskapskrav
+
+- Programutvecklingsteknik 7,5 hp eller annan programmeringskurs 7,5 hp
 
 ## Övrigt
 

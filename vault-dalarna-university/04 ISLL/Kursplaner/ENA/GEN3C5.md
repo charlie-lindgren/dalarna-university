@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: f697092ce5b95e93
+scrape_hash: 8d34554924724dcc
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3C5
 up: "[[Engelska MOC]]"
 ---
@@ -60,6 +60,10 @@ Betyg rapporteras enligt följande:
   - Form och funktion - 6 hp | U–VG
   - Litteratur, identitet och kultur - 6 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet (med undantag för kravet på svenska för dig med utländska betyg) samt Engelska 6. Eller: Engelska nivå 2
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskoder GEN2VE och EN1120 samt kursen _Engelskspråkig litteratur och kultur_, 15 hp.
@@ -102,3 +106,7 @@ Grades are reported as follows:
 
   - Form and Function - 6 Credits | U–VG
   - Literature, Identity and Culture - 6 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades) and English 6. Or: English level 2

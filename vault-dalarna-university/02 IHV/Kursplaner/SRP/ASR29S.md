@@ -9,7 +9,7 @@ amne: "Sexuell, reproduktiv och perinatal hälsa"
 amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV]
-scrape_hash: bcd78055508eb570
+scrape_hash: 52d10597880d4f0b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29S
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
@@ -68,6 +68,10 @@ Som betygsskala på hel kurs används U–G.
 Betyg rapporteras enligt följande:
 
   - Examensarbete - 15 hp | U–G
+
+## Förkunskapskrav
+
+- Kandidatexamen 180 hp i huvudområde vårdvetenskap alternativt omvårdnad och kurserna Profession, teori och metod 7,5 hp, Sexuell och reproduktiv hälsa 9 hp, Graviditet, förlossning och postpartumvård I 7,5 hp samt Graviditet, förlossning och postpartumvård II 6 hp
 
 ## Övrigt
 

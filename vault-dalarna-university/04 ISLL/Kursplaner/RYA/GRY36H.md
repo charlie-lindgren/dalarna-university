@@ -10,7 +10,7 @@ amne_kod: "RYA"
 institution: "ISLL"
 tags: [kursplan, RYA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 2bfdad50bc99f63d
+scrape_hash: 59886711d0616d0a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY36H
 up: "[[Ryska MOC]]"
 ---
@@ -57,6 +57,10 @@ Betyg rapporteras enligt följande:
 
   - Seminarier - 6 hp | U–VG
   - Skriftliga inlämningsuppgifter - 1,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

@@ -10,7 +10,7 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 095a47b4759082e7
+scrape_hash: a6fa18d16bdaa44e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3E2
 up: "[[Medieproduktion MOC]]"
 ---
@@ -79,6 +79,10 @@ Betyg rapporteras enligt följande:
   - Dramaturgins idéer och strukturer - 5 hp | U–G
   - Manusskrivande och reflektion - 10 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Överlappar BQ1079
@@ -97,3 +101,7 @@ Grades are reported as follows:
 
   - The Ideas and Structures of Dramaturgy - 5 Credits | U–G
   - Scriptwriting and Reflection - 10 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 373e4babc3d3aba6
+scrape_hash: 4ad56476efb3d078
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3E4
 up: "[[Medieproduktion MOC]]"
 ---
@@ -64,6 +64,10 @@ Betyg rapporteras enligt följande:
   - Studioinspelningar 2 - 3 hp | U–G
   - Musikinspelningsanalys - 3 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Första studioinspelningsarbetet (_Studioinspelningar 1_. 4,5 hp) innehåller inspelning i grupp och efterarbete individuellt. Vid frånvaro från grupparbetet hänvisas studenten till nästkommande kurstillfälle.
@@ -86,3 +90,7 @@ Grades are reported as follows:
   - Studio Recordings 1 - 4.5 Credits | U–G
   - Studio Recordings 2 - 3 Credits | U–G
   - Music Recording Analysis - 3 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

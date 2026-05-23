@@ -9,7 +9,7 @@ amne: "Socialt arbete"
 amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
-scrape_hash: cd29ce39c0f19e21
+scrape_hash: 4bed43659571249f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA28Q
 up: "[[Socialt arbete MOC]]"
 ---
@@ -74,6 +74,10 @@ Som betygsskala används U - G.
 Betyg rapporteras enligt följande:
 
   - Seminarier och skriftliga examinationer - 7,5 hp | U–G
+
+## Förkunskapskrav
+
+- 90 hp i Socialt arbete eller Social omsorg, inklusive ett examensarbete omfattande minst 15 hp
 
 ## Övrigt
 

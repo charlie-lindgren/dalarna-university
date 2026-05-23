@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: 3cc1e6f255c18007
+scrape_hash: 888af64c5c66b51c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32N
 up: "[[Informatik MOC]]"
 ---
@@ -68,6 +68,11 @@ Betyg rapporteras enligt följande:
   - Inlämningsuppgift: teori - 1 hp | U–G
   - Inlämningsuppgift: produktion - 5 hp | U–G
   - Inlämningsuppgift: reflektion - 1,5 hp | U–G
+
+## Förkunskapskrav
+
+- Digital bild 7,5 hp
+  - Grafisk design 7,5 hp
 
 ## Övrigt
 

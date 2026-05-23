@@ -10,7 +10,7 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 0890859fe25ec37c
+scrape_hash: ed50339cdb8bfdc9
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3DL
 up: "[[Franska MOC]]"
 ---
@@ -390,6 +390,10 @@ Betyg rapporteras enligt följande:
   - Franskspråkig litteratur och litteraturanalys - 7,5 hp | U–G
   - Uppsats - 15 hp | U–G
 
+## Förkunskapskrav
+
+- Lärarexamen samt huvudmannens godkännande
+
 ## Övrigt
 
 Denna utbildning är en uppdragsutbildning och får endast sökas av lärare som deltar i Lärarlyftet.   
@@ -714,3 +718,7 @@ Grades are reported as follows:
   - History of the French Language - 7.5 Credits | U–G
   - Literature in French and Literary Analysis - 7.5 Credits | U–G
   - Essay - 15 Credits | U–G
+
+### Prerequisites
+
+- A Teachers Education and documented approval from the employer

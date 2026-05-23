@@ -9,7 +9,7 @@ amne: "Omvårdnad"
 amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
-scrape_hash: e687ca586716853f
+scrape_hash: f5e32d0a2db3eba3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ38A
 up: "[[Omvårdnad MOC]]"
 ---
@@ -73,6 +73,10 @@ Betyg rapporteras enligt följande:
 
   - Examensarbete i omvårdnad - 15 hp | U–G
 
+## Förkunskapskrav
+
+- 135 hp omvårdnad och medicinsk vetenskap varav 60 hp omvårdnad inklusive Metoder för evidensbaserad vård I 7,5 hp och Metoder för evidensbaserad vård II 7,5 hp
+
 ## Övrigt
 
 Systematisk plagiatkontroll genomförs av samtliga arbeten i samband med inlämning.
@@ -129,3 +133,7 @@ Grade is reported as:
 Grades are reported as follows:
 
   - Thesis in Nursing Science - 15 Credits | U–G
+
+### Prerequisites
+
+- 135 credits in nursing science and medical science with 60 credits in nursing science including Methods for Evidence-Based Nursing I 7.5 credits and Methods for Evidence-Based Nursing II 7.5 credits

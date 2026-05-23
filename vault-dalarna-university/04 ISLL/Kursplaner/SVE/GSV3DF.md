@@ -9,7 +9,7 @@ amne: "Svenska"
 amne_kod: "SVE"
 institution: "ISLL"
 tags: [kursplan, SVE, ISLL]
-scrape_hash: 9198b3dd08b351f9
+scrape_hash: 6b482a984967dd02
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DF
 up: "[[Svenska MOC]]"
 ---
@@ -140,6 +140,10 @@ Betyg rapporteras enligt följande:
   - Vetenskapligt skrivande - 7,5 hp | U–VG
   - Svenskämnets identitet och uppdrag - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Svenska med didaktisk inriktning I, 30 hp och Svenska med didaktisk inriktning II, 15 hp
+
 ## Övrigt
 
 I kursen ingår en obligatorisk träff om 2–3 dagar på campus, som omfattar examinerande moment. För dessa examinerande moment erbjuds omexamination först vid campusträffen i samband med nästa kurstillfälle.  
@@ -175,3 +179,7 @@ Grades are reported as follows:
   - Literature: Theories, Methods for Analysis and Didactical Perspectives - 7.5 Credits | U–VG
   - Academic Writing - 7.5 Credits | U–VG
   - Swedish as a School Subject - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Swedish for Teacher Education Students I, 30 credits and Swedish for Teacher Education Students II, 15 credits

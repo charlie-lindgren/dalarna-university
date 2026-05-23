@@ -9,7 +9,7 @@ amne: "Kulturgeografi"
 amne_kod: "KGA"
 institution: "IKS"
 tags: [kursplan, KGA, IKS]
-scrape_hash: a2e0104c0776c8ab
+scrape_hash: 8f4e40340597065b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG3A3
 up: "[[Kulturgeografi MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
 
   - Geografiska Informationssystem (GIS) 1: Introduktion - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Överlappar TR1019 och GSQ2L9.
@@ -102,3 +106,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Geographic Information Systems (GIS) 1: Introduction - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements

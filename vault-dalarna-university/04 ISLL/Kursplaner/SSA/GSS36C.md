@@ -9,7 +9,7 @@ amne: "Svenska som andraspråk"
 amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
-scrape_hash: abe568c740a9ff91
+scrape_hash: d24a3579873b1fec
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS36C
 up: "[[Svenska som andraspråk MOC]]"
 ---
@@ -62,6 +62,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Sociolingvistik i ett flerspråkigt perspektiv - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Engelska 6. Eller: Engelska nivå 2
 
 ## Övrigt
 

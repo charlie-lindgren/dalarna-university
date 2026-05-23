@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: c40ecb4b11533e41
+scrape_hash: 5fa21e239e634b5b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3ED
 up: "[[Medieproduktion MOC]]"
 ---
@@ -63,6 +63,10 @@ Betyg rapporteras enligt följande:
 
   - Uppsats i medieproduktion - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- 30 hp i Medieproduktion inklusive Introduktion till medieproduktion 15 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -78,3 +82,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - Media Production Thesis - 7.5 Credits | U–G
+
+### Prerequisites
+
+- 30 credits in Media Production including Introduction to media production 15 credits

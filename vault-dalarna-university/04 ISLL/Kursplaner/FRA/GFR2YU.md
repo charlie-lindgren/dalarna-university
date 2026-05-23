@@ -9,7 +9,7 @@ amne: "Franska"
 amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
-scrape_hash: 8fcd3aefa8e9e50b
+scrape_hash: 64e23f403ed00bc0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2YU
 up: "[[Franska MOC]]"
 ---
@@ -64,6 +64,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Seminarier, muntliga redovisningar, skriftliga reflekterande texter - 6 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Franska 3. Eller: Franska forsättning nivå 1
 
 ## Övrigt
 

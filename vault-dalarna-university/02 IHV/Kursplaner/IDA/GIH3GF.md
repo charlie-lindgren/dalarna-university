@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: 01b19b086425b2ac
+scrape_hash: 178656a7563b719a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GF
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -57,6 +57,10 @@ Betyg rapporteras enligt följande:
 
   - Medier och kommunikation inom idrott - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -94,3 +98,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Media and communication within sports - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements

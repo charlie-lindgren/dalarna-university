@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: bb71441b01b157c0
+scrape_hash: 687c06b627630740
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3C2
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -58,6 +58,10 @@ Betyg rapporteras enligt följande:
   - Sportreportage - 4,5 hp | U–G
   - Sportkommentering - 3 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -98,3 +102,7 @@ Grades are reported as follows:
 
   - sport reportage - 4.5 Credits | U–G
   - SPort commentary - 3 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

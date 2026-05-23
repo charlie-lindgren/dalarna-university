@@ -9,7 +9,7 @@ amne: "Svenska som andraspråk"
 amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
-scrape_hash: 8e168d144ffe9df2
+scrape_hash: 452b6ed11704ee78
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3BJ
 up: "[[Svenska som andraspråk MOC]]"
 ---
@@ -64,6 +64,10 @@ Betyg rapporteras enligt följande:
   - Uttal, prosodi och muntlig framställning - 3,5 hp | U–VG
   - Grammatik och skriftlig framställning - 4 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande svenska som andraspråk II (nivå CEFR A2.2), 7,5 hp
+
 ## Övrigt
 
 Denna kurs överlappar kursen _Nybörjarsvenska för internationella studenter III_, 7,5 hp.
@@ -112,3 +116,7 @@ Grades are reported as follows:
 
   - Pronunciation, prosody and oral presentation - 3.5 Credits | U–VG
   - Grammar and written presentation - 4 Credits | U–VG
+
+### Prerequisites
+
+- Basic Swedish as a second language II (level CEFR A2.2), 7.5 credits

@@ -10,7 +10,7 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 41a6c602132f137a
+scrape_hash: 774a2471efdd8ba0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JQ
 up: "[[Maskinteknik MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
   - Laboration - 2 hp | U–G
   - Projektarbete - 3 hp | U–G
 
+## Förkunskapskrav
+
+- Mekanik 7,5 hp och Maskinelement 7,5 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -103,3 +107,7 @@ Grades are reported as follows:
   - Written exam - 2.5 Credits | U, 3, 4, 5
   - Laboratories - 2 Credits | U–G
   - Project - 3 Credits | U–G
+
+### Prerequisites
+
+- Mechanics 7.5 credits and Machine Elements 7.5 credits

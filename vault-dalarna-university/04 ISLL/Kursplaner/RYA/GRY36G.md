@@ -10,7 +10,7 @@ amne_kod: "RYA"
 institution: "ISLL"
 tags: [kursplan, RYA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: be800984ea3a63f1
+scrape_hash: 52b1e4366f9ed3d3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY36G
 up: "[[Ryska MOC]]"
 ---
@@ -58,6 +58,10 @@ Betyg rapporteras enligt följande:
   - Perioden 1908-1980 - 6 hp | U–VG
   - Perioden 1980 och framåt - 6 hp | U–VG
   - Skriftliga inlämningsuppgifter - 3 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

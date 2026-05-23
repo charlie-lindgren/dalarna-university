@@ -10,7 +10,7 @@ amne_kod: "SVE"
 institution: "ISLL"
 tags: [kursplan, SVE, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 67fbc902672ac373
+scrape_hash: 95914234126376bc
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3JE
 up: "[[Svenska MOC]]"
 ---
@@ -72,6 +72,10 @@ Betyg rapporteras enligt följande:
 
   - Språk-, läs- och skrivutveckling i åldrarna 5–9 år - 15 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 För nätbaserad kurs krävs att den studerande kan kommunicera med ljud och bild via en dator eller motsvarande.
@@ -91,3 +95,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - Language, reading and writing development in ages 5–9 - 15 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

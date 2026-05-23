@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: a5094111aadb32cb
+scrape_hash: 459d2ee11880b7c3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EE
 up: "[[Medieproduktion MOC]]"
 ---
@@ -60,6 +60,10 @@ Betyg rapporteras enligt följande:
   - Muntlig mediereflektion - 3 hp | U–G
   - Skriftlig medieanalys - 4,5 hp | U–G
 
+## Förkunskapskrav
+
+- 22,5 hp inom huvudområdet Medieproduktion inklusive Audiovisuella perspektiv 7,5 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -76,3 +80,7 @@ Grades are reported as follows:
 
   - Oral Media Reflection - 3 Credits | U–G
   - Written Media Analysis - 4.5 Credits | U–G
+
+### Prerequisites
+
+- 22.5 credits in the main field of study, Media production including Audiovisual Perspectives 7.5 credits

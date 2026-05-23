@@ -9,7 +9,7 @@ amne: "Franska"
 amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
-scrape_hash: 992490eb9a2e6ebd
+scrape_hash: eaf0cd96378bd216
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3CY
 up: "[[Franska MOC]]"
 ---
@@ -66,6 +66,10 @@ Betyg rapporteras enligt följande:
   - Begrepp och teorier inom lingvistik - 3,5 hp | U–VG
   - Akademiskt skrivande - 4 hp | U–VG
 
+## Förkunskapskrav
+
+- 25 hp inom huvudområdet Franska, inklusive Franska: Skriftlig språkfärdighet I, 7,5 hp och Franska I: Muntlig språkfärdighet, 7,5 hp. Undantag för svenska kan ges.
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskoder GFR27Q och GFR26T samt kurserna _Franska: Akademiskt skrivande,_ 7,5 hp och _Franska: Introduktion till lingvistik_, 7,5 hp.
@@ -114,3 +118,7 @@ Grades are reported as follows:
 
   - Concepts and Theories in Linguistics - 3.5 Credits | U–VG
   - Academic Writing - 4 Credits | U–VG
+
+### Prerequisites
+
+- 25 credits within the main field of study French, including French: Written Language Proficiency I, 7.5 credits and French I: Oral Language Proficiency, 7.5 credits. Exemption from Swedish can be given.

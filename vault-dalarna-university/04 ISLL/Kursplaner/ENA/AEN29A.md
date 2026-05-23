@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: 928ea33cf0a59d45
+scrape_hash: 3fe2908c47d6f0c5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN29A
 up: "[[Engelska MOC]]"
 ---
@@ -60,6 +60,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Konflikt och kreativitet i engelskspråkig litteratur - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- 90 hp inom huvudområdet engelska, inklusive 30 hp i Engelska III
 
 ## Övrigt
 

@@ -9,7 +9,7 @@ amne: "Kulturgeografi"
 amne_kod: "KGA"
 institution: "IKS"
 tags: [kursplan, KGA, IKS]
-scrape_hash: 16afdf4eeed20692
+scrape_hash: 772ea3a268f89e07
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG3AT
 up: "[[Kulturgeografi MOC]]"
 ---
@@ -59,6 +59,10 @@ Betyg rapporteras enligt följande:
 
   - Geografiska Informationssystem (GIS) 2: Rumslig analys - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- 7,5 hp i Geografiska informationssystem
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -98,3 +102,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Geographic Information Systems (GIS) 2: Spatial analysis - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- 7,5 credits in Geographic Information Systems

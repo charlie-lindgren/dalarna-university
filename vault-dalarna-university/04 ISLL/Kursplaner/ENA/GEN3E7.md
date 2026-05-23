@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: e4baaf571040d23d
+scrape_hash: eaa1de5043a9d763
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3E7
 up: "[[Engelska MOC]]"
 ---
@@ -68,6 +68,10 @@ Betyg rapporteras enligt följande:
   - Litteratur- och idéhistoria från renässans till postmodernism - 10 hp | U–VG
   - Uppsats - 5 hp | U–VG
 
+## Förkunskapskrav
+
+- 6 hp Engelskspråkig litteratur från Engelska I
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskod EN1130.
@@ -118,3 +122,7 @@ Grades are reported as follows:
 
   - History of Literature and Ideas from Renaissance to Postmodernism - 10 Credits | U–VG
   - Essay - 5 Credits | U–VG
+
+### Prerequisites
+
+- 6 credits from Literature in English on English I level

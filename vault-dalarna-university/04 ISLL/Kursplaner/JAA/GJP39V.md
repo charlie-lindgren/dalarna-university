@@ -9,7 +9,7 @@ amne: "Japanska"
 amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
-scrape_hash: 1d2cc5b13572194e
+scrape_hash: 4e4518510c5339f8
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP39V
 up: "[[Japanska MOC]]"
 ---
@@ -63,6 +63,10 @@ Betyg rapporteras enligt följande:
 
   - Seminarier och uppgifter - 5 hp | A–F
   - Uppsats - 2,5 hp | A–F
+
+## Förkunskapskrav
+
+- Grundläggande behörighet (med undantag för kravet på svenska för dig med utländska betyg) samt Engelska 6. Eller: Engelska nivå 2
 
 ## Övrigt
 

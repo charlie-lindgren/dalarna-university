@@ -9,7 +9,7 @@ amne: "Rättsvetenskap"
 amne_kod: "RVA"
 institution: "IKS"
 tags: [kursplan, RVA, IKS]
-scrape_hash: 550ed6d55b97e00f
+scrape_hash: 2add71d583527188
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRV3BF
 up: "[[Rättsvetenskap MOC]]"
 ---
@@ -64,6 +64,10 @@ Betyg rapporteras enligt följande:
   - Onlinetentamen - 2,5 hp | U–VG
   - Inlämningsuppgifter - 5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen överlappar med RV1054.
@@ -100,3 +104,7 @@ Grades are reported as follows:
 
   - Online exam - 2.5 Credits | U–VG
   - Assignments - 5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

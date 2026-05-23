@@ -10,7 +10,7 @@ amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 74de6a9154216706
+scrape_hash: 01f89703ce75e4c5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR3A4
 up: "[[Turismvetenskap MOC]]"
 ---
@@ -66,6 +66,10 @@ Betyg rapporteras enligt följande:
   - Planering av kvantitativ studie - 2,5 hp | A–F
   - Statistisk analys - 2,5 hp | A–F
 
+## Förkunskapskrav
+
+- 60 hp inom samhällsvetenskapligt område
+
 ## Övrigt
 
 Ersätter TR2004.
@@ -113,3 +117,7 @@ Grades are reported as follows:
   - Quantitative methods - 2.5 Credits | A–F
   - Planning of quantitative study - 2.5 Credits | A–F
   - Statistical analysis - 2.5 Credits | A–F
+
+### Prerequisites
+
+- 60 credits in the field of Social Sciences

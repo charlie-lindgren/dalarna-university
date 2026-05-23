@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: 1157764d74c17ccb
+scrape_hash: 136d8b899923ae72
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG29N
 up: "[[Energiteknik MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
 
   - Inlämningsuppgifter - 4 hp | U–G
   - Projektuppgifter - 3,5 hp | U–G
+
+## Förkunskapskrav
+
+- Solel, 7,5 hp, avancerad nivå
 
 ## Övrigt
 

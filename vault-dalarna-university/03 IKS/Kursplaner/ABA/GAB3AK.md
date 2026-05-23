@@ -10,7 +10,7 @@ amne_kod: "ABA"
 institution: "IKS"
 tags: [kursplan, ABA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: e9a0159638c3881e
+scrape_hash: d0ce847fb02b85c5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3AK
 up: "[[Arbetsvetenskap MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
 
   - Kommunal styrning och förändringsarbete - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen ges som uppdragsutbildning. Samtliga seminarier är obligatoriska.
@@ -82,3 +86,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - Municipal Governance and Development - 7.5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

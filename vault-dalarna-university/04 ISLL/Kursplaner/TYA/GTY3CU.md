@@ -9,7 +9,7 @@ amne: "Tyska"
 amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
-scrape_hash: 5d84656f64c25224
+scrape_hash: b6fa29e1f1d96ee0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3CU
 up: "[[Tyska MOC]]"
 ---
@@ -219,6 +219,10 @@ Betyg rapporteras enligt följande:
   - Språkdidaktik 2A - 6 hp | U–VG
   - Språkdidaktik 2B - 6 hp | U–VG
 
+## Förkunskapskrav
+
+- Tyska I med didaktisk inriktning, 22,5 hp, inklusive delkurserna Skriftlig språkfärdighet I, 6 hp och Språkdidaktik, 6 hp
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskod GTY2GY.
@@ -419,3 +423,7 @@ Grades are reported as follows:
   - Language Learning and Teaching 1B - 6 Credits | U–VG
   - Language Learning and Teaching 2A - 6 Credits | U–VG
   - Language Learning and Teaching 2B - 6 Credits | U–VG
+
+### Prerequisites
+
+- German I for Teacher Education Students, 22.5 credits, including the modules Written Language Proficiency I, 6 credits and Language Learning and Teaching, 6 credits

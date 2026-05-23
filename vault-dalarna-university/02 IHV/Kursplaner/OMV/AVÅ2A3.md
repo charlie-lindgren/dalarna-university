@@ -9,7 +9,7 @@ amne: "Omvårdnad"
 amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
-scrape_hash: 3522c339ef3f22d0
+scrape_hash: d23df52a98c3bddf
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ2A3
 up: "[[Omvårdnad MOC]]"
 ---
@@ -58,6 +58,10 @@ Som betygsskala på hel kurs används U–G.
 Betyg rapporteras enligt följande:
 
   - Evidensbaserad vård och ledarskap - 7,5 hp | U–G
+
+## Förkunskapskrav
+
+- Av Socialstyrelsen utfärdad svensk legitimation som sjuksköterska samt kandidatexamen eller sjuksköterskeexamen om minst 180 hp med minst 90 hp inom ämnet omvårdnadsvetenskap/vårdvetenskap varav 15 hp utgörs av ett examensarbete
 
 ## Övrigt
 

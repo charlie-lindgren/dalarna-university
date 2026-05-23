@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 39092ff3ce1b87b4
+scrape_hash: 668bff80c532d6e4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3ER
 up: "[[Medieproduktion MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
 
   - Konstnärliga skrivmetoder och processer - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- 75 hp inom medieproduktion inklusive Dokumentärt berättande 7,5 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -76,3 +80,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - Artistic Writing Methods and Processes - 7.5 Credits | U–G
+
+### Prerequisites
+
+- 75 credits in Media Production including Documentary Narration 7.5 credits

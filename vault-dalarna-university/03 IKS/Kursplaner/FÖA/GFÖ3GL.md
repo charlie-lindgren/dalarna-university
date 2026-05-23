@@ -9,7 +9,7 @@ amne: "Företagsekonomi"
 amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
-scrape_hash: 714aae954b0a7d7f
+scrape_hash: b3c585cdfffb3997
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ3GL
 up: "[[Företagsekonomi MOC]]"
 ---
@@ -76,6 +76,10 @@ Betyg rapporteras enligt följande:
   - Operationalisering - 2 hp | U–G
   - Tillämpa metod - 2 hp | U–VG
 
+## Förkunskapskrav
+
+- 7,5 hp företagsekonomi
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -132,3 +136,7 @@ Grades are reported as follows:
   - Problematisation - 1 Credit | U–G
   - Operationalisation - 2 Credits | U–G
   - Applying Method - 2 Credits | U–VG
+
+### Prerequisites
+
+- 7.5 credits in business administration

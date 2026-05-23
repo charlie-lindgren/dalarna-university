@@ -9,7 +9,7 @@ amne: "Religionsvetenskap"
 amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
-scrape_hash: 1d6aa4718d50ef14
+scrape_hash: 8c32e7b57a7b565d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK32C
 up: "[[Religionsvetenskap MOC]]"
 ---
@@ -56,6 +56,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Religionsdidaktik - 6 hp | U–VG
+
+## Förkunskapskrav
+
+- Religionsvetenskap I, 30 hp
 
 ## Övrigt
 

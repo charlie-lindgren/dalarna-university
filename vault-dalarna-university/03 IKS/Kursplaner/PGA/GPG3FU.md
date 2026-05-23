@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: e14c169499eec564
+scrape_hash: 513640e5013aaa03
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FU
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -59,6 +59,10 @@ Betyg rapporteras enligt följande:
 
   - Utvärdering och utvecklingsarbete - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Antagen till VAL-utbildning samt 30 hp i pedagogiskt arbete
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -74,3 +78,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Evalution and Developement - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Admitted to CPD Education for Teachers and at least 30 credits in educational work

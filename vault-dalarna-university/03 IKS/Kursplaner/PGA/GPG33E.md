@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 4d6a88a60089e600
+scrape_hash: 6c787cfcb32f3eb0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG33E
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -64,6 +64,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Sociala relationer, skolans historiska utveckling och samhällsuppdrag - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Antagen till VAL-utbildning
 
 ## Övrigt
 

@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 82f30c46711a0787
+scrape_hash: e3daf2c5b04da87a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2Z6
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -60,6 +60,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Sociala relationer och konflikthantering - VAL - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Antagen till VAL-utbildning
 
 ## Övrigt
 

@@ -9,11 +9,10 @@ up: "[[ISLL MOC]]"
 
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (10 st)
+## Kurser (9 st)
 
 - [[ASV29Z]] — Examensarbete i svenska för ämneslärarexamen, inriktning gymnasieskolan
 - [[ASV2A2]] — Examensarbete i svenska för ämneslärarexamen, inriktning grundskolans årskurs 7–9
-- [[GSV2P9]] — Läs- och skrivinlärning för förskollärare i förskoleklass
 - [[GSV2ZU]] — Svenska 1 för grundlärare 4-6
 - [[GSV2ZV]] — Svenska 1 för grundlärare F-3
 - [[GSV2ZW]] — Svenska 2 för grundlärare F-3
@@ -22,13 +21,11 @@ up: "[[ISLL MOC]]"
 - [[GSV3DE]] — Svenska med didaktisk inriktning II
 - [[GSV3DF]] — Svenska med didaktisk inriktning III för gymnasieskolan
 
-## Vilande kursplaner (6 st)
+## Vilande kursplaner (4 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[ASV2CP]] — Språk-, läs- och skrivdidaktisk fördjupning för undervisning i förskoleklass och årskurs 1–3 utifrån första- och andraspråksperspektiv
 - [[ASV2CQ]] — Språk-, läs- och skrivdidaktisk fördjupning för undervisning i årskurs 4–6 utifrån första- och andraspråksperspektiv
-- [[GSV2BN]] — Svenska: Text och tal
-- [[GSV2BP]] — Svenska: Barn- och ungdomslitteratur i samhällsdialog
 - [[GSV3FP]] — Språk-, läs- och skrivutveckling i förskoleklass och årskurs 1–3 utifrån första- och andraspråksperspektiv
 - [[GSV3JE]] — Språk-, läs- och skrivutveckling i åldrarna 5–9 år

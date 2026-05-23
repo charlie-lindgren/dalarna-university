@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 004ef156da2c2d06
+scrape_hash: 987865e1eae2e808
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2CL
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -64,6 +64,10 @@ Betyg rapporteras enligt följande:
   - Undervisningsskicklighet i teori - 4,5 hp | U–G
   - Undervisningsskicklighet i praktik - 3 hp | U–G
 
+## Förkunskapskrav
+
+- Verksam legitimerad lärare i grundskola årskurs 7-9, gymnasieskola och motsvarande skolformer samt vuxenutbildning med minst ett års arbetslivserfarenhet som lärare efter behörighetsgivande examen
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -80,3 +84,7 @@ Grades are reported as follows:
 
   - Teaching skills in theory - 4.5 Credits | U–G
   - Teaching skills in practice - 3 Credits | U–G
+
+### Prerequisites
+
+- Practicing licensed teacher in lower secondary school (grades 7–9), upper secondary school, and equivalent school forms, as well as adult education, with at least one year of work experience as a teacher after obtaining the qualifying degree

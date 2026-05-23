@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: 844e2a409c7a9fb6
+scrape_hash: 4621c47a440a3f4b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZE
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -52,6 +52,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Skriftlig inlämningsuppgift - 4,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Antagen till VAL-utbildning
 
 ## Övrigt
 

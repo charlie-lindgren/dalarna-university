@@ -9,7 +9,7 @@ amne: "Spanska"
 amne_kod: "SPA"
 institution: "ISLL"
 tags: [kursplan, SPA, ISLL]
-scrape_hash: 3fa8ce9101b81959
+scrape_hash: 76c4954dd7fec64c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2YT
 up: "[[Spanska MOC]]"
 ---
@@ -59,6 +59,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Seminarier, skriftliga inlämningsuppgifter - 6 hp | U–VG
+
+## Förkunskapskrav
+
+- 22,5 hp inom huvudområdet spanska, inklusive kursen Spanska I: Skriftlig språkfärdighet och grammatik, 7,5 hp
 
 ## Övrigt
 

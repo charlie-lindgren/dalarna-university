@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: 70b4a13071a42466
+scrape_hash: 0660738679795337
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DK
 up: "[[Engelska MOC]]"
 ---
@@ -101,6 +101,10 @@ Betyg rapporteras enligt följande:
   - Engelska: Kandidatexamensarbete i litteratur - 15 hp | U–VG
   - Engelska: Introduktion till litteraturkritikens teorier och metoder - 7,5 hp | U–VG
   - Den samtida Bildungsromanen på engelska - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- 52,5 hp inom huvudområdet engelska, varav 22,5 hp i Engelska II (G1F nivå)
 
 ## Övrigt
 
@@ -198,3 +202,7 @@ Grades are reported as follows:
   - English: Bachelor Degree Thesis in Literature - 15 Credits | U–VG
   - English: Introduction to Theories and Methodologies of Literary Criticism - 7.5 Credits | U–VG
   - The Contemporary Coming-of-Age Novel in English - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- 52.5 credits in the main field of study English, of which 22.5 credits in English II (G1F level)

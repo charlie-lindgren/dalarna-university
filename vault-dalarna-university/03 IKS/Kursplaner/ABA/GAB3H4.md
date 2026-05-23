@@ -9,7 +9,7 @@ amne: "Arbetsvetenskap"
 amne_kod: "ABA"
 institution: "IKS"
 tags: [kursplan, ABA, IKS]
-scrape_hash: 24da6b23aba741ae
+scrape_hash: 243834944c020ff7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3H4
 up: "[[Arbetsvetenskap MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
   - Teorier, begrepp och modeller - 4 hp | U–VG
   - Tillämpning och reflektion - 3,5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Vid omexamination kan examination ske i annan form efter avgörande av examinator.
@@ -96,3 +100,7 @@ Grades are reported as follows:
 
   - Theories, concepts, and models - 4 Credits | U–VG
   - Application and reflection - 3.5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

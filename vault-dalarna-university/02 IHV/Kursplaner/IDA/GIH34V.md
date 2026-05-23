@@ -10,7 +10,7 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 167006d22e14b5e3
+scrape_hash: b29e11cd82dc868f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34V
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -67,6 +67,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Arbetsmiljö, ergonomi och näringslära - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Antagen till VAL-utbildning
 
 ## Övrigt
 

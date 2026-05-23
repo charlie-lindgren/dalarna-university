@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: 6a310e8fbee2b19e
+scrape_hash: f2f16a3a457e8c96
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG39Y
 up: "[[Energiteknik MOC]]"
 ---
@@ -67,6 +67,10 @@ Betyg rapporteras enligt följande:
   - Simuleringsuppgift - 1,5 hp | U–G
   - Tentamen - 4,5 hp | U, 3, 4, 5
 
+## Förkunskapskrav
+
+- Ellära, 7,5 hp
+
 ## Övrigt
 
 Överlappar GET336.
@@ -116,3 +120,7 @@ Grades are reported as follows:
   - Labs - 1.5 Credits | U–G
   - Simulation assignment - 1.5 Credits | U–G
   - Examination - 4.5 Credits | U, 3, 4, 5
+
+### Prerequisites
+
+- Electrical Principles, 7.5 credits

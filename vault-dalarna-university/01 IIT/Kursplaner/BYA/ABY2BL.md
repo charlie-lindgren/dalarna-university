@@ -9,7 +9,7 @@ amne: "Byggteknik"
 amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
-scrape_hash: 15d858f30b29a583
+scrape_hash: 14ebf52736435db9
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABY2BL
 up: "[[Byggteknik MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
   - Individuell skriftlig uppgift - 2 hp | U–VG
   - Projekt med presentation och rapport - 4,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Ingenjörsexamen eller kandidatexamen inom bygg-, energi- eller samhällsbyggnadsteknik om minst 180 hp och Engelska 6
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -110,3 +114,7 @@ Grades are reported as follows:
   - Seminars - 1 Credit | U–G
   - Individual Written Assignment - 2 Credits | U–VG
   - Project presentation and report - 4.5 Credits | U–VG
+
+### Prerequisites
+
+- Bachelor of Science degree from building-, energy technology or civil engineering related fields of at least 180 credits and English 6

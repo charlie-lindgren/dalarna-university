@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: 20d597df7175e9c9
+scrape_hash: 18a1cde1957d2fae
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN33R
 up: "[[Engelska MOC]]"
 ---
@@ -59,6 +59,10 @@ Slutbetyg på kursen sätts efter en samlad bedömning av examinator.
 Betyg rapporteras enligt följande:
 
   - Seminarier, förseminarieupgifter, skriftlig uppsats - 7,5 hp | A–F
+
+## Förkunskapskrav
+
+- Grundläggande behörighet (med undantag för kravet på svenska för dig med utländska betyg) samt Engelska 6. Eller: Engelska nivå 2
 
 ## Övrigt
 

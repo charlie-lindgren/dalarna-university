@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: a6ee3d14289ac59d
+scrape_hash: cef9a62b476eedf4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN35G
 up: "[[Engelska MOC]]"
 ---
@@ -60,6 +60,10 @@ Som betygsskala på hel kurs används A–F.
 Betyg rapporteras enligt följande:
 
   - Engelsk språkdidaktik - 7,5 hp | A–F
+
+## Förkunskapskrav
+
+- Grundläggande behörighet (med undantag för kravet på svenska för dig med utländska betyg) samt Engelska 6. Eller: Engelska nivå 2
 
 ## Övrigt
 

@@ -9,7 +9,7 @@ amne: "Franska"
 amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
-scrape_hash: 45c30176af6bfeed
+scrape_hash: 8f0689c8a8f0cd3b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3CW
 up: "[[Franska MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
   - Skriftlig språkfärdighet - 4 hp | U–VG
   - Grammatik - 3,5 hp | U–VG
 
+## Förkunskapskrav
+
+- 25 hp inom huvudområdet Franska, inklusive Franska: Skriftlig språkfärdighet I, 7,5 hp och Franska I: Muntlig språkfärdighet, 7,5 hp. Undantag för svenska kan ges.
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskoder GFR27N, GFR26R och FR1097.
@@ -106,3 +110,7 @@ Grades are reported as follows:
 
   - Written Language Proficiency - 4 Credits | U–VG
   - Grammar - 3.5 Credits | U–VG
+
+### Prerequisites
+
+- 25 credits within the main field of study French, including French: Written Language Proficiency I, 7.5 credits and French I: Oral Language Proficiency, 7.5 credits. Exemption from Swedish can be given.

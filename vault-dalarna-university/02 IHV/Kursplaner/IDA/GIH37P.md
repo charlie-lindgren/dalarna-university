@@ -10,7 +10,7 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 238ebca8cff4c43d
+scrape_hash: e7e0c4545b3e14aa
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37P
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -214,6 +214,10 @@ Betyg rapporteras enligt följande:
   - Delkurs 2. Friluftsliv 1: orientering, simning, och paddling - 7,5 hp | U–VG
   - Delkurs 3. Humanbiologi 1 - 7,5 hp | U–VG
   - Delkurs 4. Rörelse 1: lek, dans samt mål- och nätspel - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Matematik 2a eller 2b eller 2c, Engelska 6, Naturkunskap 1b eller 1a1+1a2, Samhällskunskap 1b eller 1a1+1a2. Eller: Matematik nivå 2a eller nivå 2b eller nivå 2c, Engelska nivå 2, Naturkunskap nivå 1b eller nivå 1a2, Samhällskunskap nivå 1b eller nivå 1a2
 
 ## Övrigt
 

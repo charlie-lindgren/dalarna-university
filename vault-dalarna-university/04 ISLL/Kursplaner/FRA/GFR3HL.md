@@ -10,7 +10,7 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 0e069df877f1a327
+scrape_hash: 72757f54ecc5b66b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3HL
 up: "[[Franska MOC]]"
 ---
@@ -60,6 +60,10 @@ Betyg rapporteras enligt följande:
 
   - Franska: Språkdidaktik II - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Franska 3. Eller: Franska forsättning nivå 1
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskod GFR2YU.
@@ -106,3 +110,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - French: Language Learning and Teaching II - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements and French 3. Or: French Further level 1

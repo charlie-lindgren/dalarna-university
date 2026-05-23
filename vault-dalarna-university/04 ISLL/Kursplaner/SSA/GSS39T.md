@@ -10,7 +10,7 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 1273c97a9d56085d
+scrape_hash: 78dd2d900921305e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS39T
 up: "[[Svenska som andraspråk MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
 
   - Den globala skolan - undervisning inom gymnasieskolan - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet. För uppdragsutbildning gäller dock undantag från kravet om grundläggande behörighet, SFS 2002:760, enligt vilken det är uppdragsgivare som utser kursdeltagare.
+
 ## Övrigt
 
 Kursen ges endast som uppdragsutbildning.
@@ -84,3 +88,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - The Global School - Teaching in Upper Secondary School - 7.5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements. For commissioned education, exeptions are made from the above stated general entry requirement, SFS 2002:760, according to which it is the commissioning body who appoints students.

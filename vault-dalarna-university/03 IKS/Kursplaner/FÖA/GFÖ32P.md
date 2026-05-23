@@ -9,7 +9,7 @@ amne: "Företagsekonomi"
 amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
-scrape_hash: 9ea9d2e5b7d59c84
+scrape_hash: 938276004ff58c42
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ32P
 up: "[[Företagsekonomi MOC]]"
 ---
@@ -59,6 +59,10 @@ Betyg rapporteras enligt följande:
 
   - Begrepp och teorier - 4,5 hp | U–VG
   - Tillämpad analys - 3 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet (med undantag för kravet på svenska för dig med utländska betyg)
 
 ## Övrigt
 

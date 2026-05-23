@@ -9,7 +9,7 @@ amne: "Kinesiska"
 amne_kod: "KIA"
 institution: "ISLL"
 tags: [kursplan, KIA, ISLL]
-scrape_hash: b8bfe1d0024cdf35
+scrape_hash: fdca783b620ed53e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3CA
 up: "[[Kinesiska MOC]]"
 ---
@@ -70,6 +70,10 @@ Betyg rapporteras enligt följande:
   - Skriftlig tentamen - 1,5 hp | U–VG
   - Muntlig tentamen - 1,5 hp | U–VG
 
+## Förkunskapskrav
+
+- 60 hp inom huvudområdet kinesiska
+
 ## Övrigt
 
 Kinesiska används som undervisningsspråk, med stöd av svenska eller engelska.
@@ -124,3 +128,7 @@ Grades are reported as follows:
   - Oral and written proficiency, part 4 - 3 Credits | U–VG
   - Written examination - 1.5 Credits | U–VG
   - Oral examination - 1.5 Credits | U–VG
+
+### Prerequisites
+
+- 60 credits in the main field of study Chinese

@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 338bb85a19a6ae13
+scrape_hash: a53d3ac3dfd2227c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3ES
 up: "[[Medieproduktion MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
   - Produktionsplan - 1,5 hp | U–G
   - Filmproduktion - 4,5 hp | U–G
 
+## Förkunskapskrav
+
+- 75 hp inom medieproduktion inklusive Konceptutveckling 15 hp och Producentperspektiv 15 hp
+
 ## Övrigt
 
 Modulerna _Produktionsplan 1,5 hp _och _Filmproduktion 4,5 hp_ kan examineras endast när kursen går. Vid underkänt betyg hänvisas studenten till nästa kurstillfälle för omexamination.
@@ -84,3 +88,7 @@ Grades are reported as follows:
   - Film Analysis - 1.5 Credits | U–G
   - Production Plan - 1.5 Credits | U–G
   - Film Production - 4.5 Credits | U–G
+
+### Prerequisites
+
+- 75 credits in Media Production including Concept Development 15 credits and Producer Perspectives 15 credits

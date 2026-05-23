@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: 9fe3b8d57b8eed75
+scrape_hash: 599b7687de9ad7e6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN37A
 up: "[[Engelska MOC]]"
 ---
@@ -115,6 +115,10 @@ Betyg rapporteras enligt följande:
   - Grammatik - 7,5 hp | U–VG
   - Fonetik - 1,5 hp | U–VG
   - Utforska språket - 3 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet (med undantag för kravet på svenska för dig med utländska betyg) samt Engelska 6. Eller: Engelska nivå 2
 
 ## Övrigt
 

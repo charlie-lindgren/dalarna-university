@@ -9,7 +9,7 @@ amne: "Svenska"
 amne_kod: "SVE"
 institution: "ISLL"
 tags: [kursplan, SVE, ISLL]
-scrape_hash: 48962d3d52679e23
+scrape_hash: 015fc502558b6eb0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DE
 up: "[[Svenska MOC]]"
 ---
@@ -135,6 +135,10 @@ Betyg rapporteras enligt följande:
   - Språklig variation och förändring: Språksituationen i Norden - 4 hp | U–VG
   - Tryckta och digitala genrer - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Svenska med didaktisk inriktning I, 15 hp
+
 ## Övrigt
 
 I kursen ingår en obligatorisk träff om 2–3 dagar på campus, som omfattar examinerande moment. För dessa examinerande moment erbjuds omexamination först vid campusträffen i samband med nästa kurstillfälle.  
@@ -171,3 +175,7 @@ Grades are reported as follows:
   - Language History - 4 Credits | U–VG
   - The Linguistic Landscape of Scandinavia - 4 Credits | U–VG
   - Printed and Digital Genres - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Swedish for Teacher Education Students I, 15 credits

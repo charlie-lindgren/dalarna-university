@@ -9,7 +9,7 @@ amne: "Medicinsk vetenskap"
 amne_kod: "MCA"
 institution: "IHV"
 tags: [kursplan, MCA, IHV]
-scrape_hash: e07a61eb5b1c9c09
+scrape_hash: 6bfe36923f6c3746
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC37T
 up: "[[Medicinsk vetenskap MOC]]"
 ---
@@ -53,6 +53,10 @@ Betyg rapporteras enligt följande:
 
   - Cell och vävnader - 2 hp | U–G
   - Respiration och cirkulation - 4 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Matematik 2a eller 2b eller 2c, Naturkunskap 2, Samhällskunskap 1b eller 1a1+1a2. Eller: Matematik nivå 2a eller nivå 2b eller nivå 2c, Naturkunskap nivå 2, Samhällskunskap nivå 1b eller nivå 1a2
 
 ## Övrigt
 

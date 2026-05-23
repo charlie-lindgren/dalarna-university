@@ -10,7 +10,7 @@ amne_kod: "ABA"
 institution: "IKS"
 tags: [kursplan, ABA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: cf01389ae641a1ad
+scrape_hash: d03a69b608bfcc6d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3AL
 up: "[[Arbetsvetenskap MOC]]"
 ---
@@ -60,6 +60,10 @@ Betyg rapporteras enligt följande:
 
   - Ledarskapets juridik - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen ges som uppdragsutbildning. Samtliga seminarier är obligatoriska.
@@ -77,3 +81,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - The Legal Aspects of Leadership - 7.5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

@@ -10,7 +10,7 @@ amne_kod: "FYS"
 institution: "IHV"
 tags: [kursplan, FYS, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: ab9e73397096a9f8
+scrape_hash: 6c43d71d818d4495
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFT2C8
 up: "[[Fysioterapi MOC]]"
 ---
@@ -63,6 +63,10 @@ Betyg rapporteras enligt följande:
   - Forskningsmetodik - 7,5 hp | U–G
   - Projektplan för examensarbete i fysioterapi - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- Kandidatexamen i fysioterapi eller fysioterapeutexamen 180 hp samt 15 hp på avancerad nivå inom huvudområdet fysioterapi
+
 ## Övrigt
 
 Ersättningsuppgift tillämpas vid utebliven närvaro från examinerande moment. Till stöd för arbetet med projektplanen tillhandahålls handledning under det aktuella kurstillfället och enligt de förutsättningar som anges i kurshandboken. Efter muntlig redovisning av projektplan lämnar granskande lärare skriftlig återkoppling till studenten. Därefter har studenten maximalt 5 arbetsdagar på sig att lämna in komplettering, varefter betyg sätts.
@@ -107,3 +111,7 @@ Grades are reported as follows:
 
   - Research methodology - 7.5 Credits | U–G
   - Project plan for master’s thesis in physiotherapy - 7.5 Credits | U–G
+
+### Prerequisites
+
+- Bachelor of Science in Physiotherapy or Degree in Physiotherapy 180 credits and 15 credits second cycle in the main field of Physiotherapy

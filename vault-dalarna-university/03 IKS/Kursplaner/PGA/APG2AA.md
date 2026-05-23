@@ -10,7 +10,7 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: fba69df61e5ef90c
+scrape_hash: f1b40793f4b64545
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2AA
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -70,6 +70,10 @@ Betyg rapporteras enligt följande:
 
   - Lärarskicklighet - utveckling av lärarskicklighet i förskola och skola utifrån forskning - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- Lärarexamen
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -97,3 +101,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - Teacher Expertise - Developing Teacher Expertise in Preschool and School Based on Research - 7.5 Credits | U–G
+
+### Prerequisites
+
+- A Teachers Education

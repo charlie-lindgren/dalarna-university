@@ -9,7 +9,7 @@ amne: "Bildproduktion"
 amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS]
-scrape_hash: 10dc7fef45c947b4
+scrape_hash: 5cae882b3ce16c28
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABQ2B4
 up: "[[Bildproduktion MOC]]"
 ---
@@ -66,6 +66,10 @@ Betyg rapporteras enligt följande:
 
   - Magisterexamensarbete i Audiovisuella studier - 15 hp | U–G
 
+## Förkunskapskrav
+
+- Audiovisuella studier: Kunskapsproduktion genom gestaltning 15 hp och Audiovisuella produktionsprocesser 15 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -95,3 +99,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - One Year Master Degree Thesis in Audiovisual Studies - 15 Credits | U–G
+
+### Prerequisites
+
+- Audiovisual Studies: Knowledge Production Through Design, 15 credits and Audiovisual Production Processes, 15 credits

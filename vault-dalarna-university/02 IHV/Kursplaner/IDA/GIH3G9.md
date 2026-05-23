@@ -10,7 +10,7 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: a3c34c18b6029c1f
+scrape_hash: e04ae02ba1f3373a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G9
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -56,6 +56,10 @@ Betyg rapporteras enligt följande:
 
   - Entreprenörskap inom idrott och hälsa - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -91,3 +95,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - Entrepreneurship in Sport and Health - 7.5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

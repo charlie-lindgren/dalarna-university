@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: 7e7ac5b7d17eeb73
+scrape_hash: 69102e24c4c1d23d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37S
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -180,6 +180,10 @@ Betyg rapporteras enligt följande:
   - Delkurs 2. Mål- och nätspel - 7,5 hp | U–VG
   - Delkurs 3. Arbetsmiljö, ergonomi och näringslära - 7,5 hp | U–VG
   - Delkurs 4. Rörelse, rytm och dans - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Idrott och hälsa I med didaktisk inriktning, 30 hp eller Idrott och hälsa I med didaktisk inriktning åk 4-6, 30 hp samt Idrott och hälsa II med didaktisk inriktning 22,5 hp
 
 ## Övrigt
 

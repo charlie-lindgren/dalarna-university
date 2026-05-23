@@ -10,7 +10,7 @@ amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 225d2859f0e2f453
+scrape_hash: 4a12943cf7a95c33
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY2B7
 up: "[[Tyska MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
 
   - Tyska: Språk, media och AI - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- 90 hp inom huvudområdet tyska, inklusive Tyska: Tyskspråkig litteratur och litteraturvetenskap, 7,5 hp, Tyska: Den moderna tyskspråkiga lingvistikens utveckling, 7,5 hp och Tyska: Examensarbete, 15 hp
+
 ## Övrigt
 
 Denna kurs överlappar kursen _Tyska: Språk och nya medier_, 7,5 hp.
@@ -105,3 +109,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - German: Language, Media and AI - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- 90 credits in the main field of study German, including German Literature and Literary Theory, 7.5 credits, German: The Development of Modern German Linguistics, 7.5 credits and German: Degree Thesis, 15 credits

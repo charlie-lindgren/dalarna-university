@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 62ef3e52c4db391e
+scrape_hash: ebd0b08dd76514d7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EB
 up: "[[Medieproduktion MOC]]"
 ---
@@ -66,6 +66,10 @@ Betyg rapporteras enligt följande:
   - Akustik och psykoakustik - 4 hp | U–G
   - Mixning - 4,5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -84,3 +88,7 @@ Grades are reported as follows:
   - Signal Paths and Tools - 4 Credits | U–G
   - Acoustics and Psychoacoustics - 4 Credits | U–G
   - Mixing - 4.5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

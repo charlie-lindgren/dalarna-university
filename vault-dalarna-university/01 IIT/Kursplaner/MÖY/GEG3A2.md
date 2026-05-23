@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: 52cf045ea6f27d79
+scrape_hash: a88ed903f056d229
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG3A2
 up: "[[Energiteknik MOC]]"
 ---
@@ -60,6 +60,10 @@ Betyg rapporteras enligt följande:
   - Inlämningsuppgifter och seminarier - 3 hp | U–G
   - Projektuppgift - 4,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Ellära, 7,5 hp
+
 ## Övrigt
 
 Överlappar delvis med GEG2UL.
@@ -102,3 +106,7 @@ Grades are reported as follows:
 
   - Assignments and seminars - 3 Credits | U–G
   - Project assignment - 4.5 Credits | U–VG
+
+### Prerequisites
+
+- Electrical Principles, 7.5 credits

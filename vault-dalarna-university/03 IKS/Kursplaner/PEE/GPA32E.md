@@ -9,7 +9,7 @@ amne: "Personal och arbetsliv"
 amne_kod: "PEE"
 institution: "IKS"
 tags: [kursplan, PEE, IKS]
-scrape_hash: ea21fa142de68212
+scrape_hash: 4ccde04f1f6ddec4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA32E
 up: "[[Personal och arbetsliv MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
 
   - Perspektiv och förutsättningar - 5 hp | U–VG
   - Förhållningssätt och metoder - 2,5 hp | U–G
+
+## Förkunskapskrav
+
+- 90 hp inom Personal och arbetsliv
 
 ## Övrigt
 

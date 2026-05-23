@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: 81a387f47c1261a0
+scrape_hash: b19103277f645dd8
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG3FM
 up: "[[Energiteknik MOC]]"
 ---
@@ -76,6 +76,10 @@ Betyg rapporteras enligt följande:
   - Presentationshandledning, presentation samt reflektionsdokument (kommunikation) - 1,5 hp | U–G
   - Diskussion och reflektion (gruppdynamik och projektledning) - 2 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -132,3 +136,7 @@ Grades are reported as follows:
   - Workshops & tutorials (Communication) - 1.5 Credits | U–G
   - Presentation tutorial, presentation and reflection document (Communication) - 1.5 Credits | U–G
   - Discussion and reflection (Group Dynamics and Project Management) - 2 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

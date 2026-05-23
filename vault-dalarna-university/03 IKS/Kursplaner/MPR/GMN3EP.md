@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 58d2defc60e4e7f4
+scrape_hash: 798b351aeca472f2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EP
 up: "[[Medieproduktion MOC]]"
 ---
@@ -67,6 +67,10 @@ Betyg rapporteras enligt följande:
   - Medieproduktionskoncept (grupparbete) - 3,5 hp | U–G
   - Individuell affärsplan - 2 hp | U–G
 
+## Förkunskapskrav
+
+- 37,5 hp inom huvudområdet Medieproduktion inklusive Uppsats i medieproduktion 7,5 hp och Medier och samhälle 7,5 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -84,3 +88,7 @@ Grades are reported as follows:
   - Terminology of Entrepreneurship - 2 Credits | U–G
   - Media Production Concepts (group assignment) - 3.5 Credits | U–G
   - Individual Business Plan - 2 Credits | U–G
+
+### Prerequisites
+
+- 37.5 credits in the main field of study, Media Production, including Media production thesis 7.5 credits and Media and society 7.5 credits

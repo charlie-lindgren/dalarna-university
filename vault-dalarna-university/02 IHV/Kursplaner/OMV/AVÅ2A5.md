@@ -9,7 +9,7 @@ amne: "Omvårdnad"
 amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
-scrape_hash: c2f3e7046cd7eb15
+scrape_hash: 3f44332520909064
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ2A5
 up: "[[Omvårdnad MOC]]"
 ---
@@ -132,6 +132,10 @@ Betyg rapporteras enligt följande:
 
   - Barns och ungdomars hälsa - 6 hp | U–G
   - VFU. Barns och ungdomars hälsa - 9 hp | U–G
+
+## Förkunskapskrav
+
+- Evidensbaserad vård och ledarskap 7,5 hp och Folkhälsa och folkhälsoarbete 7,5 hp
 
 ## Övrigt
 

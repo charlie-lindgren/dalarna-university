@@ -9,7 +9,7 @@ amne: "Sociologi"
 amne_kod: "SOA"
 institution: "IKS"
 tags: [kursplan, SOA, IKS]
-scrape_hash: fca2250bdc62ca38
+scrape_hash: f4f5be0e24107df2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO3D8
 up: "[[Sociologi MOC]]"
 ---
@@ -57,6 +57,10 @@ Betyg rapporteras enligt följande:
 
   - Introduktion till samhällsvetenskap - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Antal provtillfällen begränsas till fem.
@@ -76,3 +80,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Introduction to social science - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements

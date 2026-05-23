@@ -9,7 +9,7 @@ amne: "Företagsekonomi"
 amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
-scrape_hash: 5b312388405c400b
+scrape_hash: fc9986fdba795298
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ32F
 up: "[[Företagsekonomi MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
 
   - Grundläggande begrepp, modeller och teorier - 2,5 hp | U–VG
   - Marknaders förutsättningar och marknadsföringsstrategier - 5 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

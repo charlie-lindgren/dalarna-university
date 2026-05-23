@@ -9,7 +9,7 @@ amne: "Vårdvetenskap"
 amne_kod: "VÅE"
 institution: "IHV"
 tags: [kursplan, VÅE, IHV]
-scrape_hash: b8c2bc19e9ead66b
+scrape_hash: 683156a464fde34a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVV3JK
 up: "[[Vårdvetenskap MOC]]"
 ---
@@ -59,6 +59,10 @@ Betyg rapporteras enligt följande:
 
   - Mätmetoder för tillämpningar inom assisterande teknik - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- 15 hp i huvudområdet assisterande teknik
+
 ## Övrigt
 
 Kursen ingår i Assisterande teknikprogrammet 180 hp.
@@ -101,3 +105,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - Measurement methods for applications in assistive technology - 7.5 Credits | U–G
+
+### Prerequisites
+
+- 15 credits within the main field of study Assistive Technology

@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: 4460f34d94940e95
+scrape_hash: 9bd75ac4ed163b75
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AN
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -214,6 +214,10 @@ Betyg rapporteras enligt följande:
   - Delkurs 3. Humanbiologi 1 - 7,5 hp | U–VG
   - Delkurs 4. Rörelse 1: lek, dans samt mål- och nätspel - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Engelska 6, Idrott och hälsa 1, Matematik 2a eller 2b eller 2c, Naturkunskap 1b eller 1a1+1a2, Samhällskunskap 1b eller 1a1+1a2. Eller: Engelska nivå 2, Idrott och hälsa nivå 1, Matematik nivå 2a eller nivå 2b eller nivå 2c, Naturkunskap nivå 1b eller nivå 1a2, Samhällskunskap nivå 1b eller nivå 1a2
+
 ## Övrigt
 
 Kursen ingår i Grundlärarprogrammet grundskolans årskurs 4-6.
@@ -250,3 +254,7 @@ Grades are reported as follows:
   - Part 2. Outdoor Education 1: orienteering, swimming, and paddling - 7.5 Credits | U–VG
   - Part 3. Humanbiology 1 - 7.5 Credits | U–VG
   - Part 4. Movement Education 1: play, dance, and ball- and netgames - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements and English 6, Physical Education 1, Mathematics 2a or 2b or 2c, Natural Sciences 1b or 1a1+1a2, Social Sciences 1b or 1a1+1a2. Or: English level 2, Physical Education level 1, Mathematics level 2a or level 2b or level 2c, Natural Sciences level 1b or level 1a2, Social Sciences level 1b or level 1a2

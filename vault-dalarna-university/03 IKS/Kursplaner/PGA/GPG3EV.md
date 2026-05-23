@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: e15ffe5e7bd7824d
+scrape_hash: b489f6f230b5ec5a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3EV
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -100,6 +100,10 @@ Betyg rapporteras enligt följande:
   - Utvecklingsarbete - 5 hp | U–VG
   - VFU 3 - 10 hp | U–VG
 
+## Förkunskapskrav
+
+- Didaktik och läroplansteori, 15 hp och Undervisning och ledarskap (varav 10 hp VFU), 15 hp
+
 ## Övrigt
 
 I kursen ingår en obligatorisk campusträff om två dagar.
@@ -136,3 +140,7 @@ Grades are reported as follows:
 
   - Development Work - 5 Credits | U–VG
   - Placement 3 - 10 Credits | U–VG
+
+### Prerequisites
+
+- Education and Curriculum Theory, 15 credits and Teaching and Leadership (of which 10 Credits Placement), 15 credits

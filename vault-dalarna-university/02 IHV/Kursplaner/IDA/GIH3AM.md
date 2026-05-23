@@ -10,7 +10,7 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 20771ce574fd1636
+scrape_hash: 3e63cc4a91cc53ec
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AM
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -52,6 +52,10 @@ Betyg rapporteras enligt följande:
 
   - Klättringens tränarskap - 2 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen ges i samarbete med Svenska klättringsförbundet.
@@ -90,3 +94,7 @@ Number of credits:
 Grades are reported as follows:
 
   - Climbing Coach - 2 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

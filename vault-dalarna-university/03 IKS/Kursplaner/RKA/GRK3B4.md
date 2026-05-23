@@ -9,7 +9,7 @@ amne: "Religionsvetenskap"
 amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
-scrape_hash: ba50cece93403ea3
+scrape_hash: f969a19332060fd7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK3B4
 up: "[[Religionsvetenskap MOC]]"
 ---
@@ -57,6 +57,10 @@ Betyg rapporteras enligt följande:
 
   - Levd religion: fältstudieresa utifrån ämnesteoretiska och religionsdidaktiska perspektiv - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- 22,5 hp i religionsvetenskap
+
 ## Övrigt
 
 Kursen innehåller en obligatorisk fältstudieresa på ca en vecka. Resmålet bestäms inför varje kurstillfälle.
@@ -74,3 +78,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - Lived Religion: Field Studies Trip Based on Perspectives from Subject Theory and Religious Didactics - 7.5 Credits | U–G
+
+### Prerequisites
+
+- 22.5 credits in Religious Studies

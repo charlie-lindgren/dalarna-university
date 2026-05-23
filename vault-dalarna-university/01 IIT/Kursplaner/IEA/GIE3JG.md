@@ -9,7 +9,7 @@ amne: "Industriell ekonomi"
 amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
-scrape_hash: b3025bcc563797ad
+scrape_hash: 5c851ab49ea7b285
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3JG
 up: "[[Industriell ekonomi MOC]]"
 ---
@@ -83,6 +83,10 @@ Betyg rapporteras enligt följande:
   - Seminarium - 1,5 hp | U–G
   - Skriftlig övervakad tentamen - 4 hp | U–VG
 
+## Förkunskapskrav
+
+- 60 hp industriell ekonomi inklusive Innovation 7,5 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -146,3 +150,7 @@ Grades are reported as follows:
   - Written group assignment - 2 Credits | U–G
   - Seminar - 1.5 Credits | U–G
   - Written invigilated examination - 4 Credits | U–VG
+
+### Prerequisites
+
+- 60 credits Industrial Engineering and Management including Innovation 7.5 credits

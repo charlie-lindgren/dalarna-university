@@ -9,7 +9,7 @@ amne: "Portugisiska"
 amne_kod: "PRA"
 institution: "ISLL"
 tags: [kursplan, PRA, ISLL]
-scrape_hash: 7b17b56ec85949e4
+scrape_hash: 5824a65b277bce50
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR3GP
 up: "[[Portugisiska MOC]]"
 ---
@@ -129,6 +129,10 @@ Betyg rapporteras enligt följande:
   - Skriftliga inlämningsuppgifter med fokus på textanalys - 3 hp | U–VG
   - Diskussioner och muntliga redovisningar - 4,5 hp | U–VG
 
+## Förkunskapskrav
+
+- 30 hp inom huvudområdet portugisiska
+
 ## Övrigt
 
 Portugisiska används som undervisningsspråk och engelska används som stödspråk.
@@ -238,3 +242,7 @@ Grades are reported as follows:
   - Contemporary Portugal: Literature and Society - 7.5 Credits | U–VG
   - Written assignments with a focus on text analysis - 3 Credits | U–VG
   - Discussions and oral presentations - 4.5 Credits | U–VG
+
+### Prerequisites
+
+- 30 credits in the main field of study of Portuguese

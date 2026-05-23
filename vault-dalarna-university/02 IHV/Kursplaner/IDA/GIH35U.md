@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: 1a3a2b5e31e4a418
+scrape_hash: bffd1c5d2f134e17
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35U
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -59,6 +59,10 @@ Betyg rapporteras enligt följande:
 
   - Skriftlig salstentamen - 4 hp | U–VG
   - Skriftlig PM (del 2), muntlig redovisning - 3,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Minst 120 hp varav 60 hp på grundnivå inom ämnet idrotts- och hälsovetenskap
 
 ## Övrigt
 

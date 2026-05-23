@@ -9,7 +9,7 @@ amne: "Bildproduktion"
 amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS]
-scrape_hash: 7b0ba1f6f48551a7
+scrape_hash: c7255d357ef194a9
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ36E
 up: "[[Bildproduktion MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
 
   - 1. Arbetsplatsförlagd bildproduktion - 12 hp | U–G
   - 2. Audiovisuell reflektion - 3 hp | U–G
+
+## Förkunskapskrav
+
+- 150 hp inom huvudområdet Bildproduktion
 
 ## Övrigt
 

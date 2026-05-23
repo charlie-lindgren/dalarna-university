@@ -9,7 +9,7 @@ amne: "Franska"
 amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
-scrape_hash: 86cbb9c2e2ec8277
+scrape_hash: 24dd10ec801d7004
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3HK
 up: "[[Franska MOC]]"
 ---
@@ -56,6 +56,10 @@ Betyg rapporteras enligt följande:
 
   - Franska: Språkdidaktik I - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Franska 3. Eller: Franska forsättning nivå 1
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskod GFR2W9.
@@ -100,3 +104,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - French: Language Learning and Teaching I - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements and French 3. Or: French Further level 1

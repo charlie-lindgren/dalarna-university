@@ -10,7 +10,7 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: a11e8edbcd4b3f7f
+scrape_hash: f7e5065ccf11fe23
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AY
 up: "[[Energiteknik MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
   - Inlämningsuppgifter - 2 hp | U–G
   - Projektarbete - 3 hp | U–VG
 
+## Förkunskapskrav
+
+- Elektrisk lagrings- och omvandlingsteknik, 5 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -101,3 +105,7 @@ Grades are reported as follows:
 
   - Individual written assignments - 2 Credits | U–G
   - Project - 3 Credits | U–VG
+
+### Prerequisites
+
+- Electrical Storage Technology and Conversion Technology, 5 credits

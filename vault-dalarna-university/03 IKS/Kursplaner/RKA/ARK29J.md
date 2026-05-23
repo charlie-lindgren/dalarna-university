@@ -9,7 +9,7 @@ amne: "Religionsvetenskap"
 amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
-scrape_hash: 3955428b397585e8
+scrape_hash: c03aa00c9bb1f7fd
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29J
 up: "[[Religionsvetenskap MOC]]"
 ---
@@ -56,6 +56,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Religionsvetenskaplig vetenskapshistoria, teori och metod - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Religionsvetenskap III 22,5 hp
 
 ## Övrigt
 

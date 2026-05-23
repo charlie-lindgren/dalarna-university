@@ -10,7 +10,7 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: d3a04c4472b33065
+scrape_hash: 7f8b0ecdab7ce20c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JY
 up: "[[Maskinteknik MOC]]"
 ---
@@ -71,6 +71,10 @@ Betyg rapporteras enligt följande:
   - Skriftlig övervakad examination med individuell bedömning - 4 hp | U, 3, 4, 5
   - Laborationer - 3,5 hp | U–G
 
+## Förkunskapskrav
+
+- 3D-CAD grundkurs 7,5 hp och Grundläggande materialteknik med materialval 7,5 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -119,3 +123,7 @@ Grades are reported as follows:
 
   - Written exam - 4 Credits | U, 3, 4, 5
   - Laboratories - 3.5 Credits | U–G
+
+### Prerequisites
+
+- 3D-CAD 7.5 credits and Fundamentals of Materials Engineering with Materials Selection 7.5 credits

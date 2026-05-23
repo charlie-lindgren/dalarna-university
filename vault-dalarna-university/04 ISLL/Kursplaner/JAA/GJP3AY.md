@@ -9,7 +9,7 @@ amne: "Japanska"
 amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
-scrape_hash: c923da28a1310406
+scrape_hash: ea901b8169aabd02
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP3AY
 up: "[[Japanska MOC]]"
 ---
@@ -57,6 +57,10 @@ Betyg rapporteras enligt följande:
 
   - Japansk populärkultur representerad i anime och manga - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet (med undantag för kravet på svenska för dig med utländska betyg) samt Engelska 6. Eller: Engelska nivå 2
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskoder GJP2MQ, GJP23U och JP1051.
@@ -96,3 +100,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Japanese Pop Culture Represented in Anime and Manga - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades) and English 6. Or: English level 2

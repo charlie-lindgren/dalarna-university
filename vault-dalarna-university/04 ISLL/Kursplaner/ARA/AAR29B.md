@@ -9,7 +9,7 @@ amne: "Arabiska"
 amne_kod: "ARA"
 institution: "ISLL"
 tags: [kursplan, ARA, ISLL]
-scrape_hash: 80a5624d6e25d459
+scrape_hash: 48c514884491f7c8
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AAR29B
 up: "[[Arabiska MOC]]"
 ---
@@ -65,6 +65,10 @@ Som betygsskala på hel kurs används A–F.
 Betyg rapporteras enligt följande:
 
   - Examensarbete - 15 hp | A–F
+
+## Förkunskapskrav
+
+- Kandidatexamen i språk eller litteraturvetenskap om minst 180 hp. 22,5 hp på avancerad nivå inom huvudområdet interkulturella litteraturstudier, inklusive kurserna Introduktion till interkulturella litteraturstudier, 7,5 hp och Interkulturella litteraturstudier: Akademiskt skrivande, 7,5 hp
 
 ## Övrigt
 

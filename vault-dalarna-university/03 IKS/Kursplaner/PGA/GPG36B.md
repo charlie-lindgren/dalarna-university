@@ -10,7 +10,7 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: d66cd60a3d5e7d4b
+scrape_hash: 330ac61d420948d1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG36B
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -135,6 +135,10 @@ Betyg rapporteras enligt följande:
   - Skolan förr och nu - 5 hp | U–VG
   - Didaktiska grundfrågor - 5 hp | U–VG
   - Sociala relationer - 5 hp | U–VG
+
+## Förkunskapskrav
+
+- Kvalificerade och relevanta kunskaper för något eller några yrkesämnen inom gymnasieskolan. För mer information, se Universitets- och högskolerådets föreskrifter om kvalificerade och relevanta yrkeskunskaper för särskild behörighet till utbildning som leder till yrkeslärarexamen (www.uhr.se).
 
 ## Övrigt
 

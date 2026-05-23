@@ -10,7 +10,7 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: e45c71379eeda709
+scrape_hash: e3fb88b89a658322
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG36A
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -131,6 +131,10 @@ Betyg rapporteras enligt följande:
   - Skolan förr och nu - 5 hp | U–VG
   - Didaktiska grundfrågor - 5 hp | U–VG
   - Sociala relationer - 5 hp | U–VG
+
+## Förkunskapskrav
+
+- Ämnesstudier om minst 90 hp i ett undervisningsämne
 
 ## Övrigt
 

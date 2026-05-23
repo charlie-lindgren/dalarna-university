@@ -10,7 +10,7 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 65f9108f2d7f0bcb
+scrape_hash: 3ae2909f8b2b76a2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HE
 up: "[[Svenska som andraspråk MOC]]"
 ---
@@ -66,6 +66,10 @@ Betyg rapporteras enligt följande:
 
   - Sociolingvistiska perspektiv på modersmålsundervisning - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen är relevant för blivande modersmålslärare, studiehandledare och övriga som arbetar i flerspråkiga utbildningssammanhang.
@@ -83,3 +87,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Sociolinguistic perspectives on mother tongue instruction - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements

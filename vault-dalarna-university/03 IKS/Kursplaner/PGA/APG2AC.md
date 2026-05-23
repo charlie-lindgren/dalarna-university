@@ -10,7 +10,7 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 199aa811342dde3c
+scrape_hash: 940d83516e708115
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2AC
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -54,6 +54,10 @@ Betyg rapporteras enligt följande:
 
   - Rektors pedagogiska ledarskap med fokus på förskolans utbildningsuppdrag - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- Rektorsprogrammet 30 hp, avancerad nivå. Därefter ett års dokumenterad arbetslivserfarenhet som rektor/biträdande rektor på minst halvtid samt pågående anställning som rektor eller biträdande rektor.
+
 ## Övrigt
 
 Utbildningen är en uppdragsutbildning från Skolverket inom ramen för Fortbilding för rektorer.
@@ -91,3 +95,7 @@ Not passed - passed
 Grades are reported as follows:
 
   - The rincipal´s educational leadership in preschool with a focus on the preschool´s educational mission - 7.5 Credits | U–G
+
+### Prerequisites
+
+- State Principal Training 30 credits, second cycle. Thereafter, one year of documented work experience as principal/assistant principal of at least half-time and ongoing employment as principal or assistant principal.

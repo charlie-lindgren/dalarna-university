@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: 1ba58f0f1c8cc26c
+scrape_hash: 4faaf5faa7cf59b7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GB
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -60,6 +60,10 @@ Betyg rapporteras enligt följande:
   - Metodologiska ansatser och forskningsetik - 2,5 hp | U–G
   - Forskningsprocesser - 5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -100,3 +104,7 @@ Grades are reported as follows:
 
   - Methodological approaches and research ethics - 2.5 Credits | U–G
   - Research processes - 5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

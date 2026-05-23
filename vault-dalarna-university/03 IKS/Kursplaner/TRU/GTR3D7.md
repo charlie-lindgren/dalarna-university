@@ -9,7 +9,7 @@ amne: "Turismvetenskap"
 amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
-scrape_hash: e1cde1978cf90435
+scrape_hash: 3f8b0ffa88fb3ed7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR3D7
 up: "[[Turismvetenskap MOC]]"
 ---
@@ -60,6 +60,10 @@ Betyg rapporteras enligt följande:
   - Reflektion kring Kungliga Djurgården och besöksnäringen - 3,0 hp | U–G
   - Turistnäringens begrepp samt platser på Kungliga Djurgården - 2,0 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Föreläsningar sker på plats på Kungliga Djurgården.
@@ -104,3 +108,7 @@ Grades are reported as follows:
 
   - Reflection on Royal Djurgården and visitors and tourism industry - 3.0 Credits | U–G
   - Tourism and place concepts at Kungliga Djurgården - 2.0 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

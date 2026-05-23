@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: cb228a1d749eca0e
+scrape_hash: 775b1ff438ed3c9e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AB
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -63,6 +63,10 @@ Betyg rapporteras enligt följande:
 
   - Introduktion till läraryrket för ämneslärare årskurs 7–9 - AIL - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Engelska 6, Samhällskunskap 1b eller 1a1+1a2. Eller: Engelska nivå 2, Samhällskunskap nivå 1b eller nivå 1a2
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -108,3 +112,7 @@ Introduction to the teaching profession for secondary teachers - school years 7�
 Grades are reported as follows:
 
   - Introduction to the teaching profession for secondary teachers - school years 7–9 - Work-Integrated Programme - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements and English 6, Social Sciences 1b or 1a1+1a2. Or: English level 2, Social Sciences level 1b or level 1a2

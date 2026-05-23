@@ -9,7 +9,7 @@ amne: "Tyska"
 amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
-scrape_hash: c511c6beb52fc6da
+scrape_hash: e4d24573ac86d8e8
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3JB
 up: "[[Tyska MOC]]"
 ---
@@ -117,6 +117,10 @@ Betyg rapporteras enligt följande:
   - Tyskspråkig litteratur och litteraturvetenskap - 7,5 hp | U–VG
   - Uppsats - 15 hp | U–VG
 
+## Förkunskapskrav
+
+- Tyska I med didaktisk inriktning 30 hp och Tyska II med didaktisk inriktning 30 hp
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskod GTY2N5.
@@ -222,3 +226,7 @@ Grades are reported as follows:
   - Introduction to German Linguistics - 7.5 Credits | U–VG
   - Literature in German and Literary Theory - 7.5 Credits | U–VG
   - Essay - 15 Credits | U–VG
+
+### Prerequisites
+
+- German I for Teacher Education Students, 30 credits and German II for Teacher Education Students, 30 credits

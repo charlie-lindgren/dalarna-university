@@ -9,7 +9,7 @@ amne: "Datateknik"
 amne_kod: "DTA"
 institution: "IIT"
 tags: [kursplan, DTA, IIT]
-scrape_hash: c638bb4d69e67a44
+scrape_hash: 2354b999c133ceb6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT3CR
 up: "[[Datateknik MOC]]"
 ---
@@ -70,6 +70,10 @@ Betyg rapporteras enligt följande:
   - Laborationsrapporter - 5 hp | U–G
   - Seminarium, individuell inlämningsuppgift och presentation - 2,5 hp | U–VG
 
+## Förkunskapskrav
+
+- 60 hp i huvudområdet Mikrodataanalys inklusive Skriptprogrammering, 7,5 hp och Datakommunikation 2, 7,5 hp
+
 ## Övrigt
 
 Överlappar GDT28Y och GDT2Y3.
@@ -120,3 +124,7 @@ Grades are reported as follows:
 
   - Lab reports - 5 Credits | U–G
   - Seminar, individual assignment, and presentation - 2.5 Credits | U–VG
+
+### Prerequisites
+
+- 60 credits in the main field of study Microdata Analysis including Script Programming, 7.5 credits and Data Communication II, 7.5 credits

@@ -9,7 +9,7 @@ amne: "Historia"
 amne_kod: "HIA"
 institution: "IKS"
 tags: [kursplan, HIA, IKS]
-scrape_hash: 56c2d0a802b336c0
+scrape_hash: 47ecda2866feed8d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3JX
 up: "[[Historia MOC]]"
 ---
@@ -128,6 +128,10 @@ Betyg rapporteras enligt följande:
   - Historievetenskaplig teori och metod - 7,5 hp | U–VG
   - Uppsats - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- 52,5 hp i historia inklusive Historia II med didaktisk inriktning för grundskolans årskurs 7-9, 22,5 hp
+
 ## Övrigt
 
 Kursen är en påbyggnadskurs för den student som läst historia på ämneslärarprogrammet med inriktning mot åk 7-9, men som vill utöka sin behörighet till gymnasiet.
@@ -164,3 +168,7 @@ Grades are reported as follows:
   - The Learning and Teaching of History III: Teaching History - 7.5 Credits | U–VG
   - Theory and Methods of History Studies - 7.5 Credits | U–VG
   - Scientific Essay - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- 52.5 credits in history including History II for Teacher Students for Secondary School, 22.5 credits

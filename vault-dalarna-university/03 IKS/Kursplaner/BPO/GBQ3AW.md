@@ -10,7 +10,7 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 8af45ca143eb3ed3
+scrape_hash: 9fb123f188c8b693
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3AW
 up: "[[Bildproduktion MOC]]"
 ---
@@ -68,6 +68,10 @@ Betyg rapporteras enligt följande:
   - Pitchpresentation med projektdokument - 3 hp | U–G
   - Explainerfilmsproduktion - 10 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Studenten förväntas ha tillgång till Adobe CC samt dator som svarar mot mjukvarans rekommenderade krav.
@@ -117,3 +121,7 @@ Grades are reported as follows:
   - The principles of graphic design - 2 Credits | U–G
   - Pitch presentation with project documents - 3 Credits | U–G
   - Explainer film production - 10 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

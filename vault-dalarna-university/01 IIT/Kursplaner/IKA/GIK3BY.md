@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: cda8fca8b9309cdb
+scrape_hash: 02ebe0e8f8701287
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK3BY
 up: "[[Informatik MOC]]"
 ---
@@ -74,6 +74,10 @@ Betyg rapporteras enligt följande:
   - Inlämningsuppgift: Projektplan, redovisning - 0,5 hp | U–G
   - Projekt: Skriftlig rapport, muntlig redovisning, opposition på ett annat examensarbete, inkl. skrivet oppositionsprotokoll - 7,0 hp | U–VG
 
+## Förkunskapskrav
+
+- 90 hp varav 45 hp inom huvudområde informatik, datavetenskap, datateknik, mikrodataanalys, informationsteknologi, informations- och kommunikationsteknik, datorsystemvetenskap eller mjukvaruteknik
+
 ## Övrigt
 
 Ersätter GIK2KT.
@@ -130,3 +134,7 @@ Grades are reported as follows:
 
   - Assignment: Project plan, presentation - 0.5 Credits | U–G
   - Project: Written report, oral presentation, opposition to another thesis project, including written opposition protocol - 7.0 Credits | U–VG
+
+### Prerequisites
+
+- 90 credits including 45 credits in the main field of study Informatics, Computer Science, Computer Engineering, Microdata Analysis, Information Technology, Information and Communication Technology or Software Engineering

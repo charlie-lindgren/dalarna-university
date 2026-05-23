@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: c149aa9f42b969d6
+scrape_hash: 4227cb6117fbefb7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3FF
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -58,6 +58,10 @@ Betyg rapporteras enligt följande:
   - Grundläggande tillämpad idrottsfysiologi - 4,5 hp | U–G
   - Integrerad idrottsfysiologi - 3 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -100,3 +104,7 @@ Grades are reported as follows:
 
   - Fundamentals of applied exercise physiology. - 4.5 Credits | U–G
   - Integrative exercise physiology - 3 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements

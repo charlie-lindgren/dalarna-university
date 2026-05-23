@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 65ba56eb6d40b900
+scrape_hash: 8c9810ba69e142f7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG28R
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -72,6 +72,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Verksamhetsförlagd utbildning, gy - 15 hp | U–VG
+
+## Förkunskapskrav
+
+- Utveckling och lärande för ämneslärare inriktning gymnasieskolan (varav 7,5 hp VFU), 15 hp, Skolväsendets historia och samhällsuppdrag - ämneslärare, 15 hp samt 90 hp i programmets första undervisningsämne och 90 hp i programmets andra undervisningsämne
 
 ## Övrigt
 

@@ -9,7 +9,7 @@ amne: "Portugisiska"
 amne_kod: "PRA"
 institution: "ISLL"
 tags: [kursplan, PRA, ISLL]
-scrape_hash: 793d6e03acfaa9a7
+scrape_hash: f0917d5e7e8b3185
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR3GN
 up: "[[Portugisiska MOC]]"
 ---
@@ -108,6 +108,10 @@ Betyg rapporteras enligt följande:
   - Muntliga redovisningar - 3 hp | U–VG
   - Portugisiskspråkiga kulturer - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Portugisiska: Grundläggande kurs II 15 hp
+
 ## Övrigt
 
 Portugisiska används som undervisningsspråk och engelska används som stödspråk.
@@ -198,3 +202,7 @@ Grades are reported as follows:
   - Pronunciation Test - 2 Credits | U–VG
   - Oral Presentations - 3 Credits | U–VG
   - Portuguese-Speaking Cultures - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Portuguese: Basic Course II 15 credits

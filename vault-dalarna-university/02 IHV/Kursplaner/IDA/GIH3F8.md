@@ -10,7 +10,7 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: f62818a6380e6525
+scrape_hash: 5f53c4c8082a4891
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3F8
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -59,6 +59,10 @@ Betyg rapporteras enligt följande:
   - Funktionell anatomi och rörelseanalys - 3 hp | U–G
   - Biomekanik inom idrotten - 4,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -95,3 +99,7 @@ Grades are reported as follows:
 
   - Functional anatomi and movement analysis - 3 Credits | U–G
   - Sport Biomechanics - 4.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements

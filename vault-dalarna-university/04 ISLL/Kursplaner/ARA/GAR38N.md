@@ -9,7 +9,7 @@ amne: "Arabiska"
 amne_kod: "ARA"
 institution: "ISLL"
 tags: [kursplan, ARA, ISLL]
-scrape_hash: 9ce07bf5b702e4b1
+scrape_hash: 1d9f419cd969699e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR38N
 up: "[[Arabiska MOC]]"
 ---
@@ -75,6 +75,10 @@ Betyg rapporteras enligt följande:
   - Muntlig kommunikation - 6 hp | U–VG
   - Den arabiska litteraturens utveckling - 3 hp | U–G
 
+## Förkunskapskrav
+
+- Arabiska IV, 15 hp
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskod AR1024.
@@ -132,3 +136,7 @@ Grades are reported as follows:
   - Grammar and Texts - 6 Credits | U–VG
   - Oral Proficiency - 6 Credits | U–VG
   - The Development of Arabic Literature - 3 Credits | U–G
+
+### Prerequisites
+
+- Arabic IV, 15 credits

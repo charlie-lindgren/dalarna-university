@@ -10,7 +10,7 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: f269c4c24f06ac6d
+scrape_hash: 15a93199b2c7da61
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS35H
 up: "[[Svenska som andraspråk MOC]]"
 ---
@@ -158,6 +158,10 @@ Betyg rapporteras enligt följande:
   - Det arabiska språkets struktur i ett svenskt perspektiv; Kontrastiv grammatik - 3 hp | U–VG
   - Det arabiska språkets struktur i ett svenskt perspektiv; Multimodala texter - 1,5 hp | U–VG
   - Sociolingvistik i ett flerspråkigt perspektiv med fokus på arabiska i Sverige - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Modersmål: Arabiska I med didaktisk inriktning, 22,5 hp
 
 ## Övrigt
 

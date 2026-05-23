@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 82b640faedc8cde6
+scrape_hash: d6318d44cea085e0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG29G
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -58,6 +58,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Skriftliga inlämningsuppgifter, muntliga redovisningar - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Lärarexamen samt kursen Vetenskap och beprövad erfarenhet i undervisning och handledning 7,5 hp
 
 ## Övrigt
 

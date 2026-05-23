@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: b3519f50f002e6c4
+scrape_hash: 625e4f3718863b27
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3E3
 up: "[[Medieproduktion MOC]]"
 ---
@@ -67,6 +67,10 @@ Betyg rapporteras enligt följande:
   - Audiovisuella gestaltningar - 6 hp | U–G
   - Analys av koncept och retorik för audiovisuell kommunikation - 3 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan omexamineras max fem gånger vid ett underkänt betyg.
@@ -88,3 +92,7 @@ Grades are reported as follows:
   - Concept Development and Project Plan - 6 Credits | U–G
   - Audiovisual Representations - 6 Credits | U–G
   - The Analysis of Concept and Rethoric in Audiovisual Communication - 3 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 7aa7038a4e6e65ef
+scrape_hash: d23a33c2ce1ad5e4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3JP
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -59,6 +59,10 @@ Betyg rapporteras enligt följande:
 
   - Interkulturell och inkluderande undervisning i globala sammanhang - 3 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet (med undantag för kravet på svenska för dig med utländska betyg) samt Engelska 6. Eller: Engelska nivå 2
+
 ## Övrigt
 
 Kursen ges på engelska. Efter överenskommelse med kursansvarig kan kursen helt eller delvis ingå i någon av hemuniversitetets befintliga kurser. Om en student har beslut/rekommendation om riktat pedagogiskt stöd från Högskolan Dalarna på grund av funktionsnedsättning har examinator rätt att anpassa examinationen. Examinator avgör utifrån kursplanens mål om examinationen kan anpassas i enlighet med beslutet/rekommendationen.
@@ -102,3 +106,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - Intercultural and Inclusive Teaching in Global Contexts - 3 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades) and English 6. Or: English level 2

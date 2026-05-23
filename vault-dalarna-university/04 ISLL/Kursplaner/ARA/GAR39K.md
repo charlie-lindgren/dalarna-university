@@ -9,7 +9,7 @@ amne: "Arabiska"
 amne_kod: "ARA"
 institution: "ISLL"
 tags: [kursplan, ARA, ISLL]
-scrape_hash: 16c4fd5f40a7a4fb
+scrape_hash: f307616985711559
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR39K
 up: "[[Arabiska MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
 
   - Modern arabisk ungdomslitteratur - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Arabiska II, 15 hp
+
 ## Övrigt
 
 Kursen undervisas på arabiska.
@@ -104,3 +108,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Modern Arabic Young Adult Fiction - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Arabic II, 15 credits

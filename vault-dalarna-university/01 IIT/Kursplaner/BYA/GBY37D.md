@@ -9,7 +9,7 @@ amne: "Byggteknik"
 amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
-scrape_hash: d8ba7a31653c3c0b
+scrape_hash: 6dfe617827755319
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY37D
 up: "[[Byggteknik MOC]]"
 ---
@@ -62,6 +62,10 @@ Som betygsskala på hel kurs används U, 3, 4, 5.
 Betyg rapporteras enligt följande:
 
   - Tentamen - 7,5 hp | U, 3, 4, 5
+
+## Förkunskapskrav
+
+- Analys i en variabel 7,5 hp
 
 ## Övrigt
 

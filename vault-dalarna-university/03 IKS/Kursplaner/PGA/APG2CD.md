@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 3f239ed2b50215cd
+scrape_hash: 7814c815dcf48bc2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2CD
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -57,6 +57,10 @@ Betyg rapporteras enligt följande:
 
   - Perspektiv på pedagogisk praktik - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Lärarexamen 180 hp eller kandidatexamen i pedagogik/pedagogiskt arbete/specialpedagogik/didaktik
+
 ## Övrigt
 
 För nätbaserad kurs krävs att den studerande har möjlighet att kommunicera med ljud och bild via en dator eller motsvarande. Vid muntliga examinationer är webbkamera obligatoriskt för nätstudenter.
@@ -76,3 +80,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Perspectives on Educational Practicies - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Teacher education of at least 180 credits, or a Bachelor’s degree in Education/Educational Work

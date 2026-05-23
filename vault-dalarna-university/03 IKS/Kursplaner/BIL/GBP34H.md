@@ -9,7 +9,7 @@ amne: "Bild"
 amne_kod: "BIL"
 institution: "IKS"
 tags: [kursplan, BIL, IKS]
-scrape_hash: 4f508286b8a30258
+scrape_hash: 809b857597ad44cd
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBP34H
 up: "[[Bild MOC]]"
 ---
@@ -129,6 +129,10 @@ Betyg rapporteras enligt följande:
   - Bildteori - 7,5 hp | U–VG
   - Design och arkitektur - 7,5 hp | U–VG
   - Visuellt fördjupningsarbete - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Bild I med didaktisk inriktning, 22,5 hp
 
 ## Övrigt
 

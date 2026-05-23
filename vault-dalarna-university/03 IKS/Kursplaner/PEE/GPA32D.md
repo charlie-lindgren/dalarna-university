@@ -10,7 +10,7 @@ amne_kod: "PEE"
 institution: "IKS"
 tags: [kursplan, PEE, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 0f196b21225d7922
+scrape_hash: 2546a2f561b72c69
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA32D
 up: "[[Personal och arbetsliv MOC]]"
 ---
@@ -68,6 +68,10 @@ Betyg rapporteras enligt följande:
 
   - Grundläggande teorier och perspektiv - 5 hp | U–VG
   - Förhållningssätt och metoder - 2,5 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

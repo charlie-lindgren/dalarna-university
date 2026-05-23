@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: d4e9ae9af5a4aa79
+scrape_hash: cde3c4ccd9f2f830
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34U
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -61,6 +61,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Dans, gymnastik och friidrott (VAL) - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Antagen till VAL-utbildning
 
 ## Övrigt
 

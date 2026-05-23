@@ -9,7 +9,7 @@ amne: "Turismvetenskap"
 amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
-scrape_hash: 76f4c486650650d3
+scrape_hash: 75f2f2e3064ddc12
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR3AU
 up: "[[Turismvetenskap MOC]]"
 ---
@@ -58,6 +58,10 @@ Betyg rapporteras enligt följande:
   - Grundläggande begrepp, teorier och modeller - 5,0 hp | A–F
   - Analyser - 2,5 hp | A–F
 
+## Förkunskapskrav
+
+- Grundläggande behörighet (med undantag för kravet på svenska för dig med utländska betyg)
+
 ## Övrigt
 
 Maximalt fem tentamenstillfällen.  
@@ -100,3 +104,7 @@ Grades are reported as follows:
 
   - Basic concepts, theories and models - 5.0 Credits | A–F
   - Analysis - 2.5 Credits | A–F
+
+### Prerequisites
+
+- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades

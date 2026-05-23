@@ -9,7 +9,7 @@ amne: "Omvårdnad"
 amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
-scrape_hash: 8bdf65dab46483d6
+scrape_hash: a0502be5e237bb5e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ28P
 up: "[[Omvårdnad MOC]]"
 ---
@@ -74,6 +74,10 @@ Som betygsskala används U - G.
 Betyg rapporteras enligt följande:
 
   - Seminarier och skriftliga examinationer - 7,5 hp | U–G
+
+## Förkunskapskrav
+
+- Av Socialstyrelsen utfärdad svensk legitimation som sjuksköterska samt kandidatexamen eller sjuksköterskeexamen om minst 180 hp med minst 90 hp inom ämnet omvårdnadsvetenskap/vårdvetenskap varav 15 hp utgörs av ett examensarbete
 
 ## Övrigt
 

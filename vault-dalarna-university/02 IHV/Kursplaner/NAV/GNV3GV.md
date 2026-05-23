@@ -10,7 +10,7 @@ amne_kod: "NAV"
 institution: "IHV"
 tags: [kursplan, NAV, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: ad77fb51736a87d0
+scrape_hash: 85bfaf85cf6db899
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3GV
 up: "[[Naturvetenskap MOC]]"
 ---
@@ -76,6 +76,10 @@ Betyg rapporteras enligt följande:
   - Naturvetenskap och teknik i vardag och samhälle - 5 hp | U–VG
   - Naturvetenskapernas och teknikens didaktik - 5 hp | U–VG
 
+## Förkunskapskrav
+
+- Lärarexamen
+
 ## Övrigt
 
 Denna utbildning är en uppdragsutbildning och får endast sökas av lärare som deltar i lärarfortbildningen enligt Förordning (2007:222) om statsbidrag för fortbildning av lärare samt fritidspedagoger och motsvarande. Se Skolverkets webbplats http://www.skolverket.se/fortbildning. Den som söker till denna kurs utan godkännande från skolhuvudmannen är inte behörig att delta och riskerar att få avbryta utbildningen.
@@ -97,3 +101,7 @@ Grades are reported as follows:
   - Teknikens historia och den naturvetenskapliga världsbilden - 5 Credits | U–VG
   - Naturvetenskap och teknik i vardag och samhälle - 5 Credits | U–VG
   - Naturvetenskapernas och teknikens didaktik - 5 Credits | U–VG
+
+### Prerequisites
+
+- A Teachers Education

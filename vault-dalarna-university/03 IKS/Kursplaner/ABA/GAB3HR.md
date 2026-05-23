@@ -9,7 +9,7 @@ amne: "Arbetsvetenskap"
 amne_kod: "ABA"
 institution: "IKS"
 tags: [kursplan, ABA, IKS]
-scrape_hash: 60c7d3012b7f4fa4
+scrape_hash: c6fcb97477aaaf36
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3HR
 up: "[[Arbetsvetenskap MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
   - Teori i praktik - 12 hp | U–G
   - Teorier, begrepp och modeller - 3 hp | U–G
 
+## Förkunskapskrav
+
+- 30 hp i arbetsvetenskap inklusive Kvalitativ och kvantitativ metod 7,5 hp och Hållbart arbetsliv, personalarbete och vetenskap 15 hp
+
 ## Övrigt
 
 Vid omexamination under kurs kan den ske i annan form, efter avgörande av examinator.
@@ -83,3 +87,7 @@ Grades are reported as follows:
 
   - Theory in Practice - 12 Credits | U–G
   - Theories, Concepts and Models - 3 Credits | U–G
+
+### Prerequisites
+
+- 30 credits of Work Science, including Qualitative and Quantitative Methods 7.5 credits and Sustainable Working Life, Human Resources and Science 15 credits

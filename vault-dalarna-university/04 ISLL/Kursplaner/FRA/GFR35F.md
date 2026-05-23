@@ -10,7 +10,7 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: b3983f868300348f
+scrape_hash: 9cc789436346c46d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR35F
 up: "[[Franska MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
 
   - Skriftlig redovisning - 5,5 hp | U–VG
   - Muntlig redovisning - 2 hp | U–VG
+
+## Förkunskapskrav
+
+- Franska: Skriftlig språkfärdighet II, 7,5 hp; Franskspråkig litteratur II: Fram till 1900, 7,5 hp; Franska II: Introduktion till lingvistik och akademiskt skrivande, 7,5 hp samt Franska II: Muntlig franska, 7,5 hp eller Franska: Kultur och samhälle II, 7,5 hp
 
 ## Övrigt
 

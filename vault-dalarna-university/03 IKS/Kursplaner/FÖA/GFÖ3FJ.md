@@ -7,8 +7,9 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Företagsekonomi"
 amne_kod: "FÖA"
 institution: "IKS"
-tags: [kursplan, FÖA, IKS]
-scrape_hash: 73e8e33ca698a659
+tags: [kursplan, FÖA, IKS, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: 6c82b83bace3c95e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ3FJ
 up: "[[Företagsekonomi MOC]]"
 ---
@@ -62,6 +63,10 @@ Betyg rapporteras enligt följande:
   - Idrottsorganisationers förändrade förutsättningar - 2,5 hp | U–VG
   - Idrottens utveckling - 5 hp | U–G
 
+## Förkunskapskrav
+
+- Sport Management I 7,5 hp, Organisation A 7,5 hp och Marknadsföring A 7,5 hp
+
 ## Övrigt
 
 Den som antagits till och registrerats på kursen har rätt att erhålla undervisning och/eller handledning under den tid som angavs för kurstillfället som den sökande blivit antagen till.
@@ -86,3 +91,7 @@ Grades are reported as follows:
 
   - Sports organizations’ changing conditions - 2.5 Credits | U–VG
   - The development of sport - 5 Credits | U–G
+
+### Prerequisites
+
+- Sport Management I 7.5 Credits, Organisation A 7.5 Credits and Marketing A 7.5 Credits

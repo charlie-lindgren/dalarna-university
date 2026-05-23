@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: aba965b526839bf9
+scrape_hash: 407daa7721ea3b50
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3EU
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -109,6 +109,10 @@ Betyg rapporteras enligt följande:
   - Didaktiska grundfrågor - 5 hp | U–VG
   - Sociala relationer - 5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen ersätter tidigare kurskod GPG36B samt överlappar kursen _Didaktik och läroplansteori - KPU_, 15 hp.
@@ -142,3 +146,7 @@ Grades are reported as follows:
   - The School Past and Present - 5 Credits | U–VG
   - Fundamental Didactic Issues - 5 Credits | U–VG
   - Social Relations - 5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements

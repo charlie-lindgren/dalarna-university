@@ -9,7 +9,7 @@ amne: "Mikrodataanalys"
 amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
-scrape_hash: 8020c01c29108dac
+scrape_hash: 7cfb6c124a147098
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI35R
 up: "[[Mikrodataanalys MOC]]"
 ---
@@ -74,6 +74,10 @@ Betyg rapporteras enligt följande:
   - Muntlig examination - 3,5 hp | U–G
   - Inlämningsuppgifter - 3,0 hp | U–G
   - Dugga - 1,0 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

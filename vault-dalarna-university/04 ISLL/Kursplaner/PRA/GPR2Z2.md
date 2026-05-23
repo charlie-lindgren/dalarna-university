@@ -9,7 +9,7 @@ amne: "Portugisiska"
 amne_kod: "PRA"
 institution: "ISLL"
 tags: [kursplan, PRA, ISLL]
-scrape_hash: 86b633002946a1d8
+scrape_hash: 990e4382377a1702
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR2Z2
 up: "[[Portugisiska MOC]]"
 ---
@@ -60,6 +60,10 @@ Betyg rapporteras enligt följande:
   - Utformning av uppsatsprojekt - 2,5 hp | U–VG
   - Vetenskaplig metod och forskningsetiskt förhållningsätt - 2,5 hp | U–VG
   - Analys av vetenskaplig text - 2,5 hp | U–VG
+
+## Förkunskapskrav
+
+- 90 hp på nivå G1F inom ett av huvudområdena ryska eller kinesiska, eller 90 hp inom huvudområdet portugisiska
 
 ## Övrigt
 

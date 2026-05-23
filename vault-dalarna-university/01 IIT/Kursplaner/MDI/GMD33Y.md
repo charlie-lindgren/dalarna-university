@@ -10,7 +10,7 @@ amne_kod: "MDI"
 institution: "IIT"
 tags: [kursplan, MDI, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 1cd66d2806198a7c
+scrape_hash: f7d38bf386ff10f1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD33Y
 up: "[[Matematikdidaktik MOC]]"
 ---
@@ -309,6 +309,10 @@ Betyg rapporteras enligt följande:
   - Flervariabelanalys - 7,5 hp | U–VG
   - Diskret matematik - 7,5 hp | U–VG
   - Differentialekvationer och transformer - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Matematik 4 eller Matematik D. Eller: Matematik fortsättning nivå 2
 
 ## Övrigt
 

@@ -9,7 +9,7 @@ amne: "Omvårdnad"
 amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
-scrape_hash: 34b32f3a473a6ca5
+scrape_hash: 335c937d85f43b32
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ37Y
 up: "[[Omvårdnad MOC]]"
 ---
@@ -71,6 +71,10 @@ Betyg rapporteras enligt följande:
   - Kommunikation - 1,5 hp | U–G
   - Omvårdnad och symtomkontroll vid komplex sjukdom - 2,5 hp | U–G
   - Vård vid livets slut - 2,5 hp | U–G
+
+## Förkunskapskrav
+
+- Sjuksköterskans profession och yrkesansvar 10,5 hp, Omvårdnadsprocessen och kliniska färdigheter 6 hp, Metoder för evidensbaserad vård I 7,5 hp, Anatomi och fysiologi för sjuksköterskor I 6 hp, Anatomi och fysiologi för sjuksköterskor II 7,5 hp, Farmakologi, mikrobiologi, immunologi 7,5 hp, Personcentrerad omvårdnad inom äldreomsorg 7,5 hp, Människa, hälsa och samhälle 7,5 hp och 11 hp från Metoder och teorier vid symtom och tecken på hälsa/ohälsa I 30 hp
 
 ## Övrigt
 

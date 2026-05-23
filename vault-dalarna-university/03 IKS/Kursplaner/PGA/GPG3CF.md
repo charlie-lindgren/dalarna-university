@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 696ea4b6b44cc256
+scrape_hash: 78651702512e95cc
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CF
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -101,6 +101,10 @@ Betyg rapporteras enligt följande:
   - Tvärvetenskapliga perspektiv på barns utveckling och lärande - 7,5 hp | U–VG
   - Verksamhetsförlagd utbildning - utveckling och lärande - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Svenska 1 för grundlärare F-3, 15 hp, Matematik 1a för grundlärare F-3, 7,5 hp, Matematik 1b för grundlärare F-3, 7,5 hp, Didaktik och ledarskap i förskoleklass och grundskolans åk 1-3 (inklusive 7,5 hp VFU) 15 hp samt minst 15 hp i Tematisk kurs inom SO, NO och teknik för grundlärare, årskurs F-3, 30 hp
+
 ## Övrigt
 
 I kursen ingår en obligatorisk campusträff om två dagar.
@@ -141,3 +145,8 @@ Grades are reported as follows:
 
   - Interdisciplinary Perspectives of Children’s Development and Learning - 7.5 Credits | U–VG
   - Placement - Development and Learning - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- 
+Swedish 1 for Primary School Teachers F-3, 15 credits, Mathematics for Early Primary School Teachers 1a, 7.5 credits, Mathematics for Early Primary School Teachers 1b, 7.5 credits, Learning, Teaching and Leadership in Pre-School Class and Primary School Years 1-3, 15 credits, and a minimum of 15 credits from the course Thematic Course within Social Science, Science and Technology for Teachers in Pre-School Class and Years 1-3, 30 credits

@@ -9,7 +9,7 @@ amne: "Religionsvetenskap"
 amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
-scrape_hash: 5e472506983dcdf1
+scrape_hash: a182661cf1f33224
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29K
 up: "[[Religionsvetenskap MOC]]"
 ---
@@ -62,6 +62,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Upplevelser av osynlig närvaro - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- 90 hp inom humaniora och/eller samhällsvetenskap
 
 ## Övrigt
 

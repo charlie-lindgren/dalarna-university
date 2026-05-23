@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 4e6fd18031827931
+scrape_hash: 96b670b4ec6ac05c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2C6
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
 
   - Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare F-3 - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Tematisk kurs inom SO, NO och teknik för grundlärare, årskurs F-3 30 hp, Utveckling och lärande i förskoleklass och grundskolans åk 1-3 (inklusive 7,5 hp VFU) 15 hp samt Engelska för grundlärare åk F-3 15 hp
+
 ## Övrigt
 
 För nätbaserad kurs krävs att den studerande har möjlighet att kommunicera med ljud och bild via en dator eller motsvarande. Webbkamera är obligatoriskt för nätstudenter.
@@ -88,3 +92,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Special Education, Pedagogical Documentation and Assessment for Teachers Years F-3 - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Thematic Course whithin Social Science, Science and Technology for Teachers in Pre-school Class and Primary School 30 credits, Development and Learning in Preschool Class and Primary School Years 1-3 (including 7,5 credits school-based education) 15 credtis and English for Primary School Teachers years F-3 15 credits

@@ -9,7 +9,7 @@ amne: "Svenska som andraspråk"
 amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
-scrape_hash: 2f8285d869f3c929
+scrape_hash: 3ffd12bdf4de81d9
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3C7
 up: "[[Svenska som andraspråk MOC]]"
 ---
@@ -128,6 +128,10 @@ Betyg rapporteras enligt följande:
   - Ämnesspecifikt språk - 7,5 hp | U–VG
   - Bedömning av avancerade språkfärdigheter hos inlärare av svenska som andraspråk - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Svenska som andraspråk I med didaktisk inriktning, 30 hp och Svenska som andraspråk II med didaktisk inriktning, 15 hp
+
 ## Övrigt
 
 I kursen ingår två fältstudier vid en grund- eller gymnasieskola. En obligatorisk träff om 1-2 dagar på campus ingår även i kursen.
@@ -162,3 +166,7 @@ Grades are reported as follows:
   - Fiction as a Teaching Tool in Upper-Secondary School - 7.5 Credits | U–VG
   - Subject Specific Language - 7.5 Credits | U–VG
   - Assessing the Advanced Language Proficiency of Learners of Swedish as a Second Language - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Swedish as a Second Language I for Teacher Education Students, 30 credits and Swedish as a Second Language II for Teacher Education Students, 15 credits

@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: 056f5a3e242a12eb
+scrape_hash: 771d82d8ac1beaf1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG3BX
 up: "[[Energiteknik MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
   - Individuell inlämningsuppgift - 2 hp | U–G
   - Laboration - 2,5 hp | U–G
 
+## Förkunskapskrav
+
+- Elkraftteknik, 7,5 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -110,3 +114,7 @@ Grades are reported as follows:
   - Project - 3 Credits | U–G
   - Individual Assignment - 2 Credits | U–G
   - Laboration - 2.5 Credits | U–G
+
+### Prerequisites
+
+- Electrical Power Engineering, 7.5 credits

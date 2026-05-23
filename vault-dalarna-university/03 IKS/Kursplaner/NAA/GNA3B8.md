@@ -9,7 +9,7 @@ amne: "Nationalekonomi"
 amne_kod: "NAA"
 institution: "IKS"
 tags: [kursplan, NAA, IKS]
-scrape_hash: 7b04f43cca780597
+scrape_hash: 9b4f95cae7b7445d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA3B8
 up: "[[Nationalekonomi MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
   - Grundläggande begrepp och makrovariabler - 1,5 hp | U–G
   - Makroekonomiska modeller - 6 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Matematik 3b eller 3c eller Matematik C, Samhällskunskap 1b eller 1a1+1a2, Engelska 6. Eller: Matematik fortsättning nivå 1b eller Matematik fortsättning nivå 1c, Samhällskunskap nivå 1b eller nivå 1a2, Engelska nivå 2
+
 ## Övrigt
 
 Överlappar NA1032
@@ -108,3 +112,7 @@ Grades are reported as follows:
 
   - Basic concepts and macro variables - 1.5 Credits | U–G
   - Macroeconomic models - 6 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements and Mathematics 3b or 3c or Mathematics C, Social Sciences 1b or 1a1+1a2, English 6. Or: Mathematics Further level 1b or Mathematics Further level 1c, Social Sciences level 1b or level 1a1 + 1a, English level 2

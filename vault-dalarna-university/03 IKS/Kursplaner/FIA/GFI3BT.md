@@ -9,7 +9,7 @@ amne: "Filosofi"
 amne_kod: "FIA"
 institution: "IKS"
 tags: [kursplan, FIA, IKS]
-scrape_hash: bfdf76a0b12a741b
+scrape_hash: 30239d94321b41dc
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFI3BT
 up: "[[Filosofi MOC]]"
 ---
@@ -55,6 +55,10 @@ Betyg rapporteras enligt följande:
 
   - Introduktion till hermeneutiken - 7,5 hp | A–F
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -90,3 +94,7 @@ The grading scale used for the final course grade is A–F.
 Grades are reported as follows:
 
   - Introdcution to Hermeneutics - 7.5 Credits | A–F
+
+### Prerequisites
+
+- General entry requirements

@@ -9,7 +9,7 @@ amne: "Historia"
 amne_kod: "HIA"
 institution: "IKS"
 tags: [kursplan, HIA, IKS]
-scrape_hash: f9d513754c6e35f2
+scrape_hash: 914b813bb48fbdb5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI29P
 up: "[[Historia MOC]]"
 ---
@@ -67,6 +67,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Examensarbete, magisterexamen i historia - 15 hp | U–VG
+
+## Förkunskapskrav
+
+- Kandidatexamen 180 hp med huvudområde historia 90 hp samt 15 hp i historia på avancerad nivå inklusive kursen Historievetenskapens teori och metod 7,5 hp
 
 ## Övrigt
 

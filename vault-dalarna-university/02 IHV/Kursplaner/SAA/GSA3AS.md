@@ -10,7 +10,7 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 817a49cfcd9b73ac
+scrape_hash: 3b8f2df7120b9c68
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3AS
 up: "[[Socialt arbete MOC]]"
 ---
@@ -65,6 +65,10 @@ Antalet examinationstillfällen är begränsat till två under loppet av ett år
 Betyg rapporteras enligt följande:
 
   - Samsjuklighet - 7,5 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 
@@ -133,3 +137,7 @@ The number of examination opportunities is limited to two over the course of a y
 Grades are reported as follows:
 
   - Co-morbidity - 7.5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

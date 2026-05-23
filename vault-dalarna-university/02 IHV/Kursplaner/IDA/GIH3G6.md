@@ -10,7 +10,7 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 8511c44a3972cd1b
+scrape_hash: 0ad01d43727460d0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G6
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -54,6 +54,10 @@ Betyg rapporteras enligt följande:
 
   - Idrottsvetenskaplig fördjupning - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- 60 hp i idrotts- och hälsovetenskap, inklusive Introduktion till vetenskapligt skrivande och forskningsmetodik 7,5hp samt Examensarbete för högskoleexamen i idrotts- och hälsovetenskap 7,5 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -87,3 +91,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Sports Science Specialisation - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- 60 credits in Sport and Health Science, including Introduction to Scientific Writing and Research Methods 7,5 credits and Higher Education Diploma in Sport and Health Science, 7,5 credits

@@ -9,7 +9,7 @@ amne: "Medicinsk vetenskap"
 amne_kod: "MCA"
 institution: "IHV"
 tags: [kursplan, MCA, IHV]
-scrape_hash: 392ee0e86602f5ed
+scrape_hash: 75da1e18328b84a4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC37F
 up: "[[Medicinsk vetenskap MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
   - Seminarier - 0,5 hp | U–G
   - Tentamen läkemedelsberäkning - 0,5 hp | U–G
   - Tentamen mikrobiologi och immunologi - 2 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Matematik 2a eller 2b eller 2c, Naturkunskap 2, Samhällskunskap 1b eller 1a1+1a2. Eller: Matematik nivå 2a eller nivå 2b eller nivå 2c, Naturkunskap nivå 2, Samhällskunskap nivå 1b eller nivå 1a2
 
 ## Övrigt
 

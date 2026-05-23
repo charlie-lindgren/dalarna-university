@@ -9,7 +9,7 @@ amne: "Sexuell, reproduktiv och perinatal hälsa"
 amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV]
-scrape_hash: 3936ca15f46afabb
+scrape_hash: 84fb53222af7ba94
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CG
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
@@ -57,6 +57,10 @@ Betyg rapporteras enligt följande:
 
   - Implementering av förbättringsarbete inom hälso- och sjukvård - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Kandidatexamen om 180 hp i ett samhällsvetenskapligt/hälsovetenskapligt/ekonomiskt huvudområde och Engelska 6
+
 ## Övrigt
 
 Kursen ingår i magisterprogrammet Global sexuell och reproduktiv hälsa.
@@ -103,3 +107,7 @@ Grades are reported as follows:
 Grades are reported as follows:
 
   - Seminars, assignments - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- A Bachelors degree 180 credits in a social sciences/health sciences/economics main field of study and English 6

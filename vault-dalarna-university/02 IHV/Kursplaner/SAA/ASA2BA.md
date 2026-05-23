@@ -9,7 +9,7 @@ amne: "Socialt arbete"
 amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
-scrape_hash: 03bbcc3f0e3caf2b
+scrape_hash: d95214e862a17f57
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA2BA
 up: "[[Socialt arbete MOC]]"
 ---
@@ -76,6 +76,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Seminarier, skriftliga inlämningsuppgifter, hemtentamen - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- 90 hp i Socialt arbete eller Social omsorg, inklusive ett examensarbete omfattande minst 15 hp
 
 ## Övrigt
 
@@ -145,3 +149,7 @@ Number of credits:
 Grades are reported as follows:
 
   - Seminars, assignments, take-home examination - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- 90 credits in Social Work or Social Care, including a thesis of 15 credits

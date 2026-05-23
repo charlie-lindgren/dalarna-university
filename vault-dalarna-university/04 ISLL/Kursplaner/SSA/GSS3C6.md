@@ -9,7 +9,7 @@ amne: "Svenska som andraspråk"
 amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
-scrape_hash: 7ddd46efc6ce408c
+scrape_hash: 771022f21dc64db2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3C6
 up: "[[Svenska som andraspråk MOC]]"
 ---
@@ -57,6 +57,10 @@ Betyg rapporteras enligt följande:
 
   - Lärande genom fiktionstext i gymnasieskolan - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Fiktionsberättande och elevtext i ett flerspråkigt perspektiv, 7,5 hp
+
 ## Övrigt
 
 Kursen överlappar delkursen _Lärande genom fiktionstext i gymnasieskolan_, 7,5 hp i kursen _Svenska som andraspråk III med didaktisk inriktning för gymnasieskolan_, 30 hp.
@@ -74,3 +78,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Learning through fiction in upper-secondary school - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Fiction and Pupils‘ Written Production in a Multilingual Perspective, 7.5 credits

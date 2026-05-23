@@ -9,7 +9,7 @@ amne: "Maskinteknik"
 amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT]
-scrape_hash: 74a4e71db1ed6795
+scrape_hash: 549eff0ef19be405
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34W
 up: "[[Maskinteknik MOC]]"
 ---
@@ -65,6 +65,10 @@ Som betygsskala på hel kurs används U–G.
 Betyg rapporteras enligt följande:
 
   - Muntlig och skriftlig redovisning av examensarbetet samt opposition - 7,5 hp | U–G
+
+## Förkunskapskrav
+
+- 90 hp i programmet Produktionstekniker inom maskinteknik– högskoleexamensprogram
 
 ## Övrigt
 

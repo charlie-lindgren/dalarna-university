@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: 7bd867aabc015c37
+scrape_hash: 3c43bfa6cc4d63b8
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN35D
 up: "[[Engelska MOC]]"
 ---
@@ -63,6 +63,10 @@ Betyg rapporteras enligt följande:
   - Formkrav på akademisk text, genre, register - 2 hp | U–G
   - Sammanfattning - 2 hp | U–VG
   - Hitta och använda källor - 2 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet (med undantag för kravet på svenska för dig med utländska betyg) samt Engelska 6. Eller: Engelska nivå 2
 
 ## Övrigt
 

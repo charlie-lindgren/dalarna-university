@@ -9,7 +9,7 @@ amne: "Arbetsvetenskap"
 amne_kod: "ABA"
 institution: "IKS"
 tags: [kursplan, ABA, IKS]
-scrape_hash: db0d22e46db7ea91
+scrape_hash: 703b4d81ac115a61
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3HQ
 up: "[[Arbetsvetenskap MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
   - Teori i praktik - 12 hp | U–G
   - Teorier, begrepp och modeller - 3 hp | U–G
 
+## Förkunskapskrav
+
+- 30 hp i arbetsvetenskap inklusive Kvalitativ och kvantitativ metod 7,5 hp och Hållbart arbetsliv, personalarbete och vetenskap 15 hp
+
 ## Övrigt
 
 Den student som avser läsa denna kurs anordnar själv sin praktikplats inom en organisation där det finns möjlighet att nå kursplanens mål. Saknar studenten praktikplats vid denna kurs starttillfälle, ska studenten istället beredas studieplats på kurs Personalarbete med case.
@@ -90,3 +94,7 @@ Grades are reported as follows:
 
   - Theory in Practice - 12 Credits | U–G
   - Theories, Concepts and Models - 3 Credits | U–G
+
+### Prerequisites
+
+- 30 credits of Work Science, including Qualitative and Quantitative Methods 7.5 credits and Sustainable Working Life, Human Resources and Science 15 credits

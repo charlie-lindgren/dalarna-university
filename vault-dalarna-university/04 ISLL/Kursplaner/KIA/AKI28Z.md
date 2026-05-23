@@ -9,7 +9,7 @@ amne: "Kinesiska"
 amne_kod: "KIA"
 institution: "ISLL"
 tags: [kursplan, KIA, ISLL]
-scrape_hash: 1a81f595f160efbc
+scrape_hash: e531ccee78e7a736
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKI28Z
 up: "[[Kinesiska MOC]]"
 ---
@@ -58,6 +58,10 @@ Som betygsskala på hel kurs används U–G.
 Betyg rapporteras enligt följande:
 
   - Praktiska moment, skriftliga och muntliga reflektioner, skriftlig rapport - 15 hp | U–G
+
+## Förkunskapskrav
+
+- Examen om minst 180 hp
 
 ## Övrigt
 

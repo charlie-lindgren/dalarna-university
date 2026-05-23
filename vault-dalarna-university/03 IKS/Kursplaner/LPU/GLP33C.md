@@ -10,7 +10,7 @@ amne_kod: "LPU"
 institution: "IKS"
 tags: [kursplan, LPU, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 750e6d3f6c012ef8
+scrape_hash: 973e0b194b6ab6ab
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP33C
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
@@ -71,6 +71,10 @@ Betyg rapporteras enligt följande:
 
   - Ljud- och bildteori i ett didaktiskt perspektiv - 7,5 hp | U–G
   - Audiovisuell produktion - 7,5 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

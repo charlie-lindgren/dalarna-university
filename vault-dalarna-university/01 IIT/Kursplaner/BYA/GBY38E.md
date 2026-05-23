@@ -9,7 +9,7 @@ amne: "Byggteknik"
 amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
-scrape_hash: b18ad464a8212e08
+scrape_hash: 8597bba6929ce07e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY38E
 up: "[[Byggteknik MOC]]"
 ---
@@ -66,6 +66,10 @@ Betyg rapporteras enligt följande:
   - Tentamen - 4 hp | U, 3, 4, 5
   - Projekt - 3,5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Matematik 3c eller Matematik D, Fysik 2, Kemi 1. Eller: Matematik fortsättning nivå 1c, Fysik nivå 2, Kemi nivå 1
+
 ## Övrigt
 
 Ersätter BY1061
@@ -114,3 +118,7 @@ Grades are reported as follows:
 
   - Written examination - 4 Credits | U, 3, 4, 5
   - Project work - 3.5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements and Mathematics 3c or Mathematics D, Physics 2, Chemistry 1. Or: Mathematics Further level 1c, Physics level 2, Chemistry level 1

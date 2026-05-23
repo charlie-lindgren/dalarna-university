@@ -9,7 +9,7 @@ amne: "Bildproduktion"
 amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS]
-scrape_hash: 9fb5230a543f8fd0
+scrape_hash: 261be14837de3ea5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ38W
 up: "[[Bildproduktion MOC]]"
 ---
@@ -66,6 +66,10 @@ Betyg rapporteras enligt följande:
   - Redigeringsteori och avancerad projekthantering i Media Composer - 2,5 hp | U–G
   - Redigering av filmprojekt - 5 hp | U–G
 
+## Förkunskapskrav
+
+- Introduktion till redigering av rörliga bilder med media Composer 7,5 hp
+
 ## Övrigt
 
 För att erhålla en internationell certifiering i programvaran Media Composer, som är giltig i hela världen, så krävs en godkänd certifieringstentamen utöver kurs. Denna tentamen arrangeras via Högskolan efter kurstillfället.
@@ -101,3 +105,7 @@ Grades are reported as follows:
 
   - Editing theory and avanced projekt management in Media Composer - 2.5 Credits | U–G
   - Editing film projects - 5 Credits | U–G
+
+### Prerequisites
+
+- Introduction to the Editing of Moving Images with Media Composer 7,5 credits

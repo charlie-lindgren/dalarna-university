@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: d9800b10ee35c94e
+scrape_hash: ae0d3671db744f62
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DG
 up: "[[Engelska MOC]]"
 ---
@@ -111,6 +111,10 @@ Betyg rapporteras enligt följande:
   - Brittisk och amerikansk litteratur- och idéhistoria: Litteratur- och idéhistoria från renässans till postmodernism - 10 hp | U–VG
   - Brittisk och amerikansk litteratur- och idéhistoria: Uppsats - 5 hp | U–VG
 
+## Förkunskapskrav
+
+- Engelska I, 22,5 hp
+
 ## Övrigt
 
 Denna kurs överlappar kurserna _Introduktion till engelsk lingvistik_, 15 hp och _Brittisk och amerikansk litteratur- och idéhistoria_, 15 hp.
@@ -204,3 +208,7 @@ Grades are reported as follows:
   - Introduction to English Linguistics: Project in Linguistics - 3 Credits | U–VG
   - The History of British and American Literature and Ideas: History of Literature and Ideas from Renaissance to Postmodernism - 10 Credits | U–VG
   - The History of British and American Literature and Ideas: Essay - 5 Credits | U–VG
+
+### Prerequisites
+
+- English I, 22.5 credits

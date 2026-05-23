@@ -9,7 +9,7 @@ amne: "Arabiska"
 amne_kod: "ARA"
 institution: "ISLL"
 tags: [kursplan, ARA, ISLL]
-scrape_hash: 5c09211446aaf523
+scrape_hash: eb048fe790bf0df7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR39M
 up: "[[Arabiska MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
 
   - Ekokritik och miljöaspekter i arabisk litteratur - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Arabiska V, 15 hp
+
 ## Övrigt
 
 Kursen undervisas på arabiska.
@@ -104,3 +108,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Eco Criticism and Environmental Aspects in Arabic Literature - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Arabic V, 15 credits

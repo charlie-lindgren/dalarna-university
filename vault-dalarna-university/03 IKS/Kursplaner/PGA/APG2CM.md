@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 7b743a2bf81f7008
+scrape_hash: a0d72e5b6c20ef0f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2CM
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -68,6 +68,10 @@ Betyg rapporteras enligt följande:
   - Undervisningsskicklighet i teori (USP) F-6 4,5 högskolepoäng, Avancerad nivå - 4,5 hp | U–G
   - Undervisningsskicklighet i praktik (USP) F-6 3 högskolepoäng, Avancerad nivå - 3 hp | U–G
 
+## Förkunskapskrav
+
+- Verksam legitimerad lärare i årskurs F-6 och fritidshem med minst ett års arbetslivserfarenhet som lärare efter behörighetsgivande examen
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -84,3 +88,7 @@ Grades are reported as follows:
 
   - Teaching skills in theory F-6 4.5 Credits, Second Cycle - 4.5 Credits | U–G
   - Teaching skills in pratice F-6 3 Credits, Second Cycle - 3 Credits | U–G
+
+### Prerequisites
+
+- Practicing licensed teacher in grades F–6 and school-age educare with at least one year of work experience as a teacher after obtaining the qualifying degree

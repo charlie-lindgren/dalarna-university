@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: c15c4c39c7c2ec7b
+scrape_hash: 05e86af0b479ebd3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3BQ
 up: "[[Engelska MOC]]"
 ---
@@ -57,6 +57,10 @@ Betyg rapporteras enligt följande:
 
   - Teman inom populärlitteraturen - 7,5 hp | A–F
 
+## Förkunskapskrav
+
+- Engelskspråkig litteratur, 6 hp. Undantag för svenska kan ges.
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskod EN1091.
@@ -96,3 +100,7 @@ The grading scale used for the final course grade is A–F.
 Grades are reported as follows:
 
   - Themes in Popular Literature - 7.5 Credits | A–F
+
+### Prerequisites
+
+- Literature in English, 6 hp. Exemption from Swedish can be given.

@@ -10,7 +10,7 @@ amne_kod: "SPA"
 institution: "ISLL"
 tags: [kursplan, SPA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: e49dca08537a5091
+scrape_hash: d009f93bb748f1a6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP39N
 up: "[[Spanska MOC]]"
 ---
@@ -78,6 +78,10 @@ Betyg rapporteras enligt följande:
   - Skriftlig inlämningsuppgift - 2 hp | U–VG
   - Tentamen online - 5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Spanska 2. Eller: Spanska grund nivå 1
+
 ## Övrigt
 
 Godkänd kurs ger behörighet till fortsatta studier inom huvudområdet spanska vid Högskolan Dalarna.
@@ -139,3 +143,7 @@ Grades are reported as follows:
   - Oral presentation - 2 Credits | U–VG
   - Written assignment - 2 Credits | U–VG
   - Online examination - 5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements and Spanish 2. Or: Spanish Basic level 1

@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: dba2b3392bd100ed
+scrape_hash: 213184543ed9c886
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CG
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -101,6 +101,10 @@ Betyg rapporteras enligt följande:
   - Tvärvetenskapliga perspektiv på barns utveckling och lärande - 7,5 hp | U–VG
   - Verksamhetsförlagd utbildning - utveckling och lärande - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Svenska 1 för grundlärare 4-6, 15 hp, Matematik 1a för grundlärare 4-6, 7,5 hp, Matematik 1b för grundlärare 4-6, 7,5 hp och Didaktik och ledarskap i grundskolans årskurs 4-6 (inkl 7,5 hp VFU), 15 hp samt 15 hp från en av kurserna Bild för grundlärare, årskurs 4-6, 30 hp eller Samhällsorienterande ämnen, årskurs 4-6, 30 hp eller Naturorienterande ämnen och teknik för grundlärare, åk 4-6, 30 hp eller Idrott och hälsa I med didaktisk inriktning, 30 hp
+
 ## Övrigt
 
 I kursen ingår en obligatorisk campusträff om två dagar.
@@ -141,3 +145,7 @@ Grades are reported as follows:
 
   - Interdisciplinary perspectives of children’s development and learning - 7.5 Credits | U–VG
   - School Placement - development and learning - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Swedish 1 for Primary School Teachers 4-6, 15 credits, Mathematics 1a for Primary School Teachers Years 4-6, 7.5 credits, Mathematics 1b for Primary School Teacher Years 4-6, 7.5 credits and Learning, Teaching and Leadership in Primary School Years 4-6, 15 credits and 15 credits from one of the courses Art Education for Teachers in Primary School, Years 4-6, 30 credits or Social Science for Primary School, Years 4-6, 30 credits or Science and Technology for Teachers in Primary School, Years 4-6, 30 credits or Physical Education and Health I for Teacher Students, 30 credits

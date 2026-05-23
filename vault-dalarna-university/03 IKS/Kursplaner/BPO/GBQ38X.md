@@ -10,7 +10,7 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 92e39f4ba0a0ddec
+scrape_hash: 11a29554135949c7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ38X
 up: "[[Bildproduktion MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
   - Historisk dokumentär, filmprojekt - 11 hp | U–G
   - Historisk dokumentärfilm, teoretiskt perspektiv - 4 hp | U–G
 
+## Förkunskapskrav
+
+- Berätta med film om kulturarv och historia 7,5 hp
+
 ## Övrigt
 
 Undervisningen sker på distans med IT-stöd.
@@ -87,3 +91,7 @@ Grades are reported as follows:
 
   - Histrorical documetnary, filmproject - 11 Credits | U–G
   - Historical documentary, theoretical perspective - 4 Credits | U–G
+
+### Prerequisites
+
+- Film as a Narrative Medium for Cultural Heritage and History, 7.5 credits

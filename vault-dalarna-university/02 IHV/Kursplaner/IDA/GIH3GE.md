@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: 13ecc45123e3720a
+scrape_hash: bbe2c8c86acef21a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GE
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
   - Idrotten och samhället - 4,5 hp | U–VG
   - Styrelsearbete och persondata - 1 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -102,3 +106,7 @@ Grades are reported as follows:
   - Sports history - 2 Credits | U–VG
   - Sport in society - 4.5 Credits | U–VG
   - Board work and datafication - 1 Credit | U–G
+
+### Prerequisites
+
+- General entry requirements

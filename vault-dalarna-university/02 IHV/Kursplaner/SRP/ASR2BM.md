@@ -9,7 +9,7 @@ amne: "Sexuell, reproduktiv och perinatal hälsa"
 amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV]
-scrape_hash: ddad29d155f1bbda
+scrape_hash: 4f85a08ce8a5d410
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2BM
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
@@ -67,6 +67,10 @@ Betyg rapporteras enligt följande:
 
   - Klimakteriet-Genus-Vård - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- Av Socialstyrelsen utfärdad svensk legitimation som sjuksköterska och avlagd kandidatexamen i vårdvetenskap eller omvårdnad samt yrkesverksamhet som legitimerad sjuksköterska motsvarande minst 12 månaders heltidstjänstgöring
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -114,3 +118,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - Menopaus-Genus-Care - 7.5 Credits | U–G
+
+### Prerequisites
+
+- Of Welfare issued Swedish nursing and Bachelor‘s degree in health sciences or nursing, and professional activities as a registered nurse at least 12 months full-time service

@@ -9,7 +9,7 @@ amne: "Turismvetenskap"
 amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
-scrape_hash: 597a797be14f95f1
+scrape_hash: a85dca72b772a749
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATR2AF
 up: "[[Turismvetenskap MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
   - Destinationsmarknadsföring: kontext och strategier - 3 hp | A–F
   - Destinationsmarknadsföring: forskning - 4,5 hp | A–F
 
+## Förkunskapskrav
+
+- Filosofie kandidatexamen med huvudområde inom samhällsvetenskapligt område samt Engelska 6
+
 ## Övrigt
 
 Överlappar FÖ3035.
@@ -106,3 +110,7 @@ Grades are reported as follows:
 
   - Destination marketing: context and strategies - 3 Credits | A–F
   - Destination marketing: research - 4.5 Credits | A–F
+
+### Prerequisites
+
+- Degree of Bachelor with a main field of study in the Social Sciences and English 6

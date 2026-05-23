@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: 33f9486f2201445f
+scrape_hash: 4033c2633c5e1ae9
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3F7
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -63,6 +63,10 @@ Betyg rapporteras enligt följande:
   - Lärande i idrott - 2,5 hp | U–VG
   - Idrottspedagogik som kunskapsområde - 2,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -104,3 +108,7 @@ Grades are reported as follows:
   - Policy for youth sport - 2.5 Credits | U–VG
   - Learning in sport - 2.5 Credits | U–VG
   - Sportpedagogy as a field of knowledge - 2.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements

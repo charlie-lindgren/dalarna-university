@@ -9,7 +9,7 @@ amne: "Japanska"
 amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
-scrape_hash: aa4cb34669a52f5c
+scrape_hash: 48505a93b02914b7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP37U
 up: "[[Japanska MOC]]"
 ---
@@ -56,6 +56,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Japanska III: Den moderna novellen - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Japanska II: Språkfärdighet 2, 15 hp
 
 ## Övrigt
 

@@ -9,7 +9,7 @@ amne: "Arabiska"
 amne_kod: "ARA"
 institution: "ISLL"
 tags: [kursplan, ARA, ISLL]
-scrape_hash: b9cc517873fb5939
+scrape_hash: b6d6fd3387410cc9
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR34X
 up: "[[Arabiska MOC]]"
 ---
@@ -71,6 +71,10 @@ Betyg rapporteras enligt följande:
 
   - Språkfärdighet 1 - 5 hp | U–VG
   - Språkfärdighet 2 - 10 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Engelska 6. Eller: Engelska nivå 2
 
 ## Övrigt
 

@@ -9,7 +9,7 @@ amne: "Religionsvetenskap"
 amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
-scrape_hash: a4173999569c9622
+scrape_hash: 28837aee03cd452f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29M
 up: "[[Religionsvetenskap MOC]]"
 ---
@@ -73,6 +73,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Examensarbete, magisterexamen i religionsvetenskap - 15 hp | U–VG
+
+## Förkunskapskrav
+
+- Kandidatexamen 180 hp med huvudområde religionsvetenskap 90 hp samt 15 hp i religionsvetenskap på avancerad nivå inklusive Religionsvetenskaplig vetenskapshistoria, teori och metod 7,5 hp
 
 ## Övrigt
 

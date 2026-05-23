@@ -9,7 +9,7 @@ amne: "Arabiska"
 amne_kod: "ARA"
 institution: "ISLL"
 tags: [kursplan, ARA, ISLL]
-scrape_hash: 2de81ebe90fa0167
+scrape_hash: ace4218c2c8c54d3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR38M
 up: "[[Arabiska MOC]]"
 ---
@@ -77,6 +77,10 @@ Betyg rapporteras enligt följande:
   - Muntlig språkfärdighet - 6 hp | U–VG
   - Den arabiska poesins utveckling - 3 hp | U–G
 
+## Förkunskapskrav
+
+- Arabiska III, 15 hp
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskod AR1023.
@@ -136,3 +140,7 @@ Grades are reported as follows:
   - Grammar and Texts - 6 Credits | U–VG
   - Oral Proficiency - 6 Credits | U–VG
   - The Development of Arabic Poetry - 3 Credits | U–G
+
+### Prerequisites
+
+- Arabic III, 15 credits

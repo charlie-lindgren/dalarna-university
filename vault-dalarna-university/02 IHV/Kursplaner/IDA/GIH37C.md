@@ -10,7 +10,7 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 0782b6e3d34ac55f
+scrape_hash: 2cc37404b07e888a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37C
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -57,6 +57,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Rörelse, rytm och dans - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

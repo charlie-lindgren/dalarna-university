@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 4ee7f7c0e0512426
+scrape_hash: 84aad6f539d4c0a0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3ET
 up: "[[Medieproduktion MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
   - Ljudläggning - 2 hp | U–G
   - Ljuddrama - 4 hp | U–G
 
+## Förkunskapskrav
+
+- 60 hp inom medieproduktion
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -78,3 +82,7 @@ Grades are reported as follows:
   - Field Production - 1.5 Credits | U–G
   - Sound Editing - 2 Credits | U–G
   - Audio Drama - 4 Credits | U–G
+
+### Prerequisites
+
+- 60 credits in Media Production

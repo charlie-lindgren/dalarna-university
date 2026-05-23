@@ -9,7 +9,7 @@ amne: "Industriell ekonomi"
 amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
-scrape_hash: 7977367c9923895a
+scrape_hash: 4c4c0fd0c1a2131f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3JS
 up: "[[Industriell ekonomi MOC]]"
 ---
@@ -81,6 +81,10 @@ Betyg rapporteras enligt följande:
 
   - Muntlig och skriftlig redovisning av examensarbetet samt opposition - 15 hp | U–VG
 
+## Förkunskapskrav
+
+- 67,5 hp i huvudområde industriell ekonomi samt antingen Forskningsmetodik 7,5 hp eller Examensarbete för högskoleexamen i industriell ekonomi 7,5 hp och Vetenskaplig metod 2,5 hp
+
 ## Övrigt
 
 Examination kan endast ske vid angivna examinationstillfällen.
@@ -150,3 +154,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Written report, oral presentation, and opposition - 15 Credits | U–VG
+
+### Prerequisites
+
+- 67.5 credits in the main field of study Industrial Engineering and Management as well as either Research Methodology 7.5 credits or Thesis for University Diploma in Industrial Engineering and Management 7.5 credits and Research Methodology 2.5 credits

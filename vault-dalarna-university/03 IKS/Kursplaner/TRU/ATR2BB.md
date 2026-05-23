@@ -9,7 +9,7 @@ amne: "Turismvetenskap"
 amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
-scrape_hash: 17261bf42a175121
+scrape_hash: 9f6d7ee40ed5b4f9
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATR2BB
 up: "[[Turismvetenskap MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
 
   - Examensarbete - 30 hp | A–F
 
+## Förkunskapskrav
+
+- 60 hp inom huvudområdet turismvetenskap, avancerad nivå, inklusive Teori och forskningsmetoder 15 hp, avancerad nivå
+
 ## Övrigt
 
 Examinatorn fastställer sista inlämningsdatum för uppsatsen. Om en uppsats får underkänt efter tre examinationer kan examinatorn begära att författaren byter ämne för uppsatsen
@@ -112,3 +116,7 @@ The grading scale used for the final course grade is A–F.
 Grades are reported as follows:
 
   - Thesis - 30 Credits | A–F
+
+### Prerequisites
+
+- 60 credits in the main field of study, Tourism Studies, of which 15 credits for Theory and Research methods, second cycle

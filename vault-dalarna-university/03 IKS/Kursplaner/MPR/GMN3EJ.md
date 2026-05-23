@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 518c90743f8ea27f
+scrape_hash: 630ff1476f976c04
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EJ
 up: "[[Medieproduktion MOC]]"
 ---
@@ -64,6 +64,10 @@ Betyg rapporteras enligt följande:
   - Teori och verktyg för liveljud - 2,5 hp | U–G
   - Liveljud i praktiken - 5 hp | U–G
 
+## Förkunskapskrav
+
+- 45 hp inom medieproduktion inklusive Introduktion till medieproduktion 15 hp och Audioteknologi och -teori 15 hp
+
 ## Övrigt
 
 Modulen _Liveljud i praktiken 5,0 hp_ kan examineras endast när kursen går. Vid underkänt betyg hänvisas studenten till nästa kurstillfälle för omexamination.
@@ -82,3 +86,7 @@ Grades are reported as follows:
 
   - Theory and Tools for Live Sound - 2.5 Credits | U–G
   - Live Sound in Practice - 5 Credits | U–G
+
+### Prerequisites
+
+- 45 credits in Media Production including Introduction to Media Production 15 credits and Audio Technology and Theory 15 credits

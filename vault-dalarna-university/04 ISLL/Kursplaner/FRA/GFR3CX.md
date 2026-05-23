@@ -9,7 +9,7 @@ amne: "Franska"
 amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
-scrape_hash: 2ad828c4ddbc9b48
+scrape_hash: 22de81df8286f5e3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3CX
 up: "[[Franska MOC]]"
 ---
@@ -71,6 +71,10 @@ Betyg rapporteras enligt följande:
   - Muntlig redovisning - 2,5 hp | U–VG
   - Skriftlig redovisning - 5 hp | U–VG
 
+## Förkunskapskrav
+
+- 25 hp inom huvudområdet Franska, inklusive Franska: Skriftlig språkfärdighet I, 7,5 hp och Franska I: Muntlig språkfärdighet, 7,5 hp. Undantag för svenska kan ges.
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskoder GFR27R, GFR27C och FR1094.
@@ -124,3 +128,7 @@ Grades are reported as follows:
 
   - Oral Presentation - 2.5 Credits | U–VG
   - Written Presentation - 5 Credits | U–VG
+
+### Prerequisites
+
+- 25 credits within the main field of study French, including French: Written Language Proficiency I, 7.5 credits and French I: Oral Language Proficiency, 7.5 credits. Exemption from Swedish can be given.

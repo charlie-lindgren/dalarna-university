@@ -9,7 +9,7 @@ amne: "Portugisiska"
 amne_kod: "PRA"
 institution: "ISLL"
 tags: [kursplan, PRA, ISLL]
-scrape_hash: e04471477dec757b
+scrape_hash: 9f47785d411c6949
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR3GR
 up: "[[Portugisiska MOC]]"
 ---
@@ -68,6 +68,10 @@ Betyg rapporteras enligt följande:
   - Teoretiska perspektiv - skriftlig uppgift - 2,5 hp | U–VG
   - Teoretiska perspektiv - muntlig uppgift - 2,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskod GPR3E5.
@@ -120,3 +124,7 @@ Grades are reported as follows:
   - Internship - Plan and Logbook - 5 Credits | U–G
   - Theoretical Perspectives - Written Assignment - 2.5 Credits | U–VG
   - Theoretical Perspectives - Oral Assignment - 2.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements

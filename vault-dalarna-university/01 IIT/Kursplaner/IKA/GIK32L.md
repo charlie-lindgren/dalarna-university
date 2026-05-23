@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: c305886c6ab2c97d
+scrape_hash: a0fdb5f87eaf8eb4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32L
 up: "[[Informatik MOC]]"
 ---
@@ -75,6 +75,10 @@ Betyg rapporteras enligt följande:
 
   - Seminarium - 1,5 hp | U–G
   - Inlämningsuppgift - 6 hp | U–VG
+
+## Förkunskapskrav
+
+- Layout och typografi 7,5 hp
 
 ## Övrigt
 

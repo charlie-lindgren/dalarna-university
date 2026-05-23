@@ -9,7 +9,7 @@ amne: "Religionsvetenskap"
 amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
-scrape_hash: a394fb2c274c4f6c
+scrape_hash: 2ff3b6bfbd5789e4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29H
 up: "[[Religionsvetenskap MOC]]"
 ---
@@ -56,6 +56,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Religionsvetenskaplig litteraturkurs - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Religionsvetenskap III 22,5 hp
 
 ## Övrigt
 

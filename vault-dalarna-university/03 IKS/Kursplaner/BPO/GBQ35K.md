@@ -10,7 +10,7 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: b72c58b97dc576f8
+scrape_hash: 37ba3a42e371bfc5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ35K
 up: "[[Bildproduktion MOC]]"
 ---
@@ -65,6 +65,10 @@ Som betygsskala på hel kurs används U–G.
 Betyg rapporteras enligt följande:
 
   - Berätta med film om kulturarv och historia - 7,5 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

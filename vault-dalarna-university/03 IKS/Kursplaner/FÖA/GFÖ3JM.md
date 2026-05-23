@@ -9,7 +9,7 @@ amne: "Företagsekonomi"
 amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
-scrape_hash: cc19adbc793b7df1
+scrape_hash: 7dc5979d2a102e35
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ3JM
 up: "[[Företagsekonomi MOC]]"
 ---
@@ -76,6 +76,10 @@ Betyg rapporteras enligt följande:
   - Tjänster, design och kvalitet - 4,5 hp | U–G
   - Interaktion, relationer och intern marknadsföring - 3 hp | U–VG
 
+## Förkunskapskrav
+
+- 90 hp varav 45 hp inom huvudområdet företagsekonomi, inklusive Marknadsföring B 7,5 hp, Organisation B 7,5 hp samt en metodkurs, 7,5 hp
+
 ## Övrigt
 
 Överlappar FEC041, FEC061, FÖ2007, FÖ2032
@@ -128,3 +132,7 @@ Grades are reported as follows:
 
   - Services, design, and quality - 4.5 Credits | U–G
   - Interaction, relations, and internal marketing - 3 Credits | U–VG
+
+### Prerequisites
+
+- 90 credits, including 45 credits in the main field of study Business Administration, including Marketing B, 7.5 credits, Organisation B, 7.5 credits, and one course in method, 7.5 credits

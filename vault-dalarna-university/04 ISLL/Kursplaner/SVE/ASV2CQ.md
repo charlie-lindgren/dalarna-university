@@ -1,7 +1,7 @@
 ---
 kurskod: ASV2CQ
 kursnamn: "Språk-, läs- och skrivdidaktisk fördjupning för undervisning i årskurs 4–6 utifrån första- och andraspråksperspektiv"
-course_name: "Specialised Study in Language, Reading and Writing Didactics for School Years 4-6 from First- and Second-Language Perspe"
+course_name: "Advanced Language, Reading and Writing Didactics for School Years 4-6 from First- and Second-Language Perspe"
 hp: 7,5 högskolepoäng
 niva: "Avancerad nivå"
 huvudomrade: "Ej huvudområde 1"
@@ -10,7 +10,7 @@ amne_kod: "SVE"
 institution: "ISLL"
 tags: [kursplan, SVE, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 581e4ff8611e35bf
+scrape_hash: 4bd1adc33077c67b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2CQ
 up: "[[Svenska MOC]]"
 ---
@@ -20,7 +20,7 @@ up: "[[Svenska MOC]]"
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2CQ)
 
 **Kursnamn:** Språk-, läs- och skrivdidaktisk fördjupning för undervisning i årskurs 4–6 utifrån första- och andraspråksperspektiv
-**Course Name:** Specialised Study in Language, Reading and Writing Didactics for School Years 4-6 from First- and Second-Language Perspe
+**Course Name:** Advanced Language, Reading and Writing Didactics for School Years 4-6 from First- and Second-Language Perspe
 
 - **Poäng:** 7,5 högskolepoäng
 - **Nivå:** Avancerad nivå
@@ -80,6 +80,10 @@ Betyg rapporteras enligt följande:
 
   - Språk-, läs- och skrivdidaktisk fördjupning för undervisning i årskurs 4–6 utifrån första- och andraspråksperspektiv - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- Lärarlegitimation
+
 ## Övrigt
 
 Kursen är en uppdragsutbildning för att stärka elevers språk-, läs- och skrivutveckling utifrån första- och andraspråksperspektiv (Skolverkets dnr: 2.7.4–2025:3097).
@@ -101,3 +105,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - Advanced studies in language, reading, and writing didactics for class 4-6, from first- and second-language perspectives - 7.5 Credits | U–G
+
+### Prerequisites
+
+- Teacher Certification

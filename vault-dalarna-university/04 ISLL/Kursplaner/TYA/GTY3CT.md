@@ -9,7 +9,7 @@ amne: "Tyska"
 amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
-scrape_hash: bb2991e907772cb0
+scrape_hash: 9a7d7a5da2a66099
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3CT
 up: "[[Tyska MOC]]"
 ---
@@ -224,6 +224,10 @@ Betyg rapporteras enligt följande:
   - Språkdidaktik 2A - 6 hp | U–VG
   - Språkdidaktik 2B - 6 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Engelska 6, Samhällskunskap 1b eller 1a1+1a2, Tyska 3. Eller: Engelska nivå 2, Samhällskunskap nivå 1b eller nivå 1a2, Tyska fortsättning nivå 1
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskoder GTY2W4 och GTY2GN.
@@ -432,3 +436,7 @@ Grades are reported as follows:
   - Language Learning and Teaching 1B - 6 Credits | U–VG
   - Language Learning and Teaching 2A - 6 Credits | U–VG
   - Language Learning and Teaching 2B - 6 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements and English 6, Social Sciences 1b or 1a1+1a2, German 3. Or: English level 2, Social Sciences level 1b or level 1a2, German Further level 1

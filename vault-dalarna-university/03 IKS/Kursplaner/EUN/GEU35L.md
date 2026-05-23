@@ -9,7 +9,7 @@ amne: "Entreprenörskap och innovationsteknik"
 amne_kod: "EUN"
 institution: "IKS"
 tags: [kursplan, EUN, IKS]
-scrape_hash: e4588b667892bf66
+scrape_hash: 2cde5ef81bc0359e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU35L
 up: "[[Entreprenörskap och innovationsteknik MOC]]"
 ---
@@ -64,6 +64,10 @@ Betyg rapporteras enligt följande:
   - Inlämningsuppgift - 3,5 hp | U–G
   - Seminarium - 1,5 hp | U–G
   - Tentamen - 2,5 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

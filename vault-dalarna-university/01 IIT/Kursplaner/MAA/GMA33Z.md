@@ -9,7 +9,7 @@ amne: "Matematik"
 amne_kod: "MAA"
 institution: "IIT"
 tags: [kursplan, MAA, IIT]
-scrape_hash: bf1f0a5f76d4f86a
+scrape_hash: 203fad6dd51e1f94
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA33Z
 up: "[[Matematik MOC]]"
 ---
@@ -62,6 +62,10 @@ Som betygsskala på hel kurs används U, 3, 4, 5.
 Betyg rapporteras enligt följande:
 
   - Salstentamen - 7,5 hp | U, 3, 4, 5
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

@@ -9,7 +9,7 @@ amne: "Japanska"
 amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
-scrape_hash: baca306009de35f7
+scrape_hash: a7b5674395deddc6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP39W
 up: "[[Japanska MOC]]"
 ---
@@ -68,6 +68,10 @@ Betyg rapporteras enligt följande:
 
   - Seminarier och uppgifter - 10 hp | A–F
   - Forskningsplan - 5 hp | A–F
+
+## Förkunskapskrav
+
+- Japanska III: Språkfärdighet, 15 hp, Japanska III: Den moderna novellen, 7,5 hp och Japanska III: Att läsa manga, 7,5 hp
 
 ## Övrigt
 

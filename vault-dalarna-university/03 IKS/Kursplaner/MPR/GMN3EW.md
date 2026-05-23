@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 471402c6fe220117
+scrape_hash: 5889ed085e0cbb6e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EW
 up: "[[Medieproduktion MOC]]"
 ---
@@ -69,6 +69,10 @@ Betyg rapporteras enligt följande:
   - Genomförande och utvärdering av projekt - 7,5 hp | U–G
   - Individuell projektanalys - 3 hp | U–G
 
+## Förkunskapskrav
+
+- 37,5 hp inom huvudområdet Medieproduktion inklusive Uppsats i medieproduktion 7,5 hp och Medier och samhälle 7,5 hp
+
 ## Övrigt
 
 Modulen _Genomförande och utvärdering av projekt 7,5 hp_ kan examineras endast när kursen går. Vid underkänt betyg hänvisas studenten till nästa kurstillfälle för omexamination.
@@ -88,3 +92,7 @@ Grades are reported as follows:
   - Project Planning - 4.5 Credits | U–G
   - Implementation and Evaluation of a Project - 7.5 Credits | U–G
   - Individual Project Analysis - 3 Credits | U–G
+
+### Prerequisites
+
+- 37.5 credits in the main field of study, Media Production, including Media production thesis 7.5 credits and Media and society 7.5 credits

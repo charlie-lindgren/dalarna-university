@@ -8,11 +8,11 @@ huvudomrade: "Historia 1"
 amne: "Historia"
 amne_kod: "HIA"
 institution: "IKS"
-tags: [kursplan, HIA, IKS, vilande]
-scrape_hash: dc6851cb47dbb721
+tags: [kursplan, HIA, IKS, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: 4aa1d08ab36f7953
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI29R
 up: "[[Historia MOC]]"
-cssclasses: [vilande]
 ---
 
 # AHI29R
@@ -57,6 +57,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Historievetenskapens teori och metod - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Historia III 22,5 hp
 
 ## Övrigt
 

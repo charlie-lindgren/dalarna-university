@@ -9,7 +9,7 @@ amne: "Ryska"
 amne_kod: "RYA"
 institution: "ISLL"
 tags: [kursplan, RYA, ISLL]
-scrape_hash: 998b2f65208381ba
+scrape_hash: 3fe43b408b775b5c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY38T
 up: "[[Ryska MOC]]"
 ---
@@ -71,6 +71,10 @@ Betyg rapporteras enligt följande:
   - Läsförståelse - 2,5 hp | U–VG
   - Grundläggande muntlig språkfärdighet - 5 hp | U–VG
   - Grundläggande skriftlig språkfärdighet - 5 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet (med undantag för kravet på svenska för dig med utländska betyg)
 
 ## Övrigt
 

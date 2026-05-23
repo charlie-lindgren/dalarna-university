@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: f7ec3e84087abb8a
+scrape_hash: 844786d36a39728d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BV
 up: "[[Engelska MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
 
   - Litteratur och genus - teori och kritik - 7,5 hp | A–F
 
+## Förkunskapskrav
+
+- Kandidatexamen 180 hp inom humaniora, samhällsvetenskap eller utbildningsvetenskap och Engelska 6
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskod AJP25X.
@@ -101,3 +105,7 @@ The grading scale used for the final course grade is A–F.
 Grades are reported as follows:
 
   - Literature and Gender - Literary Theory and Criticism - 7.5 Credits | A–F
+
+### Prerequisites
+
+- Bachelor Degree of 180 credits in the field of Humanities, Social Sciences or Education and English 6

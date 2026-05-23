@@ -8,11 +8,11 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Filosofi"
 amne_kod: "FIA"
 institution: "IKS"
-tags: [kursplan, FIA, IKS, vilande]
-scrape_hash: f8d7041dfc8bdf31
+tags: [kursplan, FIA, IKS, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: b9c4f8a38369dbbd
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFI37Z
 up: "[[Filosofi MOC]]"
-cssclasses: [vilande]
 ---
 
 # GFI37Z
@@ -55,6 +55,10 @@ Som betygsskala på hel kurs används U–G.
 Betyg rapporteras enligt följande:
 
   - Gud och bevisen: filosofiska argument för och mot guds existens - 7,5 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

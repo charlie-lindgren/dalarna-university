@@ -10,7 +10,7 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 7fbf73dfd986a6ed
+scrape_hash: 6ea36c7ce672a3b2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH33J
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -63,6 +63,10 @@ Som betygsskala på hel kurs används U–G.
 Betyg rapporteras enligt följande:
 
   - Seminarier, inlämningsuppgifter, tentamen - 5 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

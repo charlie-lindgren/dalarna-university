@@ -10,7 +10,7 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 4213f390801eb49c
+scrape_hash: 6ce85b29702acf35
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3A5
 up: "[[Bildproduktion MOC]]"
 ---
@@ -68,6 +68,10 @@ Betyg rapporteras enligt följande:
   - Filmproduktionsprocesser - 9 hp | U–G
   - Reflektion kring filmproduktionsprocessen - 1,5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Överlappar BQ1083.
@@ -117,3 +121,7 @@ Grades are reported as follows:
   - History of film - 4.5 Credits | U–G
   - Film production processes - 9 Credits | U–G
   - Reflection on the film production process - 1.5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

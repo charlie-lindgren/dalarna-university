@@ -9,7 +9,7 @@ amne: "Sexuell, reproduktiv och perinatal hälsa"
 amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV]
-scrape_hash: add481d97140b24b
+scrape_hash: 72ff1cd6508a7b5a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2AD
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
@@ -64,6 +64,10 @@ Betyg rapporteras enligt följande:
   - Individuell salstentamen - 3 hp | U–G
   - Seminarium - 1,5 hp | U–G
   - Klinisk examination - 1,5 hp | U–G
+
+## Förkunskapskrav
+
+- Av Socialstyrelsen utfärdad svensk legitimation som sjuksköterska och kandidatexamen i vårdvetenskap alternativt omvårdnad eller sjuksköterskeexamen 180 hp inklusive 15 hp examensarbete
 
 ## Övrigt
 
@@ -128,3 +132,7 @@ Grades are reported as follows:
   - Individual examination - 3 Credits | U–G
   - Seminar - 1.5 Credits | U–G
   - Clinical Exam - 1.5 Credits | U–G
+
+### Prerequisites
+
+- A Swedish nursing licence, and a completed Bachelor‘s degree in any major in the health sciences and Thesis 15 credits

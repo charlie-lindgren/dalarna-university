@@ -10,7 +10,7 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 47bdc0c8d1943f34
+scrape_hash: bbbc60d6c84069d9
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34T
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -67,6 +67,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Humanbiologi 2 (VAL) - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Antagen till VAL-utbildning
 
 ## Övrigt
 

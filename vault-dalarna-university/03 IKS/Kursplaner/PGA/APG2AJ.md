@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 49053d8e57c2f298
+scrape_hash: 93d562c6fe8834d7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2AJ
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -73,6 +73,10 @@ Betyg rapporteras enligt följande:
 
   - Verksamhetsförlagd utbildning - VAL - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- 30 hp pedagogiskt arbete och 60 hp i undervisningsämne inom VAL
+
 ## Övrigt
 
 Student som underkänts i mål knutna till kursens verksamhetsförlagda utbildning har rätt att genomgå ytterligare en VFU-period, dock inte fler än två sammanlagt.  
@@ -92,3 +96,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Placement Studies - Professional Qualification Course for Teachers - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- 30 credits in Educational Work and 60 credits in a teaching subject in the Professional Qualification Programme for Teachers (VAL)

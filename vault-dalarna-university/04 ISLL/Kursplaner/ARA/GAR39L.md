@@ -9,7 +9,7 @@ amne: "Arabiska"
 amne_kod: "ARA"
 institution: "ISLL"
 tags: [kursplan, ARA, ISLL]
-scrape_hash: 13b63ce1044cc842
+scrape_hash: a16a4866519f4be3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR39L
 up: "[[Arabiska MOC]]"
 ---
@@ -59,6 +59,10 @@ Betyg rapporteras enligt följande:
 
   - Modern arabisk litteratur: social och politisk förändring - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Arabiska V, 15 hp
+
 ## Övrigt
 
 Kursen undervisas på arabiska.
@@ -100,3 +104,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Modern Arabic Literature: Social and Political Change - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Arabic V, 15 credits

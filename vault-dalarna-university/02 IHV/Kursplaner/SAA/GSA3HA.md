@@ -9,7 +9,7 @@ amne: "Socialt arbete"
 amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
-scrape_hash: 6fdfaa535584dfc1
+scrape_hash: b73bf3e93883f1c1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3HA
 up: "[[Socialt arbete MOC]]"
 ---
@@ -98,6 +98,10 @@ Betyg rapporteras enligt följande:
   - Försörjning, rehabilitering och aktivering - 4,5 hp | U–VG
   - Kvantitativ metod - 3 hp | U–G
 
+## Förkunskapskrav
+
+- Sociologiska perspektiv på socialt arbete 7,5 hp, Psykologiska perspektiv på socialt arbete 7,5 hp, Socialpolitikens betydelse för socialt arbete 7,5 hp och Välfärdsinsatser och brukarperspektiv 15 hp
+
 ## Övrigt
 
 Kursplanen ingår i Socionomprogrammet.
@@ -130,3 +134,7 @@ Grades are reported as follows:
 
   - Support, rehabilitation and enablement - 4.5 Credits | U–VG
   - Quantitative method - 3 Credits | U–G
+
+### Prerequisites
+
+- Sociological Perspectives on Social Work 7,5 credits, Psychological Perspectives on Social Work 7,5 credits, The Importance of Social Policy for Social Work 7,5 credits and Welfare Measures and User Perspective 15 credits

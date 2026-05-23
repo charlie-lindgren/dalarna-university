@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: b8373e04246aadb6
+scrape_hash: 229143d8dcb8035d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK38J
 up: "[[Informatik MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
 
   - Seminarium - 4,5 hp | U–G
   - Projekt - 3 hp | U–G
+
+## Förkunskapskrav
+
+- Digital bild 7,5 hp, Interaktionsdesign 7,5 hp och Informationsdesign 15 hp
 
 ## Övrigt
 

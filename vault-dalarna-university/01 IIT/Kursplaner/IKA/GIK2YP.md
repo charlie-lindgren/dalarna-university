@@ -10,7 +10,7 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: c0416536e047c306
+scrape_hash: 496f1bf1fada0906
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YP
 up: "[[Informatik MOC]]"
 ---
@@ -73,6 +73,10 @@ Betyg rapporteras enligt följande:
   - Inlämningsuppgifter (layouttekniker med CSS) - 1,5 hp | U–G
   - Inlämningsuppgifter (renderingsprocess och kaskad) - 1,5 hp | U–G
   - Projekt - 3 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

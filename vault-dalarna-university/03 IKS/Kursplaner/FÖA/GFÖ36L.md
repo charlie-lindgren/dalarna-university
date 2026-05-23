@@ -9,7 +9,7 @@ amne: "Företagsekonomi"
 amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
-scrape_hash: a8fab8a1006b1d31
+scrape_hash: 3dadbd127abc9886
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ36L
 up: "[[Företagsekonomi MOC]]"
 ---
@@ -66,6 +66,10 @@ Betyg rapporteras enligt följande:
   - Modul 1: Interkulturell kompetens - 2 hp | U–VG
   - Modul 2: Interkulturella kommunikationsanalyser - 2,5 hp | U–VG
   - Modul 3: Projekt med skriftlig affärsrapport - 3 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet (med undantag för kravet på svenska för dig med utländska betyg)
 
 ## Övrigt
 

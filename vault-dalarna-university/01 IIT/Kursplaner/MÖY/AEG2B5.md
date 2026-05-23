@@ -10,7 +10,7 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 57642f5fe0546a9e
+scrape_hash: 4034464a632d3941
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2B5
 up: "[[Energiteknik MOC]]"
 ---
@@ -64,6 +64,10 @@ Betyg rapporteras enligt följande:
   - Muntlig redovisning - 1 hp | U–VG
   - Skriftlig rapport - 1 hp | U–VG
 
+## Förkunskapskrav
+
+- 30 hp på avancerad nivå i huvudområdet solenergiteknik
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -107,3 +111,7 @@ Grades are reported as follows:
   - Project - 3 Credits | U–G
   - Oral presentation - 1 Credit | U–VG
   - Written report - 1 Credit | U–VG
+
+### Prerequisites
+
+- 30 credits at second cycle in the main field of study Solar Energy Engineering

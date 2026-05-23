@@ -10,7 +10,7 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: f36c6c0284063c35
+scrape_hash: 4eb8c76e03790658
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EX
 up: "[[Medieproduktion MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
   - Audiovisuell gestaltning - 3,5 hp | U–G
   - Reflexiva perspektiv kring konventioner i gestaltningsprocessen - 4 hp | U–G
 
+## Förkunskapskrav
+
+- 90 hp inom medieproduktion, varav 45 hp inom huvudområdet Medieproduktion, inklusive Entreprenörskap för medieproducenter 7,5 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -81,3 +85,7 @@ Grades are reported as follows:
 
   - Audiovisual Representation - 3.5 Credits | U–G
   - Reflexive Perspectives on Conventions in the Desgin Process - 4 Credits | U–G
+
+### Prerequisites
+
+- 90 credits in media production, of which 45 credits in the main area of Media Production, including Entrepreneurship for Media Producers 7.5 credits

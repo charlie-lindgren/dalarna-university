@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: b4bed0c853173512
+scrape_hash: 00ff054a9451bbde
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3CM
 up: "[[Engelska MOC]]"
 ---
@@ -148,6 +148,10 @@ Betyg rapporteras enligt följande:
   - Projekt inom lingvistik - 3 hp | U–VG
   - Språkdidaktik II A - 6 hp | U–VG
   - Språkdidaktik II B - 6 hp | U–VG
+
+## Förkunskapskrav
+
+- Engelska I med didaktisk inriktning, 24 hp
 
 ## Övrigt
 
@@ -299,3 +303,7 @@ Grades are reported as follows:
   - Project in Linguistics - 3 Credits | U–VG
   - Language Learning and Teaching II A - 6 Credits | U–VG
   - Language Learning and Teaching II B - 6 Credits | U–VG
+
+### Prerequisites
+
+- English I for Teacher Education Students, 24 credits

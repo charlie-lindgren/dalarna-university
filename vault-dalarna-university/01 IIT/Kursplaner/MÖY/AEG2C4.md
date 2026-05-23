@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: c98d47c79208f909
+scrape_hash: 1fd24ce8860b76b1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2C4
 up: "[[Energiteknik MOC]]"
 ---
@@ -60,6 +60,10 @@ Betyg rapporteras enligt följande:
   - Inlämningsuppgifter och praktiska prov - 3 hp | U–G
   - Skriftlig tentamen - 2 hp | U, 3, 4, 5
 
+## Förkunskapskrav
+
+- Solcellsteknik 5 hp, Projektkurs 1 - datanalys för solenergisystem 5 hp och Solstrålning och solgeometri 5 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -100,3 +104,7 @@ Grades are reported as follows:
 
   - Assignments - 3 Credits | U–G
   - Examination - 2 Credits | U, 3, 4, 5
+
+### Prerequisites
+
+- PV technology 5 credits, Project course 1 data analysis for solar energy 5 credits och Solar radiation and solar geometry 5 credits

@@ -9,7 +9,7 @@ amne: "Portugisiska"
 amne_kod: "PRA"
 institution: "ISLL"
 tags: [kursplan, PRA, ISLL]
-scrape_hash: 3cb9704a59db6a51
+scrape_hash: f8fde514c1d86f27
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR3GM
 up: "[[Portugisiska MOC]]"
 ---
@@ -103,6 +103,10 @@ Betyg rapporteras enligt följande:
   - Skriftlig språkfärdighet, del 3 - 6 hp | U–VG
   - Portugisiskspråkiga kulturer och samhällen - 3 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet (med undantag för kravet på svenska för dig med utländska betyg) samt Engelska 6. Eller: Engelska nivå 2
+
 ## Övrigt
 
 Kursen vänder sig till studenter utan tidigare kunskaper i portugisiska och kräver en snabb och självständig studietakt.   
@@ -191,3 +195,7 @@ Grades are reported as follows:
   - Oral Language Proficiency, part 3 - 6 Credits | U–VG
   - Written Language Proficiency, part 3 - 6 Credits | U–VG
   - Portuguese-Speaking Cultures and Society - 3 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades) and English 6. Or: English level 2

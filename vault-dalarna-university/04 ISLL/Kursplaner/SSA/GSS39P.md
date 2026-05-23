@@ -9,7 +9,7 @@ amne: "Svenska som andraspråk"
 amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
-scrape_hash: f20529c80aadba62
+scrape_hash: 842d88f594970163
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS39P
 up: "[[Svenska som andraspråk MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
 
   - Andraspråksforskning: en forskningsöversikt - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- 52,5 hp inom huvudområde svenska som andraspråk
+
 ## Övrigt
 
 Kursen överlappar kurserna _Svenska som andraspråk III - Andraspråksforskning_, 15 hp och _Svenska som andraspråk III med didaktisk inriktning för gymnasieskolan_, 30 hp.
@@ -79,3 +83,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Second Language Research: A Research Review - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- 52.5 credits in the main field of study Swedish as a second language

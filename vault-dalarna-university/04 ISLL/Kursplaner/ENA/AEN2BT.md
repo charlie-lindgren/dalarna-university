@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: c1735f009e30a497
+scrape_hash: 996284aec25427a3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BT
 up: "[[Engelska MOC]]"
 ---
@@ -57,6 +57,10 @@ Betyg rapporteras enligt följande:
 
   - Skönlitteratur på originalspråk - 7,5 hp | A–F
 
+## Förkunskapskrav
+
+- 60 hp på avancerad nivå, varav 30 hp inom huvudområdet Interkulturella litteraturstudier
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskod AJP27A.
@@ -96,3 +100,7 @@ The grading scale used for the final course grade is A–F.
 Grades are reported as follows:
 
   - Fiction in its Original Language - 7.5 Credits | A–F
+
+### Prerequisites
+
+- 60 credits at Second Cycle, with 30 credits in the main field of study Intercultural Literature Studies

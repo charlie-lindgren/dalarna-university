@@ -9,7 +9,7 @@ amne: "Religionsvetenskap"
 amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
-scrape_hash: 6fd0ce0537eca645
+scrape_hash: 8a416fa6e8febe6e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK36J
 up: "[[Religionsvetenskap MOC]]"
 ---
@@ -58,6 +58,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Från populärkultur till fiktionsbaserad religion - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

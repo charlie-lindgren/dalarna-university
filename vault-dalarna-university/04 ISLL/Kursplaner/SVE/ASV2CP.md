@@ -1,7 +1,7 @@
 ---
 kurskod: ASV2CP
 kursnamn: "Språk-, läs- och skrivdidaktisk fördjupning för undervisning i förskoleklass och årskurs 1–3 utifrån första- och andraspråksperspektiv"
-course_name: "Specialised Study in Language, Reading and Writing Didactics for Preschool Class and School Years 1-3 from First- and Second-Language Perspe"
+course_name: "Advanced Language, Reading and Writing Didactics for Preschool Class and School Years 1-3 from First- and Second-Language Perspe"
 hp: 7,5 högskolepoäng
 niva: "Avancerad nivå"
 huvudomrade: "Ej huvudområde 1"
@@ -10,7 +10,7 @@ amne_kod: "SVE"
 institution: "ISLL"
 tags: [kursplan, SVE, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 6b53c5b517157a5d
+scrape_hash: 5f2e7ed32f2cec8b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2CP
 up: "[[Svenska MOC]]"
 ---
@@ -20,7 +20,7 @@ up: "[[Svenska MOC]]"
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2CP)
 
 **Kursnamn:** Språk-, läs- och skrivdidaktisk fördjupning för undervisning i förskoleklass och årskurs 1–3 utifrån första- och andraspråksperspektiv
-**Course Name:** Specialised Study in Language, Reading and Writing Didactics for Preschool Class and School Years 1-3 from First- and Second-Language Perspe
+**Course Name:** Advanced Language, Reading and Writing Didactics for Preschool Class and School Years 1-3 from First- and Second-Language Perspe
 
 - **Poäng:** 7,5 högskolepoäng
 - **Nivå:** Avancerad nivå
@@ -46,17 +46,17 @@ Efter godkänd kurs ska studenten kunna:
 
 ## Innehåll
 
-Kursen behandlar, utgående från aktuell forskning, teoretiska och didaktiska perspektiv på språk-, läs- och skrivutveckling utifrån första- och andraspråksperspektiv. Fokus ligger på en balanserad läsundervisning som omfattar och stärker elevers språk-, läs- och skrivutveckling. 
+Kursen behandlar, utgående från aktuell forskning, teoretiska och didaktiska perspektiv på språk-, läs- och skrivutveckling utifrån första- och andraspråksperspektiv. Fokus ligger på en balanserad läsundervisning som omfattar och stärker elevers språk-, läs- och skrivutveckling. 
 
-Tonvikten i utbildningen ligger på praktisk metodik. Innehåll och upplägg anpassas till deltagarnas förutsättningar, är verksamhetsnära och ger konkreta verktyg för det dagliga arbetet. Deltagarna ges möjlighet att relatera varje moment till sin yrkesroll och praktik. 
+Tonvikten i utbildningen ligger på praktisk metodik. Innehåll och upplägg anpassas till deltagarnas förutsättningar, är verksamhetsnära och ger konkreta verktyg för det dagliga arbetet. Deltagarna ges möjlighet att relatera varje moment till sin yrkesroll och praktik. 
 
-Kursen behandlar avkodning, språkförståelse och läsflyt och relaterar dessa delar till utvecklingen av elevers läsförståelse. Avkodning behandlas med fokus på strukturerad och explicit undervisning i fonologisk och fonemisk medvetenhet, bokstavskännedom och ljudning samt på hur elever utvecklar ordavkodning och ordläsning. Språkförståelse behandlas med fokus på språklig medvetenhet, ordförråd, begreppsförståelse, språkstruktur och hörförståelse samt på att bygga gemensamma referensramar och synliggöra likheter och skillnader mellan elevers första- och andraspråk. 
+Kursen behandlar avkodning, språkförståelse och läsflyt och relaterar dessa delar till utvecklingen av elevers läsförståelse. Avkodning behandlas med fokus på strukturerad och explicit undervisning i fonologisk och fonemisk medvetenhet, bokstavskännedom och ljudning samt på hur elever utvecklar ordavkodning och ordläsning. Språkförståelse behandlas med fokus på språklig medvetenhet, ordförråd, begreppsförståelse, språkstruktur och hörförståelse samt på att bygga gemensamma referensramar och synliggöra likheter och skillnader mellan elevers första- och andraspråk. 
 
-Skrivande behandlas i relation till läsutveckling, med fokus på sambandet mellan fonem och grafem. 
+Skrivande behandlas i relation till läsutveckling, med fokus på sambandet mellan fonem och grafem. 
 
-Läsfrämjande undervisning belyses i anslutning till arbetet med läsförståelse och elevers intresse för läsning, inklusive högläsning, textsamtal samt gemensam och enskild läsning. 
+Läsfrämjande undervisning belyses i anslutning till arbetet med läsförståelse och elevers intresse för läsning, inklusive högläsning, textsamtal samt gemensam och enskild läsning. 
 
-Vidare ger kursen verktyg för att i iterativa cykler planera, genomföra och analysera undervisningen utifrån uppföljning av elevers språk-, läs- och skrivutveckling på grupp- och individnivå inom en differentierad och balanserad läsundervisning. Genom detta  bidrar kursen till en fördjupad förståelse för hur undervisningen kan stödja alla elevers fortsatta språk-, läs- och skrivutveckling.
+Vidare ger kursen verktyg för att i iterativa cykler planera, genomföra och analysera undervisningen utifrån uppföljning av elevers språk-, läs- och skrivutveckling på grupp- och individnivå inom en differentierad och balanserad läsundervisning. Genom detta bidrar kursen till en fördjupad förståelse för hur undervisningen kan stödja alla elevers fortsatta språk-, läs- och skrivutveckling.
 
 ## Examinationsformer
 
@@ -77,6 +77,10 @@ Betyg rapporteras enligt följande:
 Betyg rapporteras enligt följande:
 
   - Språk-, läs- och skrivdidaktisk fördjupning för undervisning i förskoleklass och årskurs 1–3 utifrån första- och andraspråksperspektiv - 7,5 hp | U–G
+
+## Förkunskapskrav
+
+- Lärarlegitimation
 
 ## Övrigt
 
@@ -99,3 +103,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - Advanced language, reading, and writing didactics for preschool class and grades 1–3, from first- and second-language perspectives - 7.5 Credits | U–G
+
+### Prerequisites
+
+- Teacher Certification

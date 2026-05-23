@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: e6c5e9b7fa206f23
+scrape_hash: 8fb56882da27cf83
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZR
 up: "[[Energiteknik MOC]]"
 ---
@@ -68,6 +68,10 @@ Betyg rapporteras enligt följande:
   - Inlämningsuppgifter - 1,0 hp | U–G
   - Seminarier - 1,5 hp | U–G
   - Salstentamen - 2,0 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Matematik 3c eller Matematik D, Fysik 2, Kemi 1. Eller: Matematik fortsättning nivå 1c, Fysik nivå 2, Kemi nivå 1
 
 ## Övrigt
 

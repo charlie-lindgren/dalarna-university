@@ -10,7 +10,7 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: d2af0e0dae323ade
+scrape_hash: b6c8d3afa5d95af8
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34D
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -68,6 +68,10 @@ Betyg rapporteras enligt följande:
 
   - Seminarier - 3 hp | U–G
   - Muntlig och skriftlig examination - 4,5 hp | U–VG
+
+## Förkunskapskrav
+
+- 60 hp inom idrottsvetenskap, hälsovetenskap eller idrotts- och hälsovetenskap, inklusive 7,5 hp i grundläggande vetenskaplig metod.
 
 ## Övrigt
 

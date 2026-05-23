@@ -9,7 +9,7 @@ amne: "Matematikdidaktik"
 amne_kod: "MDI"
 institution: "IIT"
 tags: [kursplan, MDI, IIT]
-scrape_hash: a800fc385043d01c
+scrape_hash: 4e11484fa4974c5c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD3GZ
 up: "[[Matematikdidaktik MOC]]"
 ---
@@ -63,6 +63,10 @@ Betyg rapporteras enligt följande:
 
   - Matematikdidaktik I - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Matematik 4 eller Matematik D, Engelska 6, Samhällskunskap 1b eller 1a1+1a2. Eller: Matematik fortsättning nivå 2, Engelska nivå 2, Samhällskunskap nivå 1b eller nivå 1a2
+
 ## Övrigt
 
 För studenter i nätbaserad kurs krävs en väl fungerande nätuppkoppling och verktyg för kommunikation med ljud och bild via internet.
@@ -82,3 +86,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Mathematics Education I - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements and Mathematics 4 or Mathematics D, English 6, Social Sciences 1b or 1a1+1a2. Or: Mathematics Further level 2, English level 2, Social Sciences level 1b or level 1a2

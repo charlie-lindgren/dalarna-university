@@ -9,7 +9,7 @@ amne: "Franska"
 amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
-scrape_hash: 6366c5674f3f35fe
+scrape_hash: 79e155c3c90f9355
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR35E
 up: "[[Franska MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
 
   - Muntlig redovisning - 3 hp | U–VG
   - Skriftlig redovisning - 4,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet (med undantag för kravet på svenska för dig med utländska betyg) samt Franska 3, Engelska 6. Eller: Franska fortsättning nivå 1, Engelska nivå 2
 
 ## Övrigt
 

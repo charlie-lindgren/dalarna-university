@@ -9,7 +9,7 @@ amne: "Statsvetenskap"
 amne_kod: "SKA"
 institution: "IKS"
 tags: [kursplan, SKA, IKS]
-scrape_hash: 3f8066e3755c5da5
+scrape_hash: 13094e2c389c4b69
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK38P
 up: "[[Statsvetenskap MOC]]"
 ---
@@ -55,6 +55,10 @@ Betyg rapporteras enligt följande:
 
   - Svensk politik och samhälle - kontinuitet och förändring - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -90,3 +94,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Swedish politics and society - continuity and change - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements

@@ -9,7 +9,7 @@ amne: "Tyska"
 amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
-scrape_hash: 16da335dfcd1349f
+scrape_hash: fe9b105f7ee3cd5b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3J8
 up: "[[Tyska MOC]]"
 ---
@@ -59,6 +59,10 @@ Betyg rapporteras enligt följande:
 
   - Tyskspråkig barn- och ungdomslitteratur - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Tyska: Modern tyskspråkig litteratur, 7,5 hp
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskod GTY23C.
@@ -100,3 +104,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Children‘s and Young Adult Literature in German - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- German: Modern German Literature, 7.5 credits

@@ -10,7 +10,7 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: c80247be3641e107
+scrape_hash: a4e3211e8e821ab9
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3AV
 up: "[[Bildproduktion MOC]]"
 ---
@@ -66,6 +66,10 @@ Betyg rapporteras enligt följande:
   - Projektplanering med dokumentation - 3 hp | U–G
   - Audiovisuella produktioner för sociala medier - 7 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Tillgång till valfritt redigeringsverktyg för ljud och bild är ett krav för kursen.
@@ -113,3 +117,7 @@ Grades are reported as follows:
   - Democracy and ethics in social media - 5 Credits | U–G
   - Project planning with documentation - 3 Credits | U–G
   - Audiovisual productions for social media - 7 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

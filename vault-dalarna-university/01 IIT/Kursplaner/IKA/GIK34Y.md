@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: b59c894296211ef8
+scrape_hash: 59c4cf174800f453
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK34Y
 up: "[[Informatik MOC]]"
 ---
@@ -82,6 +82,11 @@ Betyg rapporteras enligt följande:
   - Laborationer - 1,5 hp | U–G
   - Löpande examination i seminarieserie - 1 hp | U–G
   - Projekt - 3 hp | U–VG
+
+## Förkunskapskrav
+
+- Data- och informationshantering, 15 hp eller Entreprenörskap - villkor och särart, 7,5 hp eller Introduktion till IT och digitala tjänster, 7,5 hp eller
+Industriell ekonomi - grundläggande kurs, 7,5hp
 
 ## Övrigt
 

@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: 1c502508be8b31c3
+scrape_hash: 51e6995562d69840
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37R
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -135,6 +135,10 @@ Betyg rapporteras enligt följande:
   - Delkurs 2. Friluftsliv 2: skidor och skridsko - 7,5 hp | U–VG
   - Delkurs 3. Bedömning och betygssättning i idrott och hälsa - 7,5 hp | U–VG
   - Delkurs 4. Rörelse 2: gymnastik, parkour, och friidrott - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Idrott och hälsa 1 med didaktisk inriktning, 22 hp eller Idrott och hälsa 1 med didaktisk inriktning åk 4-6, 22 hp
 
 ## Övrigt
 

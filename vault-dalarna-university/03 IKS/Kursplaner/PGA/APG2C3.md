@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 8b6669c90d7a9751
+scrape_hash: e36bf866895eed2a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2C3
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -69,6 +69,10 @@ Betyg rapporteras enligt följande:
   - God undervisningspraktik och individuell undervisningsskicklighet (mål nr 3-5) - 1,5 hp | U–G
   - Undervisningsutvecklande arbete (mål nr 6-9) - 3,5 hp | U–G
 
+## Förkunskapskrav
+
+- Beslut om meriteringsnivå 1, verksam som legitimerad lärare eller förskollärare inom skolväsendet samt ha fullgjort studier om minst 30 hp efter behörighetsgivande examen
+
 ## Övrigt
 
 Kursen riktar sig till följande målgrupper:
@@ -94,3 +98,7 @@ Grades are reported as follows:
   - Systematic documentation and analysis of teaching in relation to student learning and development - 2.5 Credits | U–G
   - Effective teaching practies and individual teaching competence - 1.5 Credits | U–G
   - Teaching development work - 3.5 Credits | U–G
+
+### Prerequisites
+
+- Beslut om meriteringsnivå 1, verksam som legitimerad lärare eller förskollärare inom skolväsendet samt ha fullgjort studier om minst 30 hp efter behörighetsgivande examen

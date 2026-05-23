@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: f63b012d5fd35df8
+scrape_hash: 556f0b0ec2f2cb65
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EH
 up: "[[Medieproduktion MOC]]"
 ---
@@ -66,6 +66,10 @@ Betyg rapporteras enligt följande:
   - TV-journalistik och produktionsverktyg - 2 hp | U–G
   - Nyhets- och flerkameraproduktion - 5,5 hp | U–G
 
+## Förkunskapskrav
+
+- 52,5 hp inom medieproduktion inklusive Introduktion till medieproduktion 15 hp
+
 ## Övrigt
 
 Modulen _Nyhets- och flerkameraproduktion 5,5 hp _kan examineras endast när kursen går. Vid underkänt betyg hänvisas studenten till nästa kurstillfälle för omexamination.
@@ -84,3 +88,7 @@ Grades are reported as follows:
 
   - TV Journalism and Production Tools - 2 Credits | U–G
   - News and Multi-camera Production - 5.5 Credits | U–G
+
+### Prerequisites
+
+- 52.5 credits in Media Production including Introduction to Media Production 15 credits

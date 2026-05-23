@@ -9,7 +9,7 @@ amne: "Bild"
 amne_kod: "BIL"
 institution: "IKS"
 tags: [kursplan, BIL, IKS]
-scrape_hash: cea26588483dd517
+scrape_hash: bd3fe52c770d6259
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBP32V
 up: "[[Bild MOC]]"
 ---
@@ -91,6 +91,10 @@ Betyg rapporteras enligt följande:
 
   - Bildämnet och visuell kultur - 9 hp | U–VG
   - Formgivning och visuell gestaltning - 6 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

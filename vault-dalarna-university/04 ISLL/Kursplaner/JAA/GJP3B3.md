@@ -9,7 +9,7 @@ amne: "Japanska"
 amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
-scrape_hash: 8c768e1898537491
+scrape_hash: 7ab66f3e8129558d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP3B3
 up: "[[Japanska MOC]]"
 ---
@@ -71,6 +71,10 @@ Betyg rapporteras enligt följande:
 
   - Examensarbete - 15 hp | A–F
 
+## Förkunskapskrav
+
+- 150 hp varav 75 hp inom huvudområdet japanska, inklusive Japanska: Projektbeskrivning, 15 hp
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskoder GJP23Y och JP2011.
@@ -126,3 +130,7 @@ The grading scale used for the final course grade is A–F.
 Grades are reported as follows:
 
   - Degree Thesis - 15 Credits | A–F
+
+### Prerequisites
+
+- 150 credits of which 75 credits in the main field of study Japanese, including Japanese: Research Proposal, 15 credits

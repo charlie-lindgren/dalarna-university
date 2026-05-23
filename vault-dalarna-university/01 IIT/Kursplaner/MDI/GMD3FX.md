@@ -10,7 +10,7 @@ amne_kod: "MDI"
 institution: "IIT"
 tags: [kursplan, MDI, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 1248f69d5a14e20d
+scrape_hash: f361b3a8b4b7690a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD3FX
 up: "[[Matematikdidaktik MOC]]"
 ---
@@ -60,6 +60,10 @@ Betyg rapporteras enligt följande:
 
   - Muntliga och skriftliga redovisningar - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet. För uppdragsutbildning gäller dock undantag från kravet om grundläggande behörighet, SFS 2002:760, enligt vilken det är uppdragsgivare som utser kursdeltagare.
+
 ## Övrigt
 
 Denna kurs vänder sig till verksamma förskollärare och lärare i förskoleklass samt lärare i årskurs 1–3 och förutsätter att den studerande kan genomföra vissa moment i den egna verksamheten. För nätbaserad kurs krävs att den studerande kan kommunicera med ljud och bild via en dator eller motsvarande.  
@@ -79,3 +83,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Oral and written accounting - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements. For commissioned education, exeptions are made from the above stated general entry requirement, SFS 2002:760, according to which it is the commissioning body who appoints students.

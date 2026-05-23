@@ -9,7 +9,7 @@ amne: "Nationalekonomi"
 amne_kod: "NAA"
 institution: "IKS"
 tags: [kursplan, NAA, IKS]
-scrape_hash: 839e3b5965c537d7
+scrape_hash: 75b4190fb5f16254
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA3DA
 up: "[[Nationalekonomi MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
 
   - Finansiell ekonomi - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Statistik 7,5 hp alternativt Mikroekonomi 7,5 hp och Makroekonomi 7,5 hp
+
 ## Övrigt
 
 Maximalt 5 tentamenstillfällen.  
@@ -105,3 +109,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Financial Economics - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Statistics 7.5 credits or Microeconomics 7.5 credits and Macroeconomics 7.5 credits

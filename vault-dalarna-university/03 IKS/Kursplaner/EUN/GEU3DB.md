@@ -9,7 +9,7 @@ amne: "Entreprenörskap och innovationsteknik"
 amne_kod: "EUN"
 institution: "IKS"
 tags: [kursplan, EUN, IKS]
-scrape_hash: 00f0567815913201
+scrape_hash: 5ed9818d9b5a51b9
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU3DB
 up: "[[Entreprenörskap och innovationsteknik MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
 
   - Kreativitet för entreprenörer och företag - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Antalet examinationsförsök är begränsat till fem.
@@ -104,3 +108,7 @@ For a final grade of VG, students must achieve VG on their written assignments a
 Grades are reported as follows:
 
   - Creativity for entrepreneurs and businesses - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements

@@ -10,7 +10,7 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: ba00197571f4abd5
+scrape_hash: 15847c0a466ec19e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2BF
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -58,6 +58,10 @@ Betyg rapporteras enligt följande:
 
   - Att främja en professionsdriven verksamhetsutveckling i förskola, skola och fritidshem - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- Rektorsprogram 30 hp och därefter ett års dokumenterad arbetslivserfarenhet som rektor/biträdande rektor på minst halvtid samt pågående anställning som rektor eller biträdande rektor inom förskola, skola eller fritidshem
+
 ## Övrigt
 
 Utbildningen genomförs som en uppdragsutbildning från Skolverket inom ramen för Fortbildning för rektorer (FFR).
@@ -87,3 +91,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - Promoting the Professional Development of Preschools, Schools and Extended Schools - 7.5 Credits | U–G
+
+### Prerequisites
+
+- Principal Education 30 credits, after which one year of documented professional work experience as a principal/vice-principal, half-time basis (minimum), and current employment as a principal/vice-principal at a preschool, school or extended school

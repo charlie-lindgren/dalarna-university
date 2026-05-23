@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: 150cbcf1cc813b8e
+scrape_hash: bc6393f1de519db6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH39H
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
 
   - Tentamen, skriftliga och muntliga analyser av studiebesök, och träningsupplägg. - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -106,3 +110,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Examination, written as well as oral analysis of field visits, and planning of training - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements

@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: 4b9f66176a07ff2f
+scrape_hash: b837a4f351a76049
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2C2
 up: "[[Engelska MOC]]"
 ---
@@ -58,6 +58,10 @@ Betyg rapporteras enligt följande:
 
   - Examensarbete - 30 hp | A–F
 
+## Förkunskapskrav
+
+- Kandidatexamen i språk eller litteraturvetenskap om minst 180 hp. 90 hp på avancerad nivå, varav 30 hp inom huvudområdet Interkulturella litteraturstudier.
+
 ## Övrigt
 
 Undervisningsspråket vid seminarierna är engelska.
@@ -103,3 +107,7 @@ The grading scale used for the final course grade is A–F.
 Grades are reported as follows:
 
   - Degree Thesis - 30 Credits | A–F
+
+### Prerequisites
+
+- Bachelor‘s Degree in Languages or Literary Studies of at least 180 credits. 90 credits at Second Cycle, including 30 credits within the main field of study Intercultural Literature Studies.

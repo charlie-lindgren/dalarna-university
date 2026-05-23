@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: a5416cef47cc0f86
+scrape_hash: 52ef10fed80bb2f3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CL
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -159,6 +159,10 @@ Betyg rapporteras enligt följande:
   - Människan, samhället och konstruktionen av religion och livsåskådning (Re) - 6,5 hp | U–VG
   - Samhällsorienterande undervisning i ett ämnesövergripande perspektiv (So) - 4 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Engelska 6, Samhällskunskap 1b eller 1a1+1a2. Eller: Engelska nivå 2, Samhällskunskap nivå 1b eller nivå 1a2
+
 ## Övrigt
 
 Nätbaserad kurs innehåller en obligatorisk campusträff om en till tre dagar.  
@@ -198,3 +202,7 @@ Grades are reported as follows:
   - The Individual and Society in a Historical Perspective - 6.5 Credits | U–VG
   - The Individual, Society and the Construction of Religion the Conception of Life - 6.5 Credits | U–VG
   - Social Science Teaching in a Subject Integrated Perspective - 4 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements and English 6, Social Sciences 1b or 1a1+1a2. Or: English level 2, Social Sciences level 1b or level 1a2

@@ -9,36 +9,18 @@ up: "[[ISLL MOC]]"
 
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (19 st)
+## Kurser (5 st)
 
-- [[GRY284]] — Det postsovjetiska ryska samhället
-- [[GRY285]] — Ryska II: Muntlig språkfärdighet
-- [[GRY286]] — Ryska II: Rysslands kultur- och idéhistoria
-- [[GRY287]] — Ryska IV: Grammatik och skriftlig språkfärdighet
-- [[GRY28H]] — Ryska I: Grundläggande kurs 3
-- [[GRY28J]] — Ryska II: Grammatik och skriftlig språkfärdighet
-- [[GRY28K]] — Ryska III: Muntlig språkfärdighet
-- [[GRY28L]] — Ryska III: Grammatik och skriftlig språkfärdighet
-- [[GRY28P]] — Ryska V: Ryska språkets historia: Från näverbrev till Twitter
-- [[GRY28U]] — Ryska III: Rysk litteratur mellan 1800 och 1917
-- [[GRY2B3]] — Ryska IV: Muntlig språkfärdighet
-- [[GRY2B4]] — Ryska IV: Rysk litteratur mellan 1917 och 1991
-- [[GRY2BS]] — Ryska V: Kandidatexamensarbete
-- [[GRY2LE]] — Rysk folklore: Tro, magi och fruktan genom tiderna
 - [[GRY2YW]] — Ryska för modersmålslärare: språkdidaktik i ett flerspråkigt perspektiv
 - [[GRY36F]] — Rysk litteratur: från bok till film
 - [[GRY38R]] — Ryska I: Grundläggande kurs 1
 - [[GRY38S]] — Ryska I: Grundläggande kurs 2
 - [[GRY38T]] — Ryska I: Grundläggande kurs 1 och 2
 
-## Vilande kursplaner (8 st)
+## Vilande kursplaner (4 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
-- [[ARY23F]] — Ryska VI: Stalintidens ideologi och estetik
-- [[ARY25M]] — Ryska VI: Det virtuella Ryssland: politik, språk och nya medier
-- [[GRY2BR]] — Ryska V: Samtida rysk litteratur och kultur
-- [[GRY2HL]] — Introduktion till rysk opera 1
 - [[GRY325]] — Introduktion till rysk opera 2
 - [[GRY36G]] — Introduktion till rysk film
 - [[GRY36H]] — Sovjetisk och postsovjetisk science fiction-film

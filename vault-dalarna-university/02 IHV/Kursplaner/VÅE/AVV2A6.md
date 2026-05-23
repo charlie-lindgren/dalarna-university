@@ -9,7 +9,7 @@ amne: "Vårdvetenskap"
 amne_kod: "VÅE"
 institution: "IHV"
 tags: [kursplan, VÅE, IHV]
-scrape_hash: 561699a67d6db005
+scrape_hash: ec26b2e68f03d24d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVV2A6
 up: "[[Vårdvetenskap MOC]]"
 ---
@@ -52,6 +52,10 @@ Som betygsskala på hel kurs används U–G.
 Betyg rapporteras enligt följande:
 
   - Säker hälso- och sjukvård samt omsorg - komplexa system och förbättringskunskap - 7,5 hp | U–G
+
+## Förkunskapskrav
+
+- Examen om minst 120 hp
 
 ## Övrigt
 

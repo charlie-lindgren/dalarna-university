@@ -9,7 +9,7 @@ amne: "Byggteknik"
 amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
-scrape_hash: 34a9985f5edfca7b
+scrape_hash: c60a2fdb01e39f78
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY3AX
 up: "[[Byggteknik MOC]]"
 ---
@@ -63,6 +63,10 @@ Betyg rapporteras enligt följande:
   - Skriftlig rapport - 5 hp | U–VG
   - Seminarium - 1,5 hp | U–G
   - Muntlig redovisning - 1 hp | U–G
+
+## Förkunskapskrav
+
+- 90 hp i Byggteknik - Högskoleingenjörsprogrammet och Byggstatik och hållfasthetslära 7,5 hp
 
 ## Övrigt
 

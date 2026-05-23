@@ -10,7 +10,7 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 5889f22102c98312
+scrape_hash: 42409163e49f3dce
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR29D
 up: "[[Franska MOC]]"
 ---
@@ -66,6 +66,10 @@ Som betygsskala på hel kurs används A–F.
 Betyg rapporteras enligt följande:
 
   - Examensarbete - 30 hp | A–F
+
+## Förkunskapskrav
+
+- Kandidatexamen i språk eller litteraturvetenskap om minst 180 hp. 90 hp på avancerad nivå, varav 30 hp inom huvudområdet interkulturella litteraturstudier och 22,5 hp i franskpråkig litteratur.
 
 ## Övrigt
 

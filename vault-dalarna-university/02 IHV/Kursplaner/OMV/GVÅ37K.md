@@ -9,7 +9,7 @@ amne: "Omvårdnad"
 amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
-scrape_hash: d44266a01e7e1115
+scrape_hash: 30b7bc858ce88199
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ37K
 up: "[[Omvårdnad MOC]]"
 ---
@@ -68,6 +68,10 @@ Som betygsskala på hel kurs används U–G.
 Betyg rapporteras enligt följande:
 
   - Verksamhetsförlagd utbildning - 7,5 hp | U–G
+
+## Förkunskapskrav
+
+- 6 hp från Sjuksköterskans profession och yrkesansvar 10,5 hp och 3 hp från Omvårdnadsprocessen och kliniska färdigheter 6 hp
 
 ## Övrigt
 

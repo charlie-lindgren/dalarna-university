@@ -9,7 +9,7 @@ amne: "Byggteknik"
 amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
-scrape_hash: 02cc991656941231
+scrape_hash: d1fc3348eb4e8f63
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY33L
 up: "[[Byggteknik MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
 
   - Skriftlig tentamen - 2,5 hp | U, 3, 4, 5
   - Övningar, seminarier och projektuppgift - 5 hp | U, 3, 4, 5
+
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Matematik 3b eller 3c eller Matematik C, Samhällskunskap 1b eller 1a1+1a2, Engelska 6. Eller: Matematik fortsättning nivå 1b eller Matematik fortsättning nivå 1c, Samhällskunskap nivå 1b eller nivå 1a2, Engelska nivå 2
 
 ## Övrigt
 

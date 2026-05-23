@@ -9,7 +9,7 @@ amne: "Maskinteknik"
 amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT]
-scrape_hash: 8bc249bbd6a8dd18
+scrape_hash: bfb7e1ab28b810bf
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34R
 up: "[[Maskinteknik MOC]]"
 ---
@@ -77,6 +77,10 @@ Betyg rapporteras enligt följande:
   - Salstentamen - 4 hp | U, 3, 4, 5
   - Laboration, materialprovning - 2 hp | U–G
   - Laboration, materialanalys - 1,5 hp | U–G
+
+## Förkunskapskrav
+
+- Materialets roll i produktionskedjan, 7,5 hp
 
 ## Övrigt
 

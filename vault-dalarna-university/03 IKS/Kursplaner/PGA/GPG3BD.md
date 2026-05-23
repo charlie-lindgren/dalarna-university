@@ -10,7 +10,7 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 6b896b18ba34b543
+scrape_hash: cec6ddfec12a2989
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3BD
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
   - Skolans samhällsuppdrag och styrning - 4 hp | U–VG
   - Bedömning - 3,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Engelska 6, Samhällskunskap 1b eller 1a1+1a2. Eller: Engelska nivå 2, Samhällskunskap nivå 1b eller nivå 1a2
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -81,3 +85,7 @@ Grades are reported as follows:
 
   - The Role of Schools in Society and Their Governance - 4 Credits | U–VG
   - Assessment - 3.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements and English 6, Social Sciences 1b or 1a1+1a2. Or: English level 2, Social Sciences level 1b or level 1a2

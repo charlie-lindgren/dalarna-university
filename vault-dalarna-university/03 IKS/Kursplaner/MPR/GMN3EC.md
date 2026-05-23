@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 723ed1943610df38
+scrape_hash: 3951b43dc4ca4817
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EC
 up: "[[Medieproduktion MOC]]"
 ---
@@ -64,6 +64,10 @@ Betyg rapporteras enligt följande:
   - Audiovisuella teorier - 5 hp | U–G
   - Audiovisuella gestaltningar - 2,5 hp | U–G
 
+## Förkunskapskrav
+
+- Introduktion till medieproduktion 15 hp
+
 ## Övrigt
 
 Modulen _Audiovisuella gestaltningar 2,5 hp _kan examineras endast när kursen går. Vid underkänt betyg hänvisas studenten till nästa kurstillfälle för omexamination.
@@ -82,3 +86,7 @@ Grades are reported as follows:
 
   - Audiovisual Theories - 5 Credits | U–G
   - Audiovisual Designs - 2.5 Credits | U–G
+
+### Prerequisites
+
+- Introduction to Media Production 15 credits

@@ -9,7 +9,7 @@ amne: "Japanska"
 amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
-scrape_hash: 7ff647a4b1ecaa35
+scrape_hash: 2d281997d233fb27
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP37W
 up: "[[Japanska MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
   - Klassisk haiku - 5 hp | A–F
   - Modern och nutida haiku - 5 hp | A–F
   - Kreativt skrivande - 5 hp | A–F
+
+## Förkunskapskrav
+
+- Japanska III: Språkfärdighet, 15 hp, Japanska III: Den moderna novellen, 7,5 hp och Japanska III: Att läsa manga, 7,5 hp
 
 ## Övrigt
 

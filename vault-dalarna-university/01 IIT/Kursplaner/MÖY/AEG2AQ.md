@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: 44986cbf501db2fb
+scrape_hash: d6746af5271c04ec
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AQ
 up: "[[Energiteknik MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
   - Inlämningsuppgifter - 2 hp | U, 3, 4, 5
   - Seminarier - 3 hp | U–G
 
+## Förkunskapskrav
+
+- Tekn. kandidat-, högskoleingenjörs- eller civilingenjörsexamen med huvudområde/inriktning inom elektroteknik, maskinteknik, energiteknik, teknisk fysik, byggteknik, arkitektur och Engelska 6
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -109,3 +113,7 @@ Grades are reported as follows:
 
   - Assignments - 2 Credits | U, 3, 4, 5
   - Seminars - 3 Credits | U–G
+
+### Prerequisites
+
+- B.A. in engineering (mechanical, electrical, energy, physical sciences, construction engineering, architecture) of at least 180 credits and English 6

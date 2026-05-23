@@ -10,7 +10,7 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: f19ef946484634ff
+scrape_hash: 02bfeca374ab065a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3K2
 up: "[[Svenska som andraspråk MOC]]"
 ---
@@ -56,6 +56,10 @@ Betyg rapporteras enligt följande:
 
   - Litteraturdidaktik för ämneslärare i svenska som andraspråk på gymnasial nivå - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Lärarexamen och 45 hp svenska som andraspråk
+
 ## Övrigt
 
 Kursen ges som en uppdragsutbildning. Målgruppen är verksamma ämneslärare på gymnasial nivå som har svenska som andraspråk i kombination med annat ämne än svenska.
@@ -97,3 +101,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - “Literature Didactics for Upper-Secondary Teachers of Swedish as a Second Language - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- A Teachers Education and 45 credits in Swedish as Second Language

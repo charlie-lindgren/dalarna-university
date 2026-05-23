@@ -9,7 +9,7 @@ amne: "Maskinteknik"
 amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT]
-scrape_hash: c436af8e79120946
+scrape_hash: 552f048a5ce04199
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34K
 up: "[[Maskinteknik MOC]]"
 ---
@@ -59,6 +59,10 @@ Betyg rapporteras enligt följande:
 
   - Salstentamen - 2,5 hp | U, 3, 4, 5
   - Laboration: robotprogrammering - 5 hp | U–G
+
+## Förkunskapskrav
+
+- Automation, styrteknik 7,5 hp
 
 ## Övrigt
 

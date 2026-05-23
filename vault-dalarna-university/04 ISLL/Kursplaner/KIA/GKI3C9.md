@@ -8,11 +8,11 @@ huvudomrade: "Kinesiska 1"
 amne: "Kinesiska"
 amne_kod: "KIA"
 institution: "ISLL"
-tags: [kursplan, KIA, ISLL, vilande]
-scrape_hash: 140627c1cf472693
+tags: [kursplan, KIA, ISLL, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: f19f6fd6cda22395
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3C9
 up: "[[Kinesiska MOC]]"
-cssclasses: [vilande]
 ---
 
 # GKI3C9
@@ -67,6 +67,10 @@ Betyg rapporteras enligt följande:
   - Kinesisk språkfärdighet för affärslivet 3 - 2 hp | U–VG
   - Skriftlig tentamen - 1,5 hp | U–VG
 
+## Förkunskapskrav
+
+- 60 hp inom huvudområdet kinesiska
+
 ## Övrigt
 
 Kinesiska används som undervisningsspråk, med stöd av svenska eller engelska.
@@ -117,3 +121,7 @@ Grades are reported as follows:
   - Chinese language proficiency for business 2 - 2 Credits | U–VG
   - Chinese language proficiency for business 3 - 2 Credits | U–VG
   - Written examination - 1.5 Credits | U–VG
+
+### Prerequisites
+
+- 60 credits in the main field of study Chinese

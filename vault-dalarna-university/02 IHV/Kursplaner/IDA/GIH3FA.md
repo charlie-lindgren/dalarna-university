@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: 2c2dbe99b7e662af
+scrape_hash: d97b0ae9fe958272
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3FA
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -55,6 +55,10 @@ Betyg rapporteras enligt följande:
 
   - Coachning och idrottsdidaktik - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Idrottspedagogik 7,5 hp och Hållbart idrottsledarskap 7,5 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -88,3 +92,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Coaching and Sport Didactics - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Sport Pedagogy 7,5 credits and Sustainable Sports Coaching 7,5 credits

@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: d713a9da193c1722
+scrape_hash: 92028cff3af56974
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3FD
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -55,6 +55,10 @@ Betyg rapporteras enligt följande:
 
   - Portfölj av träningsmetoder - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Tillämpad idrottsfysiologi 7,5 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -90,3 +94,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Portfolio of training methods - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Applied Exercise Physiology 7,5 credits

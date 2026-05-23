@@ -9,7 +9,7 @@ amne: "Maskinteknik"
 amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT]
-scrape_hash: 498d2281d591a453
+scrape_hash: 718ecb84d7052083
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3BW
 up: "[[Maskinteknik MOC]]"
 ---
@@ -76,6 +76,10 @@ Betyg rapporteras enligt följande:
   - Laborationer och inlämningsuppgifter - 2,5 hp | U–G
   - Skriftlig tentamen - 5,0 hp | U, 3, 4, 5
 
+## Förkunskapskrav
+
+- Analys i en variabel 7,5 hp
+
 ## Övrigt
 
 Kursen ersätter kursen GMT2KD (mekanik för energiingenjörer)
@@ -94,3 +98,7 @@ Grades are reported as follows:
 
   - Laboratory work and assignments - 2.5 Credits | U–G
   - Written examination - 5.0 Credits | U, 3, 4, 5
+
+### Prerequisites
+
+- Single Variable Calculus 7.5 credits

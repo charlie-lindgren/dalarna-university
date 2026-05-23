@@ -9,7 +9,7 @@ amne: "Tyska"
 amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
-scrape_hash: 3f46b0c88ccf37b4
+scrape_hash: 5246532cf0bf2c43
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3J5
 up: "[[Tyska MOC]]"
 ---
@@ -64,6 +64,10 @@ Betyg rapporteras enligt följande:
   - Grammatik - 3 hp | U–VG
   - Vetenskapligt skrivande - 4,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Tyska: Skriftlig språkfärdighet I, 7,5 hp, Tyska: Tysk grammatik, 7,5 hp och Tyska: Modern tyskspråkig litteratur, 7,5 hp
+
 ## Övrigt
 
 Kursen överlappar kurserna _Tyska: Tysk grammatik med textkommentar_, 7,5 hp och _Tyska: Tysk grammatik_, 7,5 hp.
@@ -114,3 +118,7 @@ Grades are reported as follows:
 
   - Grammar - 3 Credits | U–VG
   - Academic Writing - 4.5 Credits | U–VG
+
+### Prerequisites
+
+- German: Written Language Proficiency I, 7.5 credits, German: German Grammar, 7.5 credits and German: Modern German Literature, 7.5 credits

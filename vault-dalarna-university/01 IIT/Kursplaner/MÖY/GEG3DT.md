@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: e1f28f048418a4c1
+scrape_hash: d2fbcbedbe8dc991
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG3DT
 up: "[[Energiteknik MOC]]"
 ---
@@ -69,6 +69,10 @@ Betyg rapporteras enligt följande:
   - Laborationer - 1,5 hp | U–G
   - Projekt - 5 hp | U–VG
 
+## Förkunskapskrav
+
+- Förnybar energiteknik 7,5 hp och Kraftvärmesystem 7,5 hp
+
 ## Övrigt
 
 Överlappar GEG26G.
@@ -120,3 +124,7 @@ Grades are reported as follows:
   - Hand in assignment with seminar - 1 Credit | U–G
   - Laborations - 1.5 Credits | U–G
   - Project - 5 Credits | U–VG
+
+### Prerequisites
+
+- Renewable Energy Technology 7.5 credits and Combined Heat and Power Systems 7.5 credits

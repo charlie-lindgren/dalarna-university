@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 1470d9b819b854fb
+scrape_hash: 0ef954053dd717b3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CJ
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -94,6 +94,10 @@ Betyg rapporteras enligt följande:
   - Teoretiska perspektiv på didaktik och ledarskap - 7,5 hp | U–VG
   - Verksamhetsförlagd utbildning - didaktik och ledarskap - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Skolväsendets historia och samhällsuppdrag - förskoleklass och grundskolan åk 1-6, 15 hp
+
 ## Övrigt
 
 I kursen ingår en obligatorisk campusträff om två dagar.
@@ -134,3 +138,7 @@ Grades are reported as follows:
 
   - Theoretical Perspectives on Didactics and Leadership - 7.5 Credits | U–VG
   - School Placement - Didactics and Leadership - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- The History and Civic Mission of the School System - Pre-school Class and Primary School Years 1-6, 15 Credits

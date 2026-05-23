@@ -10,7 +10,7 @@ amne_kod: "KIA"
 institution: "ISLL"
 tags: [kursplan, KIA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 724e601ae099a9a2
+scrape_hash: f788ebede785adf6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKI28Y
 up: "[[Kinesiska MOC]]"
 ---
@@ -68,6 +68,10 @@ Betyg rapporteras enligt följande:
   - Muntlig kommunikation - 4 hp | U–VG
   - Skriftlig kommunikation - 4 hp | U–VG
   - Klassisk kinesiska - 3 hp | U–VG
+
+## Förkunskapskrav
+
+- 90 hp inom huvudområdet kinesiska, inklusive kursen Kinesiska i tal och skrift IV, 15 hp
 
 ## Övrigt
 

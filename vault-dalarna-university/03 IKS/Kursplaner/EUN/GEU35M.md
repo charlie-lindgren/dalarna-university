@@ -10,7 +10,7 @@ amne_kod: "EUN"
 institution: "IKS"
 tags: [kursplan, EUN, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: c5cfc27a1104d32c
+scrape_hash: 2208992d92e4d856
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU35M
 up: "[[Entreprenörskap och innovationsteknik MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
   - Inlämningsuppgift, grupp - 2,5 hp | U–VG
   - Inlämningsuppgift, individuellt - 3 hp | U–VG
   - Seminarier - 1 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

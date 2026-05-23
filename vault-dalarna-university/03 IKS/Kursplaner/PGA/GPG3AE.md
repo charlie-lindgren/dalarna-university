@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 85ceda05b32663f1
+scrape_hash: dbb76ac433e3fabe
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AE
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
 
   - Utveckling och lärande för ämneslärare årskurs 7-9 - AIL - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Introduktion till läraryrket för ämneslärare årskurs 7-9 - AIL, 7,5 hp samt Didaktik och ledarskap för ämneslärare årskurs 7-9 AIL, 7,5 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -102,3 +106,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Development and Learning for Secondary Teachers, School Years 7-9 - Work-Integrated Programme - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Introduction to the Teaching Profession for Secondary Teachers - School Years 7-9 - Work-Integrated Programme, 7.5 credits and Teaching, Learning and Leadership for Secondary Teachers - School Years 7-9 - Work-Integrated Programme, 7.5 credits

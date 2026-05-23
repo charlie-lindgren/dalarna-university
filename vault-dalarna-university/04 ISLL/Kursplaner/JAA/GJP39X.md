@@ -9,7 +9,7 @@ amne: "Japanska"
 amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
-scrape_hash: a910aad33e1e8787
+scrape_hash: 6c9254c11add53fe
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP39X
 up: "[[Japanska MOC]]"
 ---
@@ -64,6 +64,10 @@ Slutbetyg på kursen sätts efter en samlad bedömning av examinator.
 Betyg rapporteras enligt följande:
 
   - Japanska IV: Introduktion till lingvistik - 15 hp | A–F
+
+## Förkunskapskrav
+
+- Japanska III: Språkfärdighet, 15 hp, Japanska III: Den moderna novellen, 7,5 hp och Japanska III: Att läsa manga, 7,5 hp
 
 ## Övrigt
 

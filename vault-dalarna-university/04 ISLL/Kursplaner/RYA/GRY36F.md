@@ -9,7 +9,7 @@ amne: "Ryska"
 amne_kod: "RYA"
 institution: "ISLL"
 tags: [kursplan, RYA, ISLL]
-scrape_hash: 5035dbc01e1e1fee
+scrape_hash: 837c45df245b6e21
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY36F
 up: "[[Ryska MOC]]"
 ---
@@ -56,6 +56,10 @@ Betyg rapporteras enligt följande:
 
   - Aktivt deltagande i seminarier - 5 hp | U–VG
   - Skriftliga inlämningsuppgifter - 2,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

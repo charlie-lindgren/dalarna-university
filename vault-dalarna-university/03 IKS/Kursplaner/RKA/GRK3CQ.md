@@ -8,11 +8,11 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Religionsvetenskap"
 amne_kod: "RKA"
 institution: "IKS"
-tags: [kursplan, RKA, IKS, vilande]
-scrape_hash: 9248de516a8a897a
+tags: [kursplan, RKA, IKS, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: 8e912da1a18b9711
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK3CQ
 up: "[[Religionsvetenskap MOC]]"
-cssclasses: [vilande]
 ---
 
 # GRK3CQ
@@ -60,6 +60,10 @@ Betyg rapporteras enligt följande:
 
   - Undervisning och lärande genom rollspel – inriktning religionsdidaktik - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Lärarexamen
+
 ## Övrigt
 
 Kursen innehåller en obligatorisk träff på Campus om en till två dagar.
@@ -77,3 +81,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Teaching and Learning Through Roleplay - Specialisation Didactics of Religion - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- A Teachers Education

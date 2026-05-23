@@ -10,7 +10,7 @@ amne_kod: "HIA"
 institution: "IKS"
 tags: [kursplan, HIA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 4c8781a6b9d2b52a
+scrape_hash: 6748d9926d77bcfc
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI38Q
 up: "[[Historia MOC]]"
 ---
@@ -54,6 +54,10 @@ Betyg rapporteras enligt följande:
 
   - Global miljöhistoria - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Överlappar GHI2CQ
@@ -89,3 +93,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Global environmental history - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements

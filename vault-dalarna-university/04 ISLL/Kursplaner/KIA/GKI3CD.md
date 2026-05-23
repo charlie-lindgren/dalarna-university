@@ -10,7 +10,7 @@ amne_kod: "KIA"
 institution: "ISLL"
 tags: [kursplan, KIA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: fa0a3efabdee471e
+scrape_hash: d8ece3d412b6f156
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3CD
 up: "[[Kinesiska MOC]]"
 ---
@@ -77,6 +77,10 @@ Betyg rapporteras enligt följande:
   - Examensarbete - 9 hp | U–VG
   - Muntlig presentation och försvar samt opposition - 3 hp | U–VG
 
+## Förkunskapskrav
+
+- Kinesiska i tal och skrift IV, 15 hp och Språk, litteratur och kultur: Vetenskaplig metod och akademiskt skrivande, 7,5 hp samt tre av följande kurser: Kinesisk modern litteratur I, 7,5 hp; Kinesisk lingvistik, 7,5 hp; Kinesiska: Språkinlärning och språkundervisning 7,5 hp; Kinesiska: Det kinesiska samhället, 7,5 hp
+
 ## Övrigt
 
 Kinesiska och engelska används som undervisningsspråk.
@@ -137,3 +141,7 @@ Grades are reported as follows:
   - Research Proposal - 1.5 Credits | U–G
   - Thesis - 9 Credits | U–VG
   - Oral Presentation, Defence and Peer Review - 3 Credits | U–VG
+
+### Prerequisites
+
+- Chinese in Speech and Writing IV, 15 credits and Languages, Literature and Culture: Research Methodology and Academic Writing, 7.5 credits and three of the following courses: Chinese Modern Literature I, 7.5 credits; Chinese Linguistics, 7.5 credits; Chinese: Language Learning and Teaching, 7.5 credits; Chinese: Chinese Society, 7.5 credits

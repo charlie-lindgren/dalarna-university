@@ -9,7 +9,7 @@ amne: "Samhällsbyggnadsteknik"
 amne_kod: "SQQ"
 institution: "IIT"
 tags: [kursplan, SQQ, IIT]
-scrape_hash: bc78405b1c6731d2
+scrape_hash: e237d2e153716b51
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ33M
 up: "[[Samhällsbyggnadsteknik MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
 
   - Uppsats - 2,5 hp | U, 3, 4, 5
   - Projektarbete inklusive seminarier - 5 hp | U–VG
+
+## Förkunskapskrav
+
+- 60 hp i huvudområdet Samhällsbyggnadsteknik
 
 ## Övrigt
 

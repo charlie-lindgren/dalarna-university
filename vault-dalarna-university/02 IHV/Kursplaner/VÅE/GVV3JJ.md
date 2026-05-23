@@ -9,7 +9,7 @@ amne: "Vårdvetenskap"
 amne_kod: "VÅE"
 institution: "IHV"
 tags: [kursplan, VÅE, IHV]
-scrape_hash: 26032288dbf6db18
+scrape_hash: b0245ca3bcc0e261
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVV3JJ
 up: "[[Vårdvetenskap MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
   - Människokroppen och funktionsnedsättningar - 12 hp | U–G
   - Funktionshinder och bemötande - 3 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen ingår i Assisterande teknikprogrammet 180 hp.
@@ -104,3 +108,7 @@ Grades are reported as follows:
 
   - The human body and impairments - 12 Credits | U–G
   - Disability and interaction - 3 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

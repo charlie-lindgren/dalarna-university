@@ -10,7 +10,7 @@ amne_kod: "SVE"
 institution: "ISLL"
 tags: [kursplan, SVE, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: a69e8e4a140ed47e
+scrape_hash: 62dfc0f4e6cade36
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3FP
 up: "[[Svenska MOC]]"
 ---
@@ -69,6 +69,10 @@ Betyg rapporteras enligt följande:
 
   - Språk-, läs- och skrivutveckling i förskoleklass och årskurs 1–3 utifrån första- och andraspråksperspektiv - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- Avlagd förskollärarexamen, grundlärarexamen med inriktning mot arbete i förskoleklass och grundskolans årskurs 1–3, grundlärarexamen med inriktning mot arbete i grundskolans årskurs 4–6 eller motsvarande äldre examen samt anställning hos huvudman och yrkesverksam.
+
 ## Övrigt
 
 Kursen är en uppdragsutbildning för att stärka elevers språk-, läs- och skrivutveckling utifrån första- och andraspråksperspektiv (Skolverkets dnr: 2.7.4–2025:990).  
@@ -89,3 +93,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - Language and Literacy Development in Preschool Class and Grades 1–3 Based on First and Second Language Perspectives - 7.5 Credits | U–G
+
+### Prerequisites
+
+- Degree of Bachelor of Arts in Pre-School Education or Degree of Master of Arts in Primary Edcuation – Pre-School and School Years 1-3 or Degree of Master of Arts in Primary Education – School Years 4-6 or equivalent older degree, as well as employment at a school and in a professional capacity.

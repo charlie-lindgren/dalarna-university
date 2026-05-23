@@ -10,7 +10,7 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 19b4b8de09953776
+scrape_hash: 5a8e91dc862ffdb1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GA
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -64,6 +64,10 @@ Betyg rapporteras enligt följande:
 
   - Examensarbete för kandidatexamen - 15 hp | U–VG
 
+## Förkunskapskrav
+
+- 60 hp i huvudområdet idrotts- och hälsovetenskap inklusive Examensarbete för högskoleexamen i idrotts- och hälsovetenskap 7,5 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -109,3 +113,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Bachelor Thesis - 15 Credits | U–VG
+
+### Prerequisites
+
+- 60 credits in the main field of study Sports and Health Science, including Higher Education Diploma in Sport and Health Science 7.5 credits

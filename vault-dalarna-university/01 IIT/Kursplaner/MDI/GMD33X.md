@@ -10,7 +10,7 @@ amne_kod: "MDI"
 institution: "IIT"
 tags: [kursplan, MDI, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: e01b0e3094ee695c
+scrape_hash: 688051266f3744bb
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD33X
 up: "[[Matematikdidaktik MOC]]"
 ---
@@ -213,6 +213,10 @@ Betyg rapporteras enligt följande:
   - Matematikdidaktik - 7,5 hp | U–VG
   - Envariabelanalys - 7,5 hp | U–VG
   - Statistik och sannolikhetslära - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Matematik 4 eller Matematik D. Eller: Matematik fortsättning nivå 2
 
 ## Övrigt
 

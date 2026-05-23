@@ -10,7 +10,7 @@ amne_kod: "FIA"
 institution: "IKS"
 tags: [kursplan, FIA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 55246d343106ee58
+scrape_hash: 33b0efa17d8bd624
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFI3BU
 up: "[[Filosofi MOC]]"
 ---
@@ -56,6 +56,10 @@ Betyg rapporteras enligt följande:
 
   - Introduktion till existentialismen - 7,5 hp | A–F
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -91,3 +95,7 @@ The grading scale used for the final course grade is A–F.
 Grades are reported as follows:
 
   - Introduction to Existentialism - 7.5 Credits | A–F
+
+### Prerequisites
+
+- General entry requirements

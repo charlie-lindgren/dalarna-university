@@ -10,7 +10,7 @@ amne_kod: "BIL"
 institution: "IKS"
 tags: [kursplan, BIL, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 8db633193ff83509
+scrape_hash: 903f953c78e830b3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBP3BC
 up: "[[Bild MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
 
   - Fotografiskt bildskapande B - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- Fotografiskt bildskapande A, 7,5 hp
+
 ## Övrigt
 
 Kursen är nätbaserad. För nätbaserad kurs krävs att den studerande kan kommunicera med ljud och bild via en dator eller motsvarande. Kursdeltagarna måste ha tillgång till digital systemkamera och lämpligt bildbehandlingsprogram.
@@ -79,3 +83,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - Photographic Image-Making B - 7.5 Credits | U–G
+
+### Prerequisites
+
+- Photographic Image-Making A, 7.5 credits

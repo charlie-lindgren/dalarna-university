@@ -9,7 +9,7 @@ amne: "Medicinsk vetenskap"
 amne_kod: "MCA"
 institution: "IHV"
 tags: [kursplan, MCA, IHV]
-scrape_hash: ee7afdd9623cebdf
+scrape_hash: 6fab3a1d2f2e2807
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC32X
 up: "[[Medicinsk vetenskap MOC]]"
 ---
@@ -69,6 +69,10 @@ Betyg rapporteras enligt följande:
 
   - Tentamen och seminarium - 3 hp | U–G
   - Muntlig och skriftlig redovisning av patientfall - 4,5 hp | U–G
+
+## Förkunskapskrav
+
+- Sjuksköterskeexamen eller fysioterapeutexamen
 
 ## Övrigt
 

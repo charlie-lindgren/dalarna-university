@@ -9,7 +9,7 @@ amne: "Bild"
 amne_kod: "BIL"
 institution: "IKS"
 tags: [kursplan, BIL, IKS]
-scrape_hash: afb9f6a9eef807fc
+scrape_hash: dc3e4596d077a9b2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBP32U
 up: "[[Bild MOC]]"
 ---
@@ -127,6 +127,10 @@ Betyg rapporteras enligt följande:
   - Formgivning och visuell gestaltning - 6 hp | U–VG
   - Fotografi och rörlig bild - 7,5 hp | U–VG
   - Bilders agens och kommunikation - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

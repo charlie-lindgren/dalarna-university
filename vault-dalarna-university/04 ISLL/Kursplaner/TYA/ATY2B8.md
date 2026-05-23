@@ -9,7 +9,7 @@ amne: "Tyska"
 amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
-scrape_hash: c37c8abffbb9decf
+scrape_hash: 35059d3b56b537ee
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY2B8
 up: "[[Tyska MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
 
   - Identitet och genus i tyskspråkig litteratur - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- 90 hp inom huvudområdet tyska, inklusive Tyska: Tyskspråkig litteratur och litteraturvetenskap, 7,5 hp, Tyska: Den moderna tyskspråkiga lingvistikens utveckling, 7,5 hp och Tyska: Examensarbete, 15 hp
+
 ## Övrigt
 
 Dena kurs överlappar kursen _Tyska: Modern kvinnolitteratur_, 7,5 hp.
@@ -106,3 +110,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Identity and Gender in Literature in German - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- 90 credits in the main field of study German, including German Literature and Literary Theory, 7.5 credits, German: The Development of Modern German Linguistics, 7.5 credits and German: Degree Thesis, 15 credits

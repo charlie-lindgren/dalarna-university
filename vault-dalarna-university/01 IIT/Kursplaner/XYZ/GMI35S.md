@@ -9,7 +9,7 @@ amne: "Mikrodataanalys"
 amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
-scrape_hash: 87130f95c2dfb0bf
+scrape_hash: f22e1fe070214b7f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI35S
 up: "[[Mikrodataanalys MOC]]"
 ---
@@ -67,6 +67,10 @@ Betyg rapporteras enligt följande:
 
   - Inlämningsuppgifter och seminarier - 4,5 hp | U–G
   - Tentamen - 3 hp | U–G
+
+## Förkunskapskrav
+
+- 15 hp i mikrodataanalys
 
 ## Övrigt
 

@@ -10,7 +10,7 @@ amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 3f8a3d2e72179209
+scrape_hash: 157040bdb64ee0c6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSR38B
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
@@ -58,6 +58,10 @@ Betyg rapporteras enligt följande:
 
   - Sexuell och reproduktiv hälsa samt rättigheter för ungdomar och unga vuxna i Ukraina - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet. För uppdragsutbildning gäller dock undantag från kravet om grundläggande behörighet, SFS 2002:760, enligt vilken det är uppdragsgivare som utser kursdeltagare.
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -98,3 +102,7 @@ U stands for Fail (Underkänd) and G stands for Pass (Godkänd).
 Grades are reported as follows:
 
   - Sexual and Reproductive Health and Rights of Adolescents and Young Adults in Ukraine - 7.5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements. For commissioned education, exeptions are made from the above stated general entry requirement, SFS 2002:760, according to which it is the commissioning body who appoints students.

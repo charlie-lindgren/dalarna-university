@@ -10,7 +10,7 @@ amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: b41baac84d07c27d
+scrape_hash: 7726396e9ca0b963
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY32H
 up: "[[Tyska MOC]]"
 ---
@@ -65,6 +65,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Seminarier, muntliga redovisningar, skriftliga reflekterande texter - 6 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Tyska 3. Eller: Tyska fortsättning nivå 1
 
 ## Övrigt
 

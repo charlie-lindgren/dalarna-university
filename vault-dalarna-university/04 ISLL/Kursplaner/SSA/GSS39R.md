@@ -10,7 +10,7 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: d7feb9c3991072d8
+scrape_hash: 8887357de7d36231
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS39R
 up: "[[Svenska som andraspråk MOC]]"
 ---
@@ -131,6 +131,10 @@ Betyg rapporteras enligt följande:
   - Ämnesspecifikt språk - 7,5 hp | U–VG
   - Bedömning och utveckling av språkfärdigheter på avancerad nivå - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Svenska som andraspråk I med didaktisk inriktning, 30 hp och Svenska som andraspråk II med didaktisk inriktning, 15 hp
+
 ## Övrigt
 
 I kursen ingår två fältstudier vid en grund- eller gymnasieskola. En obligatorisk träff om 1-2 dagar på campus ingår även i kursen.
@@ -165,3 +169,7 @@ Grades are reported as follows:
   - Fiction as a Teaching Tool in Upper Secondary School - 7.5 Credits | U–VG
   - Subject Specific Language - 7.5 Credits | U–VG
   - Assessment and Development of Language Proficiency at an Advanced Level - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Swedish as a Second Language I for Teacher Education Students, 30 credits and Swedish as a Second Language II for Teacher Education Students, 15 credits

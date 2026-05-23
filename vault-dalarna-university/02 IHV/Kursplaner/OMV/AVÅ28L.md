@@ -8,8 +8,9 @@ huvudomrade: "Omvårdnad 1"
 amne: "Omvårdnad"
 amne_kod: "OMV"
 institution: "IHV"
-tags: [kursplan, OMV, IHV]
-scrape_hash: 0a33561d2fa06bbc
+tags: [kursplan, OMV, IHV, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: 63e991b27b831c62
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ28L
 up: "[[Omvårdnad MOC]]"
 ---
@@ -59,6 +60,10 @@ Betyg rapporteras enligt följande:
   - Modul 1 - 2 hp | U–G
   - Modul 2 - 2 hp | U–G
   - Modul 3 - 3,5 hp | U–G
+
+## Förkunskapskrav
+
+- Av Socialstyrelsen utfärdad svensk legitimation som sjuksköterska samt kandidatexamen eller sjuksköterskeexamen om minst 180 hp med minst 90 hp inom ämnet omvårdnadsvetenskap/vårdvetenskap varav 15 hp utgörs av ett examensarbete
 
 ## Övrigt
 

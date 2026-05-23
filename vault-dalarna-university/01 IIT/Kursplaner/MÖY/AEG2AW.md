@@ -10,7 +10,7 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 3f7ebbbaa5f3338f
+scrape_hash: 63d77296674bd9af
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AW
 up: "[[Energiteknik MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
   - Seminarium - 2,5 hp | U–G
   - Projekt - 5 hp | U–VG
 
+## Förkunskapskrav
+
+- Högskoleingenjörsexamen, Civilingenjörsexamen eller Teknologie kandidatexamen med huvudområde inom elektroteknik, maskinteknik, energiteknik, teknisk fysik och Engelska 6
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -101,3 +105,7 @@ Grades are reported as follows:
 
   - Seminar - 2.5 Credits | U–G
   - Project - 5 Credits | U–VG
+
+### Prerequisites
+
+- Degree of Bachelor of Science in Engineering, Degree of Master of Science in Engineering or Degree of Bachelor of Science with a main field of study in Electrical Engineering, Mechanical Engineering, Energy Engineering or Engineering Physics and English 6

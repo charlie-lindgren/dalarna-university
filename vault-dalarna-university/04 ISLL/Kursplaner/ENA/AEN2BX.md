@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: 5daa02bee2ea75b1
+scrape_hash: d8dd24a9bdb041ee
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BX
 up: "[[Engelska MOC]]"
 ---
@@ -60,6 +60,10 @@ Betyg rapporteras enligt följande:
   - Skriftliga inlämningsuppgifter - 5 hp | A–F
   - Seminarier - 2,5 hp | A–F
 
+## Förkunskapskrav
+
+- Kandidatexamen 180 hp inom litteraturvetenskap eller språk och Engelska 6 eller 15 hp i interkulturella litteraturstudier på avancerad nivå
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskod AJP23Q.
@@ -102,3 +106,7 @@ Grades are reported as follows:
 
   - Written Assignments - 5 Credits | A–F
   - Seminars - 2.5 Credits | A–F
+
+### Prerequisites
+
+- Bachelor Degree of 180 credits in the field of Comparative Literature or Languages and English 6 or 15 credits in Intercultural Literature Studies at second cycle

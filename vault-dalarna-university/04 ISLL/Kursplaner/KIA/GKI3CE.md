@@ -10,7 +10,7 @@ amne_kod: "KIA"
 institution: "ISLL"
 tags: [kursplan, KIA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 75a350e66100665a
+scrape_hash: 6c30b3f191a749ff
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3CE
 up: "[[Kinesiska MOC]]"
 ---
@@ -142,6 +142,10 @@ Betyg rapporteras enligt följande:
   - Kinesisk lingvistik - 7,5 hp | U–VG
   - Ämnesdidaktik för kinesiska - 5 hp | U–VG
 
+## Förkunskapskrav
+
+- Kinesiska I med didaktisk inriktning, 30 hp och Kinesiska II med didaktisk inriktning, 22,5 hp, inklusive delkurserna Skriftlig språkfärdighet 2 och Språkdidaktik 2 A eller Språkdidaktik 2 B
+
 ## Övrigt
 
 Kursen innehåller två till tre fältdagar vid en grund- eller gymnasieskola.  
@@ -263,3 +267,7 @@ Grades are reported as follows:
   - Modern literature - 7.5 Credits | U–VG
   - Chinese linguistics - 7.5 Credits | U–VG
   - Chinese language learning and teaching - 5 Credits | U–VG
+
+### Prerequisites
+
+- Chinese I for Teacher Students, 30 credits and Chinese II for Teacher Students, 22,5 credits, including the modules Written Proficiency 2 and Language Learning and Teaching 2 A or Language Learning and Teaching 2 B

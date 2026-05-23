@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: 3628b2cbab564ee3
+scrape_hash: 826dcbb9c2bfaaf6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G4
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -53,6 +53,10 @@ Betyg rapporteras enligt följande:
 
   - Examensarbete för högskoleexamen - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- 30 hp idrotts- och hälsovetenskap inklusive Introduktion till vetenskapligt skrivande och forskningsmetodik 7,5 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -86,3 +90,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Higher Education Diploma final project - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- 30 credits in Sport and Health Science, including Introduction to Scientific Writing and Research Methods 7,5 credits

@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: 211a336daf37fe4e
+scrape_hash: e87efa4d5004bfb2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DJ
 up: "[[Engelska MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
 
   - Den samtida Bildungsromanen på engelska - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- 52,5 hp inom huvudområdet engelska, varav 22,5 hp i Engelska II (G1F nivå)
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskod EN2038.
@@ -104,3 +108,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - The Contemporary Coming-of-Age Novel in English - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- 52.5 credits in the main field of study English, of which 22.5 credits in English II (G1F level)

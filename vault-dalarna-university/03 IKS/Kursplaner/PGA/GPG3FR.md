@@ -10,7 +10,7 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 606e677225ebaf10
+scrape_hash: 042ef80459562675
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FR
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -50,6 +50,10 @@ Betyg rapporteras enligt följande:
 
   - Introduktion till studier i program - VAL - 0 hp | U–G
 
+## Förkunskapskrav
+
+- Antagen till VAL-utbildning
+
 ## Övrigt
 
 Kursen är en registreringskurs för VAL-studenter.  
@@ -69,3 +73,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - Introduction to Progamme Studies - 0 Credits | U–G
+
+### Prerequisites
+
+- Admitted to CPD education for Teachers

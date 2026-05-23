@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 155b2e6bb541b3f1
+scrape_hash: 9747ee0faab82ea7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2Z3
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -58,6 +58,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Bedömning och betygssättning - VAL - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Antagen till VAL-utbildning
 
 ## Övrigt
 

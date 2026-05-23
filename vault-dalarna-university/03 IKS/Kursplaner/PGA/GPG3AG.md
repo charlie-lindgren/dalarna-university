@@ -10,7 +10,7 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 9834884c39dc9224
+scrape_hash: c889bfa0fd738b6b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AG
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
 
   - Verksamhetsförlagd utbildning 2 för ämneslärare årskurs 7–9 AIL - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Didaktik och ledarskap för ämneslärare årskurs 7-9 - AIL, 7,5 hp, Verksamhetsförlagd utbildning 1 för ämneslärare årskurs 7-9 - AIL, 7,5 hp, Matematik I med didaktisk inriktning, 22,5 hp samt Idrott och hälsa I med didaktisk inriktning, 7,5 hp
+
 ## Övrigt
 
 Antalet examinationstillfällen för verksamhetsförlagd utbildning är begränsad till två.
@@ -107,3 +111,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Placement for Secondary Teachers 2 - Work-Integrated Programme - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Teaching, Learning and Leadership for Secondary Teachers - School Years 7-9 - Work-Integrated Programme, 7.5 credits, Placement 1 for Secondary Teachers - School Years 7-9 - Work-Integrated Programme, 7.5 credits, Mathematics Education I for Teachers, 22.5 credits and Physical Education and Health I for Teacher Students, 7.5 credits

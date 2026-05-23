@@ -10,7 +10,7 @@ amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: da3cdc771b45b458
+scrape_hash: fa559df73f5ddec0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3JW
 up: "[[Industriell ekonomi MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
   - Skriftlig examination - 4,5 hp | U–VG
   - Muntlig examination - 3 hp | U–G
 
+## Förkunskapskrav
+
+- 67,5 hp i huvudområdet assisterande teknik inklusive Tillämpning av regelverk för assisterande produkter 7,5 hp
+
 ## Övrigt
 
 Kursen ingår i Assisterande teknikprogrammet 180 hp.
@@ -103,3 +107,7 @@ Grades are reported as follows:
 
   - Written exam - 4.5 Credits | U–VG
   - Oral exam - 3 Credits | U–G
+
+### Prerequisites
+
+- 67.5 credits within the main field of study Assistive Technology, including Application of Regulations for Assistive Products 7.5 credits

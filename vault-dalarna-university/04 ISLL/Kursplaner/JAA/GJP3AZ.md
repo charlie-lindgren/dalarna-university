@@ -9,7 +9,7 @@ amne: "Japanska"
 amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
-scrape_hash: 16025d9aa4d14f5b
+scrape_hash: e3fbdeba561fde29
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP3AZ
 up: "[[Japanska MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
 
   - Introduktion till akademiskt skrivande - 7,5 hp | A–F
 
+## Förkunskapskrav
+
+- Grundläggande behörighet (med undantag för kravet på svenska för dig med utländska betyg) samt Engelska 6. Eller: Engelska nivå 2
+
 ## Övrigt
 
 Kursen överlappar kurserna_ Japanska: Akademiskt skrivande_, 7,5 hp och _Japanska II: Akademiskt skrivande_, 7,5 hp.
@@ -104,3 +108,7 @@ The grading scale used for the final course grade is A–F.
 Grades are reported as follows:
 
   - Introduction to Academic Writing - 7.5 Credits | A–F
+
+### Prerequisites
+
+- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades) and English 6. Or: English level 2

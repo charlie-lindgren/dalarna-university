@@ -9,7 +9,7 @@ amne: "Svenska som andraspråk"
 amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
-scrape_hash: d17b71e5ca733509
+scrape_hash: b30598da3bb9cc2d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASS28X
 up: "[[Svenska som andraspråk MOC]]"
 ---
@@ -64,6 +64,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Examensarbete - 30 hp | U–VG
+
+## Förkunskapskrav
+
+- Modersmål: Arabiska I med didaktisk inriktning, 30 hp, Modersmål: Arabiska II med didaktisk inriktning, 30 hp och Vetenskapsteori och utbildningsvetenskaplig forskning för ämneslärare, 7,5 hp
 
 ## Övrigt
 

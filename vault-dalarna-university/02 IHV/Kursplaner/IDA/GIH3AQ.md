@@ -8,11 +8,11 @@ huvudomrade: "Idrotts- och hälsovetenskap 1"
 amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
-tags: [kursplan, IDA, IHV, vilande]
-scrape_hash: 6e49a31301e96bca
+tags: [kursplan, IDA, IHV, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: 827c8a650432b9bb
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AQ
 up: "[[Idrotts- och hälsovetenskap MOC]]"
-cssclasses: [vilande]
 ---
 
 # GIH3AQ
@@ -60,6 +60,10 @@ Betyg rapporteras enligt följande:
 
   - Styrketräningens teori och praktiska tillämpning - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen genomförs i samverkan med Riksidrottsförbundet och Svenska Styrkelyftförbundet.
@@ -91,3 +95,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - The theory of strength training and its practical application - 7.5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

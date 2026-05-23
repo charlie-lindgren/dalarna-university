@@ -10,7 +10,7 @@ amne_kod: "PRA"
 institution: "ISLL"
 tags: [kursplan, PRA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: c86f852498fdc768
+scrape_hash: efa28cfd2a114709
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR3E5
 up: "[[Portugisiska MOC]]"
 ---
@@ -69,6 +69,10 @@ Betyg rapporteras enligt följande:
   - Teoretiska perspektiv - skriftlig uppgift - 2,5 hp | U–VG
   - Teoretiska perspektiv - muntlig uppgift - 2,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -119,3 +123,7 @@ Grades are reported as follows:
   - Internship - Plan and Logbook - 5 Credits | U–G
   - Theoretical Perspectives - Written Assignment - 2.5 Credits | U–VG
   - Theoretical Perspectives - Oral Assignment - 2.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements

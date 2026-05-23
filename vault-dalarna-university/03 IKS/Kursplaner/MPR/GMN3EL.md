@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: a5ed982e92bd8a6f
+scrape_hash: e32bc31acc78889b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EL
 up: "[[Medieproduktion MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
   - Klassiskt berättande - 5 hp | U–G
   - Berättarteori och reflektion - 2,5 hp | U–G
 
+## Förkunskapskrav
+
+- 60 hp inom medieproduktion inklusive Dialog och personregi för manusbundet berättande för olika medieplattformar 15 hp
+
 ## Övrigt
 
 Modulen _Redaktionsarbete för serier 7,5 hp_ kan examineras endast när kursen går. Vid underkänt betyg hänvisas studenten till nästa kurstillfälle för omexamination.
@@ -84,3 +88,7 @@ Grades are reported as follows:
   - Editorial Work for Series - 7.5 Credits | U–G
   - Classic Storytelling - 5 Credits | U–G
   - Narrative Theory and Reflection - 2.5 Credits | U–G
+
+### Prerequisites
+
+- 60 credits in Media Production including Directing Dialogue and Characters in Scripted Storytelling for Media Platforms 15 credits

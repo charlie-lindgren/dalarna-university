@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: e74d9604bfbc68b9
+scrape_hash: 1394bfa8a0e4674a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK36Q
 up: "[[Informatik MOC]]"
 ---
@@ -72,6 +72,10 @@ Betyg rapporteras enligt följande:
   - Löpande examination - 1,5 hp | U–G
   - Löpande examination - 3,5 hp | U–G
   - Projekt - 10 hp | U–G
+
+## Förkunskapskrav
+
+- 60 hp i huvudområdet informatik inklusive kurserna Dynamiska webbapplikationer 7,5 hp, Interaktionsdesign 7,5 hp och Visuell identitet 7,5 hp
 
 ## Övrigt
 

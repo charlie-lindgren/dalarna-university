@@ -10,7 +10,7 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: a5382da37bbf1183
+scrape_hash: 8501b5482c844526
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GC
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
   - Grundläggande näringslära - 3 hp | U–G
   - Tillämpad näringslära - 4,5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -99,3 +103,7 @@ Grades are reported as follows:
 
   - Basic principles of nutrition - 3 Credits | U–G
   - Applied sports nutrition - 4.5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

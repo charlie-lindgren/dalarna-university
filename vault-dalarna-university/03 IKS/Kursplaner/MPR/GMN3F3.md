@@ -10,7 +10,7 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 0cc43c8e43ba7b84
+scrape_hash: d1dfe1b97e3678b0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3F3
 up: "[[Medieproduktion MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
   - Verksamhetsförlagd medieproduktion - 12 hp | U–G
   - Individuell reflektion och analys - 3 hp | U–G
 
+## Förkunskapskrav
+
+- 150 hp inom medieproduktion inklusive Kandidatexamensarbete inom medieproduktion 15 hp
+
 ## Övrigt
 
 Studerande som underkänts i VFU-kurs har rätt att genomgå kursen ytterligare en gång, dock inte fler än två sammanlagt.
@@ -79,3 +83,7 @@ Grades are reported as follows:
 
   - Media Production Internship - 12 Credits | U–G
   - Individual Reflection and Analysis - 3 Credits | U–G
+
+### Prerequisites
+
+- 150 credits in Media Production including a Bachelor‘s degree project in Media Production, 15 credits

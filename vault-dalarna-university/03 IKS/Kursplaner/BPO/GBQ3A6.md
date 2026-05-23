@@ -10,7 +10,7 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 6768885a5e89b38b
+scrape_hash: 4051badd4754a75e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3A6
 up: "[[Bildproduktion MOC]]"
 ---
@@ -76,6 +76,10 @@ Betyg rapporteras enligt följande:
   - Projektbeskrivning med budget och kontrakt - 3 hp | A–F
   - Muntlig och audiovisuell projektpresentation - 3 hp | A–F
 
+## Förkunskapskrav
+
+- 30 hp inom medieproduktion och Engelska 6
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -135,3 +139,7 @@ Grades are reported as follows:
   - Project development - 2 Credits | A–F
   - Project description with budget and contracts - 3 Credits | A–F
   - Oral and audiovisual project presentation - 3 Credits | A–F
+
+### Prerequisites
+
+- 30 credits in Media Production and English 6

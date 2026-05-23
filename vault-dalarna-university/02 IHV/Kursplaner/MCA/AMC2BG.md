@@ -9,7 +9,7 @@ amne: "Medicinsk vetenskap"
 amne_kod: "MCA"
 institution: "IHV"
 tags: [kursplan, MCA, IHV]
-scrape_hash: fbc6c7227ceac00b
+scrape_hash: b44df4c7a24ed36e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC2BG
 up: "[[Medicinsk vetenskap MOC]]"
 ---
@@ -73,6 +73,10 @@ Betyg rapporteras enligt följande:
   - Skriftlig tentamen patofysiologi - 4 hp | U–G
   - Studieuppgift vaccinationer inkl redovisning - 1 hp | U–G
 
+## Förkunskapskrav
+
+- Svensk legitimation som sjuksköterska
+
 ## Övrigt
 
 Kursen ingår i Specialistsjuksköterskeutbildning till distriktssköterska.
@@ -106,3 +110,7 @@ Grades are reported as follows:
   - Oral examination - 4 Credits | U–G
   - Written examination - 4 Credits | U–G
   - Study Assignment vaccination incl presentation - 1 Credit | U–G
+
+### Prerequisites
+
+- Professional nurse registrated by the Swedish National Board of Health and Welfare

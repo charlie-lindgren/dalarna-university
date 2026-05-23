@@ -10,7 +10,7 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: ff6c75909137c89f
+scrape_hash: 7a834a0170a4a75f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JR
 up: "[[Maskinteknik MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
   - Laborationer inklusive rapporter - 3 hp | U–G
   - Skriftlig salstentamen - 4,5 hp | U, 3, 4, 5
 
+## Förkunskapskrav
+
+- Linjär algebra 7,5 hp och Analys i en variabel 7,5 hp
+
 ## Övrigt
 
 Kan ej tillgodoräknas i en examen samtidigt som kurserna FY1015, FY1016, FY1017 och FY1018.
@@ -111,3 +115,7 @@ Grades are reported as follows:
 
   - Laboratory work and reports - 3 Credits | U–G
   - Written examination - 4.5 Credits | U, 3, 4, 5
+
+### Prerequisites
+
+- Linear Algebra 7.5 credits and Single Variable Calculus 7.5 credits

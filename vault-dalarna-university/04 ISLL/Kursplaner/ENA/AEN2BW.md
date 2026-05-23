@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: 23384554c83a0dbf
+scrape_hash: b393cf910c5b81f5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BW
 up: "[[Engelska MOC]]"
 ---
@@ -59,6 +59,10 @@ Betyg rapporteras enligt följande:
 
   - Litteratur och politik i det samtida Afrika - 7,5 hp | A–F
 
+## Förkunskapskrav
+
+- Kandidatexamen 180 hp inom humaniora, samhällsvetenskap eller utbildningsvetenskap och Engelska 6
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskoder AJP26Z och AJP25Y samt kursen _Afrikanska studier: Litteratur och politik i det samtida Afrika_, 7 hp.
@@ -100,3 +104,7 @@ The grading scale used for the final course grade is A–F.
 Grades are reported as follows:
 
   - Literature and Politics in Contemporary Africa - 7.5 Credits | A–F
+
+### Prerequisites
+
+- Bachelor Degree of 180 credits in the field of Humanities, Social Sciences or Education and English 6

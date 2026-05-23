@@ -10,7 +10,7 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 79f34438fad3248d
+scrape_hash: b7ea0faf26390aef
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HF
 up: "[[Svenska som andraspråk MOC]]"
 ---
@@ -66,6 +66,10 @@ Betyg rapporteras enligt följande:
 
   - Flerspråkiga perspektiv på skriftspråksutveckling - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen är relevant för blivande modersmålslärare, studiehandledare och övriga som arbetar i flerspråkiga utbildningssammanhang.
@@ -83,3 +87,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Multilingual perspectives on written language development - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements

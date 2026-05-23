@@ -9,7 +9,7 @@ amne: "Japanska"
 amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
-scrape_hash: 3cfcc476a70b7abd
+scrape_hash: f9b3f8d7b6134cf1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP3B2
 up: "[[Japanska MOC]]"
 ---
@@ -64,6 +64,10 @@ Betyg rapporteras enligt följande:
   - Seminarier och skriftliga uppgifter - 11 hp | A–F
   - Skriftliga tentamina - 4 hp | A–F
 
+## Förkunskapskrav
+
+- Japanska III: Språkfärdighet, 15 hp, Japanska III: Den moderna novellen, 7,5 hp och Japanska III: Att läsa manga, 7,5 hp
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskoder GJP23Z, JP2012 och JP2005.
@@ -110,3 +114,7 @@ Grades are reported as follows:
 
   - Seminars and written assignments - 11 Credits | A–F
   - Written examinations - 4 Credits | A–F
+
+### Prerequisites
+
+- Japanese III: Language Proficiency, 15 credits, Japanese III: The Modern Short Story, 7.5 credits and Japanese III: Reading Manga, 7.5 credits

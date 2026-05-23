@@ -9,7 +9,7 @@ amne: "Maskinteknik"
 amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT]
-scrape_hash: 53a296b1ab7c429f
+scrape_hash: 6c1c5aa258356a29
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3J2
 up: "[[Maskinteknik MOC]]"
 ---
@@ -55,6 +55,10 @@ Betyg rapporteras enligt följande:
 
   - Grunderna i fysisk och kognitiv tillgänglighet - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen ingår i Assisterande teknikprogrammet 180 hp.
@@ -94,3 +98,7 @@ U/G
 Grades are reported as follows:
 
   - Basics of physical and cognitive accessibility - 7.5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

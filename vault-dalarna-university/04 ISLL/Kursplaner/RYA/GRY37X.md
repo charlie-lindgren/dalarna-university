@@ -10,7 +10,7 @@ amne_kod: "RYA"
 institution: "ISLL"
 tags: [kursplan, RYA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: c0a0e235d226071d
+scrape_hash: 33c51648faf7e4c9
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY37X
 up: "[[Ryska MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
   - Seminarier och muntliga redovisningar - 6 hp | U–VG
   - Skriftliga analyser och inlämningsuppgifter - 6 hp | U–VG
   - Skriftlig hemtentamen - 3 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Modersmål ryska 2. Eller: Modersmål ryska nivå 2
 
 ## Övrigt
 

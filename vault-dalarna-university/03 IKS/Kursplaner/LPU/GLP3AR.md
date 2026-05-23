@@ -10,7 +10,7 @@ amne_kod: "LPU"
 institution: "IKS"
 tags: [kursplan, LPU, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 338a97fe79f19b46
+scrape_hash: 01397807ab92f190
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP3AR
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
   - Grundläggande teori och begrepp för ljud- och musikproduktion med Pro Tools - 2,5 hp | U–G
   - Redigeringsarbete i Pro Tools - 5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 För att erhålla en internationell certifiering i programvaran Pro Tools krävs också en godkänd certifieringstentamen. Möjlighet att skriva denna tillhandahålls av lärosätet.
@@ -80,3 +84,7 @@ Grades are reported as follows:
 
   - Basic theory and concepts in sound and music prouction with Pro Tools - 2.5 Credits | U–G
   - Editing in Pro Tools - 5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

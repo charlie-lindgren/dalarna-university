@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: c03a6b2bab03556e
+scrape_hash: 763db687b79dcd93
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3DZ
 up: "[[Medieproduktion MOC]]"
 ---
@@ -70,6 +70,10 @@ Betyg rapporteras enligt följande:
   - Filmproduktion - 9 hp | U–G
   - Reflektion kring filmproduktionsprocesser - 1,5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Delmomentet Filmproduktion kan bara examineras när kursen ges. Eventuell omexamination kräver omregistrering vid nästa kurstillfälle.
@@ -91,3 +95,7 @@ Grades are reported as follows:
   - Film History - 4.5 Credits | U–G
   - Film Production - 9 Credits | U–G
   - Reflections on Film Production Processes - 1.5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

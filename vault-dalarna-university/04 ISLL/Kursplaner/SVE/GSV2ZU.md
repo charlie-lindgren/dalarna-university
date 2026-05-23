@@ -9,7 +9,7 @@ amne: "Svenska"
 amne_kod: "SVE"
 institution: "ISLL"
 tags: [kursplan, SVE, ISLL]
-scrape_hash: 168eac74af799ba7
+scrape_hash: 13ffe5260862a1ca
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2ZU
 up: "[[Svenska MOC]]"
 ---
@@ -137,6 +137,10 @@ Betyg rapporteras enligt följande:
   - Svenska i förändring - 5 hp | U–VG
   - Barns språkutveckling - 5 hp | U–VG
   - Barn- och ungdomslitteratur - 5 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Matematik 2a eller 2b eller 2c, Engelska 6, Naturkunskap 1b eller 1a1+1a2, Samhällskunskap 1b eller 1a1+1a2. Eller: Matematik nivå 2a eller nivå 2b eller nivå 2c, Engelska nivå 2, Naturkunskap nivå 1b eller nivå 1a2, Samhällskunskap nivå 1b eller nivå 1a2
 
 ## Övrigt
 

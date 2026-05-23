@@ -8,7 +8,7 @@ amne: "Industriell ekonomi"
 amne_kod: "IEA"
 institution: "IKS"
 tags: [kursplan, IEA, IKS]
-scrape_hash: c183a2fcc0aa0882
+scrape_hash: 9971cd351ef3ad10
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3HY
 up: "[[Industriell ekonomi MOC]]"
 ---
@@ -58,6 +58,10 @@ Betyg rapporteras enligt följande:
   - Tentamen - 4,5 hp | U–VG
   - Inlämningsuppgift - 2 hp | U–G
   - Seminarium - 1 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

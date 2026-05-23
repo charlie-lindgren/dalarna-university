@@ -10,7 +10,7 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: aa711e3922356ee2
+scrape_hash: 5bb27d7d460223ee
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YR
 up: "[[Informatik MOC]]"
 ---
@@ -77,6 +77,10 @@ Betyg rapporteras enligt följande:
   - Inlämningsuppgift (verktyg) - 1,5 hp | U–G
   - Inlämningsuppgift (användargränssnitt) - 3 hp | U–G
   - Inlämningsuppgift - 4,5 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

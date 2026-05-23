@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: 3fb686149db191ca
+scrape_hash: 2e98936eee061fd6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3F9
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -60,6 +60,10 @@ Betyg rapporteras enligt följande:
   - Idrottsledarskap och hållbar utveckling - 2,5 hp | U–G
   - Hållbart idrottsledarskap - 5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -96,3 +100,7 @@ Grades are reported as follows:
 
   - Sports coaching and sustainable development - 2.5 Credits | U–G
   - Sustainable coaching - 5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements

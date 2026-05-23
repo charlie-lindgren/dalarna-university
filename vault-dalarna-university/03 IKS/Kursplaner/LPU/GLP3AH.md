@@ -10,7 +10,7 @@ amne_kod: "LPU"
 institution: "IKS"
 tags: [kursplan, LPU, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: bb889f47880cf608
+scrape_hash: 8c5453b2f543fe4c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP3AH
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
@@ -64,6 +64,10 @@ Betyg rapporteras enligt följande:
   - Metal som socialt och kulturellt fenomen - 3 hp | U–G
   - Musikskapande - 1,5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 En dator med internetuppkoppling, headset, webbkamera samt ett ljudkort som klarar grundläggande ljudmixning är ett krav. 
@@ -113,3 +117,7 @@ Grades are reported as follows:
   - Sound: Genre, conventions and creativity - 3 Credits | U–G
   - Metal as social and cultural phenomena - 3 Credits | U–G
   - Creating music - 1.5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

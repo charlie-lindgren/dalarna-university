@@ -9,7 +9,7 @@ amne: "Ryska"
 amne_kod: "RYA"
 institution: "ISLL"
 tags: [kursplan, RYA, ISLL]
-scrape_hash: 8357c08e1d1e54bc
+scrape_hash: 1188ebf70665e75f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY38S
 up: "[[Ryska MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
   - Läsförståesle - 2,5 hp | U–VG
   - Grundläggande muntlig språkfärdighet 2 - 2,5 hp | U–VG
   - Grundläggande skriftlig språkfärdighet 2 - 2,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Ryska I: Grundläggande kurs 1, 7,5 hp på grundnivå. Undantag för svenska kan ges.
 
 ## Övrigt
 

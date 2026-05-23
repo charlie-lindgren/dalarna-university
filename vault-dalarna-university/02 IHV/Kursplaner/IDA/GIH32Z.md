@@ -8,8 +8,9 @@ huvudomrade: "Idrotts- och hälsovetenskap 1"
 amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
-tags: [kursplan, IDA, IHV]
-scrape_hash: ee676bcd89d367a0
+tags: [kursplan, IDA, IHV, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: aac6df9a915a8bcc
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH32Z
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -59,6 +60,10 @@ Betyg rapporteras enligt följande:
 
   - Tränarskapets dimensioner - 4 hp | U–VG
   - Praktiskt tränarskap - 3,5 hp | U–G
+
+## Förkunskapskrav
+
+- 90 hp idrotts- och hälsovetenskap inklusive “Det flerdimensionella tränarskapet med didaktisk inriktning“ 15 hp och “Motorisk kontroll, lärande och utveckling med didaktisk inriktning“ 15 hp samt 7,5 hp i någon av kurserna “Träningslära för tävlingsinriktad idrott“ eller “Träningslära för hälsoinriktad fysisk aktivitet“
 
 ## Övrigt
 

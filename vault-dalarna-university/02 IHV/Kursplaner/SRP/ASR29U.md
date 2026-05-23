@@ -10,7 +10,7 @@ amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: dc5cfc1051c85477
+scrape_hash: 5678180df78ee62e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29U
 up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
 ---
@@ -63,6 +63,10 @@ Betyg rapporteras enligt följande:
   - Individuell hemtentamen - 3 hp | U–G
   - Seminarium - 1,5 hp | U–G
   - Färdighetsövningar - 1,5 hp | U–G
+
+## Förkunskapskrav
+
+- Av Socialstyrelsen utfärdad svensk legitimation som sjuksköterska och kandidatexamen i vårdvetenskap alternativt omvårdnad eller sjuksköterskeexamen 180 hp inklusive 15 hp examensarbete
 
 ## Övrigt
 

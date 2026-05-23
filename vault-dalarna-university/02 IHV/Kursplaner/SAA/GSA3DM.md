@@ -9,7 +9,7 @@ amne: "Socialt arbete"
 amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
-scrape_hash: f22f9e11827a8a41
+scrape_hash: 503ad54997f91737
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DM
 up: "[[Socialt arbete MOC]]"
 ---
@@ -148,6 +148,10 @@ Betyg rapporteras enligt följande:
 
   - Campusförlagd utbildning - 10,5 hp | U–VG
   - Verksamhetsförlagd utbildning - 4,5 hp | U–G
+
+## Förkunskapskrav
+
+- Socialt arbete som profession 7,5 hp och Introduktion till vetenskapligt arbete 7,5 hp
 
 ## Övrigt
 
@@ -572,3 +576,7 @@ Grades are reported as follows:
 
   - Campus placed education - 10.5 Credits | U–VG
   - Field placement - 4.5 Credits | U–G
+
+### Prerequisites
+
+- Social Work as a Profession 7,5 credits and Introduction to Scientific Work 7,5 credits

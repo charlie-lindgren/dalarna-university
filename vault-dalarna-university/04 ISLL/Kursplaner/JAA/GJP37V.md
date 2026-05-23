@@ -9,7 +9,7 @@ amne: "Japanska"
 amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
-scrape_hash: 5eb7d1b1051d4634
+scrape_hash: fb304b6eb48e6dcd
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP37V
 up: "[[Japanska MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
 
   - Recensioner - 7 hp | A–F
   - Projektbeskrivning - 8 hp | A–F
+
+## Förkunskapskrav
+
+- 120 hp varav 45 hp inom huvudområdet japanska, inklusive två av kurserna Japanska IV: Haiku 15 hp, Japanska IV: Introduktion till lingvistik 15 hp, Japanska IV: Introduktion till översättning 15 hp, Japanska IV: Kulturantropologi 15 hp, Japanska: Modern och nutida litteratur 15 hp eller Japanska: Översättningens praktik 15 hp, avancerad nivå.
 
 ## Övrigt
 

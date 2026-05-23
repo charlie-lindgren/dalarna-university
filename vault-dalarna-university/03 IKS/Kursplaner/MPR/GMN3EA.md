@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 8f2a6bedd20e24ab
+scrape_hash: e60432ef146bdb1c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EA
 up: "[[Medieproduktion MOC]]"
 ---
@@ -67,6 +67,10 @@ Betyg rapporteras enligt följande:
   - Pitchpresentation - 2 hp | U–G
   - Etnografiska, etiska och immaterialrättsliga analyser - 5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -84,3 +88,7 @@ Grades are reported as follows:
   - Project Management - 8 Credits | U–G
   - Pitch Presentation - 2 Credits | U–G
   - Ethnographic, Ethical and Intellectual Property Analyses - 5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

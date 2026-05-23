@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: 5b657ba29d9c5dca
+scrape_hash: 9725890b22d569d9
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN29C
 up: "[[Engelska MOC]]"
 ---
@@ -65,6 +65,10 @@ Som betygsskala på hel kurs används A–F.
 Betyg rapporteras enligt följande:
 
   - Examensarbete - 30 hp | A–F
+
+## Förkunskapskrav
+
+- Kandidatexamen i språk eller litteraturvetenskap om minst 180 hp. 90 hp på avancerad nivå, varav 30 hp inom huvudområdet interkulturella litteraturstudier och 30 hp i engelskspråkig litteratur.
 
 ## Övrigt
 

@@ -9,7 +9,7 @@ amne: "Omvårdnad"
 amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
-scrape_hash: 63f71e7b469786a6
+scrape_hash: 39102044f3faddf2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ2BH
 up: "[[Omvårdnad MOC]]"
 ---
@@ -92,6 +92,10 @@ Betyg rapporteras enligt följande:
   - Hälsa och omvårdnad av vuxna och äldre - 6 hp | U–G
   - Verksamhetsförlagd utbildning inom primärvård - 9 hp | U–G
 
+## Förkunskapskrav
+
+- Evidensbaserad vård och ledarskap 7,5 hp och Folkhälsa och folkhälsoarbete 7,5 hp
+
 ## Övrigt
 
 Kursen ingår i Specialistsjuksköterskeutbildning till distriktssköterska.
@@ -158,3 +162,7 @@ Grades are reported as follows:
 
   - Health and Care Among Adult and elderly - 6 Credits | U–G
   - On-site training in public health care - 9 Credits | U–G
+
+### Prerequisites
+
+- Evidence based practice and leadership 7,5 credits and Public Health and Public Health Work 7,5 credits

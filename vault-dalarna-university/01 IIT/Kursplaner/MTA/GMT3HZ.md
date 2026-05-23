@@ -9,7 +9,7 @@ amne: "Maskinteknik"
 amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT]
-scrape_hash: b2f534f5c5d4bd3a
+scrape_hash: c456e426a724083b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3HZ
 up: "[[Maskinteknik MOC]]"
 ---
@@ -55,6 +55,10 @@ Betyg rapporteras enligt följande:
 
   - Assisterande produkter - 12 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen ingår i Assisterande teknikprogrammet 180 hp.
@@ -92,3 +96,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Assistive products - 12 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements

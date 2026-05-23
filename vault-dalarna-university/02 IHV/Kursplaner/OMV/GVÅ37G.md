@@ -9,7 +9,7 @@ amne: "Omvårdnad"
 amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
-scrape_hash: 17c639b5364a37cf
+scrape_hash: 2072f3f18e1b17d8
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ37G
 up: "[[Omvårdnad MOC]]"
 ---
@@ -68,6 +68,10 @@ Betyg rapporteras enligt följande:
   - Sjuksköterskans profession, omvårdnadens värdegrund och omvårdnadens utveckling - 4,5 hp | U–G
   - Lagar som styr sjuksköterskans yrkesutövning - 1,5 hp | U–G
   - Vårdetik samt människans värdighet - 4,5 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

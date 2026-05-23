@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 9ce8888f8dd0b555
+scrape_hash: 7bb415196c288566
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EK
 up: "[[Medieproduktion MOC]]"
 ---
@@ -73,6 +73,10 @@ Betyg rapporteras enligt följande:
   - Dokumentärfilmsprojekt - 9 hp | U–G
   - Dokumentärfilmsanalys - 3 hp | U–G
 
+## Förkunskapskrav
+
+- 60 hp inom medieproduktion inklusive delmomentet Klippning av filmsekvens 5 hp från kursen Filmklippning 7,5 hp
+
 ## Övrigt
 
 Modulen _Dokumentärfilmsprojekt 9,0 hp_ kan examineras endast när kursen går. Vid underkänt betyg hänvisas studenten till nästa kurstillfälle för omexamination.
@@ -92,3 +96,7 @@ Grades are reported as follows:
   - Ethnographic Research - 3 Credits | U–G
   - Documentary Film Project - 9 Credits | U–G
   - Documentary Film Analysis - 3 Credits | U–G
+
+### Prerequisites
+
+- 60 credits in Media Production including the Module Editing Film Sequence 5 credits from the course Film Editing 7.5 credits

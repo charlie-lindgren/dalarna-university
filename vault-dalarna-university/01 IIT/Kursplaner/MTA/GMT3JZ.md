@@ -9,7 +9,7 @@ amne: "Maskinteknik"
 amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT]
-scrape_hash: 45fe85410e784339
+scrape_hash: fb7c7758ac3ba22b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JZ
 up: "[[Maskinteknik MOC]]"
 ---
@@ -64,6 +64,10 @@ Betyg rapporteras enligt följande:
   - Salstentamen - 6 hp | U, 3, 4, 5
   - Laborationer - 1,5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -80,3 +84,7 @@ Grades are reported as follows:
 
   - Examination - 6 Credits | U, 3, 4, 5
   - Experiments - 1.5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

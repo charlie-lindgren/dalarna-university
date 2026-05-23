@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: 70f160d20ec487cf
+scrape_hash: d74710c011644eb0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AU
 up: "[[Energiteknik MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
   - Muntlig presentation - 1 hp | U–VG
   - Skriftlig rapport - 1 hp | U–VG
 
+## Förkunskapskrav
+
+- Projektkurs 1 - dataanalys för solenergisystem 5 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -108,3 +112,7 @@ Grades are reported as follows:
   - Project - 3 Credits | U–G
   - Oral presentation - 1 Credit | U–VG
   - Written report - 1 Credit | U–VG
+
+### Prerequisites
+
+- Project Course 1 - Data Analysis for Solar Energy System 5 credits

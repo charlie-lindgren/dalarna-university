@@ -9,7 +9,7 @@ amne: "Fysioterapi"
 amne_kod: "FYS"
 institution: "IHV"
 tags: [kursplan, FYS, IHV]
-scrape_hash: 120aec259fb5f0a9
+scrape_hash: 17b2fece72d5a6a1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFT2CA
 up: "[[Fysioterapi MOC]]"
 ---
@@ -63,6 +63,10 @@ Betyg rapporteras enligt följande:
   - Vetenskaplig metod och teorier, modeller och ramverk inom fysioterapi - 5 hp | U–G
   - Individuell fördjupning inom valt område - 7 hp | U–G
 
+## Förkunskapskrav
+
+- 60 hp inom fysioterapi eller vårdvetenskap inklusive 15 hp inom anatomi och fysiologi
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -106,3 +110,7 @@ Grades are reported as follows:
   - Acute and chronic pain - 3 Credits | U–G
   - Scienfific method, and theories, models and framworks in physiotherapy - 5 Credits | U–G
   - Individual assignment in physiotherapy, pain, and sustainable development - 7 Credits | U–G
+
+### Prerequisites
+
+- 60 credits in Physiotherapy or Caring Science, including 15 credits in Anatomy and Physiology

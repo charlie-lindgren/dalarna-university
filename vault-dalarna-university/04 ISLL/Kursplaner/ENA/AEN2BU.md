@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: 8286a56276bf8e3b
+scrape_hash: 6d454619f9b6c4b0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BU
 up: "[[Engelska MOC]]"
 ---
@@ -57,6 +57,10 @@ Betyg rapporteras enligt följande:
 
   - Översättningsprojekt - 7,5 hp | A–F
 
+## Förkunskapskrav
+
+- 60 hp på avancerad nivå, varav 30 hp inom huvudområdet Interkulturella litteraturstudier
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskod AJP279.
@@ -96,3 +100,7 @@ The grading scale used for the final course grade is A–F.
 Grades are reported as follows:
 
   - Translation Project - 7.5 Credits | A–F
+
+### Prerequisites
+
+- 60 credits at Second Cycle, with 30 credits in the main field of study Intercultural Literature Studies

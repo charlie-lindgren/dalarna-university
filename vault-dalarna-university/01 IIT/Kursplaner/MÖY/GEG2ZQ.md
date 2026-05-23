@@ -10,7 +10,7 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 27157afed85f13eb
+scrape_hash: 82ced70487341e50
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZQ
 up: "[[Energiteknik MOC]]"
 ---
@@ -58,6 +58,10 @@ Betyg rapporteras enligt följande:
 
   - Inlämningsuppgifter - 5 hp | U–G
   - Projekt - 2,5 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

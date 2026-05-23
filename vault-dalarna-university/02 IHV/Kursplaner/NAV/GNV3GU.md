@@ -9,7 +9,7 @@ amne: "Naturvetenskap"
 amne_kod: "NAV"
 institution: "IHV"
 tags: [kursplan, NAV, IHV]
-scrape_hash: b66a5edb93ab2c47
+scrape_hash: 6ce9037f622ac82e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3GU
 up: "[[Naturvetenskap MOC]]"
 ---
@@ -72,6 +72,10 @@ Betyg rapporteras enligt följande:
   - Teknik, människa, samhälle och natur - 3,5 hp | U–VG
   - Teknikens didaktik - 4 hp | U–VG
 
+## Förkunskapskrav
+
+- Lärarexamen
+
 ## Övrigt
 
 Denna utbildning är en uppdragsutbildning och får endast sökas av lärare som deltar i lärarfortbildningen enligt Förordning (2007:222) om statsbidrag för fortbildning av lärare samt fritidspedagoger och motsvarande. Se Skolverkets webbplats http://www.skolverket.se/fortbildning. Den som söker till denna kurs utan godkännande från skolhuvudmannen är inte behörig att delta och riskerar att få avbryta utbildningen.
@@ -92,3 +96,7 @@ Grades are reported as follows:
 
   - Teknik, människa, samhälle och natur - 3.5 Credits | U–VG
   - Teknikens didaktik - 4 Credits | U–VG
+
+### Prerequisites
+
+- A Teachers Education

@@ -9,7 +9,7 @@ amne: "Historia"
 amne_kod: "HIA"
 institution: "IKS"
 tags: [kursplan, HIA, IKS]
-scrape_hash: 4c89843c38c48523
+scrape_hash: 9e759de765278939
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI33T
 up: "[[Historia MOC]]"
 ---
@@ -120,6 +120,10 @@ Betyg rapporteras enligt följande:
   - Temakurs - 7,5 hp | U–VG
   - Historievetenskaplig teori och metod - 7,5 hp | U–G
   - Examensarbete - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Historia I 22,5 hp
 
 ## Övrigt
 

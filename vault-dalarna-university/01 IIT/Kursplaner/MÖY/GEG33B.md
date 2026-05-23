@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: 842919df0006bfba
+scrape_hash: 463a8e1439e19226
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG33B
 up: "[[Energiteknik MOC]]"
 ---
@@ -67,6 +67,10 @@ Betyg rapporteras enligt följande:
   - Dugga solenergi grunder - 1 hp | U–G
   - Dugga planering och dimensionering - 1 hp | U–G
   - Praktiskt prov - 2 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

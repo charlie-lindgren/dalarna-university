@@ -9,7 +9,7 @@ amne: "Pedagogik"
 amne_kod: "PEA"
 institution: "IKS"
 tags: [kursplan, PEA, IKS]
-scrape_hash: 87d4a025de675ae2
+scrape_hash: b641df755dba8c99
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPE3AJ
 up: "[[Pedagogik MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
 
   - Att leda det kollegiala lärandet i förskola och skola - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Deltagande i kursen förutsätter tillgång till pedagogisk praktik för genomförande av uppgifter och examination.
@@ -78,3 +82,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - To Lead Collegial Learning in Preschool and School - 7.5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

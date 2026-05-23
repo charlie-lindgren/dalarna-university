@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: fc146da30ec561f8
+scrape_hash: d2b52500a6366dc0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G7
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
   - Tillämpad prestations- och kapacitetsanalys - 7,5 hp | U–VG
   - Långsiktig träningsplanering - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Tillämpad idrottsfysiologi 7,5hp och Träningslära 7,5hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -103,3 +107,7 @@ Grades are reported as follows:
 
   - Applied performance- and capacity analysis - 7.5 Credits | U–VG
   - Training periodisation - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Applied Exercise Physiology, 7,5 credits and Training Principles and Practice, 7,5 credits

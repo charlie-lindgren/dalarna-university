@@ -9,7 +9,7 @@ amne: "Historia"
 amne_kod: "HIA"
 institution: "IKS"
 tags: [kursplan, HIA, IKS]
-scrape_hash: b893269cad2c8b91
+scrape_hash: 304b9f7b643322e1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI33V
 up: "[[Historia MOC]]"
 ---
@@ -132,6 +132,10 @@ Betyg rapporteras enligt följande:
   - Svensk och nordisk historia - 7,5 hp | U–VG
   - Världshistoria I. Från fornhistoria till ca år 1500 - 7,5 hp | U–VG
   - Världshistoria II. Globalhistoria från ca år 1500 till nutid - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

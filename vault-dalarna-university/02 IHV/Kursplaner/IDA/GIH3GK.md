@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: 790e8a683f7e5d38
+scrape_hash: 79926e7cefb0bb26
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GK
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
   - Skadehantering och HLR - 3,5 hp | U–G
   - Projektarbete för idrottsmedicin - 4 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -102,3 +106,7 @@ Grades are reported as follows:
 
   - Injury Management and CPR - 3.5 Credits | U–G
   - Project work for sports medicine - 4 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements

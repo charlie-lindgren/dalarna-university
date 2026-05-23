@@ -9,7 +9,7 @@ amne: "Svenska som andraspråk"
 amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
-scrape_hash: 8926e79a256d770c
+scrape_hash: bf231433cf9642c7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3H8
 up: "[[Svenska som andraspråk MOC]]"
 ---
@@ -131,6 +131,10 @@ Betyg rapporteras enligt följande:
   - Fonetik och uttal i ett andraspråksperspektiv - 7,5 hp | U–VG
   - Fiktionsberättande och elevtext i ett flerspråkigt perspektiv - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- 15 hp inom huvudområdet svenska som andraspråk, inklusive Svenska språkets struktur i ett andraspråksperspektiv, 7,5 hp
+
 ## Övrigt
 
 Kursen överlappar kurserna _Språk, undervisning och lärande i ett andraspråksperspektiv_, 7,5 hp, _Bedömning och respons i ett andraspråksperspektiv_, 7,5 hp, _Fonetik och uttal i ett andraspråksperspektiv_, 7,5 hp och _Fiktionsberättande och elevtext i ett flerspråkigt perspektiv_, 7,5 hp samt _Svenska som andraspråk II med didaktisk inriktning_, 30 hp.
@@ -163,3 +167,7 @@ Grades are reported as follows:
   - Assessment and Feedback in a Second Language Perspective - 7.5 Credits | U–VG
   - Phonetics and Pronunciation in a Second Language Perspective - 7.5 Credits | U–VG
   - Fiction and Pupils‘ Written Production in a Multilingual Perspective - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- 15 credits in the main field of study Swedish as a Second Language, including Swedish Language Structure in a Second Language Perspective, 7.5 credits

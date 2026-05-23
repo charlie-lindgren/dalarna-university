@@ -10,7 +10,7 @@ amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 6910faebd283028a
+scrape_hash: 2fd0c675669d34ad
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR3B6
 up: "[[Turismvetenskap MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
   - Reflektion kring Sälenfjällen och besöksnäringen - 3 hp | U–G
   - Turistnäringens begrepp samt platser i Sälenfjällen - 2 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Föreläsningar sker på plats i Sälenfjällen.
@@ -79,3 +83,7 @@ Grades are reported as follows:
 
   - Reflection on Sälenfjällen and the Tourism and Hospitality Industry - 3 Credits | U–G
   - Tourism Industry Concepts and Places in Sälenfjällen - 2 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

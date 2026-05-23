@@ -8,7 +8,7 @@ amne: "Företagsekonomi"
 amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
-scrape_hash: 16f20e114c489dd0
+scrape_hash: a1581ebcfb3fab88
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ38U
 up: "[[Företagsekonomi MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
 
   - Grundläggande begrepp, modeller och teorier - 4 hp | U–VG
   - Organisationsanalyser - 3,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Organisation och Marknadsföring A 15 hp eller Organisation A 7,5 hp och Marknadsföring A 7,5 hp
 
 ## Övrigt
 
@@ -116,3 +120,7 @@ Grades are reported as follows:
 
   - Basic concepts, models and theoretical foundations in the area of leadership - 4 Credits | U–VG
   - Organisation analysis - 3.5 Credits | U–VG
+
+### Prerequisites
+
+- Organisation and Marketing A 15 Credits or Organisation A 7.5 Credits and Marketing A 7.5 Credits

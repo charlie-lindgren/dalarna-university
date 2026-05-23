@@ -10,7 +10,7 @@ amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: a58981eba4f1a4d7
+scrape_hash: 4c65033371ab459e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY34B
 up: "[[Byggteknik MOC]]"
 ---
@@ -70,6 +70,10 @@ Betyg rapporteras enligt följande:
   - Inlämningsuppgift - 1 hp | U–G
   - Laborationer - 1 hp | U–G
   - Laborationer - 0,5 hp | U–G
+
+## Förkunskapskrav
+
+- 90 hp inom Byggteknik - produktion och förvaltning eller Byggteknik - högskoleingenjörsprogram
 
 ## Övrigt
 

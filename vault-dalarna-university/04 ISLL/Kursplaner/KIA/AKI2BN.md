@@ -9,7 +9,7 @@ amne: "Kinesiska"
 amne_kod: "KIA"
 institution: "ISLL"
 tags: [kursplan, KIA, ISLL]
-scrape_hash: cb9228bc6f810dd4
+scrape_hash: 2b5e830ee708a091
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKI2BN
 up: "[[Kinesiska MOC]]"
 ---
@@ -68,6 +68,10 @@ Betyg rapporteras enligt följande:
   - Avancerad kinesisk konversation, del 3 - 2 hp | U–VG
   - Muntlig onlinetentamen - 1,5 hp | U–VG
 
+## Förkunskapskrav
+
+- 90 hp inom huvudområdet kinesiska, inklusive Kinesiska i tal och skrift IV, 15 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -116,3 +120,7 @@ Grades are reported as follows:
   - Advanced Chinese Conversation, part 2 - 2 Credits | U–VG
   - Advanced Chinese conversation, part 3 - 2 Credits | U–VG
   - Oral online exam - 1.5 Credits | U–VG
+
+### Prerequisites
+
+- 90 credits in the main field of study Chinese, including Chinese in Speech and Writing IV, 15 credits

@@ -9,7 +9,7 @@ amne: "Svenska som andraspråk"
 amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
-scrape_hash: fd1a910507d563af
+scrape_hash: 905f5752588dbfc0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3BL
 up: "[[Svenska som andraspråk MOC]]"
 ---
@@ -106,6 +106,10 @@ Betyg rapporteras enligt följande:
   - Muntlig språkfärdighet 2 - 3 hp | U–VG
   - Skriftlig språkfärdighet 2 - 4,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande svenska som andraspråk IV (nivå CEFR B1.2), 7,5 hp
+
 ## Övrigt
 
 För nätbaserad kurs krävs att den studerande har möjligheter att kommunicera med ljud och bild via en dator eller motsvarande.
@@ -194,3 +198,7 @@ Grades are reported as follows:
   - Written language proficiency 1 - 4.5 Credits | U–VG
   - Oral language proficiency 2 - 3 Credits | U–VG
   - Written language proficiency 2 - 4.5 Credits | U–VG
+
+### Prerequisites
+
+- Basic Swedish as a second language IV (level CEFR B1.2), 7.5 credits

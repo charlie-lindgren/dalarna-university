@@ -10,7 +10,7 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: cf5d84e6c5de3edd
+scrape_hash: fd71c3db6321705f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35P
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -55,6 +55,10 @@ Som betygsskala på hel kurs används U–G.
 Betyg rapporteras enligt följande:
 
   - Styrkelyft för öppen klass och veteraner. - 5 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

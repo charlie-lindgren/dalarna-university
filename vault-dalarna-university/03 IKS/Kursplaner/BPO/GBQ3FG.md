@@ -10,7 +10,7 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: b80c855d2ce82b0f
+scrape_hash: 86097b06fbc7f134
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3FG
 up: "[[Bildproduktion MOC]]"
 ---
@@ -63,6 +63,10 @@ Betyg rapporteras enligt följande:
   - Det kreativa skrivandets teori, verktyg och processer - 2,5 hp | U–G
   - Fiktionsskrivande - 5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -103,3 +107,7 @@ Grades are reported as follows:
 
   - Theory, Tools and Processes of Creative Writing - 2.5 Credits | U–G
   - Writing Fiction - 5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

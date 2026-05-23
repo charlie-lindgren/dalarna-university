@@ -9,7 +9,7 @@ amne: "Svenska"
 amne_kod: "SVE"
 institution: "ISLL"
 tags: [kursplan, SVE, ISLL]
-scrape_hash: e429a00be88499ca
+scrape_hash: 9d287e7979207fdd
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2ZW
 up: "[[Svenska MOC]]"
 ---
@@ -136,6 +136,10 @@ Betyg rapporteras enligt följande:
   - Skriftspråksutveckling - 5 hp | U–VG
   - Stimulera och studera språkutveckling i förskoleklass och årskurs 1-3 - 5 hp | U–VG
   - Litteraturen i klassrummet - 5 hp | U–VG
+
+## Förkunskapskrav
+
+- Svenska 1 för grundlärare F-3, 15 hp
 
 ## Övrigt
 

@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: e7476aefb8f69890
+scrape_hash: 979d7c8bd7494c30
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3DY
 up: "[[Medieproduktion MOC]]"
 ---
@@ -63,6 +63,10 @@ Betyg rapporteras enligt följande:
   - Inspelningsteknik - 6 hp | U–G
   - Efterbearbetning - 3 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Överlappar GLP2FH, GBQ2HC, GBQ2UB
@@ -82,3 +86,7 @@ Grades are reported as follows:
   - Media Production Theory - 6 Credits | U–G
   - Recording Technology - 6 Credits | U–G
   - Post-production - 3 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

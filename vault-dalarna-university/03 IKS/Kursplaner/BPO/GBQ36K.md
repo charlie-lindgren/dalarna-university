@@ -9,7 +9,7 @@ amne: "Bildproduktion"
 amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS]
-scrape_hash: e8136ec554814a25
+scrape_hash: 21cad5ba972b8290
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ36K
 up: "[[Bildproduktion MOC]]"
 ---
@@ -72,6 +72,10 @@ Betyg rapporteras enligt följande:
   - Modul 3: Praktisk flerkameraproduktionsarbete - 5 hp | U–VG
   - Modul 4: Organisationsteori - 3 hp | U–VG
   - Modul 5: Produktions- och lärandereflektion - 2 hp | U–VG
+
+## Förkunskapskrav
+
+- 60 hp inom Bildproduktion inklusive kursen TV-nyheter och flerkameraproduktion, 15 hp
 
 ## Övrigt
 

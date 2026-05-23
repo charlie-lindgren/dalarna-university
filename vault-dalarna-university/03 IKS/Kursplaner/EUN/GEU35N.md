@@ -10,7 +10,7 @@ amne_kod: "EUN"
 institution: "IKS"
 tags: [kursplan, EUN, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 44acc6d2c371faa8
+scrape_hash: 1543c35a24aa4458
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU35N
 up: "[[Entreprenörskap och innovationsteknik MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
   - Inlämningsuppgift - 5 hp | U–G
   - Seminarium - 1 hp | U–G
   - Muntlig presentation - 1,5 hp | U–G
+
+## Förkunskapskrav
+
+- Projektledning I, 7,5 hp eller Projekt och agila arbetsmetoder, 7,5 hp
 
 ## Övrigt
 

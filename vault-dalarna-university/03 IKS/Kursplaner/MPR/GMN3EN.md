@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: d1ef8b983d6956d9
+scrape_hash: 503977364be0b106
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EN
 up: "[[Medieproduktion MOC]]"
 ---
@@ -73,6 +73,10 @@ Betyg rapporteras enligt följande:
   - Verktyg för musikskapande och musikproduktion - 4 hp | U–G
   - Eget projekt - 4,5 hp | U–G
 
+## Förkunskapskrav
+
+- 45 hp inom medieproduktion inklusive Musikproduktion i studio 15 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -92,3 +96,7 @@ Grades are reported as follows:
   - Ethnographic Essay - 2 Credits | U–G
   - Tools for Music Creation and Music Production - 4 Credits | U–G
   - Individual Project - 4.5 Credits | U–G
+
+### Prerequisites
+
+- 45 credits in Media Production including Musik Production in the Studio 15 credits

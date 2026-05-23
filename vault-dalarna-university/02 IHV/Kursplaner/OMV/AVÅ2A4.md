@@ -9,7 +9,7 @@ amne: "Omvårdnad"
 amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
-scrape_hash: 728cf924693995d9
+scrape_hash: d399c8451cc2c3a4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ2A4
 up: "[[Omvårdnad MOC]]"
 ---
@@ -56,6 +56,10 @@ Som betygsskala på hel kurs används U–G.
 Betyg rapporteras enligt följande:
 
   - Folkhälsa och folkhälsoarbete - 7,5 hp | U–G
+
+## Förkunskapskrav
+
+- Av Socialstyrelsen utfärdad svensk legitimation som sjuksköterska samt kandidatexamen eller sjuksköterskeexamen om minst 180 hp med minst 90 hp inom ämnet omvårdnadsvetenskap/vårdvetenskap varav 15 hp utgörs av ett examensarbete
 
 ## Övrigt
 

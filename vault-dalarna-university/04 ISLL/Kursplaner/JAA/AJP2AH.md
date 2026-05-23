@@ -10,7 +10,7 @@ amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 70d3e53f5c2ac764
+scrape_hash: 67679f9f58901347
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP2AH
 up: "[[Japanska MOC]]"
 ---
@@ -68,6 +68,10 @@ Betyg rapporteras enligt följande:
   - Klassisk japansk grammatik - 7,5 hp | A–F
   - Klassisk litteratur på japanska - 7,5 hp | A–F
 
+## Förkunskapskrav
+
+- Kandidatexamen i japanska inklusive Japanska: Kandidatexamensarbete, 15 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -115,3 +119,7 @@ Grades are reported as follows:
 
   - Classical Japanese Grammar - 7.5 Credits | A–F
   - Classical Literature in Japanese - 7.5 Credits | A–F
+
+### Prerequisites
+
+- Bachelor‘s degree in Japanese including Japanese: Bachelor‘s Degree Thesis, 15 credits

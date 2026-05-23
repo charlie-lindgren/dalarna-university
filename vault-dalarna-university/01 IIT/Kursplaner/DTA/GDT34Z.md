@@ -9,7 +9,7 @@ amne: "Datateknik"
 amne_kod: "DTA"
 institution: "IIT"
 tags: [kursplan, DTA, IIT]
-scrape_hash: cbab799a13417ce1
+scrape_hash: 17139e56a6f01982
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT34Z
 up: "[[Datateknik MOC]]"
 ---
@@ -68,6 +68,10 @@ Betyg rapporteras enligt följande:
   - Projekt - 3 hp | U–G
   - Laborationer - 3 hp | U–G
   - Salstentamen - 1,5 hp | U–G
+
+## Förkunskapskrav
+
+- 60 hp i huvudområdet Mikrodataanalys i vilket kursen Datakommunikation 2 7,5 hp skall ingå
 
 ## Övrigt
 

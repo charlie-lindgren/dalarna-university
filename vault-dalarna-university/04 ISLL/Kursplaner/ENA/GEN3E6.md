@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: 7c0960f5e6dbe7ca
+scrape_hash: 08b526504a35e588
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3E6
 up: "[[Engelska MOC]]"
 ---
@@ -73,6 +73,10 @@ Betyg rapporteras enligt följande:
   - Språk och dess sociala aspekter - 4,5 hp | U–G
   - Projekt inom lingvistik - 3 hp | U–VG
 
+## Förkunskapskrav
+
+- Introduktion till akademisk engelska, 6 hp och Den moderna engelskans struktur, 7,5 hp
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskod GEN3C4.
@@ -128,3 +132,7 @@ Grades are reported as follows:
   - Core Areas of Linguistics - 7.5 Credits | U–VG
   - Language in its Social Context - 4.5 Credits | U–G
   - Project in Linguistics - 3 Credits | U–VG
+
+### Prerequisites
+
+- Introduction to Academic English, 6 credits and The Structure of Modern English 7.5 credits

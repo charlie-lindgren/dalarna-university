@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: f7dedf8e4ec1f55d
+scrape_hash: 7b8aee23c09219ec
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EF
 up: "[[Medieproduktion MOC]]"
 ---
@@ -64,6 +64,10 @@ Betyg rapporteras enligt följande:
   - Klippning av filmsekvens - 5 hp | U–G
   - Lärandereflektion - 2,5 hp | U–G
 
+## Förkunskapskrav
+
+- 52,5 hp inom medieproduktion inklusive Postproduktion 15 hp
+
 ## Övrigt
 
 Modulen _Klippning av filmsekvens 5,0 hp _kan examineras endast när kursen går. Vid underkänt betyg hänvisas studenten till nästa kurstillfälle för omexamination.
@@ -82,3 +86,7 @@ Grades are reported as follows:
 
   - Editing a Film Sequence - 5 Credits | U–G
   - Reflection on Learning - 2.5 Credits | U–G
+
+### Prerequisites
+
+- 52.5 credits in Media Production including Post Production 15 credits

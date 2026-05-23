@@ -9,7 +9,7 @@ amne: "Företagsekonomi"
 amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
-scrape_hash: bfcb4f3e5c6b103a
+scrape_hash: 9107b8f3386cc306
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ39J
 up: "[[Företagsekonomi MOC]]"
 ---
@@ -74,6 +74,10 @@ Betyg rapporteras enligt följande:
   - Begrepp, modeller, teorier och strategiska bedömningar inom marknadsföring - 2 hp | U–VG
   - Tillämpning av kunskaper vid marknadsplanering - 5,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Organisation och Marknadsföring A 15 hp eller Organisation A 7,5 hp och Marknadsföring A 7,5 hp
+
 ## Övrigt
 
 Den som antagits till och registrerats på kursen har rätt att erhålla undervisning och/eller handledning under den tid som angavs för kurstillfället som den sökande blivit antagen till.  
@@ -132,3 +136,7 @@ Grades are reported as follows:
 
   - Concepts, models, theories and strategic assessments in marketing - 2 Credits | U–VG
   - Application of knowledge in marketing planning - 5.5 Credits | U–VG
+
+### Prerequisites
+
+- Organisation and Marketing A 15 Credits or Organisation A 7.5 Credits and Marketing A 7.5 Credits

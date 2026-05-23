@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: 28ddcbb9013f26e0
+scrape_hash: d3dc166771527b43
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35T
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -55,6 +55,10 @@ Betyg rapporteras enligt följande:
 
   - Skriftlig PM (del 1) - 6 hp | U–VG
   - Muntlig redovisning av PM - 1,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Minst 120 hp varav 60 hp på grundnivå inom ämnet idrotts- och hälsovetenskap
 
 ## Övrigt
 

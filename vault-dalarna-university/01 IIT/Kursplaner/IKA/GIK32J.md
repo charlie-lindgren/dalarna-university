@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: 2e3a4199f27d1899
+scrape_hash: 396b70b64d156184
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32J
 up: "[[Informatik MOC]]"
 ---
@@ -63,6 +63,10 @@ Betyg rapporteras enligt följande:
 
   - Inlämningsuppgifter - 4 hp | U–G
   - Projekt - 3,5 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Matematik 2a eller 2b eller 2c, Samhällskunskap 1b eller 1a1+1a2. Eller: Matematik nivå 2a eller nivå 2b eller nivå 2c, Samhällskunskap nivå 1b eller nivå 1a2
 
 ## Övrigt
 

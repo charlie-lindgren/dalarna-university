@@ -10,7 +10,7 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 3658bc06e6e73e6e
+scrape_hash: dfea66e68c80c1f7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AX
 up: "[[Energiteknik MOC]]"
 ---
@@ -66,6 +66,10 @@ Betyg rapporteras enligt följande:
   - Projekt - 2,5 hp | U–G
   - Inlämningsuppgift - 1 hp | U–G
 
+## Förkunskapskrav
+
+- Solcellsteknik 5 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -111,3 +115,7 @@ Grades are reported as follows:
   - Written examination - 4 Credits | U, 3, 4, 5
   - Project assignment - 2.5 Credits | U–G
   - Hand-in assignment - 1 Credit | U–G
+
+### Prerequisites
+
+- PV technology 5 credits

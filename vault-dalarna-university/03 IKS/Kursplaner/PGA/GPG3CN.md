@@ -8,11 +8,11 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
-tags: [kursplan, PGA, IKS, vilande]
-scrape_hash: f328fa233183f048
+tags: [kursplan, PGA, IKS, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: 33a203700cd8534c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CN
 up: "[[Pedagogiskt arbete MOC]]"
-cssclasses: [vilande]
 ---
 
 # GPG3CN
@@ -60,6 +60,10 @@ Betyg rapporteras enligt följande:
 
   - Undervisning och lärande genom rollspel - inriktning pedagogiskt arbete - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Lärarexamen
+
 ## Övrigt
 
 Kursen är nätbaserad och innehåller en obligatorisk campusträff om en till två dagar.
@@ -77,3 +81,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Teaching and Learning Through Roleplay - Specialisation Educational Work - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- A Teachers Education

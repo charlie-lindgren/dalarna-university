@@ -10,7 +10,7 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 03eaad000b9f4ac5
+scrape_hash: 927e156445119328
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DS
 up: "[[Socialt arbete MOC]]"
 ---
@@ -140,6 +140,10 @@ Betyg rapporteras enligt följande:
   - Verksamhetsförlagd utbildning - 10 hp | U–G
   - Campusförlagd utbildning - 5 hp | U–VG
 
+## Förkunskapskrav
+
+- Sociologiska perspektiv på socialt arbete 7,5 hp, Psykologiska perspektiv på socialt arbete 7,5 hp, Socialpolitikens betydelse för socialt arbete 7,5 hp och Välfärdsinsatser och brukarperspektiv 15 hp
+
 ## Övrigt
 
 Kursen ingår i Socionomprogrammet.
@@ -174,3 +178,7 @@ Grades are reported as follows:
 
   - Field Placement - 10 Credits | U–G
   - Campus-Based Education - 5 Credits | U–VG
+
+### Prerequisites
+
+- Sociological Perspectives on Social Work 7,5 credits, Psychological Perspectives on Social Work 7,5 credits, The Importance of Social Policy for Social Work 7,5 credits and Welfare Measures and User Perspective 15 credits

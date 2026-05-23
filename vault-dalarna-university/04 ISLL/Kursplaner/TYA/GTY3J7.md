@@ -9,7 +9,7 @@ amne: "Tyska"
 amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
-scrape_hash: 3d56dcf2e42bcd64
+scrape_hash: b88ffed5128b8780
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3J7
 up: "[[Tyska MOC]]"
 ---
@@ -66,6 +66,10 @@ Betyg rapporteras enligt följande:
   - Muntlig språkfärdighet - 3 hp | U–VG
   - Kulturkunskap - 4,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Tyska: Muntlig språkfärdighet med fonetik och kulturkunskap I, 7,5 hp
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskod TY1073.
@@ -114,3 +118,7 @@ Grades are reported as follows:
 
   - Oral Language Proficiency - 3 Credits | U–VG
   - Cultural Studies - 4.5 Credits | U–VG
+
+### Prerequisites
+
+- German: Oral Language Proficiency with Phonetics and Cultural Studies I, 7.5 credits

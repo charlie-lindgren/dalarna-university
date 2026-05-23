@@ -10,7 +10,7 @@ amne_kod: "HIA"
 institution: "IKS"
 tags: [kursplan, HIA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 281ea4f5fc417d7b
+scrape_hash: 7c29f2dbfd7de8f4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI37M
 up: "[[Historia MOC]]"
 ---
@@ -62,6 +62,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - De nationella minoriteternas samhällshistoria - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

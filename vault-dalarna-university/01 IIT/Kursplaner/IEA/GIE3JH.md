@@ -8,8 +8,9 @@ huvudomrade: "Industriell ekonomi 1"
 amne: "Industriell ekonomi"
 amne_kod: "IEA"
 institution: "IIT"
-tags: [kursplan, IEA, IIT]
-scrape_hash: 27b18629aaa18740
+tags: [kursplan, IEA, IIT, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: fbf22ff7f727c7b8
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3JH
 up: "[[Industriell ekonomi MOC]]"
 ---
@@ -79,6 +80,10 @@ Betyg rapporteras enligt följande:
   - Seminarium - 1,5 hp | U–G
   - Skriftlig övervakad tentamen - 4 hp | U–VG
 
+## Förkunskapskrav
+
+- 60 hp industriell ekonomi inklusive Verksamhetsutveckling, 7,5 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -138,3 +143,7 @@ Grades are reported as follows:
   - Written group assignment - 2 Credits | U–G
   - Seminar - 1.5 Credits | U–G
   - Written invigilated examination - 4 Credits | U–VG
+
+### Prerequisites
+
+- 60 credits Industrial Engineering and Management including Business Process Development 7.5 credits

@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 3836bb8beffb0904
+scrape_hash: 3a7e96e74a323304
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EG
 up: "[[Medieproduktion MOC]]"
 ---
@@ -64,6 +64,10 @@ Betyg rapporteras enligt följande:
   - Dokumentär teori och metod - 5 hp | U–G
   - Dokumentärfilmsproduktion - 2,5 hp | U–G
 
+## Förkunskapskrav
+
+- 52,5 hp inom medieproduktion inklusive Dialog och personregi för manusbundet berättande för olika medieplattformar 15 hp
+
 ## Övrigt
 
 Modulen _Dokumentärfilmsproduktion 2,5 hp_ kan examineras endast när kursen går. Vid underkänt betyg hänvisas studenten till nästa kurstillfälle för omexamination.
@@ -82,3 +86,7 @@ Grades are reported as follows:
 
   - Documentary Theory and Method - 5 Credits | U–G
   - Documentary Film Production - 2.5 Credits | U–G
+
+### Prerequisites
+
+- 52.5 credits in Media Production including Dialogue and Character Directing in Scripted Storytelling for Media Platforms 15 credits

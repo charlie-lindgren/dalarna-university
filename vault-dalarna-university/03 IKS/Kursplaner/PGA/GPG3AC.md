@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: d4b70dd46319f56e
+scrape_hash: 1335a715327daff0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AC
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -64,6 +64,10 @@ Betyg rapporteras enligt följande:
 
   - Didaktik och ledarskap för ämneslärare årskurs 7–9 - AIL - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Engelska 6, Samhällskunskap 1b eller 1a1+1a2, Idrott och hälsa 1, Naturkunskap 1b eller 1a1+1a2, Matematik 4 eller Matematik D. Eller: Engelska nivå 2, Samhällskunskap nivå 1b eller nivå 1a2, Idrott och hälsa nivå 1, Naturkunskap nivå 1b eller nivå 1a2, Matematik fortsättning nivå 2
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -109,3 +113,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Teaching, Learning and Leadership for Secondary Teachers, School Years 7-9 - Work-Integrated Programme - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements and English 6, Social Sciences 1b or 1a1+1a2, Physical Education 1, Natural Sciences 1b or 1a1+1a2, Mathematics 4 or Mathematics D. Or: English level 2, Social Sciences level 1b or level 1a2, Physical Education level 1, Natural Sciences level 1b or level 1a2, Mathematics Further level 2

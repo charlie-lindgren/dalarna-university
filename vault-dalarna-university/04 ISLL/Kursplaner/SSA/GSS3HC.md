@@ -9,7 +9,7 @@ amne: "Svenska som andraspråk"
 amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
-scrape_hash: a90be7ff5916d7fd
+scrape_hash: a46cd08874a50afd
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HC
 up: "[[Svenska som andraspråk MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
 
   - Introduktion till modersmålsundervisning och studiehandledning på modersmålet - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen är relevant för blivande modersmålslärare, studiehandledare och övriga som arbetar i flerspråkiga utbildningssammanhang.
@@ -82,3 +86,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Introduction to Mother Tongue Instruction and Study Guidance in the Mother Tongue - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements

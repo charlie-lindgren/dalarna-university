@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 9b598c1c43df08e5
+scrape_hash: 0eaa6386d2b966fc
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3E9
 up: "[[Medieproduktion MOC]]"
 ---
@@ -73,6 +73,10 @@ Betyg rapporteras enligt följande:
   - Manusskrivande - 7,5 hp | U–G
   - Retorik, samtals- och manusanalys - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Modulen _Manusskrivande 7,5 hp _kan examineras endast när kursen går. Vid underkänt betyg hänvisas studenten till nästa kurstillfälle för omexamination.
@@ -91,3 +95,7 @@ Grades are reported as follows:
 
   - Scriptwriting - 7.5 Credits | U–G
   - Rhetoric and the Analysis of Conversation and Scripts - 7.5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

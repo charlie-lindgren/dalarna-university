@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: ce048703a5173b5f
+scrape_hash: f460cf7c441e967c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG3DV
 up: "[[Energiteknik MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
   - Projekt (Vattenkraft) - 3 hp | U–G
   - Projekt (Vätgas och Elfordon) - 1,5 hp | U–G
 
+## Förkunskapskrav
+
+- Elkraftteknik 7,5 hp och Strömningslära 7,5 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -110,3 +114,7 @@ Grades are reported as follows:
   - Individual project (Wind Power) - 3 Credits | U–VG
   - Project (Hydropower) - 3 Credits | U–G
   - Project (Hydrogen and Electric Vehicle) - 1.5 Credits | U–G
+
+### Prerequisites
+
+- Electrical Power Engineering 7.5 credits and Fluid Dynamics 7.5 credits

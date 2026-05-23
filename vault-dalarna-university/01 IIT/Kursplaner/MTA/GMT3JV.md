@@ -10,7 +10,7 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 86f3241934e4b653
+scrape_hash: 118e244132372d52
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JV
 up: "[[Maskinteknik MOC]]"
 ---
@@ -57,6 +57,10 @@ Betyg rapporteras enligt följande:
   - Muntlig examination - 4,5 hp | U–G
   - Laboration - 3 hp | U–G
 
+## Förkunskapskrav
+
+- 30 hp i huvudområdet assisterande teknik
+
 ## Övrigt
 
 Kursen ingår i Assisterande teknikprogrammet 180 hp.
@@ -95,3 +99,7 @@ Grades are reported as follows:
 
   - Oral exam - 4.5 Credits | U–G
   - Laboratory exercise - 3 Credits | U–G
+
+### Prerequisites
+
+- 30 credits within the main field of study Assistive Technology

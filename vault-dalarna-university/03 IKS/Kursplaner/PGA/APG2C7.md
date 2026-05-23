@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 9c5984ba7c13f880
+scrape_hash: 240318e7783eba4e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2C7
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
 
   - Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare 4-6 - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Bild för grundlärare, årskurs 4-6, 30 hp eller Samhällsorienterade ämnen, årskurs 4-6, 30 hp eller Naturorienterade ämnen och teknik för grundlärare, årskurs 4-6, 30 hp eller Idrott och hälsa för grundlärare, årskurs 4-6, 30 hp samt Utveckling och Lärande i grundskolans åk 4-6, (inklusive 7,5 hp VFU), 15 hp och Engelska för grundlärare åk 4-6, 1A, 15 hp
+
 ## Övrigt
 
 För nätbaserad kurs krävs att den studerande har möjlighet att kommunicera med ljud och bild via en dator eller motsvarande. Webbkamera är obligatoriskt för nätstudenter.
@@ -100,3 +104,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Special Education, Pedagogical Documentation and Assessment for Teachers Years 4-6 - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Art for Primary School Teachers, Grades 4-6, 30 credits or Social Studies for Primary School Teachers, Grades 4-6, 30 credits, or Science and Technology for Primary School Teachers, Grades 4-6, 30 credits or Physical Education and Health for Primary School Teachers, Grades 4-6, 30 credits as well as Development and Learning in Primary Education, Grades 4-6 (including 7.5 credits of School-Based Training), 15 credits and English for Primary School Teachers, Grades 4-6, Module 1A, 15 credits

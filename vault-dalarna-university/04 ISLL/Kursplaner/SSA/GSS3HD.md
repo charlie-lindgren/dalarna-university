@@ -9,7 +9,7 @@ amne: "Svenska som andraspråk"
 amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
-scrape_hash: 11f1e9cd3fe108d7
+scrape_hash: 782ab9702b13c44e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HD
 up: "[[Svenska som andraspråk MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
 
   - Språkdidaktik med fokus på modersmål och flerspråkighet - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen är relevant för blivande modersmålslärare, studiehandledare och övriga som arbetar i flerspråkiga utbildningssammanhang.
@@ -82,3 +86,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Language didactics with a focus on the mother tongue and multilingualism - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements

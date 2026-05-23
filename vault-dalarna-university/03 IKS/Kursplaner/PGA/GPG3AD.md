@@ -10,7 +10,7 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: ddb2265000960038
+scrape_hash: 886566502d3b8072
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AD
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -64,6 +64,10 @@ Betyg rapporteras enligt följande:
 
   - Verksamhetsförlagd utbildning 1 för ämneslärare årskurs 7–9 - AIL - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Engelska 6, Samhällskunskap 1b eller 1a1+1a2, Idrott och hälsa 1, Naturkunskap 1b eller 1a1+1a2, Matematik 4 eller Matematik D. Eller: Engelska nivå 2, Samhällskunskap nivå 1b eller nivå 1a2, Idrott och hälsa nivå 1, Naturkunskap nivå 1b eller nivå 1a2, Matematik fortsättning nivå 2
+
 ## Övrigt
 
 Antalet examinationstillfällen för verksamhetsförlagd utbildning är begränsad till två.
@@ -113,3 +117,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Placement for Secondary Teachers 1 - Work-Integrated Programme - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements and English 6, Social Sciences 1b or 1a1+1a2, Physical Education 1, Natural Sciences 1b or 1a1+1a2, Mathematics 4 or Mathematics D. Or: English level 2, Social Sciences level 1b or level 1a2, Physical Education level 1, Natural Sciences level 1b or level 1a2, Mathematics Further level 2

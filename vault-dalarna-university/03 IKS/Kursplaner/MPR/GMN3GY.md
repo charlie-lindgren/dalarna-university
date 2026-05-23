@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 777dc962d73e5b30
+scrape_hash: 91ef273030f107aa
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3GY
 up: "[[Medieproduktion MOC]]"
 ---
@@ -67,6 +67,10 @@ Betyg rapporteras enligt följande:
   - Efterbearbetning av film - 6 hp | U–G
   - Processförståelse - 3 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Modulen _Efterbearbetning av film 6,0 hp _kan examineras endast när kursen går. Vid underkänt betyg hänvisas studenten till nästa kurstillfälle för omexamination.
@@ -86,3 +90,7 @@ Grades are reported as follows:
   - Software and Workflows - 6 Credits | U–G
   - Post-production of Film - 6 Credits | U–G
   - Process Understanding - 3 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

@@ -9,7 +9,7 @@ amne: "Socialt arbete"
 amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
-scrape_hash: 79d129daee937800
+scrape_hash: 5d7150485040e7cc
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DR
 up: "[[Socialt arbete MOC]]"
 ---
@@ -89,6 +89,10 @@ Betyg rapporteras enligt följande:
 
   - Seminarier, inlämningsuppgifter, studiegruppsuppgifter, tentamen - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Välfärdsinsatser och brukarperspektiv 15 hp, Försörjning, rehabilitering och aktivering i socialt arbete 7,5 hp och Socialrätt I 7,5 hp
+
 ## Övrigt
 
 Kursen ingår i Socionomprogrammet.
@@ -106,3 +110,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Seminars, assignments, study group presentations, examination - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Welfare Measures and User Perspective 15 credits, Support, Rehabilitation and Enablement in Social Work 7,5 credits and Social Law Part I 7,5 credits

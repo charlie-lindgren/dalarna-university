@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: f2c083c7131aa594
+scrape_hash: 4c3ad31bea276da3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FV
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -59,6 +59,10 @@ Betyg rapporteras enligt följande:
 
   - Självständigt arbete - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Antagen till VAL-utbildning samt 30 hp i pedagogiskt arbete eller antagen med minst åtta och ett halvt års lärarerfarenhet
+
 ## Övrigt
 
 För studenter som inte har genomfört ett självständigt arbete inom ämnesdidaktiskt område, ska ett sådant självständigt arbete genomföras inom ramen för denna kurs.
@@ -80,3 +84,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Independent Work - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Admitted to Professional Qualification Course for Teachers (VAL) and either 30 credits in educational work or at least 8.5 years of teaching experience

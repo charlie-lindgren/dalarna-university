@@ -9,7 +9,7 @@ amne: "Svenska"
 amne_kod: "SVE"
 institution: "ISLL"
 tags: [kursplan, SVE, ISLL]
-scrape_hash: 12c471d38705ed82
+scrape_hash: 70d8d2100e0eca26
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2A2
 up: "[[Svenska MOC]]"
 ---
@@ -80,6 +80,10 @@ Betyg rapporteras enligt följande:
   - Forskningsplan - 7,5 hp | U–VG
   - Empirisk studie - 21 hp | U–VG
   - Ventilering - 1,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Svenska med didaktisk inriktning I, 30 hp, Svenska med didaktisk inriktning II, 30 hp samt Vetenskapsteori och utbildningsvetenskaplig forskning för ämneslärare, 7,5 hp
 
 ## Övrigt
 

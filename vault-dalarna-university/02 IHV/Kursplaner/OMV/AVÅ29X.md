@@ -9,7 +9,7 @@ amne: "Omvårdnad"
 amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
-scrape_hash: 9190d8eb72d2bb4b
+scrape_hash: 86388afb31fade9a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ29X
 up: "[[Omvårdnad MOC]]"
 ---
@@ -60,6 +60,10 @@ Som betygsskala på hel kurs används U–G.
 Betyg rapporteras enligt följande:
 
   - Skriftliga och muntliga redovisningar - 7,5 hp | U–G
+
+## Förkunskapskrav
+
+- Svensk legitimation som sjuksköterska
 
 ## Övrigt
 

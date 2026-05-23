@@ -10,7 +10,7 @@ amne_kod: "FYS"
 institution: "IHV"
 tags: [kursplan, FYS, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 77414eaf92b4c9d9
+scrape_hash: 1f3ddef6a7d37038
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFT2C9
 up: "[[Fysioterapi MOC]]"
 ---
@@ -64,6 +64,10 @@ Betyg rapporteras enligt följande:
 
   - Självständigt arbete och seminarium - 15 hp | U–G
 
+## Förkunskapskrav
+
+- Kandidatexamen i fysioterapi eller fysioterapeutexamen 180 hp samt 15 hp på avancerad nivå inom huvudområdet fysioterapi varav 7,5 hp i forskningsmetodik
+
 ## Övrigt
 
 Till stöd för det självständiga arbetet tillhandahålls handledning under det aktuella kurstillfället och enligt de förutsättningar som anges i kurshandboken. Efter muntlig redovisning av det självständiga arbetet lämnar granskande lärare skriftlig återkoppling till studenten. Därefter har studenten maximalt 10 arbetsdagar på sig att lämna in komplettering, varefter betyg sätts.
@@ -109,3 +113,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - Independent thesis and seminar - 15 Credits | U–G
+
+### Prerequisites
+
+- Bachelor of Science in Physiotherapy or Degree in Physiotherapy 180 credits and 15 credits second cycle in the main field of study Physiotherapy, including 7.5 credits in Research Methodology

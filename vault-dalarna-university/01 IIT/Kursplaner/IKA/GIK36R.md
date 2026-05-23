@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: 347dbe180a54d9dc
+scrape_hash: d6da812a09edfc61
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK36R
 up: "[[Informatik MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
 
   - Duggor - 3,0 hp | U–G
   - Inlämningsuppgifter - 4,5 hp | U–G
+
+## Förkunskapskrav
+
+- Programutvecklingsteknik 7,5 hp eller annan programmeringskurs 7,5 hp
 
 ## Övrigt
 

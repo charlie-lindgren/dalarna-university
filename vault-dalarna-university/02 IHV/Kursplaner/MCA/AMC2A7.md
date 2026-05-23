@@ -10,7 +10,7 @@ amne_kod: "MCA"
 institution: "IHV"
 tags: [kursplan, MCA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 2f59739845a5f548
+scrape_hash: 970d3bc5112570aa
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC2A7
 up: "[[Medicinsk vetenskap MOC]]"
 ---
@@ -86,6 +86,10 @@ Betyg rapporteras enligt följande:
   - EKG tolkning - 1,5 hp | U–G
   - Omvårdnad vid hjärtarytmier - 1,5 hp | U–G
 
+## Förkunskapskrav
+
+- Sjuksköterskeexamen, läkarexamen eller biomedicinsk analytikerexamen
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -103,3 +107,7 @@ Grades are reported as follows:
   - Examination - 4.5 Credits | U–G
   - ECG interpretation - 1.5 Credits | U–G
   - Nursing care for cardiac arrhythmias - 1.5 Credits | U–G
+
+### Prerequisites
+
+- Nursing Degree, Medical Degree or Biomedical Analyst Degree

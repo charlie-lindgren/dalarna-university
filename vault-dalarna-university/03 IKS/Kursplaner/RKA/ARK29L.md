@@ -9,7 +9,7 @@ amne: "Religionsvetenskap"
 amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
-scrape_hash: b1c26d6735b07243
+scrape_hash: f36bf25ce66f637c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29L
 up: "[[Religionsvetenskap MOC]]"
 ---
@@ -56,6 +56,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Religionssociologiska perspektiv på barn och unga i slutna religiösa miljöer - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- 90 hp inom humaniora och/eller samhällsvetenskap
 
 ## Övrigt
 

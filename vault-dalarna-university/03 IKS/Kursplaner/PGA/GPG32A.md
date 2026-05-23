@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 0a1a17678c2d177b
+scrape_hash: 5f8ad7f857cf1769
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG32A
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -73,6 +73,10 @@ Betyg rapporteras enligt följande:
 
   - Skolans samhällsuppdrag, nationellt och internationellt - 7,5 hp | U–VG
   - Skolväsendets historia och styrning - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Engelska 6, Samhällskunskap 1b eller 1a1+1a2. Eller: Engelska nivå 2, Samhällskunskap nivå 1b eller nivå 1a2
 
 ## Övrigt
 

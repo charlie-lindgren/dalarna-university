@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 6615fada325479b7
+scrape_hash: 0acd0481bbe9fe69
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3JC
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -59,6 +59,10 @@ Betyg rapporteras enligt följande:
 
   - Svenska utbildningssystemet - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet (med undantag för kravet på svenska för dig med utländska betyg)
+
 ## Övrigt
 
 Kursen är endast tillgänglig för besökande utländska studenter.   
@@ -101,3 +105,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - The Swedish Education System - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades

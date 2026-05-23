@@ -10,7 +10,7 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: f58ca661c018fcf8
+scrape_hash: 5b2f89e25de22a06
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2BK
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -68,6 +68,10 @@ Betyg rapporteras enligt följande:
 
   - Verksamhetsförlagd utbildning - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Antagen till VAL-utbildning samt VFU 2, 15 hp
+
 ## Övrigt
 
 Student som underkänts i mål knutna till kursens verksamhetsförlagda utbildning har rätt att genomgå ytterligare en VFU-period, dock inte fler än två sammanlagt.
@@ -87,3 +91,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Placement Studies - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Addmitted to Professional Qualification Course för Teachers and Pre-School Teachers 2, 15 credits

@@ -10,7 +10,7 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: e7540635dd937756
+scrape_hash: 5b9ffc41cb37c984
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3BR
 up: "[[Engelska MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
 
   - Kulturella texter och kontexter - 7,5 hp | A–F
 
+## Förkunskapskrav
+
+- Engelskspråkig litteratur, 6 hp. Undantag för svenska kan ges.
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskoder GEN33S, EN1092 och EN1018.
@@ -105,3 +109,7 @@ The final grade for the course is based on an overall assessment by the examiner
 Grades are reported as follows:
 
   - Cultural texts and contexts - 7.5 Credits | A–F
+
+### Prerequisites
+
+- Literature in English, 6 hp. Exemption from Swedish can be given.

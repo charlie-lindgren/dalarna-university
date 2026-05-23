@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: 8729fdac0709af63
+scrape_hash: c957c801814ad30c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32M
 up: "[[Informatik MOC]]"
 ---
@@ -67,6 +67,11 @@ Betyg rapporteras enligt följande:
 
   - Seminarier - 4 hp | U–G
   - Projekt - 3,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Grafisk design 7,5 hp
+  - Visuell identitet 7,5 hp
 
 ## Övrigt
 

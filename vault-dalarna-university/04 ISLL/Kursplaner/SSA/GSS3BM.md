@@ -9,7 +9,7 @@ amne: "Svenska som andraspråk"
 amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
-scrape_hash: e45e45ea7e686078
+scrape_hash: 9c2f6afeb43ae732
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3BM
 up: "[[Svenska som andraspråk MOC]]"
 ---
@@ -63,6 +63,10 @@ Betyg rapporteras enligt följande:
 
   - Språk, undervisning och lärande i ett andraspråksperspektiv - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Flerspråkighet och andraspråksutveckling, 7,5 hp
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskod GSS2C3 samt delkursen _Språk, undervisning och lärande i ett andraspråksperspektiv_, 7,5 hp i kursen _Svenska som andraspråk II med didaktisk inriktning_, 30 hp.
@@ -80,3 +84,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Language, teaching and learning in a second language perspective - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Multilingualism and Second Language Development, 7.5 credits

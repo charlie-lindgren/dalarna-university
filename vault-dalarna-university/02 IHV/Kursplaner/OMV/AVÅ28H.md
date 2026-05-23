@@ -9,7 +9,7 @@ amne: "Omvårdnad"
 amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
-scrape_hash: 9a3b3ac04fd5843c
+scrape_hash: ce5a3cec89d38011
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ28H
 up: "[[Omvårdnad MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
 
   - Seminarier - 3 hp | U–G
   - Individuell skriftlig tentamen - 4,5 hp | U–G
+
+## Förkunskapskrav
+
+- Sjuksköterskeexamen
 
 ## Övrigt
 

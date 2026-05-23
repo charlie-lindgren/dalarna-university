@@ -10,7 +10,7 @@ amne_kod: "HIA"
 institution: "IKS"
 tags: [kursplan, HIA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 06868bc8f219cb39
+scrape_hash: ea050774478c2d13
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI32G
 up: "[[Historia MOC]]"
 ---
@@ -126,6 +126,10 @@ Betyg rapporteras enligt följande:
   - Historiedidaktik II - 7,5 hp | U–VG
   - Historievetenskaplig teori och metod - 7,5 hp | U–VG
   - Uppsats - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Historia I med didaktisk inriktning, 22,5 hp eller Historia I, 22,5 hp
 
 ## Övrigt
 

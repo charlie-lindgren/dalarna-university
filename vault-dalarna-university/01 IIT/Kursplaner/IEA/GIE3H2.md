@@ -9,7 +9,7 @@ amne: "Industriell ekonomi"
 amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
-scrape_hash: 2770725568ba229b
+scrape_hash: f5b9727ddb1d6521
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3H2
 up: "[[Industriell ekonomi MOC]]"
 ---
@@ -72,6 +72,10 @@ Betyg rapporteras enligt följande:
   - Individuella inlämningsuppgifter - 1,5 hp | U–G
   - Gruppuppgift med skriftlig och muntlig redovisning - 2 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -89,3 +93,7 @@ Grades are reported as follows:
   - Written exam - 4 Credits | U, 3, 4, 5
   - Individual assignments - 1.5 Credits | U–G
   - Group assignment with written and oral presentation - 2 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

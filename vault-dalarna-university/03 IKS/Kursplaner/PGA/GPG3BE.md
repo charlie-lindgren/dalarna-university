@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 1fcb4f66f734c54c
+scrape_hash: bf92dc9c01f071a3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3BE
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -63,6 +63,10 @@ Betyg rapporteras enligt följande:
 
   - Didaktik och ledarskap - VAL - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Antagen till VAL-utbildning
+
 ## Övrigt
 
 Innehåller obligatorisk campusträff om en till två dagar.
@@ -80,3 +84,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Didactics and Leadership - Professional Qualification Course for Teachers - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Admitted to CPD education for Teachers

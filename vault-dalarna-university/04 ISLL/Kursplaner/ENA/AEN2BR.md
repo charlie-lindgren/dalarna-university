@@ -8,11 +8,11 @@ huvudomrade: "Interkulturella litteraturstudier 1"
 amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
-tags: [kursplan, ENA, ISLL, vilande]
-scrape_hash: 30b8f758dd8f7173
+tags: [kursplan, ENA, ISLL, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: 5231f10f2005c93f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BR
 up: "[[Engelska MOC]]"
-cssclasses: [vilande]
 ---
 
 # AEN2BR
@@ -56,6 +56,10 @@ Betyg rapporteras enligt följande:
 
   - Kommenterad bibliografi - 7,5 hp | A–F
 
+## Förkunskapskrav
+
+- 60 hp på avancerad nivå, varav 30 hp inom huvudområdet Interkulturella litteraturstudier
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskod AJP27B.
@@ -93,3 +97,7 @@ The grading scale used for the final course grade is A–F.
 Grades are reported as follows:
 
   - Annotated Bibliography - 7.5 Credits | A–F
+
+### Prerequisites
+
+- 60 credits at Second Cycle, with 30 credits in the main field of study Intercultural Literature Studies

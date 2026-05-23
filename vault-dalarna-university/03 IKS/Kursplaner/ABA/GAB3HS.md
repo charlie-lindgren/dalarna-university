@@ -9,7 +9,7 @@ amne: "Arbetsvetenskap"
 amne_kod: "ABA"
 institution: "IKS"
 tags: [kursplan, ABA, IKS]
-scrape_hash: 2bd4341a7a32c0d9
+scrape_hash: 8942cec678853850
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3HS
 up: "[[Arbetsvetenskap MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
   - Begrepp, teorier och modeller - 4,5 hp | U–G
   - Tillämpning och reflektion - 3 hp | U–G
 
+## Förkunskapskrav
+
+- Hållbart arbetsliv, personalarbete och vetenskap 15 hp och Arbetsorganisation 7,5 hp
+
 ## Övrigt
 
 Vid omexamination kan examination ske i annan form efter avgörande av examinator.
@@ -79,3 +83,7 @@ Grades are reported as follows:
 
   - Concepts, theories, and models - 4.5 Credits | U–G
   - Application and reflection - 3 Credits | U–G
+
+### Prerequisites
+
+- Sustainable Working Life, Human Resources and Science 15 credits and Work organization 7.5 credits

@@ -9,7 +9,7 @@ amne: "Bildproduktion"
 amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS]
-scrape_hash: 1b1cc521ca329516
+scrape_hash: 82ea1f3afcaca67e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABQ2B2
 up: "[[Bildproduktion MOC]]"
 ---
@@ -56,6 +56,10 @@ Betyg rapporteras enligt följande:
   - Perspektiv på audiovisualitet - 10 hp | U–G
   - Gestaltande kunskapsproduktion: iterativa seminarier - 5 hp | U–G
 
+## Förkunskapskrav
+
+- Kandidatexamen i musik, ljud- och musikproduktion, komposition, bildproduktion, audiovisuell produktion, grafisk design eller lärarexamen med inriktning mot medieproduktion alternativt kandidatexamen tillsammans med dokumenterad kunskap om och erfarenhet av produktionsprocesser och aktuell teknologi inom ljud- och/eller bildområdet.
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -86,3 +90,7 @@ Grades are reported as follows:
 
   - Perspectives on Audiovisuality - 10 Credits | U–G
   - Experiential Knowledge Production: Iterative Seminars - 5 Credits | U–G
+
+### Prerequisites
+
+- Bachelor‘s degree in music, sound and music production, composition, visual production, audiovisual production, graphic design, or teaching degree with a focus on media production, alternatively a bachelor‘s degree combined with documented knowledge and experience of production processes and current technology in the audio and/or visual field.

@@ -10,7 +10,7 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 28cf1c5943097c67
+scrape_hash: 8e926e6b03185cda
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3F2
 up: "[[Medieproduktion MOC]]"
 ---
@@ -71,6 +71,10 @@ Betyg rapporteras enligt följande:
   - Produktionsprocess - 7 hp | U–VG
   - Egen projektinsats och skriftlig reflektion - 8 hp | U–VG
 
+## Förkunskapskrav
+
+- 75 hp inom huvudområdet Medieproduktion inklusive Alternativa gestaltningsformer 7,5 hp och Vetenskapsteori och metod 7,5 hp.
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -87,3 +91,7 @@ Grades are reported as follows:
 
   - Production Process - 7 Credits | U–VG
   - Individual Project Contribution and Written Reflection - 8 Credits | U–VG
+
+### Prerequisites
+
+- 75 credits in the main field of study, Media Production, incuding Alternative forms of design 7.5 credits and Scientific Theory and Method 7.5 credits

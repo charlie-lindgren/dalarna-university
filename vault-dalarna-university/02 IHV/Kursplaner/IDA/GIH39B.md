@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: 0b65029ab71621c7
+scrape_hash: e5315724a8950237
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH39B
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -55,6 +55,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Mål- och nätspel - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

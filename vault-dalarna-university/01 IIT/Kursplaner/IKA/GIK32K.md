@@ -10,7 +10,7 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 125f15c30b456aab
+scrape_hash: 97c96c6f6ad10d21
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32K
 up: "[[Informatik MOC]]"
 ---
@@ -71,6 +71,10 @@ Betyg rapporteras enligt följande:
   - Inlämningsuppgift - 2 hp | U–G
   - Inlämningsuppgift - 5 hp | U–G
   - Muntlig examination - 0,5 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Matematik 2a eller 2b eller 2c, Samhällskunskap 1b eller 1a1+1a2. Eller: Matematik nivå 2a eller nivå 2b eller nivå 2c, Samhällskunskap nivå 1b eller nivå 1a2
 
 ## Övrigt
 

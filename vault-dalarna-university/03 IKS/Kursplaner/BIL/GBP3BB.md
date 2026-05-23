@@ -10,7 +10,7 @@ amne_kod: "BIL"
 institution: "IKS"
 tags: [kursplan, BIL, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 654581d98ae46160
+scrape_hash: 413c225170e03453
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBP3BB
 up: "[[Bild MOC]]"
 ---
@@ -65,6 +65,10 @@ Betyg rapporteras enligt följande:
   - Grundläggande fototeknik - 2,5 hp | U–G
   - Fotografiers uttryck och kommunikation - 5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen är nätbaserad. För nätbaserad kurs krävs att den studerande kan kommunicera med ljud och bild via en dator eller motsvarande. Kursdeltagarna måste ha tillgång till digital systemkamera och lämpligt bildbehandlingsprogram.
@@ -83,3 +87,7 @@ Grades are reported as follows:
 
   - Basic Photography Techniques - 2.5 Credits | U–G
   - Photographic Expression and Communication - 5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

@@ -9,7 +9,7 @@ amne: "Franska"
 amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
-scrape_hash: e4dcd2c855663a37
+scrape_hash: 819187b664f6b09b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3BS
 up: "[[Franska MOC]]"
 ---
@@ -148,6 +148,10 @@ Betyg rapporteras enligt följande:
   - Litteraturanalys - Skriftliga inlämningsuppgifter; kortare uppsats - 5,5 hp | U–VG
   - Litteraturanalys - Seminarier - 2 hp | U–VG
 
+## Förkunskapskrav
+
+- Franska I med didaktisk inriktning, 30 hp och Franska II med didaktisk inriktning, 22,5 hp
+
 ## Övrigt
 
 Kursen innehåller två till tre fältdagar vid VFU-skola.
@@ -272,3 +276,7 @@ Grades are reported as follows:
   - History of the French Language - 7.5 Credits | U–VG
   - Literary Analysis - Written Assignments; Short Essay - 5.5 Credits | U–VG
   - Literary Analysis - Seminars - 2 Credits | U–VG
+
+### Prerequisites
+
+- French I for Teachers Students, 30 credits and French II for Teacher Students, 22.5 credits

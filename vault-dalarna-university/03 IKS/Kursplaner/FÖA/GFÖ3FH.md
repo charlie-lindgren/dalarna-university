@@ -8,7 +8,7 @@ amne: "Företagsekonomi"
 amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
-scrape_hash: 2c920632235be63f
+scrape_hash: fe91bf2aa780c94c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ3FH
 up: "[[Företagsekonomi MOC]]"
 ---
@@ -64,6 +64,10 @@ Betyg rapporteras enligt följande:
   - Introduktion till sport management - 3,5 hp | U–VG
   - Idrottens organisering, styrning och förändringsprocesser - 4 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Den som antagits till och registrerats på kursen har rätt att erhålla undervisning och/eller handledning under den tid som angavs för kurstillfället som den sökande blivit antagen till.
@@ -88,3 +92,7 @@ Grades are reported as follows:
 
   - Introduction to Sport Management - 3.5 Credits | U–VG
   - The organization, governance, and change processes of sport - 4 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

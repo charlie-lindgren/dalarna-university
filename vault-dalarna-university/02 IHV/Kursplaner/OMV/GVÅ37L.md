@@ -9,7 +9,7 @@ amne: "Omvårdnad"
 amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
-scrape_hash: 4cd888fb7163e09a
+scrape_hash: 1296b1b0db1f3b51
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ37L
 up: "[[Omvårdnad MOC]]"
 ---
@@ -80,6 +80,10 @@ Betyg rapporteras enligt följande:
   - Nationell klinisk slutexamination, skriftligt prov - 1 hp | U–G
   - Organisation, ledarskap och förbättringsarbete - 3 hp | U–G
   - Arbetsmiljö - 1,5 hp | U–G
+
+## Förkunskapskrav
+
+- Sjuksköterskans profession och yrkesansvar 10,5 hp, Omvårdnadsprocessen och kliniska färdigheter 6 hp, Metoder för evidensbaserad vård I 7,5 hp, Anatomi och fysiologi för sjuksköterskor I 6 hp, Anatomi och fysiologi för sjuksköterskor II 7,5 hp, Farmakologi, mikrobiologi, immunologi 7,5 hp, Personcentrerad omvårdnad inom äldreomsorg 7,5 hp, Människa, hälsa och samhälle 7,5 hp, Metoder och teorier vid symtom och tecken på hälsa/ohälsa I 30 hp, Personcentrerad vård inom somatisk vård 15 hp, Personcentrerad vård inom psykiatrisk vård 7,5 hp, Metoder och teorier vid symtom och tecken på hälsa/ohälsa II 7,5 hp samt 15 hp från kursen Personcentrerad vård inom olika vårdsammanhang 22,5 hp
 
 ## Övrigt
 

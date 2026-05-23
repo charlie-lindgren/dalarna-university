@@ -9,7 +9,7 @@ amne: "Japanska"
 amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
-scrape_hash: bafb1e7ab9c1ddc2
+scrape_hash: 853009d081f61ab6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP2AG
 up: "[[Japanska MOC]]"
 ---
@@ -66,6 +66,10 @@ Betyg rapporteras enligt följande:
   - Seminarier och skriftliga uppgifter - 11 hp | A–F
   - Skriftliga tentamina - 4 hp | A–F
 
+## Förkunskapskrav
+
+- Japanska IV: Introduktion till översättning, 15 hp
+
 ## Övrigt
 
 Kursen utgör en fortsättning på kursen Japanska IV: Introduktion till översättning.
@@ -116,3 +120,7 @@ Grades are reported as follows:
 
   - Seminars and written assignments - 11 Credits | A–F
   - Written examinations - 4 Credits | A–F
+
+### Prerequisites
+
+- Japanese IV: Introduction to Translation, 15 credits

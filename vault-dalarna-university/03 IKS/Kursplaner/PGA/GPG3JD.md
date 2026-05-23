@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 2ab2910539a7fdc9
+scrape_hash: 6818fa33ed5c0f81
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3JD
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -59,6 +59,10 @@ Betyg rapporteras enligt följande:
 
   - Att leda det kollegiala lärandet i förskola och skola - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 För deltagande i kursen bör den studerande ha tillgång till pedagogisk praktik i förskola eller skola för genomförande av uppgifter och examination.
@@ -76,3 +80,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - To Lead Collegial Learning in Preschool and School - 7.5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: dbf567f1aa7734ea
+scrape_hash: 835bb4b3664270b6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AS
 up: "[[Energiteknik MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
   - Projektuppgift 1 - 2 hp | U–G
   - Projektuppgift 2 - 2 hp | U–G
 
+## Förkunskapskrav
+
+- Hållbara värmesystem 5 hp och Solstrålning och solgeometri 5 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -102,3 +106,7 @@ Grades are reported as follows:
   - Assignment - 1 Credit | U–G
   - Project assignment 1 - 2 Credits | U–G
   - Project assignment 2 - 2 Credits | U–G
+
+### Prerequisites
+
+- Sustainable Heating Technology 5 credits and Solar Radiation and Solar Geometry 5 credits

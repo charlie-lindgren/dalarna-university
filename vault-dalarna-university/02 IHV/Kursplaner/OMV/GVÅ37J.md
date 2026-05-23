@@ -9,7 +9,7 @@ amne: "Omvårdnad"
 amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
-scrape_hash: cdeba0d931b7f299
+scrape_hash: 7e47efa9e47bf27d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ37J
 up: "[[Omvårdnad MOC]]"
 ---
@@ -67,6 +67,10 @@ Betyg rapporteras enligt följande:
 
   - Omvårdnadsprocessen 3 hp - 3,0 hp | U–G
   - Färdighetsträning - 3 hp | U–G
+
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Matematik 2a eller 2b eller 2c, Naturkunskap 2, Samhällskunskap 1b eller 1a1+1a2. Eller: Matematik nivå 2a eller nivå 2b eller nivå 2c, Naturkunskap nivå 2, Samhällskunskap nivå 1b eller nivå 1a2
 
 ## Övrigt
 

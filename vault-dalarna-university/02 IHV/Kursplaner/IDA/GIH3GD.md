@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: 1cce80c405a5253b
+scrape_hash: e49e3153cf51b23b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GD
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -57,6 +57,10 @@ Betyg rapporteras enligt följande:
   - Mental tuffhet - 2,0 hp | U–G
   - Motiverande samtal - 2,0 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -94,3 +98,7 @@ Grades are reported as follows:
   - Behavioural analysis - 3.5 Credits | U–G
   - Mental Toughness - 2.0 Credits | U–G
   - Motivational Interviewing - 2.0 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

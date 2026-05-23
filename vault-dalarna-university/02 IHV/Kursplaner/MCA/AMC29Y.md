@@ -10,7 +10,7 @@ amne_kod: "MCA"
 institution: "IHV"
 tags: [kursplan, MCA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 97dce5146ace79e3
+scrape_hash: a341646e6b9c3dd3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC29Y
 up: "[[Medicinsk vetenskap MOC]]"
 ---
@@ -77,6 +77,10 @@ Betyg rapporteras enligt följande:
   - Studieuppgift - 2,5 hp | U–G
   - Muntlig tentamen - 4 hp | U–G
   - Skriftlig tentamen - 4 hp | U–G
+
+## Förkunskapskrav
+
+- Svensk legitimation som sjuksköterska, samt yrkesverksamhet som sjuksköterska motsvarande minst 12 månaders heltidstjänstgöring inom somatisk vård.
 
 ## Övrigt
 

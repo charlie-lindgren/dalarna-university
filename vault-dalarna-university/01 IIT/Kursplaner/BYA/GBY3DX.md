@@ -9,7 +9,7 @@ amne: "Byggteknik"
 amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
-scrape_hash: 2b0bf51ada8ba1d6
+scrape_hash: 742764a86f66f8ac
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY3DX
 up: "[[Byggteknik MOC]]"
 ---
@@ -67,6 +67,10 @@ Betyg rapporteras enligt följande:
   - Projektuppgift - 3 hp | U–G
   - Inlämningsuppgift och seminarium - 1,5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Matematik 3c eller Matematik D, Fysik 2, Kemi 1. Eller: Matematik fortsättning nivå 1c, Fysik nivå 2, Kemi nivå 1
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -114,3 +118,7 @@ Grades are reported as follows:
   - Invigilated written examination either on campus or online, depending on the examination session - 3 Credits | U, 3, 4, 5
   - Project assignment - 3 Credits | U–G
   - Assignment and seminar - 1.5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements and Mathematics 3c or Mathematics D, Physics 2, Chemistry 1. Or: Mathematics Further level 1c, Physics level 2, Chemistry level 1

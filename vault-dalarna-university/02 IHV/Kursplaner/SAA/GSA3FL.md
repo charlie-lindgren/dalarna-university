@@ -9,7 +9,7 @@ amne: "Socialt arbete"
 amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
-scrape_hash: 9d8cb5ad08d05f4a
+scrape_hash: cb58c04bbc03dec5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3FL
 up: "[[Socialt arbete MOC]]"
 ---
@@ -139,6 +139,10 @@ Betyg rapporteras enligt följande:
   - Verksamhetsförlagd utbildning - 10,5 hp | U–G
   - Campusförlagd utbildning - 4,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Sociologiska perspektiv på socialt arbete 7,5 hp, Psykologiska perspektiv på socialt arbete 7,5 hp, Socialpolitikens betydelse för socialt arbete 7,5 hp och Välfärdsinsatser och brukarperspektiv 15 hp
+
 ## Övrigt
 
 Kursen ingår i Socionomprogrammet.
@@ -173,3 +177,7 @@ Grades are reported as follows:
 
   - Field Placement - 10.5 Credits | U–G
   - Campus-Based Education - 4.5 Credits | U–VG
+
+### Prerequisites
+
+- Sociological Perspectives on Social Work 7,5 credits, Psychological Perspectives on Social Work 7,5 credits, The Importance of Social Policy for Social Work 7,5 credits and Welfare Measures and User Perspective 15 credits

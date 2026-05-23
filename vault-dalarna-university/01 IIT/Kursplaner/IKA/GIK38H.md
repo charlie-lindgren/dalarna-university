@@ -10,7 +10,7 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: bd4e76f83f9bc182
+scrape_hash: e228bf09300ba974
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK38H
 up: "[[Informatik MOC]]"
 ---
@@ -68,6 +68,10 @@ Betyg rapporteras enligt följande:
   - Inlämningsuppgift (utveckling och användning av IT) - 1,5 hp | U–G
   - Projekt (rapport och seminarium) - 3 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Material och undervisning kan förekomma på engelska.  
@@ -118,3 +122,7 @@ Grades are reported as follows:
   - Quiz (Theory) - 3 Credits | U–G
   - Assignment (IT development and IT use) - 1.5 Credits | U–G
   - Project (report and seminar) - 3 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

@@ -10,7 +10,7 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 4a248e35428f7002
+scrape_hash: e047d4ce93257b8c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EZ
 up: "[[Medieproduktion MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
 
   - Kandidatexamensarbete i Medieproduktion - 15 hp | U–VG
 
+## Förkunskapskrav
+
+- 60 hp inom huvudområdet Medieproduktion inklusive Uppsats i medieproduktion 7,5 hp och Alternativa gestaltningsformer 7,5 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -77,3 +81,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Bachelor’s Thesis in Media Production - 15 Credits | U–VG
+
+### Prerequisites
+
+- 60 credits in the main field of study Media Production, including Media Production Thesis 7.5 credits and Alternative Forms of Design 7.5 credits

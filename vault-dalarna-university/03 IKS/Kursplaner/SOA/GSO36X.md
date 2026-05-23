@@ -9,7 +9,7 @@ amne: "Sociologi"
 amne_kod: "SOA"
 institution: "IKS"
 tags: [kursplan, SOA, IKS]
-scrape_hash: a98b3f79b30a607e
+scrape_hash: e87b05cc5944e824
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO36X
 up: "[[Sociologi MOC]]"
 ---
@@ -58,6 +58,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Digitalisering och samhälle - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Grundläggande behörighet
 
 ## Övrigt
 

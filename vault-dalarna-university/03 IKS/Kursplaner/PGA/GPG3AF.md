@@ -10,7 +10,7 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 78d01fc7c28b6e27
+scrape_hash: f64b5b8ba97b7542
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AF
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -60,6 +60,10 @@ Betyg rapporteras enligt följande:
 
   - Specialpedagogik och ett läraruppdrag i förändring för ämneslärare årskurs 7–9 - AIL - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Introduktion till läraryrket för ämneslärare årskurs 7-9 - AIL, 7,5 hp, Didaktik och ledarskap för ämneslärare årskurs 7-9 AIL, 7,5 hp samt Verksamhetsförlagd utbildning 1 för ämneslärare årskurs 7-9 AIL, 7,5 hp
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -103,3 +107,7 @@ Special education and a changing teaching assignment for secondary teachers – 
 Grades are reported as follows:
 
   - Special education and a changing teaching assignment for subject teachers grades 7–9 - Work-Integrated Programme - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- Introduction to the Teaching Profession for Secondary Teachers - School Years 7-9 - Work-Integrated Programme, 7.5 credits, Teaching, Learning and Leadership for Secondary Teachers - School Years 7-9 - Work-Integrated Programme, 7.5 credits and Placement 1 for Secondary Teachers - School Years 7-9 - Work-Integrated Programme, 7.5 credits

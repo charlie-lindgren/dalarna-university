@@ -9,7 +9,7 @@ amne: "Byggteknik"
 amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
-scrape_hash: 470402178e466261
+scrape_hash: 43d25c41b63d65fd
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY34N
 up: "[[Byggteknik MOC]]"
 ---
@@ -72,6 +72,10 @@ Arbetet måste senast vara klart inom 18 månader från kursstart annars ges exa
 Betyg rapporteras enligt följande:
 
   - Examensarbete - 15 hp | U, 3, 4, 5
+
+## Förkunskapskrav
+
+- 120 hp i byggingenjörsprogrammet
 
 ## Övrigt
 

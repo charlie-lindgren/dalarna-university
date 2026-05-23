@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: a942d0f9ac4eef83
+scrape_hash: eeab558fd60d776d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GH
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -59,6 +59,10 @@ Betyg rapporteras enligt följande:
   - Motorisk utveckling - 4,5 hp | U–G
   - Projektarbete åldersanpassad träning - 3 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -95,3 +99,7 @@ Grades are reported as follows:
 
   - Motor development - 4.5 Credits | U–G
   - Project work age adapted training - 3 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements

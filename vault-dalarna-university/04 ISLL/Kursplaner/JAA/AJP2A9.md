@@ -10,7 +10,7 @@ amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 9b7a045625af2ac2
+scrape_hash: 81eda9c6bfa01d1c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP2A9
 up: "[[Japanska MOC]]"
 ---
@@ -65,6 +65,10 @@ Som betygsskala på hel kurs används A–F.
 Betyg rapporteras enligt följande:
 
   - Examensarbete - 30 hp | A–F
+
+## Förkunskapskrav
+
+- Kandidatexamen i språk eller litteraturvetenskap om minst 180 hp. 90 hp på avancerad nivå, varav 30 hp inom huvudområdet Interkulturella litteraturstudier.
 
 ## Övrigt
 

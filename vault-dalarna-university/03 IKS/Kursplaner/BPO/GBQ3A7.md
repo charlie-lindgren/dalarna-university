@@ -10,7 +10,7 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 35692f579d482596
+scrape_hash: f19bc42f3874d1c0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3A7
 up: "[[Bildproduktion MOC]]"
 ---
@@ -58,6 +58,10 @@ Betyg rapporteras enligt följande:
 
   - Star Wars: Film, myter och världar - 7,5 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -95,3 +99,7 @@ The grading scale used for the final course grade is U–G.
 Grades are reported as follows:
 
   - Star Wars - Movie, Myths and Worlds - 7.5 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

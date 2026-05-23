@@ -9,7 +9,7 @@ amne: "Religionsvetenskap"
 amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
-scrape_hash: 84af27a0049b4d57
+scrape_hash: 7d088bb986671cb4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK36M
 up: "[[Religionsvetenskap MOC]]"
 ---
@@ -68,6 +68,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Examensarbete - 15 hp | U–VG
+
+## Förkunskapskrav
+
+- 75 hp inom huvudområdet religionsvetenskap
 
 ## Övrigt
 

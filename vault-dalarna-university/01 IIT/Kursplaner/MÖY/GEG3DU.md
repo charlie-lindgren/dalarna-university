@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: ff923b78569a9efd
+scrape_hash: 45df3793f4fac44c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG3DU
 up: "[[Energiteknik MOC]]"
 ---
@@ -61,6 +61,10 @@ Betyg rapporteras enligt följande:
   - Projekt - 2,0 hp | U–G
   - Skriftlig övervakad tentamen som kan ske i sal eller online beroende på examinationstillfälle - 5,0 hp | U, 3, 4, 5
 
+## Förkunskapskrav
+
+- Termodynamik, 7,5 hp
+
 ## Övrigt
 
 Överlappar EG1013.
@@ -104,3 +108,7 @@ Grades are reported as follows:
   - Lab - 0.5 Credits | U–G
   - Project - 2.0 Credits | U–G
   - Invigilated written examination either on campus or online, depending on the examination session - 5.0 Credits | U, 3, 4, 5
+
+### Prerequisites
+
+- Thermodynamics, 7,5 credits

@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: eca071018584303a
+scrape_hash: 30724778ea014d1f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2C5
 up: "[[Energiteknik MOC]]"
 ---
@@ -58,6 +58,10 @@ Betyg rapporteras enligt följande:
   - Skriftlig salstentamen - 4 hp | U, 3, 4, 5
   - Laborationsrapport - 1 hp | U–G
 
+## Förkunskapskrav
+
+- Högskoleingenjörsexamen, Civilingenjörsexamen eller Teknologie kandidatexamen med huvudområde inom elektroteknik, maskinteknik, energiteknik, teknisk fysik och Engelska 6
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -98,3 +102,7 @@ Grades are reported as follows:
 
   - Written exam - 4 Credits | U, 3, 4, 5
   - Laboratory report - 1 Credit | U–G
+
+### Prerequisites
+
+- Degree of Bachelor of Science in Engineering, Degree of Master of Science in Engineering or Degree of Bachelor of Science with a main field of study in Electrical Engineering, Mechanical Engineering, Energy Engineering or Engineering Physics and English 6

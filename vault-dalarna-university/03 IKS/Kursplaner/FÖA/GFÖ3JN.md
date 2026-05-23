@@ -8,7 +8,7 @@ amne: "Företagsekonomi"
 amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
-scrape_hash: e48155cc7ed31ee3
+scrape_hash: 7f03637dcc51a28e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ3JN
 up: "[[Företagsekonomi MOC]]"
 ---
@@ -64,6 +64,10 @@ Betyg rapporteras enligt följande:
   - Marknader, utbyte och resursmobilisering i idrottens hybrider - 2,5 hp | U–G
   - Sponsring i praktiken: Aktivering, utvärdering och effektmätning - 5 hp | U–VG
 
+## Förkunskapskrav
+
+- Sport Management II, 7,5 hp, Organisation A, 7,5 hp, Marknadsföring B, 7,5 hp samt en metodkurs 7,5 hp
+
 ## Övrigt
 
 Överlappar FÖ2010, FÖ2027, GFÖ39A
@@ -111,3 +115,7 @@ Grades are reported as follows:
 
   - Markets, exchange and resource mobilization in sports hybrids - 2.5 Credits | U–G
   - Sponsorship in practice: Activation, evaluation and impact measurement - 5 Credits | U–VG
+
+### Prerequisites
+
+- Sport Management II, 7.5 credits, Organisation A, 7.5 credits, Marketing B, 7.5 credits and one course in method 7.5 credits

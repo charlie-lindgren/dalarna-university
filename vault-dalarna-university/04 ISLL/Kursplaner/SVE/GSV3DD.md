@@ -9,7 +9,7 @@ amne: "Svenska"
 amne_kod: "SVE"
 institution: "ISLL"
 tags: [kursplan, SVE, ISLL]
-scrape_hash: 75699f702b9e8c0e
+scrape_hash: a2fa03a06afe84ad
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DD
 up: "[[Svenska MOC]]"
 ---
@@ -131,6 +131,10 @@ Betyg rapporteras enligt följande:
   - Barn- och ungdomslitteratur: Grundläggande litteraturvetenskapliga begrepp - 2,5 hp | U–VG
   - Barn- och ungdomslitteratur: Barn- och ungdomslitteratur i samhällsdialog - 5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Engelska 6, Samhällskunskap 1b eller 1a1+1a2. Eller: Engelska nivå 2, Samhällskunskap nivå 1b eller nivå 1a2
+
 ## Övrigt
 
 I kursen ingår en obligatorisk träff om 2–3 dagar på campus, som omfattar examinerande moment. För dessa examinerande moment erbjuds omexamination först vid campusträffen i samband med nästa kurstillfälle.  
@@ -169,3 +173,7 @@ Grades are reported as follows:
   - Stylistics and Text Analysis - 5 Credits | U–VG
   - Basic Literary Concepts - 2.5 Credits | U–VG
   - Literature for Children and Young Adults in Dialogue with Society - 5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements and English 6, Social Sciences 1b or 1a1+1a2. Or: English level 2, Social Sciences level 1b or level 1a2

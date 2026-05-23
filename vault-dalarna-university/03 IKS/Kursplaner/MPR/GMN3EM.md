@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 7b92da5f14207455
+scrape_hash: 01c379bc830d4411
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EM
 up: "[[Medieproduktion MOC]]"
 ---
@@ -70,6 +70,10 @@ Betyg rapporteras enligt följande:
   - Organisationsreflektion - 1,5 hp | U–G
   - Lärandereflektion - 2 hp | U–G
 
+## Förkunskapskrav
+
+- 60 hp inom medieproduktion inklusive delmoment Nyhets- och flerkameraproduktion 5,5 hp från TV-produktion och nyhetsmedier 7,5 hp
+
 ## Övrigt
 
 Modulen _Flerkameraproduktionsarbete 6,5 hp _kan examineras endast när kursen går. Vid underkänt betyg hänvisas studenten till nästa kurstillfälle för omexamination.
@@ -90,3 +94,7 @@ Grades are reported as follows:
   - Multi-Camera Work - 6.5 Credits | U–G
   - Reflection on Organisation - 1.5 Credits | U–G
   - Reflection on Learning - 2 Credits | U–G
+
+### Prerequisites
+
+- 60 credits in Media Production including the module News and Multi-Camera Production 5.5 credits from TV Production and News Media 7.5 credits

@@ -9,7 +9,7 @@ amne: "Byggteknik"
 amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
-scrape_hash: dc9625e43884e316
+scrape_hash: c46868c10e307acb
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY38D
 up: "[[Byggteknik MOC]]"
 ---
@@ -71,6 +71,10 @@ Betyg rapporteras enligt följande:
   - Tentamen, geoteknik - 4 hp | U, 3, 4, 5
   - Tentamen, betong - 2 hp | U, 3, 4, 5
 
+## Förkunskapskrav
+
+- 90 hp i Byggteknik - Högskoleingenjörsprogrammet
+
 ## Övrigt
 
 Ersätter GBY2V9.
@@ -122,3 +126,7 @@ Grades are reported as follows:
   - Laboratory Work - 1.5 Credits | U–G
   - Written Examination, Soil Mechanics - 4 Credits | U, 3, 4, 5
   - Written Examination, Concrete - 2 Credits | U, 3, 4, 5
+
+### Prerequisites
+
+- 90 credits in Building Engineering Programme

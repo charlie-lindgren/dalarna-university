@@ -9,7 +9,7 @@ amne: "Franska"
 amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
-scrape_hash: a79ff5249565f784
+scrape_hash: 7c357feb7af74aed
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3CZ
 up: "[[Franska MOC]]"
 ---
@@ -67,6 +67,10 @@ Betyg rapporteras enligt följande:
 
   - Examensarbete - 15 hp | A–F
 
+## Förkunskapskrav
+
+- 60 hp inom huvudområdet Franska inklusive 30 hp i Franska II
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskoder GFR2KR och GFR2AS.
@@ -116,3 +120,7 @@ The grading scale used for the final course grade is A–F.
 Grades are reported as follows:
 
   - Thesis - 15 Credits | A–F
+
+### Prerequisites
+
+- 60 credits in the main field of study French, including 30 credits in French II

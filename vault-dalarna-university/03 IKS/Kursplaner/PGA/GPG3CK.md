@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 8bebccc458e5987f
+scrape_hash: a0637ee020217c2a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CK
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -68,6 +68,10 @@ Betyg rapporteras enligt följande:
   - Skolans framväxt, uppdrag och styrning - 7,5 hp | U–VG
   - Samhällsuppdraget i aktuellt och internationellt perspektiv - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet samt Matematik 2a eller 2b eller 2c, Engelska 6, Naturkunskap 1b eller 1a1+1a2, Samhällskunskap 1b eller 1a1+1a2. Eller: Matematik nivå 2a eller nivå 2b eller nivå 2c, Engelska nivå 2, Naturkunskap nivå 1b eller nivå 1a2, Samhällskunskap nivå 1b eller nivå 1a2
+
 ## Övrigt
 
 För nätbaserad kurs ingår en obligatorisk campusträff om maximalt tre dagar.
@@ -90,3 +94,7 @@ Grades are reported as follows:
 
   - The Development, Role and Governance of Schools - 7.5 Credits | U–VG
   - The Role in Society of the School System - a Current and International Perspective - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements and Mathematics 2a or 2b or 2c or, English 6, Natural Sciences 1b or 1a1+1a2, Social Sciences 1b or 1a1+1a2. Or: Mathematics level 2a or level 2b or level 2c, English level 2, Natural Sciences level 1b or level 1a2, Social Sciences level 1b or level 1a2

@@ -9,7 +9,7 @@ amne: "Tyska"
 amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
-scrape_hash: f4c8b54b22291ef6
+scrape_hash: 9ef613c704032840
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3J6
 up: "[[Tyska MOC]]"
 ---
@@ -63,6 +63,10 @@ Betyg rapporteras enligt följande:
 
   - Tyska II: Språk- och litteraturhistoria - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Tyska: Skriftlig språkfärdighet I, 7,5 hp, Tyska: Tysk grammatik, 7,5 hp och Tyska: Modern tyskspråkig litteratur, 7,5 hp
+
 ## Övrigt
 
 Kursen överlappar kurserna _Tyskspråkig litteratur och litteraturhistoria_, 7,5 hp och _Tyska: Språk- och kulturhistoria med akademiskt skrivande_, 7,5 hp.
@@ -110,3 +114,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - German II: The History of German Language and Literature - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- German: Written Language Proficiency I, 7.5 credits, German: German Grammar, 7.5 credits and German: Modern German Literature, 7.5 credits

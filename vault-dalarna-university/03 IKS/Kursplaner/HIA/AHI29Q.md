@@ -8,11 +8,11 @@ huvudomrade: "Historia 1"
 amne: "Historia"
 amne_kod: "HIA"
 institution: "IKS"
-tags: [kursplan, HIA, IKS, vilande]
-scrape_hash: cb059ee72d011232
+tags: [kursplan, HIA, IKS, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: fc6e9e13ec33b097
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI29Q
 up: "[[Historia MOC]]"
-cssclasses: [vilande]
 ---
 
 # AHI29Q
@@ -57,6 +57,10 @@ Som betygsskala på hel kurs används U–VG.
 Betyg rapporteras enligt följande:
 
   - Historievetenskaplig litteraturkurs - 7,5 hp | U–VG
+
+## Förkunskapskrav
+
+- Historia III 22,5 hp
 
 ## Övrigt
 

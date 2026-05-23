@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: 521440cf156a9394
+scrape_hash: 4c6e331d4a70d141
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BQ
 up: "[[Engelska MOC]]"
 ---
@@ -62,6 +62,10 @@ Betyg rapporteras enligt följande:
   - Uppsats - 4 hp | A–F
   - Seminarier och skriftliga inlämningsuppgifter - 3,5 hp | A–F
 
+## Förkunskapskrav
+
+- Kandidatexamen 180 hp inom humaniora, samhällsvetenskap eller utbildningsvetenskap och Engelska 6
+
 ## Övrigt
 
 Kursen överlappar tidigare kurskod AJP23P.
@@ -106,3 +110,7 @@ Grades are reported as follows:
 
   - Essay - 4 Credits | A–F
   - Seminars and Written Assignments - 3.5 Credits | A–F
+
+### Prerequisites
+
+- Bachelor Degree of 180 credits in the field of Humanities, Social Sciences or Education and English 6

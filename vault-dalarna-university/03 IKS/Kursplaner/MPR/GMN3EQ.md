@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 158838b4175d484c
+scrape_hash: be05aa3b94b6c75f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EQ
 up: "[[Medieproduktion MOC]]"
 ---
@@ -67,6 +67,10 @@ Betyg rapporteras enligt följande:
   - Manusnedbrytning - 1,5 hp | U–G
   - Inspelningsplanering - 3 hp | U–G
 
+## Förkunskapskrav
+
+- 75 hp inom medieproduktion inklusive Filmklippning 7,5 hp
+
 ## Övrigt
 
 Modulerna _Yrkesroller, filmteknik och inspelningsrutiner 3,0 hp_ och _Inspelningsplanering 3,0 hp_ kan examineras endast när kursen går. Vid underkänt betyg hänvisas studenten till nästa kurstillfälle för omexamination.
@@ -86,3 +90,7 @@ Grades are reported as follows:
   - Professional Roles, Film Technique, and Recording Routines - 3 Credits | U–G
   - Script Break-down - 1.5 Credits | U–G
   - Recording Plan - 3 Credits | U–G
+
+### Prerequisites
+
+- 75 credits in Media Production including Film Editing 7.5 credits

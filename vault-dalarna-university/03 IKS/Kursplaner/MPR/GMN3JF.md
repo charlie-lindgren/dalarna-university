@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 39bc79a55ff10764
+scrape_hash: 01aaebc31f470d4b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3JF
 up: "[[Medieproduktion MOC]]"
 ---
@@ -75,6 +75,10 @@ Betyg rapporteras enligt följande:
   - Filmhistoria - 4,5 hp | U–G
   - Manusskrivande och reflektion - 6 hp | U–G
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Överlappar BQ1079 och GMN3E2
@@ -94,3 +98,7 @@ Grades are reported as follows:
   - The Ideas and Structures of Dramaturgy - 4.5 Credits | U–G
   - Film History - 4.5 Credits | U–G
   - Scriptwriting and Reflection - 6 Credits | U–G
+
+### Prerequisites
+
+- General entry requirements

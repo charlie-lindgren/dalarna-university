@@ -10,7 +10,7 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 3ed6c35ae82a766f
+scrape_hash: d4e27a6f6d1740c6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA32Y
 up: "[[Socialt arbete MOC]]"
 ---
@@ -135,6 +135,10 @@ Betyg rapporteras enligt följande:
 
   - Verksamhetsförlagd utbildning - 10 hp | U–G
   - Campusförlagd utbildning - 5 hp | U–VG
+
+## Förkunskapskrav
+
+- Sociologiska perspektiv på socialt arbete, 7,5 hp, Psykologiska perspektiv på socialt arbete, 7,5 hp och Välfärdsinsatser och brukarperspektiv, 15 hp
 
 ## Övrigt
 

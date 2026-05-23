@@ -8,11 +8,11 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Historia"
 amne_kod: "HIA"
 institution: "IKS"
-tags: [kursplan, HIA, IKS, vilande]
-scrape_hash: b3b22f840b45e119
+tags: [kursplan, HIA, IKS, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: a1aebbd7df423de9
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3CP
 up: "[[Historia MOC]]"
-cssclasses: [vilande]
 ---
 
 # GHI3CP
@@ -64,6 +64,10 @@ Betyg rapporteras enligt följande:
 
   - Undervisning och lärande genom rollspel - inriktning historiedidaktik - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Lärarexamen
+
 ## Övrigt
 
 Kursen innehåller en obligatorisk campusträff om en till två dagar.
@@ -81,3 +85,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Teaching and Learning Through Roleplay – Specialisation Didactics of History - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- A Teachers Education

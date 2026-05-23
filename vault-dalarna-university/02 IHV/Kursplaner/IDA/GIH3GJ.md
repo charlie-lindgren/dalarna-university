@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: 45f77a67b7944598
+scrape_hash: 2fcf6163da5b2697
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GJ
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -60,6 +60,10 @@ Betyg rapporteras enligt följande:
   - Teorier för motorisk kontroll och lärande - 3 hp | U–G
   - Projektarbete motorisk färdighetsträning - 4,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -96,3 +100,7 @@ Grades are reported as follows:
 
   - Theories for motor control and learning - 3 Credits | U–G
   - Project motor skill training - 4.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements

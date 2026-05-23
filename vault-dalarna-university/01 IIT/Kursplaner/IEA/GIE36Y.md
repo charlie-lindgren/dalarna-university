@@ -9,7 +9,7 @@ amne: "Industriell ekonomi"
 amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
-scrape_hash: fd87d2f789ece110
+scrape_hash: db97de5543de824f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE36Y
 up: "[[Industriell ekonomi MOC]]"
 ---
@@ -74,6 +74,10 @@ Betyg rapporteras enligt följande:
   - Projektrapport - 4 hp | U, 3, 4, 5
   - Inlämningsuppgifter - 2,5 hp | U–G
   - Seminarier - 1 hp | U–G
+
+## Förkunskapskrav
+
+- Industriell ekonomi med kalkylering 7,5 hp eller Industriell ekonomi - grundläggande kurs 7,5 hp
 
 ## Övrigt
 

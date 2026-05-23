@@ -9,7 +9,7 @@ amne: "Omvårdnad"
 amne_kod: "OMV"
 institution: "IHV"
 tags: [kursplan, OMV, IHV]
-scrape_hash: 9b3add844d1e0923
+scrape_hash: 931e2bdd43c93818
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ36W
 up: "[[Omvårdnad MOC]]"
 ---
@@ -75,6 +75,10 @@ Som betygsskala på hel kurs används U–G.
 Betyg rapporteras enligt följande:
 
   - Examensarbete i omvårdnad - 15 hp | U–G
+
+## Förkunskapskrav
+
+- 135 hp omvårdnad och medicin varav minst 60 hp omvårdnad inkl Metoder för evidensbaserad vård II, 7,5 hp
 
 ## Övrigt
 

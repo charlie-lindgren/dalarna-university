@@ -10,7 +10,7 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: db680aa3b21ec64f
+scrape_hash: e4b09c9e4b9c3fd4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3CS
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -54,6 +54,10 @@ Betyg rapporteras enligt följande:
 
   - Grundläggande tillämpad idrottsfysiologi - 7,5 hp | U–VG
 
+## Förkunskapskrav
+
+- Grundläggande behörighet
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -69,3 +73,7 @@ The grading scale used for the final course grade is U–VG.
 Grades are reported as follows:
 
   - Basic applied exercise physiology - 7.5 Credits | U–VG
+
+### Prerequisites
+
+- General entry requirements

@@ -9,7 +9,7 @@ amne: "Fysioterapi"
 amne_kod: "FYS"
 institution: "IHV"
 tags: [kursplan, FYS, IHV]
-scrape_hash: 86660034aa36e3c1
+scrape_hash: 4ca0b45e5f7e3e5f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFT2CB
 up: "[[Fysioterapi MOC]]"
 ---
@@ -64,6 +64,10 @@ Betyg rapporteras enligt följande:
   - Fysiskt aktivitetsbeteende, hälsosamma levnadsvanor och miljö - 3 hp | U–G
   - Projektplan för implementering - 2,5 hp | U–G
 
+## Förkunskapskrav
+
+- 60 hp inom fysioterapi eller vårdvetenskap inklusive 15 hp inom anatomi och fysiologi
+
 ## Övrigt
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
@@ -108,3 +112,7 @@ Grades are reported as follows:
   - Methods for measuring physical activity - 2 Credits | U–G
   - Physical activity behavior, healthy lifestyle habits and environment - 3 Credits | U–G
   - Project plan for implementation - 2.5 Credits | U–G
+
+### Prerequisites
+
+- 60 credits in Physiotherapy or Caring Science, including 15 credits in Anatomy and Physiology
