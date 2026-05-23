@@ -5,7 +5,7 @@ institution: "IKS"
 faststalld: "Fastställd av Områdesnämnden Samhällsvetenskap 2018-11-07 . Gäller fr.o.m.  HT 2019."
 tags: [utbildningsplan, program, IKS]
 scrape_hash: 56a3f6fc0faa3c7d
-up: "[[IKS MOC]]"
+up: "IKS MOC"
 ---
 
 # HDMFA

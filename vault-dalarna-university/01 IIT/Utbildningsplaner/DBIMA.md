@@ -5,7 +5,7 @@ institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2018-10-11 . Gäller fr.o.m.  HT 2018."
 tags: [utbildningsplan, program, IIT]
 scrape_hash: a630a02817236c92
-up: "[[IIT MOC]]"
+up: "IIT MOC"
 ---
 
 # DBIMA

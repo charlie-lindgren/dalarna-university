@@ -5,7 +5,7 @@ institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för språk, litteratur och lärande 2020-04-17 . Gäller fr.o.m.  VT 2021."
 tags: [utbildningsplan, program, ISLL]
 scrape_hash: 83538e00dc27471a
-up: "[[ISLL MOC]]"
+up: "ISLL MOC"
 ---
 
 # HSVAA

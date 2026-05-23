@@ -5,7 +5,7 @@ institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2012-05-02 . Gäller fr.o.m.  2012-05-02."
 tags: [utbildningsplan, program, IKS]
 scrape_hash: 38a977786fdabc78
-up: "[[IKS MOC]]"
+up: "IKS MOC"
 ---
 
 # SDUVA

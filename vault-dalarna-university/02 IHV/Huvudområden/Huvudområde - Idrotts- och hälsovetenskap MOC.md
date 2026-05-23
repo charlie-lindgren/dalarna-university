@@ -1,6 +1,6 @@
 ---
 tags: [huvudområde, moc, ihv]
-up: "[[IHV MOC]]"
+up: "IHV MOC"
 huvudomrade: "Idrotts- och hälsovetenskap"
 institution: "IHV"
 ---

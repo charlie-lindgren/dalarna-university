@@ -5,7 +5,7 @@ institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2020-10-07 . Gäller fr.o.m.  HT 2020."
 tags: [utbildningsplan, program, IKS]
 scrape_hash: 7b27bbaa6bcdc318
-up: "[[IKS MOC]]"
+up: "IKS MOC"
 ---
 
 # SMINA

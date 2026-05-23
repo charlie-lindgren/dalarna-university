@@ -1,6 +1,6 @@
 ---
 tags: [huvudområde, moc, iit]
-up: "[[IIT MOC]]"
+up: "IIT MOC"
 huvudomrade: "Energiteknik"
 institution: "IIT"
 ---

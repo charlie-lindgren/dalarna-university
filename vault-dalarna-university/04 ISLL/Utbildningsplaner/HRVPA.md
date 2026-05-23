@@ -5,7 +5,7 @@ institution: "ISLL"
 faststalld: "Fastställd av Områdesnämnden Humaniora och språk 2014-11-20 . Gäller fr.o.m.  HT 2015."
 tags: [utbildningsplan, program, ISLL]
 scrape_hash: 29805560a65cd843
-up: "[[ISLL MOC]]"
+up: "ISLL MOC"
 ---
 
 # HRVPA

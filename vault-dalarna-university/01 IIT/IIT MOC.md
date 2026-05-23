@@ -10,32 +10,32 @@ tags: [MOC, institution, IIT]
 
 ## Program (26 st)
 
-- [[TATPG]] — Assisterande teknikprogrammet
-- [[DBIMA]] — Business Intelligence: Magisterprogram
-- [[DPBIA]] — Business Intelligence: Magisterprogram
-- [[TBYSG]] — Bygg- och samhällsplanerarprogrammet
-- [[TBTCG]] — Byggingenjörsprogram
-- [[TBTFG]] — Byggteknik – produktion och förvaltning
-- [[DDCMA]] — Data Science: Masterprogram
-- [[DDTHG]] — Digitala tjänster – program för högskoleexamen
-- [[TEHIG]] — Energi Högskoleingenjörsprogram
-- [[KFTPG]] — Film- och TV-produktion
-- [[HFRIG]] — Filmproduktion för reklam och information – kandidatprogram
-- [[KGDWG]] — Grafisk design och webbutveckling –  kandidatprogram
-- [[THIHG]] — Högskoleingenjörsprogram i hållbara energisystem
-- [[DITMG]] — IT-säkerhet och mjukvarutestning - kandidatprogram
-- [[TEKHG]] — Industriell ekonomi, högskoleprogram
-- [[TMAGA]] — Magisterprogram i Materialteknik
-- [[TMIEA]] — Magisterprogram i energieffektivt byggande
-- [[TSETA]] — Magisterprogram i solenergiteknik
-- [[TPOKG]] — Maskinteknik: Produkt- och Konstruktionsutveckling - Högskoleingenjörsprogram
-- [[TMMPA]] — Masterprogram i Materialteknik  och Produktutveckling
-- [[TMSSA]] — Masterprogram i solenergiteknik
-- [[TPTAG]] — Produktionstekniker inom maskinteknik - högskoleexamensprogram
-- [[DSVPG]] — Systemvetenskapliga programmet
-- [[TTEKB]] — Teknisk bastermin
-- [[TTBRB]] — Tekniskt basår
-- [[DETJG]] — Utveckling av eTjänster
+- <a class="no-graph" href="TATPG">TATPG</a> — Assisterande teknikprogrammet
+- <a class="no-graph" href="DBIMA">DBIMA</a> — Business Intelligence: Magisterprogram
+- <a class="no-graph" href="DPBIA">DPBIA</a> — Business Intelligence: Magisterprogram
+- <a class="no-graph" href="TBYSG">TBYSG</a> — Bygg- och samhällsplanerarprogrammet
+- <a class="no-graph" href="TBTCG">TBTCG</a> — Byggingenjörsprogram
+- <a class="no-graph" href="TBTFG">TBTFG</a> — Byggteknik – produktion och förvaltning
+- <a class="no-graph" href="DDCMA">DDCMA</a> — Data Science: Masterprogram
+- <a class="no-graph" href="DDTHG">DDTHG</a> — Digitala tjänster – program för högskoleexamen
+- <a class="no-graph" href="TEHIG">TEHIG</a> — Energi Högskoleingenjörsprogram
+- <a class="no-graph" href="KFTPG">KFTPG</a> — Film- och TV-produktion
+- <a class="no-graph" href="HFRIG">HFRIG</a> — Filmproduktion för reklam och information – kandidatprogram
+- <a class="no-graph" href="KGDWG">KGDWG</a> — Grafisk design och webbutveckling –  kandidatprogram
+- <a class="no-graph" href="THIHG">THIHG</a> — Högskoleingenjörsprogram i hållbara energisystem
+- <a class="no-graph" href="DITMG">DITMG</a> — IT-säkerhet och mjukvarutestning - kandidatprogram
+- <a class="no-graph" href="TEKHG">TEKHG</a> — Industriell ekonomi, högskoleprogram
+- <a class="no-graph" href="TMAGA">TMAGA</a> — Magisterprogram i Materialteknik
+- <a class="no-graph" href="TMIEA">TMIEA</a> — Magisterprogram i energieffektivt byggande
+- <a class="no-graph" href="TSETA">TSETA</a> — Magisterprogram i solenergiteknik
+- <a class="no-graph" href="TPOKG">TPOKG</a> — Maskinteknik: Produkt- och Konstruktionsutveckling - Högskoleingenjörsprogram
+- <a class="no-graph" href="TMMPA">TMMPA</a> — Masterprogram i Materialteknik  och Produktutveckling
+- <a class="no-graph" href="TMSSA">TMSSA</a> — Masterprogram i solenergiteknik
+- <a class="no-graph" href="TPTAG">TPTAG</a> — Produktionstekniker inom maskinteknik - högskoleexamensprogram
+- <a class="no-graph" href="DSVPG">DSVPG</a> — Systemvetenskapliga programmet
+- <a class="no-graph" href="TTEKB">TTEKB</a> — Teknisk bastermin
+- <a class="no-graph" href="TTBRB">TTBRB</a> — Tekniskt basår
+- <a class="no-graph" href="DETJG">DETJG</a> — Utveckling av eTjänster
 
 ## Ämnen
 
@@ -55,16 +55,15 @@ tags: [MOC, institution, IIT]
 
 ## Huvudområden
 
-- [[Huvudområde - Assisterande teknik (IIT) MOC|Assisterande teknik]] (7 kurser, 2 ämnen)
-- [[Huvudområde - Datateknik MOC|Datateknik]] (17 kurser, 3 ämnen)
-- [[Huvudområde - Energiteknik MOC|Energiteknik]] (16 kurser, 2 ämnen)
-- [[Huvudområde - Industriell ekonomi (IIT) MOC|Industriell ekonomi]] (22 kurser, 2 ämnen)
-- [[Huvudområde - Informatik MOC|Informatik]] (54 kurser, 2 ämnen)
-- [[Huvudområde - Kulturgeografi (IIT) MOC|Kulturgeografi]] (6 kurser, 1 ämne)
-- [[Huvudområde - Mikrodataanalys (IIT) MOC|Mikrodataanalys]] (53 kurser, 5 ämnen)
-- [[Huvudområde - Samhällsbyggnadsteknik MOC|Samhällsbyggnadsteknik]] (25 kurser, 2 ämnen)
-- [[Huvudområde - Solenergiteknik MOC|Solenergiteknik]] (24 kurser, 2 ämnen)
-
+- <a class="no-graph" href="Huvudområden/Huvudområde - Assisterande teknik (IIT) MOC">Assisterande teknik</a> (7 kurser, 2 ämnen)
+- <a class="no-graph" href="Huvudområden/Huvudområde - Datateknik MOC">Datateknik</a> (17 kurser, 3 ämnen)
+- <a class="no-graph" href="Huvudområden/Huvudområde - Energiteknik MOC">Energiteknik</a> (16 kurser, 2 ämnen)
+- <a class="no-graph" href="Huvudområden/Huvudområde - Industriell ekonomi (IIT) MOC">Industriell ekonomi</a> (22 kurser, 2 ämnen)
+- <a class="no-graph" href="Huvudområden/Huvudområde - Informatik MOC">Informatik</a> (54 kurser, 2 ämnen)
+- <a class="no-graph" href="Huvudområden/Huvudområde - Kulturgeografi (IIT) MOC">Kulturgeografi</a> (6 kurser, 1 ämne)
+- <a class="no-graph" href="Huvudområden/Huvudområde - Mikrodataanalys (IIT) MOC">Mikrodataanalys</a> (53 kurser, 5 ämnen)
+- <a class="no-graph" href="Huvudområden/Huvudområde - Samhällsbyggnadsteknik MOC">Samhällsbyggnadsteknik</a> (25 kurser, 2 ämnen)
+- <a class="no-graph" href="Huvudområden/Huvudområde - Solenergiteknik MOC">Solenergiteknik</a> (24 kurser, 2 ämnen)
 ## Kvalitetsanalys
 
 - [[01 IIT/Analys/Stavfel och språkbruk|Stavfel och språkbruk]]

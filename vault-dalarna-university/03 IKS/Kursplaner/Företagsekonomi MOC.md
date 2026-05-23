@@ -9,7 +9,7 @@ up: "[[IKS MOC]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (30 st)
+## Kurser (31 st)
 
 - [[AFÖ26H]] — Examensarbete för magisterexamen i företagsekonomi
 - [[FÖ2026]] — Organisationsförändring och ledarskap
@@ -30,6 +30,7 @@ up: "[[IKS MOC]]"
 - [[GFÖ2WQ]] — Examensarbete för kandidatexamen i företagsekonomi
 - [[GFÖ2XB]] — Företagsekonomi C
 - [[GFÖ2XW]] — Ekonomistyrning B
+- [[GFÖ32F]] — Marknadsföring A
 - [[GFÖ32P]] — Organisationsteori
 - [[GFÖ35C]] — Ekonomistyrning, grundläggande
 - [[GFÖ36L]] — Kommunikation i en interkulturell affärsmiljö

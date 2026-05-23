@@ -5,7 +5,7 @@ institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för språk, litteratur och lärande 2023-09-11 . Gäller fr.o.m.  HT 2023."
 tags: [utbildningsplan, program, ISLL]
 scrape_hash: 39640c4b56c5c184
-up: "[[ISLL MOC]]"
+up: "ISLL MOC"
 ---
 
 # HMILA

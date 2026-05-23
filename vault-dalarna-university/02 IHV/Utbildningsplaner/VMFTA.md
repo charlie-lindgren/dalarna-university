@@ -5,7 +5,7 @@ institution: "IHV"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2026-01-14 . Gäller fr.o.m.  HT 2025."
 tags: [utbildningsplan, program, IHV]
 scrape_hash: 5f219072da9c025a
-up: "[[IHV MOC]]"
+up: "IHV MOC"
 ---
 
 # VMFTA

@@ -121,7 +121,13 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                   // need to decodeURIComponent here as WHATWG URL percent-encodes everything
                   const full = decodeURIComponent(stripSlashes(destCanonical, true)) as FullSlug
                   const simple = simplifySlug(full)
-                  outgoing.add(simple)
+                  // Custom: links with the `no-graph` class are navigation-only and
+                  // are intentionally excluded from the graph view (e.g. programme
+                  // and huvudområde listings on institution MOCs — they would
+                  // otherwise dominate the hub visually).
+                  if (!classes.includes("no-graph")) {
+                    outgoing.add(simple)
+                  }
                   node.properties["data-slug"] = full
                 }
 

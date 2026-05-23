@@ -1,6 +1,6 @@
 ---
 tags: [huvudområde, moc, ihv]
-up: "[[IHV MOC]]"
+up: "IHV MOC"
 huvudomrade: "Sexuell, reproduktiv och perinatal hälsa"
 institution: "IHV"
 ---

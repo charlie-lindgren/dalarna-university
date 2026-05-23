@@ -5,7 +5,7 @@ institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2018-06-13 . Gäller fr.o.m.  HT 2018."
 tags: [utbildningsplan, program, IIT]
 scrape_hash: 5115063e8b17fff1
-up: "[[IIT MOC]]"
+up: "IIT MOC"
 ---
 
 # TMMPA

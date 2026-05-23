@@ -1,6 +1,6 @@
 ---
 tags: [huvudområde, moc, ihv]
-up: "[[IHV MOC]]"
+up: "IHV MOC"
 huvudomrade: "Socialt arbete"
 institution: "IHV"
 ---

@@ -1,6 +1,6 @@
 ---
 tags: [huvudområde, moc, iks]
-up: "[[IKS MOC]]"
+up: "IKS MOC"
 huvudomrade: "Kulturgeografi"
 institution: "IKS"
 ---

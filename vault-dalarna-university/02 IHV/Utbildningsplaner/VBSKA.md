@@ -5,7 +5,7 @@ institution: "IHV"
 faststalld: "Fastställd av Områdesnämnden Vård och omsorg 2019-09-10 . Gäller fr.o.m.  HT 2020."
 tags: [utbildningsplan, program, IHV]
 scrape_hash: 28a8eda79dd8f212
-up: "[[IHV MOC]]"
+up: "IHV MOC"
 ---
 
 # VBSKA

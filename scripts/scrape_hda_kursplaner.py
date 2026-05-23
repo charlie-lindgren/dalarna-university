@@ -1033,7 +1033,12 @@ def build_institution_moc(inst_code: str, subjects: list[dict],
         lines.append(f"## Program ({len(programmes)} st)")
         lines.append("")
         for p in sorted(programmes, key=lambda x: x["name_sv"]):
-            lines.append(f"- [[{p['code']}]] — {p['name_sv']}")
+            # ``class="no-graph"`` håller institutionshubben ren — länken är
+            # navigerbar på sidan men räknas inte som en graf-edge från
+            # institutions-MOC:en (annars drunknar hubben i programlänkar).
+            lines.append(
+                f'- <a class="no-graph" href="{p["code"]}">{p["code"]}</a> — {p["name_sv"]}'
+            )
         lines.append("")
 
     regular = [s for s in subjects if s["type"] == "subject"]

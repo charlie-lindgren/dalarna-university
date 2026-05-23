@@ -10,16 +10,16 @@ tags: [MOC, institution, IHV]
 
 ## Program (10 st)
 
-- [[VBSKA]] — Barnmorskeprogrammet
-- [[VIDRG]] — Idrottstränarprogrammet
-- [[VMFTA]] — Magisterprogram i fysioterapi
-- [[VGSEA]] — Magisterprogram i global sexuell och reproduktiv hälsa
-- [[VSJPG]] — Sjuksköterskeprogrammet
-- [[VSSKG]] — Sjuksköterskeprogrammet
-- [[VSOPG]] — Socionomprogrammet
-- [[VSADA]] — Specialistsjuksköterska med inriktning demensvård
-- [[VDSSA]] — Specialistsjuksköterskeutbildning till distriktssköterska
-- [[L7I9A]] — Ämneslärarprogrammet årskurs 7-9 arbetsintegrerad utbildning med inriktning matematik och idrott och hälsa
+- <a class="no-graph" href="VBSKA">VBSKA</a> — Barnmorskeprogrammet
+- <a class="no-graph" href="VIDRG">VIDRG</a> — Idrottstränarprogrammet
+- <a class="no-graph" href="VMFTA">VMFTA</a> — Magisterprogram i fysioterapi
+- <a class="no-graph" href="VGSEA">VGSEA</a> — Magisterprogram i global sexuell och reproduktiv hälsa
+- <a class="no-graph" href="VSJPG">VSJPG</a> — Sjuksköterskeprogrammet
+- <a class="no-graph" href="VSSKG">VSSKG</a> — Sjuksköterskeprogrammet
+- <a class="no-graph" href="VSOPG">VSOPG</a> — Socionomprogrammet
+- <a class="no-graph" href="VSADA">VSADA</a> — Specialistsjuksköterska med inriktning demensvård
+- <a class="no-graph" href="VDSSA">VDSSA</a> — Specialistsjuksköterskeutbildning till distriktssköterska
+- <a class="no-graph" href="L7I9A">L7I9A</a> — Ämneslärarprogrammet årskurs 7-9 arbetsintegrerad utbildning med inriktning matematik och idrott och hälsa
 
 ## Ämnen
 
@@ -36,14 +36,13 @@ tags: [MOC, institution, IHV]
 
 ## Huvudområden
 
-- [[Huvudområde - Assisterande teknik (IHV) MOC|Assisterande teknik]] (2 kurser, 1 ämne)
-- [[Huvudområde - Fysioterapi MOC|Fysioterapi]] (6 kurser, 2 ämnen)
-- [[Huvudområde - Idrotts- och hälsovetenskap MOC|Idrotts- och hälsovetenskap]] (122 kurser, 1 ämne)
-- [[Huvudområde - Omvårdnad MOC|Omvårdnad]] (42 kurser, 3 ämnen)
-- [[Huvudområde - Sexuell, reproduktiv och perinatal hälsa MOC|Sexuell, reproduktiv och perinatal hälsa]] (43 kurser, 1 ämne)
-- [[Huvudområde - Socialt arbete MOC|Socialt arbete]] (36 kurser, 2 ämnen)
-- [[Huvudområde - Vårdvetenskap MOC|Vårdvetenskap]] (15 kurser, 2 ämnen)
-
+- <a class="no-graph" href="Huvudområden/Huvudområde - Assisterande teknik (IHV) MOC">Assisterande teknik</a> (2 kurser, 1 ämne)
+- <a class="no-graph" href="Huvudområden/Huvudområde - Fysioterapi MOC">Fysioterapi</a> (6 kurser, 2 ämnen)
+- <a class="no-graph" href="Huvudområden/Huvudområde - Idrotts- och hälsovetenskap MOC">Idrotts- och hälsovetenskap</a> (122 kurser, 1 ämne)
+- <a class="no-graph" href="Huvudområden/Huvudområde - Omvårdnad MOC">Omvårdnad</a> (42 kurser, 3 ämnen)
+- <a class="no-graph" href="Huvudområden/Huvudområde - Sexuell, reproduktiv och perinatal hälsa MOC">Sexuell, reproduktiv och perinatal hälsa</a> (43 kurser, 1 ämne)
+- <a class="no-graph" href="Huvudområden/Huvudområde - Socialt arbete MOC">Socialt arbete</a> (36 kurser, 2 ämnen)
+- <a class="no-graph" href="Huvudområden/Huvudområde - Vårdvetenskap MOC">Vårdvetenskap</a> (15 kurser, 2 ämnen)
 ## Kvalitetsanalys
 
 - [[02 IHV/Analys/Stavfel och språkbruk|Stavfel och språkbruk]]

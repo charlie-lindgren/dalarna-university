@@ -9,7 +9,7 @@ up: "[[IHV MOC]]"
 
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 
-## Kurser (21 st)
+## Kurser (23 st)
 
 - [[ASR25T]] — Hälso- och sjukvårdssystemforskning i låg-, medel- och höginkomstkontext
 - [[ASR25U]] — Ledarskap och organisation inom hälso- och sjukvårdssystem
@@ -20,8 +20,10 @@ up: "[[IHV MOC]]"
 - [[ASR29V]] — Gynekologisk vård och postpartumvård, verksamhetsförlagd utbildning
 - [[ASR29W]] — Förlossningsvård I, verksamhetsförlagd utbildning
 - [[ASR2AD]] — Graviditet, förlossning och postpartumvård II
+- [[ASR2B9]] — Teoretisk kunskap och praktiska färdigheter för att förbättra hälsan hos mödrar och nyfödda vid komplikationer kring födandet
 - [[ASR2BM]] — Kvinnors vårdbehov under klimakteriet – evidensbaserad vård med genusperspektiv
 - [[ASR2CE]] — Global sexuell reproduktiv hälsa och rättigheter
+- [[ASR2CF]] — Forskningsmetodik inom global sexuell och reproduktiv hälsa
 - [[ASR2CG]] — Strategier för implementering av förbättringsarbete i hälso- och sjukvård
 - [[ASR2CH]] — Examensarbete i sexuell, reproduktiv och perinatal hälsa
 - [[ASR2CJ]] — Ledarskap och organisation inom hälso- och sjukvårdssystem
@@ -33,7 +35,7 @@ up: "[[IHV MOC]]"
 - [[SR3014]] — Förlossningsvård II, verksamhetsförlagd utbildning
 - [[SR3015]] — Mödrahälsovård och folkhälsa, verksamhetsförlagd utbildning
 
-## Vilande kursplaner (28 st)
+## Vilande kursplaner (26 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -49,8 +51,6 @@ up: "[[IHV MOC]]"
 - [[ASR285]] — Gynekologisk vård och postpartumvård, verksamhetsförlagd utbildning
 - [[ASR286]] — Examensarbete i sexuell, reproduktiv och perinatal hälsa
 - [[ASR29U]] — Graviditet, förlossning och postpartumvård II
-- [[ASR2B9]] — Teoretisk kunskap och praktiska färdigheter för att förbättra hälsan hos mödrar och nyfödda vid komplikationer kring födandet
-- [[ASR2CF]] — Forskningsmetodik inom global sexuell och reproduktiv hälsa
 - [[GSR2A5]] — Ungdomar och unga vuxnas reproduktiva hälsa och rättigheter I
 - [[GSR2KZ]] — Människa, hälsa, hållbarhet i ett mångkulturellt samhälle
 - [[GSR38B]] — Sexuell och reproduktiv hälsa samt rättigheter för ungdomar och unga vuxna i Ukraina

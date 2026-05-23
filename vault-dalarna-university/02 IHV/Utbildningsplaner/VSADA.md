@@ -5,7 +5,7 @@ institution: "IHV"
 faststalld: "Fastställd av prefekt för institutionen för hälsa och välfärd 2023-01-09 . Gäller fr.o.m.  HT 2022."
 tags: [utbildningsplan, program, IHV]
 scrape_hash: 3db00acdd9353f82
-up: "[[IHV MOC]]"
+up: "IHV MOC"
 ---
 
 # VSADA

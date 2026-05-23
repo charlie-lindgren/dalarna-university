@@ -9,7 +9,7 @@ up: "[[ISLL MOC]]"
 
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (20 st)
+## Kurser (21 st)
 
 - [[GPR256]] — Portugisiska: Kandidatexamensarbete
 - [[GPR279]] — Det nutida Brasilien: Litteratur och samhälle
@@ -20,6 +20,7 @@ up: "[[ISLL MOC]]"
 - [[GPR2XA]] — Portugisiska: Transkulturalitet och genus i samtidslitteraturen
 - [[GPR2XR]] — Portugisiska: Grammatik och skriftlig språkfärdighet I
 - [[GPR2XS]] — Portugisiska: Fonetik och muntlig språkfärdighet I
+- [[GPR2Z2]] — Språk, litteratur och kultur: Vetenskaplig metod och akademiskt skrivande
 - [[GPR3GM]] — Portugisiska: Grundläggande kurs I och II
 - [[GPR3GN]] — Portugisiska I
 - [[GPR3GP]] — Portugisiska II
@@ -32,10 +33,9 @@ up: "[[ISLL MOC]]"
 - [[PR2003]] — Portugisiska: Språklig variation och förändring
 - [[PR2004]] — Portugisiska: Afrikansk litteratur på portugisiska
 
-## Vilande kursplaner (3 st)
+## Vilande kursplaner (2 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
-- [[GPR2Z2]] — Språk, litteratur och kultur: Vetenskaplig metod och akademiskt skrivande
 - [[GPR3E5]] — Kommunikation på arbetsplatsen: Interkulturalitet och inkludering
 - [[PR2005]] — Portugisiska: Vetenskaplig metod och akademiskt skrivande

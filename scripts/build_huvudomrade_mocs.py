@@ -117,7 +117,10 @@ def render_moc(
     lines = [
         "---",
         "tags: [huvudområde, moc, " + inst.lower() + "]",
-        f'up: "[[{inst} MOC]]"',
+        # Plain string (utan ``[[ ]]``) — Quartz extraherar wikilinks från
+        # frontmatter, men en ren textsträng räknas inte som en graf-edge.
+        # Institutionshubben skulle annars drunkna i huvudområdes-länkar.
+        f'up: "{inst} MOC"',
         f'huvudomrade: "{huvudomrade}"',
         f'institution: "{inst}"',
         "---",
@@ -174,8 +177,13 @@ def patch_institution_moc(
         "",
     ]
     for display, fname_stem, n_courses, n_subjects in huvudomraden:
+        # ``class="no-graph"`` håller institutionshubben ren — länken navigerar
+        # på sidan men räknas inte som en graf-edge från institutions-MOC:en.
+        # Huvudområdes-MOC:arna sitter ändå i grafen via ``up:`` och sina egna
+        # länkar till ämnes-MOC:ar i samma institution.
+        href = f"Huvudområden/{fname_stem}"
         lines.append(
-            f"- [[{fname_stem}|{display}]] "
+            f'- <a class="no-graph" href="{href}">{display}</a> '
             f"({n_courses} kurs"
             + ("er" if n_courses != 1 else "")
             + f", {n_subjects} ämne"

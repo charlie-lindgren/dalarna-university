@@ -1,6 +1,6 @@
 ---
 tags: [huvudområde, moc, isll]
-up: "[[ISLL MOC]]"
+up: "ISLL MOC"
 huvudomrade: "Engelskspråkig litteratur"
 institution: "ISLL"
 ---
