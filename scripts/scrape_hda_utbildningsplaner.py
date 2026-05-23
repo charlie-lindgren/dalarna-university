@@ -532,7 +532,7 @@ def scrape_programme(code: str) -> dict | None:
         return "NEDLAGD"
 
     name = extract_programme_name(soup)
-    metadata = extract_programme_metadata(soup)
+    metadata = meta  # redan extraherad ovan för nedlagd-koll
     sections = extract_plan_sections(soup)
 
     # Försök hämta engelska versionen (many programmes lack one, so quiet=True)
