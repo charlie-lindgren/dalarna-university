@@ -152,37 +152,37 @@ T11: Examensarbete
 
 - [[GPG3AC|Didaktik och ledarskap för ämneslärare årskurs 7–9 - AIL]], 7,5 hp
 - [[GPG3AB|Introduktion till läraryrket för ämneslärare årskurs 7–9 - AIL]], 7,5 hp
-- [[GMD2AR|Matematik I med didaktisk inriktning]], 30 hp
+- <a class="no-graph" href="GMD2AR">Matematik I med didaktisk inriktning</a>, 30 hp
 
 **År 2**
 
-- [[GIH37Q|Idrott och hälsa I med didaktisk inriktning]], 30 hp
+- <a class="no-graph" href="GIH37Q">Idrott och hälsa I med didaktisk inriktning</a>, 30 hp
 - [[GPG3AE|Utveckling och lärande för ämneslärare årskurs 7–9 - AIL]], 7,5 hp
 - [[GPG3AD|Verksamhetsförlagd utbildning 1 för ämneslärare årskurs 7–9 - AIL]], 7,5 hp
 
 **År 3**
 
-- [[GMD2TV|Matematik II med didaktisk inriktning]], 30 hp
+- <a class="no-graph" href="GMD2TV">Matematik II med didaktisk inriktning</a>, 30 hp
 - [[GPG3AF|Specialpedagogik och ett läraruppdrag i förändring för ämneslärare årskurs 7–9 - AIL]], 7,5 hp
 - [[GPG3AG|Verksamhetsförlagd utbildning 2 för ämneslärare årskurs 7–9 - AIL]], 7,5 hp
 
 **År 4**
 
 - [[APG2AB|Bedömning och betygssättning för ämneslärare årskurs 7–9 - AIL]], 7,5 hp
-- [[GIH37R|Idrott och hälsa II med didaktisk inriktning]], 30 hp
+- <a class="no-graph" href="GIH37R">Idrott och hälsa II med didaktisk inriktning</a>, 30 hp
 - Sociala relationer, konflikter och makt för ämneslärare årskurs 7–9 - AIL, 7,5 hp
 
 **År 5**
 
-- [[AIH237|Examensarbete i idrott och hälsa för ämneslärarexamen inriktning grundskolans årskurs 7–9]], 15 hp
-- [[AMD239|Examensarbete i matematik för ämneslärarexamen inriktning grundskolans årskurs 7–9]], 15 hp
+- <a class="no-graph" href="AIH237">Examensarbete i idrott och hälsa för ämneslärarexamen inriktning grundskolans årskurs 7–9</a>, 15 hp
+- <a class="no-graph" href="AMD239">Examensarbete i matematik för ämneslärarexamen inriktning grundskolans årskurs 7–9</a>, 15 hp
 - Utvärdering och utvecklingsarbete för ämneslärare årskurs 7–9 – AIL, 7,5 hp
 - Verksamhetsförlagd utbildning 3 för ämneslärare årskurs 7–9 - AIL, 15 hp
 - Vetenskapsteori och utbildningsvetenskaplig forskning för ämneslärare årskurs 7–9 - AIL, 7,5 hp
 
 **År 6**
 
-- [[AIH237|Examensarbete i idrott och hälsa för ämneslärarexamen inriktning grundskolans årskurs 7–9]], 15 hp
+- <a class="no-graph" href="AIH237">Examensarbete i idrott och hälsa för ämneslärarexamen inriktning grundskolans årskurs 7–9</a>, 15 hp
 - _Examensarbete i matematik för ämneslärarexamen inriktning grundskolans årskurs 7–9, 15 hp
 
 ## 4. Examensbenämning

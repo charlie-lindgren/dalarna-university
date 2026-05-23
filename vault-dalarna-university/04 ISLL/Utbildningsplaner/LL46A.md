@@ -156,12 +156,12 @@ Inom programmets kurser ges internationella och globala perspektiv via litteratu
 **_**
 
 - Programmets kurser inom pedagogiskt arbete består av utbildningsvetenskaplig kärna, 60 högskolepoäng
-- [[GPG3CK|Skolväsendets historia och samhällsuppdrag - förskoleklass och grundskolan åk 1–6]], 15 hp
+- <a class="no-graph" href="GPG3CK">Skolväsendets historia och samhällsuppdrag - förskoleklass och grundskolan åk 1–6</a>, 15 hp
 - Didaktik och ledarskap i grundskolans åk 4–6 (varav7, 5 hp
 - Utveckling och lärande i grundskolans åk 4–6 (varav, 7,5 hp
 - Sociala relationer, konflikter och makt i grundskolan åk 4–6 (varav, 7,5 hp
-- [[PG3025|Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare 4–6]], 7,5 hp
-- [[APG245|Vetenskapsteori och utbildningsvetenskaplig forskning för grundlärare 4–6]], 7,5 hp
+- <a class="no-graph" href="PG3025">Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare 4–6</a>, 7,5 hp
+- <a class="no-graph" href="APG245">Vetenskapsteori och utbildningsvetenskaplig forskning för grundlärare 4–6</a>, 7,5 hp
 - Examensarbete för grundlärarexamen inriktning 4–6 – del 1, 15 hp
 - Examensarbete för grundlärarexamen inriktning 4–6 – del 2, 15 hp
 - Utvärdering och utvecklingsarbete i grundskolans åk 4–6 (varav, 7,5 hp
@@ -172,9 +172,9 @@ Inom programmets kurser ges internationella och globala perspektiv via litteratu
 
 **_Programmets kurser_**
 
-- [[GMD2HH|Matematik 1a för grundlärare 4–6]], 7,5 hp
-- [[GMD2HJ|Matematik 1b för grundlärare 4–6]], 7,5 hp
-- [[GMD2HK|Matematik 2 för grundlärare 4–6]], 15 hp
+- <a class="no-graph" href="GMD2HH">Matematik 1a för grundlärare 4–6</a>, 7,5 hp
+- <a class="no-graph" href="GMD2HJ">Matematik 1b för grundlärare 4–6</a>, 7,5 hp
+- <a class="no-graph" href="GMD2HK">Matematik 2 för grundlärare 4–6</a>, 15 hp
 - Engelska för grundlärare åk 4-6 1A, 15 hp
 - Engelska för grundlärare åk 4-6 1B, 15 hp
 - Svenska 1 för grundlärare 4–6: Barns språkutveckling, språklig variation samt barn- och ungdomslitteratur, 15 hp

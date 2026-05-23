@@ -150,19 +150,19 @@ T11: Examensarbete
 
 **År 1**
 
-- [[GPG3AC|Didaktik och ledarskap för ämneslärare årskurs 7–9 - AIL]], 7,5 hp
-- [[GPG3AB|Introduktion till läraryrket för ämneslärare årskurs 7–9 - AIL]], 7,5 hp
-- [[GMD2AR|Matematik I med didaktisk inriktning]], 30 hp
+- <a class="no-graph" href="GPG3AC">Didaktik och ledarskap för ämneslärare årskurs 7–9 - AIL</a>, 7,5 hp
+- <a class="no-graph" href="GPG3AB">Introduktion till läraryrket för ämneslärare årskurs 7–9 - AIL</a>, 7,5 hp
+- <a class="no-graph" href="GMD2AR">Matematik I med didaktisk inriktning</a>, 30 hp
 
 **År 2**
 
 - [[GIH3AP|Idrott och hälsa I med didaktisk inriktning]], 30 hp
-- [[GPG3AE|Utveckling och lärande för ämneslärare årskurs 7–9 - AIL]], 7,5 hp
+- <a class="no-graph" href="GPG3AE">Utveckling och lärande för ämneslärare årskurs 7–9 - AIL</a>, 7,5 hp
 - Verksamhetsförlagd utbildning 1 för ämneslärare årskurs 7–9 - AIL, 7,5 hp
 
 **År 3**
 
-- [[GMD2TV|Matematik II med didaktisk inriktning]], 30 hp
+- <a class="no-graph" href="GMD2TV">Matematik II med didaktisk inriktning</a>, 30 hp
 - Specialpedagogik och ett läraruppdrag i förändring för ämneslärare årskurs 7–9 - AIL, 7,5 hp
 - Verksamhetsförlagd utbildning 2 för ämneslärare årskurs 7–9 - AIL, 7,5 hp
 
@@ -175,7 +175,7 @@ T11: Examensarbete
 **År 5**
 
 - [[AIH237|Examensarbete i idrott och hälsa för ämneslärarexamen inriktning grundskolans årskurs 7–9]], 15 hp
-- [[AMD239|Examensarbete i matematik för ämneslärarexamen inriktning grundskolans årskurs 7–9]], 15 hp
+- <a class="no-graph" href="AMD239">Examensarbete i matematik för ämneslärarexamen inriktning grundskolans årskurs 7–9</a>, 15 hp
 - Utvärdering och utvecklingsarbete för ämneslärare årskurs 7–9 – AIL, 7,5 hp
 - Verksamhetsförlagd utbildning 3 för ämneslärare årskurs 7–9 - AIL, 15 hp
 - Vetenskapsteori och utbildningsvetenskaplig forskning för ämneslärare årskurs 7–9 - AIL, 7,5 hp

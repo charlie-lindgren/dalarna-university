@@ -93,7 +93,7 @@ Utbildningen avslutas med ett examensarbete på 7,5 högskolepoäng. Examensarbe
 - [[GIE3FW|Industriell marknadsföring]], 7,5 hp
 - [[GIE372|Industriella affärsprocesser]], 7,5 hp
 - [[GMT349|Introduktion till produktionsteknik med mätteknik]], 7,5 hp
-- [[GIE3HX|Projektledning I]], 7,5 hp
+- <a class="no-graph" href="GIE3HX">Projektledning I</a>, 7,5 hp
 
 **År 2**
 
@@ -101,7 +101,7 @@ Utbildningen avslutas med ett examensarbete på 7,5 högskolepoäng. Examensarbe
 - [[GIE2RF|Examensarbete för Högskoleexamen i Industriell ekonomi]], 7,5 hp
 - [[GIE26L|Industriell ekonomi - logistik och Supply Chain Management]], 7,5 hp
 - [[GIE26N|Industriell ekonomi – underhåll och kvalitet]], 7,5 hp
-- [[GIE3HY|Innovation]], 7,5 hp
+- <a class="no-graph" href="GIE3HY">Innovation</a>, 7,5 hp
 - [[GIE2L7|Lean]], 7,5 hp
 - [[GST2CL|Statistisk analys]], 7,5 hp
 - [[GIE2QS|Verksamhetsutveckling]], 7,5 hp

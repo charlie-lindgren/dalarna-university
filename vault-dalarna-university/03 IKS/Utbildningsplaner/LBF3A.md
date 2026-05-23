@@ -167,13 +167,13 @@ Inom programmet ges internationella och globala perspektiv genom kurslitterature
 **_Programmets kurser inom ämnesstudier_**
 
 - Svenska 1 för grundlärare F-3: Barns språkutveckling, språklig variation samt barn- och ungdomslitteratur, 15 hp
-- [[GMD2HE|Matematik 1a för grundlärare F-3]], 7,5 hp
-- [[GMD2HF|Matematik 1b för grundlärare F-3]], 7,5 hp
-- [[NV1036|Tematisk kurs inom SO, NO och teknik för grundlärare årskurs F-3]], 30 hp
+- <a class="no-graph" href="GMD2HE">Matematik 1a för grundlärare F-3</a>, 7,5 hp
+- <a class="no-graph" href="GMD2HF">Matematik 1b för grundlärare F-3</a>, 7,5 hp
+- <a class="no-graph" href="NV1036">Tematisk kurs inom SO, NO och teknik för grundlärare årskurs F-3</a>, 30 hp
 - Engelska för grundlärare åk F-3, 15 hp
 - Svenska 2 för grundlärare F-3: Läs- och skrivutveckling och läs- och skrivundervisning, 15 hp
 - Text, kommunikation och lärande i en mångkulturell skola, 15 hp
-- [[GMD2HG|Matematik 2 för grundlärare F-3]], 15 hp
+- <a class="no-graph" href="GMD2HG">Matematik 2 för grundlärare F-3</a>, 15 hp
 
 ## 4. Examensbenämning
 

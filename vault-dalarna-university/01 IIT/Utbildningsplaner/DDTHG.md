@@ -121,7 +121,7 @@ Under utbildningen ges möjlighet att välja mellan valbara kurser.
 **_Valbara kurser:**
 
 - _Forskningsmetodik, 7,5 hp
-- [[RV1054|Nätjuridik]], 7,5 hp
+- <a class="no-graph" href="RV1054">Nätjuridik</a>, 7,5 hp
 
 ***Kurser som krävs för att programmålen ska uppfyllas**
 

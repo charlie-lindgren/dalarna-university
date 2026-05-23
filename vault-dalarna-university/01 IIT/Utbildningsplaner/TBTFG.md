@@ -99,7 +99,7 @@ Projektbaserade kurser är Byggplanering och arbetsmiljö, Byggproduktion och ar
 - [[GBY2ME|Husbyggnadssystem]], 5 hp
 - [[GBY2VR|Hållbar utveckling]], 5 hp
 - [[GBY2RN|Installationsteknik]], 5 hp
-- [[GEU2QY|Ledarskap]], 5 hp
+- <a class="no-graph" href="GEU2QY">Ledarskap</a>, 5 hp
 - [[GBY2MB|Projektmetodik]], 5 hp
 - [[BY1054|Vägteknik]], 7,5 hp
 

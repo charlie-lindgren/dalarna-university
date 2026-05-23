@@ -137,8 +137,8 @@ I inriktningskurserna avspeglas assisterande teknik genom exempel och tillämpni
 - [[GMT3J2|Grunderna i fysisk och kognitiv tillgänglighet]], 7,5 hp
 - [[GMT3J3|Grundläggande materialteknik med materialval]], 7,5 hp
 - [[GMT3J4|Introduktion till assisterande teknik]], 3 hp
-- [[GVV3JJ|Människokroppen och funktionsnedsättningar]], 15hp
-- [[GVV3JK|Mätmetoder för tillämpningar inom assisterande teknik]], 7,5 hp
+- <a class="no-graph" href="GVV3JJ">Människokroppen och funktionsnedsättningar</a>, 15hp
+- <a class="no-graph" href="GVV3JK">Mätmetoder för tillämpningar inom assisterande teknik</a>, 7,5 hp
 
 ****År 2****
 

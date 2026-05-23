@@ -99,12 +99,12 @@ Den verksamhetsförlagda utbildningen genomförs som tre delkurser inom större 
 ## 3. Programmets kurser
 
 - Programmets kurser utgörs av utbildningsvetenskaplig kärna, 60 högskolepoäng
-- [[GPG3EU|Didaktik och läroplansteori]], 15 hp
+- <a class="no-graph" href="GPG3EU">Didaktik och läroplansteori</a>, 15 hp
 - Undervisning och ledarskap, 15 hp
-- [[GPG2RR|Kunskap, lärande och bedömning]], 15 hp
+- <a class="no-graph" href="GPG2RR">Kunskap, lärande och bedömning</a>, 15 hp
 - Ämnesdidaktik och specialpedagogik, 15 hp
 - Professionellt lärarskap och skolutveckling, 15 hp
-- [[GPG2VX|Självständigt arbete för yrkeslärare]], 15 hp
+- <a class="no-graph" href="GPG2VX">Självständigt arbete för yrkeslärare</a>, 15 hp
 
 ## 4. Examensbenämning
 

@@ -104,14 +104,14 @@ Professionsseminarier innehåller föreläsning och seminarium om aktuell forskn
 
 - [[SA1045|Socialt arbete som profession]], 7,5 högskolepoäng
 - [[GSA2NA|Introduktion till vetenskapligt arbete]], 7,5 högskolepoäng
-- [[SO1044|Sociologiska perspektiv på socialt arbete]], 7,5 högskolepoäng
+- <a class="no-graph" href="SO1044">Sociologiska perspektiv på socialt arbete</a>, 7,5 högskolepoäng
 - [[GSA27Y|Psykologiska perspektiv på socialt arbete]], 7,5 högskolepoäng
 
 **Termin 2**
 
 - [[GSA2RE|Socialpolitikens betydelse för socialt arbete]], 7,5 högskolepoäng
 - [[GSA3DM|Välfärdsinsatser och brukarperspektiv]], 15 högskolepoäng
-- [[RV1046|Socialrätt I]], 7,5 högskolepoäng
+- <a class="no-graph" href="RV1046">Socialrätt I</a>, 7,5 högskolepoäng
 
 **Termin 3**
 
@@ -121,7 +121,7 @@ Professionsseminarier innehåller föreläsning och seminarium om aktuell forskn
 
 **Termin 4**
 
-- [[RV1047|Socialrätt II]], 7,5 högskolepoäng
+- <a class="no-graph" href="RV1047">Socialrätt II</a>, 7,5 högskolepoäng
 - [[GSA2XN|Missbruk och beroende]], 7,5 högskolepoäng
 - [[GSA3DQ|Familjeperspektiv på socialt arbete]], 7,5 högskolepoäng
 - [[GSA24U|Perspektiv på våld]], 7,5 högskolepoäng

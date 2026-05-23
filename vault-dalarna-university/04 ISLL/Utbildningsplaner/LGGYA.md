@@ -178,15 +178,15 @@ Den verksamhetsförlagda utbildningen har en progression där den studerande fö
 
 **Inom utbildningsområdet pedagogiskt arbete ingår följande obligatoriska kurser.**
 
-- [[GPG32A|Skolväsendets historia och samhällsuppdrag – ämneslärare]], 15 hp
+- <a class="no-graph" href="GPG32A">Skolväsendets historia och samhällsuppdrag – ämneslärare</a>, 15 hp
 - Didaktik och ledarskap för ämneslärare, 15 hp
 - Didaktik och ledarskap för ämneslärare inriktning gymnasieskolan, 15 hp
 - Utveckling och lärande - ämneslärare, 15 hp
 - Sociala relationer, konflikter och makt - ämneslärare, 7,5 hp
 - Utvärdering och utvecklingsarbete för ämneslärare, 7,5 hp
-- [[APG24D|Bedömning och betygssättning för ämneslärare]], 7,5 hp
+- <a class="no-graph" href="APG24D">Bedömning och betygssättning för ämneslärare</a>, 7,5 hp
 - Verksamhetsförlagd utbildning - ämneslärare, 15 hp
-- [[APG24E|Vetenskapsteori och utbildningsvetenskaplig forskning för ämneslärare]], 7,5 hp
+- <a class="no-graph" href="APG24E">Vetenskapsteori och utbildningsvetenskaplig forskning för ämneslärare</a>, 7,5 hp
 
 **Ämnesstudierna består av följande kurser:**
 

@@ -150,14 +150,14 @@ Samverkan sker även genom att examensarbetet kopplas till såväl högskolans f
 **_Programmets kurser inom pedagogiskt arbete_**
 
 - Programmets kurser inom pedagogiskt arbete består av utbildningsvetenskaplig kärna, 60 högskolepoäng
-- [[GPG3CK|Skolväsendets historia och samhällsuppdrag - förskoleklass och grundskolan åk 1–6]], 15 hp
+- <a class="no-graph" href="GPG3CK">Skolväsendets historia och samhällsuppdrag - förskoleklass och grundskolan åk 1–6</a>, 15 hp
 - Didaktik och ledarskap i förskoleklass och grundskolans åk 1–3 (varav, 7,5 hp
 - Utveckling och lärande i förskoleklass och grundskolans åk 1–3 (varav, 7,5 hp
 - Sociala relationer, konflikter och makt i förskoleklass och grundskolan åk 1–3 (varav, 7,5 hp
-- [[PG3024|Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare F-3]], 7,5 hp
+- <a class="no-graph" href="PG3024">Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare F-3</a>, 7,5 hp
 - Vetenskapsteori och utbildningsvetenskaplig forskning för grundlärare F -3, 7,5 hp
-- [[GPG2E6|Examensarbete för grundlärarexamen inriktning F-3 del 1]], 15 hp
-- [[APG246|Examensarbete för grundlärarexamen inriktning F-3 del 2]], 15 hp
+- <a class="no-graph" href="GPG2E6">Examensarbete för grundlärarexamen inriktning F-3 del 1</a>, 15 hp
+- <a class="no-graph" href="APG246">Examensarbete för grundlärarexamen inriktning F-3 del 2</a>, 15 hp
 - Utvärdering och utvecklingsarbete i förskoleklass och grundskolans åk 1–3 (inklusive, 7,5 hp
 - Ämnesstudier, 120 högskolepoäng
 
@@ -167,13 +167,13 @@ Samverkan sker även genom att examensarbetet kopplas till såväl högskolans f
 **_Programmets kurser inom ämnesstudier_**
 
 - Svenska 1 för grundlärare F-3: Barns språkutveckling, språklig variation samt barn- och ungdomslitteratur, 15 hp
-- [[GMD2HE|Matematik 1a för grundlärare F-3]], 7,5 hp
-- [[GMD2HF|Matematik 1b för grundlärare F-3]], 7,5 hp
-- [[NV1036|Tematisk kurs inom SO, NO och teknik för grundlärare årskurs F-3]], 30 hp
+- <a class="no-graph" href="GMD2HE">Matematik 1a för grundlärare F-3</a>, 7,5 hp
+- <a class="no-graph" href="GMD2HF">Matematik 1b för grundlärare F-3</a>, 7,5 hp
+- <a class="no-graph" href="NV1036">Tematisk kurs inom SO, NO och teknik för grundlärare årskurs F-3</a>, 30 hp
 - Engelska för grundlärare åk F-3, 15 hp
 - Svenska 2 för grundlärare F-3: Läs- och skrivutveckling och läs- och skrivundervisning, 15 hp
 - Text, kommunikation och lärande i en mångkulturell skola, 15 hp
-- [[GMD2HG|Matematik 2 för grundlärare F-3]], 15 hp
+- <a class="no-graph" href="GMD2HG">Matematik 2 för grundlärare F-3</a>, 15 hp
 
 ## 4. Examensbenämning
 

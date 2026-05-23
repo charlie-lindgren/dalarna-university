@@ -84,9 +84,9 @@ Utöver dessa obligatoriska kurser ges möjlighet att välja mellan huvudområde
 
 **Samtliga kurser ingår i huvudområdet religionsvetenskap.**
 
-- [[ARK29J|Religionsvetenskaplig vetenskapshistoria, teori och metod]], 15 hp
+- <a class="no-graph" href="ARK29J">Religionsvetenskaplig vetenskapshistoria, teori och metod</a>, 15 hp
 - Religion i samtiden: gränser, teman, begrepp, 7,5 hp
-- [[RK3043|Existentiell mening och medialisering: religiositet i populärkulturell kontext]], 7,5 hp
+- <a class="no-graph" href="RK3043">Existentiell mening och medialisering: religiositet i populärkulturell kontext</a>, 7,5 hp
 - Examensarbete för magisterexamen i religionsvetenskap, 15 hp
 
 ********

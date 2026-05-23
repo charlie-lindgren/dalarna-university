@@ -97,10 +97,10 @@ Sista terminen består av examensarbete inom Idrotts- och hälsovetenskap, verks
 
 **Termin 1**
 
-- [[GIH2LP|Tränarskap, idrott, friluftsliv och hälsa i samhället]], 7,5 hp
+- <a class="no-graph" href="GIH2LP">Tränarskap, idrott, friluftsliv och hälsa i samhället</a>, 7,5 hp
 - [[GTR2UP|Turismens principer och praktiker]], 7,5 hp
-- [[GIH2UR|Grundläggande vetenskaplig metod]], 7,5 hp
-- [[GIH2VK|Grundläggande upplevelseproduktion]], 7,5 hp
+- <a class="no-graph" href="GIH2UR">Grundläggande vetenskaplig metod</a>, 7,5 hp
+- <a class="no-graph" href="GIH2VK">Grundläggande upplevelseproduktion</a>, 7,5 hp
 
 **Termin 2**
 
@@ -129,16 +129,16 @@ Sista terminen består av examensarbete inom Idrotts- och hälsovetenskap, verks
 
 **-  Valbar kurs inom Idrott- och hälsovetenskap:**
 
-- [[IH1082|Journalistik och skriftlig PR inom idrottsområdet]], 7,5 hp
+- <a class="no-graph" href="IH1082">Journalistik och skriftlig PR inom idrottsområdet</a>, 7,5 hp
 - Idrottspsykologi- mentala processer och gruppdynamik, 7,5 hp
 - Personalansvar, juridik och arbetsrätt inom området för friluftsliv, idrott och hälsa, 7,5 hp
-- [[GIH34D|Kvalitativ och kvantitativ vetenskaplig metod]], 7,5 hp
+- <a class="no-graph" href="GIH34D">Kvalitativ och kvantitativ vetenskaplig metod</a>, 7,5 hp
 - Projektarbete outdoor, 7,5 hp
 
 **Termin 6**
 
 - Verksamhetsförlagt projekt, 7,5 hp
-- [[GIH24A|Medier och kommunikation inom hälsa och idrott]], 7,5 hp
+- <a class="no-graph" href="GIH24A">Medier och kommunikation inom hälsa och idrott</a>, 7,5 hp
 - Examensarbete, 15hp
 
 ## 4. Examensbenämning

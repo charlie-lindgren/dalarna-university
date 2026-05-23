@@ -120,7 +120,7 @@ Utbildningen avslutas med ett examensarbete på 15 högskolepoäng. Genom examen
 - [[GBY38D|Geoteknik och konstruktionsteknik betong]], 7,5 hp
 - [[GBY3AX|Husbyggnadsprojekt III – Byggkonstruktionsprojekt]], 7,5 hp
 - [[GBY2V8|Konstruktionsteknik trä och stål]], 7,5 hp
-- [[GEU2QY|Ledarskap]], 5 hp
+- <a class="no-graph" href="GEU2QY">Ledarskap</a>, 5 hp
 - [[BY2025|Vetenskaplig metodik]], 2,5 hp
 
 **Valbara kurser**
