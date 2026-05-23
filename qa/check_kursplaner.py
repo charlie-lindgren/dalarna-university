@@ -82,6 +82,18 @@ def _first_significant_line(section: str) -> str | None:
     return None
 
 
+def _starts_with_bologna_heading(section: str) -> bool:
+    """Den äldre konventionen: lärandemålen inleds med en Bologna-domänrubrik
+    (*Kunskap och förståelse* osv.) före introfrasen. Tekniskt inte fel, men
+    vi har gått ifrån den — och flaggar inte sådana fall."""
+    for ln in section.splitlines():
+        s = ln.strip()
+        if not s:
+            continue
+        return bool(BOLOGNA_HEADING_RE.match(s))
+    return False
+
+
 def check_introfras(files: list[Path]) -> list[dict]:
     """Flagga kursplaner där rubriken ``## Lärandemål`` inte följs direkt
     av en fras som börjar med *"Efter ..."*.
@@ -98,6 +110,8 @@ def check_introfras(files: list[Path]) -> list[dict]:
         body = strip_frontmatter(p.read_text(encoding="utf-8"))
         lo_section = extract_section(body, "Lärandemål")
         if not lo_section:
+            continue
+        if _starts_with_bologna_heading(lo_section):
             continue
         first_line = _first_significant_line(lo_section)
         if first_line is None:
@@ -127,6 +141,9 @@ def check_frasning(files: list[Path]) -> list[dict]:
         body = strip_frontmatter(p.read_text(encoding="utf-8"))
         lo_section = extract_section(body, "Lärandemål")
         if not lo_section:
+            continue
+        if _starts_with_bologna_heading(lo_section):
+            # Äldre konvention med Bologna-rubrik före introfrasen — flaggas inte.
             continue
         first_line = _first_significant_line(lo_section)
         if first_line is None:
@@ -220,6 +237,10 @@ LO_BULLET_RE = re.compile(r"^\s*[-*]\s+.+", re.MULTILINE)
 
 def lo_bounds(hp: float) -> tuple[int, int]:
     """Rimligt antal lärandemål skalat efter kursens hp."""
+    if hp <= 3:
+        return (1, 4)
+    if hp <= 5:
+        return (2, 6)
     if hp <= 7.5:
         return (3, 8)
     if hp <= 15:
