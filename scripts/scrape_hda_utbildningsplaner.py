@@ -508,9 +508,21 @@ def scrape_programme(code: str) -> dict | None:
     if soup is None:
         return None
 
-    # Nedlagda utbildningsplaner skrapas inte — programmet ska inte längre
-    # ingå i vaulten. Returnera markören ``"NEDLAGD"`` så att anropande kod
-    # kan ta bort eventuell lokal artefakt.
+    # Nedlagda utbildningsplaner skrapas inte. Returnera markören ``"NEDLAGD"``
+    # så att anropande kod kan ta bort eventuell lokal artefakt.
+    #
+    # Detektion i två steg:
+    #   1. **Exakt:** du.se renderar status som ``<dt>Nedlagd</dt><dd>…</dd>``
+    #      i metadata-listan. Den extraktorn vi redan har plockar nyckel/värde,
+    #      så om ``meta["Nedlagd"]`` (eller "Upphörd"/"Avvecklad") existerar
+    #      är programmet utan tvekan avvecklat.
+    #   2. **Säkerhetsnät:** om DOM-strukturen ändras framöver så att den
+    #      exakta nyckeln saknas, hittar vi ändå avvecklingen via en löskoll
+    #      i sidans renderade text.
+    meta = extract_programme_metadata(soup)
+    for status_key in ("Nedlagd", "Upphörd", "Avvecklad"):
+        if status_key in meta:
+            return "NEDLAGD"
     page_text_lower = soup.get_text(" ", strip=True).lower()
     if (
         "nedlagd" in page_text_lower
