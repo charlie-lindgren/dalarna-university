@@ -42,6 +42,25 @@ tags: [MOC, institution, ISLL]
 - [[Svenska som andraspråk MOC|Svenska som andraspråk]] (85 kurser)
 - [[Tyska MOC|Tyska]] (59 kurser)
 
+## Huvudområden
+
+- [[Huvudområde - Arabiska MOC|Arabiska]] (27 kurser, 2 ämnen)
+- [[Huvudområde - Engelska MOC|Engelska]] (36 kurser, 2 ämnen)
+- [[Huvudområde - Engelskspråkig litteratur MOC|Engelskspråkig litteratur]] (9 kurser, 1 ämne)
+- [[Huvudområde - Franska MOC|Franska]] (35 kurser, 1 ämne)
+- [[Huvudområde - Interkulturella litteraturstudier (ISLL) MOC|Interkulturella litteraturstudier]] (44 kurser, 5 ämnen)
+- [[Huvudområde - Italienska MOC|Italienska]] (27 kurser, 1 ämne)
+- [[Huvudområde - Japanska MOC|Japanska]] (20 kurser, 1 ämne)
+- [[Huvudområde - Kinesiska MOC|Kinesiska]] (33 kurser, 2 ämnen)
+- [[Huvudområde - Litteraturvetenskap MOC|Litteraturvetenskap]] (1 kurs, 1 ämne)
+- [[Huvudområde - Portugisiska MOC|Portugisiska]] (19 kurser, 1 ämne)
+- [[Huvudområde - Ryska MOC|Ryska]] (26 kurser, 2 ämnen)
+- [[Huvudområde - Spanska MOC|Spanska]] (19 kurser, 1 ämne)
+- [[Huvudområde - Svenska som andraspråk MOC|Svenska som andraspråk]] (41 kurser, 1 ämne)
+- [[Huvudområde - Svenska språket MOC|Svenska språket]] (5 kurser, 1 ämne)
+- [[Huvudområde - Tillämpad engelsk lingvistik MOC|Tillämpad engelsk lingvistik]] (6 kurser, 1 ämne)
+- [[Huvudområde - Tyska MOC|Tyska]] (36 kurser, 1 ämne)
+
 ## Kvalitetsanalys
 
 - [[04 ISLL/Analys/Stavfel och språkbruk|Stavfel och språkbruk]]

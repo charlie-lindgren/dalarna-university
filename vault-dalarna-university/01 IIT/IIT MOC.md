@@ -53,6 +53,18 @@ tags: [MOC, institution, IIT]
 - [[Samhällsbyggnadsteknik MOC|Samhällsbyggnadsteknik]] (24 kurser)
 - [[Statistik MOC|Statistik]] (4 kurser)
 
+## Huvudområden
+
+- [[Huvudområde - Assisterande teknik (IIT) MOC|Assisterande teknik]] (7 kurser, 2 ämnen)
+- [[Huvudområde - Datateknik MOC|Datateknik]] (17 kurser, 3 ämnen)
+- [[Huvudområde - Energiteknik MOC|Energiteknik]] (16 kurser, 2 ämnen)
+- [[Huvudområde - Industriell ekonomi (IIT) MOC|Industriell ekonomi]] (22 kurser, 2 ämnen)
+- [[Huvudområde - Informatik MOC|Informatik]] (54 kurser, 2 ämnen)
+- [[Huvudområde - Kulturgeografi (IIT) MOC|Kulturgeografi]] (6 kurser, 1 ämne)
+- [[Huvudområde - Mikrodataanalys (IIT) MOC|Mikrodataanalys]] (53 kurser, 5 ämnen)
+- [[Huvudområde - Samhällsbyggnadsteknik MOC|Samhällsbyggnadsteknik]] (25 kurser, 2 ämnen)
+- [[Huvudområde - Solenergiteknik MOC|Solenergiteknik]] (24 kurser, 2 ämnen)
+
 ## Kvalitetsanalys
 
 - [[01 IIT/Analys/Stavfel och språkbruk|Stavfel och språkbruk]]

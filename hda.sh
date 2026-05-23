@@ -64,6 +64,14 @@ prompt_apply_mode() {
     APPLY_FLAG="--apply"
 }
 
+# ── steg: bygg huvudområdes-MOC:ar ──────────────────────────────────────────
+run_huvudomrade_mocs() {
+    echo -e "${BOLD}Bygg huvudområdes-MOC:ar${RESET}"
+    echo ""
+    "$PYTHON" scripts/build_huvudomrade_mocs.py --apply
+    echo -e "${GREEN}✓ Huvudområdes-MOC:ar klara${RESET}"
+}
+
 # ── steg: skrapa allt (inkl. strökoder) ─────────────────────────────────────
 run_scrape_all() {
     echo -e "${BOLD}Skrapa ALLA kursplaner från du.se${RESET}"

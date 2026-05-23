@@ -62,6 +62,30 @@ tags: [MOC, institution, IKS]
 - [[Statsvetenskap MOC|Statsvetenskap]] (52 kurser)
 - [[Turismvetenskap MOC|Turismvetenskap]] (55 kurser)
 
+## Huvudområden
+
+- [[Huvudområde - Afrikanska studier MOC|Afrikanska studier]] (38 kurser, 2 ämnen)
+- [[Huvudområde - Arbetsvetenskap MOC|Arbetsvetenskap]] (5 kurser, 1 ämne)
+- [[Huvudområde - Audiovisuella studier MOC|Audiovisuella studier]] (6 kurser, 1 ämne)
+- [[Huvudområde - Bildproduktion MOC|Bildproduktion]] (54 kurser, 1 ämne)
+- [[Huvudområde - Företagsekonomi MOC|Företagsekonomi]] (25 kurser, 2 ämnen)
+- [[Huvudområde - Historia MOC|Historia]] (41 kurser, 2 ämnen)
+- [[Huvudområde - Industriell ekonomi (IKS) MOC|Industriell ekonomi]] (6 kurser, 3 ämnen)
+- [[Huvudområde - Interkulturella litteraturstudier (IKS) MOC|Interkulturella litteraturstudier]] (1 kurs, 1 ämne)
+- [[Huvudområde - Internationella relationer MOC|Internationella relationer]] (9 kurser, 1 ämne)
+- [[Huvudområde - Kulturgeografi (IKS) MOC|Kulturgeografi]] (32 kurser, 3 ämnen)
+- [[Huvudområde - Ljud- och musikproduktion MOC|Ljud- och musikproduktion]] (56 kurser, 1 ämne)
+- [[Huvudområde - Materialteknik MOC|Materialteknik]] (1 kurs, 1 ämne)
+- [[Huvudområde - Medieproduktion MOC|Medieproduktion]] (11 kurser, 1 ämne)
+- [[Huvudområde - Mikrodataanalys (IKS) MOC|Mikrodataanalys]] (12 kurser, 2 ämnen)
+- [[Huvudområde - Nationalekonomi MOC|Nationalekonomi]] (34 kurser, 1 ämne)
+- [[Huvudområde - Pedagogiskt arbete MOC|Pedagogiskt arbete]] (18 kurser, 1 ämne)
+- [[Huvudområde - Personal och arbetsliv MOC|Personal och arbetsliv]] (17 kurser, 1 ämne)
+- [[Huvudområde - Religionsvetenskap MOC|Religionsvetenskap]] (33 kurser, 1 ämne)
+- [[Huvudområde - Sociologi MOC|Sociologi]] (23 kurser, 3 ämnen)
+- [[Huvudområde - Statsvetenskap MOC|Statsvetenskap]] (39 kurser, 4 ämnen)
+- [[Huvudområde - Turismvetenskap MOC|Turismvetenskap]] (62 kurser, 2 ämnen)
+
 ## Kvalitetsanalys
 
 - [[03 IKS/Analys/Stavfel och språkbruk|Stavfel och språkbruk]]

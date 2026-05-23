@@ -150,6 +150,61 @@ def render_moc(
     return "\n".join(lines)
 
 
+INSTITUTION_SECTION_HEADER = "## Huvudområden"
+INSTITUTION_SECTION_RE = re.compile(
+    r"\n##\s+Huvudområden.*?(?=\n##\s|\Z)", re.DOTALL
+)
+
+
+def patch_institution_moc(
+    inst: str, huvudomraden: list[tuple[str, str, int, int]], apply: bool
+) -> bool:
+    """Lägg till eller uppdatera ``## Huvudområden``-sektionen i institutionens MOC.
+
+    ``huvudomraden`` = lista av (display_namn, filnamn_utan_md, antal_kurser,
+    antal_ämnen), sorterad efter visningsnamn.
+    """
+    inst_dir = VAULT / INST_DIR_NAME[inst]
+    moc_path = inst_dir / f"{inst} MOC.md"
+    if not moc_path.exists():
+        return False
+
+    lines = [
+        INSTITUTION_SECTION_HEADER,
+        "",
+    ]
+    for display, fname_stem, n_courses, n_subjects in huvudomraden:
+        lines.append(
+            f"- [[{fname_stem}|{display}]] "
+            f"({n_courses} kurs"
+            + ("er" if n_courses != 1 else "")
+            + f", {n_subjects} ämne"
+            + ("n" if n_subjects != 1 else "")
+            + ")"
+        )
+    section = "\n" + "\n".join(lines) + "\n"
+
+    existing = moc_path.read_text(encoding="utf-8")
+    if INSTITUTION_SECTION_RE.search(existing):
+        new_text = INSTITUTION_SECTION_RE.sub(section.rstrip(), existing, count=1)
+        if not new_text.endswith("\n"):
+            new_text += "\n"
+    else:
+        # Lägg in före ``## Kvalitetsanalys`` om den finns, annars i slutet.
+        if "\n## Kvalitetsanalys" in existing:
+            new_text = existing.replace(
+                "\n## Kvalitetsanalys", section + "\n## Kvalitetsanalys", 1
+            )
+        else:
+            new_text = existing.rstrip() + "\n" + section
+
+    if new_text == existing:
+        return False
+    if apply:
+        moc_path.write_text(new_text, encoding="utf-8")
+    return True
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--apply", action="store_true", help="Skriv filerna till disk")
@@ -164,6 +219,7 @@ def main() -> int:
     print()
 
     per_inst_count: dict[str, int] = defaultdict(int)
+    per_inst_entries: dict[str, list[tuple[str, str, int, int]]] = defaultdict(list)
     written = 0
     for (inst, huvudomrade), subjects in sorted(agg.items()):
         inst_dir = VAULT / INST_DIR_NAME[inst] / "Huvudområden"
@@ -180,12 +236,22 @@ def main() -> int:
                 written += 1
         per_inst_count[inst] += 1
 
+        n_courses = sum(len(s["courses"]) for s in subjects.values())
+        per_inst_entries[inst].append(
+            (huvudomrade, filename[:-3], n_courses, len(subjects))
+        )
+
     print("Per institution:")
+    inst_patches = 0
     for inst in ("IIT", "IHV", "IKS", "ISLL"):
         print(f"  {inst}: {per_inst_count[inst]} MOC:ar")
+        entries = sorted(per_inst_entries[inst], key=lambda e: e[0])
+        if entries and patch_institution_moc(inst, entries, args.apply):
+            inst_patches += 1
 
     if args.apply:
-        print(f"\nSkrev {written} filer (övriga var oförändrade).")
+        print(f"\nSkrev {written} huvudområdes-MOC:ar (övriga var oförändrade).")
+        print(f"Patchade {inst_patches} institutions-MOC:ar med ## Huvudområden-sektion.")
     else:
         print("\nDry-run — kör med --apply för att skriva filerna.")
     return 0

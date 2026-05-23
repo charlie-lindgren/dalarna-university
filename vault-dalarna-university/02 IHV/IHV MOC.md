@@ -34,6 +34,16 @@ tags: [MOC, institution, IHV]
 - [[Socialt arbete MOC|Socialt arbete]] (86 kurser)
 - [[Vårdvetenskap MOC|Vårdvetenskap]] (21 kurser)
 
+## Huvudområden
+
+- [[Huvudområde - Assisterande teknik (IHV) MOC|Assisterande teknik]] (2 kurser, 1 ämne)
+- [[Huvudområde - Fysioterapi MOC|Fysioterapi]] (6 kurser, 2 ämnen)
+- [[Huvudområde - Idrotts- och hälsovetenskap MOC|Idrotts- och hälsovetenskap]] (122 kurser, 1 ämne)
+- [[Huvudområde - Omvårdnad MOC|Omvårdnad]] (42 kurser, 3 ämnen)
+- [[Huvudområde - Sexuell, reproduktiv och perinatal hälsa MOC|Sexuell, reproduktiv och perinatal hälsa]] (43 kurser, 1 ämne)
+- [[Huvudområde - Socialt arbete MOC|Socialt arbete]] (36 kurser, 2 ämnen)
+- [[Huvudområde - Vårdvetenskap MOC|Vårdvetenskap]] (15 kurser, 2 ämnen)
+
 ## Kvalitetsanalys
 
 - [[02 IHV/Analys/Stavfel och språkbruk|Stavfel och språkbruk]]
