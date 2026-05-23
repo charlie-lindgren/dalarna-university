@@ -70,16 +70,43 @@ def parse_kursplan(p: Path) -> dict | None:
     }
 
 
+PROGRAMME_COURSE_RE = re.compile(r"\[\[([A-ZÅÄÖ0-9]{4,8})(?:\|[^\]]*)?\]\]")
+PROGRAMME_NAME_RE = re.compile(r'^programnamn:\s*"?([^"\n]+?)"?\s*$', re.MULTILINE)
+PROGRAMME_INST_RE = re.compile(r'^institution:\s*"?([^"\n]+?)"?\s*$', re.MULTILINE)
+
+
+def parse_programme(p: Path) -> dict | None:
+    """Returnerar programkod, namn, institution och uppsättning kurskoder
+    listade i programmets kursförteckning."""
+    raw = p.read_text(encoding="utf-8")
+    fm = FM_RE.match(raw)
+    if not fm:
+        return None
+    fm_text = fm.group(1)
+    body = raw[fm.end():]
+    m_name = PROGRAMME_NAME_RE.search(fm_text)
+    m_inst = PROGRAMME_INST_RE.search(fm_text)
+    if not (m_name and m_inst):
+        return None
+    courses = set(PROGRAMME_COURSE_RE.findall(body))
+    return {
+        "code": p.stem,
+        "name": m_name.group(1).strip(),
+        "inst": m_inst.group(1).strip(),
+        "courses": courses,
+    }
+
+
 def collect() -> tuple[dict, dict]:
     """Returnerar:
-       agg[(inst, huvudområde)] = {subj_kod: {"name": subj_namn, "courses": [...]}}
+       agg[(inst, huvudområde)] = {
+           "courses_by_subject": {subj_kod: {"name": ..., "courses": [...]}},
+           "programmes": [{code, name, course_overlap}, ...],
+       }
        cross_inst[huvudområde] = set(institutioner)
     """
-    agg: dict[tuple[str, str], dict[str, dict]] = defaultdict(
-        lambda: defaultdict(lambda: {"name": "", "courses": []})
-    )
-    cross_inst: dict[str, set[str]] = defaultdict(set)
-
+    # course_code -> {"inst", "huvudomr": [...], "subj_kod", "subj_namn"}
+    course_index: dict[str, dict] = {}
     files = [
         p for p in VAULT.glob("0[1-4]*/Kursplaner/*/*.md") if "MOC" not in p.name
     ]
@@ -87,11 +114,48 @@ def collect() -> tuple[dict, dict]:
         info = parse_kursplan(p)
         if not info:
             continue
+        course_index[info["code"]] = info
+
+    # Build aggregation by (inst, huvudområde)
+    agg: dict[tuple[str, str], dict] = defaultdict(
+        lambda: {
+            "courses_by_subject": defaultdict(lambda: {"name": "", "courses": []}),
+            "courses_in_huvud": set(),
+            "programmes": [],
+        }
+    )
+    cross_inst: dict[str, set[str]] = defaultdict(set)
+
+    for info in course_index.values():
         for h in info["huvudomr"]:
-            entry = agg[(info["inst"], h)][info["subj_kod"]]
-            entry["name"] = info["subj_namn"] or info["subj_kod"]
-            entry["courses"].append(info["code"])
+            key = (info["inst"], h)
+            sub_entry = agg[key]["courses_by_subject"][info["subj_kod"]]
+            sub_entry["name"] = info["subj_namn"] or info["subj_kod"]
+            sub_entry["courses"].append(info["code"])
+            agg[key]["courses_in_huvud"].add(info["code"])
             cross_inst[h].add(info["inst"])
+
+    # Walk programmes; for each, see which (inst, huvudområde) buckets it
+    # touches by intersection of course sets.
+    prog_files = list(VAULT.glob("0[1-4]*/Utbildningsplaner/*.md"))
+    for pp in prog_files:
+        prog = parse_programme(pp)
+        if not prog:
+            continue
+        # Only consider course overlaps for huvudområden in the SAME institution
+        # (we never bridge institutions in the graph).
+        for (inst, h), bucket in agg.items():
+            if inst != prog["inst"]:
+                continue
+            overlap = prog["courses"] & bucket["courses_in_huvud"]
+            if not overlap:
+                continue
+            bucket["programmes"].append({
+                "code": prog["code"],
+                "name": prog["name"],
+                "overlap": len(overlap),
+            })
+
     return agg, cross_inst
 
 
@@ -105,12 +169,20 @@ def moc_filename(huvudomrade: str, inst: str, spans_multiple: bool) -> str:
 def render_moc(
     huvudomrade: str,
     inst: str,
-    subjects: dict[str, dict],
+    bucket: dict,
     spans_multiple: bool,
 ) -> str:
-    """Bygg markdown-innehållet för en huvudområdes-MOC."""
-    total_courses = sum(len(s["courses"]) for s in subjects.values())
-    n_subjects = len(subjects)
+    """Bygg markdown-innehållet för en huvudområdes-MOC.
+
+    Huvudområdes-MOC:en sätter inga graf-edges till institutions-MOC:en
+    (``up:`` är ren textsträng) eller till ämnes-MOC:ar — endast till
+    programmen som faktiskt inkluderar kurser med detta huvudområde. På så
+    sätt klustrar sig huvudområdet visuellt med "sina" program istället för
+    att hänga av institutionshubben."""
+    courses_by_subject = bucket["courses_by_subject"]
+    programmes = bucket["programmes"]
+    total_courses = sum(len(s["courses"]) for s in courses_by_subject.values())
+    n_subjects = len(courses_by_subject)
 
     title_suffix = f" ({inst})" if spans_multiple else ""
 
@@ -133,18 +205,36 @@ def render_moc(
         + ("n" if n_subjects != 1 else "")
         + ".",
         "",
-        "## Ämnen",
+        "## Program",
         "",
     ]
-    # Sort by course-count desc, then subject name
+    if programmes:
+        sorted_programmes = sorted(programmes, key=lambda x: (-x["overlap"], x["name"]))
+        for prog in sorted_programmes:
+            lines.append(
+                f"- [[{prog['code']}|{prog['code']}]] — {prog['name']} "
+                f"({prog['overlap']} kurs"
+                + ("er" if prog["overlap"] != 1 else "")
+                + ")"
+            )
+    else:
+        lines.append("_Inga program inkluderar kurser i detta huvudområde._")
+    lines.append("")
+
+    # Ämneslistan visas som ren text (inga graf-edges från huvudområde
+    # till ämne) — den är informativ för läsaren men huvudområdet ska
+    # bara koppla till program i graf-vyn.
+    lines.append("## Ämnen (informativt)")
+    lines.append("")
     sorted_subjects = sorted(
-        subjects.items(),
+        courses_by_subject.items(),
         key=lambda kv: (-len(kv[1]["courses"]), kv[1]["name"]),
     )
     for subj_kod, data in sorted_subjects:
         n = len(data["courses"])
+        href = data["name"] + " MOC"
         lines.append(
-            f"- [[{data['name']} MOC|{data['name']}]] "
+            f'- <a class="no-graph" href="{href}">{data["name"]}</a> '
             f"({subj_kod}, {n} kurs"
             + ("er" if n != 1 else "")
             + ")"
@@ -229,12 +319,12 @@ def main() -> int:
     per_inst_count: dict[str, int] = defaultdict(int)
     per_inst_entries: dict[str, list[tuple[str, str, int, int]]] = defaultdict(list)
     written = 0
-    for (inst, huvudomrade), subjects in sorted(agg.items()):
+    for (inst, huvudomrade), bucket in sorted(agg.items()):
         inst_dir = VAULT / INST_DIR_NAME[inst] / "Huvudområden"
         spans_multiple = huvudomrade in spans
         filename = moc_filename(huvudomrade, inst, spans_multiple)
         out_path = inst_dir / filename
-        content = render_moc(huvudomrade, inst, subjects, spans_multiple)
+        content = render_moc(huvudomrade, inst, bucket, spans_multiple)
 
         if args.apply:
             inst_dir.mkdir(parents=True, exist_ok=True)
@@ -244,9 +334,10 @@ def main() -> int:
                 written += 1
         per_inst_count[inst] += 1
 
-        n_courses = sum(len(s["courses"]) for s in subjects.values())
+        n_courses = sum(len(s["courses"]) for s in bucket["courses_by_subject"].values())
+        n_subjects = len(bucket["courses_by_subject"])
         per_inst_entries[inst].append(
-            (huvudomrade, filename[:-3], n_courses, len(subjects))
+            (huvudomrade, filename[:-3], n_courses, n_subjects)
         )
 
     print("Per institution:")

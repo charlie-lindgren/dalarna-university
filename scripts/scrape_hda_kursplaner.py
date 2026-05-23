@@ -1077,7 +1077,14 @@ def build_institution_moc(inst_code: str, subjects: list[dict],
         lines.append("## Kvalitetsanalys")
         lines.append("")
         for name in analys_files:
-            lines.append(f"- [[{inst_dir}/Analys/{name}|{name}]]")
+            # Page-only länk (``class="no-graph"``) — institutions-MOC:en
+            # ska bara koppla till ämnes-MOC:ar i grafen, inte till
+            # analyssidor. Analyssidornas frontmatter (``up:``) använder
+            # ren textsträng för samma anledning.
+            href = f"{inst_dir}/Analys/{name}"
+            lines.append(
+                f'- <a class="no-graph" href="{href}">{name}</a>'
+            )
         lines.append("")
 
     return "\n".join(lines)
