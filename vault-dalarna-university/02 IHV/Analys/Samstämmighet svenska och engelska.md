@@ -1,6 +1,6 @@
 ---
 tags: [analys, oversattning]
-up: "[[IHV MOC]]"
+up: "IHV MOC"
 status: första pass
 ---
 

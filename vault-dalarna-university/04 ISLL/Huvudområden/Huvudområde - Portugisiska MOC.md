@@ -9,6 +9,10 @@ institution: "ISLL"
 
 Huvudområde inom **ISLL**. Omfattar 19 kurser fördelade på 1 ämne.
 
-## Ämnen
+## Program
 
-- [[Portugisiska MOC|Portugisiska]] (PRA, 19 kurser)
+_Inga program inkluderar kurser i detta huvudområde._
+
+## Ämnen (informativt)
+
+- <a class="no-graph" href="Portugisiska MOC">Portugisiska</a> (PRA, 19 kurser)

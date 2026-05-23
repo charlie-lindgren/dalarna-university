@@ -9,6 +9,10 @@ institution: "ISLL"
 
 Huvudområde inom **ISLL**. Omfattar 1 kurs fördelade på 1 ämne.
 
-## Ämnen
+## Program
 
-- [[Svenska MOC|Svenska]] (SVE, 1 kurs)
+_Inga program inkluderar kurser i detta huvudområde._
+
+## Ämnen (informativt)
+
+- <a class="no-graph" href="Svenska MOC">Svenska</a> (SVE, 1 kurs)

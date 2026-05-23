@@ -9,6 +9,10 @@ institution: "IKS"
 
 Huvudområde inom **IKS**. Omfattar 5 kurser fördelade på 1 ämne.
 
-## Ämnen
+## Program
 
-- [[Arbetsvetenskap MOC|Arbetsvetenskap]] (ABA, 5 kurser)
+- [[SPARG|SPARG]] — Personal- och arbetslivsprogrammet (5 kurser)
+
+## Ämnen (informativt)
+
+- <a class="no-graph" href="Arbetsvetenskap MOC">Arbetsvetenskap</a> (ABA, 5 kurser)

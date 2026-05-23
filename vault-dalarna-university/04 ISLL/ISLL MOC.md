@@ -62,12 +62,12 @@ tags: [MOC, institution, ISLL]
 - <a class="no-graph" href="Huvudområden/Huvudområde - Tyska MOC">Tyska</a> (36 kurser, 1 ämne)
 ## Kvalitetsanalys
 
-- [[04 ISLL/Analys/Stavfel och språkbruk|Stavfel och språkbruk]]
-- [[04 ISLL/Analys/Introfras|Introfras]]
-- [[04 ISLL/Analys/Frasningskonsistens|Frasningskonsistens]]
-- [[04 ISLL/Analys/Omfång på lärandemål|Omfång på lärandemål]]
-- [[04 ISLL/Analys/Bloom-taxonomi|Bloom-taxonomi]]
-- [[04 ISLL/Analys/Examinationsformer|Examinationsformer]]
-- [[04 ISLL/Analys/Betygsskalor|Betygsskalor]]
-- [[04 ISLL/Analys/Samstämmighet svenska och engelska|Samstämmighet svenska och engelska]]
-- [[04 ISLL/Analys/Vilande kursplaner|Vilande kursplaner]]
+- <a class="no-graph" href="04 ISLL/Analys/Stavfel och språkbruk">Stavfel och språkbruk</a>
+- <a class="no-graph" href="04 ISLL/Analys/Introfras">Introfras</a>
+- <a class="no-graph" href="04 ISLL/Analys/Frasningskonsistens">Frasningskonsistens</a>
+- <a class="no-graph" href="04 ISLL/Analys/Omfång på lärandemål">Omfång på lärandemål</a>
+- <a class="no-graph" href="04 ISLL/Analys/Bloom-taxonomi">Bloom-taxonomi</a>
+- <a class="no-graph" href="04 ISLL/Analys/Examinationsformer">Examinationsformer</a>
+- <a class="no-graph" href="04 ISLL/Analys/Betygsskalor">Betygsskalor</a>
+- <a class="no-graph" href="04 ISLL/Analys/Samstämmighet svenska och engelska">Samstämmighet svenska och engelska</a>
+- <a class="no-graph" href="04 ISLL/Analys/Vilande kursplaner">Vilande kursplaner</a>

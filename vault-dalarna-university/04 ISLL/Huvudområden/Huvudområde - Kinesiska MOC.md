@@ -9,7 +9,11 @@ institution: "ISLL"
 
 Huvudområde inom **ISLL**. Omfattar 33 kurser fördelade på 2 ämnen.
 
-## Ämnen
+## Program
 
-- [[Kinesiska MOC|Kinesiska]] (KIA, 32 kurser)
-- [[Portugisiska MOC|Portugisiska]] (PRA, 1 kurs)
+_Inga program inkluderar kurser i detta huvudområde._
+
+## Ämnen (informativt)
+
+- <a class="no-graph" href="Kinesiska MOC">Kinesiska</a> (KIA, 32 kurser)
+- <a class="no-graph" href="Portugisiska MOC">Portugisiska</a> (PRA, 1 kurs)

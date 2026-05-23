@@ -9,6 +9,10 @@ institution: "ISLL"
 
 Huvudområde inom **ISLL**. Omfattar 27 kurser fördelade på 1 ämne.
 
-## Ämnen
+## Program
 
-- [[Italienska MOC|Italienska]] (ITA, 27 kurser)
+_Inga program inkluderar kurser i detta huvudområde._
+
+## Ämnen (informativt)
+
+- <a class="no-graph" href="Italienska MOC">Italienska</a> (ITA, 27 kurser)

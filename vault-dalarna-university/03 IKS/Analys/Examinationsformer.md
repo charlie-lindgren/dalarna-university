@@ -1,6 +1,6 @@
 ---
 tags: [analys, examination]
-up: "[[IKS MOC]]"
+up: "IKS MOC"
 status: första pass
 ---
 

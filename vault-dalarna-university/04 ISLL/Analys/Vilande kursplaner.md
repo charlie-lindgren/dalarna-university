@@ -1,6 +1,6 @@
 ---
 tags: [analys, kurslivscykel, vilande]
-up: "[[ISLL MOC]]"
+up: "ISLL MOC"
 status: första pass
 ---
 

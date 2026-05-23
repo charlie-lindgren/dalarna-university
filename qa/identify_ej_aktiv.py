@@ -449,7 +449,10 @@ def build_vilande_analysis_template(callout_lines: list[str], inst_code: str) ->
     lines = [
         "---",
         "tags: [analys, kurslivscykel, vilande]",
-        f'up: "[[{inst_code} MOC]]"',
+        # Plain string (utan ``[[ ]]``) — Quartz extraherar wikilinks från
+        # frontmatter, men en ren textsträng räknas inte som en graf-edge.
+        # Institutions-MOC:en ska bara koppla till ämnes-MOC:ar i grafen.
+        f'up: "{inst_code} MOC"',
         "status: första pass",
         "---",
         "",

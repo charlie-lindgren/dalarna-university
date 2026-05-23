@@ -9,6 +9,10 @@ institution: "IKS"
 
 Huvudområde inom **IKS**. Omfattar 33 kurser fördelade på 1 ämne.
 
-## Ämnen
+## Program
 
-- [[Religionsvetenskap MOC|Religionsvetenskap]] (RKA, 33 kurser)
+_Inga program inkluderar kurser i detta huvudområde._
+
+## Ämnen (informativt)
+
+- <a class="no-graph" href="Religionsvetenskap MOC">Religionsvetenskap</a> (RKA, 33 kurser)

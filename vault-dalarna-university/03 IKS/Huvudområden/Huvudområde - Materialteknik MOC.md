@@ -9,6 +9,10 @@ institution: "IKS"
 
 Huvudområde inom **IKS**. Omfattar 1 kurs fördelade på 1 ämne.
 
-## Ämnen
+## Program
 
-- [[Filosofi MOC|Filosofi]] (FIA, 1 kurs)
+_Inga program inkluderar kurser i detta huvudområde._
+
+## Ämnen (informativt)
+
+- <a class="no-graph" href="Filosofi MOC">Filosofi</a> (FIA, 1 kurs)

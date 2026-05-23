@@ -1,6 +1,6 @@
 ---
 tags: [analys, forkunskapskrav]
-up: "[[ISLL MOC]]"
+up: "ISLL MOC"
 status: första pass
 ---
 

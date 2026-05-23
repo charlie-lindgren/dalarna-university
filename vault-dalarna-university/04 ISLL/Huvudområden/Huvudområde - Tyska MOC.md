@@ -9,6 +9,10 @@ institution: "ISLL"
 
 Huvudområde inom **ISLL**. Omfattar 36 kurser fördelade på 1 ämne.
 
-## Ämnen
+## Program
 
-- [[Tyska MOC|Tyska]] (TYA, 36 kurser)
+_Inga program inkluderar kurser i detta huvudområde._
+
+## Ämnen (informativt)
+
+- <a class="no-graph" href="Tyska MOC">Tyska</a> (TYA, 36 kurser)

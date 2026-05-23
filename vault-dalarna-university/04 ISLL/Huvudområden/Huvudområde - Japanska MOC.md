@@ -9,6 +9,10 @@ institution: "ISLL"
 
 Huvudområde inom **ISLL**. Omfattar 20 kurser fördelade på 1 ämne.
 
-## Ämnen
+## Program
 
-- [[Japanska MOC|Japanska]] (JAA, 20 kurser)
+_Inga program inkluderar kurser i detta huvudområde._
+
+## Ämnen (informativt)
+
+- <a class="no-graph" href="Japanska MOC">Japanska</a> (JAA, 20 kurser)

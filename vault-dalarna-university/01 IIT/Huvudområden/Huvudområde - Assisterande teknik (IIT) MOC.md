@@ -9,7 +9,11 @@ institution: "IIT"
 
 Huvudområde inom **IIT**. Omfattar 7 kurser fördelade på 2 ämnen.
 
-## Ämnen
+## Program
 
-- [[Maskinteknik MOC|Maskinteknik]] (MTA, 6 kurser)
-- [[Industriell ekonomi MOC|Industriell ekonomi]] (IEA, 1 kurs)
+- [[TATPG|TATPG]] — Assisterande teknikprogrammet (7 kurser)
+
+## Ämnen (informativt)
+
+- <a class="no-graph" href="Maskinteknik MOC">Maskinteknik</a> (MTA, 6 kurser)
+- <a class="no-graph" href="Industriell ekonomi MOC">Industriell ekonomi</a> (IEA, 1 kurs)

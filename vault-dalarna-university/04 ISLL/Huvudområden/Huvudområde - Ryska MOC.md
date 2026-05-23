@@ -9,7 +9,11 @@ institution: "ISLL"
 
 Huvudområde inom **ISLL**. Omfattar 26 kurser fördelade på 2 ämnen.
 
-## Ämnen
+## Program
 
-- [[Ryska MOC|Ryska]] (RYA, 25 kurser)
-- [[Portugisiska MOC|Portugisiska]] (PRA, 1 kurs)
+_Inga program inkluderar kurser i detta huvudområde._
+
+## Ämnen (informativt)
+
+- <a class="no-graph" href="Ryska MOC">Ryska</a> (RYA, 25 kurser)
+- <a class="no-graph" href="Portugisiska MOC">Portugisiska</a> (PRA, 1 kurs)

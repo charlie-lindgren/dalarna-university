@@ -9,6 +9,10 @@ institution: "ISLL"
 
 Huvudområde inom **ISLL**. Omfattar 35 kurser fördelade på 1 ämne.
 
-## Ämnen
+## Program
 
-- [[Franska MOC|Franska]] (FRA, 35 kurser)
+_Inga program inkluderar kurser i detta huvudområde._
+
+## Ämnen (informativt)
+
+- <a class="no-graph" href="Franska MOC">Franska</a> (FRA, 35 kurser)

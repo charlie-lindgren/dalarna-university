@@ -9,7 +9,11 @@ institution: "ISLL"
 
 Huvudområde inom **ISLL**. Omfattar 36 kurser fördelade på 2 ämnen.
 
-## Ämnen
+## Program
 
-- [[Engelska MOC|Engelska]] (ENA, 34 kurser)
-- [[Portugisiska MOC|Portugisiska]] (PRA, 2 kurser)
+_Inga program inkluderar kurser i detta huvudområde._
+
+## Ämnen (informativt)
+
+- <a class="no-graph" href="Engelska MOC">Engelska</a> (ENA, 34 kurser)
+- <a class="no-graph" href="Portugisiska MOC">Portugisiska</a> (PRA, 2 kurser)

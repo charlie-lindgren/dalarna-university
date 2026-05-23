@@ -9,6 +9,10 @@ institution: "IHV"
 
 Huvudområde inom **IHV**. Omfattar 122 kurser fördelade på 1 ämne.
 
-## Ämnen
+## Program
 
-- [[Idrotts- och hälsovetenskap MOC|Idrotts- och hälsovetenskap]] (IDA, 122 kurser)
+- [[VIDRG|VIDRG]] — Idrottstränarprogrammet (13 kurser)
+
+## Ämnen (informativt)
+
+- <a class="no-graph" href="Idrotts- och hälsovetenskap MOC">Idrotts- och hälsovetenskap</a> (IDA, 122 kurser)

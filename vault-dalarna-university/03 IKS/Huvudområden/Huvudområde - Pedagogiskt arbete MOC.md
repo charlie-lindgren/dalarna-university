@@ -9,6 +9,10 @@ institution: "IKS"
 
 Huvudområde inom **IKS**. Omfattar 18 kurser fördelade på 1 ämne.
 
-## Ämnen
+## Program
 
-- [[Pedagogiskt arbete MOC|Pedagogiskt arbete]] (PGA, 18 kurser)
+- [[LPEDA|LPEDA]] — Magisterprogram i pedagogiskt arbete (6 kurser)
+
+## Ämnen (informativt)
+
+- <a class="no-graph" href="Pedagogiskt arbete MOC">Pedagogiskt arbete</a> (PGA, 18 kurser)

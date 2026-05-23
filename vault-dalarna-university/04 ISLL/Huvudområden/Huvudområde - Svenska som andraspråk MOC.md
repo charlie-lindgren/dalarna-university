@@ -9,6 +9,10 @@ institution: "ISLL"
 
 Huvudområde inom **ISLL**. Omfattar 41 kurser fördelade på 1 ämne.
 
-## Ämnen
+## Program
 
-- [[Svenska som andraspråk MOC|Svenska som andraspråk]] (SSA, 41 kurser)
+- [[HSVAA|HSVAA]] — Magisterprogram i svenska som andraspråk (8 kurser)
+
+## Ämnen (informativt)
+
+- <a class="no-graph" href="Svenska som andraspråk MOC">Svenska som andraspråk</a> (SSA, 41 kurser)

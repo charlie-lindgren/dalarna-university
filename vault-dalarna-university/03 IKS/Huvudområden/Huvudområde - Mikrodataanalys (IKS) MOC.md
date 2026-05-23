@@ -9,7 +9,12 @@ institution: "IKS"
 
 Huvudområde inom **IKS**. Omfattar 12 kurser fördelade på 2 ämnen.
 
-## Ämnen
+## Program
 
-- [[Nationalekonomi MOC|Nationalekonomi]] (NAA, 11 kurser)
-- [[Kulturgeografi MOC|Kulturgeografi]] (KGA, 1 kurs)
+- [[SMINA|SMINA]] — Magisterprogram i nationalekonomi (4 kurser)
+- [[SENGR|SENGR]] — Ekonomprogrammet (1 kurs)
+
+## Ämnen (informativt)
+
+- <a class="no-graph" href="Nationalekonomi MOC">Nationalekonomi</a> (NAA, 11 kurser)
+- <a class="no-graph" href="Kulturgeografi MOC">Kulturgeografi</a> (KGA, 1 kurs)

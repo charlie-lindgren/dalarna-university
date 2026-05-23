@@ -9,8 +9,14 @@ institution: "IKS"
 
 Huvudområde inom **IKS**. Omfattar 32 kurser fördelade på 3 ämnen.
 
-## Ämnen
+## Program
 
-- [[Kulturgeografi MOC|Kulturgeografi]] (KGA, 23 kurser)
-- [[Turismvetenskap MOC|Turismvetenskap]] (TRU, 7 kurser)
-- [[Filosofi MOC|Filosofi]] (FIA, 2 kurser)
+- [[SDUVA|SDUVA]] — Magisterprogram i destinationsutveckling (3 kurser)
+- [[SMHTA|SMHTA]] — Masterprogram i hållbarhet och turism (3 kurser)
+- [[SSHVG|SSHVG]] — Samhällsvetarprogrammet (1 kurs)
+
+## Ämnen (informativt)
+
+- <a class="no-graph" href="Kulturgeografi MOC">Kulturgeografi</a> (KGA, 23 kurser)
+- <a class="no-graph" href="Turismvetenskap MOC">Turismvetenskap</a> (TRU, 7 kurser)
+- <a class="no-graph" href="Filosofi MOC">Filosofi</a> (FIA, 2 kurser)

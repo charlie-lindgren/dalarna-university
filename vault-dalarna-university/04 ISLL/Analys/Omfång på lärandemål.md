@@ -1,6 +1,6 @@
 ---
 tags: [analys, larandemal]
-up: "[[ISLL MOC]]"
+up: "ISLL MOC"
 status: första pass
 ---
 

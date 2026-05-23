@@ -9,6 +9,10 @@ institution: "IKS"
 
 Huvudområde inom **IKS**. Omfattar 17 kurser fördelade på 1 ämne.
 
-## Ämnen
+## Program
 
-- [[Personal och arbetsliv MOC|Personal och arbetsliv]] (PEE, 17 kurser)
+_Inga program inkluderar kurser i detta huvudområde._
+
+## Ämnen (informativt)
+
+- <a class="no-graph" href="Personal och arbetsliv MOC">Personal och arbetsliv</a> (PEE, 17 kurser)

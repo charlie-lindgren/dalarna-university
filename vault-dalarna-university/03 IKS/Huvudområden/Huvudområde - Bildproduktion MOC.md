@@ -9,6 +9,10 @@ institution: "IKS"
 
 Huvudområde inom **IKS**. Omfattar 54 kurser fördelade på 1 ämne.
 
-## Ämnen
+## Program
 
-- [[Bildproduktion MOC|Bildproduktion]] (BPO, 54 kurser)
+- [[KFTKG|KFTKG]] — Manus för film och TV – kandidatprogram (10 kurser)
+
+## Ämnen (informativt)
+
+- <a class="no-graph" href="Bildproduktion MOC">Bildproduktion</a> (BPO, 54 kurser)

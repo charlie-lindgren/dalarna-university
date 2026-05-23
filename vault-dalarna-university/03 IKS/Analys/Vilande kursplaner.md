@@ -1,6 +1,6 @@
 ---
 tags: [analys, kurslivscykel, vilande]
-up: "[[IKS MOC]]"
+up: "IKS MOC"
 status: första pass
 ---
 

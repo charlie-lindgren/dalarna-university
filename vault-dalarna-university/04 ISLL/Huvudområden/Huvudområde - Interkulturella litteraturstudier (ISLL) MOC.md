@@ -9,10 +9,14 @@ institution: "ISLL"
 
 Huvudområde inom **ISLL**. Omfattar 44 kurser fördelade på 5 ämnen.
 
-## Ämnen
+## Program
 
-- [[Engelska MOC|Engelska]] (ENA, 19 kurser)
-- [[Japanska MOC|Japanska]] (JAA, 15 kurser)
-- [[Tyska MOC|Tyska]] (TYA, 5 kurser)
-- [[Franska MOC|Franska]] (FRA, 4 kurser)
-- [[Arabiska MOC|Arabiska]] (ARA, 1 kurs)
+- [[HEELA|HEELA]] — Magisterprogram i engelska med inriktning mot engelskspråkig litteratur (4 kurser)
+
+## Ämnen (informativt)
+
+- <a class="no-graph" href="Engelska MOC">Engelska</a> (ENA, 19 kurser)
+- <a class="no-graph" href="Japanska MOC">Japanska</a> (JAA, 15 kurser)
+- <a class="no-graph" href="Tyska MOC">Tyska</a> (TYA, 5 kurser)
+- <a class="no-graph" href="Franska MOC">Franska</a> (FRA, 4 kurser)
+- <a class="no-graph" href="Arabiska MOC">Arabiska</a> (ARA, 1 kurs)

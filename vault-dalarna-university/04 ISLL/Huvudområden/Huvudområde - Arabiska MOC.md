@@ -9,7 +9,11 @@ institution: "ISLL"
 
 Huvudområde inom **ISLL**. Omfattar 27 kurser fördelade på 2 ämnen.
 
-## Ämnen
+## Program
 
-- [[Arabiska MOC|Arabiska]] (ARA, 26 kurser)
-- [[Franska MOC|Franska]] (FRA, 1 kurs)
+_Inga program inkluderar kurser i detta huvudområde._
+
+## Ämnen (informativt)
+
+- <a class="no-graph" href="Arabiska MOC">Arabiska</a> (ARA, 26 kurser)
+- <a class="no-graph" href="Franska MOC">Franska</a> (FRA, 1 kurs)

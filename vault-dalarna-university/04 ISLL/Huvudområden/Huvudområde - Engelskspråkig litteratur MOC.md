@@ -9,6 +9,10 @@ institution: "ISLL"
 
 Huvudområde inom **ISLL**. Omfattar 9 kurser fördelade på 1 ämne.
 
-## Ämnen
+## Program
 
-- [[Engelska MOC|Engelska]] (ENA, 9 kurser)
+- [[HEELA|HEELA]] — Magisterprogram i engelska med inriktning mot engelskspråkig litteratur (7 kurser)
+
+## Ämnen (informativt)
+
+- <a class="no-graph" href="Engelska MOC">Engelska</a> (ENA, 9 kurser)

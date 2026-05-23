@@ -1,6 +1,6 @@
 ---
 tags: [analys, bloom, larandemal]
-up: "[[IIT MOC]]"
+up: "IIT MOC"
 status: första pass
 ---
 

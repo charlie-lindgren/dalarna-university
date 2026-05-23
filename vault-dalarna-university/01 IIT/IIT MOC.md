@@ -66,12 +66,12 @@ tags: [MOC, institution, IIT]
 - <a class="no-graph" href="Huvudområden/Huvudområde - Solenergiteknik MOC">Solenergiteknik</a> (24 kurser, 2 ämnen)
 ## Kvalitetsanalys
 
-- [[01 IIT/Analys/Stavfel och språkbruk|Stavfel och språkbruk]]
-- [[01 IIT/Analys/Introfras|Introfras]]
-- [[01 IIT/Analys/Frasningskonsistens|Frasningskonsistens]]
-- [[01 IIT/Analys/Omfång på lärandemål|Omfång på lärandemål]]
-- [[01 IIT/Analys/Bloom-taxonomi|Bloom-taxonomi]]
-- [[01 IIT/Analys/Examinationsformer|Examinationsformer]]
-- [[01 IIT/Analys/Betygsskalor|Betygsskalor]]
-- [[01 IIT/Analys/Samstämmighet svenska och engelska|Samstämmighet svenska och engelska]]
-- [[01 IIT/Analys/Vilande kursplaner|Vilande kursplaner]]
+- <a class="no-graph" href="01 IIT/Analys/Stavfel och språkbruk">Stavfel och språkbruk</a>
+- <a class="no-graph" href="01 IIT/Analys/Introfras">Introfras</a>
+- <a class="no-graph" href="01 IIT/Analys/Frasningskonsistens">Frasningskonsistens</a>
+- <a class="no-graph" href="01 IIT/Analys/Omfång på lärandemål">Omfång på lärandemål</a>
+- <a class="no-graph" href="01 IIT/Analys/Bloom-taxonomi">Bloom-taxonomi</a>
+- <a class="no-graph" href="01 IIT/Analys/Examinationsformer">Examinationsformer</a>
+- <a class="no-graph" href="01 IIT/Analys/Betygsskalor">Betygsskalor</a>
+- <a class="no-graph" href="01 IIT/Analys/Samstämmighet svenska och engelska">Samstämmighet svenska och engelska</a>
+- <a class="no-graph" href="01 IIT/Analys/Vilande kursplaner">Vilande kursplaner</a>

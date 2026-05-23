@@ -1,6 +1,6 @@
 ---
 tags: [analys, oversattning]
-up: "[[IKS MOC]]"
+up: "IKS MOC"
 status: första pass
 ---
 
