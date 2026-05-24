@@ -1,0 +1,22 @@
+{
+  "MD033": {
+    "allowed_elements": [
+      "a",
+      "svg",
+      "path",
+      "polyline",
+      "line",
+      "rect",
+      "circle",
+      "g",
+      "span",
+      "br"
+    ]
+  },
+  "MD049": {
+    "style": "asterisk"
+  },
+  "MD050": {
+    "style": "asterisk"
+  }
+}
