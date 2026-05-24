@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Förkunskapskrav.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (88 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Förkunskapskrav.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (82 rader)</span></a>
 
-> [!example]- 88 fynd — klicka för att expandera
+> [!example]- 82 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -21,7 +21,6 @@ status: första pass
 > | [EN2046](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN2046) | ENA | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
 > | [EN3070](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3070) | ENA | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
 > | [EN3072](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3072) | ENA | Refererar bekräftat nedlagd kurs | `Engelska` → `ENC036` (nedlagd 2008-09-18); förkunskap nämner nedlagd kurs |
-> | [EN3077](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3077) | ENA | Refererar troligen nedlagd kurs | Refererad kurs hittas ej i vaulten (troligen nedlagd): 'Engelska: Språkvetenskap i tal och skrift' |
 > | [EN3077](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3077) | ENA | Refererar bekräftat nedlagd kurs | `Engelska` → `ENC036` (nedlagd 2008-09-18); förkunskap nämner nedlagd kurs |
 > | [AFR24A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR24A) | FRA | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
 > | [AFR24B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR24B) | FRA | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
@@ -59,16 +58,11 @@ status: första pass
 > | [ASP25D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASP25D) | SPA | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
 > | [ASP25E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASP25E) | SPA | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
 > | [GSP2KS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2KS) | SPA | Refererar bekräftat nedlagd kurs | `Spanska II` → `SP1001` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
-> | [GSP2YT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2YT) | SPA | Refererar troligen nedlagd kurs | Refererad kurs hittas ej i vaulten (troligen nedlagd): 'Spanska I: Skriftlig språkfärdighet och grammatik' |
 > | [GSP2YT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2YT) | SPA | Refererar bekräftat nedlagd kurs | `Spanska I` → `SP1014` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
 > | [GSP3GW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3GW) | SPA | Refererar bekräftat nedlagd kurs | `Spanska II` → `SP1001` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
-> | [SP1050](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SP1050) | SPA | Refererar troligen nedlagd kurs | Refererad kurs hittas ej i vaulten (troligen nedlagd): 'Spanska I: Skriftlig språkfärdighet och grammatik' |
 > | [SP1050](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SP1050) | SPA | Refererar bekräftat nedlagd kurs | `Spanska I` → `SP1014` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
-> | [SP1051](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SP1051) | SPA | Refererar troligen nedlagd kurs | Refererad kurs hittas ej i vaulten (troligen nedlagd): 'Spanska I: Skriftlig språkfärdighet och grammatik' |
 > | [SP1051](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SP1051) | SPA | Refererar bekräftat nedlagd kurs | `Spanska I` → `SP1014` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
-> | [SP1052](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SP1052) | SPA | Refererar troligen nedlagd kurs | Refererad kurs hittas ej i vaulten (troligen nedlagd): 'Spanska I: Skriftlig språkfärdighet och grammatik' |
 > | [SP1052](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SP1052) | SPA | Refererar bekräftat nedlagd kurs | `Spanska I` → `SP1014` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
-> | [SP1053](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SP1053) | SPA | Refererar troligen nedlagd kurs | Refererad kurs hittas ej i vaulten (troligen nedlagd): 'Spanska I: Skriftlig språkfärdighet och grammatik' |
 > | [SP1053](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SP1053) | SPA | Refererar bekräftat nedlagd kurs | `Spanska I` → `SP1014` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
 > | [SP2021](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SP2021) | SPA | Refererar bekräftat nedlagd kurs | `Spanska II` → `SP1001` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
 > | [SP2022](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SP2022) | SPA | Refererar bekräftat nedlagd kurs | `Spanska II` → `SP1001` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
