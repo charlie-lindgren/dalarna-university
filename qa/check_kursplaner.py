@@ -592,6 +592,16 @@ def check_forkunskap_okand_kurs(files: list[Path]) -> list[dict]:
     Titel-startord på en stopplista (*krävs, studenten, kandidatexamen, …*)
     förkastas eftersom de inte utgör kursnamn."""
     title_index, long_titles = _build_vault_title_index(files)
+    # Om QA-cachen av nedlagda kursplaner finns låter vi den auktoritativa
+    # ``nedlagd-förkunskapskrav``-checken hantera de fynd vi *bekräftat* — då
+    # ska vi inte också rapportera samma kandidat som "troligen nedlagd",
+    # det blir bara dubbletter i analysfilerna.
+    try:
+        from checks_nedlagda import load_index as _load_nedlagda
+        nedlagda_index = _load_nedlagda()
+    except Exception:
+        nedlagda_index = None
+
     findings = []
     for p in files:
         body = strip_frontmatter(p.read_text(encoding="utf-8"))
@@ -618,6 +628,9 @@ def check_forkunskap_okand_kurs(files: list[Path]) -> list[dict]:
                 if any(vt in norm or norm in vt for vt in long_titles):
                     continue
                 if title in reported:
+                    continue
+                # Bekräftat nedlagd → låt den hårda checken hantera fyndet.
+                if nedlagda_index is not None and nedlagda_index.lookup_name(title):
                     continue
                 reported.add(title)
                 findings.append({
