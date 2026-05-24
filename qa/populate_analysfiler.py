@@ -36,6 +36,7 @@ INST_DIR_NAME = {
     "ISLL": "04 ISLL",
 }
 RAPPORT_DIR   = Path(__file__).resolve().parent / "rapporter"
+RAPPORT_DIR_UTB = Path(__file__).resolve().parent / "rapporter-utb"
 
 COURSE_CODE_RE = re.compile(r"^[A-ZÅÄÖ0-9]{4,8}$")
 
@@ -45,30 +46,34 @@ def institution_analys_dir(inst_code: str) -> Path:
 
 
 def build_code_to_institution_map() -> dict[str, str]:
-    """Skanna vaulten och bygg `kurskod -> institutionskod` baserat på
-    kursfilernas placering. Filplacering är auktoritativ; vid kollision
-    läses `institution:` i frontmatter som tiebreaker."""
+    """Skanna vaulten och bygg `kurskod | programkod -> institutionskod`
+    baserat på filplaceringen. Både Kursplaner/ och Utbildningsplaner/
+    indexeras, så att kursplan-rapportens kursfynd och utbildningsplan-
+    rapportens programfynd kan routas till samma institution. Filplacering
+    är auktoritativ; vid kollision läses ``institution:`` i frontmatter
+    som tiebreaker."""
     mapping: dict[str, str] = {}
     for inst_code, dirname in INST_DIR_NAME.items():
-        kp = VAULT / dirname / "Kursplaner"
-        if not kp.exists():
-            continue
-        for md in kp.rglob("*.md"):
-            if "MOC" in md.stem:
+        for sub in ("Kursplaner", "Utbildningsplaner"):
+            base = VAULT / dirname / sub
+            if not base.exists():
                 continue
-            stem = md.stem
-            if not COURSE_CODE_RE.match(stem):
-                continue
-            if stem in mapping and mapping[stem] != inst_code:
-                try:
-                    text = md.read_text(encoding="utf-8", errors="replace")
-                    m = re.search(r'^institution:\s*"?(\w+)"?', text, re.MULTILINE)
-                    if m:
-                        mapping[stem] = m.group(1)
-                except Exception:
-                    pass
-            else:
-                mapping[stem] = inst_code
+            for md in base.rglob("*.md"):
+                if "MOC" in md.stem:
+                    continue
+                stem = md.stem
+                if not COURSE_CODE_RE.match(stem):
+                    continue
+                if stem in mapping and mapping[stem] != inst_code:
+                    try:
+                        text = md.read_text(encoding="utf-8", errors="replace")
+                        m = re.search(r'^institution:\s*"?(\w+)"?', text, re.MULTILINE)
+                        if m:
+                            mapping[stem] = m.group(1)
+                    except Exception:
+                        pass
+                else:
+                    mapping[stem] = inst_code
     return mapping
 
 # Analysfil → (rapport-sektionsprefix → "Problem"-etikett i analystabellen)
@@ -117,10 +122,24 @@ ANALYS_FILES: dict[str, dict[str, str]] = {
         "Förkunskapskrav saknas":           "Sektion saknas",
         "Förkunskapskrav endast på engelska": "Endast engelsk variant",
         "Förkunskapskrav refererar troligen nedlagd kurs": "Refererar troligen nedlagd kurs",
+        "Förkunskapskrav refererar bekräftat nedlagd kurs": "Refererar bekräftat nedlagd kurs",
+    },
+    "Nedlagda kursreferenser.md": {
+        "Nedlagd kursreferens": "Programmet listar nedlagd kurs",
     },
 }
 
 KURSPLAN_URL = "https://www.du.se/sv/utbildning/kurser/kursplan/?code={code}"
+UTBILDNINGSPLAN_URL = "https://www.du.se/sv/utbildning/Program/utbildningsplan/?code={code}"
+
+
+def plan_url_for(subj: str, code: str) -> str:
+    """Välj rätt du.se-URL beroende på om raden gäller en kurs- eller
+    utbildningsplan. Kontrollerna i ``checks_nedlagda`` sätter ``subj`` till
+    ``Utbildningsplaner`` (folder-namnet) för programreferenser."""
+    if subj.lower().startswith("utbildning"):
+        return UTBILDNINGSPLAN_URL.format(code=code)
+    return KURSPLAN_URL.format(code=code)
 
 # Plocka ut det understrukna ordet/uttrycket ur en detaljkolumn — texten inom
 # första backtickparet. Används vid deduplicering så att t.ex. en träff från
@@ -153,7 +172,7 @@ def dedup_rows(
 # Rapportparsning
 # ─────────────────────────────────────────────────────────────────────────────
 SECTION_RE = re.compile(r"^##\s+(.+?)\s*\(\d+")
-ROW_RE = re.compile(r"^\|\s*([A-ZÅÄÖ0-9][A-Z0-9]{2,8})\s*\|\s*([A-ZÅÄÖ0-9]+)\s*\|(.+?)\|?\s*$")
+ROW_RE = re.compile(r"^\|\s*([A-ZÅÄÖ0-9][A-Z0-9]{2,8})\s*\|\s*([\wÅÄÖåäö ]+?)\s*\|(.+?)\|?\s*$")
 
 
 def parse_rapport(path: Path) -> list[tuple[str, str, str, str]]:
@@ -222,7 +241,7 @@ def build_callout(
         "> | --- | --- | --- | --- |",
     ]
     for code, subj, problem, detail in rows:
-        url = KURSPLAN_URL.format(code=code)
+        url = plan_url_for(subj, code)
         # Escape `##` so Quartz doesn't render it as a heading/tag link inside
         # the table cell — the excerpt quotes raw kursplan markdown verbatim.
         cell_detail = detail.replace("##", r"\##")
@@ -252,7 +271,7 @@ def build_xlsx(rows: list[tuple[str, str, str, str]], output_path: Path, sheet_t
         cell.alignment = Alignment(horizontal="left", vertical="center")
 
     for code, subj, problem, detail in rows:
-        url = KURSPLAN_URL.format(code=code)
+        url = plan_url_for(subj, code)
         ws.append([code, subj, problem, detail, url])
         row_idx = ws.max_row
         kod_cell = ws.cell(row=row_idx, column=1)
@@ -330,6 +349,7 @@ def main():
     dry_run = "--dry-run" in args
 
     rapport_path = None
+    rapport_path_utb = None
     if "--rapport" in args:
         idx = args.index("--rapport")
         rapport_path = Path(args[idx + 1])
@@ -343,14 +363,24 @@ def main():
             print("Fel: Ingen rapport hittad i qa/rapporter/.", file=sys.stderr)
             sys.exit(1)
         rapport_path = max(rapporter, key=lambda p: p.stat().st_mtime)
+        # Same plockning för utbildningsplansrapporten — den är frivillig.
+        # Saknas mappen eller är tom hoppar vi bara över utb-fynden.
+        if RAPPORT_DIR_UTB.exists():
+            rapporter_utb = list(RAPPORT_DIR_UTB.glob("rapport*.md"))
+            if rapporter_utb:
+                rapport_path_utb = max(rapporter_utb, key=lambda p: p.stat().st_mtime)
 
     print(f"\n{CYAN}{BOLD}Populera analysfilerna{RESET}")
-    print(f"  Rapport: {rapport_path.name}")
+    print(f"  Rapport (kursplaner): {rapport_path.name}")
+    if rapport_path_utb:
+        print(f"  Rapport (utb):        {rapport_path_utb.name}")
     if dry_run:
         print(f"  {YELLOW}DRY-RUN — inga filer skrivs{RESET}")
     print()
 
     rapport_rows = parse_rapport(rapport_path)
+    if rapport_path_utb:
+        rapport_rows = rapport_rows + parse_rapport(rapport_path_utb)
 
     by_section: dict[str, list[tuple[str, str, str]]] = defaultdict(list)
     for sec, code, subj, detail in rapport_rows:

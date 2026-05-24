@@ -8,17 +8,43 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Förkunskapskrav.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (5 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Förkunskapskrav.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (31 rader)</span></a>
 
-> [!example]- 5 fynd — klicka för att expandera
+> [!example]- 31 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
 > | [BY1059](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1059) | BYA | Refererar troligen nedlagd kurs | Refererad kurs hittas ej i vaulten (troligen nedlagd): 'Byggprojekt småhus' |
+> | [BY1059](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1059) | BYA | Refererar bekräftat nedlagd kurs | `Byggprojekt småhus` → `BY1055` (nedlagd 2022-04-27); förkunskap nämner nedlagd kurs |
+> | [BY2022](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY2022) | BYA | Refererar bekräftat nedlagd kurs | `Energiteknik` → `EG1000` (nedlagd 2024-05-13); förkunskap nämner nedlagd kurs |
+> | [BY2022](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY2022) | BYA | Refererar bekräftat nedlagd kurs | `Byggprojekt stora byggnader` → `GBY24K` (nedlagd 2023-09-28); förkunskap nämner nedlagd kurs |
+> | [GBY3AX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY3AX) | BYA | Refererar bekräftat nedlagd kurs | `Byggstatik` → `BYB010` (nedlagd 2007-10-22); förkunskap nämner nedlagd kurs |
+> | [ET1029](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ET1029) | ETA | Refererar bekräftat nedlagd kurs | `Programmeringsteknik` → `DT1043` (nedlagd 2018-09-18); förkunskap nämner nedlagd kurs |
+> | [FY1018](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FY1018) | FYA | Refererar bekräftat nedlagd kurs | `Linjär algebra för ingenjörer` → `MA1038` (nedlagd 2019-04-02); förkunskap nämner nedlagd kurs |
+> | [FY1018](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FY1018) | FYA | Refererar bekräftat nedlagd kurs | `Envariabelanalys för ingenjörer` → `MA1039` (nedlagd 2019-09-05); förkunskap nämner nedlagd kurs |
+> | [GIE2MF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2MF) | IEA | Refererar bekräftat nedlagd kurs | `Industriell ekonomi med kalkylering` → `IE1062` (nedlagd 2024-11-06); förkunskap nämner nedlagd kurs |
+> | [GIE36Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE36Y) | IEA | Refererar bekräftat nedlagd kurs | `Industriell ekonomi med kalkylering` → `IE1062` (nedlagd 2024-11-06); förkunskap nämner nedlagd kurs |
+> | [IE1069](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IE1069) | IEA | Refererar bekräftat nedlagd kurs | `Industriell ekonomi med kalkylering` → `IE1062` (nedlagd 2024-11-06); förkunskap nämner nedlagd kurs |
+> | [AIK232](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AIK232) | IKA | Refererar bekräftat nedlagd kurs | `Grundläggande programmering` → `MI1001` (nedlagd 2024-11-06); förkunskap nämner nedlagd kurs |
+> | [GIK23M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK23M) | IKA | Refererar bekräftat nedlagd kurs | `Grundläggande programmering` → `MI1001` (nedlagd 2024-11-06); förkunskap nämner nedlagd kurs |
 > | [GIK2PD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2PD) | IKA | Refererar troligen nedlagd kurs | Refererad kurs hittas ej i vaulten (troligen nedlagd): 'Introduktion till Informatik och eTjänster' |
+> | [GIK2PD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2PD) | IKA | Refererar bekräftat nedlagd kurs | `Introduktion till Informatik` → `IK1016` (nedlagd 2020-06-11); förkunskap nämner nedlagd kurs |
+> | [GIK32L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32L) | IKA | Refererar bekräftat nedlagd kurs | `Layout` → `GT1021` (nedlagd 2014-06-16); förkunskap nämner nedlagd kurs |
 > | [IK1064](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IK1064) | IKA | Refererar troligen nedlagd kurs | Refererad kurs hittas ej i vaulten (troligen nedlagd): 'Java - Grafiska användargränssnitt med Swing' |
+> | [IK1064](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IK1064) | IKA | Refererar bekräftat nedlagd kurs | `Java - Grafiska användargränssnitt med Swing` → `IK1004` (nedlagd 2020-06-11); förkunskap nämner nedlagd kurs |
+> | [IK1066](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IK1066) | IKA | Refererar bekräftat nedlagd kurs | `Introduktion till informatik` → `IK1016` (nedlagd 2020-06-11); förkunskap nämner nedlagd kurs |
+> | [AMD238](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMD238) | MDI | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
+> | [AMD239](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMD239) | MDI | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
 > | [MT1060](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT1060) | MTA | Refererar troligen nedlagd kurs | Refererad kurs hittas ej i vaulten (troligen nedlagd): 'Mekanik grundläggande kurs' |
 > | [EG1012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG1012) | MÖY | Refererar troligen nedlagd kurs | Refererad kurs hittas ej i vaulten (troligen nedlagd): 'Mekanik för energiingenjörer' |
+> | [EG1012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG1012) | MÖY | Refererar bekräftat nedlagd kurs | `Mekanik för energiingenjörer` → `GMT2KD` (nedlagd 2025-12-08); förkunskap nämner nedlagd kurs |
+> | [GSQ23K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ23K) | SQQ | Refererar bekräftat nedlagd kurs | `Arkitektur` → `BY1048` (nedlagd 2015-09-23); förkunskap nämner nedlagd kurs |
+> | [GSQ23K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ23K) | SQQ | Refererar bekräftat nedlagd kurs | `Fysisk planering` → `GSQ25G` (nedlagd 2025-12-08); förkunskap nämner nedlagd kurs |
+> | [GSQ23K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ23K) | SQQ | Refererar bekräftat nedlagd kurs | `Regional planering` → `GSQ25H` (nedlagd 2025-12-08); förkunskap nämner nedlagd kurs |
+> | [GSQ25K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25K) | SQQ | Refererar bekräftat nedlagd kurs | `Regional planering` → `GSQ25H` (nedlagd 2025-12-08); förkunskap nämner nedlagd kurs |
+> | [GSQ25K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25K) | SQQ | Refererar bekräftat nedlagd kurs | `Transportplanering` → `GMI22F` (nedlagd 2024-11-06); förkunskap nämner nedlagd kurs |
+> | [GMI23G](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI23G) | XYZ | Refererar bekräftat nedlagd kurs | `Grundläggande programmering` → `MI1001` (nedlagd 2024-11-06); förkunskap nämner nedlagd kurs |
+> | [GMI26H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI26H) | XYZ | Refererar bekräftat nedlagd kurs | `Grundläggande programmering` → `MI1001` (nedlagd 2024-11-06); förkunskap nämner nedlagd kurs |
 
 ## Syfte
 

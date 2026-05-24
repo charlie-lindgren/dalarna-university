@@ -301,7 +301,7 @@ def check_nedlagda_refs_utb(files: list[Path]) -> list[dict]:
             findings.append({
                 "check": "nedlagd-kursreferens",
                 "code": prog_code,
-                "subj": path.parent.name,
+                "subj": "Utbildningsplan",
                 "detail": detail,
             })
     return findings
