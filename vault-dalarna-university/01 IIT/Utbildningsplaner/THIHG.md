@@ -120,7 +120,7 @@ Under programmets senare del knyts kraft- och värmeteknik ihop med energieffekt
 - [[GEG2ZR|Introduktion till hållbara energisystem]], 4,5 hp
 - [[MD2025|Linjär algebra]], 7,5 hp
 - [[GIK299|Objektorienterad programmering]], 7,5 hp
-- Utvecklingsprojekt, tillverkning av en solfångare, 7,5 hp
+- [[GEG2JP|Utvecklingsprojekt, tillverkning av en solfångare]], 7,5 hp
 
 **År 2**
 

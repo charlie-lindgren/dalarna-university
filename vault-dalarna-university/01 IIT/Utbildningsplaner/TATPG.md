@@ -4,7 +4,7 @@ programnamn: "Assisterande teknikprogrammet"
 institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-12-19 . Gäller fr.o.m.  HT 2025."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: acfa318445dfaba4
+scrape_hash: 11882bd9cf749bbf
 up: "IIT MOC"
 ---
 
@@ -21,8 +21,8 @@ up: "IIT MOC"
 ### 
 1.1 Mål enligt Högskolelagen (1992:1434), 1 kap. 8 §:
 
-Huvudområdet assisterande teknik är ett tvärvetenskapligt område inriktat på teknik som används utanför kroppen för att optimera funktionstillstånd hos personer med funktionsnedsättning och minska funktionshinder.**  
-**  
+Huvudområdet assisterande teknik är ett tvärvetenskapligt område inriktat på teknik som används utanför kroppen för att optimera funktionstillstånd hos personer med funktionsnedsättning och minska funktionshinder.  
+  
 Utbildning på grundnivå ska väsentligen bygga på de kunskaper som eleverna får på nationella program i gymnasieskolan eller motsvarande kunskaper.
 
 Utbildning på grundnivå ska utveckla studenternas

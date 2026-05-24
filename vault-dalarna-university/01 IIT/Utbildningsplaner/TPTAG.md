@@ -4,7 +4,7 @@ programnamn: "Produktionstekniker inom maskinteknik - högskoleexamensprogram"
 institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2023-03-28 . Gäller fr.o.m.  VT 2023."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: c6ca968674c918f1
+scrape_hash: 0d6d6355d815b993
 up: "IIT MOC"
 ---
 

@@ -4,7 +4,7 @@ programnamn: "Magisterprogram i fysioterapi"
 institution: "IHV"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2026-01-14 . Gäller fr.o.m.  HT 2025."
 tags: [utbildningsplan, program, IHV]
-scrape_hash: 5f219072da9c025a
+scrape_hash: c40068538a21c4a4
 up: "IHV MOC"
 ---
 

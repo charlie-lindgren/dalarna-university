@@ -4,7 +4,7 @@ programnamn: "Masterprogram i solenergiteknik"
 institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2024-06-12 . Gäller fr.o.m.  HT 2025."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: 91dd84249dcc2f8f
+scrape_hash: c3a37f1f35860f04
 up: "IIT MOC"
 ---
 
@@ -34,8 +34,7 @@ Utbildning på avancerad nivå ska innebära fördjupning av kunskaper, färdigh
 ### 
 1.2 Examensmål enligt Högskoleförordningen (1993:100), bilaga 2:
 
-_  
-Kunskap och förståelse_
+_Kunskap och förståelse_
 
   - visa kunskap och förståelse inom huvudområdet för utbildningen, inbegripet såväl brett kunnande inom området som väsentligt fördjupade kunskaper inom vissa delar av området samt fördjupad insikt i aktuellt forsknings- och utvecklingsarbete, och
 
@@ -129,7 +128,7 @@ Examensarbetet kan utföras vid ett universitet/högskola, eller på ett företa
 - [[AEG2B5|Projektkurs 3 – grupprojekt och kommunikation]], 5 hp
 - [[AEG2AW|Urbana energisystem]], 7.5 hp
 
-* **Kurser som krävs för att programmålen ska uppfyllas.**
+*** Kurser som krävs för att programmålen ska uppfyllas.**
 
 
 **Valbar kurs:**

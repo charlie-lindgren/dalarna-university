@@ -3,19 +3,14 @@ programkod: LLL3A
 programnamn: "Grundlärarprogrammet förskoleklass och grundskolans årskurs 1-3"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
-tags: [utbildningsplan, program, ISLL, tvärfakultet]
-scrape_hash: 1b773e29d2804427
+tags: [utbildningsplan, program, ISLL]
+scrape_hash: 96658b28760d02cf
 up: "ISLL MOC"
 ---
 
 # LLL3A
 
 **Programnamn:** Grundlärarprogrammet förskoleklass och grundskolans årskurs 1-3
-
-> [!info] Tvärfakultetsprogram
-> Detta program inkluderar kurser från flera fakulteter och visas
-> därför fristående i den globala grafvyn — kurslänkar bevaras dock
-> som vanliga hyperlänkar i texten nedan.
 
 - **Programkod:** LLL3A
 - **Programansvarig:** Hannele Junkala
@@ -79,7 +74,7 @@ För grundlärarexamen med inriktning mot arbete i förskoleklass och grundskola
 
 ## 2. Huvudsaklig uppläggning
 
-**Omfattning enligt högskoleförordningen (1993:100); bilaga 2 samt Förordning om utbildning till lärare och förskollärare 2021:1335. ** 
+**Omfattning enligt högskoleförordningen (1993:100); bilaga 2 samt Förordning om utbildning till lärare och förskollärare 2021:1335.**  
 
 Grundlärarexamen med inriktning mot arbete i förskoleklass och grundskolans årskurs 1-3 avläggs på avancerad nivå och uppnås efter att studenten fullgjort kursfordringar om 240 högskolepoäng.
 
@@ -123,8 +118,8 @@ Grundlärarutbildningen vid Högskolan Dalarna kännetecknas av en nära och vä
 Den kontinuerliga partnersamverkan innebär att teori och praktik ständigt integreras genom att studenten under sina högskoleförlagda studier genomför ett antal fältdagar i skolan, samtidigt som de verksamhetsförlagda delarna av utbildningen även består av studier och seminarier tillsammans med högskoleförlagda lärarutbildare.  
 Samverkan sker även genom att examensarbetet kopplas till såväl högskolans forskningsmiljöer som till grundskolors utvecklingsbehov. Examensarbetet utgår från angelägna utvecklingsområden/frågeställningar för att därigenom kunna bidra till utveckling av skolans verksamhet.
 
-**Internationalisering  
-**Inom programmet ges internationella och globala perspektiv genom kurslitteraturen, möten med internationella gästlärare och studenter på campus och via nätet samt genom att studenten erbjuds möjlighet att läsa kurser utomlands. Inom programmet ges möjlighet till utlandsstudier inom utbildningens samtliga områden eftersom programmets kurser kan ersättas med kurser vid något av de utländska lärosäten som Högskolan Dalarna har avtal med.
+**Internationalisering**  
+Inom programmet ges internationella och globala perspektiv genom kurslitteraturen, möten med internationella gästlärare och studenter på campus och via nätet samt genom att studenten erbjuds möjlighet att läsa kurser utomlands. Inom programmet ges möjlighet till utlandsstudier inom utbildningens samtliga områden eftersom programmets kurser kan ersättas med kurser vid något av de utländska lärosäten som Högskolan Dalarna har avtal med.
 
 ## 3. Programmets kurser
 
@@ -147,7 +142,7 @@ Samverkan sker även genom att examensarbetet kopplas till såväl högskolans f
 **_Examensarbete_**
 
 - Inom ramen för grundlärarprogrammet inriktning förskoleklass och grundskolans årskurs 1-3 genomför de studerande ett självständigt ämnesdidaktiskt examensarbete om sammanlagt, 30 högskolepoäng
-- Vid Högskolan Dalarna är examensarbetet en angelägenhet för hela utbildningen och inte enbart de specifika examensarbeteskurserna. Förmågan till vetenskapligt tänkande och skrivande utvecklas successivt under utbildningen, men fokuseras i kärnkursen Vetenskapsteori och utbildningsvetenskaplig forskning (7, 5 hp
+- Vid Högskolan Dalarna är examensarbetet en angelägenhet för hela utbildningen och inte enbart de specifika examensarbeteskurserna. Förmågan till vetenskapligt tänkande och skrivande utvecklas successivt under utbildningen, men fokuseras i kärnkursen Vetenskapsteori och utbildningsvetenskaplig forskning, 7,5 hp
 
 **Lärarstudenterna genomför sitt examensarbete inom något av de ämnesdidaktiska områden som byggs upp dels av den forsknings- och handledarkompetens som finns vid högskolan, dels utifrån de kunskaps- och utvecklingsbehov som finns hos högskolans partnerskolor och partnerområden. De studerande möter representanter för de ämnesdidaktiska områdena tidigt i utbildningen för att informeras om aktuell och pågående forskning, och får då möjlighet att diskutera idéer relaterade till examensarbetet som uppkommit under såväl ämnesstudierna som den verksamhetsförlagda utbildningen. Del 1 av examensarbetet är forskningsförberedande och inriktas i första hand mot kartläggning och analys av tidigare forskning utifrån en avgränsad ämnesdidaktisk frågeställning. Därigenom läggs en vetenskaplig grund för del 2 där de studerande genomför en egen studie som baseras på empiriskt material och som förväntas bidra till kunskapsutvecklingen inom det ämnesdidaktiska området såväl som till den vetenskapliga utvecklingen av yrkesverksamheten.**
 
@@ -156,14 +151,14 @@ Samverkan sker även genom att examensarbetet kopplas till såväl högskolans f
 
 - Programmets kurser inom pedagogiskt arbete består av utbildningsvetenskaplig kärna, 60 högskolepoäng
 - <a class="no-graph" href="GPG3CK">Skolväsendets historia och samhällsuppdrag - förskoleklass och grundskolan åk 1–6</a>, 15 hp
-- Didaktik och ledarskap i förskoleklass och grundskolans åk 1–3 (varav, 7,5 hp
-- Utveckling och lärande i förskoleklass och grundskolans åk 1–3 (varav, 7,5 hp
-- Sociala relationer, konflikter och makt i förskoleklass och grundskolan åk 1–3 (varav, 7,5 hp
+- Didaktik och ledarskap i förskoleklass och grundskolans åk 1–3, 15 hp
+- <a class="no-graph" href="GPG3CF">Utveckling och lärande i förskoleklass och grundskolans åk 1–3</a>, 15 hp
+- <a class="no-graph" href="GPG2M9">Sociala relationer, konflikter och makt i förskoleklass och grundskolan åk 1–3</a>, 15 hp
 - <a class="no-graph" href="PG3024">Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare F-3</a>, 7,5 hp
-- Vetenskapsteori och utbildningsvetenskaplig forskning för grundlärare F -3, 7,5 hp
+- <a class="no-graph" href="APG244">Vetenskapsteori och utbildningsvetenskaplig forskning för grundlärare F -3</a>, 7,5 hp
 - <a class="no-graph" href="GPG2E6">Examensarbete för grundlärarexamen inriktning F-3 del 1</a>, 15 hp
 - <a class="no-graph" href="APG246">Examensarbete för grundlärarexamen inriktning F-3 del 2</a>, 15 hp
-- Utvärdering och utvecklingsarbete i förskoleklass och grundskolans åk 1–3 (inklusive, 7,5 hp
+- Utvärdering och utvecklingsarbete i förskoleklass och grundskolans åk 1–3, 15 hp
 - Ämnesstudier, 120 högskolepoäng
 
 **Kurserna inom de centrala ämnesstudierna är yrkesförberedande i den mening att såväl innehåll som arbetsformer förbereder för pedagogisk verksamhet inom förskoleklass och grundskolans årskurs 1-3. Det innebär att kurserna genomsyras av reflektion över ämnesinnehåll, ämnesområdenas centrala begrepp samt kunskaper om elevers utveckling och lärande. Genom dessa kurser tillägnar sig studenten så kvalificerade kunskaper att hen självständigt kan förhålla sig till styrdokumentens krav, välja innehåll i verksamheten och analysera konsekvenserna av de didaktiska valen. Praktiska och estetiska moment integreras i samtliga kurser.**
@@ -171,12 +166,12 @@ Samverkan sker även genom att examensarbetet kopplas till såväl högskolans f
 
 **_Programmets kurser inom ämnesstudier_**
 
-- Svenska 1 för grundlärare F-3: Barns språkutveckling, språklig variation samt barn- och ungdomslitteratur, 15 hp
+- [[GSV2ZV|Svenska 1 för grundlärare F-3: Barns språkutveckling, språklig variation samt barn- och ungdomslitteratur]], 15 hp
 - <a class="no-graph" href="GMD2HE">Matematik 1a för grundlärare F-3</a>, 7,5 hp
 - <a class="no-graph" href="GMD2HF">Matematik 1b för grundlärare F-3</a>, 7,5 hp
 - <a class="no-graph" href="NV1036">Tematisk kurs inom SO, NO och teknik för grundlärare årskurs F-3</a>, 30 hp
-- Engelska för grundlärare åk F-3, 15 hp
-- Svenska 2 för grundlärare F-3: Läs- och skrivutveckling och läs- och skrivundervisning, 15 hp
+- [[GEN2BJ|Engelska för grundlärare åk F-3]], 15 hp
+- [[GSV2ZW|Svenska 2 för grundlärare F-3: Läs- och skrivutveckling och läs- och skrivundervisning]], 15 hp
 - Text, kommunikation och lärande i en mångkulturell skola, 15 hp
 - <a class="no-graph" href="GMD2HG">Matematik 2 för grundlärare F-3</a>, 15 hp
 

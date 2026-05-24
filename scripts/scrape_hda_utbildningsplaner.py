@@ -121,7 +121,11 @@ def build_kursplan_index() -> dict[str, tuple[str, str]]:
         except Exception:
             continue
         if kursnamn and institution:
-            index[kursnamn.lower()] = (code, institution)
+            key = kursnamn.lower()
+            index[key] = (code, institution)
+            agg = _normalize_aggressive(kursnamn)
+            if agg != key:
+                index.setdefault(agg, (code, institution))
             if ":" in kursnamn:
                 suffix = kursnamn.split(":", 1)[1].strip().lower()
                 if suffix and len(suffix) >= 8:
@@ -138,8 +142,10 @@ def build_kursplan_index() -> dict[str, tuple[str, str]]:
 
 def _normalize_course_name(raw: str) -> str:
     """Strip common prefixes/suffixes to get a clean course name for index lookup."""
-    name = re.sub(r"^[\-–—•*]+\s*", "", raw.strip())
-    name = re.sub(r"\*+$", "", name).strip()
+    name = re.sub(r"^[\-–—•*_]+\s*", "", raw.strip())
+    # Strip numbered prefix: "1.", "1)", "1:" used inside HAFSA's italic lists.
+    name = re.sub(r"^\d+[\.\):]\s*", "", name).strip()
+    name = re.sub(r"[\*_]+$", "", name).strip()
     # Strip trailing level qualifiers: ", avancerad nivå", ", grundnivå"
     name = re.sub(r",\s*(?:avancerad|grund)\s*nivå$", "", name, flags=re.I).strip()
     # Strip parenthesized subject tags: "(FÖ)", "(EU)", "(Idrott- och hälsovetenskap)"
@@ -149,27 +155,64 @@ def _normalize_course_name(raw: str) -> str:
     return name
 
 
-# HP patterns for parsing course lines
+_AKK_RE = re.compile(r"\b(?:åk|årskurs)\s+(?=[F\d])", re.I)
+_DASH_WS_RE = re.compile(r"\s*[-–—]\s*")
+_MULTI_WS_RE = re.compile(r"\s+")
+
+
+def _normalize_aggressive(name: str) -> str:
+    """Forgiving form for matcher lookups.
+
+    Lowercase, drop ``åk``/``årskurs`` tokens before a grade range, collapse
+    whitespace around dashes (``F -3`` → ``F-3``) and unify dash variants.
+    Used in addition to the strict index key so programme bullets phrased
+    slightly differently than the kursplan title still match.
+    """
+    n = name.strip().lower()
+    n = _AKK_RE.sub("", n)
+    n = _DASH_WS_RE.sub("-", n)
+    n = _MULTI_WS_RE.sub(" ", n)
+    return n.strip()
+
+
+# HP patterns for parsing course lines. The leading ``(`` lets the regex
+# pick up ``Course (7,5 hp)`` forms (HMILA/HTESA style) — but when the line
+# also contains a plain ``, N hp`` outside the parens (LU79A: ``Course
+# (varav 10 hp VFU), 15 hp``) we prefer the outside match in
+# ``_parse_course_line`` below.
 _HP_EXPLICIT_RE = re.compile(
-    r"[,\s]+(\d[\d,]*(?:[.,]\d+)?\s*(?:hp|högskolepoäng))",
+    r"[,\s(]+(\d[\d,]*(?:[.,]\d+)?\s*(?:hp|högskolepoäng))",
     re.I,
 )
 _HP_BARE_RE = re.compile(
-    r"[,\s]+(\d+[.,]\d+)\s*(?:[–(*†\[]|$)",  # decimal number (7,5) without unit
+    r"[,\s(]+(\d+[.,]\d+)\s*(?:[–(*†\[)]|$)",  # decimal number (7,5) without unit
 )
 
 
+def _inside_paren_at(line: str, pos: int) -> bool:
+    """True if ``line[pos]`` sits inside an unclosed ``(`` … ``)`` group."""
+    depth = 0
+    for c in line[:pos]:
+        if c == "(":
+            depth += 1
+        elif c == ")" and depth:
+            depth -= 1
+    return depth > 0
+
+
 def _parse_course_line(line: str) -> tuple[str, str] | None:
-    """Parse a course line into (raw_name, hp_text) or None if not a course."""
-    # Strategy 1: explicit hp/högskolepoäng
-    m = _HP_EXPLICIT_RE.search(line)
-    if m:
-        name = line[:m.start()].strip()
-        if name:
-            return (name, m.group(1).strip())
-    # Strategy 2: bare decimal number (7,5 / 15,0) — avoids matching headings like "År 1"
-    m = _HP_BARE_RE.search(line)
-    if m:
+    """Parse a course line into (raw_name, hp_text) or None if not a course.
+
+    When several hp tokens appear (e.g. ``Course (varav 10 hp VFU), 15 hp``)
+    we prefer the one that is not inside a parenthesised note — that's the
+    course's official hp, not a sub-clause about VFU.
+    """
+    for regex in (_HP_EXPLICIT_RE, _HP_BARE_RE):
+        matches = list(regex.finditer(line))
+        if not matches:
+            continue
+        non_paren = [m for m in matches if not _inside_paren_at(line, m.start())]
+        m = non_paren[0] if non_paren else matches[0]
         name = line[:m.start()].strip()
         if name:
             return (name, m.group(1).strip())
@@ -178,8 +221,10 @@ def _parse_course_line(line: str) -> tuple[str, str] | None:
 
 def _lookup_course(raw_name: str, kursplan_index: dict) -> tuple[str, str] | None:
     """Try progressively more aggressive normalization against the index."""
-    # 1. Direct lookup (after stripping bullets)
-    clean = re.sub(r"^[\-–—•*]+\s*", "", raw_name.strip()).rstrip("*").strip()
+    # 1. Direct lookup (after stripping bullets, italic markers, numbered prefix)
+    clean = re.sub(r"^[\-–—•*_]+\s*", "", raw_name.strip())
+    clean = re.sub(r"^\d+[\.\):]\s*", "", clean)
+    clean = re.sub(r"[\*_]+$", "", clean).strip()
     lookup = clean.lower()
     if lookup in kursplan_index:
         return kursplan_index[lookup]
@@ -191,6 +236,22 @@ def _lookup_course(raw_name: str, kursplan_index: dict) -> tuple[str, str] | Non
     normalized = _normalize_course_name(raw_name).lower()
     if normalized != lookup and normalized in kursplan_index:
         return kursplan_index[normalized]
+    # 4. Aggressive normalization: forgive "åk F-3" vs "F-3", "F -3" vs "F-3".
+    aggressive = _normalize_aggressive(clean)
+    if aggressive in kursplan_index:
+        return kursplan_index[aggressive]
+    # 5. Colon-prefix: programme bullets often append a descriptive subtitle
+    #    ("Svenska 1 för grundlärare F-3: Barns språkutveckling, ...") that the
+    #    kursplan title does not carry. Try the prefix part.
+    if ":" in clean:
+        prefix = clean.split(":", 1)[0].strip()
+        if prefix:
+            prefix_lookup = prefix.lower()
+            if prefix_lookup in kursplan_index:
+                return kursplan_index[prefix_lookup]
+            prefix_agg = _normalize_aggressive(prefix)
+            if prefix_agg in kursplan_index:
+                return kursplan_index[prefix_agg]
     return None
 
 

@@ -4,7 +4,7 @@ programnamn: "Masterprogram i hållbarhet och turism"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2024-09-18 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: a6fc7ab236a12683
+scrape_hash: 53003a36e4af0bc9
 up: "IKS MOC"
 ---
 
@@ -39,8 +39,8 @@ För Masterexamen skall studenten:
 • visa kunskap och förståelse inom huvudområdet för utbildningen, inbegripet såväl överblick över området som fördjupade kunskaper inom vissa delar av området samt insikt i aktuellt forsknings- och utvecklingsarbete, och avsevärt fördjupad kunskap inom särskilda områden, liksom insikt i aktuell forskning och pågående strategiskt utvecklingsarbete och  
 • visa fördjupad metodkunskap inom huvudområdet för utbildningen.
 
-_Färdighet och förmåga  
-_  
+_Färdighet och förmåga_  
+  
 För Masterexamen skall studenten:  
   
 • visa förmåga att kritiskt och systematiskt integrera kunskap och att analysera, bedöma och hantera komplexa företeelser, frågeställningar och situationer även med begränsad information,  
@@ -61,19 +61,19 @@ För Masterexamen skall studenten:
 
 Efter avslutad utbildning skall studenten kunna visa:  
   
-_Kunskap och förståelse   
+_Kunskap och förståelse_   
   
-_• visa fördjupade kunskaper om teoribildning och forskningsläge inom turismvetenskap och hållbar utveckling av platser och destinationer  
+• visa fördjupade kunskaper om teoribildning och forskningsläge inom turismvetenskap och hållbar utveckling av platser och destinationer  
 • visa förmåga att kritiskt och självständigt reflektera kring hållbarhetsfrågornas komplexitet och knyta aktuell forskning till specifika kontexter  
    
-_Färdighet och förmåga  
-_  
+_Färdighet och förmåga_  
+  
 • visa förmåga att kritiskt förhålla sig till och skriftligt såväl som muntligt kunna redogöra för aktuella samhällsfrågor ur ett turismvetenskapligt perspektiv  
 • visa förmåga att formulera teoretiskt och metodologiskt grundade vetenskapliga frågeställningar  
 • visa förmåga att samla in, bearbeta, analysera och presentera ett empiriskt material samt knyta detta till relevanta begrepp och teorier i form av ett examensarbete  
   
-_Värderingsförmåga och förhållningssätt  
-_  
+_Värderingsförmåga och förhållningssätt_  
+  
 • visa förmåga att kritiskt analysera förutsättningar för och konsekvenser av olika strategier för hållbar utveckling av platser och turistdestinationer
 
 ## 2. Huvudsaklig uppläggning

@@ -4,7 +4,7 @@ programnamn: "Medieproduktionsprogrammet för TV och sociala medier"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-01-15 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: adee9f71ed2b17da
+scrape_hash: b4c205cc437b2cb6
 up: "IKS MOC"
 ---
 
@@ -59,18 +59,18 @@ För kandidatexamen skall studenten:
 ### 
 1.3 Utbildningsprogrammets mål
 
-_Kunskap och förståelse  
+_Kunskap och förståelse_  
    
-_För kandidatexamen skall studenten:   
+För kandidatexamen skall studenten:   
 - kunna redogöra för konventioner och alternativ inom audiovisuellt berättande.  
   
-_Färdighet och förmåga  
-_  
+_Färdighet och förmåga_  
+  
 För kandidatexamen skall studenten:   
 - visa förmåga till konceptutveckling och producentperspektiv samt tillämpa detta genom medieproduktion, med integrerade praktiska och teoretiska aspekter, inom tv-nyhetsproduktion, flerkameraproduktion, informationsfilm, reklamfilm och produktioner för sociala medier.  
   
-_Värderingsförmåga och förhållningssätt  
-_  
+_Värderingsförmåga och förhållningssätt_  
+  
 För kandidatexamen ska studenten:  
 - visa utvecklad förmåga att gestalta och göra kreativa val utifrån en kommunikationssituation.
 

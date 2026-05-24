@@ -4,7 +4,7 @@ programnamn: "Ämneslärarprogrammet årskurs 7-9 arbetsintegrerad utbildning me
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-02-12 . Gäller fr.o.m.  HT 2025."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: 4c73e5c8f417ae97
+scrape_hash: ff6acb6a8dbc66b9
 up: "IKS MOC"
 ---
 
@@ -35,8 +35,8 @@ Utbildning på avancerad nivå ska innebära fördjupning av kunskaper, färdigh
 
 För ämneslärarexamen ska studenten visa sådan kunskap och förmåga som krävs för att självständigt arbeta som ämneslärare i den verksamhet som utbildningen avser. Studenten ska även visa kunskap och förmåga för annan undervisning för vilken examen enligt gällande föreskrifter kan ge behörighet.
 
-**Kunskap och förståelse  
-**För ämneslärarexamen med inriktning mot arbete i årskurs 7–9 ska studenten
+**Kunskap och förståelse**  
+För ämneslärarexamen med inriktning mot arbete i årskurs 7–9 ska studenten
 
   - visa sådana ämneskunskaper som krävs för yrkesutövningen, inbegripet såväl överblick över ämnesstudiernas huvudområde som fördjupade kunskaper inom vissa delar av detta område och insikt i aktuellt forsknings- och utvecklingsarbete.
 
@@ -54,8 +54,8 @@ För ämneslärarexamen ska studenten också
 
   - visa fördjupad kunskap om bedömning och betygsättning.
 
-**Färdigheter och förmåga  
-**För ämneslärarexamen ska studenten
+**Färdigheter och förmåga**  
+För ämneslärarexamen ska studenten
 
   - visa fördjupad förmåga att skapa förutsättningar för alla elever att lära och utvecklas,
 
@@ -183,7 +183,7 @@ T11: Examensarbete
 **År 6**
 
 - <a class="no-graph" href="AIH237">Examensarbete i idrott och hälsa för ämneslärarexamen inriktning grundskolans årskurs 7–9</a>, 15 hp
-- _Examensarbete i matematik för ämneslärarexamen inriktning grundskolans årskurs 7–9, 15 hp
+- <a class="no-graph" href="AMD239">Examensarbete i matematik för ämneslärarexamen inriktning grundskolans årskurs 7–9</a>, 15 hp
 
 ## 4. Examensbenämning
 

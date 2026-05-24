@@ -4,7 +4,7 @@ programnamn: "Musik- och ljudproduktionsprogrammet"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-01-15 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: 0287aabffdef081e
+scrape_hash: ff919bad8230ef68
 up: "IKS MOC"
 ---
 
@@ -36,8 +36,8 @@ Inom det område som utbildningen avser ska studenterna, utöver kunskaper och f
 ### 
 1.2 Examensmål enligt Högskoleförordningen (1993:100), bilaga 2:
 
-_Kunskap och förståelse  
-_    
+_Kunskap och förståelse_  
+    
 För kandidatexamen skall studenten:    
 - visa kunskap och förståelse inom huvudområdet för utbildningen, inbegripet kunskap om områdets vetenskapliga grund, kunskap om tillämpliga metoder inom området, fördjupning inom någon del av området samt orientering om aktuella forskningsfrågor.  
     
@@ -59,19 +59,19 @@ För kandidatexamen skall studenten:
 ### 
 1.3 Utbildningsprogrammets mål
 
-_Kunskap och förståelse  
- _  
+_Kunskap och förståelse_  
+   
 För kandidatexamen skall studenten:   
 - kunna redogöra för hur musik skapas, produceras och distribueras, samt för musikproducentskap och dess olika produktionsprocesser och villkor,  
 - kunna redogöra för ljudets fysikaliska egenskaper och relation till olika akustiska miljöer samt reflektera över lyssnandets funktioner.  
   
-_Färdighet och förmåga  
-_   
+_Färdighet och förmåga_  
+   
 För kandidatexamen skall studenten:   
 - visa förmåga att gestalta med både ljud och musik och tillämpa dem som narrativa funktioner i en medieproduktion.  
   
-_Värderingsförmåga och förhållningssätt  
-_  
+_Värderingsförmåga och förhållningssätt_  
+  
 För kandidatexamen ska studenten:  
 - utvecklad förmåga att göra kreativa val.
 

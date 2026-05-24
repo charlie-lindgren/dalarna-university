@@ -168,7 +168,7 @@ Under den sjätte terminens kurs Projektarbete inom medieproduktion, fördjupnin
 
 - [[GLP2CX|Musikskapande]], 7,5 hp
 - [[LP1074|Analys av musikproduktioner]], 7,5 hp
-- Produktionsprocesser och -villkor inom musikproduktion, 7,5 hp
+- [[LP1072|Produktionsprocesser och -villkor inom musikproduktion]], 7,5 hp
 - [[LP1071|Från idé till master]], 7,5 hp
 
 **Termin 4**

@@ -3,19 +3,14 @@ programkod: LLL6A
 programnamn: "Grundlärarprogrammet grundskolans årskurs 4-6"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
-tags: [utbildningsplan, program, ISLL, tvärfakultet]
-scrape_hash: 6301faebc79283a9
+tags: [utbildningsplan, program, ISLL]
+scrape_hash: 1378278d64b2349a
 up: "ISLL MOC"
 ---
 
 # LLL6A
 
 **Programnamn:** Grundlärarprogrammet grundskolans årskurs 4-6
-
-> [!info] Tvärfakultetsprogram
-> Detta program inkluderar kurser från flera fakulteter och visas
-> därför fristående i den globala grafvyn — kurslänkar bevaras dock
-> som vanliga hyperlänkar i texten nedan.
 
 - **Programkod:** LLL6A
 - **Programansvarig:** Hannele Junkala
@@ -79,7 +74,7 @@ För grundlärarexamen med inriktning mot arbete i grundskolans årskurs 4-6 ska
 
 ## 2. Huvudsaklig uppläggning
 
-**Omfattning enligt högskoleförordningen (1993:100); bilaga 2 samt Förordning om utbildning till lärare och förskollärare 2021:1335. ** 
+**Omfattning enligt högskoleförordningen (1993:100); bilaga 2 samt Förordning om utbildning till lärare och förskollärare 2021:1335.**  
 
 Grundlärarexamen med inriktning mot arbete i grundskolans årskurs 4–6 avläggs på avancerad nivå och uppnås efter att studenten fullgjort kursfordringar om 240 högskolepoäng. 
 
@@ -151,7 +146,7 @@ Inom programmets kurser ges internationella och globala perspektiv via litteratu
 **_Examensarbete_**
 
 - Inom ramen för grundlärarprogrammet inriktning grundskolans årskurs 4-6 genomför de studerande ett självständigt ämnesdidaktiskt examensarbete om sammanlagt, 30 högskolepoäng
-- Vid Högskolan Dalarna är examensarbetet en angelägenhet för hela utbildningen och inte enbart de specifika examensarbeteskurserna. Förmågan till vetenskapligt tänkande och skrivande utvecklas successivt under utbildningen, men fokuseras i kärnkursen Vetenskapsteori och utbildningsvetenskaplig forskning (7, 5 hp
+- Vid Högskolan Dalarna är examensarbetet en angelägenhet för hela utbildningen och inte enbart de specifika examensarbeteskurserna. Förmågan till vetenskapligt tänkande och skrivande utvecklas successivt under utbildningen, men fokuseras i kärnkursen Vetenskapsteori och utbildningsvetenskaplig forskning, 7,5 hp
 
 **Lärarstudenterna genomför sitt examensarbete inom något av de ämnesdidaktiska områden som byggs upp dels av den forsknings- och handledarkompetens som finns vid högskolan, dels utifrån de kunskaps- och utvecklingsbehov som finns hos högskolans partnerskolor och partnerområden. De studerande möter representanter för de ämnesdidaktiska områdena tidigt i utbildningen för att informeras om aktuell och pågående forskning, och får då möjlighet att diskutera idéer relaterade till examensarbetet som uppkommit under såväl ämnesstudierna som den verksamhetsförlagda utbildningen. Del 1 av examensarbetet är forskningsförberedande och inriktas i första hand mot kartläggning och analys av tidigare forskning utifrån en väl avgränsad ämnesdidaktisk frågeställning. Därigenom läggs en vetenskaplig grund för del 2 där de studerande genomför en egen studie som baseras på empiriskt material och som förväntas bidra till kunskapsutvecklingen inom det ämnesdidaktiska området såväl som till den vetenskapliga utvecklingen av yrkesverksamheten.**
 
@@ -160,14 +155,14 @@ Inom programmets kurser ges internationella och globala perspektiv via litteratu
 
 - Programmets kurser inom pedagogiskt arbete består av utbildningsvetenskaplig kärna, 60 högskolepoäng
 - <a class="no-graph" href="GPG3CK">Skolväsendets historia och samhällsuppdrag - förskoleklass och grundskolan åk 1–6</a>, 15 hp
-- Didaktik och ledarskap i grundskolans åk 4–6 (varav, 7,5 hp
-- Utveckling och lärande i grundskolans åk 4–6 (varav, 7,5 hp
-- Sociala relationer, konflikter och makt i grundskolan åk 4–6, (inklusive, 7,5 hp
+- Didaktik och ledarskap i grundskolans åk 4–6, 15 hp
+- <a class="no-graph" href="GPG3CG">Utveckling och lärande i grundskolans åk 4–6</a>, 15 hp
+- Sociala relationer, konflikter och makt i grundskolan åk 4–6,, 15 hp
 - <a class="no-graph" href="PG3025">Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare 4–6</a>, 7,5 hp
 - <a class="no-graph" href="APG245">Vetenskapsteori och utbildningsvetenskaplig forskning för grundlärare 4–6</a>, 7,5 hp
 - Examensarbete för grundlärarexamen inriktning 4–6 – del 1, 15 hp
 - Examensarbete för grundlärarexamen inriktning 4–6 – del 2, 15 hp
-- Utvärdering och utvecklingsarbete i grundskolans åk 4–6 (varav, 7,5 hp
+- Utvärdering och utvecklingsarbete i grundskolans åk 4–6, 15 hp
 - Ämnesstudier, 120 högskolepoäng
 
 **Kurser inom de centrala ämnesstudierna är yrkesförberedande i den mening att såväl innehåll som arbetsformer förbereder för pedagogisk verksamhet inom grundskolans årskurs 4-6. Det innebär att kurserna genomsyras av reflektion över ämnesinnehåll, ämnesområdenas centrala begrepp samt kunskaper om elevers utveckling och lärande. Genom dessa kurser tillägnar sig studenten så kvalificerade kunskaper att hen självständigt kan bedöma styrdokumentens krav, överväga och välja innehåll i verksamheten och analysera konsekvenserna av de didaktiska valen. Praktiska och estetiska moment integreras i samtliga kurser.**
@@ -175,20 +170,20 @@ Inom programmets kurser ges internationella och globala perspektiv via litteratu
 
 **_Programmets kurser_**
 
-- Svenska 1 för grundlärare 4–6: Barns språkutveckling, språklig variation samt barn- och ungdomslitteratur, 15 hp
+- [[GSV2ZU|Svenska 1 för grundlärare 4–6: Barns språkutveckling, språklig variation samt barn- och ungdomslitteratur]], 15 hp
 - <a class="no-graph" href="GMD2HH">Matematik 1a för grundlärare 4–6</a>, 7,5 hp
 - <a class="no-graph" href="GMD2HJ">Matematik 1b för grundlärare 4–6</a>, 7,5 hp
 - Engelska för grundlärare åk 4-6 1a, 15 hp
 - Engelska för grundlärare åk 4-6 1b, 15 hp
-- Svenska 2 för grundlärare 4–6: Läs- och skrivutveckling och läs och skrivundervisning, 15 hp
+- [[GSV2ZX|Svenska 2 för grundlärare 4–6: Läs- och skrivutveckling och läs och skrivundervisning]], 15 hp
 - <a class="no-graph" href="GMD2HK">Matematik 2 för grundlärare 4–6</a>, 15 hp
 
 **Fyra alternativa kurser valbara utifrån aktuellt kursutbud**
 
-- 1. Bild för grundlärare, årskurs 4–6, 30 hp
-- 2. Idrott för grundlärare, årskurs 4–6, 30 hp
-- 3. Samhällsorienterande ämnen, åk 4–6, 30 hp
-- 4. Naturorienterande ämnen och teknik för grundlärare, åk 4–6, 30 hp
+- <a class="no-graph" href="GBP32U">Bild för grundlärare, årskurs 4–6</a>, 30 hp
+- Idrott för grundlärare, årskurs 4–6, 30 hp
+- <a class="no-graph" href="GPG2SC">Samhällsorienterande ämnen, åk 4–6</a>, 30 hp
+- <a class="no-graph" href="GNV367">Naturorienterande ämnen och teknik för grundlärare, åk 4–6</a>, 30 hp
 
 ## 4. Examensbenämning
 

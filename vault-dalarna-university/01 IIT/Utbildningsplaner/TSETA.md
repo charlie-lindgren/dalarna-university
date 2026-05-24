@@ -4,7 +4,7 @@ programnamn: "Magisterprogram i solenergiteknik"
 institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2015-10-07 . Gäller fr.o.m.  HT ."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: 3ddd6afe94f956bf
+scrape_hash: 91bc96c865ee3489
 up: "IIT MOC"
 ---
 

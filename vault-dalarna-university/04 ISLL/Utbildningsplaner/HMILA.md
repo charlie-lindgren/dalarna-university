@@ -4,7 +4,7 @@ programnamn: "Masterprogram i interkulturella litteraturstudier"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för språk, litteratur och lärande 2023-09-11 . Gäller fr.o.m.  HT 2023."
 tags: [utbildningsplan, program, ISLL]
-scrape_hash: 39640c4b56c5c184
+scrape_hash: 3abf41b924b07539
 up: "ISLL MOC"
 ---
 
@@ -106,16 +106,14 @@ Institutionen som ansvarar för programmet samarbetar med andra lärosäten nati
 
 ****År 1****
 
-- Interkulturella litteraturstudier: Akademiskt skrivande (7, 5 hp
-- Introduktion till interkulturella litteraturstudier (7, 5 hp
-- Interkulturella litteraturstudier: Litteratur och genus - teori och kritik (7, 5 hp
-- Migrationslitteratur i dåtid och nutid (7, 5 hp
+- [[AJP23P|Interkulturella litteraturstudier: Akademiskt skrivande]], 7,5 hp
+- [[AJP23N|Introduktion till interkulturella litteraturstudier]], 7,5 hp
+- [[AJP25X|Interkulturella litteraturstudier: Litteratur och genus - teori och kritik]], 7,5 hp
+- [[AJP264|Migrationslitteratur i dåtid och nutid]], 7,5 hp
 
 ****År 2****
 
-
-**Valbara eller valfria litteraturvetenskapligt inriktade kurser (30 hp)**
-
+- Valbara eller valfria litteraturvetenskapligt inriktade kurser, 30 hp
 
 **Kurser specifika för respektive inriktning**
 
@@ -123,75 +121,65 @@ Institutionen som ansvarar för programmet samarbetar med andra lärosäten nati
 **Allmän inriktning**
 
 
-****År 1**
+****År 1****
 
-- Valbara och valfria litteraturvetenskapligt inriktade kurser (30 hp), varav minst, 22,5 hp
+- Valbara och valfria litteraturvetenskapligt inriktade kurser, 30 hp
 
 ****År 2****
 
-
-**Interkulturella litteraturstudier: Masterexamensarbete (30 hp)** *
-
+- [[AJP2A9|Interkulturella litteraturstudier: Masterexamensarbete]], 30 hp
 
 **Inriktning engelskspråkig litteratur**
 
 
 ****År 1****
 
-- Konflikt och kreativitet i engelskspråkig litteratur (7, 5 hp
-- Migration, klimat och ångest i engelskspråkig litteratur (7, 5 hp
-- Världslitteratur på engelska (7, 5 hp
-- Litteratur, censur och cancelkultur på engelska (7, 5 hp
+- [[AEN29A|Konflikt och kreativitet i engelskspråkig litteratur]], 7,5 hp
+- [[AEN252|Migration, klimat och ångest i engelskspråkig litteratur]], 7,5 hp
+- [[EN3062|Världslitteratur på engelska]], 7,5 hp
+- [[AEN299|Litteratur, censur och cancelkultur på engelska]], 7,5 hp
 
 ****År 2****
 
-
-**Interkulturella litteraturstudier: Masterexamensarbete med inriktning engelska (30 hp)**
-
+- [[AEN29C|Interkulturella litteraturstudier: Masterexamensarbete med inriktning engelska]], 30 hp
 
 **Inriktning franskspråkig litteratur**
 
 
 ****År 1****
 
-- Den fransktalande världen: Litteratur, kultur och översättning (7, 5 hp
-- Franskspråkig chanson i original och översättning (7, 5 hp
-- Franskspråkig litteraturkritik (7, 5 hp
-- Valbar eller valfri kurs inom franskspråkig litteratur (7, 5 hp
+- [[AFR236|Den fransktalande världen: Litteratur, kultur och översättning]], 7,5 hp
+- [[AFR27P|Franskspråkig chanson i original och översättning]], 7,5 hp
+- [[AFR26Q|Franskspråkig litteraturkritik]], 7,5 hp
+- Valbar eller valfri kurs inom franskspråkig litteratur, 7,5 hp
 
 ****År 2****
 
-
-**Interkulturella litteraturstudier: Masterexamensarbete med inriktning franska (30 hp)**
-
+- [[AFR29D|Interkulturella litteraturstudier: Masterexamensarbete med inriktning franska]], 30 hp
 
 **Inriktning tyskspråkig litteratur**
 
 
 ****År 1****
 
-- Tyska: Former och villkor för dramer och prosatexter (7, 5 hp
-- Tyska: Intertextualitet och intermedialitet i teori och praktik (7, 5 hp
-- Tyska: Modern kvinnolitteratur (7, 5 hp
-- Valbar eller valfri kurs inom tyskspråkig litteratur (7, 5 hp
+- [[TY3016|Tyska: Former och villkor för dramer och prosatexter]], 7,5 hp
+- [[TY3015|Tyska: Intertextualitet och intermedialitet i teori och praktik]], 7,5 hp
+- [[TY3013|Tyska: Modern kvinnolitteratur]], 7,5 hp
+- Valbar eller valfri kurs inom tyskspråkig litteratur, 7,5 hp
 
 ****År 2****
 
+- [[ATY29E|Interkulturella litteraturstudier: Masterexamensarbete med inriktning tyska]], 30 hp
 
-**Interkulturella litteraturstudier: Masterexamensarbete med inriktning tyska (30 hp)**
+****Valbara kurser inom programmet:****
 
-
-****Valbara kurser inom programmet:** **
-
-- Världslitteraturer: Asien och Europa (7, 5 hp
-- Världslitteraturer: Nord- och Sydamerika (7, 5 hp
-- Interkulturella litteraturstudier: Litteratur och politik i det samtida Afrika (7, 5 hp
-- Interkulturella litteraturstudier: Skönlitteratur på originalspråk (7, 5 hp
-- Interkulturella litteraturstudier: Översättningsprojekt (7, 5 hp
-
-**- Interkulturella litteraturstudier: Magisterexamensarbete (15 hp)**
-
-- Interkulturella litteraturstudier: Teori och metod (7, 5 hp
+- [[AJP23Q|Världslitteraturer: Asien och Europa]], 7,5 hp
+- [[AJP23R|Världslitteraturer: Nord- och Sydamerika]], 7,5 hp
+- [[AJP26Z|Interkulturella litteraturstudier: Litteratur och politik i det samtida Afrika]], 7,5 hp
+- [[AJP27A|Interkulturella litteraturstudier: Skönlitteratur på originalspråk]], 7,5 hp
+- [[AJP279|Interkulturella litteraturstudier: Översättningsprojekt]], 7,5 hp
+- [[AAR29B|Interkulturella litteraturstudier: Magisterexamensarbete]], 15 hp
+- [[AJP278|Interkulturella litteraturstudier: Teori och metod]], 7,5 hp
 
 **Samtliga valbara kurser är inom huvudområdet interkulturella litteraturstudier och på avancerad nivå. Kurser som erbjuds som obligatoriska och som är specifika för var och en av de olika inriktningarna är också valbara kurser för de andra inriktningarna inom programmet. Observera att olika behörighetskrav gäller för dessa kurser, beroende på inriktningen.**
 

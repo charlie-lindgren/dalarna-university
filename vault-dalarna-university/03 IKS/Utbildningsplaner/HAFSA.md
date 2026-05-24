@@ -1,11 +1,11 @@
 ---
 programkod: HAFSA
 programnamn: "Magisterprogram i Afrikanska studier"
-institution: "ISLL"
+institution: "IKS"
 faststalld: "Fastställd av Områdesnämnden Humaniora och språk 2014-11-20 . Gäller fr.o.m.  HT 2015."
-tags: [utbildningsplan, program, ISLL]
+tags: [utbildningsplan, program, IKS]
 scrape_hash: e42dc6b78dbd27ae
-up: "ISLL MOC"
+up: "IKS MOC"
 ---
 
 # HAFSA
@@ -80,27 +80,27 @@ Genom hela programmet sker en progression kunskapsmässigt från den första ter
 
 ****3.1 Obligatoriska kurser****
 
-- _1. Afrikanska samhällen i förändring, 12 hp
+- [[AS3022|Afrikanska samhällen i förändring]], 12 hp
 
 **Kursen innehåller synkrona och diakrona perspektiv i afrikanska samhällen från tidigt 1800-tal fram till nutiden. Viktiga frågor som behandlas rör strukturer i afrikanska ekonomiska system, principer för politisk organisering, förhållandena mellan individuellt och allmänt samt produktion och reproduktion av materiell kultur i olika afrikanska samhällen.**
 
-- _2. Religion och politik i afrikanska samhällen, 9 hp
+- [[AS3023|Religion och politik i afrikanska samhällen]], 9 hp
 
 **Studenten genomför ett fördjupat studium av ett urval av Afrikas religioner. Kristendomens olika riktningar liksom islam och grunddragen i afrikansk religion studeras i förhållande till de ekonomiska, politiska och sociala miljöer där de uppstått och förekommer. Viktiga frågor handlar om hur religioner kan påverka olika samhällens politiska utveckling, hur religionsmöten och religionskonflikter uppstår och kan hanteras samt vilken roll religion spelar i organiserandet av det sociala, ekonomiska och politiska livet.**
 
-- _3. Utbildning och förändring i afrikanska samhällen, 8 hp
+- [[AS3021|Utbildning och förändring i afrikanska samhällen]], 8 hp
 
 **Kursen behandlar utbildningspolitik samt utbildningens roll för utvecklingen av afrikanska samhällen. Fokus i kursen är på relationen mellan utbildning och social förändring. Inhemska system för kunskap och lärande relateras till formella och strukturerade utbildningssystem. Utbildningsbiståndets roll för utveckling i afrikanska samhällen diskuteras. Frågor knutna till yrkesetik samt till officiella läroplaners roll behandlas.**
 
-- _4. Magisterprojektets planering, 1 hp
+- Magisterprojektets planering, 1 hp
 
 **Den studerande arbetar med ett första utkast till forskningsprojektets planering. Detta innefattar en preliminär definition av en problemställning, en generell översikt över forskningsläget samt det planerade magister/forskningsprojektets preliminära mål, frågeställningar och disposition.**
 
-- _5. Den vidareutvecklade uppsatsplanen, 1 hp
+- Den vidareutvecklade uppsatsplanen, 1 hp
 
 **Den studerande arbetar med att vidareutveckla ett tidigare godkänt utkast till forskningsprojektets planering. Detta innefattar en forskningsplan med en definition av en problemställning, en översikt över det aktuella forskningsläget samt det planerade magister/forskningsprojektets preliminära mål, frågeställningar och disposition.**
 
-- _6. Magisterexamensarbete i Afrikanska studier, 15 hp
+- Magisterexamensarbete i Afrikanska studier, 15 hp
 
 **Kursen inleds med seminarier för genomgång av forskningsprocessen som innefattar ämnesval, problemställning, metod- och teorianknytning, litteratursökning samt skrivprocessen. Studenten genomför sedan en självständig forskningsuppgift inom**
 
@@ -110,21 +110,21 @@ Genom hela programmet sker en progression kunskapsmässigt från den första ter
 
 ****3.2 Valbara kurser****
 
-- _1. Bistånd och utveckling i Afrika söder om Sahara, 7 hp
-- _2. Litteratur och politik i det samtida Afrika, 7 hp
-- _3. Ekonomisk utveckling i Afrika, en introduktion, 7 hp
-- _4. Egypten och medierna, 7 hp
-- _5. Egyptisk–sudanesiska relationer: Vattenresursernas geopolitik, 7 hp
-- _6. Mänskliga rättigheter och demokrati i Afrika söder om Sahara, 7 hp
-- _7. Internationell hälsa med fokus på nutrition i ett genus- och ekonomiskt perspektiv, 7hp
-- _8. Den nordafrikanska novellen, 7 hp
-- _9. Islam och muslimska samhällen i Afrika, 7 hp
-- _10. Språk och nationalitet i afrikanska flerspråkliga länder, 7 hp
-- _11. Södra Afrikas moderna historia, 7 hp
-- _12. Afrikas horn, 7 hp
-- _13. Fred och konflikt i Afrika: Internationell institutionell lag, 7 hp
-- _14. Det urbana rummet och urbaniseringspolitik i Afrika söder om Sahara, 7 hp
-- _15. Västafrika sedan 1800-talet, 7 hp
+- Bistånd och utveckling i Afrika söder om Sahara, 7 hp
+- [[AS3017|Litteratur och politik i det samtida Afrika]], 7 hp
+- [[AS3019|Ekonomisk utveckling i Afrika, en introduktion]], 7 hp
+- Egypten och medierna, 7 hp
+- Egyptisk–sudanesiska relationer: Vattenresursernas geopolitik, 7 hp
+- [[ARK227|Mänskliga rättigheter och demokrati i Afrika söder om Sahara]], 7 hp
+- [[AS3014|Internationell hälsa med fokus på nutrition i ett genus- och ekonomiskt perspektiv]], 7hp
+- Den nordafrikanska novellen, 7 hp
+- Islam och muslimska samhällen i Afrika, 7 hp
+- Språk och nationalitet i afrikanska flerspråkliga länder, 7 hp
+- Södra Afrikas moderna historia, 7 hp
+- Afrikas horn, 7 hp
+- Fred och konflikt i Afrika: Internationell institutionell lag, 7 hp
+- [[AS3018|Det urbana rummet och urbaniseringspolitik i Afrika söder om Sahara]], 7 hp
+- Västafrika sedan 1800-talet, 7 hp
 
 ## 4. Examensbenämning
 

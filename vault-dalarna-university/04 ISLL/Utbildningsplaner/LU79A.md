@@ -4,7 +4,7 @@ programnamn: "Kompletterande pedagogisk utbildning, inriktning årskurs 7–9"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, ISLL, tvärfakultet]
-scrape_hash: 54be6963df5c8539
+scrape_hash: d019fb53c2fc6d7c
 up: "ISLL MOC"
 ---
 
@@ -177,17 +177,17 @@ Den verksamhetsförlagda utbildningen omfattar 30 högskolepoäng och är förla
 ****Termin 1 (för helfartsstudier) alternativt År 1 (för halvfartsstudier)****
 
 - <a class="no-graph" href="GPG3EU">Didaktik och läroplansteori</a>, 15 hp
-- Undervisning och ledarskap – KPU (varav, 10 hp
+- <a class="no-graph" href="GPG2RH">Undervisning och ledarskap – KPU</a>, 15 hp
 
 ****Termin 2 (för helfartsstudier) alternativt År 2 (för halvfartsstudier)****
 
 - <a class="no-graph" href="GPG2S7">Kunskap, lärande och bedömning – KPU</a>, 15 hp
-- Ämnesdidaktik och specialpedagogik – KPU (varav, 10 hp
+- <a class="no-graph" href="GPG2S8">Ämnesdidaktik och specialpedagogik – KPU</a>, 15 hp
 
 ****Termin 3 (för helfartsstudier) alternativt År 3 (för halvfartsstudier)****
 
 - <a class="no-graph" href="APG282">Examensarbete för ämneslärare</a>, 15 hp
-- Professionellt lärarskap och skolutveckling – KPU (varav, 10 hp
+- <a class="no-graph" href="APG27Z">Professionellt lärarskap och skolutveckling – KPU</a>, 15 hp
 
 ## 4. Examensbenämning
 

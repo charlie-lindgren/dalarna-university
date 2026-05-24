@@ -4,7 +4,7 @@ programnamn: "Filmproduktionsprogrammet"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-01-15 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: aedf846123586d85
+scrape_hash: 804baa3c34db07a5
 up: "IKS MOC"
 ---
 
@@ -38,8 +38,8 @@ Inom det område som utbildningen avser ska studenterna, utöver kunskaper och f
 ### 
 1.2 Examensmål enligt Högskoleförordningen (1993:100), bilaga 2:
 
-_Kunskap och förståelse   
-_  
+_Kunskap och förståelse_   
+  
 För kandidatexamen skall studenten:   
 - visa kunskap och förståelse inom huvudområdet för utbildningen, inbegripet kunskap om områdets vetenskapliga grund, kunskap om tillämpliga metoder inom området, fördjupning inom någon del av området samt orientering om aktuella forskningsfrågor.   
   
@@ -51,8 +51,8 @@ För kandidatexamen skall studenten:
 - visa förmåga att muntligt och skriftligt redogöra för och diskutera information, problem och lösningar i dialog med olika grupper,   
 - visa sådan färdighet som fordras för att självständigt arbeta inom det område som utbildningen avser.   
   
-_Värderingsförmåga och förhållningssätt  
-_  
+_Värderingsförmåga och förhållningssätt_  
+  
 För kandidatexamen skall studenten:   
 - visa förmåga att inom huvudområdet för utbildningen göra bedömningar med hänsyn till relevanta vetenskapliga, samhälleliga och etiska aspekter,   
 - visa insikt om kunskapens roll i samhället och om människors ansvar för hur den används, och   
@@ -61,8 +61,8 @@ För kandidatexamen skall studenten:
 ### 
 1.3 Utbildningsprogrammets mål
 
-_Kunskap och förståelse  
-_  
+_Kunskap och förståelse_  
+  
 För kandidatexamen skall studenten:    
 - kunna redogöra för konventioner och alternativa berättarformer inom audiovisuellt berättande.  
   
@@ -71,8 +71,8 @@ _Färdighet och förmåga_
 För kandidatexamen skall studenten:   
 - uppvisa en utvecklad förmåga att gestalta och berätta med ljud och rörliga bilder.  
   
-_Värderingsförmåga och förhållningssätt  
-_  
+_Värderingsförmåga och förhållningssätt_  
+  
 För kandidatexamen skall studenten:  
 - visa förmåga att analysera, redogöra för och tillämpa organisatoriska principer, kollektiva produktionsprocesser och yrkesrollsrelaterade arbetsmetoder som är vanligt förekommande vid förproduktion, inspelning och efterbearbetning inom filmproduktion.
 

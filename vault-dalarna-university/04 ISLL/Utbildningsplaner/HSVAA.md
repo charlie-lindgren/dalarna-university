@@ -4,7 +4,7 @@ programnamn: "Magisterprogram i svenska som andraspråk"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för språk, litteratur och lärande 2020-04-17 . Gäller fr.o.m.  VT 2021."
 tags: [utbildningsplan, program, ISLL]
-scrape_hash: 83538e00dc27471a
+scrape_hash: af81f6e91d396179
 up: "ISLL MOC"
 ---
 
@@ -132,4 +132,4 @@ Upon completion of the programme the students should:
 
 Student som uppfyller programmets mål och som erhållit godkänt resultat på samtliga i programmet ingående kurser kan få programnamnet synliggjort i examensbeviset.
 
-Fr.o.m. HT24 stryks kursen _Svenska som andraspråk i tvärspråkligt perspektiv _7,5 hp som obligatorisk kurs. Istället läses en av de valbara kurserna.
+Fr.o.m. HT24 stryks kursen _Svenska som andraspråk i tvärspråkligt perspektiv_ 7,5 hp som obligatorisk kurs. Istället läses en av de valbara kurserna.

@@ -4,7 +4,7 @@ programnamn: "Business Managementprogrammet - Kandidatprogram i företagsekonomi
 institution: "IKS"
 faststalld: "Fastställd av prefekt för institutionen för kultur och samhälle 2023-12-19 . Gäller fr.o.m.  HT 2023."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: e581920f89ef6c8f
+scrape_hash: 53790901df964cfa
 up: "IKS MOC"
 ---
 
@@ -40,20 +40,20 @@ Inom det område som utbildningen avser ska studenterna, utöver kunskaper och f
 
 För kandidatexamen ska studenten  
   
-_Kunskap och förståelse  
-_  
+_Kunskap och förståelse_  
+  
 • visa kunskap och förståelse inom huvudområdet för utbildningen, inbegripet kunskap om områdets vetenskapliga grund, kunskap om tillämpliga metoder inom området, fördjupning inom någon del av området samt orientering om aktuella forskningsfrågor.
 
-_Färdighet och förmåga  
+_Färdighet och förmåga_  
   
-_• visa förmåga att söka, samla, värdera och kritiskt tolka relevant information i en problemställning samt att kritiskt diskutera företeelser, frågeställningar och situationer,  
+• visa förmåga att söka, samla, värdera och kritiskt tolka relevant information i en problemställning samt att kritiskt diskutera företeelser, frågeställningar och situationer,  
 • visa förmåga att självständigt identifiera, formulera och lösa problem samt att genomföra uppgifter inom givna tidsramar,  
 • visa förmåga att muntligt och skriftligt redogöra för och diskutera information, problem och lösningar i dialog med olika grupper, och  
 • visa sådan färdighet som fordras för att självständigt arbeta inom det område som utbildningen avser
 
-_Värderingsförmåga och förhållningssätt  
+_Värderingsförmåga och förhållningssätt_  
   
-_• visa förmåga att inom huvudområdet för utbildningen göra bedömningar med hänsyn till relevanta vetenskapliga, samhälleliga och etiska aspekter,  
+• visa förmåga att inom huvudområdet för utbildningen göra bedömningar med hänsyn till relevanta vetenskapliga, samhälleliga och etiska aspekter,  
 • visa insikt om kunskapens roll i samhället och om människors ansvar för hur den används, och visa förmåga att identifiera sitt behov av ytterligare kunskap och att utveckla sin kompetens.
 
 ###
@@ -108,7 +108,7 @@ Programmets tredje år ger en fördjupning inom företagsekonomins delämnesomr�
 **Examensarbete för kandidatexamen i företagsekonomi 15* hp (Företagsekonomi)**
 
 
-* **För att programnamnet ska visas i examensbeviset, är kurser märkta med asterisk obligatoriska.**
+*** För att programnamnet ska visas i examensbeviset, är kurser märkta med asterisk obligatoriska.**
 
 
 ## 4. Examensbenämning

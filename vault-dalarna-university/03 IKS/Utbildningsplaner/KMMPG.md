@@ -4,7 +4,7 @@ programnamn: "Manus och medieproduktion"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-01-15 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: 2036693df578efaa
+scrape_hash: 55fe11dc3f7bfe62
 up: "IKS MOC"
 ---
 
@@ -36,21 +36,21 @@ Inom det område som utbildningen avser ska studenterna, utöver kunskaper och f
 ### 
 1.2 Examensmål enligt Högskoleförordningen (1993:100), bilaga 2:
 
-_Kunskap och förståelse  
- _   
+_Kunskap och förståelse_  
+    
 För kandidatexamen skall studenten:    
 - visa kunskap och förståelse inom huvudområdet för utbildningen, inbegripet kunskap om områdets vetenskapliga grund, kunskap om tillämpliga metoder inom området, fördjupning inom någon del av området samt orientering om aktuella forskningsfrågor.  
     
-_Färdighet och förmåga  
-_    
+_Färdighet och förmåga_  
+    
 För kandidatexamen skall studenten:   
 - visa förmåga att söka, samla, värdera och kritiskt tolka relevant information i en problemställning samt att kritiskt diskutera företeelser, frågeställningar och situationer,    
 - visa förmåga att självständigt identifiera, formulera och lösa problem samt att genomföra uppgifter inom givna tidsramar,   
 - visa förmåga att muntligt och skriftligt redogöra för och diskutera information, problem och lösningar i dialog med olika grupper,    
 - visa sådan färdighet som fordras för att självständigt arbeta inom det område som utbildningen avser.   
    
-_Värderingsförmåga och förhållningssätt  
-_  
+_Värderingsförmåga och förhållningssätt_  
+  
 För kandidatexamen skall studenten:   
 - visa förmåga att inom huvudområdet för utbildningen göra bedömningar med hänsyn till relevanta vetenskapliga, samhälleliga och etiska aspekter,   
 - visa insikt om kunskapens roll i samhället och om människors ansvar för hur den används, och   
@@ -59,19 +59,19 @@ För kandidatexamen skall studenten:
 ### 
 1.3 Utbildningsprogrammets mål
 
-_Kunskap och förståelse  
-_   
+_Kunskap och förståelse_  
+   
 För kandidatexamen skall studenten:    
 - kunna redogöra för olika slags manusbunden medieproduktion och dess villkor.  
   
-_Färdighet och förmåga  
-_  
+_Färdighet och förmåga_  
+  
 För kandidatexamen ska studenten:  
 - visa utvecklad förmåga till manusbaserat filmiskt berättande, personlig gestaltning och konstnärliga vägval.  
   
-_Värderingsförmåga och förhållningssätt  
+_Värderingsförmåga och förhållningssätt_  
   
-_För kandidatexamen ska studenten:  
+För kandidatexamen ska studenten:  
 - kunna tillämpa och reflektera över dramaturgi och genrekunskap vid eget skrivande, inkluderande dialogframställning, fiktionsserier och dokumentärt berättande,   
 - kunna tillämpa och diskutera olika projektformer och metoder för idéutveckling och skrivprocesser för olika medieplattformar.
 

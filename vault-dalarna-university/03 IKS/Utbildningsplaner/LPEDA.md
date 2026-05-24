@@ -4,7 +4,7 @@ programnamn: "Magisterprogram i pedagogiskt arbete"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-06-17 . Gäller fr.o.m.  HT 2025."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: e2342e72282fb6b5
+scrape_hash: e1e42f01c2f0f2c3
 up: "IKS MOC"
 ---
 
@@ -38,8 +38,8 @@ För magisterexamen skall studenten
 • visa kunskap och förståelse inom huvudområdet för utbildningen, inbegripet såväl överblick över området som fördjupade kunskaper inom vissa delar av området samt insikt i aktuellt forsknings- och utvecklingsarbete, och  
 • visa fördjupad metodkunskap inom huvudområdet för utbildningen.
 
-**Färdighet och förmåga  
-**För magisterexamen skall studenten
+**Färdighet och förmåga**  
+För magisterexamen skall studenten
 
 • visa förmåga att integrera kunskap och att analysera, bedöma och hantera komplexa företeelser, frågeställningar och situationer även med begränsad information,  
 • visa förmåga att självständigt identifiera och formulera frågeställningar samt att planera och med adekvata metoder genomföra kvalificerade uppgifter inom givna tidsramar,  
@@ -86,7 +86,7 @@ Utbildningen erbjuder möjlighet till fördjupning och specialisering inom ett s
 
 - [[PG3061|Att kritiskt granska utbildningsvetenskaplig forskning]], 7,5 högskolepoäng
 - [[PG3065|Examensarbete för magisterexamen i pedagogiskt arbete]], 15 högskolepoäng
-- Utbildningsvetenskapliga ansatser – teoretisk och metodologisk fördjupning, 7,5 högskolepoäng
+- [[PG3069|Utbildningsvetenskapliga ansatser – teoretisk och metodologisk fördjupning]], 7,5 högskolepoäng
 
 ## 4. Examensbenämning
 

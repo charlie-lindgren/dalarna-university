@@ -4,7 +4,7 @@ programnamn: "Film- och TV-produktion"
 institution: "IKS"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2014-03-19 . Gäller fr.o.m.  HT 2014."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: 53c5dc3744530dc3
+scrape_hash: ec8bc8c94848febb
 up: "IKS MOC"
 ---
 
@@ -61,9 +61,8 @@ För kandidatexamen skall studenten:
 ### 
 1.3 Utbildningsprogrammets mål
 
-****  
 Efter genomförd utbildning ska studenten kunna:  
-****  
+  
 **Kunskap och förståelse**  
   
 - visa kunskaper gällande principer för digital media, arbetsflöden och filhantering samt inspelningsteknik.   
@@ -96,14 +95,14 @@ Det tredje läsåret förbereder sig studenten för ett yrkesverksamt liv genom 
 **Alla nedanstående kurser ingår i huvudämnet Bildproduktion**
 
 
-**_Första läsåret_ **
+**_Första läsåret_**
 
 - [[GBQ2UB|Introduktion till produktion av rörlig bild]], 15 hp
 - [[GBQ3A5|Grunderna i filmproduktion]], 15 hp
 - Digitalefterbearbetning av ljud och bild, 15 hp
 - [[BQ1081|TV-nyheter och flerkameraproduktion]], 15 hp
 
-**_Andra läsåret_ **
+**_Andra läsåret_**
 
 - [[BQ2057|Fördjupning i klippning för film/TV]], 7,5 hp
 - [[GBQ2U3|Människan och den rörliga bilden]], 7,5 hp
@@ -111,7 +110,7 @@ Det tredje läsåret förbereder sig studenten för ett yrkesverksamt liv genom 
 - [[GMN3EK|Dokumentärfilmsproduktion]], 15 hp
 - [[GBQ22U|Kvalificerad filmproduktion]], 15 hp
 
-**_Tredje läsåret_ **
+**_Tredje läsåret_**
 
 - [[GBQ2NM|Vetenskapsteori och metod i Bildproduktion]], 7,5 hp
 - [[GBQ2U9|Kandidatexamensarbete i Bildproduktion]], 15 hp

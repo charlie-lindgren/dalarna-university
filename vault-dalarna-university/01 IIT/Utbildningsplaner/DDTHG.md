@@ -4,7 +4,7 @@ programnamn: "Digitala tjänster – program för högskoleexamen"
 institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2022-12-20 . Gäller fr.o.m.  HT 2023."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: 8d7fedda67b7464c
+scrape_hash: 90d06997b21be837
 up: "IIT MOC"
 ---
 
@@ -76,7 +76,6 @@ _Färdighet och förmåga_
 – visa färdighet och förmåga att utveckla, designa och utvärdera digitala tjänster,  
 – visa förmåga att söka, samla in och analysera relevant forskning på vetenskaplig grund inom området för digitala tjänster och informationsteknologi (IT), och  
 – visa färdighet och förmåga att planera, genomföra, analysera samt rapportera en undersökning eller utredning.  
-__
 
 _Värderingsförmåga och förhållningssätt_  
 – visa förmåga att utvärdera digitala tjänster med avseende på användbarhet och funktionalitet samt deras roll i samhället, och  
@@ -98,9 +97,9 @@ Under utbildningen ges möjlighet att välja mellan valbara kurser.
 **Programmet består av följande kurser på grundnivå:**
 
 
-**_År 1 (baserat på heltidsstudier)**
+**_År 1 (baserat på heltidsstudier)_**
 
-- _Designprinciper och användargränssnitt, 15 hp
+- [[GIK2YR|Designprinciper och användargränssnitt]], 15 hp
 - [[GIK38G|Design av digitala tjänster]], 7,5 hp
 - [[GIK38H|Introduktion till IT och digitala tjänster]], 7,5 hp
 - [[GIK2YN|Programutvecklingsteknik]], 7,5 hp
@@ -108,9 +107,9 @@ Under utbildningen ges möjlighet att välja mellan valbara kurser.
 - [[GIK2YK|Relationsdatabaser]], 7,5 hp
 - [[GIK2YP|Webbdesign]], 7,5 hp
 
-**_År 2 (baserat på heltidsstudier)**
+**_År 2 (baserat på heltidsstudier)_**
 
-- _Applikationsutveckling för webben, 7,5 hp
+- [[GIK376|Applikationsutveckling för webben]], 7,5 hp
 - [[GIK36R|Applikationsutveckling och testning]], 7,5 hp
 - [[GIK2V4|Datasäkerhet och integritet]], 7,5 hp
 - [[GIK3BV|E-samhället: e-förvaltning och digitala tjänster]], 7,5 hp
@@ -118,9 +117,9 @@ Under utbildningen ges möjlighet att välja mellan valbara kurser.
 - [[GIK375|Komponentdriven webbdesign]], 7,5 hp
 - [[GIK377|Utveckling av digitala tjänster]], 7,5 hp
 
-**_Valbara kurser:**
+**_Valbara kurser:_**
 
-- _Forskningsmetodik, 7,5 hp
+- [[GIK34Y|Forskningsmetodik]], 7,5 hp
 - <a class="no-graph" href="RV1054">Nätjuridik</a>, 7,5 hp
 
 ***Kurser som krävs för att programmålen ska uppfyllas**
@@ -142,17 +141,17 @@ After completing this programme, students will be able to investigate and analys
 
 The main focus of the programme is on enabling students to recognise the relationships that exist between people, information, design, and IT systems within the field of digital services and helping them understand the different perspectives of these relationships.
 
-_Knowledge and Understanding  
-_- demonstrate knowledge and understanding of digital services and their role, function and impact in society, and  
+_Knowledge and Understanding_  
+- demonstrate knowledge and understanding of digital services and their role, function and impact in society, and  
 - show knowledge and understanding of processes and working methods that are applied in new development and management of digital services.
 
-_Skills and Abilities  
-_– demonstrate skill and ability to develop, design and evaluate digital services,  
+_Skills and Abilities_  
+– demonstrate skill and ability to develop, design and evaluate digital services,  
 – demonstrate ability to search, collect and analyze relevant research in the field of digital services and information technology (IT), and  
 - demonstrate the ability and skill to plan, implement, analyse and report an investigation or investigation on a scientific basis.
 
-_Evaluation Ability and Approach  
-_- demonstrate the ability to evaluate digital services with regard to usability and functionality as well as their role in society, and  
+_Evaluation Ability and Approach_  
+- demonstrate the ability to evaluate digital services with regard to usability and functionality as well as their role in society, and  
 - show ability to discuss and reflect on sustainability and ethical aspects regarding digital services.
 
 ## 7. Övrigt

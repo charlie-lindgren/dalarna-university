@@ -123,7 +123,7 @@ Under den sjätte terminens kurs Projektarbete inom medieproduktion, fördjupnin
 
 - [[GLP2NL|Vetenskapsteori och metod i Ljud- och musikproduktion]], 7,5 hp
 - [[GLP2NN|Kandidatexamensarbete i Ljud- och musikproduktion]], 15 hp
-- Konceptutveckling inom medieproduktion för Ljud- och musikproduktion, 7,5 hp
+- [[GLP2NK|Konceptutveckling inom medieproduktion för Ljud- och musikproduktion]], 7,5 hp
 - [[GLP2WP|Projektarbete inom medieproduktion, fördjupningskurs]], 15 hp
 - [[GLP2QD|Arbetsplatsförlagd utbildning i medieproduktion]], 15 hp
 

@@ -43,17 +43,20 @@ print_menu() {
     echo -e "    ${BOLD}5.${RESET}  Identifiera vilande kursplaner"
     echo -e "    ${BOLD}6.${RESET}  ${BOLD}Kör alla skrapa-steg${RESET} (2 + 4 + 5)"
     echo ""
+    echo -e "  ${MAGENTA}${BOLD}QA-cache${RESET}"
+    echo -e "    ${BOLD}7.${RESET}  Skrapa nedlagda kursplaner (qa/nedlagda-kursplaner/, ej i vault)"
+    echo ""
     echo -e "  ${MAGENTA}${BOLD}Kvalitetsgranskning${RESET}"
-    echo -e "    ${BOLD}7.${RESET}  QA kursplaner (rapport)"
-    echo -e "    ${BOLD}8.${RESET}  QA utbildningsplaner (rapport)"
-    echo -e "    ${BOLD}9.${RESET}  Jämför kursplan-rapporter (lösta/nya fynd)"
-    echo -e "   ${BOLD}10.${RESET}  Populera analysfilerna (från senaste rapport)"
-    echo -e "   ${BOLD}11.${RESET}  Rensa analysfilerna (ta bort lösta fynd)"
-    echo -e "   ${BOLD}12.${RESET}  ${BOLD}Kör alla QC-steg${RESET} (7 + 8 + 10)"
+    echo -e "    ${BOLD}8.${RESET}  QA kursplaner (rapport)"
+    echo -e "    ${BOLD}9.${RESET}  QA utbildningsplaner (rapport)"
+    echo -e "   ${BOLD}10.${RESET}  Jämför kursplan-rapporter (lösta/nya fynd)"
+    echo -e "   ${BOLD}11.${RESET}  Populera analysfilerna (från senaste rapport)"
+    echo -e "   ${BOLD}12.${RESET}  Rensa analysfilerna (ta bort lösta fynd)"
+    echo -e "   ${BOLD}13.${RESET}  ${BOLD}Kör alla QC-steg${RESET} (8 + 9 + 11)"
     echo ""
     echo -e "  ${MAGENTA}${BOLD}Bygg${RESET}"
-    echo -e "   ${BOLD}13.${RESET}  Bygg Quartz-sajten (public/)"
-    echo -e "   ${BOLD}14.${RESET}  Bygg & förhandsvisa sajten lokalt"
+    echo -e "   ${BOLD}14.${RESET}  Bygg Quartz-sajten (public/)"
+    echo -e "   ${BOLD}15.${RESET}  Bygg & förhandsvisa sajten lokalt"
     echo ""
     echo -e "    ${BOLD}q.${RESET}  Avsluta"
     echo ""
@@ -114,6 +117,26 @@ run_scrape_utb() {
     # shellcheck disable=SC2086
     "$PYTHON" scripts/scrape_hda_utbildningsplaner.py $APPLY_FLAG
     echo -e "${GREEN}✓ Utbildningsplan-skrapning klar${RESET}"
+}
+
+# ── steg: skrapa nedlagda kursplaner (QA-cache) ─────────────────────────────
+run_scrape_nedlagda() {
+    echo -e "${BOLD}Skrapa nedlagda kursplaner${RESET}"
+    echo ""
+    echo "Hämtar alla kursplaner med status=discontinued från du.se och"
+    echo "sparar en slim metadatafil per kod i qa/nedlagda-kursplaner/."
+    echo "Cachen är gitignored och visas inte på sajten — den används av"
+    echo "QA-koden (för att flagga nedlagda kursreferenser i utbildnings-"
+    echo "planer och vid analys av förkunskapskrav)."
+    echo ""
+    echo -e "${YELLOW}Cirka 6500 kurser; ett par minuter vid första körningen.${RESET}"
+    echo "Befintliga cache-poster hoppas över automatiskt vid omkörning."
+    echo ""
+    prompt_apply_mode
+    echo ""
+    # shellcheck disable=SC2086
+    "$PYTHON" scripts/scrape_hda_nedlagda.py $APPLY_FLAG
+    echo -e "${GREEN}✓ Nedlagda-cache uppdaterad${RESET}"
 }
 
 # ── steg: identifiera vilande kursplaner ────────────────────────────────────
@@ -347,20 +370,21 @@ while true; do
         4)  run_scrape_utb ;;
         5)  run_vilande ;;
         6)  run_scrape_pipeline ;;
-        7)  run_qa_kurs ;;
-        8)  run_qa_utb ;;
-        9)  run_diff ;;
-        10) run_populate ;;
-        11) run_prune ;;
-        12) run_qc_pipeline ;;
-        13) run_build_site ;;
-        14) run_serve_site ;;
+        7)  run_scrape_nedlagda ;;
+        8)  run_qa_kurs ;;
+        9)  run_qa_utb ;;
+        10) run_diff ;;
+        11) run_populate ;;
+        12) run_prune ;;
+        13) run_qc_pipeline ;;
+        14) run_build_site ;;
+        15) run_serve_site ;;
         q|Q|quit|exit)
             echo "Hejdå."
             exit 0
             ;;
         *)
-            echo -e "${YELLOW}Ogiltigt val — ange 1–14 eller q.${RESET}"
+            echo -e "${YELLOW}Ogiltigt val — ange 1–15 eller q.${RESET}"
             ;;
     esac
     echo ""

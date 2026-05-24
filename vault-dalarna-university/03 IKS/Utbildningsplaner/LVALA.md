@@ -4,7 +4,7 @@ programnamn: "Vidareutbildning av lärare som saknar lärarexamen"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-06-17 . Gäller fr.o.m.  HT 2025."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: 6f2f318d167132e0
+scrape_hash: abe68182520c3f72
 up: "IKS MOC"
 ---
 
@@ -138,8 +138,8 @@ För grundlärarexamen ska studenten
   - visa förmåga att identifiera sitt behov av ytterligare kunskap och utveckla sin kompetens i det pedagogiska arbetet.
 
 **1.3 Examensmål enligt Högskoleförordningen (1993:100), bilaga 2:   
-Ämneslärarexamen:  
-**För ämneslärarexamen ska studenten visa sådan kunskap och förmåga som krävs för att självständigt arbeta som ämneslärare i den verksamhet som utbildningen avser. Studenten ska även visa kunskap och förmåga för annan undervisning för vilken examen enligt gällande föreskrifter kan ge behörighet.
+Ämneslärarexamen:**  
+För ämneslärarexamen ska studenten visa sådan kunskap och förmåga som krävs för att självständigt arbeta som ämneslärare i den verksamhet som utbildningen avser. Studenten ska även visa kunskap och förmåga för annan undervisning för vilken examen enligt gällande föreskrifter kan ge behörighet.
 
 _Kunskap och förståelse_  
 För ämneslärarexamen oavsett inriktning ska studenten
@@ -270,8 +270,8 @@ För yrkeslärarexamen ska studenten
   - visa förmåga att identifiera sitt behov av ytterligare kunskap och att utveckla sin kompetens både i yrkesämnet och i det pedagogiska arbetet.
 
 **1.5 Examensmål enligt Högskoleförordningen (1993:100), bilaga 2:   
-Lärarexamen (enligt 2007 års examensordning, LARAG)  
-**För lärarexamen skall studenten visa sådan kunskap och förmåga som krävs för att förverkliga förskolans, fritidshemmets, förskoleklassens, skolans eller vuxenutbildningens mål samt för att medverka i utvecklingen av respektive verksamhet enligt gällande föreskrifter och riktlinjer.  
+Lärarexamen (enligt 2007 års examensordning, LARAG)**  
+För lärarexamen skall studenten visa sådan kunskap och förmåga som krävs för att förverkliga förskolans, fritidshemmets, förskoleklassens, skolans eller vuxenutbildningens mål samt för att medverka i utvecklingen av respektive verksamhet enligt gällande föreskrifter och riktlinjer.  
   
 _Kunskap och förståelse_  
 För lärarexamen skall studenten
@@ -323,8 +323,8 @@ För lärarexamen skall studenten
   - visa förmåga att identifiera sitt behov av ytterligare kunskap och utveckla sin kompetens i det pedagogiska arbetet.
 
 **1.6 Examensmål enligt Högskoleförordningen (1993:100), bilaga 2:   
-Lärarexamen (enligt 2001 års examensordning, ULPBP)  
-**För att få lärarexamen skall studenten ha de kunskaper och färdigheter som behövs för att kunna förverkliga förskolans, skolans eller vuxenutbildningens mål samt för att medverka i utvecklingen av respektive verksamhet enligt gällande föreskrifter och riktlinjer. Därutöver skall studenten ha uppnått de allmänna mål för högskoleutbildning som högskolelagen (kap1, § 9) föreskriver, nämligen
+Lärarexamen (enligt 2001 års examensordning, ULPBP)**  
+För att få lärarexamen skall studenten ha de kunskaper och färdigheter som behövs för att kunna förverkliga förskolans, skolans eller vuxenutbildningens mål samt för att medverka i utvecklingen av respektive verksamhet enligt gällande föreskrifter och riktlinjer. Därutöver skall studenten ha uppnått de allmänna mål för högskoleutbildning som högskolelagen (kap1, § 9) föreskriver, nämligen
 
   - förmåga att göra självständiga och kritiska bedömningar,
 
@@ -337,8 +337,8 @@ Inom det område som utbildningen avser skall studenterna, utöver kunskaper och
   - utbyta kunskaper även med personer utan specialkunskaper inom området.  
 
 **1.7 Mål enligt Högskoleförordningen (1993:100), bilaga 2:  
-Examen avsedd för undervisning i grundskolans årskurs 1-7, 4-9 eller i gymnasieskolan (examen före 2001):  
-**De lärarutbildningar som gavs före 2001 avsåg antingen examen avsedd för undervisning i grundskolans årskurs 1-7 eller 4-9, eller för gymnasieskolan. Målen för respektive lärarexamen enligt äldre bestämmelser finns att finna i tidigare version av examensordningen i högskoleförordningen (SFS 1993:100).
+Examen avsedd för undervisning i grundskolans årskurs 1-7, 4-9 eller i gymnasieskolan (examen före 2001):**  
+De lärarutbildningar som gavs före 2001 avsåg antingen examen avsedd för undervisning i grundskolans årskurs 1-7 eller 4-9, eller för gymnasieskolan. Målen för respektive lärarexamen enligt äldre bestämmelser finns att finna i tidigare version av examensordningen i högskoleförordningen (SFS 1993:100).
 
 ###
 
@@ -415,7 +415,7 @@ Examen avsedd för undervisning i grundskolans årskurs 1-7, grundskolans årsku
 
 ***För student som har ett självständigt arbete inom ramen för ämnesstudierna krävs ej denna kurs.**
 
-- En valideringskurs inom verksamhetsförlagd utbildning erbjuds (Verksamhetsförlagd utbildning, 7,5 hp
+- En valideringskurs inom verksamhetsförlagd utbildning erbjuds (Verksamhetsförlagd utbildning – VAL, 7,5 hp) som, om den godkänns, ligger till grund för validering av kurserna Verksamhetsförlagd utbildning 1-3, totalt, 30 hp
 
 *****Kurser för studenter som antas med minst åtta och ett halvt års lärarerfarenhet enligt SFS 2011:689 §17.**
 

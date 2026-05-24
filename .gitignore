@@ -24,6 +24,9 @@ public/
 # QA-rapporter (genererade, ej versionshanterade)
 qa/rapporter/
 qa/rapporter-utb/
+
+# QA-cache av nedlagda kursplaner (skrapas från du.se vid behov, ej i vault)
+qa/nedlagda-kursplaner/
 tsconfig.tsbuildinfo
 
 # docs folder

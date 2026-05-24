@@ -4,7 +4,7 @@ programnamn: "Ämneslärarprogrammet inriktning gymnasieskolan"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, ISLL, tvärfakultet]
-scrape_hash: 86aac29ab190f446
+scrape_hash: a02044eb94b7ad96
 up: "ISLL MOC"
 ---
 
@@ -50,7 +50,7 @@ Inom det område som utbildningen avser ska studenterna, utöver kunskaper och f
 
 För ämneslärarexamen ska studenten visa sådan kunskap och förmåga som krävs för att självständigt arbeta som ämneslärare i den verksamhet som utbildningen avser. Studenten ska även visa kunskap och förmåga för annan undervisning för vilken examen enligt gällande föreskrifter kan ge behörighet. 
 
-**Kunskap och förståelse **   
+**Kunskap och förståelse**    
 För ämneslärarexamen med inriktning mot arbete i gymnasieskolan ska studenten 
 
   - visa sådana ämneskunskaper som krävs för yrkesutövningen, inbegripet såväl brett kunnande inom ämnesstudiernas huvudområde som väsentligt fördjupade kunskaper inom vissa delar av detta område och fördjupad insikt i aktuellt forsknings- och utvecklingsarbete. 
@@ -145,8 +145,8 @@ Studierna inom den utbildningsvetenskapliga kärnan ska anknyta till kommande yr
 **Självständigt arbete (examensarbete)**   
 För ämneslärarexamen ska studenten inom ramen för kursfordringarna ha fullgjort ett självständigt arbete (examensarbete) om 30 högskolepoäng i ett av de undervisningsämnen för vilket utbildningen är avsedd.
 
-**2.2 Utbildningens struktur  
-**Ämneslärarprogrammet inriktning gymnasieskolan består av två integrerade utbildningsområden, ämnesstudier och pedagogiskt arbete. Dessa två utbildningsområden varvas genom utbildningen i form av en inbyggd progression mot examensmålen. I de fall det krävs 120 hp i två ämnen görs en individuell studieplan.
+**2.2 Utbildningens struktur**  
+Ämneslärarprogrammet inriktning gymnasieskolan består av två integrerade utbildningsområden, ämnesstudier och pedagogiskt arbete. Dessa två utbildningsområden varvas genom utbildningen i form av en inbyggd progression mot examensmålen. I de fall det krävs 120 hp i två ämnen görs en individuell studieplan.
 
 **300 hp (120+90)**
 
@@ -167,13 +167,13 @@ T10: Examensarbete i ämne 1 eller 2
 
 Betyg sätts på del av kurs och på fullständig kurs på sätt som framgår av kursplanen. Inom programmet används betygsskalan _Väl godkänd_, _Godkänd_ eller _Underkänd_.
 
-**2.2.1 Ämnesstudier och examensarbete  
-**Ämnesstudierna består av akademiska ämneskurser och ämnesdidaktik. Ämnesstudierna ger på så vis både fördjupade ämneskunskaper och en tydlig yrkesförberedelse. För att ytterligare stärka yrkesrelevansen genomförs obligatoriska fältdagar inom ramen för ämnesstudierna. 
+**2.2.1 Ämnesstudier och examensarbete**  
+Ämnesstudierna består av akademiska ämneskurser och ämnesdidaktik. Ämnesstudierna ger på så vis både fördjupade ämneskunskaper och en tydlig yrkesförberedelse. För att ytterligare stärka yrkesrelevansen genomförs obligatoriska fältdagar inom ramen för ämnesstudierna. 
 
 De ämnes- och ämnesdidaktiska studierna omfattar 90 högskolepoäng på grundnivå i två ämnen, vilka sedan följs upp av kurser i pedagogiskt arbete (utbildningsvetenskaplig kärna, UVK, och verksamhetsförlagd utbildning, VFU, i ämnet).  Ämnesstudierna avslutas med ett ämnesdidaktiskt examensarbete om 30 högskolepoäng i ett av utbildningens ämnen. 
 
-**2.2.2 Pedagogiskt arbete med verksamhetsförlagd utbildning  
-**Pedagogiskt arbete består av utbildningsvetenskaplig kärna (UVK) om 60 högskolepoäng och högskolepoäng verksamhetsförlagd utbildning om 30 högskolepoäng. Pedagogiskt arbete fokuserar den pedagogiska yrkesverksamhetens praktik och teori. Ämnet är således mångvetenskapligt och integrerar teorier och metoder från olika forskningsfält där den pedagogiska yrkesverksamheten står i centrum.
+**2.2.2 Pedagogiskt arbete med verksamhetsförlagd utbildning**  
+Pedagogiskt arbete består av utbildningsvetenskaplig kärna (UVK) om 60 högskolepoäng och högskolepoäng verksamhetsförlagd utbildning om 30 högskolepoäng. Pedagogiskt arbete fokuserar den pedagogiska yrkesverksamhetens praktik och teori. Ämnet är således mångvetenskapligt och integrerar teorier och metoder från olika forskningsfält där den pedagogiska yrkesverksamheten står i centrum.
 
 Den verksamhetsförlagda utbildningen omfattar 30 högskolepoäng och genomförs inom relevant verksamhet och inom utbildningens ingående ämnen, vilket innebär att den studerande genomför verksamhetsförlagd utbildning i samtliga undervisningsämnen som ingår i examen. De praktiska momenten integreras med ämnesdidaktiska studier men också med UVK-kursernas innehåll för att skapa goda förutsättningar för den studerande att successivt utveckla förmågan att planera, genomföra, utvärdera och utveckla sin ämnesundervisning.
 

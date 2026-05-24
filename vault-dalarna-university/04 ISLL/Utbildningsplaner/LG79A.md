@@ -4,7 +4,7 @@ programnamn: "Ämneslärarprogrammet inriktning grundskolans årskurs 7-9"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, ISLL, tvärfakultet]
-scrape_hash: ad3563476cc1b4dc
+scrape_hash: 3044348929c22393
 up: "ISLL MOC"
 ---
 
@@ -50,8 +50,8 @@ Inom det område som utbildningen avser ska studenterna, utöver kunskaper och f
 
 För ämneslärarexamen ska studenten visa sådan kunskap och förmåga som krävs för att självständigt arbeta som ämneslärare i den verksamhet som utbildningen avser. Studenten ska även visa kunskap och förmåga för annan undervisning för vilken examen enligt gällande föreskrifter kan ge behörighet. 
 
-**Kunskap och förståelse   
-**För ämneslärarexamen med inriktning mot arbete i årskurs 7–9 ska studenten 
+**Kunskap och förståelse**   
+För ämneslärarexamen med inriktning mot arbete i årskurs 7–9 ska studenten 
 
   - visa sådana ämneskunskaper som krävs för yrkesutövningen, inbegripet såväl överblick över ämnesstudiernas huvudområde som fördjupade kunskaper inom vissa delar av detta område och insikt i aktuellt forsknings- och utvecklingsarbete.
 
@@ -102,8 +102,8 @@ För ämneslärarexamen ska studenten
 
   - visa förmåga att i den pedagogiska verksamheten utveckla färdigheter som är värdefulla för yrkesutövningen. 
 
-**Värderingsförmåga och förhållningssätt   
-**För ämneslärarexamen ska studenten 
+**Värderingsförmåga och förhållningssätt**   
+För ämneslärarexamen ska studenten 
 
   - visa självkännedom och empatisk förmåga, 
 
@@ -117,8 +117,8 @@ För ämneslärarexamen ska studenten
 
 ## 2. Huvudsaklig uppläggning
 
-**2.1 Omfattning enligt Högskoleförordningen (1993:100), bilaga 2  
-**Ämneslärarexamen med inriktning mot arbete i grundskolans årskurs 7–9 avläggs på avancerad nivå och uppnås efter att studenten har fullgjort kursfordringar om 240 eller, när så krävs, 270 högskolepoäng. 
+**2.1 Omfattning enligt Högskoleförordningen (1993:100), bilaga 2**  
+Ämneslärarexamen med inriktning mot arbete i grundskolans årskurs 7–9 avläggs på avancerad nivå och uppnås efter att studenten har fullgjort kursfordringar om 240 eller, när så krävs, 270 högskolepoäng. 
 
 För examen krävs att utbildningen omfattar följande områden: ämnes- och ämnesdidaktiska studier med relevans för undervisning i något av skolväsendets ämnen för vilket det finns en fastlagd kurs- eller ämnesplan, utbildningsvetenskaplig kärna om 60 högskolepoäng och verksamhetsförlagd utbildning om 30 högskolepoäng, förlagd inom relevant verksamhet och ämne.  
    
@@ -163,13 +163,13 @@ T8: Examensarbete
 
 Betyg sätts på del av kurs och på fullständig kurs på sätt som framgår av kursplanen. Inom programmet används betygsskalan _Väl godkänd_, _Godkänd_ eller _Underkänd_.
 
-**2.2.1 Ämnesstudier och examensarbete  
-**Ämnesstudierna består av akademiska ämneskurser och ämnesdidaktik. Ämnesstudierna ger på så vis både fördjupade ämneskunskaper och en tydlig yrkesförberedelse. För att ytterligare stärka yrkesrelevansen genomförs obligatoriska fältdagar inom ramen för ämnesstudierna. 
+**2.2.1 Ämnesstudier och examensarbete**  
+Ämnesstudierna består av akademiska ämneskurser och ämnesdidaktik. Ämnesstudierna ger på så vis både fördjupade ämneskunskaper och en tydlig yrkesförberedelse. För att ytterligare stärka yrkesrelevansen genomförs obligatoriska fältdagar inom ramen för ämnesstudierna. 
 
 De ämnes- och ämnesdidaktiska studierna omfattar 60 högskolepoäng på grundnivå i två ämnen, vilka sedan följs upp av kurser i pedagogiskt arbete (utbildningsvetenskaplig kärna, UVK, och verksamhetsförlagd utbildning, VFU, i ämnet).  Ämnesstudierna avslutas med ett ämnesdidaktiskt examensarbete om 30 högskolepoäng i ett av utbildningens ämnen. 
 
-**2.2.2 Pedagogiskt arbete med verksamhetsförlagd utbildning  
-**Pedagogiskt arbete består av utbildningsvetenskaplig kärna (UVK) om 60 högskolepoäng och högskolepoäng verksamhetsförlagd utbildning om 30 högskolepoäng. Pedagogiskt arbete fokuserar den pedagogiska yrkesverksamhetens praktik och teori.  Ämnet är således mångvetenskapligt och integrerar teorier och metoder från olika forskningsfält där den pedagogiska yrkesverksamheten står i centrum.
+**2.2.2 Pedagogiskt arbete med verksamhetsförlagd utbildning**  
+Pedagogiskt arbete består av utbildningsvetenskaplig kärna (UVK) om 60 högskolepoäng och högskolepoäng verksamhetsförlagd utbildning om 30 högskolepoäng. Pedagogiskt arbete fokuserar den pedagogiska yrkesverksamhetens praktik och teori.  Ämnet är således mångvetenskapligt och integrerar teorier och metoder från olika forskningsfält där den pedagogiska yrkesverksamheten står i centrum.
 
 Den verksamhetsförlagda utbildningen omfattar 30 högskolepoäng och genomförs inom relevant verksamhet och inom utbildningens ingående ämnen, vilket innebär att den studerande genomför verksamhetsförlagd utbildning i samtliga undervisningsämnen som ingår i examen. De praktiska momenten integreras med ämnesdidaktiska studier men också med UVK-kursernas innehåll för att skapa goda förutsättningar för den studerande att successivt utveckla förmågan att planera, genomföra, utvärdera och utveckla sin ämnesundervisning.
 
@@ -198,10 +198,10 @@ Den verksamhetsförlagda utbildningen har en progression där den studerande fö
 - Ämne 2 med didaktisk inriktning II, 30 hp
 - Examensarbete i ämne 1 eller 2, 30 hp
 
-****Ämneskombinationer**
+****Ämneskombinationer****
 
 
-****I enlighet med Förordningen (2021:1335) om utbildning till lärare och förskollärare, 4 kap, kan samtliga ämnen vid Högskolan Dalarna, inom ramen för en 7-9-examen, kombineras fritt med varandra med undantag för följande begränsningar:**
+**I enlighet med Förordningen (2021:1335) om utbildning till lärare och förskollärare, 4 kap, kan samtliga ämnen vid Högskolan Dalarna, inom ramen för en 7-9-examen, kombineras fritt med varandra med undantag för följande begränsningar:**
 
 
 **- Ämnena bild och idrott och hälsa kan inte kombineras med varandra.**

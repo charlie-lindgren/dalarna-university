@@ -131,21 +131,15 @@ Som en förberedelse för examensarbetet läser studenterna kursen Forskningsdes
 
 **Alla kurser i programmet ingår i huvudområdet företagsekonomi.**
 
-
-**Obligatoriska kurser (30 hp):**
-
+- Obligatoriska kurser, 30 hp
 - [[FÖ3042|Företagens samhällsansvar i ett internationellt perspektiv]], 7,5 hp
 - [[FÖ3034|Knowledge Management]], 7,5 hp
 - [[FÖ3043|Forskningsdesign, vetenskapsteori och metod]], 15 hp
-
-**Valbar Inriktningskurs (15hp):**
-
+- Valbar Inriktningskurs, 15hp
 - [[FÖ3036|Internationell handel och marknadsföring]], 15 hp
 - [[FÖ3032|Redovisning och styrning av internationellt verksamma företag]], 15 hp
 - Studier i Internationell Human Resource Management, 15 hp
-
-**Examensarbete (15 hp)**
-
+- <a class="no-graph" href="TY2007">Examensarbete</a>, 15 hp
 - [[AFÖ26H|Examensarbete för magisterexamen i företagsekonomi]], 15 hp
 
 ## 4. Examensbenämning

@@ -89,15 +89,13 @@ Programmets första termin inleds med kurserna Kärnområden i tillämpad engels
 
 **Alla kurser utom den valfria ingår i huvudområdet Tillämpad engelsk lingvistik**
 
-- Kärnområden i tillämpad engelsk lingvistik (7, 5 hp
-- Teman inom tillämpad engelsk lingvistik (7, 5 hp
-- Diskursanalys (7, 5 hp
-- Metoder inom tillämpad engelsk lingvistik (7, 5 hp
-- Engelsk språkvetenskap i tal och skrift (7, 5 hp
-- Valfri kurs (7, 5 hp
-
-**- Magisterexamensarbete i tillämpad engelsk lingvistik (15 hp)**
-
+- Kärnområden i tillämpad engelsk lingvistik, 7,5 hp
+- [[EN3075|Teman inom tillämpad engelsk lingvistik]], 7,5 hp
+- [[EN3072|Diskursanalys]], 7,5 hp
+- [[EN3073|Metoder inom tillämpad engelsk lingvistik]], 7,5 hp
+- [[EN3074|Engelsk språkvetenskap i tal och skrift]], 7,5 hp
+- Valfri kurs, 7,5 hp
+- [[EN3077|Magisterexamensarbete i tillämpad engelsk lingvistik]], 15 hp
 
 ## 4. Examensbenämning
 
