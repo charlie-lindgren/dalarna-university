@@ -741,6 +741,7 @@ CHECK_LABELS = {
     "förkunskap-saknas":     "Förkunskapskrav saknas",
     "förkunskap-bara-engelska": "Förkunskapskrav endast på engelska",
     "förkunskap-okand-kurs": "Förkunskapskrav refererar troligen nedlagd kurs",
+    "nedlagd-förkunskapskrav": "Förkunskapskrav refererar bekräftat nedlagd kurs",
 }
 
 
@@ -773,6 +774,14 @@ def main():
         ("Förkunskap-okänd-kurs",    check_forkunskap_okand_kurs),
         ("Övrigt",                   check_ovrigt),
     ]
+
+    # Bekräftat-nedlagda-check körs bara om QA-cachen är populerad.
+    try:
+        from checks_nedlagda import check_nedlagda_prereqs_kurs, load_index
+        if len(load_index()) > 0:
+            steps.append(("Förkunskap-bekräftat-nedlagd", check_nedlagda_prereqs_kurs))
+    except ImportError:
+        pass
 
     if not args.skip_hunspell:
         steps.insert(2, ("Hunspell svenska", check_hunspell_sv))

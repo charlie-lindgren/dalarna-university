@@ -67,15 +67,17 @@ def vilande_xlsx_for(inst_code: str) -> Path:
 COURSE_PAGE_URL = "https://www.du.se/sv/utbildning/kurser/kurs/?code={code}"
 
 STATUS_VILANDE = "vilande"
-ALL_STATUS_TAGS = {STATUS_VILANDE, "ej-aktiv"}
+STATUS_NEDLAGD = "nedlagd"
+ALL_STATUS_TAGS = {STATUS_VILANDE, STATUS_NEDLAGD, "ej-aktiv"}
 
 
 def kursplaner_dir(inst_code: str) -> Path:
     return VAULT / INST_DIR_NAME[inst_code] / "Kursplaner"
 
-BOLD   = "\033[1m"
-GREEN  = "\033[0;32m"
-YELLOW = "\033[0;33m"
+BOLD    = "\033[1m"
+GREEN   = "\033[0;32m"
+YELLOW  = "\033[0;33m"
+MAGENTA = "\033[0;35m"
 RED    = "\033[0;31m"
 CYAN   = "\033[0;36m"
 RESET  = "\033[0m"
@@ -276,7 +278,7 @@ def set_course_status(path: Path, subject_name: str, status: str, apply: bool) -
 
     Returnerar True om filen ändrades.
     """
-    if status not in {"active", STATUS_VILANDE}:
+    if status not in {"active", STATUS_VILANDE, STATUS_NEDLAGD}:
         raise ValueError(f"Okänd status: {status}")
 
     text = path.read_text(encoding="utf-8")
@@ -713,7 +715,20 @@ def main():
     print(f"\n{BOLD}Jämför mot vault …{RESET}")
     vault_codes = list_vault_codes_per_subject()
 
+    # QA-cache: kurser som du.se markerat som nedlagda. Vi vill skilja
+    # vilande (kursplan finns kvar, ingen kursomgång) från nedlagd (kursplan
+    # officiellt avvecklad). Saknas cachen körs vi som tidigare — allt utan
+    # match klassas då som vilande.
+    try:
+        from checks_nedlagda import load_index as _load_nedlagda
+        nedlagda_codes = set(_load_nedlagda().by_code.keys())
+        if nedlagda_codes:
+            print(f"  ({len(nedlagda_codes)} nedlagda kurskoder från QA-cachen)")
+    except Exception:
+        nedlagda_codes = set()
+
     total_vilande = 0
+    total_nedlagd = 0
     total_reactivated = 0
     vilande_rows: list[tuple[str, str, str, str, str, str | None, str | None]] = []
 
@@ -735,9 +750,18 @@ def main():
             if set_course_status(path, subj_name, "active", args.apply):
                 reactivated.append(code)
 
-        # Binär modell: kurser utan aktiv kursomgång klassas som vilande.
+        # Tre-värd modell: kurser utan aktiv kursomgång klassas som
+        # vilande, om de inte finns i nedlagda-cachen — då är de officiellt
+        # nedlagda och får ``nedlagd``-tagg istället. Nedlagda kurser är
+        # auktoritativt bekräftade av du.se, så ingen extra nätverksslagning
+        # behövs för dem.
+        nedlagd_codes_subj: list[str] = []
         for code in suspected:
             path = vault_for_subj[code]
+            if code in nedlagda_codes:
+                set_course_status(path, subj_name, STATUS_NEDLAGD, args.apply)
+                nedlagd_codes_subj.append(code)
+                continue
             if course_has_active_occasion(code):
                 if set_course_status(path, subj_name, "active", args.apply):
                     reactivated.append(code)
@@ -758,18 +782,24 @@ def main():
                 )
             time.sleep(REQUEST_DELAY)
 
-        if vilande_codes or reactivated:
+        if vilande_codes or reactivated or nedlagd_codes_subj:
             label = f"{subj_code} ({subj_name})"
             print(f"  {label:50s}  "
                   f"{YELLOW}+{len(vilande_codes)} vilande{RESET}  "
+                  f"{MAGENTA}+{len(nedlagd_codes_subj)} nedlagd{RESET}  "
                   f"{GREEN}-{len(reactivated)} reactivated{RESET}")
 
             for c in vilande_codes[:5]:
                 print(f"      vilande: {c}")
             if len(vilande_codes) > 5:
                 print(f"      … och {len(vilande_codes) - 5} till")
+            for c in nedlagd_codes_subj[:5]:
+                print(f"      nedlagd: {c}")
+            if len(nedlagd_codes_subj) > 5:
+                print(f"      … och {len(nedlagd_codes_subj) - 5} till")
 
         total_vilande += len(vilande_codes)
+        total_nedlagd += len(nedlagd_codes_subj)
         total_reactivated += len(reactivated)
 
     rows_by_inst: dict[str, list[tuple[str, str, str, str, str, str | None, str | None]]] = defaultdict(list)
@@ -788,6 +818,7 @@ def main():
 
     print(f"\n{BOLD}Sammanfattning{RESET}")
     print(f"  Vilande:             {total_vilande}")
+    print(f"  Nedlagda:            {total_nedlagd}")
     print(f"  Återaktiverade:      {total_reactivated}")
     print(f"  Ämnes-MOC:ar ombyggda: {moc_rebuilt}")
     print(f"  Stray-MOC:ar borttagna: {stray_removed}")
