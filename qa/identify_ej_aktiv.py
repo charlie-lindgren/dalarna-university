@@ -321,6 +321,18 @@ def set_course_status(path: Path, subject_name: str, status: str, apply: bool) -
         new_fm = update_fm_field(new_fm, "up", target_up)
         changed = True
 
+    # draft: nedlagda kurser ska inte vara individuella noder på sajten.
+    # Quartz ``RemoveDrafts``-filtret exkluderar dem från build/graph; filen
+    # blir kvar i vaulten så att tag-historiken bevaras tills nästa fullskrap.
+    draft_m = re.search(r'^draft:\s*(.+)$', new_fm, re.MULTILINE)
+    has_draft = bool(draft_m) and draft_m.group(1).strip().lower() in {"true", '"true"'}
+    if status == STATUS_NEDLAGD and not has_draft:
+        new_fm = update_fm_field(new_fm, "draft", "true")
+        changed = True
+    elif status != STATUS_NEDLAGD and draft_m:
+        new_fm = update_fm_field(new_fm, "draft", None)
+        changed = True
+
     new_text = "---\n" + new_fm.rstrip("\n") + "\n---\n" + body
     if not changed or new_text == text:
         return False
