@@ -156,6 +156,11 @@ def _normalize_course_name(raw: str) -> str:
 
 
 _AKK_RE = re.compile(r"\b(?:åk|årskurs)\s+(?=[F\d])", re.I)
+# Svensk ellips i sammansättningar: "System- och verksamhetsutveckling"
+# matchar samma kursplan som "System och verksamhetsutveckling". Strip
+# trailing-bindestreck (efter ord, före whitespace) innan vi kollapsar
+# resterande dashar.
+_ELLIPSIS_DASH_RE = re.compile(r"(?<=\w)[-–—](?=\s)")
 _DASH_WS_RE = re.compile(r"\s*[-–—]\s*")
 _MULTI_WS_RE = re.compile(r"\s+")
 
@@ -163,13 +168,15 @@ _MULTI_WS_RE = re.compile(r"\s+")
 def _normalize_aggressive(name: str) -> str:
     """Forgiving form for matcher lookups.
 
-    Lowercase, drop ``åk``/``årskurs`` tokens before a grade range, collapse
-    whitespace around dashes (``F -3`` → ``F-3``) and unify dash variants.
-    Used in addition to the strict index key so programme bullets phrased
-    slightly differently than the kursplan title still match.
+    Lowercase, drop ``åk``/``årskurs`` tokens before a grade range, strip
+    Swedish elliptic-compound hyphens (``System- och X`` ≡ ``System och X``),
+    collapse whitespace around dashes (``F -3`` → ``F-3``) and unify dash
+    variants. Used in addition to the strict index key so programme bullets
+    phrased slightly differently than the kursplan title still match.
     """
     n = name.strip().lower()
     n = _AKK_RE.sub("", n)
+    n = _ELLIPSIS_DASH_RE.sub("", n)
     n = _DASH_WS_RE.sub("-", n)
     n = _MULTI_WS_RE.sub(" ", n)
     return n.strip()

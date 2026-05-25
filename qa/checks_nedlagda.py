@@ -33,6 +33,11 @@ INST_DIRS = ["01 IIT", "02 IHV", "03 IKS", "04 ISLL"]
 # ``scripts/scrape_hda_utbildningsplaner.py``. Vi duplicerar den medvetet
 # här för att hålla qa/-modulerna oberoende av scripts/.
 _AKK_RE = re.compile(r"\b(?:åk|årskurs)\s+(?=[F\d])", re.I)
+# Svensk ellips i sammansättningar: "System- och verksamhetsutveckling" är
+# en kortform av "Systemutveckling och verksamhetsutveckling". För matchning
+# ska den vara likvärdig med "System och verksamhetsutveckling" — annars
+# blir nedlagda GIK2JW felaktigt prioriterad framför aktiva GIK2XZ.
+_ELLIPSIS_DASH_RE = re.compile(r"(?<=\w)[-–—](?=\s)")
 _DASH_WS_RE = re.compile(r"\s*[-–—]\s*")
 _MULTI_WS_RE = re.compile(r"\s+")
 
@@ -40,6 +45,7 @@ _MULTI_WS_RE = re.compile(r"\s+")
 def _aggressive(name: str) -> str:
     n = name.strip().lower()
     n = _AKK_RE.sub("", n)
+    n = _ELLIPSIS_DASH_RE.sub("", n)
     n = _DASH_WS_RE.sub("-", n)
     n = _MULTI_WS_RE.sub(" ", n)
     return n.strip()
