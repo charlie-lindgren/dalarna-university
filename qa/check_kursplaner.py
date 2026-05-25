@@ -175,12 +175,13 @@ def check_frasning(files: list[Path]) -> list[dict]:
 # Check 6 — Betygsskala
 # ─────────────────────────────────────────────────────────────────────────────
 AF_RE = re.compile(r"\bA\s*[–\-]\s*F\b|\bA,\s*B,\s*C,\s*D,\s*E\b", re.IGNORECASE)
-MIXED_SCALE_RE = re.compile(r"\bU\s*[,/]\s*3\b.*?\bU\s*[,/]\s*[GV]", re.DOTALL | re.IGNORECASE)
-MIXED_SCALE_EXEMPT: set[str] = {
-    "GBY2ME", "GBY2NG", "GBY2V5",
-    "BFY227", "FY1018",
-    "EG3019", "GEG2UE",
-}
+# Äkta inkonsekvens = två distinkta numeriska skalor i samma kurs: kursnivå
+# U,3,4,5 men VG nämns någonstans (VG hör till U,G,VG-skalan). En blandning
+# med rena U,G-delmoment är däremot legitim — t.ex. att seminarier/labbar
+# bedöms godkänt/underkänt medan det slutliga kursbetyget sätts på 3/4/5-
+# skalan utifrån en tentamen. Tidigare regex matchade både `U,G` och `U,VG`
+# vilket gav falska positiva för GMT228, GBY2ME m.fl.
+MIXED_SCALE_RE = re.compile(r"\bU\s*[,/]\s*3\b.*?\bV\s*G\b", re.DOTALL | re.IGNORECASE)
 
 
 def check_betygsskala(files: list[Path]) -> list[dict]:
@@ -190,12 +191,12 @@ def check_betygsskala(files: list[Path]) -> list[dict]:
         betyg_section = extract_section(body, "Betyg")
         if not betyg_section:
             continue
-        if MIXED_SCALE_RE.search(betyg_section) and course_code(p) not in MIXED_SCALE_EXEMPT:
+        if MIXED_SCALE_RE.search(betyg_section):
             findings.append({
                 "check": "betygsskala-inkonsekvent",
                 "code": course_code(p),
                 "subj": subject(p),
-                "detail": "Inkonsekvent delskalor: kursnivå U,3,4,5 men delmoment i U,G,VG",
+                "detail": "Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment",
             })
     return findings
 
