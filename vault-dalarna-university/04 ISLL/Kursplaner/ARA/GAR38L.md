@@ -9,7 +9,7 @@ amne: "Arabiska"
 amne_kod: "ARA"
 institution: "ISLL"
 tags: [kursplan, ARA, ISLL]
-scrape_hash: 415757fd67302257
+scrape_hash: f8244ff848895978
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR38L
 up: "[[Arabiska MOC]]"
 ---
@@ -47,7 +47,7 @@ Efter godkänd kurs ska studenten kunna:
 
 ## Innehåll
 
-Kursen består av tre moduler. Modulen _Språkfärdighet 2 _bygger på färdigheter från _Språkfärdighet 1_. I båda modulerna ingår varierade skönlitterära texter, nyhetstexter och reportage samt kortare filmer och sånger. Vid diskussion av de skönlitterära texterna introduceras enklare analytiska begrepp. Kursen behandlar grunderna i arabisk grammatisk analys och detta appliceras på lättare texter. En jämförelse mellan syrisk/egyptisk dialekt och MSA genomförs. Modulen _Arabiska lexikon och uppslagsverk_ är fristående och läses individuellt och behandlar hur arabiska lexikon och uppslagsverk har utvecklats och hur dessa används.
+Kursen består av tre moduler. Modulen _Språkfärdighet 2_ bygger på färdigheter från _Språkfärdighet 1_. I båda modulerna ingår varierade skönlitterära texter, nyhetstexter och reportage samt kortare filmer och sånger. Vid diskussion av de skönlitterära texterna introduceras enklare analytiska begrepp. Kursen behandlar grunderna i arabisk grammatisk analys och detta appliceras på lättare texter. En jämförelse mellan syrisk/egyptisk dialekt och MSA genomförs. Modulen _Arabiska lexikon och uppslagsverk_ är fristående och läses individuellt och behandlar hur arabiska lexikon och uppslagsverk har utvecklats och hur dessa används.
 
 ## Examinationsformer
 
@@ -109,8 +109,8 @@ On completion of the course, students will be able to:
 
 ### Course Content
 
-The course consists of three modules. The module _Language Proficiency 2 _builds on the skills acquired in _Language Proficiency 1_. In both modules, students study various fictional texts, news and articles as well as short films and songs. Simple analytical terms are introduced in discussions about fictional texts. Students learn the basics of Arabic grammar  
-analysis and apply this to simple texts. They carry out a comparison between the Syrian/Egyptian dialects and MSA. The module _Arabic Dictionaries and Encyclopaedias _is taken on its own. Students study how Arabic dictionaries and encyclopaedias have developed and how they are used.
+The course consists of three modules. The module _Language Proficiency 2_ builds on the skills acquired in _Language Proficiency 1_. In both modules, students study various fictional texts, news and articles as well as short films and songs. Simple analytical terms are introduced in discussions about fictional texts. Students learn the basics of Arabic grammar  
+analysis and apply this to simple texts. They carry out a comparison between the Syrian/Egyptian dialects and MSA. The module _Arabic Dictionaries and Encyclopaedias_ is taken on its own. Students study how Arabic dictionaries and encyclopaedias have developed and how they are used.
 
 ### Assessment
 
@@ -128,7 +128,7 @@ analysis and apply this to simple texts. They carry out a comparison between the
 
 The grading scale used for the final course grade is U–VG.
 
-To achieve the grade of VG for the whole course, students require VG in the modules _Language Proficiency 1_ and _Language__ Proficiency 2._
+To achieve the grade of VG for the whole course, students require VG in the modules _Language Proficiency 1_ and _Language_ _Proficiency 2._
 
 To be able to receive the grade of VG, students must submit their assignments by the set deadline.
 

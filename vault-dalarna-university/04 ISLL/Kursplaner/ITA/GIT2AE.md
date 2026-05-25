@@ -9,7 +9,7 @@ amne: "Italienska"
 amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL]
-scrape_hash: c4da2d780486a2a5
+scrape_hash: 3bcc63cb8899f92c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2AE
 up: "[[Italienska MOC]]"
 ---
@@ -79,7 +79,7 @@ Modul 2: Avslutande skriftligt prov - 4 hp
 Undervisningen är nätbaserad och sker med stöd av
 en lärplattform och digitala verktyg. Det kräver att studenten har tillgång
 till dator med ljudkort och nätuppkoppling, headset med mikrofon och hörlurar
-samt en fristående webbkamera.****  
+samt en fristående webbkamera.  
 
 Ersätter IT1026.
 

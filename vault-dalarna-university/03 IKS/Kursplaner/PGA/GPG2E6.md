@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 185ed67ac73dc7dd
+scrape_hash: bcca2877627d5a55
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2E6
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -70,7 +70,7 @@ ventileringsseminarium.
 ## Examinationsformer
 
 Kursen examineras genom muntliga redovisningar samt två skriftliga
-inlämningsuppgifter.****
+inlämningsuppgifter.
 
 ## Arbetsformer
 

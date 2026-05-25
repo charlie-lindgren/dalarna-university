@@ -10,7 +10,7 @@ amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 56a8c74372ec88ef
+scrape_hash: a1d1d16c13747ef4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2YB
 up: "[[Italienska MOC]]"
 ---
@@ -71,7 +71,7 @@ Betygsrapportering:
 ## Övrigt
 
 Kursen överlappar följande kurser och kan inte tas med i en examen tillsammans med någon av dessa:  
-_Italienska A: Textanalys, familjeskildringar,_ 7,5 hp; _Italienska A: Textanalys, barn- och ungdomsskildringar,_ 7,5 hp; _Italienska A: Textanalys, kvinnoskildringar, _7,5 hp; _Italienska A: Textanalys, __1900-talets skönlitteratur,_ 7,5 hp; _Italienska A: Textanalys, krig och fred, _7,5 hp; _Italienska A: Textanalys, en litterär resa i norra Italien_, 7,5 hp; _Italienska_ _A: Textanalys, en litterär resa i mellersta Italien_, 7,5 hp; _Italienska A: Textanalys, en litterär resa i södra Italien_, 7,5 hp; _Italienska A: Textanalys, en litterär resa på de italienska öarna_, 7,5 hp; _Italienska A: Textanalys, deckargenren_, 7,5 hp.
+_Italienska A: Textanalys, familjeskildringar,_ 7,5 hp; _Italienska A: Textanalys, barn- och ungdomsskildringar,_ 7,5 hp; _Italienska A: Textanalys, kvinnoskildringar,_ 7,5 hp; _Italienska A: Textanalys,_ _1900-talets skönlitteratur,_ 7,5 hp; _Italienska A: Textanalys, krig och fred,_ 7,5 hp; _Italienska A: Textanalys, en litterär resa i norra Italien_, 7,5 hp; _Italienska_ _A: Textanalys, en litterär resa i mellersta Italien_, 7,5 hp; _Italienska A: Textanalys, en litterär resa i södra Italien_, 7,5 hp; _Italienska A: Textanalys, en litterär resa på de italienska öarna_, 7,5 hp; _Italienska A: Textanalys, deckargenren_, 7,5 hp.
 
 ## English Version
 

@@ -9,7 +9,7 @@ amne: "Företagsekonomi"
 amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
-scrape_hash: 25dd2c47aa1c65dc
+scrape_hash: 23b939af097946f4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ2XB
 up: "[[Företagsekonomi MOC]]"
 ---
@@ -84,9 +84,7 @@ Kursen kan ej användas i en examen tillsammans med kurserna Organisation C, Red
 
 ### Learning Outcomes
 
-**Learning Outcomes
-
-**
+**Learning Outcomes**
 
 Upon completion of the course, students shall be able to:
 

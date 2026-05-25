@@ -9,7 +9,7 @@ amne: "Mikrodataanalys"
 amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
-scrape_hash: 7cfb6c124a147098
+scrape_hash: d8dc82f99564bcda
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI35R
 up: "[[Mikrodataanalys MOC]]"
 ---
@@ -67,7 +67,7 @@ Kursen ger en introduktion till hur operativsystem är uppbyggda och fungerar. B
 
 Som betygsskala på hel kurs används U–G.
 
-För att erhålla betyg_ Godkänd_ krävs betyget _Godkänd_ på samtliga av kursens examinerande moment.
+För att erhålla betyg _Godkänd_ krävs betyget _Godkänd_ på samtliga av kursens examinerande moment.
 
 Betyg rapporteras enligt följande:
 

@@ -9,7 +9,7 @@ amne: "Italienska"
 amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL]
-scrape_hash: a42752a76f3e9873
+scrape_hash: e748d9d53389c068
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2Y8
 up: "[[Italienska MOC]]"
 ---
@@ -109,7 +109,7 @@ Obligatory seminars in which students must participate actively and interact wi
 
 The Swedish grades U–VG.
 
-To achieve the grade of VG in the whole course, students must achieve VG in the modules _Written Examination _and _Written Assignments._
+To achieve the grade of VG in the whole course, students must achieve VG in the modules _Written Examination_ and _Written Assignments._
   
 Reporting of grades:
 

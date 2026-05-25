@@ -8,7 +8,7 @@ amne: "Industriell ekonomi"
 amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
-scrape_hash: 854d765d4c0c4c0e
+scrape_hash: 3b12fd31cf7a54da
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2L7
 up: "[[Industriell ekonomi MOC]]"
 ---
@@ -36,9 +36,9 @@ Efter avslutad kurs ska studenten kunna
 
   - redogöra för vanligt förekommande arbetssätt och verktyg inom Lean.
 
-_  
-Färdighet och förmåga   
-_Efter avslutad kurs ska studenten kunna
+  
+_Färdighet och förmåga_   
+Efter avslutad kurs ska studenten kunna
 
   - analysera och diskutera hur företag och andra organisationer kan arbeta med Lean utifrån såväl centrala principer och synsätt som konkreta metoder och verktyg.
 

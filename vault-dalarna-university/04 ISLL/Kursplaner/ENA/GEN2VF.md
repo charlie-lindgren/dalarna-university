@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: be0ae17091a26a4a
+scrape_hash: 294906d77becdc65
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2VF
 up: "[[Engelska MOC]]"
 ---
@@ -103,8 +103,8 @@ On completion of the course, students will be able to:
 
 ### Course Content
 
-The course consists of three modules.**  
-Module 1. ****Grammar - 7.5 credits**   
+The course consists of three modules.  
+**Module 1.** **Grammar - 7.5 credits**   
 The grammar module deals with the fundamental aspects of English grammar including applied exercises in contrastive analyses of authentic texts that have different kinds of grammatical problems.   
 **Module 2.** **Phonetics - 1.5 credits**   
 The phonetics module deals with the principles of English pronunciation as well as the main differences between English and Swedish pronunciation. English pronunciation is practiced through the study of phonetic transcription.   

@@ -9,7 +9,7 @@ amne: "Arbetsvetenskap"
 amne_kod: "ABA"
 institution: "IKS"
 tags: [kursplan, ABA, IKS]
-scrape_hash: 549fdbb08812e7e3
+scrape_hash: 80444fbc357792f5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3H6
 up: "[[Arbetsvetenskap MOC]]"
 ---
@@ -41,7 +41,7 @@ Efter godkänd kurs ska studenten kunna:
 
 ## Innehåll
 
-I kursen introduceras arbetsvetenskapliga teorier med fokus på arbete och arbetsorganisation. I modulen _Teorier, begrepp och modelle_r ingår arbetets villkor och organisering samt lärande i organisationer. Organisationskultur och ledarskap introduceras. I modulen _Tillämpning och reflektion _behandlas arbete ur perspektiven arbetsorganisation, lärande, maktstruktur och hållbart arbetsliv.
+I kursen introduceras arbetsvetenskapliga teorier med fokus på arbete och arbetsorganisation. I modulen _Teorier, begrepp och modelle_r ingår arbetets villkor och organisering samt lärande i organisationer. Organisationskultur och ledarskap introduceras. I modulen _Tillämpning och reflektion_ behandlas arbete ur perspektiven arbetsorganisation, lärande, maktstruktur och hållbart arbetsliv.
 
 ## Examinationsformer
 

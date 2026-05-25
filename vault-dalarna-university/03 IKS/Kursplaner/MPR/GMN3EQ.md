@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: be05aa3b94b6c75f
+scrape_hash: 701ae043266ad790
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EQ
 up: "[[Medieproduktion MOC]]"
 ---
@@ -43,7 +43,7 @@ Efter godkänd kurs ska studenten kunna:
 
 ## Innehåll
 
-I kursen studeras arbetsprocesser som sker inför och under inspelning av manusbaserad fiktionsfilm. Förmåga utvecklas att hantera avancerad filmteknik, inspelningsrutiner, manusnedbrytning samt hur en inspelning planeras på ett hållbart sätt. I den första modulen, _Yrkesroller, filmteknik och inspelningsrutiner_, utforskas ansvarsfördelning, yrkesroller och god samverkan mellan arbetsledande funktioner i ett filmteam utifrån branschrelevanta arbetsmiljöperspektiv. Den andra och tredje modulen, _Manusnedbrytning _respektive _Inspelningsplanering_, fokuserar på förutsättningar för skapandet av en verkningsfull filmberättelse utifrån estetiska, tekniska och organisatoriska aspekter.
+I kursen studeras arbetsprocesser som sker inför och under inspelning av manusbaserad fiktionsfilm. Förmåga utvecklas att hantera avancerad filmteknik, inspelningsrutiner, manusnedbrytning samt hur en inspelning planeras på ett hållbart sätt. I den första modulen, _Yrkesroller, filmteknik och inspelningsrutiner_, utforskas ansvarsfördelning, yrkesroller och god samverkan mellan arbetsledande funktioner i ett filmteam utifrån branschrelevanta arbetsmiljöperspektiv. Den andra och tredje modulen, _Manusnedbrytning_ respektive _Inspelningsplanering_, fokuserar på förutsättningar för skapandet av en verkningsfull filmberättelse utifrån estetiska, tekniska och organisatoriska aspekter.
 
 ## Examinationsformer
 

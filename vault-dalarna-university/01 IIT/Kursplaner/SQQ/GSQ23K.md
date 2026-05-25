@@ -10,7 +10,7 @@ amne_kod: "SQQ"
 institution: "IIT"
 tags: [kursplan, SQQ, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 7b1a21ed674ce82f
+scrape_hash: afc6bbdeec301ad7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ23K
 up: "[[Samhällsbyggnadsteknik MOC]]"
 ---
@@ -98,4 +98,4 @@ The final grade in the course is set based on the examiner’s collective assess
 
 ### Prerequisites
 
-- 90 credits in the Construction and Urban Planning Programme, of which the courses Architecture 5 credits, Spatial Planning 5 credits, Urban and Regional Planning 7.5 credtis, Sustainable development 5 credits, Form and Urban Design 7.5 credits, Introduction to Geographic Information Systems (GIS) 7.5 credits shall be included
+- 90 credits in the Construction and Urban Planning Programme, of which the courses Architecture 5 credits, Spatial Planning 5 credits, Urban and Regional Planning 7.5 credits, Sustainable development 5 credits, Form and Urban Design 7.5 credits, Introduction to Geographic Information Systems (GIS) 7.5 credits shall be included

@@ -9,7 +9,7 @@ amne: "Byggteknik"
 amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
-scrape_hash: a1376fbf22310dfb
+scrape_hash: 62060eb933d35aed
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABY22W
 up: "[[Byggteknik MOC]]"
 ---
@@ -75,7 +75,7 @@ After completing the course the student shall be able to:
 
   - Select/identify appropriate simulation strategies and procedures to fit the aim of the given simulation.
 
-  - Interpret model results and identify_ _errors.
+  - Interpret model results and identify errors.
 
   - Understand the performance of a building using numerical simulation and offer suggestions for energy saving.
 

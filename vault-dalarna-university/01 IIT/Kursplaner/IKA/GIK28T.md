@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: 4a5ad92dbb592748
+scrape_hash: 79482032d668228f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK28T
 up: "[[Informatik MOC]]"
 ---
@@ -37,8 +37,7 @@ _Kunskap och förståelse_
 
   - Redogöra för val av vetenskapliga metoder för datainsamling och dataanalys i samband med vetenskapliga undersökningar i allmänhet och specifikt för den egna uppsatsen (2)  
 
-_Färdighet och förmåga   
-_
+_Färdighet och förmåga_   
 
   - identifiera, formulera och argumentera för en problemställning för ett akademiskt arbete inom ämnesområdet. (3)
 

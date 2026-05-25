@@ -9,7 +9,7 @@ amne: "Turismvetenskap"
 amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
-scrape_hash: 5301976b1aa50793
+scrape_hash: 4369e6dfed690916
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2CT
 up: "[[Turismvetenskap MOC]]"
 ---
@@ -65,9 +65,7 @@ Tentamen (6 hp) examinerar mål 1, 2, 3, 5, 8.
 
 ## Arbetsformer
 
-Föreläsningar, workshops och seminarer.  
-
-** **
+Föreläsningar, workshops och seminarer.
 
 ## Betyg
 

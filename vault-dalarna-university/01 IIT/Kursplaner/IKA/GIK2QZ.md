@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: 40914970708f077c
+scrape_hash: fafdf18dbefe2342
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2QZ
 up: "[[Informatik MOC]]"
 ---
@@ -97,9 +97,9 @@ After completing the course, students will be able to:
   - describe concepts in visual communication
 
   - describe technical aspects of graphics, colour and file format
-_  
-Skills and Abilities  
-_After completing the course, students will be able to:  
+  
+_Skills and Abilities_  
+After completing the course, students will be able to:  
 
   - apply basic communication theories
 
@@ -110,9 +110,9 @@ _After completing the course, students will be able to:
   - create graphic artifacts intended for visual communication based on conditions and assigned requirements
 
   - use common tools and working methods adapted for the graphics industry
-_  
-Evaluation Ability and Approach  
-_After completing the course, students will be able to:  
+  
+_Evaluation Ability and Approach_  
+After completing the course, students will be able to:  
 
   - evaluate graphic artifacts intended for visual communication based on conditions and assigned requirements
 

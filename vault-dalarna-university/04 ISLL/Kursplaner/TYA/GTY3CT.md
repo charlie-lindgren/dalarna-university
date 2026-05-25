@@ -9,7 +9,7 @@ amne: "Tyska"
 amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
-scrape_hash: 9a7d7a5da2a66099
+scrape_hash: 8dab4de22cb0c73c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3CT
 up: "[[Tyska MOC]]"
 ---
@@ -368,8 +368,8 @@ Module 8. Language Learning and Teaching 2B, 6 credits
 
 The modules Language Learning and Teaching 1 and Language Learning and Teaching 2 can be taken in any order. They are normally offered once a year.
 
-Students who are studying **German as their first subject **AND students who have studied** a subject other than language as their first subject **take module 5, Language Learning and Teaching 1A or module 7, Language Learning and Teaching 2A.  
-Students who have studied **another language as their first subject **take module 6, Language Learning and Teaching 1B or module 8, Language Learning and Teaching 2B.
+Students who are studying **German as their first subject** AND students who have studied **a subject other than language as their first subject** take module 5, Language Learning and Teaching 1A or module 7, Language Learning and Teaching 2A.  
+Students who have studied **another language as their first subject** take module 6, Language Learning and Teaching 1B or module 8, Language Learning and Teaching 2B.
 
 ### Modules
 

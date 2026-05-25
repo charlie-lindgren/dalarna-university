@@ -10,7 +10,7 @@ amne_kod: "RVA"
 institution: "IKS"
 tags: [kursplan, RVA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 88a64b80a6841548
+scrape_hash: d68d9fa5594a32b2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRV2MK
 up: "[[Rättsvetenskap MOC]]"
 ---
@@ -38,13 +38,13 @@ Efter avslutad kurs skall studenten kunna:
 
   - redogöra för rättsregler som gäller för småföretag,
   - visa grundläggande kunskap i och förståelse för juridisk metod.
-**  
-Färdighet och förmåga**  
+  
+**Färdighet och förmåga**  
 Efter avslutad kurs skall studenten kunna:  
 
   - tillämpa relevanta rättskällor för att lösa vanligt förekommande problem som berör småföretag.
-**  
-Värderingsförmåga och förhållningssätt**  
+  
+**Värderingsförmåga och förhållningssätt**  
 Efter avslutad kurs skall studenten kunna:  
 
   - reflektera över regler som berör småföretag på en grundläggande nivå.

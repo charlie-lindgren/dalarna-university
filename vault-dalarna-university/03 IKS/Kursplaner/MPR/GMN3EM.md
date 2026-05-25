@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 01c379bc830d4411
+scrape_hash: 8e3375709946ef7e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EM
 up: "[[Medieproduktion MOC]]"
 ---
@@ -76,7 +76,7 @@ Betyg rapporteras enligt följande:
 
 ## Övrigt
 
-Modulen _Flerkameraproduktionsarbete 6,5 hp _kan examineras endast när kursen går. Vid underkänt betyg hänvisas studenten till nästa kurstillfälle för omexamination.
+Modulen _Flerkameraproduktionsarbete 6,5 hp_ kan examineras endast när kursen går. Vid underkänt betyg hänvisas studenten till nästa kurstillfälle för omexamination.
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
 

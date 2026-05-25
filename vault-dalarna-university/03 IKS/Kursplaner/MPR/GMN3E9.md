@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 0eaa6386d2b966fc
+scrape_hash: c6599a8498fd26cd
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3E9
 up: "[[Medieproduktion MOC]]"
 ---
@@ -79,7 +79,7 @@ Betyg rapporteras enligt följande:
 
 ## Övrigt
 
-Modulen _Manusskrivande 7,5 hp _kan examineras endast när kursen går. Vid underkänt betyg hänvisas studenten till nästa kurstillfälle för omexamination.
+Modulen _Manusskrivande 7,5 hp_ kan examineras endast när kursen går. Vid underkänt betyg hänvisas studenten till nästa kurstillfälle för omexamination.
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
 

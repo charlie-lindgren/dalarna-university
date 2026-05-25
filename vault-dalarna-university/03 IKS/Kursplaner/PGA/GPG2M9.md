@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: c74a0de7f6017a6c
+scrape_hash: 6c4f7b3f962b05ab
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2M9
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -69,19 +69,19 @@ högskoleförlagda studierna med stöd av litteratur från aktuella ämneskurser
 Kursen examineras i tre moment enligt följande:
 
 **Moment 1, Teoretiska perspektiv på sociala relationer, konflikter och
-makt (4,5 hp)  
-**Examination sker genom muntliga och skriftliga uppgifter  
+makt (4,5 hp)**  
+Examination sker genom muntliga och skriftliga uppgifter  
   
 
 **Moment 2, Pedagogiskt ledarskap och språkdidaktik (7,5 hp, inkl 6 hp
-VFU)
+VFU)**
   
-**Examination sker genom muntliga och skriftliga uppgifter samt fortlöpande
+Examination sker genom muntliga och skriftliga uppgifter samt fortlöpande
 genom den verksamhetsförlagda delen av kursen.
 
 **Moment 3, Pedagogiskt ledarskap för hållbar utveckling (3 hp, inkl 1,5
-hp VFU)  
-**Examination sker genom muntliga och skriftliga uppgifter samt fortlöpande
+hp VFU)**  
+Examination sker genom muntliga och skriftliga uppgifter samt fortlöpande
 genom den verksamhetsförlagda delen av kursen.
 
 ## Arbetsformer

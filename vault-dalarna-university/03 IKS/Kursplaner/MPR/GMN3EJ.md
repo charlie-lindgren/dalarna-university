@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 630ff1476f976c04
+scrape_hash: e79bd6daa22bd856
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EJ
 up: "[[Medieproduktion MOC]]"
 ---
@@ -41,7 +41,7 @@ Efter godkänd kurs ska studenten kunna:
 
 ## Innehåll
 
-Kursen består av två moduler, och omfattar teknik och teori inom ljudproduktion för livesammanhang, både live för scen och live för broadcast- och strömmande medier. Den första modulen,_ Teori och verktyg för liveljud_, innehåller en orientering om liveljudteknologins grunder, både teoretiskt och genom praktisk hantering. Den andra modulen, _Liveljud i praktiken_, omfattar olika former av liveljud och innehåller produktion av så väl liveljud för scenframträdanden som liveproduktion för audiovisuella medier som exempelvis tv-produktion, strömmad media eller liknande. Utifrån detta problematiseras begreppet ”liveljud”.
+Kursen består av två moduler, och omfattar teknik och teori inom ljudproduktion för livesammanhang, både live för scen och live för broadcast- och strömmande medier. Den första modulen, _Teori och verktyg för liveljud_, innehåller en orientering om liveljudteknologins grunder, både teoretiskt och genom praktisk hantering. Den andra modulen, _Liveljud i praktiken_, omfattar olika former av liveljud och innehåller produktion av så väl liveljud för scenframträdanden som liveproduktion för audiovisuella medier som exempelvis tv-produktion, strömmad media eller liknande. Utifrån detta problematiseras begreppet ”liveljud”.
 
 ## Examinationsformer
 

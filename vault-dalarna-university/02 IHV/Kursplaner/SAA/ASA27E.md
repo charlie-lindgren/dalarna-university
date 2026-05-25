@@ -10,7 +10,7 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: fb86a129e0f134fc
+scrape_hash: 5f0247315a6eadf6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA27E
 up: "[[Socialt arbete MOC]]"
 ---
@@ -42,7 +42,7 @@ på individ-, grupp- och organisationsnivå
   - visa fördjupad kunskap om skydds- och riskfaktorer i
 barns och ungas utveckling, uppväxt och villkor.
 
-** **  
+   
 
 **Färdighet och förmåga**   
 
@@ -55,7 +55,7 @@ olika teorier med relevans för skolsocialt arbete på ett fördjupat sätt
   - föreslå lämpliga insatser utifrån relevanta
 vetenskapliga, psykosociala och etiska aspekter med utgångspunkt i barnets behov och skolans organisatoriska ramar. 
 
-** **  
+   
 
 **Värderingsförmåga och förhållningssätt**   
 

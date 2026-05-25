@@ -9,7 +9,7 @@ amne: "Industriell ekonomi"
 amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
-scrape_hash: 4b0fef9e6abada77
+scrape_hash: ebbfb67de2719721
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2RF
 up: "[[Industriell ekonomi MOC]]"
 ---
@@ -35,9 +35,9 @@ Efter genomgången kurs ska studenten kunna:
 
   - visa fördjupad kunskap inom ett valt område inom ämnet industriell ekonomi
 
-_Färdighet och förmåga  
+_Färdighet och förmåga_  
   
-_Efter genomgången kurs ska studenten kunna:
+Efter genomgången kurs ska studenten kunna:
 
   - visa förmåga att identifiera och formulera ett aktuellt problem inom ämnet industriell ekonomi
 

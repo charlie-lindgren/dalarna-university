@@ -9,7 +9,7 @@ amne: "Personal och arbetsliv"
 amne_kod: "PEE"
 institution: "IKS"
 tags: [kursplan, PEE, IKS]
-scrape_hash: 7a6c89e8f5b86e44
+scrape_hash: 580cae027d2feea5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2NY
 up: "[[Personal och arbetsliv MOC]]"
 ---
@@ -30,8 +30,8 @@ up: "[[Personal och arbetsliv MOC]]"
 ## Lärandemål
 
 Det övergripande målet med kursen är att behandla generella teorier inom strategiområdet. Speciellt kommer kopplingen mellan strategiområdet och Human Resource Management (HRM) att begripliggöras och hur personalfrågor hänger samman med internationell HRM.  
-_  
-Kunskap och förståelse_  
+  
+_Kunskap och förståelse_  
 Efter avslutad kurs ska studenten kunna:
 
   - förklara teorier om intern och extern strategisk organisationsanalys

@@ -9,7 +9,7 @@ amne: "Turismvetenskap"
 amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
-scrape_hash: 6dd4685c9ef2a6d8
+scrape_hash: 8e15fe0d1d85c438
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2G6
 up: "[[Turismvetenskap MOC]]"
 ---
@@ -94,15 +94,15 @@ Slutbetyget på kursen sätts efter en samlad bedömning av examinator.
 ### Learning Outcomes
 
 Upon completion of the course, the student will be able to:  
-**  
   
-Knowledge and understanding**  
+  
+**Knowledge and understanding**  
 
   - Show understanding of contemporary tourism-related issues after a review of world leading research.
 
   - Discuss the processes and practices of research.
-**  
-Competence and skills**  
+  
+**Competence and skills**  
 
   - Search for and engage with current leading research in tourism.
 
@@ -111,8 +111,8 @@ Competence and skills**
   - Identify and communicate current issues, discussions and arguments from tourism discourse. 
 
   - Formulate research questions.
-**  
-Judgement and approach**  
+  
+**Judgement and approach**  
 
   - Evaluate contemporary tourism-related research and how it can be applied to wider societal issues. 
 

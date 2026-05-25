@@ -10,7 +10,7 @@ amne_kod: "LPU"
 institution: "IKS"
 tags: [kursplan, LPU, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: a00fc90d34b94675
+scrape_hash: dad548c737790169
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2QU
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
@@ -53,7 +53,7 @@ Kursens arbetsformer är föreläsningar, laborationer, seminarier och genomför
 
 Som betygsskala används U–VG.
 
-En förutsättning för betyget _Väl godkänd _är att de examinerande uppgifterna lämnas in inom föreskriven
+En förutsättning för betyget _Väl godkänd_ är att de examinerande uppgifterna lämnas in inom föreskriven
 tid.
 
 För att
@@ -74,7 +74,7 @@ Modul 4: Musikinspelningsanalys - 2 hp (U-VG)
 
 Ersätter GLP29X.
 
-Denna kurs kan inte användas i en examen tillsammans med kursen_ Inspelning i studio för Musik- och ljuddesign_.
+Denna kurs kan inte användas i en examen tillsammans med kursen _Inspelning i studio för Musik- och ljuddesign_.
 
 ## English Version
 

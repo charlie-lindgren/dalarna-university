@@ -9,7 +9,7 @@ amne: "Industriell ekonomi"
 amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
-scrape_hash: 883bdf4bccaa39c3
+scrape_hash: 9e4ee43c57f08e75
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26L
 up: "[[Industriell ekonomi MOC]]"
 ---
@@ -35,8 +35,8 @@ Efter avslutad kurs ska studenten kunna:
  
   - redogöra för grundläggande begrepp och metoder inom produktionslogistik 
   - förklara begrepp och redogöra för teorier och modeller som är relaterade till supply chain management.
-_  
-Färdighet och förmåga_  
+  
+_Färdighet och förmåga_  
 Efter avslutad kurs ska studenten kunna: 
  
   - göra enklare ekonomiska bedömningar med fokus på totalkostnad och helhetssyn vid olika åtgärder i produktionsflöde och lager 

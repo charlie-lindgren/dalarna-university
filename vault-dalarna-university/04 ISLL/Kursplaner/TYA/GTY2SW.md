@@ -9,7 +9,7 @@ amne: "Tyska"
 amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
-scrape_hash: 34273583122b9014
+scrape_hash: 476cc2786a0c67ac
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2SW
 up: "[[Tyska MOC]]"
 ---
@@ -38,7 +38,7 @@ Kursen syftar till att de studerande ska förvärva en inblick i modern tyskspr�
 
 ## Innehåll
 
-Kursen omfattar studium av modern prosa och poesi från de tyskspråkiga länderna. Texterna studeras i sitt kulturella sammanhang och behandlas dels ur språklig, dels ur litterär aspekt i syfte att utveckla såväl språkfärdighet som förmåga till litterär analys.****
+Kursen omfattar studium av modern prosa och poesi från de tyskspråkiga länderna. Texterna studeras i sitt kulturella sammanhang och behandlas dels ur språklig, dels ur litterär aspekt i syfte att utveckla såväl språkfärdighet som förmåga till litterär analys.
 
 ## Examinationsformer
 

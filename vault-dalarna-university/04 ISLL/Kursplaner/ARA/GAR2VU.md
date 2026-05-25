@@ -9,7 +9,7 @@ amne: "Arabiska"
 amne_kod: "ARA"
 institution: "ISLL"
 tags: [kursplan, ARA, ISLL]
-scrape_hash: 046d398151470e3e
+scrape_hash: 57476a54e949df97
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR2VU
 up: "[[Arabiska MOC]]"
 ---
@@ -51,7 +51,7 @@ Efter avslutad kurs ska den studerande kunna:
 
 ## Innehåll
 
-Kursen är uppdelad i två moduler, i den första modulen, _Akademiskt skrivande - metod_, studeras några av de klassiska källorna för studier av det arabiska språket och litteraturen samt formalia för akademiskt skrivande. Genom kortare skriftliga uppgifter övar studenterna att använda referenssystem, hitta relevanta och trovärdiga källor, skapa frågeställningar och sammanställa fakta. I modulen _Akademiskt skrivande - tillämpning _skriver studenterna ett längre arbete som sedan ventileras i studentgruppen. Texten kan skrivas på engelska, svenska eller arabiska.
+Kursen är uppdelad i två moduler, i den första modulen, _Akademiskt skrivande - metod_, studeras några av de klassiska källorna för studier av det arabiska språket och litteraturen samt formalia för akademiskt skrivande. Genom kortare skriftliga uppgifter övar studenterna att använda referenssystem, hitta relevanta och trovärdiga källor, skapa frågeställningar och sammanställa fakta. I modulen _Akademiskt skrivande - tillämpning_ skriver studenterna ett längre arbete som sedan ventileras i studentgruppen. Texten kan skrivas på engelska, svenska eller arabiska.
 
 ## Examinationsformer
 

@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: 76780a6ca5557f64
+scrape_hash: 0856680ed33d37f2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2JX
 up: "[[Informatik MOC]]"
 ---
@@ -29,8 +29,8 @@ up: "[[Informatik MOC]]"
 
 ## Lärandemål
 
-**Kunskap och förståelse  
-**Efter avslutad kurs ska
+**Kunskap och förståelse**  
+Efter avslutad kurs ska
 studenten kunna:
 
   - Redogöra för grundläggande teorier beträffande GIS.
@@ -41,9 +41,9 @@ studenten kunna:
   - Redogöra olika web-baserad GIS
   - Beskriva GeoJSON standarden.
   - Beskriva utvecklingen av olika tjänster som utvecklas med hjälp av geodata.
-**  
-Färdighet och förmåga  
-**Efter avslutad kurs ska
+  
+**Färdighet och förmåga**  
+Efter avslutad kurs ska
 studenten kunna:  
   
 
@@ -57,9 +57,9 @@ studenten kunna:
 
   - Använda JavaScript-bibliotek för att skapa mobilanpassade webbapplikationer med interaktiva webbkartor där både tredje
  parts geodata från internet och eget skapat geodata presenteras.
-**  
-Värderingsförmåga och förhållningssätt  
-**Efter avslutad kurs ska den studerande kunna:  
+  
+**Värderingsförmåga och förhållningssätt**  
+Efter avslutad kurs ska den studerande kunna:  
   
 
   - Värdera, bedöma och förbättra ett GIS med avseende på dess användbarhet, funktionalitet, meningsbärande och tekniska kvalitet.

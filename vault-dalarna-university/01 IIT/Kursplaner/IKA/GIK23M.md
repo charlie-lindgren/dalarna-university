@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: a84994820e706696
+scrape_hash: 7bb3d51c73511437
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK23M
 up: "[[Informatik MOC]]"
 ---
@@ -32,8 +32,8 @@ up: "[[Informatik MOC]]"
 Kursens övergripande mål är att studenten ska tillägna sig kunskap om principer och metoder för att designa och använda relationsdatabaser.  
   
 Efter avslutad kurs ska studenten kunna:  
-**  
-Kunskap och förståelse**
+  
+**Kunskap och förståelse**
 
   - förklara normaliseringens betydelse för en designlösning av en relationsdatabas.
 

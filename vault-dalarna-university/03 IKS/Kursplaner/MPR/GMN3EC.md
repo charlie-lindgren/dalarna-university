@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 3951b43dc4ca4817
+scrape_hash: 754c4ffe91dbab57
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EC
 up: "[[Medieproduktion MOC]]"
 ---
@@ -70,7 +70,7 @@ Betyg rapporteras enligt följande:
 
 ## Övrigt
 
-Modulen _Audiovisuella gestaltningar 2,5 hp _kan examineras endast när kursen går. Vid underkänt betyg hänvisas studenten till nästa kurstillfälle för omexamination.
+Modulen _Audiovisuella gestaltningar 2,5 hp_ kan examineras endast när kursen går. Vid underkänt betyg hänvisas studenten till nästa kurstillfälle för omexamination.
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
 

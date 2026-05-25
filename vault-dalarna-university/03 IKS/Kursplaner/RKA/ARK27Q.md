@@ -10,7 +10,7 @@ amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 52bb07ee270489c7
+scrape_hash: 462d966d42e6ff73
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK27Q
 up: "[[Religionsvetenskap MOC]]"
 ---
@@ -53,7 +53,7 @@ kopplade till statsbildning och imperier relateras till förändringar i både
 gudinnors och kvinnors genus.  
   
 Fokus kommer främst att ligga på genus, men
-även klass och etnicitet kommer att bearbetas. Dessutom kommer framförallt _kvinnors och gudinnors _genus och andra
+även klass och etnicitet kommer att bearbetas. Dessutom kommer framförallt _kvinnors och gudinnors_ genus och andra
 identitetsaspekter att behandlas.
 
 ## Examinationsformer

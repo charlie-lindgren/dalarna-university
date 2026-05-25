@@ -9,7 +9,7 @@ amne: "Socialt arbete"
 amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
-scrape_hash: 503ad54997f91737
+scrape_hash: 37665e3f412886c2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DM
 up: "[[Socialt arbete MOC]]"
 ---
@@ -120,11 +120,9 @@ Modulen belyser välfärdssamhällets insatser och vad ett brukarperspektivinneb
 
   - kursen innehåller 1 hp PPU (personlig och professionell utveckling)
 
-**Modul 2. Verksamhetsförlagd utbildning, 4,5 högskolepoäng  
-**
+**Modul 2. Verksamhetsförlagd utbildning, 4,5 högskolepoäng**  
 
-I modulen behandlas etiska aspekter på yrkesrollen, professionen och detsociala arbetets praktik. Tillämpningen av relevanta författningar inom det sociala verksamhetsområdet är ett annat tema. Som ett led i den personliga och professionella utvecklingen innehåller modulen också tillfälle att självständigt utföra enklare uppgifter inom praktiskt socialt arbete.  
-** **
+I modulen behandlas etiska aspekter på yrkesrollen, professionen och detsociala arbetets praktik. Tillämpningen av relevanta författningar inom det sociala verksamhetsområdet är ett annat tema. Som ett led i den personliga och professionella utvecklingen innehåller modulen också tillfälle att självständigt utföra enklare uppgifter inom praktiskt socialt arbete.
 
 ## Examinationsformer
 

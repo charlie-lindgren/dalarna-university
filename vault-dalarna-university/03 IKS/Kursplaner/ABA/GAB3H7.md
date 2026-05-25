@@ -9,7 +9,7 @@ amne: "Arbetsvetenskap"
 amne_kod: "ABA"
 institution: "IKS"
 tags: [kursplan, ABA, IKS]
-scrape_hash: fa12943e0456aa40
+scrape_hash: 73eb6c096221ef87
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3H7
 up: "[[Arbetsvetenskap MOC]]"
 ---
@@ -42,7 +42,7 @@ vetenskapligt skrivande.
 
 ## Innehåll
 
-Kursen introducerar grundläggande kunskap om principer och tillvägagångssätt i kvalitativa och kvantitativa studier. I modul _Teorier, begrepp och modeller _introduceras vetenskapsteoretiska och metodologiska begrepp och vetenskapliga arbetssätt. I modulen _Tillämpning och reflektion_ genomförs en vetenskaplig undersökning med insamling av empiri. I modulen reflekteras över vetenskapliga frågeställningar och undersökningsdesigner.
+Kursen introducerar grundläggande kunskap om principer och tillvägagångssätt i kvalitativa och kvantitativa studier. I modul _Teorier, begrepp och modeller_ introduceras vetenskapsteoretiska och metodologiska begrepp och vetenskapliga arbetssätt. I modulen _Tillämpning och reflektion_ genomförs en vetenskaplig undersökning med insamling av empiri. I modulen reflekteras över vetenskapliga frågeställningar och undersökningsdesigner.
 
 ## Examinationsformer
 

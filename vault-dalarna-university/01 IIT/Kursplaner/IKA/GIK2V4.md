@@ -10,7 +10,7 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 0c284dbbebe7e446
+scrape_hash: e5dded60d7618acf
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2V4
 up: "[[Informatik MOC]]"
 ---
@@ -99,8 +99,8 @@ Cisco Packet Tracer installerad på sin dator.
 ### Learning Outcomes
 
 The overall aim of the course is to introduce students to cybersecurity trends, threats when using IT against personal and company data, and how we can detect and protect us from these threats. The course aims to provide an understanding of  the various actors that exist in the world of cybersecurity and what it is that drives both cybercriminals and security experts.  
-**  
-Knowledge and understanding**  
+  
+**Knowledge and understanding**  
 After completing the course, students will be able to:
 
   - Describe the characteristics of cybercriminals and specialists within the field of cybersecurity.

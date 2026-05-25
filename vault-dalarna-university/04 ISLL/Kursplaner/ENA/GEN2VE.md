@@ -10,7 +10,7 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: ab570c4ed3e61a72
+scrape_hash: 619f325ab5fae107
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2VE
 up: "[[Engelska MOC]]"
 ---
@@ -38,10 +38,10 @@ Efter avslutad kurs ska den studerande kunna:
 
 ## Innehåll
 
-Kursen består av två moduler.**  
-Modul 1: Form och funktion**  
-I modulen introduceras perspektiv på skönlitteratur som fokuserar på litterär form. Formrelaterade aspekter såsom berättartakt och -perspektiv, poetisk struktur, dramaturgiska tekniker och litterära grepp behandlas. **  
-Modul 2: Litteratur, identitet och kultur**  
+Kursen består av två moduler.  
+**Modul 1: Form och funktion**  
+I modulen introduceras perspektiv på skönlitteratur som fokuserar på litterär form. Formrelaterade aspekter såsom berättartakt och -perspektiv, poetisk struktur, dramaturgiska tekniker och litterära grepp behandlas.   
+**Modul 2: Litteratur, identitet och kultur**  
 I modulen introduceras ideologiska perspektiv på skönlitteratur. Modern och samtida prosa, poesi och drama i huvudsak från Storbritannien, Irland, Nordamerika och Oceanien behandlas.
 
 ## Examinationsformer

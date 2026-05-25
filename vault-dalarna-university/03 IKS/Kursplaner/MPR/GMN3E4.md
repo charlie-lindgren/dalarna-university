@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 4ad56476efb3d078
+scrape_hash: f562d29b6eafdaf6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3E4
 up: "[[Medieproduktion MOC]]"
 ---
@@ -41,7 +41,7 @@ Efter godkänd kurs ska studenten kunna:
 
 ## Innehåll
 
-Kursen introducerar musikstudion och dess teknik som verktyg för musikskapande. Kursens första modul, _Inspelningsstudion som verktyg_, omfattar studioinspelningens förutsättningar och procedurer. I centrum står flerkanalsinspelning av musik med företrädesvis akustiska instrument. Den andra och tredje modulen, _Studioinspelningar 1 _och _2_, innefattar planering, genomförande och redovisning av produktioner, inklusive iordningställande av studion, inspelning, mixning och mastering. Den fjärde modulen, _Musikinspelningsanalys_, introducerar analysmetoder för musikproduktion, liksom yrkesroller, arbetsmetoder och processer, nutida och historiska.
+Kursen introducerar musikstudion och dess teknik som verktyg för musikskapande. Kursens första modul, _Inspelningsstudion som verktyg_, omfattar studioinspelningens förutsättningar och procedurer. I centrum står flerkanalsinspelning av musik med företrädesvis akustiska instrument. Den andra och tredje modulen, _Studioinspelningar 1_ och _2_, innefattar planering, genomförande och redovisning av produktioner, inklusive iordningställande av studion, inspelning, mixning och mastering. Den fjärde modulen, _Musikinspelningsanalys_, introducerar analysmetoder för musikproduktion, liksom yrkesroller, arbetsmetoder och processer, nutida och historiska.
 
 ## Examinationsformer
 

@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: 00ff054a9451bbde
+scrape_hash: d8dfb4dafaa2ae6a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3CM
 up: "[[Engelska MOC]]"
 ---
@@ -95,7 +95,7 @@ Delkurs 2. Introduktion till engelsk lingvistik för lärarstuderande, 12 hp
 De studerande väljer sedan en av de två didaktiska delkurserna:  
 Delkurs 3. Språkdidaktik II A, 6 hp  
 Delkurs 4. Språkdidaktik II B, 6 hp  
-De studerande som läser **engelska som sitt första ämne **OCH de studerande som har läst** ett annat ämne än språk som första ämne** läser delkurs 3, Språkdidaktik II A.  
+De studerande som läser **engelska som sitt första ämne** OCH de studerande som har läst **ett annat ämne än språk som första ämne** läser delkurs 3, Språkdidaktik II A.  
 De studerande som har läst **ett annat språk som första ämne** läser delkurs 4, Språkdidaktik II B.
 
 ### Delkurser
@@ -219,7 +219,7 @@ On completion of the module, students will be able to:
 
   - demonstrate knowledge of the background to the national curriculum for Swedish schools with focus on European cooperation and the Common European Framework of Reference for Languages (CEFR )
 
-  - discuss and reflect on the language teaching and learning issues _what_, _how _and _why _in relation to the choice of content and approaches in language teaching
+  - discuss and reflect on the language teaching and learning issues _what_, _how_ and _why_ in relation to the choice of content and approaches in language teaching
 
   - analyse and critically examine teaching materials for teaching English as a foreign language from a language education perspective and in relation to the national curriculum for Swedish schools
 
@@ -250,8 +250,8 @@ Module 2. Introduction to English Linguistics for Teacher Students, 12 credits
 Students then choose one of the two didactic modules:  
 Module 3. Language Learning and Teaching II A, 6 credits  
 Module 4. Language Learning and Teaching II B, 6 credits  
-Students whose **first subject is English **AND students whose** first subject was not a language **take module 3, Language Learning and Teaching II A.  
-Students whose **first subject was another language **take module 4, Language Learning and Teaching II B.
+Students whose **first subject is English** AND students whose **first subject was not a language** take module 3, Language Learning and Teaching II A.  
+Students whose **first subject was another language** take module 4, Language Learning and Teaching II B.
 
 ### Modules
 

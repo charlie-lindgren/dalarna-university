@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 798b351aeca472f2
+scrape_hash: b598e4c27397b803
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EP
 up: "[[Medieproduktion MOC]]"
 ---
@@ -43,7 +43,7 @@ Efter godkänd kurs ska studenten kunna:
 
 ## Innehåll
 
-Inom kursen studeras hur en enskild medieproducent kan arbeta som entreprenör. Från den utgångspunkten analyseras och diskuteras hur organisering av medieproduktion förändras ur ekonomiska och organisationsteoretiska perspektiv, till exempel avseende hållbarhet. Kursen utgörs av tre moduler: _Entreprenörskapets terminologi_, _Medieproduktionskoncept _och _Individuell affärsplan_. I första modulen presenteras ekonomiska termer för redovisning, aktuell skattelagstiftning och juridiska frågor för medieproducenters praktik i Sverige. I andra modulen skapas i grupp förslag på medieproduktionskoncept och affärsplaner med Business Model Canvas som sedan granskas och problematiseras. I tredje modulen förbättras gruppens affärsplan individuellt, efter respons på prestationer i tidigare moduler, med företagsekonomiska och sociologiska perspektiv som presenterats i kursen, exempelvis kreativitets- respektive kunskapsintensivitet.
+Inom kursen studeras hur en enskild medieproducent kan arbeta som entreprenör. Från den utgångspunkten analyseras och diskuteras hur organisering av medieproduktion förändras ur ekonomiska och organisationsteoretiska perspektiv, till exempel avseende hållbarhet. Kursen utgörs av tre moduler: _Entreprenörskapets terminologi_, _Medieproduktionskoncept_ och _Individuell affärsplan_. I första modulen presenteras ekonomiska termer för redovisning, aktuell skattelagstiftning och juridiska frågor för medieproducenters praktik i Sverige. I andra modulen skapas i grupp förslag på medieproduktionskoncept och affärsplaner med Business Model Canvas som sedan granskas och problematiseras. I tredje modulen förbättras gruppens affärsplan individuellt, efter respons på prestationer i tidigare moduler, med företagsekonomiska och sociologiska perspektiv som presenterats i kursen, exempelvis kreativitets- respektive kunskapsintensivitet.
 
 ## Examinationsformer
 

@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: 784a8ee03b0eb041
+scrape_hash: 9ba70c2fd23c7f6e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2PB
 up: "[[Informatik MOC]]"
 ---
@@ -82,8 +82,7 @@ Som betygsskala används U–VG.
 Seminarieuppgifter U-VG  
 Projektarbete och laboration U-G  
   
-För att erhålla slutbetyget VG på hela kursen krävs betyget VG på seminarieuppgifter. _**  
- **_
+För att erhålla slutbetyget VG på hela kursen krävs betyget VG på seminarieuppgifter.
 
 ## Förkunskapskrav
 

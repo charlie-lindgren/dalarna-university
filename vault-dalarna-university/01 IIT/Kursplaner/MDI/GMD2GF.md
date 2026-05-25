@@ -10,7 +10,7 @@ amne_kod: "MDI"
 institution: "IIT"
 tags: [kursplan, MDI, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 154227edaec1c33b
+scrape_hash: 39c4a452aab91c63
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2GF
 up: "[[Matematikdidaktik MOC]]"
 ---
@@ -85,7 +85,7 @@ Efter avslutad delkurs ska den studerande kunna:
 
 I kursen studeras aktuell forskning och vetenskapliga teorier som behandlar planering, genomförande och utvärdering av matematikundervisning; hur olika arbetssätt och arbetsformer kan bidra till elevers kunskapsutveckling samt hur undervisningen kan anpassas efter individer och gruppers specifika behov.   
   
-Det matematiska innehållet i kursen är uppdelat på områdena _tal och aritmetik, geometri, algebra, sannolikhet, samband och förändringar _samt _statistik_. Innehållet behandlas såväl ur ett matematiskt som ur ett didaktiskt perspektiv. I kursen används digital teknik för att undersöka, uttrycka och bearbeta ett matematiskt innehåll.   
+Det matematiska innehållet i kursen är uppdelat på områdena _tal och aritmetik, geometri, algebra, sannolikhet, samband och förändringar_ samt _statistik_. Innehållet behandlas såväl ur ett matematiskt som ur ett didaktiskt perspektiv. I kursen används digital teknik för att undersöka, uttrycka och bearbeta ett matematiskt innehåll.   
   
 I kursen ges studenten möjlighet att reflektera över sitt eget och sina elevers lärande samt över undervisning och lärande i matematik utifrån inkludering, genus, samt relationella och etiska perspektiv. Genom samarbete med medstudenter betonas kollegiala samtal som en form för utveckling av såväl egna kunskaper som den egna matematikundervisningen. Kursens innehåll relateras till den studerandes erfarenheter av undervisning i matematik och några av kursens uppgifter är kopplade till den egna praktiken.
 

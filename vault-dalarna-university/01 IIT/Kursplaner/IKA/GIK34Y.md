@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: 59c4cf174800f453
+scrape_hash: f4e76212b133b2a3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK34Y
 up: "[[Informatik MOC]]"
 ---
@@ -105,8 +105,8 @@ Upon completion of the course, students will be able to:
   - describe how scientific approaches govern method awareness and choice of methods 
   - describe research strategies and methods 
   - describe ethical aspects of research
- _  
-Skills and Abilities_   
+   
+_Skills and Abilities_   
 Upon completion of the course, students will be able to: 
  
   - formulate the background, problems, issues and purpose relating to a scientific study 
@@ -114,8 +114,8 @@ Upon completion of the course, students will be able to:
   - use IT tools for the collection, processing, analysis and presentation of data 
   - search among sources of information and critically review sources and evaluate information 
   - explain their choice of research strategy and methods in relation to a scientific investigation
- _  
-Judgement and Approach_   
+   
+_Judgement and Approach_   
 Upon completion of the course, students will be able to: 
  
   - evaluate the choice of scientific strategies and methods 

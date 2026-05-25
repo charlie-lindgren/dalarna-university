@@ -10,7 +10,7 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 8b2ca1623eaec344
+scrape_hash: b998030d846f7f9e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2R4
 up: "[[Franska MOC]]"
 ---
@@ -122,7 +122,7 @@ Delkurs 4. Franskspråkig litteratur II: Fram till 1900, 5,5 hp
 De studerande läser sedan en av de två didaktiska delkurserna:  
 Delkurs 5. Språkdidaktik II A, 6 hp  
 Delkurs 6. Språkdidaktik II B, 6 hp  
-De studerande som läser **franska som sitt första ämne **OCH de studerande som har läst** ett annat ämne än språk som första ämne** läser delkurs 5, Språkdidaktik II A.  
+De studerande som läser **franska som sitt första ämne** OCH de studerande som har läst **ett annat ämne än språk som första ämne** läser delkurs 5, Språkdidaktik II A.  
 De studerande som har läst **ett annat språk som första ämne** läser delkurs 6, Språkdidaktik II B.
 
 ### Delkurser
@@ -161,8 +161,8 @@ Delkursen innebär ett fördjupat studium av språkdidaktiska teorier och forskn
 
 **Delkurs 1**: Kursen examineras kontinuerligt genom skriftliga inlämningsuppgifter samt genom ett skriftligt prov.  
 **Delkurs 2:** Kursen examineras kontinuerligt genom aktivt deltagande i seminarier, skriftliga inlämningsuppgifter, ett skriftligt prov och en kortare akademisk text.  
-**Delkurs 3**: Kursen examineras kontinuerligt genom aktivt deltagande i seminarier, muntliga redovisningar och skriftliga inlämningsuppgifter.**  
-Delkurs 4**: Kursen examineras kontinuerligt genom aktivt deltagande i seminarier, skriftliga inlämningsuppgifter, muntliga redovisningar samt ett skriftligt prov.  
+**Delkurs 3**: Kursen examineras kontinuerligt genom aktivt deltagande i seminarier, muntliga redovisningar och skriftliga inlämningsuppgifter.  
+**Delkurs 4**: Kursen examineras kontinuerligt genom aktivt deltagande i seminarier, skriftliga inlämningsuppgifter, muntliga redovisningar samt ett skriftligt prov.  
 **Delkurs 5:** Kursen examineras kontinuerligt genom aktivt deltagande i seminarier, muntliga redovisningar samt skriftliga reflekterande texter.  
 **Delkurs 6:** Kursen examineras kontinuerligt genom aktivt deltagande i seminarier, muntliga redovisningar samt skriftliga reflekterande texter.
 
@@ -178,22 +178,22 @@ För att få betyget VG på hela kursen krävs VG på minst 22,5 hp.
  
 
 Betygsrapportering:  
- **Delkurs 1:  
-**Modul 1: Skriftlig språkfärdighet, grammatik - 4 hp  
+ **Delkurs 1:**  
+Modul 1: Skriftlig språkfärdighet, grammatik - 4 hp  
 Modul 2: Skriftlig språkfärdighet, skriftliga inlämningsuppgifter - 3,5 hp  
-**Delkurs 2:  
-**Modul 1: Introduktion till lingvistik och akademiskt skrivande, begrepp och teorier inom lingvistik - 2,5 hp  
-Modul 2: Introduktion till lingvistik och akademiskt skrivande, akademiskt skrivande - 3 hp**  
-Delkurs 3:  
-**Modul 1: Muntlig franska, aktivt deltagande i seminarier och muntliga redovisningar - 4 hp  
+**Delkurs 2:**  
+Modul 1: Introduktion till lingvistik och akademiskt skrivande, begrepp och teorier inom lingvistik - 2,5 hp  
+Modul 2: Introduktion till lingvistik och akademiskt skrivande, akademiskt skrivande - 3 hp  
+**Delkurs 3:**  
+Modul 1: Muntlig franska, aktivt deltagande i seminarier och muntliga redovisningar - 4 hp  
 Modul 2: Muntlig franska, skriftliga inlämningsuppgifter - 1,5 hp  
-**Delkurs 4:  
-**Modul 1: Franskspråkig litteratur, muntlig redovisning - 1,5 hp  
+**Delkurs 4:**  
+Modul 1: Franskspråkig litteratur, muntlig redovisning - 1,5 hp  
 Modul 2: Franskspråkig litteratur, skriftlig redovisning - 4 hp  
-**Delkurs 5:  
-**Modul 1: Språkdidaktik II A, muntlig och skriftlig redovisning - 6 hp  
-**Delkurs 6:  
-**Modul 1: Språkdidaktik II B, muntlig och skriftlig redovisning - 6 hp
+**Delkurs 5:**  
+Modul 1: Språkdidaktik II A, muntlig och skriftlig redovisning - 6 hp  
+**Delkurs 6:**  
+Modul 1: Språkdidaktik II B, muntlig och skriftlig redovisning - 6 hp
 
 ## Förkunskapskrav
 

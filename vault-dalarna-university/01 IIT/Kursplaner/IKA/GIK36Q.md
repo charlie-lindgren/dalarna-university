@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: 1394bfa8a0e4674a
+scrape_hash: e0defc7d9e26fdcc
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK36Q
 up: "[[Informatik MOC]]"
 ---
@@ -90,8 +90,8 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 ### Learning Outcomes
 
 Upon completion of the course, students will be able to:  
-_  
-Knowledge and understanding_
+  
+_Knowledge and understanding_
 
   - explain central concepts within project-based operations
 

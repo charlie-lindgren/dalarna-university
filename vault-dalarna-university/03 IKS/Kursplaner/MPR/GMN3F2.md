@@ -10,7 +10,7 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 8e926e6b03185cda
+scrape_hash: 675f1b92365c96e3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3F2
 up: "[[Medieproduktion MOC]]"
 ---
@@ -48,7 +48,7 @@ Efter godkänd kurs ska studenten kunna:
 
 ## Innehåll
 
-Kursen innehåller såväl teoretiska som praktiska aspekter av att initiera, planera och genomföra ett projektarbete inom medieproduktion på professionell nivå, inklusive tids- och resursmässiga ramar, som uppfyller motsvarande krav som ställs inom en yrkespraktik. Kursen utgörs av två moduler, _Produktionsprocess _respektive _Egen insats och skriftlig inlämning_. I första modulen ligger fokus på initiering och presentation av projektidé, inklusive projektplan, samt genomförande av projekt i förhållande till avnämare, publik och medproducenter, i enlighet med arbetslivsetiskt grundade arbetssätt och intentioner kring audiovisuell kommunikation. I andra modulen fokuserar man på värdering av samarbete, etiska aspekter och hållbarhet relaterade till yrkesroller och den egna arbetsprocessen.
+Kursen innehåller såväl teoretiska som praktiska aspekter av att initiera, planera och genomföra ett projektarbete inom medieproduktion på professionell nivå, inklusive tids- och resursmässiga ramar, som uppfyller motsvarande krav som ställs inom en yrkespraktik. Kursen utgörs av två moduler, _Produktionsprocess_ respektive _Egen insats och skriftlig inlämning_. I första modulen ligger fokus på initiering och presentation av projektidé, inklusive projektplan, samt genomförande av projekt i förhållande till avnämare, publik och medproducenter, i enlighet med arbetslivsetiskt grundade arbetssätt och intentioner kring audiovisuell kommunikation. I andra modulen fokuserar man på värdering av samarbete, etiska aspekter och hållbarhet relaterade till yrkesroller och den egna arbetsprocessen.
 
 ## Examinationsformer
 

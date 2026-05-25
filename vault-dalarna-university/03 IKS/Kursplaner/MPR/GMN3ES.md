@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: a53d3ac3dfd2227c
+scrape_hash: 6cff435ff4b04877
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3ES
 up: "[[Medieproduktion MOC]]"
 ---
@@ -71,7 +71,7 @@ Betyg rapporteras enligt följande:
 
 ## Övrigt
 
-Modulerna _Produktionsplan 1,5 hp _och _Filmproduktion 4,5 hp_ kan examineras endast när kursen går. Vid underkänt betyg hänvisas studenten till nästa kurstillfälle för omexamination.
+Modulerna _Produktionsplan 1,5 hp_ och _Filmproduktion 4,5 hp_ kan examineras endast när kursen går. Vid underkänt betyg hänvisas studenten till nästa kurstillfälle för omexamination.
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
 

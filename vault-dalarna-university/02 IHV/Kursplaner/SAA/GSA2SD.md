@@ -9,7 +9,7 @@ amne: "Socialt arbete"
 amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
-scrape_hash: 614852be17b4ba73
+scrape_hash: 1af3c0bf3197af84
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2SD
 up: "[[Socialt arbete MOC]]"
 ---
@@ -39,16 +39,16 @@ Efter avslutad kurs ska den studerande kunna:
   - visa förståelse för social hållbarhet i relation till arbetsmetoder i socialt arbete.
  
 
-**Färdigheter och förmåga  
-**Efter avslutad kurs ska den studerande kunna:
+**Färdigheter och förmåga**  
+Efter avslutad kurs ska den studerande kunna:
  
  
   - visa och tillämpa ett reflekterande förhållningssätt baserat på brukares och brukargruppers delaktighet, etnicitet och delad makt 
   - visa förmåga att använda medveten kommunikation som arbetsmetod inom det sociala arbetet.
  
 
-**Värderingsförmåga och förhållningssätt  
-**Efter avslutad kurs ska den studerande kunna:
+**Värderingsförmåga och förhållningssätt**  
+Efter avslutad kurs ska den studerande kunna:
  
  
   - visa insikt i att människors problem och behov är kopplade till livsvillkor, situationer och sammanhang och relatera dessa problem och behov till tillämpliga arbetsmetoder 

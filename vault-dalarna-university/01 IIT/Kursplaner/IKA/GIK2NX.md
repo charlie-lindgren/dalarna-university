@@ -8,7 +8,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: 7713e168b40d5c78
+scrape_hash: 409f0f752905fb82
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2NX
 up: "[[Informatik MOC]]"
 ---
@@ -37,8 +37,8 @@ _Kunskap och förståelse_
   - Redogöra för koncept kopplade till mjukvaruagenter, multi-agentsystem, autonoma och distribuerade system 
   - Beskriva egenskaper hos distribuerade och parallella system. 
 
-_  
-Färdighet och förmåga_  
+  
+_Färdighet och förmåga_  
 
   - implementera mjukvaruagenter med stöd av multiagentramverk 
   - konfigurera, hantera och utveckla applikationer för datorer med begränsat minne 

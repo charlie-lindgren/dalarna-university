@@ -9,7 +9,7 @@ amne: "Tyska"
 amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
-scrape_hash: e4d8da14dd98d890
+scrape_hash: b7dee1c7e1c033a7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3J9
 up: "[[Tyska MOC]]"
 ---
@@ -158,7 +158,7 @@ Delkurs 8. Språkdidaktik 2B, 7,5 hp
 
 Delkurserna Språkdidaktik 1 och Språkdidaktik 2 kan läsas i valfri ordning. De ges i normalfallet en gång per år. De studerande som redan har läst Språkdidaktik 1 läser Språkdidaktik 2 och vice versa.
 
-De studerande som läser **tyska som sitt första ämne **OCH de studerande som har läst** ett annat ämne än språk som första ämne **läser delkurs 5, Språkdidaktik 1A eller delkurs 7, Språkdidaktik 2A.  
+De studerande som läser **tyska som sitt första ämne** OCH de studerande som har läst **ett annat ämne än språk som första ämne** läser delkurs 5, Språkdidaktik 1A eller delkurs 7, Språkdidaktik 2A.  
 De studerande som har läst **ett annat språk som första ämne** läser delkurs 6, Språkdidaktik 1B eller delkurs 8, Språkdidaktik 2B.
 
 ### Delkurser
@@ -173,7 +173,7 @@ Delkursen fokuserar på huvuddragen i språkutvecklingen från germanska fram ti
 
 3.Muntlig språkfärdighet och kulturkunskap, 6 högskolepoäng
 
-Inom modulen _Muntlig språkfärdighet _läggs stor vikt vid att träna den egna språkliga kompetensen med ett brett ordförråd och språklig variation. Denna modul fokuserar på retorikens funktion i olika områden, t.ex. i politik, i reklam och i samtalskultur.  
+Inom modulen _Muntlig språkfärdighet_ läggs stor vikt vid att träna den egna språkliga kompetensen med ett brett ordförråd och språklig variation. Denna modul fokuserar på retorikens funktion i olika områden, t.ex. i politik, i reklam och i samtalskultur.  
 Inom modulen _Kulturkunskap_ diskuteras de tyskspråkiga ländernas kultur och samhällsliv med utgångspunkt i olika medier, såsom podcaster, dokumentärfilm, grafiska noveller och vetenskapliga artiklar. Stor vikt läggs vid att olika samhällsröster kommer till tals. Egna erfarenheter utgör en utgångspunkt för reflektion och problematisering av begrepp som postmigration, identitet och ”Heimat”.  
 Delkursen medvetandegör och problematiserar även hållbar utveckling.
 
@@ -370,7 +370,7 @@ Module 8. Language Learning and Teaching 2B, 6 credits
 
 The modules Language Learning and Teaching 1 and Language Learning and Teaching 2 can be taken in any order. They are normally offered once a year. Students who have already taken Language Learning and Teaching 1 take Language Learning and Teaching 2 and vice versa.
 
-Students who are studying **German as their first subject **AND students who have studied **a subject other than language as their first subject** take module 5, Language Learning and Teaching 1A or module 7, Language Learning and Teaching 2A.  
+Students who are studying **German as their first subject** AND students who have studied **a subject other than language as their first subject** take module 5, Language Learning and Teaching 1A or module 7, Language Learning and Teaching 2A.  
 Students who have studied **another language as their first subject** take module 6, Language Learning and Teaching 1B or module 8, Language Learning and Teaching 2B.
 
 ### Modules

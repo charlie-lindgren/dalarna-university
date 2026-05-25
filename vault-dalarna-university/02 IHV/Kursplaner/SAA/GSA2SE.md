@@ -9,7 +9,7 @@ amne: "Socialt arbete"
 amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
-scrape_hash: 30b751d3a7072e61
+scrape_hash: 9d989a0f65b31a38
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2SE
 up: "[[Socialt arbete MOC]]"
 ---
@@ -29,8 +29,8 @@ up: "[[Socialt arbete MOC]]"
 
 ## Lärandemål
 
-**Kunskap och förståelse  
-**Efter avslutad kurs ska den studerande kunna:
+**Kunskap och förståelse**  
+Efter avslutad kurs ska den studerande kunna:
 
   - visa fördjupade och vidgade kunskaper om teorier,
 perspektiv, arbetsmetoder och insatser för socialt arbete på individ- och
@@ -41,8 +41,8 @@ samhällsnivå
   - visa kunskaper i olika vetenskapliga metoder för utvärdering
 av praktikanknutna projekt.
 
-**Färdigheter och förmåga  
-**Efter avslutad kurs ska den studerande kunna:
+**Färdigheter och förmåga**  
+Efter avslutad kurs ska den studerande kunna:
 
   - tillämpa teorier, perspektiv, arbetsmetoder och insatser för socialt arbete på individ-, grupp- och samhällsnivå i ett nationellt och internationellt perspektiv
   - visa förmåga att analysera teorier och kunna applicera dem
@@ -53,8 +53,8 @@ brukarperspektiv
   - visa förmåga att planera och utvärdera ett praktiskt projekt
 rörande socialt utvecklingsarbete.
 
- **Värderingsförmåga och förhållningssätt  
-**Efter avslutad kurs ska den studerande kunna:
+ **Värderingsförmåga och förhållningssätt**  
+Efter avslutad kurs ska den studerande kunna:
 
   - visa insikt i att socialt arbete behöver bedrivas på olika
 nivåer i samverkan med människor och organisationer

@@ -9,7 +9,7 @@ amne: "Svenska som andraspråk"
 amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
-scrape_hash: d8166b530d860177
+scrape_hash: c68cd16f2030a4df
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HG
 up: "[[Svenska som andraspråk MOC]]"
 ---
@@ -139,7 +139,7 @@ Betyg rapporteras enligt följande:
 
 I kursen ingår fältstudier vid en grund- eller gymnasieskola.
 
-Kursen överlappar tidigare kurskoder GSS3C7, GSS39R, GSS2QV, GSS2BL och GSS2MP samt kurserna _Svenska som andraspråk III - Andraspråksforskning: en forskningsöversikt_, 7,5 hp, _Svenska som andraspråk III - Andraspråksforskning_, 15 hp, _Bedömning av avancerade språkfärdigheter hos inlärare av svenska som andraspråk_, 7,5 hp, _Lärande genom fiktionstext i gymnasieskolan, _7,5 hp och _Ämnesspecifikt språk_, 7,5 hp.
+Kursen överlappar tidigare kurskoder GSS3C7, GSS39R, GSS2QV, GSS2BL och GSS2MP samt kurserna _Svenska som andraspråk III - Andraspråksforskning: en forskningsöversikt_, 7,5 hp, _Svenska som andraspråk III - Andraspråksforskning_, 15 hp, _Bedömning av avancerade språkfärdigheter hos inlärare av svenska som andraspråk_, 7,5 hp, _Lärande genom fiktionstext i gymnasieskolan,_ 7,5 hp och _Ämnesspecifikt språk_, 7,5 hp.
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
 

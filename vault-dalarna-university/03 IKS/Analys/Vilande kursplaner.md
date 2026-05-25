@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (397 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (398 rader)</span></a>
 
-> [!example]- 397 fynd — klicka för att expandera
+> [!example]- 398 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Institution | Fastställd | Reviderad | Problem |
 > | --- | --- | --- | --- | --- | --- |
@@ -360,6 +360,7 @@ status: första pass
 > | [GBQ35K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ35K) | BPO | IKS | 2023-06-30 | — | Ingen aktiv kursomgång |
 > | [GEU35M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU35M) | EUN | IKS | 2023-08-22 | — | Ingen aktiv kursomgång |
 > | [GEU35N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU35N) | EUN | IKS | 2023-08-22 | — | Ingen aktiv kursomgång |
+> | [ARK29H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29H) | RKA | IKS | 2023-09-08 | — | Ingen aktiv kursomgång |
 > | [GPG36A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG36A) | PGA | IKS | 2023-09-11 | — | Ingen aktiv kursomgång |
 > | [GPG36B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG36B) | PGA | IKS | 2023-09-11 | — | Ingen aktiv kursomgång |
 > | [AHI29Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI29Q) | HIA | IKS | 2023-10-05 | — | Ingen aktiv kursomgång |

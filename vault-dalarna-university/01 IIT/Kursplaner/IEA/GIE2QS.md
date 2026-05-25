@@ -9,7 +9,7 @@ amne: "Industriell ekonomi"
 amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
-scrape_hash: 3605960c9a355736
+scrape_hash: 7fc449f018029305
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2QS
 up: "[[Industriell ekonomi MOC]]"
 ---
@@ -95,7 +95,7 @@ Upon completion of the course, students will be able to:
 
   - identify possible problems and shortcomings through the analysis of process maturity and specific business development methods
 
-****  
+  
 **Judgement and approach**
 
   - reflect on different conditions for business development from a customer-focused process orientation and sustainability perspective

@@ -10,7 +10,7 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 09d153019079e2d9
+scrape_hash: a863b22da5816edc
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2WX
 up: "[[Idrotts- och hälsovetenskap MOC]]"
 ---
@@ -33,7 +33,7 @@ up: "[[Idrotts- och hälsovetenskap MOC]]"
 Efter avslutad kurs ska studenten kunna:
 
   - identifiera och redogöra för olika vetenskapliga områden inom
-idrotts- och **_ _**hälsovetenskap
+idrotts- och  hälsovetenskap
   - redogöra för och med utgångspunkt i
 ämnet exemplifiera vad ett vetenskapligt förhållningssätt innebär
   - diskutera och problematisera skolämnet

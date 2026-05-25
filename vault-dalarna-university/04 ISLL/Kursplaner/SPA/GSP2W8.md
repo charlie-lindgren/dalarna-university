@@ -9,7 +9,7 @@ amne: "Spanska"
 amne_kod: "SPA"
 institution: "ISLL"
 tags: [kursplan, SPA, ISLL]
-scrape_hash: fbd7f9aa8ac3e6f7
+scrape_hash: 9df9ae7b2d1dc61e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2W8
 up: "[[Spanska MOC]]"
 ---
@@ -136,7 +136,7 @@ De studerande läser sedan en av de två didaktiska delkurserna:
 Delkurs 5. Språkdidaktik 1A, 6 hp   
 eller  
 Delkurs 6. Språkdidaktik 1B, 6 hp   
-De studerande som läser **spanska som sitt första ämne **OCH de studerande som har läst** ett annat ämne än språk som första ämne** ska läsa delkurs 5, Språkdidaktik 1A.   
+De studerande som läser **spanska som sitt första ämne** OCH de studerande som har läst **ett annat ämne än språk som första ämne** ska läsa delkurs 5, Språkdidaktik 1A.   
 De studerande som har läst **ett annat språk som första ämne** ska läsa delkurs 6, Språkdidaktik 1B.
 
 ### Delkurser
@@ -186,7 +186,7 @@ Delkursen innebär ett fördjupat studium av språkdidaktiska teorier knutna til
   - Skriftlig nätbaserad tentamen
 **Delkurs 3**
 
-  - ** **Aktivt deltagande i seminarier och forumdiskussioner
+  -  Aktivt deltagande i seminarier och forumdiskussioner
   - Skriftliga och muntliga inlämningsuppgifter
 **Delkurs 4**
 
@@ -206,7 +206,7 @@ Kursens arbetsformer är föreläsningar och obligatoriska seminarier. Undervisn
 
 Som betygsskala används U–VG.
 
-För att få betyget väl godkänd på hela kursen krävs väl godkänd på fyra moduler inklusive modulen _Språkfärdighet och grammatik _och den lästa didaktikmodulen.
+För att få betyget väl godkänd på hela kursen krävs väl godkänd på fyra moduler inklusive modulen _Språkfärdighet och grammatik_ och den lästa didaktikmodulen.
   
 Betygsrapportering:
 

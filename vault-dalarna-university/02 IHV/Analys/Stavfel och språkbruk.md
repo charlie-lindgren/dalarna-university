@@ -10,7 +10,7 @@ status: första pass
 
 <a class="download-xlsx" href="02-IHV/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (98 rader)</span></a>
 
-> [!example]- 86 fynd — klicka för att expandera
+> [!example]- 98 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -98,6 +98,18 @@ status: första pass
 > | [SR3006](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SR3006) | SRP | Felstavning (en) | `interferential` (en) |
 > | [SR3010](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SR3010) | SRP | Felstavning | `hållbarhetsperpektiv` (sv) |
 > | [SR3010](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SR3010) | SRP | Felstavning | `övergripade` (sv) |
+> | [VBSKA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VBSKA) | Utbildningsplaner | Felstavning | `europarådets` (sv) |
+> | [VBSKA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VBSKA) | Utbildningsplaner | Felstavning | `postpartumvård` (sv) |
+> | [VBSKA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VBSKA) | Utbildningsplaner | Felstavning | `ternström` (sv) |
+> | [VDSSA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VDSSA) | Utbildningsplaner | Felstavning | `hälso` (sv) |
+> | [VDSSA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VDSSA) | Utbildningsplaner | Felstavning | `levnadsvaneförändring` (sv) |
+> | [VDSSA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VDSSA) | Utbildningsplaner | Felstavning | `levnadsvaneförändringar` (sv) |
+> | [VSADA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSADA) | Utbildningsplaner | Felstavning | `engström` (sv) |
+> | [VSADA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSADA) | Utbildningsplaner | Felstavning | `ätandeproblem` (sv) |
+> | [VSJPG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSJPG) | Utbildningsplaner | Felstavning | `engström` (sv) |
+> | [VSOPG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSOPG) | Utbildningsplaner | Felstavning | `hälso` (sv) |
+> | [VSSKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSSKG) | Utbildningsplaner | Felstavning | `engström` (sv) |
+> | [VSSKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSSKG) | Utbildningsplaner | Felstavning | `hälso` (sv) |
 > | [VV3011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3011) | VÅE | Felstavning | `livsstilförändring` (sv) |
 > | [VV3011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3011) | VÅE | Felstavning | `själständigt` (sv) |
 

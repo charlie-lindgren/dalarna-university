@@ -10,7 +10,7 @@ amne_kod: "SPA"
 institution: "ISLL"
 tags: [kursplan, SPA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: d4791e5766ef931b
+scrape_hash: 3d25dee1ba6d4430
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2JH
 up: "[[Spanska MOC]]"
 ---
@@ -217,26 +217,26 @@ roll i språkundervisningen.
 
 **Delkurs 1** examineras genom aktivt
 deltagande i seminarier, skriftliga prov samt en nätbaserad skriftlig
-sluttentamen.**  
+sluttentamen.  
 
-**Delkurs 2**** examineras genom aktivt deltagande i seminarier
+****Delkurs 2**** examineras genom aktivt deltagande i seminarier
 och forumdiskussioner, skriftliga reflekterande inlämningsuppgifter samt muntliga
-presentationer.**  
+presentationer.  
 
-**Delkurs 3**** examineras genom aktivt deltagande i seminarier,
-muntliga inlämningsuppgifter samt en skriftlig nätbaserad tentamen.**  
+****Delkurs 3**** examineras genom aktivt deltagande i seminarier,
+muntliga inlämningsuppgifter samt en skriftlig nätbaserad tentamen.  
 
-**Delkurs 4**** examineras genom aktivt deltagande
+****Delkurs 4**** examineras genom aktivt deltagande
 i seminarier, skriftliga inlämningsuppgifter samt
-skriftliga prov.**  
+skriftliga prov.  
 
-**Delkurs 5**** examineras genom aktivt deltagande i seminarier
-och forumdiskussioner, skriftliga reflekterande texter samt muntliga presentationer.**  
+****Delkurs 5**** examineras genom aktivt deltagande i seminarier
+och forumdiskussioner, skriftliga reflekterande texter samt muntliga presentationer.  
 
-**Delkurs 6**** examineras genom aktivt deltagande i seminarier
-och forumdiskussioner samt skriftliga och muntliga inlämningsuppgifter.**  
+****Delkurs 6**** examineras genom aktivt deltagande i seminarier
+och forumdiskussioner samt skriftliga och muntliga inlämningsuppgifter.  
 
-**Delkurs 7**** examineras genom aktivt deltagande i seminarier
+****Delkurs 7**** examineras genom aktivt deltagande i seminarier
 och forumdiskussioner, skriftliga inlämningsuppgifter samt muntliga
 redovisningar.
 

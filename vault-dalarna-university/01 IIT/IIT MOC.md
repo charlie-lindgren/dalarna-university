@@ -41,7 +41,7 @@ tags: [MOC, institution, IIT]
 - [[Informatik MOC|Informatik]] (70 kurser)
 - [[Maskinteknik MOC|Maskinteknik]] (36 kurser)
 - [[Matematik MOC|Matematik]] (11 kurser)
-- [[Matematikdidaktik MOC|Matematikdidaktik]] (45 kurser)
+- [[Matematikdidaktik MOC|Matematikdidaktik]] (46 kurser)
 - [[Mikrodataanalys MOC|Mikrodataanalys]] (71 kurser)
 - [[Samhällsbyggnadsteknik MOC|Samhällsbyggnadsteknik]] (24 kurser)
 - [[Statistik MOC|Statistik]] (4 kurser)
@@ -49,4 +49,3 @@ tags: [MOC, institution, IIT]
 ## Kvalitetsanalys
 
 - [[IIT Analys MOC]] — kvalitetsanalys för IIT
-

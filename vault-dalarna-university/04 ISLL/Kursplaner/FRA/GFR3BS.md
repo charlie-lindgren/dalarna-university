@@ -9,7 +9,7 @@ amne: "Franska"
 amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
-scrape_hash: 819187b664f6b09b
+scrape_hash: e00b49d45f24ae30
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3BS
 up: "[[Franska MOC]]"
 ---
@@ -139,7 +139,7 @@ I delkursen studeras ett urval skönlitterära verk i relation till fransktaland
 
 Som betygsskala på hel kurs används U–VG.
 
-För att få betyget VG på hela kursen krävs VG på modulen _Uppsats _samt på modulerna _Fransk språkhistoria _och _Litteraturanalys - Skriftliga inlämningsuppgifter; kortare uppsats._
+För att få betyget VG på hela kursen krävs VG på modulen _Uppsats_ samt på modulerna _Fransk språkhistoria_ och _Litteraturanalys - Skriftliga inlämningsuppgifter; kortare uppsats._
 
 Betyg rapporteras enligt följande:
 
@@ -268,7 +268,7 @@ In the course, a selection of fictional works are discussed in relation to the h
 
 The grading scale used for the final course grade is U–VG.
 
-To achieve the grade of VG for the whole course, students must achieve VG in the module _Essay _and the modules _History of the French language_ and _Literary analysis - Written assignments; short essay._
+To achieve the grade of VG for the whole course, students must achieve VG in the module _Essay_ and the modules _History of the French language_ and _Literary analysis - Written assignments; short essay._
 
 Grades are reported as follows:
 

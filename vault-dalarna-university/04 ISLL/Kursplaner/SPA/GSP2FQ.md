@@ -9,7 +9,7 @@ amne: "Spanska"
 amne_kod: "SPA"
 institution: "ISLL"
 tags: [kursplan, SPA, ISLL]
-scrape_hash: a2720347cc742a1d
+scrape_hash: 4ea1e2ba48825812
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2FQ
 up: "[[Spanska MOC]]"
 ---
@@ -164,7 +164,7 @@ Delkurs 5. Litteratur, film och samhälle i Latinamerika, 6 hp
 Dessutom ska en av de två didaktiska delkurserna läsas:  
 Delkurs 6. Språkdidaktik II A, 6 hp  
 Delkurs 7. Språkdidaktik II B, 6 hp  
-De studerande som läser **spanska som sitt första ämne **OCH de studerande som har läst** ett annat ämne än språk som första ämne** läser delkurs 6, Språkdidaktik II A.  
+De studerande som läser **spanska som sitt första ämne** OCH de studerande som har läst **ett annat ämne än språk som första ämne** läser delkurs 6, Språkdidaktik II A.  
 De studerande som har läst **ett annat språk som första ämne** läser delkurs 7, Språkdidaktik II B.
 
 ### Delkurser
@@ -301,7 +301,7 @@ Undervisningen bedrivs dels i föreläsningsform, dels i seminarieform med oblig
 
 Som betygsskala används U–VG.
 
-För att få betyget VG på hela kursen krävs VG på minst 24 hp, inklusive modulen _Skriftlig språkfärdighet och_ g_rammatik _och den lästa didaktikmodulen.
+För att få betyget VG på hela kursen krävs VG på minst 24 hp, inklusive modulen _Skriftlig språkfärdighet och_ g_rammatik_ och den lästa didaktikmodulen.
 
 Betyg rapporteras enligt följande:
 
@@ -452,7 +452,7 @@ In addition, students must choose one of the two modules that focus on language
 Module 5. Language Learning and Teaching II A, 6 credits  
 Module 6. Language Learning and Teaching II B, 6 credits
 
-Students who are studying **Spanish as their first subject **AND students who have studied **a subject other than language as their first subject** take module 6, Language Learning and Teaching II A.  
+Students who are studying **Spanish as their first subject** AND students who have studied **a subject other than language as their first subject** take module 6, Language Learning and Teaching II A.  
 Students who have studied **another language as their first subject** take module 7, Language Learning and Teaching II B.  
 
 ### Modules
@@ -546,7 +546,7 @@ Instruction is in the form of lectures and obligatory seminars where students
 
 The Swedish grades U–VG.
 
-To achieve the grade of VG for the whole course, students require VG in at least 24 credits, including the module _Written Proficiency and Grammar_ and their chosen _Language Learning and Teaching _module.
+To achieve the grade of VG for the whole course, students require VG in at least 24 credits, including the module _Written Proficiency and Grammar_ and their chosen _Language Learning and Teaching_ module.
 
 Reporting of grades:
 

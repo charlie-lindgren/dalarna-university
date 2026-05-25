@@ -9,7 +9,7 @@ amne: "Arbetsvetenskap"
 amne_kod: "ABA"
 institution: "IKS"
 tags: [kursplan, ABA, IKS]
-scrape_hash: 8942cec678853850
+scrape_hash: e5a7aa7fdda084af
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3HS
 up: "[[Arbetsvetenskap MOC]]"
 ---
@@ -42,7 +42,7 @@ Efter godkänd kurs ska studenten kunna:
 
 ## Innehåll
 
-I kursen introduceras ledarskapets roller och förutsättningar. Därtill fördjupas kunskaper avseende centrala organisationsteoretiska perspektiv. I modulen _Begrepp, teorier och modeller_ behandlas olika ledarskapsteorier samt faktorer och förutsättningar för hållbart arbetsliv och hållbart ledarskap. Vidare belyses ledarskap i olika typer av organisationer och i olika sammanhang. I modulen _Tillämpning och reflektion _används begrepp, teorier och modeller för att analysera och diskutera ledarskap i praktiken, med utgångspunkt i ledarrollen och dess organisatoriska förutsättningar. Dessutom reflekteras över vilka konsekvenser ledarskapets roll och förutsättningar kan ha för individ, grupp och organisation.
+I kursen introduceras ledarskapets roller och förutsättningar. Därtill fördjupas kunskaper avseende centrala organisationsteoretiska perspektiv. I modulen _Begrepp, teorier och modeller_ behandlas olika ledarskapsteorier samt faktorer och förutsättningar för hållbart arbetsliv och hållbart ledarskap. Vidare belyses ledarskap i olika typer av organisationer och i olika sammanhang. I modulen _Tillämpning och reflektion_ används begrepp, teorier och modeller för att analysera och diskutera ledarskap i praktiken, med utgångspunkt i ledarrollen och dess organisatoriska förutsättningar. Dessutom reflekteras över vilka konsekvenser ledarskapets roll och förutsättningar kan ha för individ, grupp och organisation.
 
 ## Examinationsformer
 

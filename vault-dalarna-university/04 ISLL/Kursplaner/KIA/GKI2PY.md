@@ -10,7 +10,7 @@ amne_kod: "KIA"
 institution: "ISLL"
 tags: [kursplan, KIA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: f920dd4db15b4a31
+scrape_hash: 40c8738f8658ab80
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2PY
 up: "[[Kinesiska MOC]]"
 ---
@@ -47,7 +47,7 @@ Kursen består av två moduler:
 
 ## Examinationsformer
 
-Kursen består av två moduler som bedöms separat. De två modulerna bedöms både muntligt och skriftligt samt i form av ett slutprov. Slutprovet för T_ala och lyssna _sker i form av ett muntligt prov för slutgiltig utvärdering av studentens utveckling under kursens gång. _Läsa och skriva _examineras i form av en skriftlig uppgift där studenten tränar på att skriva en uppsats. Slutproven i de två modulerna fungerar som tillägg till studentens övriga uppgifter samt närvaro.
+Kursen består av två moduler som bedöms separat. De två modulerna bedöms både muntligt och skriftligt samt i form av ett slutprov. Slutprovet för T_ala och lyssna_ sker i form av ett muntligt prov för slutgiltig utvärdering av studentens utveckling under kursens gång. _Läsa och skriva_ examineras i form av en skriftlig uppgift där studenten tränar på att skriva en uppsats. Slutproven i de två modulerna fungerar som tillägg till studentens övriga uppgifter samt närvaro.
 
 ## Arbetsformer
 
@@ -95,7 +95,7 @@ The course consists of two modules:
 
 ### Assessment
 
-The two modules of the course are assessed separately.The two modules are assessed continuously, both orally and in writing, as well as with a final examination. For the _Speaking and listening _module, a final oral examination will be used to evaluate the students’ development during the course. For the _Reading and writing_ part, a final written examination is used where the student writes an essay. The final examinations in the two modules serve as a complement to the students‘ other assignments, as does attendance.
+The two modules of the course are assessed separately.The two modules are assessed continuously, both orally and in writing, as well as with a final examination. For the _Speaking and listening_ module, a final oral examination will be used to evaluate the students’ development during the course. For the _Reading and writing_ part, a final written examination is used where the student writes an essay. The final examinations in the two modules serve as a complement to the students‘ other assignments, as does attendance.
 
 ### Forms of Study
 

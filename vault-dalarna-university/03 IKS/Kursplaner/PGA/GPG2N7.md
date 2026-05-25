@@ -10,7 +10,7 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 7fa465e042da4711
+scrape_hash: cdc096cda447be34
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2N7
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -45,7 +45,7 @@ Efter avslutad kurs ska den studerande kunna:
 
 ## Innehåll
 
-Kursens övergripande innehåll kretsar kring frågan_ Varför skola? _och i centrum är skolans historiska framväxt samt grundskolans och gymnasieskolans styrning och organisation utifrån ideologiska, juridiska och ekonomiska aspekter. Utbildningspolitiska och utbildningsfilosofiska ståndpunkter och 
+Kursens övergripande innehåll kretsar kring frågan _Varför skola?_ och i centrum är skolans historiska framväxt samt grundskolans och gymnasieskolans styrning och organisation utifrån ideologiska, juridiska och ekonomiska aspekter. Utbildningspolitiska och utbildningsfilosofiska ståndpunkter och 
 tolkningar betraktas i förhållande till olika samhälleliga kontexter. 
 Ämneslärarutbildningens innehåll och ambitioner belyses på motsvarande 
 sätt. Demokratibegreppet behandlas och relateras till styrningen av den 

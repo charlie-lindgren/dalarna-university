@@ -9,7 +9,7 @@ amne: "Arbetsvetenskap"
 amne_kod: "ABA"
 institution: "IKS"
 tags: [kursplan, ABA, IKS]
-scrape_hash: 703b4d81ac115a61
+scrape_hash: 8e36d0f3edc55392
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3HQ
 up: "[[Arbetsvetenskap MOC]]"
 ---
@@ -48,7 +48,7 @@ Efter godkänd kurs ska studenten kunna:
 
 Kursen innebär praktiskt personalarbete inom en organisation. Personalarbetets roll och organisationers förutsättningar belyses. Kursen omfattar både att följa en yrkesverksam ledare eller personalarbetare och att självständigt utföra arbetsuppgifter. Under kursen behandlas personalarbete i relation till relevanta personalvetenskapliga och arbetsvetenskapliga teorier, begrepp och modeller. Genom reflektion och praktisk handling utvecklas kompetensen i personalarbete och förståelsen för hur teorier, begrepp och modeller kan anpassas till specifika arbetssituationer. Utifrån en praktisk kunskapssyn utvecklas därmed ett reflekterande förhållningssätt.
 
-I modulen _Teori i praktik _behandlas personalarbete i den dagliga verksamheten. Personalarbete identifieras, analyseras och kopplas till teorier, begrepp och modeller, genom löpande reflektion och diskussion. I modulen _Teori, begrepp och modeller _genomförs ett fördjupningsarbete med utgångspunkt från det praktiska arbetet.
+I modulen _Teori i praktik_ behandlas personalarbete i den dagliga verksamheten. Personalarbete identifieras, analyseras och kopplas till teorier, begrepp och modeller, genom löpande reflektion och diskussion. I modulen _Teori, begrepp och modeller_ genomförs ett fördjupningsarbete med utgångspunkt från det praktiska arbetet.
 
 ## Examinationsformer
 

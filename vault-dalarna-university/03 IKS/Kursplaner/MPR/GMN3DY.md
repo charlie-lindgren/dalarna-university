@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 979d7c8bd7494c30
+scrape_hash: 2efed9128a9403c1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3DY
 up: "[[Medieproduktion MOC]]"
 ---
@@ -41,7 +41,7 @@ Efter godkänd kurs ska studenten kunna:
 
 ## Innehåll
 
-Kursen behandlar grundläggande kunskaper inom audiovisuell medieproduktion, där teoretiska och praktiska aspekter integreras. Den är indelad i tre moduler: _Medieproduktionsteori_, _Inspelningsteknik _och _Efterbearbetning_. I den första modulen behandlas grundläggande berättarkomponenter för audiovisuell medieproduktion. Analysmetoder presenteras och tillämpas. Grunderna inom vetenskapligt skrivande introduceras. Den andra modulen behandlar grundläggande medieproduktionsteknik för inspelning av ljud och rörlig bild. I den tredje modulen behandlas grundläggande medieproduktionsteknik för efterbearbetning av inspelat ljud- och bildmaterial. I både modul två och tre integreras teoretiska och praktiska aspekter av medieproduktionsteknik där audiovisuella uppgifter genomförs såväl enskilt som i grupp.
+Kursen behandlar grundläggande kunskaper inom audiovisuell medieproduktion, där teoretiska och praktiska aspekter integreras. Den är indelad i tre moduler: _Medieproduktionsteori_, _Inspelningsteknik_ och _Efterbearbetning_. I den första modulen behandlas grundläggande berättarkomponenter för audiovisuell medieproduktion. Analysmetoder presenteras och tillämpas. Grunderna inom vetenskapligt skrivande introduceras. Den andra modulen behandlar grundläggande medieproduktionsteknik för inspelning av ljud och rörlig bild. I den tredje modulen behandlas grundläggande medieproduktionsteknik för efterbearbetning av inspelat ljud- och bildmaterial. I både modul två och tre integreras teoretiska och praktiska aspekter av medieproduktionsteknik där audiovisuella uppgifter genomförs såväl enskilt som i grupp.
 
 ## Examinationsformer
 

@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: 599b7687de9ad7e6
+scrape_hash: 90230a2030304359
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN37A
 up: "[[Engelska MOC]]"
 ---
@@ -73,10 +73,10 @@ Kursen består av tre delkurser.
 Delkursen ger en introduktion i akademisk kommunikation på engelska inom olika akademiska discipliner, med särskilt fokus på språkvetenskap och litteraturstudier. Delkursen behandlar vanliga genrer inom akademiskt tal och skrift och lyfter fram typiska drag hos dessa genrer, vad gäller såväl språkliga former som retoriska funktioner.
 2.Engelskspråkig litteratur, 12 högskolepoäng
 
-Delkursen består av två moduler.**  
-Modul 1: Form och funktion**  
-I modulen introduceras perspektiv på skönlitteratur som fokuserar på litterär form. Formrelaterade aspekter såsom berättartakt och -perspektiv, poetisk struktur, dramaturgiska tekniker och litterära grepp behandlas.**  
-Modul 2: Litteratur, identitet och kultur**  
+Delkursen består av två moduler.  
+**Modul 1: Form och funktion**  
+I modulen introduceras perspektiv på skönlitteratur som fokuserar på litterär form. Formrelaterade aspekter såsom berättartakt och -perspektiv, poetisk struktur, dramaturgiska tekniker och litterära grepp behandlas.  
+**Modul 2: Litteratur, identitet och kultur**  
 I modulen introduceras ideologiska perspektiv på skönlitteratur. Modern och samtida prosa, poesi och drama i huvudsak från Storbritannien, Irland, Nordamerika och Oceanien behandlas.
 
 3.Den moderna engelskans struktur, 12 högskolepoäng
@@ -189,8 +189,8 @@ This part introduces perspectives on fiction that focus on literary form. Form-r
 This part introduces ideological perspectives on fiction. Modern and contemporary prose, poetry and drama, mainly from Great Britain, Ireland, North America and Oceania, are treated.
 3.The Structure of Modern English, 12 Credits
 
-This module has three parts.**  
-Part 1: ****Grammar**  
+This module has three parts.  
+**Part 1:** **Grammar**  
 This part of the module deals with the fundamental aspects of English grammar including applied exercises in contrastive analyses of authentic texts that have different kinds of grammatical problems.  
 **Part 2:** **Phonetics**  
 This part of the module deals with the principles of English pronunciation as well as the main differences between English and Swedish pronunciation. English pronunciation is practiced through the study of phonetic transcription.  

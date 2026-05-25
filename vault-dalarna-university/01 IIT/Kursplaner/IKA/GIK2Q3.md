@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: 738507d33d047e4a
+scrape_hash: 6ceba73da77257a8
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2Q3
 up: "[[Informatik MOC]]"
 ---
@@ -30,16 +30,16 @@ up: "[[Informatik MOC]]"
 ## Lärandemål
 
 Efter avslutad kurs ska studenten kunna:   
-_  
-Kunskap och förståelse_
+  
+_Kunskap och förståelse_
 
   - Förklara begrepp och terminologi relaterade till Big Data och Cloud Computing (molntjänster).
 
   - Beskriva utmaningar med analys av Big Data och tekniker som används för att utföra analys av Big Data i molnet.
 
   - Beskriva olika typer av molnplattformar och deras fördelar och nackdelar för Big Data-analys såsom skalbarhet och prestanda i olika sammanhang. 
-_  
-Färdigheter och förmågor _  
+  
+_Färdigheter och förmågor_   
 
   - Använda en molnbaserad plattform för att lagra, uppdatera och hantera Big Data. 
 

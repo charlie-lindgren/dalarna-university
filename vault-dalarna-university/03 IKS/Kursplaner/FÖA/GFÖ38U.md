@@ -8,7 +8,7 @@ amne: "Företagsekonomi"
 amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
-scrape_hash: a1581ebcfb3fab88
+scrape_hash: ed17c6ed672efd19
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ38U
 up: "[[Företagsekonomi MOC]]"
 ---
@@ -41,7 +41,7 @@ Efter godkänd kurs ska studenten kunna:
 
 ## Innehåll
 
-Kursen omfattar två moduler, _Grundläggande begrepp, modeller och teorier _samt _Organisationsanalyser_. Centralt i den första modulen är motivation och drivkrafter på både individ- och gruppnivå samt hur arbetsgrupper sätts samman och fungerar. Modulen fokuserar även på förutsättningar för ledarskap och skillnader mellan chefskap och ledarskap. Ett bärande element är att lyfta fram och diskutera området ledarskap utifrån olika perspektiv såsom roller, uppgifter och praktiskt utförande. Grundläggande teorier, begrepp och modeller om organisationsbeteende behandlas också. Den andra modulen, _Organisationsanalyser_, fokuserar på effekter av ledarskap för individen och organisationen samt principiella förutsättningar som möjliggör ledarskapet av grupper och individer.
+Kursen omfattar två moduler, _Grundläggande begrepp, modeller och teorier_ samt _Organisationsanalyser_. Centralt i den första modulen är motivation och drivkrafter på både individ- och gruppnivå samt hur arbetsgrupper sätts samman och fungerar. Modulen fokuserar även på förutsättningar för ledarskap och skillnader mellan chefskap och ledarskap. Ett bärande element är att lyfta fram och diskutera området ledarskap utifrån olika perspektiv såsom roller, uppgifter och praktiskt utförande. Grundläggande teorier, begrepp och modeller om organisationsbeteende behandlas också. Den andra modulen, _Organisationsanalyser_, fokuserar på effekter av ledarskap för individen och organisationen samt principiella förutsättningar som möjliggör ledarskapet av grupper och individer.
 
 ## Examinationsformer
 

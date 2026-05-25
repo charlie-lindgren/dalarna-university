@@ -10,7 +10,7 @@ amne_kod: "PRA"
 institution: "ISLL"
 tags: [kursplan, PRA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: efa28cfd2a114709
+scrape_hash: 668c937d79dbd476
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR3E5
 up: "[[Portugisiska MOC]]"
 ---
@@ -42,7 +42,7 @@ Efter godkänd kurs ska studenten kunna:
 
 ## Innehåll
 
-Kursen består av tre delar, _Introduktion_, _Praktik _och _Teoretiska perspektiv_.  
+Kursen består av tre delar, _Introduktion_, _Praktik_ och _Teoretiska perspektiv_.  
 I introduktionsdelen deltar studenterna i småskaliga, praktiska projekt som undersöker kommunikativa metoder i interkulturella arbetsplatsmiljöer. Studenterna kan anpassa innehållet efter sina specifika intresseområden.  
 Praktikdelen består av praktik på en arbetsplats där observation och bedömning av kommunikationspraktiker genomförs i ljuset av teoretiska perspektiv. Tekniker för förbättrad interkulturell kommunikation och inkludering på arbetsplatsen utforskas. Fokus ligger på att identifiera för arbetsplatsen relevanta områden för intervention baserat på teorier om kommunikation. Studenten reflekterar även över sin egen kommunikation kopplat till arbetsplatsen.  
 I delen _Teoretiska perspektiv_ fördjupas och integreras praktiken med teorier inom området interkulturell kommunikation och kommunikation på arbetsplatsen. Denna del görs i dialog med arbetsplatsen och fokuserar på genomförbarheten av insatser och åtgärder för att stärka kommunikationen på den specifika arbetsplatsen.
@@ -113,7 +113,7 @@ In the theoretical perspectives part, practice is both deepened and integrated 
 The grading scale used for the final course grade is U–VG.
 
 
-For a final course grade of VG, students must achieve a VG for 7.5 credits, including the modules _Theoretical Perspectives - Written Assignment _and _Theoretical Perspectives - Oral Assignment_.
+For a final course grade of VG, students must achieve a VG for 7.5 credits, including the modules _Theoretical Perspectives - Written Assignment_ and _Theoretical Perspectives - Oral Assignment_.
  
 
 Grades are reported as follows:

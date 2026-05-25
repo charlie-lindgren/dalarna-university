@@ -9,7 +9,7 @@ amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS]
-scrape_hash: 91ef273030f107aa
+scrape_hash: cc39850254014836
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3GY
 up: "[[Medieproduktion MOC]]"
 ---
@@ -73,7 +73,7 @@ Betyg rapporteras enligt följande:
 
 ## Övrigt
 
-Modulen _Efterbearbetning av film 6,0 hp _kan examineras endast när kursen går. Vid underkänt betyg hänvisas studenten till nästa kurstillfälle för omexamination.
+Modulen _Efterbearbetning av film 6,0 hp_ kan examineras endast när kursen går. Vid underkänt betyg hänvisas studenten till nästa kurstillfälle för omexamination.
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
 

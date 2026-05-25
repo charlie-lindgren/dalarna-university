@@ -10,7 +10,7 @@ amne_kod: "LPU"
 institution: "IKS"
 tags: [kursplan, LPU, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 968359006350ae89
+scrape_hash: 518167c75308f262
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2WB
 up: "[[Ljud- och musikproduktion MOC]]"
 ---
@@ -58,7 +58,7 @@ Modul 1: Laborationer - 3,5 hp (U-G)
 Modul 2: Praktisk examination - 2 hp (U-G)  
 Modul 3: Tentamen - 2 hp (U-VG)
 
-För att få betyget _Väl godkänd _på hela kursen, krävs betyget _Väl godkänd_ på modul 3.
+För att få betyget _Väl godkänd_ på hela kursen, krävs betyget _Väl godkänd_ på modul 3.
 
 ## Förkunskapskrav
 

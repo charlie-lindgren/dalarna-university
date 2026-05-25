@@ -10,7 +10,7 @@ amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: c93788d40bc51ac9
+scrape_hash: 6c48b32b66789293
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YN
 up: "[[Informatik MOC]]"
 ---
@@ -48,8 +48,8 @@ Efter godkänd kurs ska den studerande kunna:
 
   - använda datastrukturer för att permanent och temporärt lagra och manipulera data under exekvering
 
-_  
-Värderingsförmåga och förhållningssätt_  
+  
+_Värderingsförmåga och förhållningssätt_  
 Efter godkänd kurs ska den studerande kunna:
 
   - diskutera valda programutvecklingsmetoder

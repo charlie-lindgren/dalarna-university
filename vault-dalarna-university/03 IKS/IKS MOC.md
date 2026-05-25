@@ -8,7 +8,7 @@ tags: [MOC, institution, IKS]
 
 > Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Program (29 st)
+## Program (30 st)
 
 - <a class="no-graph" href="KAPSG">KAPSG</a> — Audiovisuell produktion för scen och event – kandidatprogram
 - <a class="no-graph" href="SBMPG">SBMPG</a> — Business Managementprogrammet - Kandidatprogram i företagsekonomi
@@ -20,6 +20,7 @@ tags: [MOC, institution, IKS]
 - <a class="no-graph" href="LBF3A">LBF3A</a> — Grundlärarprogrammet Förskoleklass och grundskolans årskurs 1–3 arbetsintegrerad utbildning
 - <a class="no-graph" href="STMGG">STMGG</a> — International Tourism Management
 - <a class="no-graph" href="KLJMG">KLJMG</a> — Ljud- och musikproduktionsprogrammet
+- <a class="no-graph" href="HAFSA">HAFSA</a> — Magisterprogram i Afrikanska studier
 - <a class="no-graph" href="KAVPA">KAVPA</a> — Magisterprogram i Audiovisuella studier
 - <a class="no-graph" href="SDUVA">SDUVA</a> — Magisterprogram i destinationsutveckling
 - <a class="no-graph" href="SFIFA">SFIFA</a> — Magisterprogram i företagsekonomi med ett internationellt fokus
@@ -66,4 +67,3 @@ tags: [MOC, institution, IKS]
 ## Kvalitetsanalys
 
 - [[IKS Analys MOC]] — kvalitetsanalys för IKS
-

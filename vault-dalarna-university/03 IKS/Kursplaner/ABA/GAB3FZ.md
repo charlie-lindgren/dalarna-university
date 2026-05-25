@@ -9,7 +9,7 @@ amne: "Arbetsvetenskap"
 amne_kod: "ABA"
 institution: "IKS"
 tags: [kursplan, ABA, IKS]
-scrape_hash: 68e1da0928aff379
+scrape_hash: 9cb931023254eddc
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3FZ
 up: "[[Arbetsvetenskap MOC]]"
 ---
@@ -44,7 +44,7 @@ Efter godkänd kurs ska studenten kunna:
 
 ## Innehåll
 
-Kursen introducerar programmets inriktning, med teorier om arbetsvetenskap, med perspektiv på hållbart arbetsliv, hållbar utveckling och personalarbete. Modulen _Tillämpning och reflektion_ introduceras vetenskapligt förhållningssätt, det vetenskapliga skrivandet och problemformulering. I modulen_ Teorier, begrepp och modeller_ behandlas personalarbete utifrån ett historiskt och aktuellt perspektiv. Vidare behandlas personalarbetets förutsättningar och arbetsinnehåll och arbetsvetenskapens teorier och begrepp för hållbart arbetsliv.
+Kursen introducerar programmets inriktning, med teorier om arbetsvetenskap, med perspektiv på hållbart arbetsliv, hållbar utveckling och personalarbete. Modulen _Tillämpning och reflektion_ introduceras vetenskapligt förhållningssätt, det vetenskapliga skrivandet och problemformulering. I modulen _Teorier, begrepp och modeller_ behandlas personalarbete utifrån ett historiskt och aktuellt perspektiv. Vidare behandlas personalarbetets förutsättningar och arbetsinnehåll och arbetsvetenskapens teorier och begrepp för hållbart arbetsliv.
 
 ## Examinationsformer
 

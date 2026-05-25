@@ -10,7 +10,7 @@ amne_kod: "KIA"
 institution: "ISLL"
 tags: [kursplan, KIA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: d8ece3d412b6f156
+scrape_hash: 469ef7dda311bfb4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3CD
 up: "[[Kinesiska MOC]]"
 ---
@@ -68,7 +68,7 @@ Kursen består av ett individuellt projekt inom något av ämnesområdena kinesi
 
 Som betygsskala på hel kurs används U–VG.
 
-För att få betyget VG på hela kursen krävs VG på modulerna _Examensarbete _och _Muntlig presentation och försvar samt opposition._
+För att få betyget VG på hela kursen krävs VG på modulerna _Examensarbete_ och _Muntlig presentation och försvar samt opposition._
 
 Betyg rapporteras enligt följande:
 
@@ -133,7 +133,7 @@ The course consists of an individual project relating to one of these themes: C
 
 The grading scale used for the final course grade is U–VG.
 
-For a final course grade of VG (Pass with Credit), students must achieve VG for the modules _Thesis _and _Oral presentation, defence and peer review_.
+For a final course grade of VG (Pass with Credit), students must achieve VG for the modules _Thesis_ and _Oral presentation, defence and peer review_.
 
 Grades are reported as follows:
 

@@ -9,7 +9,7 @@ amne: "Svenska som andraspråk"
 amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
-scrape_hash: 93e41e62fe9116b9
+scrape_hash: eee0db58c20fd88a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2FJ
 up: "[[Svenska som andraspråk MOC]]"
 ---
@@ -72,7 +72,7 @@ Ersätter GSS2BX.
 
 För nätbaserad kurs krävs att den studerande har möjlighet att kommunicera med ljud och bild via en dator eller motsvarande.
 
-Kursen kan tillgodoräknas i_ Svenska som andraspråk I med didaktisk inriktning_, 30 hp.   
+Kursen kan tillgodoräknas i _Svenska som andraspråk I med didaktisk inriktning_, 30 hp.   
 Kursen kan inte ingå i en examen samtidigt som _Svenska som andraspråk I med didaktisk inriktning_, 30 hp.
 
 ## English Version

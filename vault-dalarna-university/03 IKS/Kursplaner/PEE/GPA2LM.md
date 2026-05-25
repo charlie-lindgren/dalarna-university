@@ -10,7 +10,7 @@ amne_kod: "PEE"
 institution: "IKS"
 tags: [kursplan, PEE, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 9c5eab823f9af91b
+scrape_hash: 060c871ad0d72e58
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2LM
 up: "[[Personal och arbetsliv MOC]]"
 ---
@@ -39,16 +39,16 @@ Efter genomgången kurs ska studenten kunna:
 
   - redogöra för framväxten av personalvetenskap och dess begrepp i ett historiskt perspektiv, även internationellt. 
 
-_  
-Färdighet och förmåga_  
+  
+_Färdighet och förmåga_  
 Efter genomgången kurs ska studenten kunna:
 
   - diskutera personalarbetets förutsättningar, funktioner och innehåll 
 
   - muntligt och skriftligt redogöra för grundläggande begrepp och metoder för målinriktat grupparbete/projektarbete.
 
-_  
-Värderingsförmåga och förhållningssätt_  
+  
+_Värderingsförmåga och förhållningssätt_  
 Efter genomgången kurs ska studenten kunna:
 
   - övergripande reflektera och diskutera personalarbetets roll i organisationer och i samhället.

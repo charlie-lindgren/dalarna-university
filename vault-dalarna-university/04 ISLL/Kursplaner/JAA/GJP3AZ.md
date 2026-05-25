@@ -9,7 +9,7 @@ amne: "Japanska"
 amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
-scrape_hash: e3fbdeba561fde29
+scrape_hash: 639b9043faf6cf91
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP3AZ
 up: "[[Japanska MOC]]"
 ---
@@ -67,7 +67,7 @@ Betyg rapporteras enligt följande:
 
 ## Övrigt
 
-Kursen överlappar kurserna_ Japanska: Akademiskt skrivande_, 7,5 hp och _Japanska II: Akademiskt skrivande_, 7,5 hp.
+Kursen överlappar kurserna _Japanska: Akademiskt skrivande_, 7,5 hp och _Japanska II: Akademiskt skrivande_, 7,5 hp.
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
 

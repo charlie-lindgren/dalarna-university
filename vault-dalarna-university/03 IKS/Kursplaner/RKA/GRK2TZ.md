@@ -9,7 +9,7 @@ amne: "Religionsvetenskap"
 amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
-scrape_hash: 29180e6f4e578fd8
+scrape_hash: 2a00b78a5a06265a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2TZ
 up: "[[Religionsvetenskap MOC]]"
 ---
@@ -72,7 +72,7 @@ mångkulturell skola.
 3.Religionsdidaktik, 9 högskolepoäng
 
 Delkursen bygger vidare på den ämnesteoretiska och
-didaktiska förståelse studenten har utvecklat under tidigare kurser._ _I
+didaktiska förståelse studenten har utvecklat under tidigare kurser. I
 delkursen fördjupas den tidigare påbörjade diskussionen om möjliga svar på de
 didaktiska frågorna om urval av undervisningsinnehåll, undervisningsformer och
 motiveringar till dessa. Här ingår analyser av kursplaner och andra
@@ -97,8 +97,8 @@ uppsats.
 seminariedeltagande, muntlig och skriftlig redovisning samt genom hemtentamen.  
 
 **Delkurs 2** examineras genom aktivt
-seminariedeltagande samt muntlig och skriftlig redovisning.**  
-Delkurs 4 **examineras genom aktivt
+seminariedeltagande samt muntlig och skriftlig redovisning.  
+**Delkurs 4** examineras genom aktivt
 seminariedeltagande samt genom en uppsats som försvaras vid ett
 ventileringsseminarium i vilket det även ingår opposition på en medstuderandes
 uppsats.

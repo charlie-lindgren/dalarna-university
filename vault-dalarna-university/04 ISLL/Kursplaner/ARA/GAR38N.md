@@ -9,7 +9,7 @@ amne: "Arabiska"
 amne_kod: "ARA"
 institution: "ISLL"
 tags: [kursplan, ARA, ISLL]
-scrape_hash: 1d9f419cd969699e
+scrape_hash: 7c580f0ab0827f92
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR38N
 up: "[[Arabiska MOC]]"
 ---
@@ -109,7 +109,7 @@ On completion of the course, students will be able to:
 
 ### Course Content
 
-The course consists of three modules: _Grammar and Texts_, _Oral Proficiency _and _The Development of Arabic Literature_. In the first two modules, which are taken together, students study different types of materials in Modern Standard Arabic, such as songs, reports, poems, news and prose. The course introduces the basics of Balagha, which students then use along with other analytical tools in the literary analysis of texts. Students use the grammar they have learnt in independent grammatical analyses of various texts. In the module _The Development of Arabic Literature_, students read articles and listen to lectures. They then complete an independently written report based on a chosen question and a short project plan.
+The course consists of three modules: _Grammar and Texts_, _Oral Proficiency_ and _The Development of Arabic Literature_. In the first two modules, which are taken together, students study different types of materials in Modern Standard Arabic, such as songs, reports, poems, news and prose. The course introduces the basics of Balagha, which students then use along with other analytical tools in the literary analysis of texts. Students use the grammar they have learnt in independent grammatical analyses of various texts. In the module _The Development of Arabic Literature_, students read articles and listen to lectures. They then complete an independently written report based on a chosen question and a short project plan.
 
 ### Assessment
 

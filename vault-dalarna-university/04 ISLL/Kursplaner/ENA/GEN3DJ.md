@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: e87efa4d5004bfb2
+scrape_hash: 4083b3345edeb6ba
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DJ
 up: "[[Engelska MOC]]"
 ---
@@ -89,7 +89,7 @@ On completion of the course, students will be able to:
 
 ### Course Content
 
-The aim of this course is to study the most recent developments in the _Bildungsroman _genre in English and the way it was redefined during the final decades of the twentieth century and the early twenty-first century. A selection of texts will be analysed from the perspective of gender, ethnicity and ageing. This will raise awareness about the manner in which these texts in a critical sense challenge traditional definitions of the _Bildungsroman._ In the analysis, focus is on aspects of the current socio-historical context, such as the gained prominence of women in society, transcultural exchanges and the ageing population, all of which are crucial both in the formation of the individual as well as for social integration.
+The aim of this course is to study the most recent developments in the _Bildungsroman_ genre in English and the way it was redefined during the final decades of the twentieth century and the early twenty-first century. A selection of texts will be analysed from the perspective of gender, ethnicity and ageing. This will raise awareness about the manner in which these texts in a critical sense challenge traditional definitions of the _Bildungsroman._ In the analysis, focus is on aspects of the current socio-historical context, such as the gained prominence of women in society, transcultural exchanges and the ageing population, all of which are crucial both in the formation of the individual as well as for social integration.
 
 ### Assessment
 

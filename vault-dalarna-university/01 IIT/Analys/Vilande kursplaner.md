@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (86 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (87 rader)</span></a>
 
-> [!example]- 86 fynd — klicka för att expandera
+> [!example]- 87 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Institution | Fastställd | Reviderad | Problem |
 > | --- | --- | --- | --- | --- | --- |
@@ -100,6 +100,7 @@ status: första pass
 > | [GMT3JT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JT) | MTA | IIT | 2026-04-01 | — | Ingen aktiv kursomgång |
 > | [GMT3JU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JU) | MTA | IIT | 2026-04-01 | — | Ingen aktiv kursomgång |
 > | [GMT3JV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JV) | MTA | IIT | 2026-04-01 | — | Ingen aktiv kursomgång |
+> | [GMD3K4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD3K4) | MDI | IIT | 2026-05-18 | — | Ingen aktiv kursomgång |
 
 ## Syfte
 

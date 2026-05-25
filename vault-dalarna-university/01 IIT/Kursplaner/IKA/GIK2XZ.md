@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: 0b545cc9fd06d315
+scrape_hash: 9fadded91658086c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2XZ
 up: "[[Informatik MOC]]"
 ---
@@ -29,8 +29,8 @@ up: "[[Informatik MOC]]"
 
 ## Lärandemål
 
-**Kunskap och förståelse  
-**Efter avslutad kurs ska den studerande kunna:
+**Kunskap och förståelse**  
+Efter avslutad kurs ska den studerande kunna:
  
  
   - beskriva metoder, modeller, roller och faser för verksamhetsutveckling 
@@ -39,8 +39,8 @@ up: "[[Informatik MOC]]"
   - beskriva och förklara begreppsmodellering
  
 
-**Färdighet och förmåga  
-**Efter avslutad kurs ska den studerande kunna:
+**Färdighet och förmåga**  
+Efter avslutad kurs ska den studerande kunna:
  
  
   - tillämpa processbaserad verksamhetsutveckling 
@@ -49,8 +49,8 @@ up: "[[Informatik MOC]]"
   - automatisera för ändamålet lämplig process
  
 
-**Värdering och förhållningssätt  
-**Efter avslutad kurs ska den studerande kunna:
+**Värdering och förhållningssätt**  
+Efter avslutad kurs ska den studerande kunna:
  
  
   - diskutera och reflektera kring förändringsarbete och effekter på given verksamhet.

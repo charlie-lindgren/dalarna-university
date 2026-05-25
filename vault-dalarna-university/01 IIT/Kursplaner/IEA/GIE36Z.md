@@ -9,7 +9,7 @@ amne: "Industriell ekonomi"
 amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
-scrape_hash: 83848a4fdba12a00
+scrape_hash: a551152b2ebdef7b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE36Z
 up: "[[Industriell ekonomi MOC]]"
 ---
@@ -29,9 +29,9 @@ up: "[[Industriell ekonomi MOC]]"
 
 ## Lärandemål
 
-Efter godkänd kurs ska studenten kunna:_  
+Efter godkänd kurs ska studenten kunna:  
   
-Kunskap och förståelse_
+_Kunskap och förståelse_
 
   - redogöra översiktligt för utvecklingen från traditionell ekonomistyrning till processorienterad verksamhetsstyrning,
 

@@ -10,7 +10,7 @@ amne_kod: "SPA"
 institution: "ISLL"
 tags: [kursplan, SPA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: d009f93bb748f1a6
+scrape_hash: 96e595ca2adf5a10
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP39N
 up: "[[Spanska MOC]]"
 ---
@@ -86,7 +86,7 @@ Betyg rapporteras enligt följande:
 
 Godkänd kurs ger behörighet till fortsatta studier inom huvudområdet spanska vid Högskolan Dalarna.
 
-Kursen överlappar kurserna _Spanska grundläggande kurs_, 15 hp och _Spanska: grundläggande kurs, _7,5 hp.
+Kursen överlappar kurserna _Spanska grundläggande kurs_, 15 hp och _Spanska: grundläggande kurs,_ 7,5 hp.
 
 Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
 

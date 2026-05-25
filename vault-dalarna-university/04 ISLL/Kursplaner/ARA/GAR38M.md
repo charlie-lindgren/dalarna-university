@@ -9,7 +9,7 @@ amne: "Arabiska"
 amne_kod: "ARA"
 institution: "ISLL"
 tags: [kursplan, ARA, ISLL]
-scrape_hash: ace4218c2c8c54d3
+scrape_hash: aaee7d7dce2c5e19
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR38M
 up: "[[Arabiska MOC]]"
 ---
@@ -47,7 +47,7 @@ Efter godkänd kurs ska studenten kunna:
 
 ## Innehåll
 
-Kursen är uppbyggd runt tre moduler. Modulerna _Grammatik och textläsning_ samt _Muntlig språkfärdighet _samläses; modulen _Den arabiska poesins utveckling_ läses individuellt. Kursen behandlar olika typer av material såsom noveller, dikter, artiklar och nyheter samt kortare filmer och reportage. Grammatikundervisning och diskussion av formlära sker både i anslutning till texterna men också genom självständiga grammatiska analyser. Kursens material utgör också grunden för analyser av syntax. I modulen _Den arabiska poesins utveckling_ studeras, genom föreläsningar och artiklar, poesins roll i det arabiska samhället och hur den förändrats genom århundradena. Studenten behandlar sedan ett avgränsat ämne i en skriftlig rapport.
+Kursen är uppbyggd runt tre moduler. Modulerna _Grammatik och textläsning_ samt _Muntlig språkfärdighet_ samläses; modulen _Den arabiska poesins utveckling_ läses individuellt. Kursen behandlar olika typer av material såsom noveller, dikter, artiklar och nyheter samt kortare filmer och reportage. Grammatikundervisning och diskussion av formlära sker både i anslutning till texterna men också genom självständiga grammatiska analyser. Kursens material utgör också grunden för analyser av syntax. I modulen _Den arabiska poesins utveckling_ studeras, genom föreläsningar och artiklar, poesins roll i det arabiska samhället och hur den förändrats genom århundradena. Studenten behandlar sedan ett avgränsat ämne i en skriftlig rapport.
 
 ## Examinationsformer
 
@@ -111,7 +111,7 @@ On successful completion of the course, students will be able to:
 
 ### Course Content
 
-The course consists of three modules. The modules _Grammar and Texts _and _Oral Proficiency _are taken together, and the module _The Development of Arabic Poetry _is taken on its own. The course covers various types of material, such as short stories, poems, articles and news as well as short films and reports. Students work with grammar and discuss syntax as part of their text study and also in independent grammatical analyses. Students also use the course material in the analysis of syntax. In the module _The Development of Arabic Poetry_, the role of poetry in Arabic society and the way it has changed over the centuries is studied in lectures and through the use of articles. Students then write a report on a defined subject.
+The course consists of three modules. The modules _Grammar and Texts_ and _Oral Proficiency_ are taken together, and the module _The Development of Arabic Poetry_ is taken on its own. The course covers various types of material, such as short stories, poems, articles and news as well as short films and reports. Students work with grammar and discuss syntax as part of their text study and also in independent grammatical analyses. Students also use the course material in the analysis of syntax. In the module _The Development of Arabic Poetry_, the role of poetry in Arabic society and the way it has changed over the centuries is studied in lectures and through the use of articles. Students then write a report on a defined subject.
 
 ### Assessment
 

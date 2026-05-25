@@ -9,7 +9,7 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: a0637ee020217c2a
+scrape_hash: 6544ed67423585f1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CK
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -47,7 +47,7 @@ Efter godkänd kurs ska studenten kunna
 
 ## Innehåll
 
-Kursen tar sin utgångspunkt i frågeställningarna V_ad är skola? _och _Varför har vi den?_ Den svenska skolans samhällsuppdrag studeras utifrån ett historiskt, utbildningspolitiskt och internationellt perspektiv. Utbildningspolitiska, läroplansteoretiska och utbildningsfilosofiska begrepp och perspektiv diskuteras i relation till grundskolans framväxt, organisation och styrning. Demokratibegreppet behandlas och relateras till styrningen av den svenska skolan med särskilt beaktande av idén om en likvärdig skola ur ett barnrättsperspektiv. Med stöd av vetenskapliga begrepp hämtade från teorier om genus, etnicitet och klass bearbetas några av de grundläggande värden som uttrycks i skolans läroplaner samt i FN:s barnkonvention. Innebörden av yrkesetik, vetenskapligt skrivande och vetenskapligt förhållningssätt i läraryrket introduceras och praktiseras fortlöpande under kursens gång.
+Kursen tar sin utgångspunkt i frågeställningarna V_ad är skola?_ och _Varför har vi den?_ Den svenska skolans samhällsuppdrag studeras utifrån ett historiskt, utbildningspolitiskt och internationellt perspektiv. Utbildningspolitiska, läroplansteoretiska och utbildningsfilosofiska begrepp och perspektiv diskuteras i relation till grundskolans framväxt, organisation och styrning. Demokratibegreppet behandlas och relateras till styrningen av den svenska skolan med särskilt beaktande av idén om en likvärdig skola ur ett barnrättsperspektiv. Med stöd av vetenskapliga begrepp hämtade från teorier om genus, etnicitet och klass bearbetas några av de grundläggande värden som uttrycks i skolans läroplaner samt i FN:s barnkonvention. Innebörden av yrkesetik, vetenskapligt skrivande och vetenskapligt förhållningssätt i läraryrket introduceras och praktiseras fortlöpande under kursens gång.
 
 ## Examinationsformer
 

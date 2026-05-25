@@ -9,7 +9,7 @@ amne: "Arbetsvetenskap"
 amne_kod: "ABA"
 institution: "IKS"
 tags: [kursplan, ABA, IKS]
-scrape_hash: 243834944c020ff7
+scrape_hash: a6f8f7a8e4c79144
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3H4
 up: "[[Arbetsvetenskap MOC]]"
 ---
@@ -41,7 +41,7 @@ Efter godkänd kurs ska studenten kunna:
 
 ## Innehåll
 
-Kursen introducerar arbetsvetenskaplig teori med fokus på svensk arbetsmarknads utveckling och kännetecken. I modulen _Teorier, begrepp och modeller _behandlas frågor om arbetsmarknad och hållbart arbetsliv. Exempelvis behandlas frågor om institutionella villkor, arbetsmarknadsrelationer, arbetsmarknadspolitik och strukturomvandlingar. Vidare diskuteras hur arbetsmarknadens organisering samspelar med hållbart arbetsliv. I modulen _Tillämpning och reflektion _behandlas teorier om arbetsmarknad och ojämlikhet samt hur faktorer och förhållanden på arbetsmarknaden samspelar med hållbart arbetsliv._** **_
+Kursen introducerar arbetsvetenskaplig teori med fokus på svensk arbetsmarknads utveckling och kännetecken. I modulen _Teorier, begrepp och modeller_ behandlas frågor om arbetsmarknad och hållbart arbetsliv. Exempelvis behandlas frågor om institutionella villkor, arbetsmarknadsrelationer, arbetsmarknadspolitik och strukturomvandlingar. Vidare diskuteras hur arbetsmarknadens organisering samspelar med hållbart arbetsliv. I modulen _Tillämpning och reflektion_ behandlas teorier om arbetsmarknad och ojämlikhet samt hur faktorer och förhållanden på arbetsmarknaden samspelar med hållbart arbetsliv.
 
 ## Examinationsformer
 

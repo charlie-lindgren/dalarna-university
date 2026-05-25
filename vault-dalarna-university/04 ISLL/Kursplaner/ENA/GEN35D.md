@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: 3c43bfa6cc4d63b8
+scrape_hash: 64ed0fbe49df5c7a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN35D
 up: "[[Engelska MOC]]"
 ---
@@ -104,7 +104,7 @@ oral presentation
 
 The grading scale used for the final course grade is U–VG.
 
-For a grade of VG for the whole course, students must achieve a VG in the modules _Summarising _and _Finding and using secondary sources_.
+For a grade of VG for the whole course, students must achieve a VG in the modules _Summarising_ and _Finding and using secondary sources_.
 
 Grades are reported as follows:
 

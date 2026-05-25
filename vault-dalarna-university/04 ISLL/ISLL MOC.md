@@ -44,4 +44,3 @@ tags: [MOC, institution, ISLL]
 ## Kvalitetsanalys
 
 - [[ISLL Analys MOC]] — kvalitetsanalys för ISLL
-
