@@ -8,19 +8,15 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Förkunskapskrav.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (38 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Förkunskapskrav.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (37 rader)</span></a>
 
-> [!example]- 38 fynd — klicka för att expandera
+> [!example]- 37 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
 > | [ABP253](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABP253) | BIL | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
 > | [ABP254](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABP254) | BIL | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
 > | [AU3005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AU3005) | BPO | Refererar troligen nedlagd kurs | Refererad kurs hittas ej i vaulten (troligen nedlagd): 'Audiovisuella studier: Kunskapsproduktion och gestaltning' |
-> | [GBQ2NP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2NP) | BPO | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
-> | [GBQ2QB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2QB) | BPO | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
-> | [GBQ2U9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2U9) | BPO | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
-> | [GBQ2UD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2UD) | BPO | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
 > | [AHI23V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI23V) | HIA | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
 > | [AHI23W](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI23W) | HIA | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
 > | [HI2014](https://www.du.se/sv/utbildning/kurser/kursplan/?code=HI2014) | HIA | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
@@ -34,9 +30,12 @@ status: första pass
 > | [LP1054](https://www.du.se/sv/utbildning/kurser/kursplan/?code=LP1054) | LPU | Refererar bekräftat nedlagd kurs | `Audiovisuell representation II` → `LP1020` (nedlagd 2020-05-12); förkunskap nämner nedlagd kurs |
 > | [GMN3EJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EJ) | MPR | Refererar bekräftat nedlagd kurs | `Audioteknologi` → `LP1027` (nedlagd 2021-02-22); förkunskap nämner nedlagd kurs |
 > | [GMN3F2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3F2) | MPR | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
+> | [GPA2P7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2P7) | PEE | Refererar bekräftat nedlagd kurs | `Samhällsvetenskaplig metod och vetenskapsteori I` → `GPA32R` (nedlagd 2026-02-11); förkunskap nämner nedlagd kurs |
+> | [GPA2R6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2R6) | PEE | Refererar bekräftat nedlagd kurs | `Organisation - roller och intressenter` → `GPA356` (nedlagd 2026-02-11); förkunskap nämner nedlagd kurs |
 > | [GPA354](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA354) | PEE | Refererar bekräftat nedlagd kurs | `Arbetsrättens grunder` → `PA1021` (nedlagd 2026-02-11); förkunskap nämner nedlagd kurs |
-> | [APG246](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG246) | PGA | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
-> | [APG247](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG247) | PGA | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
+> | [PA2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PA2009) | PEE | Refererar bekräftat nedlagd kurs | `Samhällsvetenskaplig metod och vetenskapsteori I` → `GPA32R` (nedlagd 2026-02-11); förkunskap nämner nedlagd kurs |
+> | [PA2010](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PA2010) | PEE | Refererar bekräftat nedlagd kurs | `Samhällsvetenskaplig metod och vetenskapsteori I` → `GPA32R` (nedlagd 2026-02-11); förkunskap nämner nedlagd kurs |
+> | [PA2011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PA2011) | PEE | Refererar bekräftat nedlagd kurs | `Samhällsvetenskaplig metod och vetenskapsteori I` → `GPA32R` (nedlagd 2026-02-11); förkunskap nämner nedlagd kurs |
 > | [APG275](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG275) | PGA | Refererar bekräftat nedlagd kurs | `Matematik 2a för grundlärare F-3` → `MD2017` (nedlagd 2021-04-12); förkunskap nämner nedlagd kurs |
 > | [APG275](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG275) | PGA | Refererar bekräftat nedlagd kurs | `Matematik 2b för grundlärare F-3` → `MD2019` (nedlagd 2021-04-12); förkunskap nämner nedlagd kurs |
 > | [APG276](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG276) | PGA | Refererar bekräftat nedlagd kurs | `Matematik 2a för grundlärare 4-6` → `MD2016` (nedlagd 2022-08-29); förkunskap nämner nedlagd kurs |

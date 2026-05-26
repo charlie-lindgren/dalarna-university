@@ -327,8 +327,19 @@ _PREREQ_SECTION_RE = re.compile(
 # kursnamnet faktiskt står.
 _HP_TOKEN_RE = re.compile(r"\b(\d+(?:[,.]\d+)?)\s*hp\b", re.I)
 
-# Brytpunkter som signalerar att kursnamnet börjar efter detta.
+# Brytpunkter som signalerar att kursnamnet börjar efter detta. ``och`` är
+# medvetet utelämnad — konjunktionen förekommer ofta inuti kursnamn
+# ("Vetenskapsteori och utbildningsvetenskaplig forskning för ämneslärare")
+# och listseparatorn är i praktiken alltid ``samt`` eller ``,`` (varje post
+# har sitt eget ``, N hp``).
 _CANDIDATE_BREAK = re.compile(
+    r"\b(?:inklusive|kursen|kurserna|samt)\s+|[,;:]\s+|^\s*-\s+",
+    re.I | re.M,
+)
+
+# Fallback-brytpunkt som även klyver vid ``och`` — används bara om den
+# obrutna kandidaten varken matchar aktivt kursindex eller nedlagda-cachen.
+_CANDIDATE_BREAK_OCH = re.compile(
     r"\b(?:inklusive|kursen|kurserna|samt|och)\s+|[,;:]\s+|^\s*-\s+",
     re.I | re.M,
 )
@@ -337,21 +348,35 @@ _CANDIDATE_BREAK = re.compile(
 def _candidate_phrases(prereq_text: str, hp_pos: int) -> list[str]:
     """Returnera möjliga kursnamn omedelbart före ``hp_pos`` i texten.
 
-    Vi tar de senaste 120 tecknen, klyver vid kända brytpunkter ("kursen X",
-    "inklusive Y", "och Z, …") och returnerar varje resulterande slut-fras
-    som en kandidat. Längsta först så att specifika namn vinner över generiska.
+    Vi tar de senaste 120 tecknen och klyver vid kända brytpunkter. Den
+    obrutna varianten testas först (längsta först) så att hela kursnamn
+    som "Vetenskapsteori och utbildningsvetenskaplig forskning för
+    ämneslärare" bevaras — annars hade ``och``-splitten lämnat oss med
+    bara "Vetenskapsteori" och felaktigt pekat på den nedlagda GPG263. Som
+    fallback testas också ``och``-splitten för fall där "och" faktiskt
+    separerar två distinkta kurser.
     """
     start = max(0, hp_pos - 120)
     chunk = prereq_text[start:hp_pos].rstrip(" ,;:")
-    pieces = _CANDIDATE_BREAK.split(chunk)
+
+    def _collect(pattern: re.Pattern[str]) -> list[str]:
+        out: list[str] = []
+        for piece in pattern.split(chunk):
+            cand = piece.strip(" ,;:.")
+            if not cand or len(cand) < 4:
+                continue
+            # Kursnamn börjar i regel med versal eller siffra ("3D CAD …").
+            if not (cand[0].isupper() or cand[0].isdigit()):
+                continue
+            out.append(cand)
+        return out
+
+    seen: set[str] = set()
     candidates: list[str] = []
-    for piece in pieces:
-        cand = piece.strip(" ,;:.")
-        if not cand or len(cand) < 4:
+    for cand in _collect(_CANDIDATE_BREAK) + _collect(_CANDIDATE_BREAK_OCH):
+        if cand in seen:
             continue
-        # Kursnamn börjar i regel med versal eller en siffra (t.ex. "3D CAD …").
-        if not (cand[0].isupper() or cand[0].isdigit()):
-            continue
+        seen.add(cand)
         candidates.append(cand)
     # Längsta kandidaten är mest specifik — pröva den först.
     candidates.sort(key=len, reverse=True)

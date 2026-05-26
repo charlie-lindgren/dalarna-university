@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Förkunskapskrav.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (82 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Förkunskapskrav.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (84 rader)</span></a>
 
-> [!example]- 82 fynd — klicka för att expandera
+> [!example]- 84 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -32,7 +32,9 @@ status: första pass
 > | [GFR2R3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2R3) | FRA | Refererar bekräftat nedlagd kurs | `Franskspråkig litteratur I` → `FR1029` (nedlagd 2019-06-04); förkunskap nämner nedlagd kurs |
 > | [GFR35F](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR35F) | FRA | Refererar bekräftat nedlagd kurs | `Franskspråkig litteratur II` → `FR1072` (nedlagd 2019-06-04); förkunskap nämner nedlagd kurs |
 > | [GIT2GV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2GV) | ITA | Refererar bekräftat nedlagd kurs | `Italienska B` → `ITB001` (nedlagd 2008-09-18); förkunskap nämner nedlagd kurs |
+> | [GIT2GV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2GV) | ITA | Refererar bekräftat nedlagd kurs | `Italienska förr och nu` → `IT1026` (nedlagd 2023-12-21); förkunskap nämner nedlagd kurs |
 > | [GIT2GW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2GW) | ITA | Refererar bekräftat nedlagd kurs | `Italienska B` → `ITB001` (nedlagd 2008-09-18); förkunskap nämner nedlagd kurs |
+> | [GIT2GW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2GW) | ITA | Refererar bekräftat nedlagd kurs | `Italienska förr och nu` → `IT1026` (nedlagd 2023-12-21); förkunskap nämner nedlagd kurs |
 > | [GIT397](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT397) | ITA | Refererar bekräftat nedlagd kurs | `Italienska C` → `ITC002` (nedlagd 2008-09-18); förkunskap nämner nedlagd kurs |
 > | [GIT397](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT397) | ITA | Refererar bekräftat nedlagd kurs | `Italiensk språkvetenskap` → `IT2005` (nedlagd 2023-12-21); förkunskap nämner nedlagd kurs |
 > | [GJP23L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP23L) | JAA | Refererar bekräftat nedlagd kurs | `Japanska II` → `JP1007` (nedlagd 2009-12-01); förkunskap nämner nedlagd kurs |
@@ -72,13 +74,12 @@ status: första pass
 > | [ASS258](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASS258) | SSA | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
 > | [ASS28X](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASS28X) | SSA | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
 > | [SS3004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3004) | SSA | Refererar bekräftat nedlagd kurs | `Svenska som andraspråk` → `SSB001` (nedlagd 2008-09-18); förkunskap nämner nedlagd kurs |
-> | [ASV29Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV29Z) | SVE | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
 > | [ATY255](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY255) | TYA | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
 > | [ATY256](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY256) | TYA | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
-> | [ATY2B7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY2B7) | TYA | Refererar bekräftat nedlagd kurs | `Tyska` → `TYC001` (nedlagd 2008-09-18); förkunskap nämner nedlagd kurs |
+> | [ATY2B7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY2B7) | TYA | Refererar bekräftat nedlagd kurs | `Tyskspråkig litteratur och litteraturvetenskap` → `TY2003` (nedlagd 2011-02-10); förkunskap nämner nedlagd kurs |
 > | [ATY2B7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY2B7) | TYA | Refererar bekräftat nedlagd kurs | `Den moderna tyskspråkiga lingvistikens utveckling` → `TYC002` (nedlagd 2008-09-18); förkunskap nämner nedlagd kurs |
 > | [ATY2B7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY2B7) | TYA | Refererar bekräftat nedlagd kurs | `Examensarbete` → `EN2004` (nedlagd 2011-02-01); förkunskap nämner nedlagd kurs |
-> | [ATY2B8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY2B8) | TYA | Refererar bekräftat nedlagd kurs | `Tyska` → `TYC001` (nedlagd 2008-09-18); förkunskap nämner nedlagd kurs |
+> | [ATY2B8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY2B8) | TYA | Refererar bekräftat nedlagd kurs | `Tyskspråkig litteratur och litteraturvetenskap` → `TY2003` (nedlagd 2011-02-10); förkunskap nämner nedlagd kurs |
 > | [ATY2B8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY2B8) | TYA | Refererar bekräftat nedlagd kurs | `Den moderna tyskspråkiga lingvistikens utveckling` → `TYC002` (nedlagd 2008-09-18); förkunskap nämner nedlagd kurs |
 > | [ATY2B8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY2B8) | TYA | Refererar bekräftat nedlagd kurs | `Examensarbete` → `EN2004` (nedlagd 2011-02-01); förkunskap nämner nedlagd kurs |
 > | [GTY23C](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY23C) | TYA | Refererar bekräftat nedlagd kurs | `Tyska` → `TYC001` (nedlagd 2008-09-18); förkunskap nämner nedlagd kurs |
@@ -95,6 +96,7 @@ status: första pass
 > | [TY1073](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TY1073) | TYA | Refererar bekräftat nedlagd kurs | `Tyska` → `TYC001` (nedlagd 2008-09-18); förkunskap nämner nedlagd kurs |
 > | [TY2004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TY2004) | TYA | Refererar troligen nedlagd kurs | Refererad kurs hittas ej i vaulten (troligen nedlagd): 'Muntlig språkfärdighet med kulturkunskap II' |
 > | [TY2007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TY2007) | TYA | Refererar troligen nedlagd kurs | Refererad kurs hittas ej i vaulten (troligen nedlagd): 'Muntlig språkfärdighet med kulturkunskap II' |
+> | [TY2007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TY2007) | TYA | Refererar bekräftat nedlagd kurs | `Tyskspråkig skönlitteratur och litteraturhistoria` → `TYB013` (nedlagd 2008-09-18); förkunskap nämner nedlagd kurs |
 > | [TY2008](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TY2008) | TYA | Refererar troligen nedlagd kurs | Refererad kurs hittas ej i vaulten (troligen nedlagd): 'Språk- och kulturhistoria med uppsats' |
 
 ## Syfte
