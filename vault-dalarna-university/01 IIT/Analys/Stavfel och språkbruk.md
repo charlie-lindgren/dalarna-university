@@ -10,10 +10,17 @@ status: första pass
 
 <a class="download-xlsx" href="01-IIT/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (7 rader)</span></a>
 
-> [!example]- 0 fynd — klicka för att expandera
+> [!example]- 7 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
+> | [DITMG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=DITMG) | Utbildningsplaner | Felstavning | `mjukvarutestningsområdena` (sv) |
+> | [DITMG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=DITMG) | Utbildningsplaner | Felstavning | `mjukvarutestningsområdet` (sv) |
+> | [DSVPG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=DSVPG) | Utbildningsplaner | Felstavning | `pär` (sv) |
+> | [TTBRB](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TTBRB) | Utbildningsplaner | Felstavning | `förutbildningen` (sv) |
+> | [TTBRB](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TTBRB) | Utbildningsplaner | Felstavning | `römsing` (sv) |
+> | [TTEKB](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TTEKB) | Utbildningsplaner | Felstavning | `förutbildningen` (sv) |
+> | [TTEKB](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TTEKB) | Utbildningsplaner | Felstavning | `römsing` (sv) |
 
 ## Syfte
 

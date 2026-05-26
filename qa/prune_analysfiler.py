@@ -18,6 +18,8 @@ import sys
 from pathlib import Path
 from collections import defaultdict
 
+from populate_analysfiler import build_xlsx, plan_url_for
+
 REPO_ROOT     = Path(__file__).resolve().parent.parent
 VAULT         = REPO_ROOT / "vault-dalarna-university"
 INST_DIR_NAME = {
@@ -108,6 +110,10 @@ def codes_for_sections(rapport: dict[str, set[str]], section_prefixes: list[str]
 
 CALLOUT_CODE_RE = re.compile(r'<a href="[^"]*">([A-Z][A-Z0-9]+)</a>|\[([A-Z][A-Z0-9]+)\]\(https?://[^\)]+\)')
 CALLOUT_COUNT_RE = re.compile(r'^(>\s*\[!example\]-?\s*)(\d+)(.+)$')
+RADER_COUNT_RE = re.compile(r'(Ladda ner som Excel-fil \()(\d+)( rader\))')
+TABLE_ROW_RE = re.compile(
+    r'^>\s*\|\s*\[([A-ZÅÄÖ0-9][A-Z0-9]*)\]\([^)]+\)\s*\|\s*([^|]*?)\s*\|\s*([^|]*?)\s*\|\s*(.+?)\s*\|\s*$'
+)
 
 
 def _row_code(line: str) -> str | None:
@@ -127,6 +133,7 @@ def prune_analys_file(
     new_lines = []
     rows_before = 0
     removed = []
+    surviving_rows: list[tuple[str, str, str, str]] = []
     in_callout = False
 
     for line in lines:
@@ -144,6 +151,11 @@ def prune_analys_file(
                 if code not in active_codes:
                     removed.append(code)
                     continue
+                m_row = TABLE_ROW_RE.match(line.rstrip("\n"))
+                if m_row:
+                    surviving_rows.append(
+                        (m_row.group(1), m_row.group(2), m_row.group(3), m_row.group(4))
+                    )
 
         new_lines.append(line)
 
@@ -151,16 +163,21 @@ def prune_analys_file(
     if rows_removed == 0:
         return rows_before, 0
 
+    new_count = rows_before - rows_removed
     updated = []
     for line in new_lines:
-        m = CALLOUT_COUNT_RE.match(line.rstrip("\n"))
+        stripped = line.rstrip("\n")
+        m = CALLOUT_COUNT_RE.match(stripped)
         if m:
-            new_count = rows_before - rows_removed
             line = m.group(1) + str(new_count) + m.group(3) + "\n"
+        elif RADER_COUNT_RE.search(stripped):
+            line = RADER_COUNT_RE.sub(rf"\g<1>{new_count}\g<3>", stripped) + "\n"
         updated.append(line)
 
     if not dry_run:
         path.write_text("".join(updated), encoding="utf-8")
+        xlsx_path = path.with_suffix(".xlsx")
+        build_xlsx(surviving_rows, xlsx_path, sheet_title=path.stem)
 
     return rows_before, rows_removed
 
