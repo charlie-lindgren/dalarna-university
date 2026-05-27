@@ -8,12 +8,16 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Betygsrapportering.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (153 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Betygsrapportering.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (167 rader)</span></a>
 
-> [!example]- 153 fynd — klicka för att expandera
+> [!example]- 167 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
+> | [FDA222R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222R) | ANALYTIC | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
+> | [FDA222S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222S) | ANALYTIC | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
+> | [FDA222T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222T) | ANALYTIC | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
+> | [FDA222U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222U) | ANALYTIC | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
 > | [ABY22V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABY22V) | BYA | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. Inlämningsuppgift U-G.… |
 > | [ABY22W](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABY22W) | BYA | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5.… |
 > | [ABY27W](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABY27W) | BYA | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5.… |
@@ -49,6 +53,11 @@ status: första pass
 > | [GBY2XF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2XF) | BYA | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. Projektuppgift U-VG Laboaration U-G Slutbetyget på kursen sätts efter en sammanvägni… |
 > | [GDT2JM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT2JM) | DTA | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
 > | [GDT2JN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT2JN) | DTA | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
+> | [FEB222K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222K) | ENERGIBM | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
+> | [FEB222L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222L) | ENERGIBM | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G. För betyget godkänd på kursen krävs Godkänt på alla momenten listade nedan. Aktivt deltagan… |
+> | [FEB222M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222M) | ENERGIBM | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
+> | [FEB222P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222P) | ENERGIBM | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
+> | [FEB222Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222Q) | ENERGIBM | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G. Betyg rapporteras enligt följande: Forskningsplan 2 hp Manus 2,5 hp Individuell rapport, 0,… |
 > | [ET1029](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ET1029) | ETA | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. För laborationer ges betyg godkänd/underkänd.… |
 > | [BFY224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY224) | FYA | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G. Skriftlig rapport och muntlig redovisning 5 fup.… |
 > | [FY1018](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FY1018) | FYA | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. Laborationer U,G Slutbetyg på kursen sätts efter bedömning av den skriftliga tentame… |
@@ -98,6 +107,11 @@ status: första pass
 > | [MA1040](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MA1040) | MAA | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. Slutbetyg på kursen avgörs efter en sammanvägd bedömning av de enskilda tentamensres… |
 > | [MA1042](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MA1042) | MAA | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5.… |
 > | [MD1085](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD1085) | MDI | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att erhålla väl godkänt på kursen krävs väl godkänt som bedömning på 3 av 4 skriftliga… |
+> | [FMI2222](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2222) | MIKRODAT | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
+> | [FMI2223](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2223) | MIKRODAT | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
+> | [FMI2224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2224) | MIKRODAT | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
+> | [FMI2229](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2229) | MIKRODAT | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
+> | [MIKR002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MIKR002) | MIKRODAT | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G. Betygsrapportering: Moment 1: enskilt projekt 2 hp Moment 2: laborationsrapporter 1 hp Mome… |
 > | [GMT228](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT228) | MTA | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. Projektarbete U,G Workshop och inlämningsuppgifter, U,G. Seminarier U, 3,4,5 Skriftl… |
 > | [GMT25Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT25Z) | MTA | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5.… |
 > | [GMT2QF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT2QF) | MTA | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |

@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Övrigt.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (522 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Övrigt.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (541 rader)</span></a>
 
-> [!example]- 522 fynd — klicka för att expandera
+> [!example]- 541 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -308,6 +308,25 @@ status: första pass
 > | [PE3003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE3003) | PEA | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ingick i huvudområde Pedagogik till och med 2012-01-23.… |
 > | [PE3004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE3004) | PEA | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen utgår ifrån Sveriges Universitets & Högskoleförbunds rekommendationer om mål för behörighetsgivande högskoleutbil… |
 > | [PE3012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE3012) | PEA | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen vänder sig till specialpedagoger, speciallärare och lärare med en grundutbildning i att leda samtal. I kursen var… |
+> | [FPA0001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0001) | PEDAGARB | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen är nätbaserad. Undervisningen ges på engelska. Både muntliga och skriftliga examinationer sker på engelska, om in… |
+> | [FPA0002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0002) | PEDAGARB | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Maximalt fem examinationstillfällen. Kursen ges på svenska om ej annat anges. Kursen är en campusbaserad kurs om ej anna… |
+> | [FPA0003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0003) | PEDAGARB | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Undervisning samt muntliga och skriftliga examinationer sker på engelska, om inteannat meddelas.… |
+> | [FPA0004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0004) | PEDAGARB | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+> | [FPA0005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0005) | PEDAGARB | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+> | [FPA0006](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0006) | PEDAGARB | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+> | [FPA0007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0007) | PEDAGARB | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ges på svenska om ej annat anges. Kursen ges antingen som nätbaserad eller campusförlagd kurs, alternativt med in… |
+> | [FPA2226](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA2226) | PEDAGARB | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Undervisning såväl som muntliga och skriftliga examinationer sker på engelska, om inte annat meddelas.… |
+> | [FPA2227](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA2227) | PEDAGARB | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ges på svenska. Kursen är campusbaserad och kommer att inkludera sammankomster i internatform.… |
+> | [FPA2228](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA2228) | PEDAGARB | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Doktorand som inte är antagen till någon av Högskolan Dalarnas forskarutbildningar antas i mån av plats.… |
+> | [FPA222A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222A) | PEDAGARB | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+> | [FPA222B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222B) | PEDAGARB | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+> | [FPA222C](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222C) | PEDAGARB | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ges på svenska om ej annat anges. Kursen ges antingen som nätbaserad eller campusförlagd kurs, alternativt med in… |
+> | [FPA222D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222D) | PEDAGARB | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ges på engelska.… |
+> | [FPA222E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222E) | PEDAGARB | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ges på svenska. Kursen är campusbaserad.… |
+> | [FPA222F](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222F) | PEDAGARB | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Undervisning samt muntliga och skriftliga examinationer sker på engelska.… |
+> | [FPA222G](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222G) | PEDAGARB | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ges på svenska. Kursen är campusbaserad.… |
+> | [FPA222J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222J) | PEDAGARB | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: För att kunna delta i kursen krävs tillgång till egen dator tillsammans med datortillbehör för nätburen kommunikation, s… |
+> | [FPA222N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222N) | PEDAGARB | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
 > | [GPA2FL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2FL) | PEE | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter PA1044.… |
 > | [GPA2FW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2FW) | PEE | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter PA1046.… |
 > | [GPA2K3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2K3) | PEE | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter PA1053.… |

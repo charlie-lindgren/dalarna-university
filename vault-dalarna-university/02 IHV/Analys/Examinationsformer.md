@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Examinationsformer.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (173 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Examinationsformer.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (176 rader)</span></a>
 
-> [!example]- 173 fynd — klicka för att expandera
+> [!example]- 176 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -187,6 +187,9 @@ status: första pass
 > | [VV3011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3011) | VÅE | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom skriftlig och muntlig redovisning. Förutom skriftlig och muntlig utvärdering efter avslutad verks… |
 > | [VV3014](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3014) | VÅE | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom formativ bedömning i samband med seminarier, inklusive opponentskap och försvar av en inom ramen … |
 > | [VV3015](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3015) | VÅE | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom formativ bedömning i samband med seminarier, inklusive opponentskap och försvar av en inom ramen … |
+> | [FHV0001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0001) | VÅRDVETS | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom seminarier och skriftlig inlämning av en projektportfölj. Projektportföljen omfattar, en redogöre… |
+> | [FHV0002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0002) | VÅRDVETS | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom skriftliga inlämningsuppgifter och presentationer vid seminarier. Som en del av detta kommer koll… |
+> | [FHV0003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0003) | VÅRDVETS | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom skriftliga inlämningsuppgifter, genom att kollegialt granska och ge återkoppling på andra student… |
 
 ## Syfte
 

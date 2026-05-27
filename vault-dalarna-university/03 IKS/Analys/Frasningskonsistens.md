@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Frasningskonsistens.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (315 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Frasningskonsistens.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (328 rader)</span></a>
 
-> [!example]- 315 fynd — klicka för att expandera
+> [!example]- 328 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -170,6 +170,19 @@ status: första pass
 > | [PE2007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE2007) | PEA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [PE2016](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE2016) | PEA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna… |
 > | [PE3002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE3002) | PEA | Avviker från referensformen | Efter avslutad kurs skall den studerande kunna:… |
+> | [FPA0002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0002) | PEDAGARB | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | [FPA0003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0003) | PEDAGARB | Avviker från referensformen | Efter avslutad kurs ska den forskarstuderande kunna:… |
+> | [FPA0004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0004) | PEDAGARB | Avviker från referensformen | Efter avslutad kurs ska den forskarstuderande kunna:… |
+> | [FPA0005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0005) | PEDAGARB | Avviker från referensformen | Efter avslutad kurs ska den forskarstuderande kunna:… |
+> | [FPA0006](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0006) | PEDAGARB | Avviker från referensformen | Efter avslutad kurs ska den forskarstuderande kunna:… |
+> | [FPA0007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0007) | PEDAGARB | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | [FPA2227](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA2227) | PEDAGARB | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | [FPA2228](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA2228) | PEDAGARB | Avviker från referensformen | Efter avslutad kurs ska den forskarstuderande kunna:… |
+> | [FPA222C](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222C) | PEDAGARB | Avviker från referensformen | Efter avslutad kurs ska den forskarstuderande kunna:… |
+> | [FPA222D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222D) | PEDAGARB | Avviker från referensformen | Efter avslutad kurs ska doktoranden kunna:… |
+> | [FPA222E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222E) | PEDAGARB | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | [FPA222F](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222F) | PEDAGARB | Avviker från referensformen | Efter avslutad kurs ska den forskarstuderande kunna:… |
+> | [FPA222G](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222G) | PEDAGARB | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [APG246](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG246) | PGA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [APG247](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG247) | PGA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [APG27T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG27T) | PGA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |

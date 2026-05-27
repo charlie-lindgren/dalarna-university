@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Betygsrapportering.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (47 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Betygsrapportering.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (51 rader)</span></a>
 
-> [!example]- 47 fynd — klicka för att expandera
+> [!example]- 51 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -61,6 +61,10 @@ status: första pass
 > | [VV3010](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3010) | VÅE | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
 > | [VV3011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3011) | VÅE | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG.… |
 > | [VV3012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3012) | VÅE | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Betyg rapporteras som Examensarbete, 15 hp… |
+> | [FHV0001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0001) | VÅRDVETS | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G. Betygsrapportering: Moment 1: Vetenskaps- och kunskapsteori 2,5 hp Moment 2: Forskningsetik… |
+> | [FHV0002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0002) | VÅRDVETS | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G. För betyget godkänd på kursen krävs Godkänt på alla momenten.… |
+> | [FHV0003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0003) | VÅRDVETS | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G. För betyget godkänd på kursen krävs Godkänt på alla momenten… |
+> | [FVV222H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FVV222H) | VÅRDVETS | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G. För betyget godkänd på kursen krävs Godkänt på alla momenten listade nedan. Betygsrapporter… |
 
 ## Syfte
 

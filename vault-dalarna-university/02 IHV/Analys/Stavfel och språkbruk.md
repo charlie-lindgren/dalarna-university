@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (86 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (88 rader)</span></a>
 
-> [!example]- 86 fynd — klicka för att expandera
+> [!example]- 88 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -43,7 +43,6 @@ status: första pass
 > | [BKE223](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BKE223) | KEA | Felstavning | `stökiometri` (sv) |
 > | [AMC243](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC243) | MCA | Felstavning (en) | `naprapath` (en) |
 > | [AMC243](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC243) | MCA | Felstavning (en) | `physiotherpy` (en) |
-> | [AMC25W](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC25W) | MCA | Felstavning | `ehälsa` (sv) |
 > | [GNV3GU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3GU) | NAV | Felstavning | `inlämingsuppgift` (sv) |
 > | [GNV3GV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3GV) | NAV | Felstavning | `inlämingsuppgift` (sv) |
 > | [NV1024](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NV1024) | NAV | Felstavning (en) | `educationas` (en) |
@@ -100,6 +99,9 @@ status: första pass
 > | [SR3010](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SR3010) | SRP | Felstavning | `övergripade` (sv) |
 > | [VV3011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3011) | VÅE | Felstavning | `livsstilförändring` (sv) |
 > | [VV3011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3011) | VÅE | Felstavning | `själständigt` (sv) |
+> | [FHV0002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0002) | VÅRDVETS | Felstavning | `valitetsbedömning` (sv) |
+> | [FHV0002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0002) | VÅRDVETS | Felstavning (en) | `cerqual` (en) |
+> | [FVV222H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FVV222H) | VÅRDVETS | Felstavning (en) | `isues` (en) |
 
 ## Syfte
 

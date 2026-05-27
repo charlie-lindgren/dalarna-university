@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (411 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (433 rader)</span></a>
 
-> [!example]- 411 fynd — klicka för att expandera
+> [!example]- 433 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -188,6 +188,28 @@ status: första pass
 > | [PE3004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE3004) | PEA | Långt mål | 36 ord: - inom det egna kunskapsområdet kan formulera mål och förväntade studieresultat,… |
 > | [PE3004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE3004) | PEA | Långt mål | 32 ord: - kan beskriva, analysera och diskutera egna och andras erfarenheter genom jämfö… |
 > | [PE3004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE3004) | PEA | Långt mål | 28 ord: - kan planera och genomföra, redovisa och med kollegor diskutera ett självständi… |
+> | [FPA0001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0001) | PEDAGARB | För få mål | 0 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
+> | [FPA0003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0003) | PEDAGARB | För få mål | 0 lärandemål (minimum rekommenderat: 2 för 4.5 hp) |
+> | [FPA0004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0004) | PEDAGARB | Långt mål | 26 ord: - kunna redogöra för och diskutera värdegrundsuppdraget och mänskliga rättighete… |
+> | [FPA0004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0004) | PEDAGARB | Långt mål | 35 ord: - kunna problematisera en komplex skolpraktik utifrån några centrala begreppslig… |
+> | [FPA0004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0004) | PEDAGARB | Långt mål | 32 ord: - kunna värdera och kritiskt förhålla sig till värdegrundsuppdraget i skolan, ge… |
+> | [FPA0004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0004) | PEDAGARB | Långt mål | 31 ord: - visa en förmåga att ta ansvar för sin kunskapsutveckling genom att reflektera … |
+> | [FPA0005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0005) | PEDAGARB | Långt mål | 27 ord: - visa fördjupad förståelse för betydelsen av teoretisk förankring i relation ti… |
+> | [FPA0005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0005) | PEDAGARB | Långt mål | 31 ord: - identifiera, problematisera och värdera olika typer av kunskapsbidrag inom ram… |
+> | [FPA0006](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0006) | PEDAGARB | Långt mål | 37 ord: - visa kunskap och förtrogenhet med praktiknära forskning genom att redogöra för… |
+> | [FPA0006](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0006) | PEDAGARB | Långt mål | 29 ord: - visa förmåga till kritiskt, reflekterande och självständigt tänkande genom att… |
+> | [FPA0007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0007) | PEDAGARB | För få mål | 0 lärandemål (minimum rekommenderat: 1 för 3 hp) |
+> | [FPA2226](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA2226) | PEDAGARB | För få mål | 0 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
+> | [FPA2227](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA2227) | PEDAGARB | För få mål | 0 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
+> | [FPA2228](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA2228) | PEDAGARB | Långt mål | 29 ord: - visa förmåga till kritiskt, reflekterande och självständigt tänkande i relatio… |
+> | [FPA222B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222B) | PEDAGARB | För få mål | 0 lärandemål (minimum rekommenderat: 4 för 10 hp) |
+> | [FPA222C](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222C) | PEDAGARB | För få mål | 0 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
+> | [FPA222D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222D) | PEDAGARB | För få mål | 0 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
+> | [FPA222E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222E) | PEDAGARB | För få mål | 0 lärandemål (minimum rekommenderat: 2 för 5 hp) |
+> | [FPA222F](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222F) | PEDAGARB | För få mål | 0 lärandemål (minimum rekommenderat: 3 för 6 hp) |
+> | [FPA222G](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222G) | PEDAGARB | För få mål | 0 lärandemål (minimum rekommenderat: 2 för 4 hp) |
+> | [FPA222J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222J) | PEDAGARB | För få mål | 0 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
+> | [FPA222N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222N) | PEDAGARB | För få mål | 0 lärandemål (minimum rekommenderat: 4 för 10 hp) |
 > | [GPA2FW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2FW) | PEE | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [PA2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PA2009) | PEE | Långt mål | 28 ord: - ange hur det valda temat förhåller sig till personalarbete i stort och hur det… |
 > | [APG247](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG247) | PGA | Långt mål | 26 ord: - med fördjupad kommunikationsförmåga både skriftligt och muntligt presentera, a… |

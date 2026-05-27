@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Examinationsformer.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (484 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Examinationsformer.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (503 rader)</span></a>
 
-> [!example]- 484 fynd — klicka för att expandera
+> [!example]- 503 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -281,6 +281,25 @@ status: första pass
 > | [PE3003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE3003) | PEA | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom seminarier, skriftliga inlämningsuppgifter och/eller övningar samt rapport från ett självständigt… |
 > | [PE3004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE3004) | PEA | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker både muntligen och skriftligen både individuellt (PM) och i par/grupp. Betyg rapporteras som två moment… |
 > | [PE3012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE3012) | PEA | Saknar punktlista | Examinationsformer skrivet som löpande text: Muntliga och skriftliga redovisningar.… |
+> | [FPA0001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0001) | PEDAGARB | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig uppgift, muntlig presentation vid seminarium, samt kritisk granskning av ett annat studentarbete.… |
+> | [FPA0002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0002) | PEDAGARB | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom en muntlig presentation vid ett examinerande seminarium, en skriftlig inlämningsuppgift samt krit… |
+> | [FPA0003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0003) | PEDAGARB | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom fortlöpande bedömning av skriftliga och muntliga arbeten, samt förberett och aktivt seminariedel… |
+> | [FPA0004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0004) | PEDAGARB | Saknar punktlista | Examinationsformer skrivet som löpande text: Examinationen sker via skriftliga inlämningsuppgifter och muntliga redovisningar. Examinerande övningar sker i anslutnin… |
+> | [FPA0005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0005) | PEDAGARB | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras muntligt genom fortlöpande bedömning av seminariemedverkan samt genom skriftliga inlämningsuppgifter (… |
+> | [FPA0006](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0006) | PEDAGARB | Saknar punktlista | Examinationsformer skrivet som löpande text: Examinationen är både skriftlig och muntlig. Den skriftliga examinationen består av författan-det av en argumenterande t… |
+> | [FPA0007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0007) | PEDAGARB | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom muntlig presentation samt en skriftlig inlämningsuppgift.… |
+> | [FPA2226](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA2226) | PEDAGARB | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom muntliga presentationer och skriftliga inlämningsuppgifter… |
+> | [FPA2227](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA2227) | PEDAGARB | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom examinerande seminarier, kritisk granskning av texter och skriftliga uppgifter… |
+> | [FPA2228](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA2228) | PEDAGARB | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker muntligt och genom skriftliga inlämningsuppgifter.… |
+> | [FPA222A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222A) | PEDAGARB | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker muntligt och genom skriftliga inlämningsuppgifter… |
+> | [FPA222B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222B) | PEDAGARB | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom muntliga presentationer och skriftliga inlämningsuppgifter.… |
+> | [FPA222C](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222C) | PEDAGARB | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom muntliga presentationer och skriftliga inlämningsuppgifter.… |
+> | [FPA222D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222D) | PEDAGARB | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom skriftliga inlämningsuppgifter och muntliga presentationer.… |
+> | [FPA222E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222E) | PEDAGARB | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom muntlig presentation samt en skriftlig inlämningsuppgift… |
+> | [FPA222F](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222F) | PEDAGARB | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom fortlöpande bedömning av skriftliga och muntliga presentationer, samt förberett och aktivt semin… |
+> | [FPA222G](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222G) | PEDAGARB | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom muntliga och skriftliga presentationer… |
+> | [FPA222J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222J) | PEDAGARB | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom en avslutande rapport, där statistiska analyser tillämpas på utbildningsvetenskapliga data och r… |
+> | [FPA222N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222N) | PEDAGARB | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom muntliga presentationer och skriftliga inlämningsuppgifter.… |
 > | [GPA2FL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2FL) | PEE | Saknar punktlista | Examinationsformer skrivet som löpande text: Seminarier 1,5 hp Skriftlig inlämningsuppgift i grupp 1,5 hp Individuell skriftlig tentamen 4,5 hp… |
 > | [GPA2FW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2FW) | PEE | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig tentamen, 2 hp Reflektionsprotokoll, 2 hp Skriftlig inlämningsuppgift 3,5 hp… |
 > | [GPA2K3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2K3) | PEE | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig tentamen, 4 hp Skriftlig inlämningsuppgift i grupp 3 hp Aktivt deltagande vid seminarier, 0,5 hp… |

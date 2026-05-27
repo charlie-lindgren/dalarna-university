@@ -8,12 +8,21 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (141 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (162 rader)</span></a>
 
-> [!example]- 141 fynd — klicka för att expandera
+> [!example]- 162 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
+> | [FDA222R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222R) | ANALYTIC | Paritetsskillnad | Svenska: 2 mål, engelska: 1 mål (diff 1) |
+> | [FDA222R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222R) | ANALYTIC | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (2 mål utan punktlista) |
+> | [FDA222R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222R) | ANALYTIC | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | [FDA222S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222S) | ANALYTIC | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (1 mål utan punktlista) |
+> | [FDA222S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222S) | ANALYTIC | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | [FDA222T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222T) | ANALYTIC | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (1 mål utan punktlista) |
+> | [FDA222T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222T) | ANALYTIC | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | [FDA222U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222U) | ANALYTIC | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (1 mål utan punktlista) |
+> | [FDA222U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222U) | ANALYTIC | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
 > | [BY1053](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1053) | BYA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [BY1054](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1054) | BYA | Paritetsskillnad | Svenska: 14 mål, engelska: 0 mål (diff 14) |
 > | [BY1058](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1058) | BYA | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
@@ -38,6 +47,12 @@ status: första pass
 > | [GBY34N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY34N) | BYA | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
 > | [GBY36S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY36S) | BYA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
 > | [GBY37D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY37D) | BYA | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
+> | [FEB222K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222K) | ENERGIBM | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (3 mål utan punktlista) |
+> | [FEB222K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222K) | ENERGIBM | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (3 mål utan punktlista) |
+> | [FEB222L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222L) | ENERGIBM | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (3 mål utan punktlista) |
+> | [FEB222L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222L) | ENERGIBM | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (3 mål utan punktlista) |
+> | [FEB222M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222M) | ENERGIBM | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (2 mål utan punktlista) |
+> | [FEB222M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222M) | ENERGIBM | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
 > | [BFY224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY224) | FYA | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
 > | [BFY225](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY225) | FYA | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
 > | [BFY226](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY226) | FYA | Paritetsskillnad | Svenska: 12 mål, engelska: 0 mål (diff 12) |
@@ -116,6 +131,12 @@ status: första pass
 > | [MD2024](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2024) | MDI | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
 > | [MD2025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2025) | MDI | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [MD2026](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2026) | MDI | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [FMI2222](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2222) | MIKRODAT | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (1 mål utan punktlista) |
+> | [FMI2222](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2222) | MIKRODAT | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | [FMI2223](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2223) | MIKRODAT | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (1 mål utan punktlista) |
+> | [FMI2223](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2223) | MIKRODAT | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | [FMI2224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2224) | MIKRODAT | Paritetsskillnad | Svenska: 8 mål, engelska: 1 mål (diff 7) |
+> | [FMI2224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2224) | MIKRODAT | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
 > | [GMT2WL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT2WL) | MTA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
 > | [GMT34A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34A) | MTA | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
 > | [GMT34K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34K) | MTA | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |

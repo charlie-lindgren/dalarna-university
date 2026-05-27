@@ -48,9 +48,9 @@ status: första pass
 > | [GRK2R7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2R7) | RKA | Refererar bekräftat nedlagd kurs | `Religionsvetenskap III` → `GRK25S` (nedlagd 2023-03-01); förkunskap nämner nedlagd kurs |
 > | [GRK2R8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2R8) | RKA | Refererar bekräftat nedlagd kurs | `Religionsvetenskap III` → `GRK25S` (nedlagd 2023-03-01); förkunskap nämner nedlagd kurs |
 > | [RK3043](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RK3043) | RKA | Refererar bekräftat nedlagd kurs | `Religionsvetenskap III` → `GRK25S` (nedlagd 2023-03-01); förkunskap nämner nedlagd kurs |
-> | [GRV266](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRV266) | RVA | Refererar bekräftat nedlagd kurs | `Extern redovisning` → `FEA037` (nedlagd 2008-03-18); förkunskap nämner nedlagd kurs |
-> | [RV1003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1003) | RVA | Refererar bekräftat nedlagd kurs | `Extern redovisning` → `FEA037` (nedlagd 2008-03-18); förkunskap nämner nedlagd kurs |
-> | [RV1055](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1055) | RVA | Refererar bekräftat nedlagd kurs | `Perspektiv på företagande` → `FEA058` (nedlagd 2008-03-18); förkunskap nämner nedlagd kurs |
+> | [GRV266](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRV266) | RVA | Refererar bekräftat nedlagd kurs | `Extern redovisning` → `FÖ1004` (nedlagd 2016-01-18); förkunskap nämner nedlagd kurs |
+> | [RV1003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1003) | RVA | Refererar bekräftat nedlagd kurs | `Extern redovisning` → `FÖ1004` (nedlagd 2016-01-18); förkunskap nämner nedlagd kurs |
+> | [RV1055](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1055) | RVA | Refererar bekräftat nedlagd kurs | `Perspektiv på företagande` → `FÖ1057` (nedlagd 2021-02-15); förkunskap nämner nedlagd kurs |
 
 ## Syfte
 

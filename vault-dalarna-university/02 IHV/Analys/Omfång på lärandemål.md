@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (197 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (206 rader)</span></a>
 
-> [!example]- 197 fynd — klicka för att expandera
+> [!example]- 206 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -83,8 +83,14 @@ status: första pass
 > | [AMC288](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC288) | MCA | Långt mål | 34 ord: - utifrån vetenskaplig evidens beskriva hur fysisk träning kan utformas beroende… |
 > | [AMC288](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC288) | MCA | Långt mål | 35 ord: - med stöd i vetenskaplig litteratur och egen erfarenhet reflektera kring den ro… |
 > | [AMC288](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC288) | MCA | Långt mål | 31 ord: - med stöd i relevant teoribildning identifiera hinder och underlättande faktore… |
+> | [AMC28N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC28N) | MCA | Långt mål | 26 ord: - presentera och argumentera för vald design hos ett tänkt forskningsprojekt ino… |
+> | [AMC29F](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC29F) | MCA | Långt mål | 26 ord: - självständigt identifiera och formulera problemställning och syfte för en vete… |
+> | [AMC29F](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC29F) | MCA | Långt mål | 29 ord: - genomföra en vetenskaplig undersökning med relevant design, metod och analys s… |
+> | [AMC29F](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC29F) | MCA | Långt mål | 32 ord: - analysera och värdera resultat från den vetenskapliga undersökningen i relatio… |
+> | [AMC29F](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC29F) | MCA | Långt mål | 28 ord: - försvara eget självständigt arbete samt kritiskt granska och värdera annat exa… |
 > | [AMC29Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC29Y) | MCA | Långt mål | 27 ord: - identifiera och diskutera miljö- och hållbarhetsperspektiv i samband med läkem… |
 > | [AMC2A7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC2A7) | MCA | För många mål | 11 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
+> | [AMC2AE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC2AE) | MCA | Långt mål | 26 ord: - visa förståelse för och kritiskt förhållningsätt till vetenskapliga begrepp oc… |
 > | [AMC2BG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC2BG) | MCA | Långt mål | 27 ord: - identifiera och diskutera miljö- och hållbarhetsperspektiv i samband med läkem… |
 > | [GMC32X](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC32X) | MCA | Långt mål | 29 ord: - förskriva och informera om förbrukningsartiklar vid urindysfunktion, urinreten… |
 > | [GMC37E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC37E) | MCA | För få mål | 1 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
@@ -211,6 +217,9 @@ status: första pass
 > | [VV3017](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3017) | VÅE | Långt mål | 29 ord: - tillämpa adekvat vetenskaplig design och metod i datainsamling och analys samt… |
 > | [VV3017](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3017) | VÅE | Långt mål | 29 ord: - analysera och värdera resultat i relation till tidigare forskning samt den kli… |
 > | [VV3017](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3017) | VÅE | Långt mål | 26 ord: - göra relevanta bedömningar på mikro-, meso- och makronivå med hänsyn till samh… |
+> | [FHV0001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0001) | VÅRDVETS | För många mål | 10 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
+> | [FHV0002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0002) | VÅRDVETS | För få mål | 0 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
+> | [FHV0003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0003) | VÅRDVETS | För få mål | 0 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
 
 ## Syfte
 

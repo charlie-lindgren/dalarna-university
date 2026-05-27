@@ -4,99 +4,66 @@ title: Triangulering — vault vs Blomma (KTH/SU) vs Dalarna officiell
 
 # compare_blomma — triangulering
 
-Mappen jämför tre oberoende uppsättningar HDa-kursplaner:
+Mappen jämför tre oberoende uppsättningar HDa-kursplaner och korslistar dem mot vårt eget arkiv över nedlagda kursplaner.
+
+## Källor
 
 | Källa | Antal | Beskrivning |
-|------|------:|-------------|
-| **A. Dalarna officiella Excel** | 1 923 | `supplied_by_dalarna_university_to_blomma/Aktiva kurser HDa.xlsx` — 1 886 kurser + 37 forskarkurser. Skickad direkt från HDa till Blomma-projektet. |
-| **B. Blomma `DU.json`** | 2 095 | Skrapad av Blomma-pipelinen (KTH/SU/UMU/MIUN-samarbetet) — hämtad från [amandakann/kursplansanalys/Kursplaner/DU.json](https://github.com/amandakann/kursplansanalys/blob/main/Kursplaner/DU.json) (senast uppdaterad 2026-04-14). |
-| **C. Min vault (efter fix)** | 1 936 | Min Quartz/Obsidian-vault, skrapad via `scripts/scrape_hda_kursplaner.py`. *Tidigare 1 787 — växte med 149 efter Å/Ä/Ö-fix + forskarkurser-stöd.* |
+|-------|------:|-------------|
+| **A. Dalarna officiella Excel** | 1 923 | [`supplied_by_dalarna_university_to_blomma/Aktiva kurser HDa.xlsx`](supplied_by_dalarna_university_to_blomma/Aktiva%20kurser%20HDa.xlsx) — 1 886 kurser + 37 forskarkurser. Skickad direkt från HDa till Blomma-projektet. |
+| **B. Blomma `DU.json`** | 2 095 | Skrapad av Blomma-pipelinen (KTH/SU/UMU/MIUN-samarbetet) — hämtad från [amandakann/kursplansanalys](https://github.com/amandakann/kursplansanalys/blob/main/Kursplaner/DU.json) (senast uppdaterad 2026-04-14). |
+| **C. Vault aktiva** | 1 939 | Min Quartz/Obsidian-vault, skrapad via [`scripts/scrape_hda_kursplaner.py`](../scripts/scrape_hda_kursplaner.py). |
+| **D. Vault nedlagda-arkiv** | 7 029 | [`qa/nedlagda-kursplaner/`](../qa/nedlagda-kursplaner) — auto-uppdaterat via [`scripts/scrape_hda_nedlagda.py`](../scripts/scrape_hda_nedlagda.py). |
 
-## Filer i denna mapp
-
-```text
-supplied_by_dalarna_university_to_blomma/
-  Aktiva kurser HDa.xlsx               ← officiell lista från HDa
-from_kursplansanalys_repo/
-  DU.json                              ← Blommas skrapade kursplaner (rådata)
-  HDa.kurser.utf.csv                   ← CSV-version av Excelens "Kurser"-flik
-  HDa.forskarkurser.utf.csv            ← CSV-version av "Forskarkurser"-fliken
-  DalarnasUniversitetKurskoder.utf.csv ← Ladok-utbildningsområde per kurskod (1 936 rader)
-  ladda_ned_Hogskolan_Dalarna_Web.py   ← Blommas DU-skrapare
-  step1_Hogskolan_Dalarna.py           ← Blommas DU-parser → JSON
-  ResultatAvSteg5_ArtikelHogreUtbildning.txt ← deras pipelines slutresultat
-analysis_crosstab.tsv                  ← code × {in_excel, in_blomma, in_vault}
-analysis_*.txt                         ← respektive set-differenser
-```
-
-## Hittade fakta (omedelbara)
-
-1. **`Aktiva kurser HDa.xlsx` är identisk med `HDa.kurser.utf.csv` + `HDa.forskarkurser.utf.csv`.** Samma rader, samma URL-struktur — Blomma transkriberade bara Dalarnas Excel till CSV. Det är alltså inte två oberoende källor.
-
-2. **Dalarnas Excel ⊂ Blommas JSON.** Varje kurs i Excelen finns också i Blommas `DU.json` (0 i `Excel \ Blomma`).
-
-## Tre-vägs medlemskap (efter fix)
-
-| In Excel? | In Blomma? | In Vault? | Antal | Förändring |
-|:---------:|:----------:|:---------:|------:|:----------:|
-| ✔ | ✔ | ✔ | **1 920** | ⬆ från 1 771 |
-| ✔ | ✔ | ✖ | 3 | ⬇ från 152 |
-| ✖ | ✔ | ✖ | 172 | (oförändrat) |
-| ✖ | ✖ | ✔ | 16 | (oförändrat) |
-
-### 3 kurser kvar i Excel men saknas i vault: AMC28N, AMC29F, AMC2AE
-
-**Inte en buggar i skrapan utan en datainkonsistens hos Dalarna**: alla tre returnerar `NEDLAGD` när du.se:s kursplan-sida hämtas, trots att de står som aktiva i Excelen. Skrapan vägrar (korrekt) spara nedlagda kursplaner.
-
-### Vad fixades
-
-Två konkreta ändringar i `scripts/scrape_hda_kursplaner.py`:
-
-1. **URL-decoding av kurskoder** ([scripts/scrape_hda_kursplaner.py](scripts/scrape_hda_kursplaner.py) — ny hjälpfunktion `_extract_code_from_href`). Tidigare regex `code=([A-Z0-9]+)` plockade inte upp koder med Å/Ä/Ö som returneras URL-kodade (`code=GV%c3%852RU` → `GVÅ2RU`). **Effekt:** +112 kurser med svenska tecken (GFÖ\*, GVÅ\*, AVÅ\*, FÖ\*, VÅ\*, MÖ\*, AFÖ\*).
-2. **Forskarkurser-stöd** (nya `discover_forskarkurser`, `FORSKAR_PREFIX_TO_SUBJECT`, `--no-forskarkurser`-flagga). Hämtas från [du.se:s forskarutbildningsindex](https://www.du.se/sv/forskning/forskarutbildning/forskarutbildningskurser/) (utanför vanliga kursplane-indexet), routas via kurskodens prefix till rätt forskarämne + institution (du.se:s `Institution`-fält är opålitligt för delade forskarkurser). **Effekt:** +37 forskarkurser fördelade på 5 forskarämnen:
+## Filer
 
 ```text
-01 IIT/Kursplaner/ANALYTIC/   4 forskarkurser (Data Analytics)
-01 IIT/Kursplaner/ENERGIBM/   5 forskarkurser (Energisystem i byggd miljö)
-01 IIT/Kursplaner/MIKRODAT/   5 forskarkurser (Mikrodataanalys + MIKR-legacy)
-02 IHV/Kursplaner/VÅRDVETS/   4 forskarkurser (Vårdvetenskap — FHV + FVV)
-03 IKS/Kursplaner/PEDAGARB/  19 forskarkurser (Pedagogiskt arbete — FPA)
+compare_blomma/
+  supplied_by_dalarna_university_to_blomma/
+    Aktiva kurser HDa.xlsx               ← officiell lista från HDa
+  from_kursplansanalys_repo/
+    DU.json                              ← Blommas skrapade kursplaner
+    HDa.kurser.utf.csv                   ← (samma som Excelens "Kurser"-flik)
+    HDa.forskarkurser.utf.csv            ← (samma som "Forskarkurser"-fliken)
+    DalarnasUniversitetKurskoder.utf.csv ← Ladok-utbildningsområde per kurskod
+    ladda_ned_Hogskolan_Dalarna_Web.py   ← Blommas DU-skrapare
+    step1_Hogskolan_Dalarna.py           ← Blommas DU-parser → JSON
+    ResultatAvSteg5_ArtikelHogreUtbildning.txt ← deras slutresultat
+  triangulering.csv                      ← samlad triangulering (8 968 rader)
+  triangulering.xlsx                     ← samma data + summeringsblad
+  README.md
 ```
 
-Forskarkurser frontmatter:s `tags` får `forskarutbildning`. `parse_amnestillhorighet` hanterar nu också flerämnes­metadata ("Mikrodataanalys (MIKRODAT) Pedagogiskt arbete (PEDAGARB) Vårdvetenskap (VÅRDVETS)") via kursprefix-disambiguering.
+## Resultat
 
-Sammantaget: vault växte med **+149 kurser** (1 787 → 1 936) och triangulerar nu med **1 920 av 1 923** Excel-kurser (99,8 %). Resten är Dalarnas egna inaktuella poster.
+| Excel? | Blomma? | Vault aktiv? | Antal | Kategori |
+|:------:|:-------:|:------------:|------:|----------|
+| ✔ | ✔ | ✔ | **1 923** | `triangulerad` — finns i alla tre auktoritativa källor |
+| ✖ | ✔ | ✖ | 172 | `blomma_historik_arkiverad` — alla finns i vårt nedlagda-arkiv |
+| ✖ | ✖ | ✔ | 16 | `nyare_än_andra` — kurser som dykt upp på du.se efter Excel/Blomma |
+| ✖ | ✖ | ✖ (men i nedlagda-arkiv) | 6 857 | `enbart_nedlagd` — historiska kursplaner i vårt arkiv |
 
-### 172 kurser unika för Blomma JSON
+**Totalt: 8 968 unika kurskoder.** Inga gap mot Excel eller Blomma:
 
-Äldre/inaktiverade kursplaner som Blomma skrapade tidigare men som **inte längre** står med på HDa:s aktuella aktiva lista. Prefix­distribution:
-`SS:61, GV:33, GF:28, AV:23, VÅ:19, ST:14, FÖ:12, MT:12, JP:10, SO:10, ...`. Snittformat: gamla numreringar (FÖ1041, DT2019, EG3003, AVÅ27J etc.).
+- `Excel ∖ Vault aktiva = ∅` — varenda kod i HDa:s officiella aktiva-lista finns hos oss
+- `Blomma ∖ (Vault aktiva ∪ Vault nedlagda) = ∅` — varenda Blomma-kod finns hos oss (antingen aktiv eller arkiverad)
 
-Min `qa/identify_ej_aktiv.py` skulle ha taggat dessa som `ej-aktiv` om jag hade lagt in dem — vilket korrekt återspeglar att de inte längre är aktiva.
+## Vad var det vi hittade på vägen?
 
-### 16 kurser unika för vault
+Tre buggar i våra skrapor som triangulering avslöjade:
 
-Nyare kurser som dykt upp på du.se efter att Blomma drog sin data och som inte heller står i Excelen. Alla har höga "3K"/"3J"-numreringar:
+1. **Å/Ä/Ö i kurskoder gick förlorade** i båda skraporna. Regex `code=([A-Z0-9]+)` saknade `ÅÄÖ` och plockade inte upp URL-kodade former (`%c3%85` = `Å`).
+   - Fix: ny hjälpare `_extract_code_from_href` med `urllib.parse.unquote`. Effekt: +112 aktiva kurser, +585 nedlagda i arkivet.
+2. **Forskarkurser saknades** — vi använde bara du.se:s vanliga kursplane-index, som inte listar forskarkurser. Forskarkurser har en egen sida ([forskarutbildningskurser](https://www.du.se/sv/forskning/forskarutbildning/forskarutbildningskurser/)).
+   - Fix: ny `discover_forskarkurser()` + prefix-baserad routing (`FORSKAR_PREFIX_TO_SUBJECT`) som överskriver opålitliga `Institution`-fält på delade forskarkurspages. Effekt: +37 forskarkurser fördelade på 5 forskarämnen.
+3. **AMC28N/AMC29F/AMC2AE-buggen.** Vår `scrape_course` flaggade som "nedlagd" så snart ordet *nedlagd* förekom var som helst på sidan. Det fångar metadatafältet `Nedlagd YYYY-MM-DD` (datum då kursen avvecklas) och felaktigt slänger en fullt publicerad kursplan.
+   - Fix: byt detektion till du.se:s `status=discontinued`-index som auktoritativ källa.
 
-```
-ASV2CP, ASV2CQ (SVE)
-GEN3K3 (ENA)
-GHI3JX (HIA)
-GIE3JS, GIE3JW (IEA)
-GMD3K4 (MDI)
-GMT3JQ, GMT3JR, GMT3JT, GMT3JU, GMT3JV, GMT3JY, GMT3JZ (MTA)
-GPG3JP (PGA)
-GSS3K2 (SSA)
-```
+Sammantaget: vault aktiva växte från 1 787 → 1 939 (+152), nedlagda-arkivet från 6 444 → 7 029 (+585). Total täckning: **8 968 kurskoder** med 100 % konsistens mot HDa:s Excel och Blommas dataset.
 
-→ Tyder på att min skrapning är **nyare** än Excel/Blomma — ett bra tecken.
+## Återstående poster — alla förväntade
 
-## Slutsats
+- **172 historiska Blomma-poster** — Blomma sparar varje `ValidFrom`-revidering som egen post; alla 172 finns hos oss i nedlagda-arkivet under sin kurskod.
+- **16 nyare vault-kurser** — kurser som skapats på du.se efter Excelens snapshot (≈ feb 2026) och Blommas senaste pull (2026-04-14). Mest `GMT3J*`/`GIE3*`/`ASV2C*` osv.
 
-- **Triangulering bekräftar att skrapningen i stort sett är komplett**: 1 771 / 1 787 (99,1 %) av vaultens kurser triangulerar mot båda externa källorna.
-- **Två konkreta bug-fixes** identifierade i min skrapare: stöd för Å/Ä/Ö i kurskoder (112 kurser) och AMC-prefix (3 kurser).
-- **Forskarkurser (37 st)** är en scope-fråga, inte ett fel — fritt val om de ska in.
-- **172 inaktiva plan­versioner** i Blommas dataset är förväntat — de skrapade vid en tidigare tidpunkt och behåller historiska versioner.
-- **Excelen från Dalarna är en strikt delmängd av Blommas dataset** och innehåller inga unika observationer; den fungerar bäst som auktoritativ "aktiv vid datum X"-snapshot.
-
-Kör om jämförelsen efter en ny scrape med `python3 _rebuild.py` (skapad om/när behov uppstår).
+Inga av dessa är fel; de speglar bara att de tre källorna ögonblicksbilds­togs vid olika tidpunkter.

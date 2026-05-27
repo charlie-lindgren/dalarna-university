@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Övrigt.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (186 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Övrigt.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (190 rader)</span></a>
 
-> [!example]- 186 fynd — klicka för att expandera
+> [!example]- 190 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -200,6 +200,10 @@ status: första pass
 > | [VV3014](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3014) | VÅE | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen genomförs med stöd av informations- och kommunikationsteknik vilket förutsätter en fungerande internetuppkoppling… |
 > | [VV3015](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3015) | VÅE | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen genomförs med stöd av informations- och kommunikationsteknik vilket förutsätter en fungerande internetuppkoppling… |
 > | [VV3017](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3017) | VÅE | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Antal examinationstillfällen är begränsade till fem. Institutionen använder sig av ”Ephorus” plagiatkontroll vilket inne… |
+> | [FHV0001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0001) | VÅRDVETS | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen är nätbaserad. Undervisning samt muntliga och skriftliga examinationer sker på engelska, om inte annat meddelas. … |
+> | [FHV0002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0002) | VÅRDVETS | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen är nätbaserad. Undervisningen ges på engelska och muntliga och skriftliga examinationer sker på engelska.… |
+> | [FHV0003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0003) | VÅRDVETS | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen är nätbaserad. Undervisningen ges på engelska och muntliga och skriftliga examinationer sker på engelska. Kursen … |
+> | [FVV222H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FVV222H) | VÅRDVETS | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen är nätbaserad. Undervisning samt muntliga och skriftliga examinationer sker på engelska, om inte annat meddelas.… |
 
 ## Syfte
 

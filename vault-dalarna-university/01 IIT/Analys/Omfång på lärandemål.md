@@ -8,12 +8,16 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (90 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (101 rader)</span></a>
 
-> [!example]- 90 fynd — klicka för att expandera
+> [!example]- 101 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
+> | [FDA222R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222R) | ANALYTIC | För få mål | 0 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
+> | [FDA222S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222S) | ANALYTIC | För få mål | 0 lärandemål (minimum rekommenderat: 4 för 10 hp) |
+> | [FDA222T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222T) | ANALYTIC | För få mål | 0 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
+> | [FDA222U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222U) | ANALYTIC | För få mål | 0 lärandemål (minimum rekommenderat: 2 för 5 hp) |
 > | [BY1054](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1054) | BYA | För många mål | 14 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [BY1061](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1061) | BYA | För många mål | 12 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [GBY2MA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2MA) | BYA | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
@@ -24,6 +28,10 @@ status: första pass
 > | [GBY342](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY342) | BYA | För många mål | 7 lärandemål (maximum rekommenderat: 6 för 5 hp) |
 > | [GDT2JM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT2JM) | DTA | För många mål | 10 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [GDT2JN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT2JN) | DTA | Långt mål | 29 ord: - Praktiskt konfigurera och implementera tekniker som möjliggör trådlös kommunik… |
+> | [FEB222K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222K) | ENERGIBM | För få mål | 0 lärandemål (minimum rekommenderat: 2 för 5 hp) |
+> | [FEB222L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222L) | ENERGIBM | För få mål | 0 lärandemål (minimum rekommenderat: 2 för 5 hp) |
+> | [FEB222M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222M) | ENERGIBM | För få mål | 0 lärandemål (minimum rekommenderat: 1 för 3 hp) |
+> | [FEB222P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222P) | ENERGIBM | För många mål | 7 lärandemål (maximum rekommenderat: 6 för 4.5 hp) |
 > | [BFY224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY224) | FYA | För många mål | 7 lärandemål (maximum rekommenderat: 6 för 5 hp) |
 > | [BFY226](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY226) | FYA | För många mål | 12 lärandemål (maximum rekommenderat: 10 för 10 hp) |
 > | [BFY227](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY227) | FYA | För många mål | 9 lärandemål (maximum rekommenderat: 6 för 5 hp) |
@@ -75,6 +83,9 @@ status: första pass
 > | [MD2022](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2022) | MDI | För många mål | 17 lärandemål (maximum rekommenderat: 12 för 30 hp) |
 > | [MD2022](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2022) | MDI | Långt mål | 37 ord: - beskriva, analysera, diskutera och tillämpa differentialekvationer av första o… |
 > | [MD2023](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2023) | MDI | För få mål | 2 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
+> | [FMI2222](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2222) | MIKRODAT | För få mål | 0 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
+> | [FMI2223](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2223) | MIKRODAT | För få mål | 0 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
+> | [MIKR002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MIKR002) | MIKRODAT | Långt mål | 26 ord: - värdera olika typer av uppgifter och typer av datainsamling med avseende på di… |
 > | [GMT228](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT228) | MTA | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [GMT343](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT343) | MTA | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [GMT343](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT343) | MTA | Långt mål | 32 ord: - redogöra för centrala begrepp inom området produktionsteknik omfattande område… |

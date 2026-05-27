@@ -8,12 +8,16 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Övrigt.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (187 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Övrigt.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (201 rader)</span></a>
 
-> [!example]- 187 fynd — klicka för att expandera
+> [!example]- 201 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
+> | [FDA222R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222R) | ANALYTIC | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+> | [FDA222S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222S) | ANALYTIC | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+> | [FDA222T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222T) | ANALYTIC | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+> | [FDA222U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222U) | ANALYTIC | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
 > | [ABY22V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABY22V) | BYA | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
 > | [ABY22W](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABY22W) | BYA | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen kan inte räknas i en examen samtidigt som BY2022. Ersätter BY3002.… |
 > | [ABY27W](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABY27W) | BYA | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter ABY22U.… |
@@ -49,6 +53,11 @@ status: första pass
 > | [GBY2XF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2XF) | BYA | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Överlappar GBY24K och GBY2RW… |
 > | [GDT2JM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT2JM) | DTA | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GDT2AN… |
 > | [GDT2JN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT2JN) | DTA | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter DT1066.… |
+> | [FEB222K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222K) | ENERGIBM | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ges på Engelska.… |
+> | [FEB222L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222L) | ENERGIBM | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ges på Engelska.… |
+> | [FEB222M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222M) | ENERGIBM | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ges på Engelska.… |
+> | [FEB222P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222P) | ENERGIBM | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Doktorand som inte är antagen vid någon av Högskola Dalarnas forskarutbildningar antas i mån av plats. Kursen ges på eng… |
+> | [FEB222Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222Q) | ENERGIBM | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Projekt i kursen görs av minst två doktorander. Kursen ges på engelska.… |
 > | [ET1029](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ET1029) | ETA | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter ET1026… |
 > | [BFY224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY224) | FYA | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
 > | [FY1018](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FY1018) | FYA | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kan ej tillgodoräknas i en examen samtidigt som kurserna FY1015, FY1016 och FY1017… |
@@ -131,6 +140,11 @@ status: första pass
 > | [MD2024](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2024) | MDI | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen kan ingå som en del i Matematik III 30 hp och Matematik IV med didaktisk inriktning 30 hp och kan inte räknas par… |
 > | [MD2025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2025) | MDI | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen kan ingå som en del i Matematik III 30 hp eller Matematik III med didaktisk inriktning 30 hp och kan inte räknas … |
 > | [MD2026](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2026) | MDI | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen kan ingå som en del i Matematik III 30 hp eller Matematik III med didaktisk inriktning 30 hp och kan inte räknas … |
+> | [FMI2222](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2222) | MIKRODAT | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Maximalt fem examinationstillfällen. Kursen ges på engelska om ej annat anges. Kursen är campusbaserad om ej annat anges… |
+> | [FMI2223](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2223) | MIKRODAT | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+> | [FMI2224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2224) | MIKRODAT | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+> | [FMI2229](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2229) | MIKRODAT | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Deltagarna förväntas ha ett planerat eller pågående forskningsprojekt. Deltagarna förväntas ha kunskaper i de mest grund… |
+> | [MIKR002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MIKR002) | MIKRODAT | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen kan tillgodoräknas inom forskningsämnena Pedagogiskt arbete ooch Vårdvetenskap.… |
 > | [GMT228](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT228) | MTA | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter MT2016.… |
 > | [GMT25Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT25Z) | MTA | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: De programkurser som är relevanta för det specifika examensarbetet ska vara godkända.… |
 > | [GMT2QF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT2QF) | MTA | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GMT268.… |

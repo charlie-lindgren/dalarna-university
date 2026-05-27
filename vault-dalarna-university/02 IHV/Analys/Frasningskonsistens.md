@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Frasningskonsistens.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (109 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Frasningskonsistens.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (110 rader)</span></a>
 
-> [!example]- 109 fynd — klicka för att expandera
+> [!example]- 110 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -123,6 +123,7 @@ status: första pass
 > | [AVV26K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVV26K) | VÅE | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [VV2002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV2002) | VÅE | Avviker från referensformen | Efter avslutad kurs ska studenten kunna… |
 > | [VV3003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3003) | VÅE | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | [FVV222H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FVV222H) | VÅRDVETS | Avviker från referensformen | Efter avslutad kurs ska doktoranden kunna:… |
 
 ## Syfte
 

@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Examinationsformer.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (168 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Examinationsformer.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (178 rader)</span></a>
 
-> [!example]- 168 fynd — klicka för att expandera
+> [!example]- 178 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -45,6 +45,11 @@ status: första pass
 > | [GBY37D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY37D) | BYA | Saknar punktlista | Examinationsformer skrivet som löpande text: Tentamen… |
 > | [GDT2JM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT2JM) | DTA | Saknar punktlista | Examinationsformer skrivet som löpande text: Muntlig och praktisk redovisning av laboration, 2hp Nätverkslaboration , 3,5hp Skriftlig tentamen, 2hp… |
 > | [GDT2JN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT2JN) | DTA | Saknar punktlista | Examinationsformer skrivet som löpande text: Nätverkslaboration, 3,5hp Skriftlig tentamen, 2hp Muntlig och praktisk redovisning av laboration, 2hp… |
+> | [FEB222K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222K) | ENERGIBM | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom en skriftlig inlämningsuppgift, en för varje delmoment: Skriftlig hemuppgift 1 (2,5 hp) En litter… |
+> | [FEB222L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222L) | ENERGIBM | Saknar punktlista | Examinationsformer skrivet som löpande text: Aktivt deltagande i seminarier, 2,5 hp Skriftliga uppgifter, 2,5 hp… |
+> | [FEB222M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222M) | ENERGIBM | Saknar punktlista | Examinationsformer skrivet som löpande text: Arbete presenteras i minst två seminarier. Opposition med skriftligt svar sker minst två gånger. Aktivt deltagande och m… |
+> | [FEB222P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222P) | ENERGIBM | Saknar punktlista | Examinationsformer skrivet som löpande text: • inlämningsuppgifter • muntlig presentation • seminarier… |
+> | [FEB222Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222Q) | ENERGIBM | Saknar punktlista | Examinationsformer skrivet som löpande text: • Inlämningsuppgifter • Seminarier… |
 > | [ET1029](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ET1029) | ETA | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig salstentamen 5,0 hp Laborationsrapport 2,5 hp… |
 > | [BFY224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY224) | FYA | Saknar punktlista | Examinationsformer skrivet som löpande text: Examinationen sker genom skriftlig rapport och muntlig redovisning. Om undersökningen genomförs i grupp skall varje stud… |
 > | [FY1018](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FY1018) | FYA | Saknar punktlista | Examinationsformer skrivet som löpande text: Genomförda laborationer inklusive rapporter, 3 hp Skriftlig salstentamen, 4,5 hp… |
@@ -120,6 +125,11 @@ status: första pass
 > | [MD2024](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2024) | MDI | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom redovisningar och skriftlig salstentamen. Betyg rapporteras som ett moment.… |
 > | [MD2025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2025) | MDI | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom skriftlig salstentamen och inlämningsuppgifter. Samlad bedömning, betyget rapporteras som ett mom… |
 > | [MD2026](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2026) | MDI | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom skriftlig salstentamen och inlämningsuppgifter. Samlad bedömning, betyget rapporteras som ett mom… |
+> | [FMI2222](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2222) | MIKRODAT | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker i form av seminarier och skriftlig tentamen.Kursen består av föreläsningar, seminarium och självständig… |
+> | [FMI2223](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2223) | MIKRODAT | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker i form av enskilt projektarbete och examinerande seminarium… |
+> | [FMI2224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2224) | MIKRODAT | Saknar punktlista | Examinationsformer skrivet som löpande text: Delarna 1 och 2 examineras var för sig. Del 1 examineras med inlämningsuppgift och skriftlig tentamen om 5 hp. Del 2 exa… |
+> | [FMI2229](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2229) | MIKRODAT | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker i form av en skriftlig tentamen och en tillämpad hemuppgift.… |
+> | [MIKR002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MIKR002) | MIKRODAT | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom ett enskilt projekt kopplat till doktorandens avhandlingsar-bete och muntlig redovisning av dett… |
 > | [GMT228](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT228) | MTA | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig salstentamen, 2 hp Seminarier, 2 hp Industriprojekt, 2,5 hp Workshop och inlämningsuppgifter, 1 hp… |
 > | [GMT2QF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT2QF) | MTA | Saknar punktlista | Examinationsformer skrivet som löpande text: Inlämningsuppgifter 7,5hp… |
 > | [MT1033](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT1033) | MTA | Saknar punktlista | Examinationsformer skrivet som löpande text: Inlämningsuppgifter.… |

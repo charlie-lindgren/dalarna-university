@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Introfras.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (234 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Introfras.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (240 rader)</span></a>
 
-> [!example]- 234 fynd — klicka för att expandera
+> [!example]- 240 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -156,6 +156,12 @@ status: första pass
 > | [PE3003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE3003) | PEA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens mål är att studerande utvecklar kunskaper om genusteorier med fokus på mansforskning.… |
 > | [PE3004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE3004) | PEA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Den behörighetsgivande högskolepedagogiska utbildningens övergripande mål är att kursdeltagaren skall ha utvecklat kunsk… |
 > | [PE3012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE3012) | PEA | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet är att deltagarna ska tillägna sig kunskaper och färdigheter som behövs för att leda kvalificerad… |
+> | [FPA0001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0001) | PEDAGARB | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande syftet med kursen är att ge forskarstuderande en introduktion till olika forskningsmetoder samt stödja … |
+> | [FPA2226](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA2226) | PEDAGARB | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att de forskarstuderande utvecklar fördjupad kunskap om forskning om läsinlärning o… |
+> | [FPA222A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222A) | PEDAGARB | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att de forskarstuderande utvecklarfördjupade kunskaper om vetenskapsteori och forskningsetik… |
+> | [FPA222B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222B) | PEDAGARB | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande syftet med kursen är att de forskarstuderande utvecklar fördjupad kunskap och förståelse av olika metod… |
+> | [FPA222J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222J) | PEDAGARB | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen avser att ge en introduktion till och en översikt av grundläggande statistiska begrepp och deras tillämpning i kv… |
+> | [FPA222N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222N) | PEDAGARB | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande syftet med kursen är att de forskarstuderande utvecklar fördjupad kunskap och förståelse av olika metod… |
 > | [GPA2FL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2FL) | PEE | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Syftet med kursen är att den studerande ska skaffa sig fördjupade kunskaper om och förståelse för strukturella och socia… |
 > | [GPA2FW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2FW) | PEE | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande syfte är att den studerande ska erhålla en grundläggande förståelse för hur personalekonomi och för… |
 > | [GPA2K3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2K3) | PEE | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens… |

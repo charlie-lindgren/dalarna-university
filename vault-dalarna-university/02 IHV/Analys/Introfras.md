@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Introfras.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (80 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Introfras.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (83 rader)</span></a>
 
-> [!example]- 80 fynd — klicka för att expandera
+> [!example]- 83 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -94,6 +94,9 @@ status: första pass
 > | [VV3014](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3014) | VÅE | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande har fördjupade kunskaper om implementering av forskningsbaserad kunskap i… |
 > | [VV3015](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3015) | VÅE | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande har fördjupade kunskaper om implementering av forskningsbaserad kunskap i… |
 > | [VV3017](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3017) | VÅE | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Genom ett självständigt arbete erhålla fördjupad kunskap inom ett komplext problemområde med relevans för vårdvetenskap,… |
+> | [FHV0001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0001) | VÅRDVETS | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är ge en introduktion till vetenskapsteori och forskarens roll i samhället samt ge kunskap i fo… |
+> | [FHV0002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0002) | VÅRDVETS | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet är att ge kunskap om metod för och värdering av kvantitativa, kvalitativa och integrativa/-mixad-… |
+> | [FHV0003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0003) | VÅRDVETS | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att ge kunskap om teoretiska ramverk, designer, metoder och faktorer som har betydelse för f… |
 
 ## Syfte
 
