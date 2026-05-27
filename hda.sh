@@ -41,22 +41,23 @@ print_menu() {
     echo -e "    ${BOLD}3.${RESET}  Skrapa kursplaner (endast ordinarie ämnen)"
     echo -e "    ${BOLD}4.${RESET}  Skrapa utbildningsplaner"
     echo -e "    ${BOLD}5.${RESET}  Identifiera vilande kursplaner"
-    echo -e "    ${BOLD}6.${RESET}  ${BOLD}Kör alla skrapa-steg${RESET} (2 + 4 + 5)"
+    echo -e "    ${BOLD}6.${RESET}  Bygg om MOC-filer från vault"
+    echo -e "    ${BOLD}7.${RESET}  ${BOLD}Kör alla skrapa-steg${RESET} (2 + 4 + 5 + 6)"
     echo ""
     echo -e "  ${MAGENTA}${BOLD}QA-cache${RESET}"
-    echo -e "    ${BOLD}7.${RESET}  Skrapa nedlagda kursplaner (qa/nedlagda-kursplaner/, ej i vault)"
+    echo -e "    ${BOLD}8.${RESET}  Skrapa nedlagda kursplaner (qa/nedlagda-kursplaner/, ej i vault)"
     echo ""
     echo -e "  ${MAGENTA}${BOLD}Kvalitetsgranskning${RESET}"
-    echo -e "    ${BOLD}8.${RESET}  QA kursplaner (rapport)"
-    echo -e "    ${BOLD}9.${RESET}  QA utbildningsplaner (rapport)"
-    echo -e "   ${BOLD}10.${RESET}  Jämför kursplan-rapporter (lösta/nya fynd)"
-    echo -e "   ${BOLD}11.${RESET}  Populera analysfilerna (från senaste rapport)"
-    echo -e "   ${BOLD}12.${RESET}  Rensa analysfilerna (ta bort lösta fynd)"
-    echo -e "   ${BOLD}13.${RESET}  ${BOLD}Kör alla QC-steg${RESET} (8 + 9 + 11)"
+    echo -e "    ${BOLD}9.${RESET}  QA kursplaner (rapport)"
+    echo -e "   ${BOLD}10.${RESET}  QA utbildningsplaner (rapport)"
+    echo -e "   ${BOLD}11.${RESET}  Jämför kursplan-rapporter (lösta/nya fynd)"
+    echo -e "   ${BOLD}12.${RESET}  Populera analysfilerna (från senaste rapport)"
+    echo -e "   ${BOLD}13.${RESET}  Rensa analysfilerna (ta bort lösta fynd)"
+    echo -e "   ${BOLD}14.${RESET}  ${BOLD}Kör alla QC-steg${RESET} (9 + 10 + 12)"
     echo ""
     echo -e "  ${MAGENTA}${BOLD}Bygg${RESET}"
-    echo -e "   ${BOLD}14.${RESET}  Bygg Quartz-sajten (public/)"
-    echo -e "   ${BOLD}15.${RESET}  Bygg & förhandsvisa sajten lokalt"
+    echo -e "   ${BOLD}15.${RESET}  Bygg Quartz-sajten (public/)"
+    echo -e "   ${BOLD}16.${RESET}  Bygg & förhandsvisa sajten lokalt"
     echo ""
     echo -e "    ${BOLD}q.${RESET}  Avsluta"
     echo ""
@@ -152,6 +153,21 @@ run_vilande() {
     "$PYTHON" qa/identify_ej_aktiv.py $APPLY_FLAG
 }
 
+# ── steg: bygg om MOC-filerna från vault-tillstånd ──────────────────────────
+run_rebuild_mocs() {
+    echo -e "${BOLD}Bygg om MOC-filer från vault${RESET}"
+    echo ""
+    echo "Skannar vault-dalarna-university/ och regenererar samtliga ämnes-MOC:s"
+    echo "och institutions-MOC:s från frontmatter. Migrerar även forskarkurser"
+    echo "till 'Forskarämne X'-namn så att grund- och forskarämnen får separata"
+    echo "MOC-filer (löser kollisioner som annars uppstår i grafvyn)."
+    echo ""
+    prompt_apply_mode
+    echo ""
+    # shellcheck disable=SC2086
+    "$PYTHON" qa/rebuild_mocs.py $APPLY_FLAG
+}
+
 # ── steg: kör alla skrapa-steg i sekvens ────────────────────────────────────
 run_scrape_pipeline() {
     echo -e "${BOLD}Kör alla skrapa-steg${RESET}"
@@ -160,6 +176,7 @@ run_scrape_pipeline() {
     echo "  • Skrapa ALLA kursplaner (inkl. strö-/orphan-koder)"
     echo "  • Skrapa utbildningsplaner"
     echo "  • Identifiera vilande kursplaner"
+    echo "  • Bygg om MOC-filer från vault"
     echo ""
     prompt_apply_mode
     BATCH_APPLY_FLAG="$APPLY_FLAG"
@@ -169,6 +186,8 @@ run_scrape_pipeline() {
     run_scrape_utb
     echo ""
     run_vilande
+    echo ""
+    run_rebuild_mocs
     unset BATCH_APPLY_FLAG
     echo ""
     echo -e "${GREEN}✓ Alla skrapa-steg klara${RESET}"
@@ -223,7 +242,7 @@ run_qa_kurs() {
     echo -e "${GREEN}✓ QA-rapport sparad: ${BOLD}${OUTFILE}${RESET}"
     if [[ -z "${BATCH_APPLY_FLAG+x}" ]]; then
         echo ""
-        echo "  Nästa steg: kör menyval 10 för att populera analysfilerna i varje institutions Analys-mapp."
+        echo "  Nästa steg: kör menyval 12 för att populera analysfilerna i varje institutions Analys-mapp."
     fi
 }
 
@@ -332,6 +351,7 @@ run_full_pipeline() {
     echo "  • Skrapa ALLA kursplaner (inkl. strö-/orphan-koder)"
     echo "  • Skrapa utbildningsplaner"
     echo "  • Identifiera vilande kursplaner"
+    echo "  • Bygg om MOC-filer från vault"
     echo "  • QA kursplaner (rapport)"
     echo "  • QA utbildningsplaner (rapport)"
     echo "  • Populera analysfilerna"
@@ -345,6 +365,8 @@ run_full_pipeline() {
     run_scrape_utb
     echo ""
     run_vilande
+    echo ""
+    run_rebuild_mocs
     echo ""
     run_qa_kurs
     echo ""
@@ -369,22 +391,23 @@ while true; do
         3)  run_scrape_kurs ;;
         4)  run_scrape_utb ;;
         5)  run_vilande ;;
-        6)  run_scrape_pipeline ;;
-        7)  run_scrape_nedlagda ;;
-        8)  run_qa_kurs ;;
-        9)  run_qa_utb ;;
-        10) run_diff ;;
-        11) run_populate ;;
-        12) run_prune ;;
-        13) run_qc_pipeline ;;
-        14) run_build_site ;;
-        15) run_serve_site ;;
+        6)  run_rebuild_mocs ;;
+        7)  run_scrape_pipeline ;;
+        8)  run_scrape_nedlagda ;;
+        9)  run_qa_kurs ;;
+        10) run_qa_utb ;;
+        11) run_diff ;;
+        12) run_populate ;;
+        13) run_prune ;;
+        14) run_qc_pipeline ;;
+        15) run_build_site ;;
+        16) run_serve_site ;;
         q|Q|quit|exit)
             echo "Hejdå."
             exit 0
             ;;
         *)
-            echo -e "${YELLOW}Ogiltigt val — ange 1–15 eller q.${RESET}"
+            echo -e "${YELLOW}Ogiltigt val — ange 1–16 eller q.${RESET}"
             ;;
     esac
     echo ""
