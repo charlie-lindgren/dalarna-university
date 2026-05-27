@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (122 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (121 rader)</span></a>
 
-> [!example]- 122 fynd — klicka för att expandera
+> [!example]- 121 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -59,7 +59,6 @@ status: första pass
 > | [GFR3HN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3HN) | FRA | Felstavning | `godänd` (sv) |
 > | [GIT2A3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2A3) | ITA | Felstavning (en) | `indentify` (en) |
 > | [GIT2AE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2AE) | ITA | Felstavning (en) | `particicpation` (en) |
-> | [GIT2TH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TH) | ITA | Felstavning (en) | `contextualise` (en) |
 > | [GIT2TK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TK) | ITA | Felstavning (en) | `themself` (en) |
 > | [GIT2Y8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2Y8) | ITA | Felstavning | `nlämningsuppgifter` (sv) |
 > | [GJP23S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP23S) | JAA | Felstavning | `språkfärdiget` (sv) |
