@@ -476,7 +476,7 @@ def discover_all_kursplan_codes() -> set[str]:
         return set()
     codes: set[str] = set()
     for a in soup.select("table#coursesTable tbody a[href*='code=']"):
-        m = re.search(r"code=([A-Z0-9]+)", a["href"])
+        m = re.search(r"code=([A-Z0-9ÅÄÖ]+)", a["href"])
         if m:
             codes.add(m.group(1))
     return codes
