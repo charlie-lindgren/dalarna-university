@@ -426,6 +426,8 @@ EN_IGNORE = {
     "cobots","bioenergy","biofuel","microsystems","insolation",
     "horizontoscope","absorbers","mechatronic",
     "knowledges","xxxxx","fup","immon","euclidian",
+    "contextualise","backpropagation","feedforward","rnns",
+    "prosumers","transdisciplinary",
     # IHV — kvalitativ forskning, hälsovetenskap, brittisk stavning
     "sensorimotor","generalizability","transferability","focussing",
     "fulfilment","individualisation","individualisering",
