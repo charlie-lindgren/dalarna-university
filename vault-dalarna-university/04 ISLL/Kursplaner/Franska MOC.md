@@ -42,24 +42,8 @@ up: "[[ISLL MOC]]"
 - [[GFR3HM]] — Franska I med didaktisk inriktning
 - [[GFR3HN]] — Franska II med didaktisk inriktning
 
-## Vilande kursplaner (17 st)
+## Vilande kursplaner (1 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
-- [[AFR24Z]] — Franska: Argumentation och retorik
-- [[AFR29D]] — Interkulturella litteraturstudier: Masterexamensarbete med inriktning franska
-- [[GFR27N]] — Franska: Skriftlig språkfärdighet II
-- [[GFR27Q]] — Franska II: Introduktion till lingvistik och akademiskt skrivande
-- [[GFR27R]] — Franskspråkig litteratur II: Fram till 1900
-- [[GFR27S]] — Franska med inriktning arbetsliv
-- [[GFR283]] — Litteratur och kultur i Maghrebregionen
-- [[GFR2HZ]] — Franska: Förberedande kurs IV
-- [[GFR2KQ]] — Franska III: Språkhistoria
-- [[GFR2KR]] — Franska: Examensarbete för kandidatexamen
-- [[GFR2R3]] — Franska II: Muntlig franska
-- [[GFR2R4]] — Franska II med didaktisk inriktning
-- [[GFR2W9]] — Franska: Språkdidaktik I
-- [[GFR2WA]] — Franska I med didaktisk inriktning
-- [[GFR35F]] — Franska III: Franskspråkig litteratur och litteraturanalys
-- [[GFR3DL]] — Franska för lärare i gymnasieskolan, 90 hp (1-90 hp). Ingår i Lärarlyftet
 - [[GFR3HL]] — Franska: Språkdidaktik II

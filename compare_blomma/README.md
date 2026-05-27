@@ -10,7 +10,7 @@ Mappen jämför tre oberoende uppsättningar HDa-kursplaner:
 |------|------:|-------------|
 | **A. Dalarna officiella Excel** | 1 923 | `supplied_by_dalarna_university_to_blomma/Aktiva kurser HDa.xlsx` — 1 886 kurser + 37 forskarkurser. Skickad direkt från HDa till Blomma-projektet. |
 | **B. Blomma `DU.json`** | 2 095 | Skrapad av Blomma-pipelinen (KTH/SU/UMU/MIUN-samarbetet) — hämtad från [amandakann/kursplansanalys/Kursplaner/DU.json](https://github.com/amandakann/kursplansanalys/blob/main/Kursplaner/DU.json) (senast uppdaterad 2026-04-14). |
-| **C. Min vault** | 1 787 | Min Quartz/Obsidian-vault, skrapad via `scripts/scrape_hda_kursplaner.py`. |
+| **C. Min vault (efter fix)** | 1 936 | Min Quartz/Obsidian-vault, skrapad via `scripts/scrape_hda_kursplaner.py`. *Tidigare 1 787 — växte med 149 efter Å/Ä/Ö-fix + forskarkurser-stöd.* |
 
 ## Filer i denna mapp
 
@@ -35,27 +35,37 @@ analysis_*.txt                         ← respektive set-differenser
 
 2. **Dalarnas Excel ⊂ Blommas JSON.** Varje kurs i Excelen finns också i Blommas `DU.json` (0 i `Excel \ Blomma`).
 
-## Tre-vägs medlemskap
+## Tre-vägs medlemskap (efter fix)
 
-| In Excel? | In Blomma? | In Vault? | Antal |
-|:---------:|:----------:|:---------:|------:|
-| ✔ | ✔ | ✔ | **1 771** |
-| ✔ | ✔ | ✖ | 152 |
-| ✖ | ✔ | ✖ | 172 |
-| ✖ | ✖ | ✔ | 16 |
-| Övriga | — | — | 0 |
+| In Excel? | In Blomma? | In Vault? | Antal | Förändring |
+|:---------:|:----------:|:---------:|------:|:----------:|
+| ✔ | ✔ | ✔ | **1 920** | ⬆ från 1 771 |
+| ✔ | ✔ | ✖ | 3 | ⬇ från 152 |
+| ✖ | ✔ | ✖ | 172 | (oförändrat) |
+| ✖ | ✖ | ✔ | 16 | (oförändrat) |
 
-### 152 kurser i Excel + Blomma men saknas i vault
+### 3 kurser kvar i Excel men saknas i vault: AMC28N, AMC29F, AMC2AE
 
-Tre tydliga kategorier:
+**Inte en buggar i skrapan utan en datainkonsistens hos Dalarna**: alla tre returnerar `NEDLAGD` när du.se:s kursplan-sida hämtas, trots att de står som aktiva i Excelen. Skrapan vägrar (korrekt) spara nedlagda kursplaner.
 
-| Kategori | Antal | Kommentar |
-|----------|------:|-----------|
-| **Forskarkurser** (FDA/FEB/FHV/FMI/FPA/FVV/MIKR) | 37 | Min skrapare hämtar inte forskarkurser. Excelens `Forskarkurser`-flik täcker dem fullständigt. |
-| **Koder med Å/Ä/Ö** (GFÖ\*, GVÅ\*, AVÅ\*, FÖ\*, VÅ\*, MÖ\*, AFÖ\*) | 112 | Bekräftad regexbugg på `scripts/scrape_hda_kursplaner.py:479`: `re.search(r"code=([A-Z0-9]+)", a["href"])` saknar `ÅÄÖ` i teckenklassen. Bör vara `[A-Z0-9ÅÄÖ]+`. |
-| **AMC\*** | 3 | AMC28N, AMC29F, AMC2AE — ny ämnesprefix som troligen saknas i min subject-mapping. |
+### Vad fixades
 
-→ Att fixa Å/Ä/Ö-hanteringen + lägga till AMC skulle direkt höja vault från 1 787 till ~1 902 (115 nya). Forskarkurser är en separat scope-fråga.
+Två konkreta ändringar i `scripts/scrape_hda_kursplaner.py`:
+
+1. **URL-decoding av kurskoder** ([scripts/scrape_hda_kursplaner.py](scripts/scrape_hda_kursplaner.py) — ny hjälpfunktion `_extract_code_from_href`). Tidigare regex `code=([A-Z0-9]+)` plockade inte upp koder med Å/Ä/Ö som returneras URL-kodade (`code=GV%c3%852RU` → `GVÅ2RU`). **Effekt:** +112 kurser med svenska tecken (GFÖ\*, GVÅ\*, AVÅ\*, FÖ\*, VÅ\*, MÖ\*, AFÖ\*).
+2. **Forskarkurser-stöd** (nya `discover_forskarkurser`, `FORSKAR_PREFIX_TO_SUBJECT`, `--no-forskarkurser`-flagga). Hämtas från [du.se:s forskarutbildningsindex](https://www.du.se/sv/forskning/forskarutbildning/forskarutbildningskurser/) (utanför vanliga kursplane-indexet), routas via kurskodens prefix till rätt forskarämne + institution (du.se:s `Institution`-fält är opålitligt för delade forskarkurser). **Effekt:** +37 forskarkurser fördelade på 5 forskarämnen:
+
+```text
+01 IIT/Kursplaner/ANALYTIC/   4 forskarkurser (Data Analytics)
+01 IIT/Kursplaner/ENERGIBM/   5 forskarkurser (Energisystem i byggd miljö)
+01 IIT/Kursplaner/MIKRODAT/   5 forskarkurser (Mikrodataanalys + MIKR-legacy)
+02 IHV/Kursplaner/VÅRDVETS/   4 forskarkurser (Vårdvetenskap — FHV + FVV)
+03 IKS/Kursplaner/PEDAGARB/  19 forskarkurser (Pedagogiskt arbete — FPA)
+```
+
+Forskarkurser frontmatter:s `tags` får `forskarutbildning`. `parse_amnestillhorighet` hanterar nu också flerämnes­metadata ("Mikrodataanalys (MIKRODAT) Pedagogiskt arbete (PEDAGARB) Vårdvetenskap (VÅRDVETS)") via kursprefix-disambiguering.
+
+Sammantaget: vault växte med **+149 kurser** (1 787 → 1 936) och triangulerar nu med **1 920 av 1 923** Excel-kurser (99,8 %). Resten är Dalarnas egna inaktuella poster.
 
 ### 172 kurser unika för Blomma JSON
 

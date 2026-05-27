@@ -9,8 +9,9 @@ up: "[[IHV MOC]]"
 
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 
-## Vilande kursplaner (1 st)
-
-> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
+## Kurser (4 st)
 
 - [[FHV0001]] — Allmänvetenskaplig introduktionskurs
+- [[FHV0002]] — Systematisk litteraturöversikt, metasyntes och metaanalys
+- [[FHV0003]] — Implementeringsforskning i hälso- och välfärdsarbete
+- [[FVV222H]] — Allmänvetenskaplig introduktionskurs

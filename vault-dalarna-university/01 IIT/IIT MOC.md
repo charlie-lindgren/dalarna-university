@@ -32,7 +32,26 @@ tags: [MOC, institution, IIT]
 
 ## Ämnen
 
-- [[Data Analytics MOC|Data Analytics]] (1 kurser)
+- [[Byggteknik MOC|Byggteknik]] (81 kurser)
+- [[Data Analytics MOC|Data Analytics]] (4 kurser)
+- [[Datateknik MOC|Datateknik]] (8 kurser)
+- [[Elektroteknik MOC|Elektroteknik]] (2 kurser)
+- [[Energiteknik MOC|Energiteknik]] (44 kurser)
+- [[Fysik MOC|Fysik]] (6 kurser)
+- [[Industriell ekonomi MOC|Industriell ekonomi]] (25 kurser)
+- [[Informatik MOC|Informatik]] (52 kurser)
+- [[Maskinteknik MOC|Maskinteknik]] (22 kurser)
+- [[Matematik MOC|Matematik]] (9 kurser)
+- [[Matematikdidaktik MOC|Matematikdidaktik]] (35 kurser)
+- [[Mikrodataanalys MOC|Mikrodataanalys]] (71 kurser)
+- [[Samhällsbyggnadsteknik MOC|Samhällsbyggnadsteknik]] (16 kurser)
+- [[Statistik MOC|Statistik]] (4 kurser)
+- [[Vårdvetenskap inr omvårdnad MOC|Vårdvetenskap inr omvårdnad]] (2 kurser)
+
+## Forskarutbildningsämnen
+
+- [[Energisystem i byggd miljö MOC|Energisystem i byggd miljö]] (5 kurser)
+- [[Mikrodataanalys MOC|Mikrodataanalys]] (5 kurser)
 
 ## Kvalitetsanalys
 

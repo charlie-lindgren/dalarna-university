@@ -1636,6 +1636,25 @@ def main():
         try:
             scraped = (prefetched[code] if code in prefetched
                        else scrape_course(code))
+            if scraped == "NEDLAGD":
+                # Strökoden visade sig vara en nedlagd kursplan — radera ev.
+                # lokal fil och hoppa över.
+                removed = False
+                for inst_code_check in INST_DIR_NAME:
+                    for existing in kursplaner_dir(inst_code_check).rglob(f"{code}.md"):
+                        if args.apply:
+                            existing.unlink()
+                        removed = True
+                        if not args.quiet:
+                            verb = "raderar" if args.apply else "skulle radera"
+                            print(f"nedlagd — {verb} {existing.relative_to(VAULT)}")
+                        break
+                    if removed:
+                        break
+                if not removed and not args.quiet:
+                    print("nedlagd")
+                total_changes += 1 if removed else 0
+                continue
             if scraped is None:
                 if not args.quiet:
                     print("misslyckades")
