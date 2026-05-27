@@ -65,6 +65,35 @@ def load_files() -> list[Path]:
 GOLD_INTRO_TEXT = "Efter godkänd kurs ska studenten kunna:"
 DELKURS_INTRO_TEXT = "Efter avslutad delkurs ska den studerande kunna:"
 
+# Forskarkurser använder en parallell konvention: ``doktoranden`` eller
+# ``den forskarstuderande`` istället för ``studenten``, och en mindre strikt
+# inledning ("Efter avslutad kurs" snarare än "Efter godkänd kurs"). Båda
+# varianterna räknas som godkända introfraser för forskarkurser.
+FORSKAR_INTRO_TEXTS = {
+    "Efter avslutad kurs ska doktoranden kunna:",
+    "Efter avslutad kurs ska den forskarstuderande kunna:",
+    "Efter godkänd kurs ska doktoranden kunna:",
+    "Efter godkänd kurs ska den forskarstuderande kunna:",
+}
+
+NIVA_RE = re.compile(r'^niva:\s*"?([^"\n]+)"?', re.MULTILINE)
+
+
+def is_forskar_kurs(path: Path) -> bool:
+    """Returnerar True om kursplanen är på forskarnivå.
+
+    Identifieras via frontmatter-fältet ``niva: Forskarnivå`` (mest tillförlitligt
+    på vault-filer) eller — som fallback — via taggar/sökväg."""
+    try:
+        head = path.read_text(encoding="utf-8")[:2000]
+    except OSError:
+        return False
+    m = NIVA_RE.search(head)
+    if m and "forskar" in m.group(1).lower():
+        return True
+    return "forskarutbildning" in head[:2000]
+
+
 # Bologna-domänrubriker som legitimt får inleda en lärandemålssektion.
 # De räknas som "skip and look further" snarare än som introfraser.
 BOLOGNA_HEADING_RE = re.compile(
