@@ -474,15 +474,14 @@ def _extract_course_links(soup: BeautifulSoup, seen_codes: set) -> list[dict]:
 
 def kursplan_exists_by_code(code: str) -> bool:
     """Returnerar True om kursplan-sidan finns för koden och kursen inte
-    är markerad som nedlagd/upphörd/avvecklad."""
+    är listad som nedlagd i du.se:s discontinued-index."""
+    if code.upper() in get_discontinued_codes():
+        return False
     soup = fetch_page(SV_URL.format(code=code))
     if soup is None:
         return False
     h1 = soup.find("h1")
     if not h1 or not h1.find("span", property="name"):
-        return False
-    text_lower = soup.get_text(" ", strip=True).lower()
-    if "nedlagd" in text_lower or "upphörd" in text_lower or "avvecklad" in text_lower:
         return False
     return True
 
@@ -549,6 +548,33 @@ def discover_stray_codes_from_known(known_codes: set[str], padding: int = 0) -> 
     """
     canonical = discover_all_kursplan_codes()
     return canonical - known_codes
+
+
+_DISCONTINUED_CODES_CACHE: set[str] | None = None
+
+
+def get_discontinued_codes() -> set[str]:
+    """Lazy-laddar mängden av kurskoder som du.se markerar som nedlagda.
+
+    Auktoritativ källa för "är denna kod nedlagd?" — använder du.se:s eget
+    ``status=discontinued``-index istället för att tolka ordet "nedlagd" i
+    sidans löptext. Vissa kursplaner har metadatafältet ``Nedlagd YYYY-MM-DD``
+    (datum då kursen avvecklas) men är ändå publicerade och ska sparas — för
+    dem returnerar det här indexet ``False``, vilket är vad vi vill."""
+    global _DISCONTINUED_CODES_CACHE
+    if _DISCONTINUED_CODES_CACHE is None:
+        soup = fetch_page(
+            KURSPLAN_INDEX_URL,
+            params={"searchtype": "code", "code": "%", "status": "discontinued"},
+        )
+        codes: set[str] = set()
+        if soup is not None:
+            for a in soup.select("table#coursesTable tbody a[href*='code=']"):
+                c = _extract_code_from_href(a["href"])
+                if c:
+                    codes.add(c)
+        _DISCONTINUED_CODES_CACHE = codes
+    return _DISCONTINUED_CODES_CACHE
 
 
 # ---------------------------------------------------------------------------
@@ -699,15 +725,12 @@ def scrape_course(code: str) -> dict | None:
         return None
 
     # Nedlagda kursplaner skrapas inte — kursen ska inte längre ingå i vaulten.
-    # Returnera den speciella markören ``"NEDLAGD"`` så att anropande kod kan
-    # ta bort eventuell lokal artefakt istället för att låta den ligga kvar
-    # som inaktuell stale-data.
-    page_text_lower = sv_soup.get_text(" ", strip=True).lower()
-    if (
-        "nedlagd" in page_text_lower
-        or "upphörd" in page_text_lower
-        or "avvecklad" in page_text_lower
-    ):
+    # Auktoritativ källa är du.se:s ``status=discontinued``-index, inte ordet
+    # "nedlagd" i sidans text: vissa publicerade kursplaner har ett metadata-
+    # fält ``Nedlagd YYYY-MM-DD`` (datum då kursen läggs ned) men är ändå
+    # aktuella och ska sparas. Returnerar ``"NEDLAGD"`` om koden faktiskt
+    # listas som nedlagd, så att anropande kod kan ta bort lokal artefakt.
+    if code.upper() in get_discontinued_codes():
         return "NEDLAGD"
 
     # En kod utan kursnamn är ingen riktig kursplan (t.ex. ogiltig kod

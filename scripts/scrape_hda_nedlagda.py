@@ -25,6 +25,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(SCRIPT_DIR))
 from scrape_hda_kursplaner import (  # noqa: E402
     SV_URL,
+    _extract_code_from_href,
     extract_course_name,
     extract_metadata,
     fetch_page,
@@ -47,9 +48,9 @@ def discover_nedlagda_codes() -> set[str]:
         return set()
     codes: set[str] = set()
     for a in soup.select("table#coursesTable tbody a[href*='code=']"):
-        m = re.search(r"code=([A-Z0-9]+)", a["href"])
-        if m:
-            codes.add(m.group(1))
+        code = _extract_code_from_href(a["href"])
+        if code:
+            codes.add(code)
     return codes
 
 
