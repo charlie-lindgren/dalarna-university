@@ -35,10 +35,12 @@ qa/                         Quality-control pipeline (Python)
   populate_analysfiler.py   Fill 03 Analys/ from latest report (also writes .xlsx alongside)
   prune_analysfiler.py      Remove resolved rows from 03 Analys/
   identify_ej_aktiv.py      Tag courses no longer in du.se as ej-aktiv (orphan detector)
+  rebuild_mocs.py           Rebuild all subject + institution MOC files from vault state
   rapporter/                Timestamped course-plan QA reports
   rapporter-utb/            Timestamped programme-plan QA reports
 scripts/                    du.se scrapers
-  scrape_hda_kursplaner.py       Course-plan scraper
+  scrape_hda_kursplaner.py       Course-plan scraper (active + dormant)
+  scrape_hda_nedlagda.py         Discontinued course-plan scraper (qa/nedlagda-kursplaner/)
   scrape_hda_utbildningsplaner.py Programme-plan scraper
 hda.sh                      Interactive menu for the full workflow
 ```
