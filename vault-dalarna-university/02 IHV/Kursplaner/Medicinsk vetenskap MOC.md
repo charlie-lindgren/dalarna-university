@@ -7,14 +7,15 @@ up: "[[IHV MOC]]"
 
 # Medicinsk vetenskap MOC
 
-> Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
+> Forskarutbildningsämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 
-## Kurser (7 st)
+## Kurser (2 st)
 
-- [[AMC288]] — Fysisk aktivitet och träning som prevention och behandling
-- [[AMC2BG]] — Förskrivningsrätt för vissa läkemedel och förbrukningsartiklar
-- [[GMC32X]] — Vård och behandling vid blås- och tarmdysfunktion
-- [[GMC37E]] — Anatomi och fysiologi för sjuksköterskor II
-- [[GMC37F]] — Farmakologi, mikrobiologi och immunologi
-- [[GMC37T]] — Anatomi och fysiologi för sjuksköterskor I
-- [[MC1072]] — Anatomi och fysiologi I
+- [[AMC28N]] — Evidensbaserat arbetssätt och forskningsmetodik inom fysioterapi
+- [[AMC29F]] — Examensarbete för magisterexamen i fysioterapi
+
+## Vilande kursplaner (1 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
+
+- [[AMC2AE]] — Fysioterapi med fokus på smärta och hållbar utveckling
