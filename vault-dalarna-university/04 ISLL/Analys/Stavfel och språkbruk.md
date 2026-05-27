@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (6 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (5 rader)</span></a>
 
-> [!example]- 6 fynd — klicka för att expandera
+> [!example]- 5 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -19,7 +19,6 @@ status: första pass
 > | [GKI3CB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3CB) | KIA | Dubblerat ord | `and` — …cate unhindered in Chinese on a variety of topics    - read and and understand short authentic Chinese texts    - compose short… |
 > | [KI1030](https://www.du.se/sv/utbildning/kurser/kursplan/?code=KI1030) | KIA | Dubblerat ord | `and` — …s such as education, sports, and environment etc.    - read and and comprehend short authentic Chinese texts    - compose short… |
 > | [GPR2W2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR2W2) | PRA | Dubblerat ord | `languages` — …cific context and to analyse the dynamics between different languages languages and linguistic varieties from a societal perspective. In th… |
-> | [HAFSA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=HAFSA) | Utbildningsplaner | Felstavning | `västafrika` (sv) |
 
 ## Syfte
 

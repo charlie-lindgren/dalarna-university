@@ -195,16 +195,18 @@ def load_index(refresh: bool = False) -> NedlagdaIndex:
 #   2. ``- <a class="no-graph" href="CODE">namn</a>, hp``  (aktiv, korsinst.)
 #   3. ``- Namn, hp``             (oklassad — kan vara nedlagd)
 _BULLET_WIKILINK = re.compile(
-    r'^\s*-\s*\[\[([A-Z0-9]+)\|([^\]]+)\]\]\s*,\s*([\d.,]+\s*hp)',
+    r'^\s*-\s*\[\[([A-ZÅÄÖ0-9]+)\|([^\]]+)\]\]\s*,\s*([\d.,]+\s*hp)',
     re.I,
 )
 _BULLET_NOGRAPH = re.compile(
-    r'^\s*-\s*<a class="no-graph" href="([A-Z0-9]+)">([^<]+)</a>\s*,\s*([\d.,]+\s*hp)',
+    r'^\s*-\s*<a class="no-graph" href="([A-ZÅÄÖ0-9]+)">([^<]+)</a>\s*,\s*([\d.,]+\s*hp)',
     re.I,
 )
 # Plain-text bullet kräver ``, N hp`` i slutet och avvisar wikilink/anchor.
+# `\s+` (inte `\s*`) efter bindestrecket så att negativ-lookahead inte kan
+# kringgås via backtracking när raden börjar med `- [[` eller `- <a`.
 _BULLET_PLAIN = re.compile(
-    r'^\s*-\s*(?![\[<])(.+?)\s*,\s*(\d+(?:[,.]\d+)?\s*hp)\s*$',
+    r'^\s*-\s+(?![\[<])(.+?)\s*,\s*(\d+(?:[,.]\d+)?\s*hp)\s*$',
     re.I,
 )
 
@@ -253,6 +255,80 @@ def scan_programme_bullets(text: str) -> list[dict]:
 # ─────────────────────────────────────────────────────────────────────────────
 # Check — nedlagda referenser i utbildningsplaner
 # ─────────────────────────────────────────────────────────────────────────────
+
+# Mönsterord som signalerar att en bullet beskriver ett alternativ-/valblock
+# snarare än en enskild kurs.
+_ALT_PATTERNS = re.compile(
+    r"\b(eller|alternativt|valbar|valbara|valbart)\b|\s/\s",
+    re.I,
+)
+
+# Indikatorer på att raden trunkerats (oavslutad parentes/snedstreck).
+_TRUNCATED_PATTERNS = (
+    lambda s: s.count("(") != s.count(")"),
+    lambda s: s.endswith((" eller", " och", ",", "/")),
+)
+
+
+def _classify_unlinked_bullet(name: str, active: set, index: "NedlagdaIndex") -> str:
+    """Klassa ett olänkat kursnamn till en av:
+
+    - ``scraper-miss``     — kursnamnet finns aktivt; vår scraper kunde inte länka
+    - ``program-alternativ``— bullet beskriver ett val ("X eller Y") eller "valbar"
+    - ``trunkerad-rad``    — oavslutad parentes eller hängande konjunktion
+    - ``nedlagd``          — kursnamnet matchar en nedlagd kursplan
+    - ``okand-kurs``       — inget av ovan; sannolikt felstavning eller obefintlig kurs
+    """
+    if _aggressive(name) in active:
+        return "scraper-miss"
+    if any(test(name) for test in _TRUNCATED_PATTERNS):
+        return "trunkerad-rad"
+    if _ALT_PATTERNS.search(name):
+        return "program-alternativ"
+    if index.lookup_name(name):
+        return "nedlagd"
+    return "okand-kurs"
+
+
+def check_olankade_kursreferenser(files: list[Path]) -> list[dict]:
+    """Flaggar olänkade kursbullets i utbildningsplaner och klassar varför.
+
+    Kompletterar ``check_nedlagda_refs_utb`` genom att också rapportera fall där
+    en kurs *finns aktivt* men programmet inte länkar till den (scraper-bug),
+    samt fall där kursnamnet inte alls kan matchas mot HDa:s katalog (okänd
+    kurs — sannolikt felstavning eller obefintlig kurs som programmet hänvisar
+    till). Alternativ-bullets ("X eller Y") och trunkerade rader särskiljs så
+    att de inte drunknar i bruset."""
+    index = load_index()
+    active_titles = _load_active_titles()
+    findings: list[dict] = []
+    for path in files:
+        try:
+            text = path.read_text(encoding="utf-8")
+        except OSError:
+            continue
+        prog_code = path.stem
+        for bullet in scan_programme_bullets(text):
+            if bullet["form"] != "plain":
+                continue
+            kind = _classify_unlinked_bullet(bullet["name"], active_titles, index)
+            if kind == "nedlagd":
+                # Hanteras av check_nedlagda_refs_utb — undvik dubbletter.
+                continue
+            check_label = {
+                "scraper-miss":        "olankad-scraper-miss",
+                "program-alternativ":  "olankad-alternativbullet",
+                "trunkerad-rad":       "olankad-trunkerad-rad",
+                "okand-kurs":          "olankad-okand-kurs",
+            }[kind]
+            findings.append({
+                "check": check_label,
+                "code": prog_code,
+                "subj": "Utbildningsplan",
+                "detail": f"`{bullet['name']}` ({bullet['hp']}); rad: {bullet['line']}",
+            })
+    return findings
+
 
 def check_nedlagda_refs_utb(files: list[Path]) -> list[dict]:
     """Flaggar utbildningsplaner som listar nedlagda kurser.

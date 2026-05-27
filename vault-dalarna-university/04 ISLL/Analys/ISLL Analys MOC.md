@@ -21,6 +21,7 @@ ISLL som flaggas av respektive kontroll.
 - [[04 ISLL/Analys/Introfras|Introfras]]
 - [[04 ISLL/Analys/Nedlagda kursreferenser|Nedlagda kursreferenser]]
 - [[04 ISLL/Analys/Omfång på lärandemål|Omfång på lärandemål]]
+- [[04 ISLL/Analys/Programkurser olankade|Programkurser olänkade]]
 - [[04 ISLL/Analys/Samstämmighet svenska och engelska|Samstämmighet svenska och engelska]]
 - [[04 ISLL/Analys/Stavfel och språkbruk|Stavfel och språkbruk]]
 - [[04 ISLL/Analys/Vilande kursplaner|Vilande kursplaner]]

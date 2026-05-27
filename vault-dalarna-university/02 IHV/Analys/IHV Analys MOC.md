@@ -21,6 +21,7 @@ IHV som flaggas av respektive kontroll.
 - [[02 IHV/Analys/Introfras|Introfras]]
 - [[02 IHV/Analys/Nedlagda kursreferenser|Nedlagda kursreferenser]]
 - [[02 IHV/Analys/Omfång på lärandemål|Omfång på lärandemål]]
+- [[02 IHV/Analys/Programkurser olankade|Programkurser olänkade]]
 - [[02 IHV/Analys/Samstämmighet svenska och engelska|Samstämmighet svenska och engelska]]
 - [[02 IHV/Analys/Stavfel och språkbruk|Stavfel och språkbruk]]
 - [[02 IHV/Analys/Vilande kursplaner|Vilande kursplaner]]

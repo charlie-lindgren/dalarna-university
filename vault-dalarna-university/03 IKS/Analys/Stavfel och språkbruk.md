@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (21 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (8 rader)</span></a>
 
-> [!example]- 21 fynd — klicka för att expandera
+> [!example]- 8 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -22,19 +22,6 @@ status: första pass
 > | [GSO2PL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO2PL) | SOA | Dubblerat ord | `credits` — …7.5 credits, Psychological Perspectives on Social Work 7.5 credits credits and Welfare Measures and User Perspective 15 credits… |
 > | [GTR2DG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2DG) | TRU | Dubblerat ord | `the` — …earch. The course is organised into two parts. In part one, the The course introduces students to quantitative research. The co… |
 > | [TR3006](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR3006) | TRU | Dubblerat ord | `the` — …- Independently identify and analyze scientific problems in the the relevant field of knowledge and conduct and report on a pro… |
-> | [KAPSG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KAPSG) | Utbildningsplaner | Felstavning | `jörgensen` (sv) |
-> | [KFPPG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFPPG) | Utbildningsplaner | Felstavning | `göran` (sv) |
-> | [KFTKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFTKG) | Utbildningsplaner | Felstavning | `åsa` (sv) |
-> | [KMLJG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KMLJG) | Utbildningsplaner | Felstavning | `påbyggbar` (sv) |
-> | [KMPTG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KMPTG) | Utbildningsplaner | Felstavning | `thorbjörn` (sv) |
-> | [LVALA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LVALA) | Utbildningsplaner | Felstavning | `fändrik` (sv) |
-> | [LVALA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LVALA) | Utbildningsplaner | Felstavning | `grundlärar` (sv) |
-> | [LVALA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LVALA) | Utbildningsplaner | Felstavning | `umeå` (sv) |
-> | [LVALA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LVALA) | Utbildningsplaner | Felstavning | `ämneslärar` (sv) |
-> | [SENGR](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SENGR) | Utbildningsplaner | Felstavning | `utgångpunkt` (sv) |
-> | [SENGR](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SENGR) | Utbildningsplaner | Felstavning | `väldfärdsanalys` (sv) |
-> | [SPARG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SPARG) | Utbildningsplaner | Felstavning | `enström` (sv) |
-> | [SSHVG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SSHVG) | Utbildningsplaner | Felstavning | `möjliggörandet` (sv) |
 
 ## Syfte
 

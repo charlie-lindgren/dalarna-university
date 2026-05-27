@@ -29,7 +29,11 @@ from checks_common import (
     check_hunspell_sv,
     check_known_typos,
 )
-from checks_nedlagda import check_nedlagda_refs_utb, load_index
+from checks_nedlagda import (
+    check_nedlagda_refs_utb,
+    check_olankade_kursreferenser,
+    load_index,
+)
 
 VAULT = Path(__file__).resolve().parent.parent / "vault-dalarna-university"
 INST_DIRS = ["01 IIT", "02 IHV", "03 IKS", "04 ISLL"]
@@ -45,11 +49,15 @@ def load_files() -> list[Path]:
 
 
 CHECK_LABELS = {
-    "dubblerat-ord":       "Dubblerat ord",
-    "känd-felstavning":    "Känd felstavning",
-    "stavning-sv":         "Stavfel (svenska)",
-    "stavning-en":         "Stavfel (engelska)",
-    "nedlagd-kursreferens": "Nedlagd kursreferens",
+    "dubblerat-ord":              "Dubblerat ord",
+    "känd-felstavning":           "Känd felstavning",
+    "stavning-sv":                "Stavfel (svenska)",
+    "stavning-en":                "Stavfel (engelska)",
+    "nedlagd-kursreferens":       "Nedlagd kursreferens",
+    "olankad-okand-kurs":         "Okänd kursreferens i program",
+    "olankad-scraper-miss":       "Aktiv kurs olänkad (scraper-miss)",
+    "olankad-alternativbullet":   "Alternativ-bullet (val mellan kurser)",
+    "olankad-trunkerad-rad":      "Trunkerad kursrad",
 }
 
 
@@ -74,12 +82,15 @@ def main():
         steps.append(("Hunspell engelska", check_hunspell_en))
 
     # Nedlagda-referenscheck körs bara om QA-cachen finns. Saknas den
-    # informerar vi tyst — användaren kan köra menyval 7 för att fylla på.
+    # informerar vi tyst — användaren kan köra menyval 8 för att fylla på.
     if len(load_index()) > 0:
         steps.append(("Nedlagda kursreferenser", check_nedlagda_refs_utb))
     else:
         print("  (Hoppar nedlagda-check — qa/nedlagda-kursplaner/ är tom; "
-              "kör menyval 7 för att fylla cachen.)", file=sys.stderr)
+              "kör menyval 8 för att fylla cachen.)", file=sys.stderr)
+
+    # Klassificering av olänkade programkursbullets (oavsett nedlagda-cache).
+    steps.append(("Olänkade kursreferenser", check_olankade_kursreferenser))
 
     for label, fn in steps:
         print(f"  {label}…", file=sys.stderr)
