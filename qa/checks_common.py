@@ -244,6 +244,9 @@ SV_IGNORE = {
     "studieförb","longterm","shortterm","tobbit","lärarlagsarbete",
     "lärstrategier","rättsäkerhetsproblematiken","lärarprofessionsspecifika",
     "obestånds",
+    # Utbildningsplaner — fältspecifika sammansättningar + egennamn
+    "mjukvarutestningsområdena","mjukvarutestningsområdet",
+    "förutbildningen","römsing","pär",
 }
 HAS_SV = re.compile(r"[åäöÅÄÖ]")
 
