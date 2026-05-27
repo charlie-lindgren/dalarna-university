@@ -76,22 +76,22 @@ FORSKAR_INTRO_TEXTS = {
     "Efter godkänd kurs ska den forskarstuderande kunna:",
 }
 
-NIVA_RE = re.compile(r'^niva:\s*"?([^"\n]+)"?', re.MULTILINE)
+_NIVA_HEAD_RE = re.compile(r'^niva:\s*"?([^"\n]+)"?', re.MULTILINE)
 
 
 def is_forskar_kurs(path: Path) -> bool:
     """Returnerar True om kursplanen är på forskarnivå.
 
     Identifieras via frontmatter-fältet ``niva: Forskarnivå`` (mest tillförlitligt
-    på vault-filer) eller — som fallback — via taggar/sökväg."""
+    på vault-filer) eller — som fallback — via ``forskarutbildning``-taggen."""
     try:
         head = path.read_text(encoding="utf-8")[:2000]
     except OSError:
         return False
-    m = NIVA_RE.search(head)
+    m = _NIVA_HEAD_RE.search(head)
     if m and "forskar" in m.group(1).lower():
         return True
-    return "forskarutbildning" in head[:2000]
+    return "forskarutbildning" in head
 
 
 # Bologna-domänrubriker som legitimt får inleda en lärandemålssektion.
@@ -189,6 +189,10 @@ def check_frasning(files: list[Path]) -> list[dict]:
         if first_line == GOLD_INTRO_TEXT:
             continue
         if first_line == DELKURS_INTRO_TEXT:
+            continue
+        # Forskarkurser har sin egen konvention med ``doktoranden`` /
+        # ``den forskarstuderande`` istället för ``studenten``.
+        if is_forskar_kurs(p) and first_line in FORSKAR_INTRO_TEXTS:
             continue
         snippet = first_line[:120]
         findings.append({

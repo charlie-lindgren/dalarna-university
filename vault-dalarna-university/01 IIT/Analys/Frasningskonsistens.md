@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Frasningskonsistens.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (105 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Frasningskonsistens.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (98 rader)</span></a>
 
-> [!example]- 105 fynd — klicka för att expandera
+> [!example]- 98 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -32,9 +32,6 @@ status: första pass
 > | [GDT2JM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT2JM) | DTA | Avviker från referensformen | Efter avslutad kurs skall studenten kunna:… |
 > | [GDT2JN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT2JN) | DTA | Avviker från referensformen | Efter avslutad kurs skall studenten kunna:… |
 > | [GDT34Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT34Z) | DTA | Avviker från referensformen | Efter godkänd kurs skall studenten kunna:… |
-> | [FEB222K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222K) | ENERGIBM | Avviker från referensformen | Efter avslutad kurs ska doktoranden kunna:… |
-> | [FEB222L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222L) | ENERGIBM | Avviker från referensformen | Efter avslutad kurs ska doktoranden kunna:… |
-> | [FEB222M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222M) | ENERGIBM | Avviker från referensformen | Efter avslutad kurs ska doktoranden kunna:… |
 > | [ET1029](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ET1029) | ETA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [GIK28T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK28T) | IKA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna… |
 > | [GIK29B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK29B) | IKA | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
@@ -65,10 +62,6 @@ status: första pass
 > | [MD2024](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2024) | MDI | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [MD2025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2025) | MDI | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [MD2026](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2026) | MDI | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
-> | [FMI2222](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2222) | MIKRODAT | Avviker från referensformen | Efter avslutad kurs ska doktoranden kunna:… |
-> | [FMI2223](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2223) | MIKRODAT | Avviker från referensformen | Efter avslutad kurs ska doktoranden kunna:… |
-> | [FMI2224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2224) | MIKRODAT | Avviker från referensformen | Efter avslutad kurs ska doktoranden kunna:… |
-> | [FMI2229](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2229) | MIKRODAT | Avviker från referensformen | Efter avslutad kurs ska doktoranden kunna:… |
 > | [MIKR002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MIKR002) | MIKRODAT | Avviker från referensformen | Efter avslutad kurs ska studenten kunna… |
 > | [GMT228](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT228) | MTA | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | [GMT25Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT25Z) | MTA | Avviker från referensformen | Efter godkänd kurs ska studenten kunna:… |
