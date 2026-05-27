@@ -4,13 +4,13 @@ kursnamn: "Kurs för doktorandseminarier"
 course_name: "Doctoral seminar course"
 hp: 3 högskolepoäng
 niva: "Forskarnivå"
-amne: "Energisystem i byggd miljö"
+amne: "Forskarämne Energisystem i byggd miljö"
 amne_kod: "ENERGIBM"
 institution: "IIT"
 tags: [kursplan, ENERGIBM, IIT, forskarutbildning]
 scrape_hash: 4e20c42e969e8ef1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222M
-up: "[[Energisystem i byggd miljö MOC]]"
+up: "[[Forskarämne Energisystem i byggd miljö MOC]]"
 ---
 
 # FEB222M

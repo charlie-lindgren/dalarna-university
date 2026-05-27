@@ -43,26 +43,31 @@ tags: [MOC, institution, IKS]
 
 ## Ämnen
 
-- [[Arbetsvetenskap MOC|Arbetsvetenskap]] (26 kurser)
-- [[Bild MOC|Bild]] (13 kurser)
-- [[Bildproduktion MOC|Bildproduktion]] (32 kurser)
-- [[Entreprenörskap och innovationsteknik MOC|Entreprenörskap och innovationsteknik]] (12 kurser)
-- [[Filosofi MOC|Filosofi]] (11 kurser)
-- [[Företagsekonomi MOC|Företagsekonomi]] (51 kurser)
-- [[Historia MOC|Historia]] (43 kurser)
-- [[Kulturgeografi MOC|Kulturgeografi]] (4 kurser)
-- [[Ljud- och musikproduktion MOC|Ljud- och musikproduktion]] (25 kurser)
-- [[Medieproduktion MOC|Medieproduktion]] (30 kurser)
-- [[Nationalekonomi MOC|Nationalekonomi]] (26 kurser)
-- [[Pedagogik MOC|Pedagogik]] (2 kurser)
-- [[Pedagogiskt arbete MOC|Pedagogiskt arbete]] (170 kurser)
-- [[Pedagogiskt arbete MOC|Pedagogiskt arbete]] (19 kurser)
-- [[Personal och arbetsliv MOC|Personal och arbetsliv]] (23 kurser)
-- [[Religionsvetenskap MOC|Religionsvetenskap]] (40 kurser)
-- [[Rättsvetenskap MOC|Rättsvetenskap]] (14 kurser)
-- [[Sociologi MOC|Sociologi]] (16 kurser)
-- [[Statsvetenskap MOC|Statsvetenskap]] (36 kurser)
-- [[Turismvetenskap MOC|Turismvetenskap]] (35 kurser)
+- [[Afrikanska studier MOC|Afrikanska studier]] (19 kurser)
+- [[Arbetsvetenskap MOC|Arbetsvetenskap]] (42 kurser)
+- [[Bild MOC|Bild]] (9 kurser)
+- [[Bildproduktion MOC|Bildproduktion]] (62 kurser)
+- [[Entreprenörskap och innovationsteknik MOC|Entreprenörskap och innovationsteknik]] (17 kurser)
+- [[Filosofi MOC|Filosofi]] (22 kurser)
+- [[Företagsekonomi MOC|Företagsekonomi]] (41 kurser)
+- [[Historia MOC|Historia]] (63 kurser)
+- [[Industriell ekonomi MOC|Industriell ekonomi]] (2 kurser)
+- [[Kulturgeografi MOC|Kulturgeografi]] (23 kurser)
+- [[Ljud- och musikproduktion MOC|Ljud- och musikproduktion]] (57 kurser)
+- [[Medieproduktion MOC|Medieproduktion]] (32 kurser)
+- [[Nationalekonomi MOC|Nationalekonomi]] (34 kurser)
+- [[Pedagogik MOC|Pedagogik]] (44 kurser)
+- [[Pedagogiskt arbete MOC|Pedagogiskt arbete]] (109 kurser)
+- [[Personal och arbetsliv MOC|Personal och arbetsliv]] (18 kurser)
+- [[Religionsvetenskap MOC|Religionsvetenskap]] (37 kurser)
+- [[Rättsvetenskap MOC|Rättsvetenskap]] (33 kurser)
+- [[Sociologi MOC|Sociologi]] (17 kurser)
+- [[Statsvetenskap MOC|Statsvetenskap]] (38 kurser)
+- [[Turismvetenskap MOC|Turismvetenskap]] (45 kurser)
+
+## Forskarutbildningsämnen
+
+- [[Forskarämne Pedagogiskt arbete MOC|Forskarämne Pedagogiskt arbete]] (19 kurser)
 
 ## Kvalitetsanalys
 

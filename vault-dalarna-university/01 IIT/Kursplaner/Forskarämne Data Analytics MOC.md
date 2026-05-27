@@ -1,13 +1,13 @@
 ---
-aliases: [Data Analytics]
+aliases: [Forskarämne Data Analytics]
 cssclasses: [moc-page]
 tags: [MOC, amne, ANALYTIC, IIT]
 up: "[[IIT MOC]]"
 ---
 
-# Data Analytics MOC
+# Forskarämne Data Analytics MOC
 
-> Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
+> Forskarutbildningsämne vid Institutionen för information och teknik, Högskolan Dalarna.
 
 ## Kurser (4 st)
 

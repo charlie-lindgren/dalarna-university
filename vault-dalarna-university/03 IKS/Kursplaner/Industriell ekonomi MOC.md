@@ -8,6 +8,7 @@ up: "[[IKS MOC]]"
 # Industriell ekonomi MOC
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Huvudområde: Industriell ekonomi 1
 
 ## Kurser (2 st)
 

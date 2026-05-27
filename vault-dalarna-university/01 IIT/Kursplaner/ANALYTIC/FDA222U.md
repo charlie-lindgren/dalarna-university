@@ -4,13 +4,13 @@ kursnamn: "Datainsamling och datakvalitet"
 course_name: "Data Collection and Data Quality"
 hp: 5 högskolepoäng
 niva: "Forskarnivå"
-amne: "Data Analytics"
+amne: "Forskarämne Data Analytics"
 amne_kod: "ANALYTIC"
 institution: "IIT"
 tags: [kursplan, ANALYTIC, IIT, forskarutbildning]
 scrape_hash: f7fd89ad8aeed090
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222U
-up: "[[Data Analytics MOC]]"
+up: "[[Forskarämne Data Analytics MOC]]"
 ---
 
 # FDA222U

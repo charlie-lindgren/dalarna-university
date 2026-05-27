@@ -8,6 +8,7 @@ up: "[[IKS MOC]]"
 # Bild MOC
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Huvudområde: Ej huvudområde 1
 
 ## Kurser (7 st)
 
@@ -18,3 +19,10 @@ up: "[[IKS MOC]]"
 - [[GBP32W]] — Bild I med didaktisk inriktning
 - [[GBP34H]] — Bild II med didaktisk inriktning
 - [[GBP365]] — Bild III med didaktisk inriktning för gymnasieskolan
+
+## Vilande kursplaner (2 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
+
+- [[GBP3BB]] — Fotografiskt bildskapande A
+- [[GBP3BC]] — Fotografiskt bildskapande B

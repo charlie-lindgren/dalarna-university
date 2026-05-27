@@ -8,8 +8,9 @@ up: "[[IIT MOC]]"
 # Energiteknik MOC
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
+> Huvudområde: Solenergiteknik 1
 
-## Kurser (33 st)
+## Kurser (34 st)
 
 - [[AEG26X]] — Design av PV- och hybridsystem
 - [[AEG294]] — Energipositiva stadsdelar
@@ -36,6 +37,7 @@ up: "[[IIT MOC]]"
 - [[GEG2UE]] — Energieffektivisering
 - [[GEG2ZR]] — Introduktion till hållbara energisystem
 - [[GEG33B]] — Installation av solcellsanläggningar
+- [[GEG38F]] — Grundläggande energiteknik
 - [[GEG39Y]] — Elkraftteknik
 - [[GEG39Z]] — Aktiva elnät
 - [[GEG3A2]] — Solel (grundnivå)
@@ -45,9 +47,28 @@ up: "[[IIT MOC]]"
 - [[GEG3DV]] — Förnybar Energiteknik
 - [[GEG3FM]] — Vetenskaplig metodik och kommunikation
 
-## Vilande kursplaner (2 st)
+## Vilande kursplaner (21 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
-- [[GEG38F]] — Grundläggande energiteknik
+- [[AEG225]] — Solenergins ekonomi
+- [[AEG22R]] — Tillämpad solenergiteknik
+- [[AEG233]] — Solel
+- [[AEG2AV]] — Hållbarhet hos solenergisystem
+- [[AEG2AW]] — Urbana energisystem
+- [[AEG2AX]] — Elnätsintegrering av förnybar kraft
+- [[AEG2AY]] — Elektriska lagringssystem och tjänster
+- [[AEG2B5]] — Projektkurs 3 - grupprojekt och kommunikation
+- [[BEG222]] — Grundläggande forskningsmetodik
+- [[EG3007]] — Solvärme
+- [[EG3012]] — Hållbara energisystem
+- [[EG3015]] — Solstrålning och solgeometri
+- [[EG3017]] — Solenergiteknikpraktik
+- [[EG3018]] — Solenergiteknikpraktik
+- [[EG4001]] — Examensarbete för masterexamen i solenergiteknik
+- [[GEG26J]] — Vetenskaplig kommunikation
+- [[GEG2UL]] — Förnybar kraftgenerering
+- [[GEG2ZQ]] — Solenergi
+- [[GEG33A]] — Installation av solcellssystem
+- [[GEG3FY]] — Praktik inom energiteknik
 - [[MÖ4005]] — Projektkurs i solenergisystem eller energieffektiva byggnader

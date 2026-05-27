@@ -4,13 +4,13 @@ kursnamn: "Datadrivet beslutsfattande"
 course_name: "Data-Driven Decision-Making"
 hp: 7,5 högskolepoäng
 niva: "Forskarnivå"
-amne: "Data Analytics"
+amne: "Forskarämne Data Analytics"
 amne_kod: "ANALYTIC"
 institution: "IIT"
 tags: [kursplan, ANALYTIC, IIT, forskarutbildning]
 scrape_hash: 84af28b169428b2f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222T
-up: "[[Data Analytics MOC]]"
+up: "[[Forskarämne Data Analytics MOC]]"
 ---
 
 # FDA222T

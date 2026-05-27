@@ -4,13 +4,13 @@ kursnamn: "Vetenskapsteori och forskningsetik"
 course_name: "Epistemology and Research Ethics"
 hp: 7,5 högskolepoäng
 niva: "Forskarnivå"
-amne: "Pedagogiskt arbete"
+amne: "Forskarämne Pedagogiskt arbete"
 amne_kod: "PEDAGARB"
 institution: "IKS"
 tags: [kursplan, PEDAGARB, IKS, forskarutbildning]
 scrape_hash: a21ab28227c2b3d5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222A
-up: "[[Pedagogiskt arbete MOC]]"
+up: "[[Forskarämne Pedagogiskt arbete MOC]]"
 ---
 
 # FPA222A

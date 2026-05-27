@@ -32,26 +32,26 @@ tags: [MOC, institution, IIT]
 
 ## Ämnen
 
-- [[Byggteknik MOC|Byggteknik]] (81 kurser)
-- [[Data Analytics MOC|Data Analytics]] (4 kurser)
-- [[Datateknik MOC|Datateknik]] (8 kurser)
+- [[Byggteknik MOC|Byggteknik]] (46 kurser)
+- [[Datateknik MOC|Datateknik]] (4 kurser)
 - [[Elektroteknik MOC|Elektroteknik]] (2 kurser)
-- [[Energiteknik MOC|Energiteknik]] (44 kurser)
+- [[Energiteknik MOC|Energiteknik]] (55 kurser)
 - [[Fysik MOC|Fysik]] (6 kurser)
-- [[Industriell ekonomi MOC|Industriell ekonomi]] (25 kurser)
-- [[Informatik MOC|Informatik]] (52 kurser)
-- [[Maskinteknik MOC|Maskinteknik]] (22 kurser)
+- [[Industriell ekonomi MOC|Industriell ekonomi]] (2 kurser)
+- [[Informatik MOC|Informatik]] (54 kurser)
+- [[Maskinteknik MOC|Maskinteknik]] (32 kurser)
 - [[Matematik MOC|Matematik]] (9 kurser)
-- [[Matematikdidaktik MOC|Matematikdidaktik]] (35 kurser)
-- [[Mikrodataanalys MOC|Mikrodataanalys]] (71 kurser)
-- [[Samhällsbyggnadsteknik MOC|Samhällsbyggnadsteknik]] (16 kurser)
-- [[Statistik MOC|Statistik]] (4 kurser)
+- [[Matematikdidaktik MOC|Matematikdidaktik]] (37 kurser)
+- [[Mikrodataanalys MOC|Mikrodataanalys]] (21 kurser)
+- [[Samhällsbyggnadsteknik MOC|Samhällsbyggnadsteknik]] (21 kurser)
+- [[Statistik MOC|Statistik]] (2 kurser)
 - [[Vårdvetenskap inr omvårdnad MOC|Vårdvetenskap inr omvårdnad]] (2 kurser)
 
 ## Forskarutbildningsämnen
 
-- [[Energisystem i byggd miljö MOC|Energisystem i byggd miljö]] (5 kurser)
-- [[Mikrodataanalys MOC|Mikrodataanalys]] (5 kurser)
+- [[Forskarämne Data Analytics MOC|Forskarämne Data Analytics]] (4 kurser)
+- [[Forskarämne Energisystem i byggd miljö MOC|Forskarämne Energisystem i byggd miljö]] (5 kurser)
+- [[Forskarämne Mikrodataanalys MOC|Forskarämne Mikrodataanalys]] (5 kurser)
 
 ## Kvalitetsanalys
 

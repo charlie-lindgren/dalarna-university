@@ -8,6 +8,7 @@ up: "[[IIT MOC]]"
 # Byggteknik MOC
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
+> Huvudområde: Ej huvudområde 1
 
 ## Kurser (38 st)
 
@@ -49,3 +50,16 @@ up: "[[IIT MOC]]"
 - [[GBY3AX]] — Husbyggnadsprojekt III - Byggkonstruktionsprojekt
 - [[GBY3DW]] — Resurseffektivt byggande
 - [[GBY3DX]] — Väg- och trafikplanering
+
+## Vilande kursplaner (8 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
+
+- [[BY1047]] — Bärkraftigt byggande och boende
+- [[BY1059]] — Praktisk byggteknik
+- [[BY1061]] — Installationsteknik och dimensionering
+- [[BY1065]] — BIM projekt och projektering
+- [[BY2016]] — Examensarbete i byggteknik för högskoleingenjörsexamen
+- [[BY2022]] — Energiprojekt
+- [[BY3005]] — Hållbar samhällsplanering
+- [[GBY34B]] — Vägplanering

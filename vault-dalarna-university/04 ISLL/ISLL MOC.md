@@ -12,8 +12,8 @@ tags: [MOC, institution, ISLL]
 
 - <a class="no-graph" href="LLF3A">LLF3A</a> — Grundlärarprogrammet förskoleklass och grundskolans årskurs 1-3
 - <a class="no-graph" href="LLL3A">LLL3A</a> — Grundlärarprogrammet förskoleklass och grundskolans årskurs 1-3
-- <a class="no-graph" href="LLP6A">LLP6A</a> — Grundlärarprogrammet grundskolans årskurs 4-6
 - <a class="no-graph" href="LLL6A">LLL6A</a> — Grundlärarprogrammet grundskolans årskurs 4-6
+- <a class="no-graph" href="LLP6A">LLP6A</a> — Grundlärarprogrammet grundskolans årskurs 4-6
 - <a class="no-graph" href="LL46A">LL46A</a> — Grundlärarprogrammet grundskolans årskurs 4-6 arbetsintegrerad utbildning
 - <a class="no-graph" href="LUGYA">LUGYA</a> — Kompletterande pedagogisk utbildning, inriktning gymnasieskolan
 - <a class="no-graph" href="LU79A">LU79A</a> — Kompletterande pedagogisk utbildning, inriktning årskurs 7–9
@@ -28,18 +28,18 @@ tags: [MOC, institution, ISLL]
 
 ## Ämnen
 
-- [[Arabiska MOC|Arabiska]] (17 kurser)
-- [[Engelska MOC|Engelska]] (76 kurser)
-- [[Franska MOC|Franska]] (46 kurser)
-- [[Italienska MOC|Italienska]] (19 kurser)
-- [[Japanska MOC|Japanska]] (21 kurser)
-- [[Kinesiska MOC|Kinesiska]] (34 kurser)
-- [[Portugisiska MOC|Portugisiska]] (30 kurser)
-- [[Ryska MOC|Ryska]] (25 kurser)
-- [[Spanska MOC|Spanska]] (37 kurser)
+- [[Arabiska MOC|Arabiska]] (27 kurser)
+- [[Engelska MOC|Engelska]] (71 kurser)
+- [[Franska MOC|Franska]] (47 kurser)
+- [[Italienska MOC|Italienska]] (29 kurser)
+- [[Japanska MOC|Japanska]] (35 kurser)
+- [[Kinesiska MOC|Kinesiska]] (37 kurser)
+- [[Portugisiska MOC|Portugisiska]] (23 kurser)
+- [[Ryska MOC|Ryska]] (27 kurser)
+- [[Spanska MOC|Spanska]] (24 kurser)
 - [[Svenska MOC|Svenska]] (16 kurser)
-- [[Svenska som andraspråk MOC|Svenska som andraspråk]] (60 kurser)
-- [[Tyska MOC|Tyska]] (49 kurser)
+- [[Svenska som andraspråk MOC|Svenska som andraspråk]] (63 kurser)
+- [[Tyska MOC|Tyska]] (45 kurser)
 
 ## Kvalitetsanalys
 

@@ -8,6 +8,7 @@ up: "[[ISLL MOC]]"
 # Engelska MOC
 
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
+> Huvudområde: Engelskspråkig litteratur 1 Interkulturella litteraturstudier 2
 
 ## Kurser (52 st)
 
@@ -63,3 +64,27 @@ up: "[[ISLL MOC]]"
 - [[GEN3DK]] — Engelska III: Fokus litteratur
 - [[GEN3E6]] — Introduktion till engelsk lingvistik
 - [[GEN3E7]] — Brittisk och amerikansk litteratur- och idéhistoria
+
+## Vilande kursplaner (19 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
+
+- [[AEN2BR]] — Interkulturella litteraturstudier: Akademisk läsning
+- [[EN1086]] — Engelsk språkstruktur
+- [[EN1129]] — Engelska: Skriftlig språkfärdighet
+- [[EN2025]] — Litteratur och teori
+- [[EN2037]] — Social variation, språkkontakt och språklig makt i engelskan
+- [[EN2046]] — Engelska III, inklusive examensarbete 1 för ämneslärarexamen, gy
+- [[EN2047]] — Engelska III, examensarbete 1 för ämneslärarexamen, åk 7-9
+- [[EN3029]] — Engelska: Samtida irländsk skönlitteratur
+- [[EN3064]] — Engelska: Avancerad litteraturteori
+- [[EN3070]] — Engelska IV, examensarbete 2 för ämneslärarexamen, åk 7-9
+- [[EN3071]] — Engelska IV, inklusive examensarbete 2 för ämneslärarexamen, gy
+- [[GEN222]] — Engelska för lärare, 45 hp (1-45 hp), åk 7-9 - ingår i Lärarlyftet II
+- [[GEN2HB]] — Engelska för internationellt företagande: kommunikation och kultur
+- [[GEN2JG]] — Engelska, Språkdidaktik I
+- [[GEN2QW]] — Engelska, Språkdidaktik l
+- [[GEN2RZ]] — Engelska för specifika ändamål: Presentationer i akademiska och professionella sammanhang
+- [[GEN2VE]] — Engelskspråkig litteratur
+- [[GEN3BR]] — Kulturella texter och kontexter
+- [[GEN3K3]] — Engelska II

@@ -4,13 +4,13 @@ kursnamn: "Datainsamling och datakvalitet"
 course_name: "Data collection and data quality"
 hp: 5 högskolepoäng
 niva: "Forskarnivå"
-amne: "Mikrodataanalys"
+amne: "Forskarämne Mikrodataanalys"
 amne_kod: "MIKRODAT"
 institution: "IIT"
 tags: [kursplan, MIKRODAT, IIT, forskarutbildning]
 scrape_hash: e977f0b4d2608a77
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=MIKR002
-up: "[[Mikrodataanalys MOC]]"
+up: "[[Forskarämne Mikrodataanalys MOC]]"
 ---
 
 # MIKR002

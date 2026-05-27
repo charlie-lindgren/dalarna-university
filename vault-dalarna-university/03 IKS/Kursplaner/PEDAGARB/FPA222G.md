@@ -4,13 +4,13 @@ kursnamn: "Forskningskommunikation för samhällsutveckling"
 course_name: "Research Communication for Societal Development"
 hp: 4 högskolepoäng
 niva: "Forskarnivå"
-amne: "Pedagogiskt arbete"
+amne: "Forskarämne Pedagogiskt arbete"
 amne_kod: "PEDAGARB"
 institution: "IKS"
 tags: [kursplan, PEDAGARB, IKS, forskarutbildning]
 scrape_hash: b1bca06e877278fb
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222G
-up: "[[Pedagogiskt arbete MOC]]"
+up: "[[Forskarämne Pedagogiskt arbete MOC]]"
 ---
 
 # FPA222G

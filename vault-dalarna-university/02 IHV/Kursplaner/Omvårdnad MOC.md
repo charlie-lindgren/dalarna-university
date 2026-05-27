@@ -8,14 +8,16 @@ up: "[[IHV MOC]]"
 # Omvårdnad MOC
 
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
+> Huvudområde: Omvårdnad 1
 
-## Kurser (36 st)
+## Kurser (37 st)
 
 - [[AVÅ27L]] — Vård och omsorg för personer med demens (fristående kurs)
 - [[AVÅ28G]] — Nutrition och ätande
 - [[AVÅ28H]] — Nutrition och ätande (fristående kurs)
 - [[AVÅ28J]] — Att vårda äldre personer, VFU
 - [[AVÅ28K]] — Personcentrerad vård vid multisjuklighet, psykisk ohälsa och demenssjukdom
+- [[AVÅ28L]] — Multisjuklighet, diagnostik och behandling för äldre ur ett omvårdnadsperspektiv
 - [[AVÅ28P]] — Äldre personers levnadsvillkor
 - [[AVÅ28T]] — Examensarbete i omvårdnad - distriktssköterska
 - [[AVÅ28U]] — Examensarbete i omvårdnad - vård av äldre
@@ -48,10 +50,11 @@ up: "[[IHV MOC]]"
 - [[VÅ3132]] — Vård och omsorg för personer med demens
 - [[VÅ3133]] — Att vårda personer med demens, VFU
 
-## Vilande kursplaner (30 st)
+## Vilande kursplaner (31 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
+- [[AVÅ22D]] — Personcentrerad omvårdnad och teamsamverkan I
 - [[AVÅ22Q]] — Personcentrerad omvårdnad och teamsamverkan II
 - [[AVÅ24F]] — Äldre personers levnadsvillkor
 - [[AVÅ25L]] — Diabetesvård I
@@ -59,7 +62,6 @@ up: "[[IHV MOC]]"
 - [[AVÅ27K]] — Demenssjukdomar, diagnostik och behandling ur ett omvårdnadsperspektiv (fristående kurs)
 - [[AVÅ27S]] — Bedömning och rådgivning vid distanskontakter inom hälso- och sjukvården
 - [[AVÅ28C]] — Telefonrådgivning vid distanskontakter inom hälso- och sjukvården
-- [[AVÅ28L]] — Multisjuklighet, diagnostik och behandling för äldre ur ett omvårdnadsperspektiv
 - [[GVÅ25T]] — Metoder och teorier vid symtom och tecken på hälsa/ohälsa II
 - [[GVÅ2GT]] — Personcentrerad vård med fördjupning inom omvårdnad
 - [[GVÅ2H6]] — Personcentrerad vård inom olika vårdsammanhang
@@ -67,6 +69,7 @@ up: "[[IHV MOC]]"
 - [[GVÅ2R2]] — Personcentrerad vård för personer med demens
 - [[GVÅ2RA]] — Människans grundläggande omvårdnadsbehov
 - [[GVÅ2RT]] — Vård och omsorg för personer med demens
+- [[GVÅ2RU]] — Aktivitet och ätande vid demenssjukdom
 - [[GVÅ2RV]] — Demenssjukdomar, diagnostik och behandling ur ett omvårdnadsperspektiv
 - [[GVÅ2VZ]] — Palliativ och evidensbaserad omvårdnad för personer med demens
 - [[GVÅ2ZG]] — Personcentrerad vård med fördjupning inom omvårdnad

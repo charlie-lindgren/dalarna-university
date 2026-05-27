@@ -1,11 +1,11 @@
 ---
-aliases: [Energisystem i byggd miljö]
+aliases: [Forskarämne Energisystem i byggd miljö]
 cssclasses: [moc-page]
 tags: [MOC, amne, ENERGIBM, IIT]
 up: "[[IIT MOC]]"
 ---
 
-# Energisystem i byggd miljö MOC
+# Forskarämne Energisystem i byggd miljö MOC
 
 > Forskarutbildningsämne vid Institutionen för information och teknik, Högskolan Dalarna.
 

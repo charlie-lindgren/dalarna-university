@@ -4,13 +4,13 @@ kursnamn: "Energi och resursanvändning i den byggda miljön, del 1"
 course_name: "Energy and resource use in the built environment, part 1"
 hp: 5 högskolepoäng
 niva: "Forskarnivå"
-amne: "Energisystem i byggd miljö"
+amne: "Forskarämne Energisystem i byggd miljö"
 amne_kod: "ENERGIBM"
 institution: "IIT"
 tags: [kursplan, ENERGIBM, IIT, forskarutbildning]
 scrape_hash: 8fc8d752c7224a2c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222L
-up: "[[Energisystem i byggd miljö MOC]]"
+up: "[[Forskarämne Energisystem i byggd miljö MOC]]"
 ---
 
 # FEB222L

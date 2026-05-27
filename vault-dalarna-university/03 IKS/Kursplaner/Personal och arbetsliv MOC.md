@@ -8,6 +8,7 @@ up: "[[IKS MOC]]"
 # Personal och arbetsliv MOC
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Huvudområde: Personal och arbetsliv 1
 
 ## Kurser (11 st)
 
@@ -22,3 +23,15 @@ up: "[[IKS MOC]]"
 - [[PA2009]] — Kunskapsöversikt Personal och arbetsliv
 - [[PA2010]] — Metod III - perspektiv, kunskapssyn och metodval
 - [[PA2011]] — Arbetsmiljö-människa, strategier och processer
+
+## Vilande kursplaner (7 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
+
+- [[GPA2FL]] — Samspel i organisationen - gruppen
+- [[GPA2K3]] — Marknadsföring för personalvetare
+- [[GPA2KU]] — Implementering av hållbar strategisk styrning
+- [[GPA2LM]] — Personal och arbetsliv - en introduktion
+- [[GPA2LN]] — Ekonomi- och verksamhetsstyrning för personalvetare
+- [[GPA2P7]] — Samhällsvetenskaplig metod och vetenskapsteori II
+- [[GPA32D]] — Individuella lärprocesser och kompetensutveckling

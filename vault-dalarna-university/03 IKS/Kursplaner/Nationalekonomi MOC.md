@@ -8,6 +8,7 @@ up: "[[IKS MOC]]"
 # Nationalekonomi MOC
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Huvudområde: Nationalekonomi 1
 
 ## Kurser (22 st)
 
@@ -33,3 +34,20 @@ up: "[[IKS MOC]]"
 - [[NA3008]] — Matematik för ekonomisk statisk analys
 - [[NA3010]] — Examensarbete för magisterexamen i nationalekonomi
 - [[NA3011]] — Ekonometri
+
+## Vilande kursplaner (12 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
+
+- [[GNA2NT]] — Finansiella marknader och penningpolitik
+- [[GNA2RY]] — Statistik för ekonomer
+- [[GNA3B7]] — Mikroekonomi, introduktion
+- [[NA1003]] — Finansiell ekonomi
+- [[NA1024]] — Mikroekonomi, introduktion - Distans
+- [[NA1025]] — Makroekonomi, introduktion - Distans
+- [[NA1026]] — Finansiella marknader och penningpolitik - Distans
+- [[NA1027]] — Internationell ekonomi - Distans
+- [[NA1030]] — Internationell ekonomi
+- [[NA1032]] — Makroekonomi, introduktion
+- [[NA1035]] — Mikroekonomi, introduktion
+- [[NA1039]] — Tjänstenäringars ekonomi

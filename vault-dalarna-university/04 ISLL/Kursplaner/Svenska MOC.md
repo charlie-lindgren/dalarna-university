@@ -8,6 +8,7 @@ up: "[[ISLL MOC]]"
 # Svenska MOC
 
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
+> Huvudområde: Svenska språket 1
 
 ## Kurser (10 st)
 
@@ -21,3 +22,14 @@ up: "[[ISLL MOC]]"
 - [[GSV3DD]] — Svenska med didaktisk inriktning I
 - [[GSV3DE]] — Svenska med didaktisk inriktning II
 - [[GSV3DF]] — Svenska med didaktisk inriktning III för gymnasieskolan
+
+## Vilande kursplaner (6 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
+
+- [[ASV2CP]] — Språk-, läs- och skrivdidaktisk fördjupning för undervisning i förskoleklass och årskurs 1–3 utifrån första- och andraspråksperspektiv
+- [[ASV2CQ]] — Språk-, läs- och skrivdidaktisk fördjupning för undervisning i årskurs 4–6 utifrån första- och andraspråksperspektiv
+- [[GSV2BN]] — Svenska: Text och tal
+- [[GSV2BP]] — Svenska: Barn- och ungdomslitteratur i samhällsdialog
+- [[GSV3FP]] — Språk-, läs- och skrivutveckling i förskoleklass och årskurs 1–3 utifrån första- och andraspråksperspektiv
+- [[GSV3JE]] — Språk-, läs- och skrivutveckling i åldrarna 5–9 år

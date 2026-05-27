@@ -8,6 +8,7 @@ up: "[[IKS MOC]]"
 # Sociologi MOC
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Huvudområde: Sociologi 1
 
 ## Kurser (12 st)
 
@@ -23,3 +24,13 @@ up: "[[IKS MOC]]"
 - [[SO1037]] — Välfärdsstaten i sociologisk belysning
 - [[SO1044]] — Sociologiska perspektiv på socialt arbete
 - [[SO1047]] — Gruppdynamik och organisation
+
+## Vilande kursplaner (5 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
+
+- [[GSO33U]] — Sociologi III
+- [[SO1006]] — Avvikande beteende
+- [[SO1019]] — Introduktion till samhällsvetenskap
+- [[SO1027]] — Identitet och interaktion. En introduktion till sociologisk socialpsykologi
+- [[SO1033]] — Svensk välfärdspolitik i internationell belysning

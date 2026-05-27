@@ -8,6 +8,7 @@ up: "[[IHV MOC]]"
 # Socialt arbete MOC
 
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
+> Huvudområde: Socialt arbete 1
 
 ## Kurser (27 st)
 
@@ -38,3 +39,29 @@ up: "[[IHV MOC]]"
 - [[SA1032]] — Grundkurs för verksamhetsförlagda utbildare i socialt arbete
 - [[SA1045]] — Socialt arbete som profession
 - [[SA3008]] — Examensarbete för magisterexamen i socialt arbete
+
+## Vilande kursplaner (21 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
+
+- [[ASA24J]] — Ledarskap och verksamhetsutveckling i socialt arbete
+- [[ASA24M]] — Välfärdsteknik i vård och omsorg
+- [[ASA24N]] — Äldre personers levnadsvillkor
+- [[ASA27E]] — Socialt arbete i skolan - skolan som en arena för stöd och utveckling
+- [[GSA24U]] — Perspektiv på våld
+- [[GSA24V]] — Familjeperspektiv på socialt arbete
+- [[GSA2DW]] — Försörjning, rehabilitering och aktivering i socialt arbete
+- [[GSA2E4]] — Arbetsmetoder i socialt arbete
+- [[GSA2E5]] — Utredning i socialt arbete
+- [[GSA2GZ]] — Introduktion till kognitiv beteendeterapi
+- [[GSA2NC]] — Organisation, grupp och samverkan
+- [[GSA2XN]] — Missbruk och beroende
+- [[GSA32Y]] — Organisation, grupp och samverkan
+- [[GSA3AS]] — Samsjuklighet - skadligt bruk eller beroende och samtidig psykisk ohälsa
+- [[GSA3DN]] — Försörjning, rehabilitering och aktivering i socialt arbete
+- [[GSA3DS]] — Organisation, grupp och samverkan
+- [[SA1037]] — Återfallsprevention med KBT inriktning
+- [[SA1040]] — Motiverande samtalsmetodik
+- [[SA1046]] — Mäns våld mot kvinnor i nära relationer
+- [[SA1048]] — Välfärdsinsatser och brukarperspektiv
+- [[SA2020]] — Vetenskaplig metod, evidens och utvärdering i socialt arbete

@@ -8,6 +8,7 @@ up: "[[IIT MOC]]"
 # Maskinteknik MOC
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
+> Huvudområde: Ej huvudområde 1
 
 ## Kurser (18 st)
 
@@ -29,3 +30,22 @@ up: "[[IIT MOC]]"
 - [[GMT3J4]] — Introduktion till assisterande teknik
 - [[GMT3JZ]] — Fysik för tekniker
 - [[MT1033]] — CNC-teknik
+
+## Vilande kursplaner (14 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
+
+- [[GMT228]] — Produktutvecklingsmetoder
+- [[GMT25Z]] — Examensarbete Högskoleingenjör Maskinteknik
+- [[GMT2QF]] — Finita element metoden i praktiken
+- [[GMT2WL]] — 3D-printing översiktskurs
+- [[GMT3JQ]] — Mekatronik
+- [[GMT3JR]] — Termodynamik
+- [[GMT3JT]] — Tillämpning av regelverk för assisterande produkter
+- [[GMT3JU]] — Smarta hem och e-hälsoteknik
+- [[GMT3JV]] — Assisterande robotik
+- [[GMT3JY]] — Tillverkning
+- [[MT1060]] — Hållfasthetslära
+- [[MT1068]] — Introduktion till produktutveckling
+- [[MT1074]] — Maskinelement
+- [[MT2006]] — 3D CAD påbyggnad - Maskinteknik

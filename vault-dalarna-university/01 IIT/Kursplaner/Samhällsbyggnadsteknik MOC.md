@@ -8,6 +8,7 @@ up: "[[IIT MOC]]"
 # Samhällsbyggnadsteknik MOC
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
+> Huvudområde: Samhällsbyggnadsteknik 1
 
 ## Kurser (13 st)
 
@@ -24,3 +25,16 @@ up: "[[IIT MOC]]"
 - [[GSQ2Y2]] — Vetenskaplig metod
 - [[GSQ33M]] — Planeringsprojekt
 - [[GSQ33N]] — Stadsbyggnad
+
+## Vilande kursplaner (8 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
+
+- [[GSQ23J]] — Befolkning och sociala perspektiv
+- [[GSQ23K]] — Planeringsprojekt
+- [[GSQ25J]] — Vetenskaplig metod
+- [[GSQ25K]] — Stadsbyggnad
+- [[GSQ2DH]] — Introduktion till GIS
+- [[GSQ2H7]] — Gestaltad livsmiljö
+- [[GSQ2L9]] — Geografiska Informationssystem för samhällsplanering
+- [[SQ1003]] — Vetenskapligt metod

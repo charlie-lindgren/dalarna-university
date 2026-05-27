@@ -21,9 +21,22 @@ tags: [MOC, institution, IHV]
 - <a class="no-graph" href="VDSSA">VDSSA</a> — Specialistsjuksköterskeutbildning till distriktssköterska
 - <a class="no-graph" href="L7I9A">L7I9A</a> — Ämneslärarprogrammet årskurs 7-9 arbetsintegrerad utbildning med inriktning matematik och idrott och hälsa
 
+## Ämnen
+
+- [[Fysioterapi MOC|Fysioterapi]] (4 kurser)
+- [[Idrotts- och hälsovetenskap MOC|Idrotts- och hälsovetenskap]] (156 kurser)
+- [[Kemi MOC|Kemi]] (1 kurser)
+- [[Medicinsk vetenskap MOC|Medicinsk vetenskap]] (26 kurser)
+- [[Naturvetenskap MOC|Naturvetenskap]] (10 kurser)
+- [[Omvårdnad MOC|Omvårdnad]] (68 kurser)
+- [[Psykologi MOC|Psykologi]] (1 kurser)
+- [[Sexuell, reproduktiv och perinatal hälsa MOC|Sexuell, reproduktiv och perinatal hälsa]] (49 kurser)
+- [[Socialt arbete MOC|Socialt arbete]] (48 kurser)
+- [[Vårdvetenskap MOC|Vårdvetenskap]] (18 kurser)
+
 ## Forskarutbildningsämnen
 
-- [[Medicinsk vetenskap MOC|Medicinsk vetenskap]] (6 kurser)
+- [[Forskarämne Vårdvetenskap MOC|Forskarämne Vårdvetenskap]] (4 kurser)
 
 ## Kvalitetsanalys
 

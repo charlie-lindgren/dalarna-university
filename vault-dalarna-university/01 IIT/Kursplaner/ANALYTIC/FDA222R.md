@@ -4,13 +4,13 @@ kursnamn: "Komplexitet och operationsanalytiska metoder"
 course_name: "Complexity and Operations Research Methods"
 hp: 7,5 högskolepoäng
 niva: "Forskarnivå"
-amne: "Data Analytics"
+amne: "Forskarämne Data Analytics"
 amne_kod: "ANALYTIC"
 institution: "IIT"
 tags: [kursplan, ANALYTIC, IIT, forskarutbildning]
 scrape_hash: 123f5dcc8daea597
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222R
-up: "[[Data Analytics MOC]]"
+up: "[[Forskarämne Data Analytics MOC]]"
 ---
 
 # FDA222R

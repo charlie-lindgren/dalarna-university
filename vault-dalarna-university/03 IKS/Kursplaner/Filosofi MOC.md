@@ -8,6 +8,7 @@ up: "[[IKS MOC]]"
 # Filosofi MOC
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Huvudområde: Ej huvudområde 1
 
 ## Kurser (10 st)
 
@@ -21,3 +22,20 @@ up: "[[IKS MOC]]"
 - [[GFI282]] — Vetenskapligt tänkande och skrivande
 - [[GFI293]] — Samhällsvetenskapernas vetenskapsteori
 - [[GFI3BT]] — Introduktion till hermeneutiken
+
+## Vilande kursplaner (12 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
+
+- [[FI1023]] — Filosofi och vetenskapsteori
+- [[FI1024]] — Filosofi: Två teman inom filosofi
+- [[FI1026]] — Filosofi: Moralfilosofi
+- [[FI1034]] — Filosofi II
+- [[FI1035]] — Filosofi: 1900-talets filosofi
+- [[FI1036]] — Filosofi: Politisk filosofi
+- [[FI1037]] — Filosofi: Filosofiska klassiker
+- [[FI1038]] — Samhällsvetenskapernas vetenskapsteori
+- [[FI1039]] — Materialvetenskapens idéhistoria och vetenskapsteori
+- [[FI2003]] — Filosofi: Filosofi III
+- [[GFI37Z]] — Gud och bevisen: filosofiska argument för och mot Guds existens
+- [[GFI3BU]] — Introduktion till existentialismen

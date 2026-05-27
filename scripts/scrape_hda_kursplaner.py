@@ -87,14 +87,18 @@ FORSKARKURSER_INDEX_URL = (
 # (vissa forskarkurser är gemensamma för Mikrodataanalys / Pedagogiskt arbete /
 # Vårdvetenskap och listar alla tre i sitt metafält). Prefixet på kurskoden är
 # entydigt och avgör forskarämnestillhörigheten.
+#
+# Namnen prefixas med "Forskarämne" så att forskarämnets MOC-fil inte kolliderar
+# med grundämnets MOC (några forskarämnen — t.ex. Mikrodataanalys, Pedagogiskt
+# arbete, Vårdvetenskap — har samma huvudnamn som befintliga grundämnen).
 FORSKAR_PREFIX_TO_SUBJECT: dict[str, tuple[str, str, str]] = {
-    "FDA":  ("Data Analytics",            "ANALYTIC",  "IIT"),
-    "FEB":  ("Energisystem i byggd miljö", "ENERGIBM",  "IIT"),
-    "FMI":  ("Mikrodataanalys",            "MIKRODAT",  "IIT"),
-    "MIKR": ("Mikrodataanalys",            "MIKRODAT",  "IIT"),
-    "FHV":  ("Vårdvetenskap",              "VÅRDVETS",  "IHV"),
-    "FVV":  ("Vårdvetenskap",              "VÅRDVETS",  "IHV"),
-    "FPA":  ("Pedagogiskt arbete",         "PEDAGARB",  "IKS"),
+    "FDA":  ("Forskarämne Data Analytics",             "ANALYTIC",  "IIT"),
+    "FEB":  ("Forskarämne Energisystem i byggd miljö", "ENERGIBM",  "IIT"),
+    "FMI":  ("Forskarämne Mikrodataanalys",            "MIKRODAT",  "IIT"),
+    "MIKR": ("Forskarämne Mikrodataanalys",            "MIKRODAT",  "IIT"),
+    "FHV":  ("Forskarämne Vårdvetenskap",              "VÅRDVETS",  "IHV"),
+    "FVV":  ("Forskarämne Vårdvetenskap",              "VÅRDVETS",  "IHV"),
+    "FPA":  ("Forskarämne Pedagogiskt arbete",         "PEDAGARB",  "IKS"),
 }
 
 

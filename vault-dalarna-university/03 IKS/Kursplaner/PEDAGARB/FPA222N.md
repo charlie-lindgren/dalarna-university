@@ -4,13 +4,13 @@ kursnamn: "Vetenskapliga metoder för forskning i pedagogiskt arbete"
 course_name: "Scientific methods for research in educational work"
 hp: 10 högskolepoäng
 niva: "Forskarnivå"
-amne: "Pedagogiskt arbete"
+amne: "Forskarämne Pedagogiskt arbete"
 amne_kod: "PEDAGARB"
 institution: "IKS"
 tags: [kursplan, PEDAGARB, IKS, forskarutbildning]
 scrape_hash: 10fb6b70db678dda
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222N
-up: "[[Pedagogiskt arbete MOC]]"
+up: "[[Forskarämne Pedagogiskt arbete MOC]]"
 ---
 
 # FPA222N

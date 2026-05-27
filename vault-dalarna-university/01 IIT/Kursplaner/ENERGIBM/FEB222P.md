@@ -4,13 +4,13 @@ kursnamn: "Vetenskapskommunikation"
 course_name: "Science Communication"
 hp: 4,5 högskolepoäng
 niva: "Forskarnivå"
-amne: "Energisystem i byggd miljö"
+amne: "Forskarämne Energisystem i byggd miljö"
 amne_kod: "ENERGIBM"
 institution: "IIT"
 tags: [kursplan, ENERGIBM, IIT, forskarutbildning]
 scrape_hash: a69bce25995d0257
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222P
-up: "[[Energisystem i byggd miljö MOC]]"
+up: "[[Forskarämne Energisystem i byggd miljö MOC]]"
 ---
 
 # FEB222P

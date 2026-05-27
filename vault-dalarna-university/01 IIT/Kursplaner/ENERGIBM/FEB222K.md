@@ -4,13 +4,13 @@ kursnamn: "Individuell litteraturkurs"
 course_name: "Individual literature study course"
 hp: 5 högskolepoäng
 niva: "Forskarnivå"
-amne: "Energisystem i byggd miljö"
+amne: "Forskarämne Energisystem i byggd miljö"
 amne_kod: "ENERGIBM"
 institution: "IIT"
 tags: [kursplan, ENERGIBM, IIT, forskarutbildning]
 scrape_hash: fbda32b7a79620c4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222K
-up: "[[Energisystem i byggd miljö MOC]]"
+up: "[[Forskarämne Energisystem i byggd miljö MOC]]"
 ---
 
 # FEB222K

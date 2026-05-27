@@ -8,6 +8,7 @@ up: "[[ISLL MOC]]"
 # Portugisiska MOC
 
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
+> Huvudområde: Portugisiska 1
 
 ## Kurser (21 st)
 
@@ -32,3 +33,10 @@ up: "[[ISLL MOC]]"
 - [[PR1024]] — Portugisiska: Grammatik och skriftlig språkfärdighet II
 - [[PR2003]] — Portugisiska: Språklig variation och förändring
 - [[PR2004]] — Portugisiska: Afrikansk litteratur på portugisiska
+
+## Vilande kursplaner (2 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
+
+- [[GPR3E5]] — Kommunikation på arbetsplatsen: Interkulturalitet och inkludering
+- [[PR2005]] — Portugisiska: Vetenskaplig metod och akademiskt skrivande

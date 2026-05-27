@@ -8,6 +8,7 @@ up: "[[IIT MOC]]"
 # Fysik MOC
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
+> Huvudområde: Ej huvudområde 1
 
 ## Kurser (6 st)
 

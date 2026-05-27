@@ -4,13 +4,13 @@ kursnamn: "Intellektuella utmaningar – att formulera och undersöka ett proble
 course_name: "Intellectual Challenges –  Formulating and Investigating a Problem"
 hp: 5 högskolepoäng
 niva: "Forskarnivå"
-amne: "Pedagogiskt arbete"
+amne: "Forskarämne Pedagogiskt arbete"
 amne_kod: "PEDAGARB"
 institution: "IKS"
 tags: [kursplan, PEDAGARB, IKS, forskarutbildning]
 scrape_hash: 1272d87abb798019
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222E
-up: "[[Pedagogiskt arbete MOC]]"
+up: "[[Forskarämne Pedagogiskt arbete MOC]]"
 ---
 
 # FPA222E

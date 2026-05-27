@@ -4,13 +4,13 @@ kursnamn: "Akademiskt skrivande och talande på engelska"
 course_name: "Academic Writing and Speaking in English"
 hp: 6 högskolepoäng
 niva: "Forskarnivå"
-amne: "Pedagogiskt arbete"
+amne: "Forskarämne Pedagogiskt arbete"
 amne_kod: "PEDAGARB"
 institution: "IKS"
 tags: [kursplan, PEDAGARB, IKS, forskarutbildning]
 scrape_hash: 7a4aab388f1b8068
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222F
-up: "[[Pedagogiskt arbete MOC]]"
+up: "[[Forskarämne Pedagogiskt arbete MOC]]"
 ---
 
 # FPA222F

@@ -8,8 +8,9 @@ up: "[[IKS MOC]]"
 # Företagsekonomi MOC
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Huvudområde: Företagsekonomi 1
 
-## Kurser (30 st)
+## Kurser (31 st)
 
 - [[AFÖ26H]] — Examensarbete för magisterexamen i företagsekonomi
 - [[FÖ2026]] — Organisationsförändring och ledarskap
@@ -38,11 +39,12 @@ up: "[[IKS MOC]]"
 - [[GFÖ398]] — Redovisning B
 - [[GFÖ39J]] — Marknadsföring B
 - [[GFÖ3FH]] — Sport Management I
+- [[GFÖ3FJ]] — Sport Management II
 - [[GFÖ3GL]] — Vetenskap och metod I
 - [[GFÖ3JM]] — Ledning och marknadsföring i tjänsteföretag
 - [[GFÖ3JN]] — Sport Management III
 
-## Vilande kursplaner (11 st)
+## Vilande kursplaner (10 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -56,4 +58,3 @@ up: "[[IKS MOC]]"
 - [[GFÖ2WN]] — Redovisning B
 - [[GFÖ35J]] — Turismmarknadsföring
 - [[GFÖ39A]] — Sport Management III
-- [[GFÖ3FJ]] — Sport Management II
