@@ -43,26 +43,7 @@ tags: [MOC, institution, IKS]
 
 ## Ämnen
 
-- [[Afrikanska studier MOC|Afrikanska studier]] (19 kurser)
-- [[Arbetsvetenskap MOC|Arbetsvetenskap]] (56 kurser)
-- [[Bild MOC|Bild]] (15 kurser)
-- [[Bildproduktion MOC|Bildproduktion]] (79 kurser)
-- [[Entreprenörskap och innovationsteknik MOC|Entreprenörskap och innovationsteknik]] (22 kurser)
-- [[Filosofi MOC|Filosofi]] (23 kurser)
-- [[Företagsekonomi MOC|Företagsekonomi]] (41 kurser)
-- [[Historia MOC|Historia]] (82 kurser)
-- [[Kulturgeografi MOC|Kulturgeografi]] (23 kurser)
-- [[Ljud- och musikproduktion MOC|Ljud- och musikproduktion]] (68 kurser)
-- [[Medieproduktion MOC|Medieproduktion]] (36 kurser)
-- [[Nationalekonomi MOC|Nationalekonomi]] (38 kurser)
-- [[Pedagogik MOC|Pedagogik]] (45 kurser)
-- [[Pedagogiskt arbete MOC|Pedagogiskt arbete]] (204 kurser)
-- [[Personal och arbetsliv MOC|Personal och arbetsliv]] (30 kurser)
-- [[Religionsvetenskap MOC|Religionsvetenskap]] (51 kurser)
-- [[Rättsvetenskap MOC|Rättsvetenskap]] (37 kurser)
-- [[Sociologi MOC|Sociologi]] (21 kurser)
-- [[Statsvetenskap MOC|Statsvetenskap]] (52 kurser)
-- [[Turismvetenskap MOC|Turismvetenskap]] (55 kurser)
+- [[Företagsekonomi MOC|Företagsekonomi]] (1 kurser)
 
 ## Kvalitetsanalys
 

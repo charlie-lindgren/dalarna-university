@@ -1,0 +1,163 @@
+---
+kurskod: AVÅ22D
+kursnamn: "Personcentrerad omvårdnad och teamsamverkan I"
+course_name: "Person-Centered Care I"
+hp: 15 högskolepoäng
+niva: "Avancerad nivå"
+huvudomrade: "Omvårdnad 1"
+amne: "Omvårdnad"
+amne_kod: "OMV"
+institution: "IHV"
+tags: [kursplan, OMV, IHV, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: 3620c7cf5d5106c6
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ22D
+up: "[[Omvårdnad MOC]]"
+---
+
+# AVÅ22D
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ22D)
+
+**Kursnamn:** Personcentrerad omvårdnad och teamsamverkan I
+**Course Name:** Person-Centered Care I
+
+- **Poäng:** 15 högskolepoäng
+- **Nivå:** Avancerad nivå
+- **Kursen kan ingå i följande huvudområde(n):** Omvårdnad 1
+- **Ämnestillhörighet:** Omvårdnad (OMV)
+- **Fastställd:** Fastställd 2018-10-08 . Kursplanen gäller fr.o.m. 2019-01-21.
+- **Reviderad:** Reviderad 2018-10-11 . Revideringen är giltig fr.o.m. 2018-10-11.
+
+## Lärandemål
+
+Kursens övergripande mål är att den studerande på ett fördjupat självständigt sätt inom ramen för den teoretiska och verksamhetsförlagda utbildningar ska kunna ge en personcentrerad, etisk och säker evidensbaserad vård vid komplexa vårdbehov inom vård av äldre.
+ 
+
+Efter avslutad kurs ska den studerande på ett fördjupat sätt kunna 
+ 
+ 
+  - analysera personcentrerad omvårdnad och värdighet i äldrevård utifrån aktuell forskning 
+  - analysera betydelsen av åldersförändringar för individens fysiska, psykiska och sociala situation 
+  - tillämpa personcentrerad omvårdnad vid fysiska och psykiska ohälsotillstånd samt i livets slutskede 
+  - tillämpa ett evidensbaserat förhållningssätt i äldrevården visa kunskaper i farmakologi och tillämpa en säker läkemedelshantering 
+  - genomföra planering av förbättringsarbete i teamsamverkan och kritiskt reflektera över sjuksköterskans ansvar i sådant arbete 
+  - analysera etiska problem i äldrevården utifrån etiska teorier.
+
+## Innehåll
+
+Kursen innehåller teoretiska moment och tillämpas i verksamhetsförlagda studier och
+
+  - belyser begrepp som personcentrerad omvårdnad, värdighet och etik inom vård av äldre
+  - belyser sjuksköterskans förbättringsarbete i teamsamverkan
+  - belyser åldrandet ur ett biologiskt, psykologiskt och socialt perspektiv
+  - analyserar olika aspekter av personcentrerad omvårdnad av äldre personer i relation till iatrogena och ohälsotillstånd
+  - tillämpar kunskap gällande säker läkemedelshantering i äldrevården
+  - analyserar etik och värdighet i vårdsituationer gällande den äldre personen.
+
+## Examinationsformer
+
+Skriftliga rapporter i grupp som redovisas muntligt vid obligatoriska seminarier. Individuell skriftlig rapport försvarande av densamma och opponentskap av annans rapport i ett obligatoriskt seminarium. Obligatorisk verksamhetsförlagd utbildning.
+
+## Arbetsformer
+
+Föreläsningar, obligatoriska seminarier och verksamhetsförlagd utbildning.
+
+## Betyg
+
+Som betygsskala används U–G.
+
+Betygsrapportering
+ 
+ 
+  - Integrerade seminarier teoretiskt och praktiskt, 7,5 hp  
+ 
+  - Skriftlig rapport samt muntligt försvar, 7,5 hp
+
+## Förkunskapskrav
+
+- Av Socialstyrelsen utfärdad svensk legitimation som sjuksköterska samt kandidatexamen eller sjuksköterskeexamen om minst 180 hp med minst 90 hp inom ämnet omvårdnad/vårdvetenskap varav 15 hp utgörs av ett examensarbete. Dessutom krävs yrkesverksamhet som sjuksköterska motsvarande minst 12 månaders heltidstjänstgöring
+
+## Övrigt
+
+Kursen ingår i Specialistsjuksköterskeprogram inom vård av äldre. Kursen motsvarar VÅ3094.
+
+## English Version
+
+### Learning Outcomes
+
+After
+completing the course students should be able  
+
+  
+
+ discuss the concept of person-centered care and dignity in elderly care  
+
+ reflect age-related
+changes in terms of physical, mental
+and social situation  
+
+ analyze the
+implications of person-centered care at the physical, mental illness and end of life
+care  
+
+ apply an
+evidence-based and person-centered
+approach in elderly
+care  
+
+ reflect on pharmacological
+knowledge of safe medication  
+
+ apply and reflect on the nurse‘s responsibility to implement improvements in teamwork  
+
+ analyze ethical problems
+
+### Course Content
+
+In the course  
+
+  
+
+ highlighted concepts
+such as person-centered care, dignity and ethics in the care
+of older  
+
+ highlighted the
+aging from a biological, psychological and social
+perspectives  
+
+ analyzed various
+aspects of person-centered
+care of older people in relation to iatrogenic
+and illness  
+
+ apply knowledge
+regarding the safe handling of drugs
+in elderly care  
+
+ analyze ethics
+and dignity in care situations regarding the older person
+
+### Assessment
+
+Assessment
+is mainly
+through oral and written presentations. In part 1, the written report
+of the group that presented orally at a seminar. In part 2, by a written report, defending the same and
+act as opponents of another report.
+
+### Forms of Study
+
+Main work is seminars, lectures and practical exercises
+
+### Grades
+
+The Swedish grades U–G.
+
+
+To...
+
+### Prerequisites
+
+- Of Welfare issued Swedish nursing, and bachelor‘s degree of 180 credits with at least 90 credits in the subject of nursing / health sciences including 15 credits consist of a thesis. In addition, professional activities of nurses at least 12 months full-time service

@@ -1223,6 +1223,11 @@ def main():
         "--concurrency", type=int, default=6,
         help="Antal parallella anrop vid kurssidshämtning (standard: 6)."
     )
+    parser.add_argument(
+        "--no-forskarkurser", dest="include_forskarkurser", action="store_false",
+        help="Hoppa över forskarkurser från forskarutbildningsindexet (standard: inkludera)."
+    )
+    parser.set_defaults(include_forskarkurser=True)
     args = parser.parse_args()
 
     # --- Lista institutioner ---
@@ -1291,8 +1296,57 @@ def main():
             print(f"{len(courses)} kurser")
             time.sleep(REQUEST_DELAY)
 
+    # --- Steg 2b: Forskarkurser från forskarutbildningsindexet ---
+    # Forskarkurser ligger utanför det vanliga kursplane-indexet och måste
+    # hämtas separat. Vi mappar varje kurskods prefix till ett befintligt
+    # forskarämne (research-typ-subject) som redan upptäckts från institutions-
+    # sidornas postgraduate-accordion — eller skapar det syntetiskt om sidan
+    # inte listade det.
+    if args.include_forskarkurser and not args.subject and not args.courses:
+        print("\nHämtar forskarkurser från forskarutbildningsindexet...")
+        forskarkurser = discover_forskarkurser()
+        print(f"  Hittade {len(forskarkurser)} forskarkurser")
+        added = 0
+        unmapped: list[str] = []
+        for fc in forskarkurser:
+            code = fc["code"]
+            mapped = None
+            for prefix, (sname, scode, sinst) in FORSKAR_PREFIX_TO_SUBJECT.items():
+                if code.startswith(prefix):
+                    mapped = (sname, scode, sinst)
+                    break
+            if not mapped:
+                unmapped.append(code)
+                continue
+            sname, scode, sinst = mapped
+            target = None
+            for s in all_subjects.get(sinst, []):
+                if s["code"] == scode and s["type"] == "research":
+                    target = s
+                    break
+            if target is None:
+                target = {
+                    "name": sname, "code": scode, "esu": "", "huvudomrade": "",
+                    "type": "research", "institution": sinst,
+                }
+                all_subjects.setdefault(sinst, []).append(target)
+            subject_courses.setdefault(scode, []).append(
+                {"code": code, "name": fc["name"]}
+            )
+            added += 1
+        if unmapped:
+            print(f"  ⚠ Omappade prefix på {len(unmapped)} forskarkurser: "
+                  f"{', '.join(unmapped[:8])}{'…' if len(unmapped) > 8 else ''}")
+        mapped_subjects = {
+            scode
+            for fc in forskarkurser
+            for prefix, (_n, scode, _i) in FORSKAR_PREFIX_TO_SUBJECT.items()
+            if fc["code"].startswith(prefix)
+        }
+        print(f"  La till {added} forskarkurser i {len(mapped_subjects)} forskarämne(n)")
+
     total_courses = sum(len(v) for v in subject_courses.values())
-    print(f"\n  Totalt: {total_courses} kurser")
+    print(f"\n  Totalt: {total_courses} kurser (inkl. ev. forskarkurser)")
 
     if args.list_courses:
         print()
@@ -1533,9 +1587,12 @@ def main():
                     if args.apply:
                         subject_dir.mkdir(parents=True, exist_ok=True)
 
+                    is_forskar = s["type"] == "research"
+                    extra_tags = ["forskarutbildning"] if is_forskar else None
                     n = write_course_file(
                         code, scraped, subj_name, subj_code,
-                        file_inst_code, subject_dir, args.apply, args.quiet
+                        file_inst_code, subject_dir, args.apply, args.quiet,
+                        extra_tags=extra_tags,
                     )
                     total_changes += n
 
@@ -1545,7 +1602,7 @@ def main():
                             "name": subj_name,
                             "code": subj_code,
                             "institution": file_inst_code,
-                            "type": "subject",
+                            "type": "research" if is_forskar else "subject",
                             "courses": [],
                         }
                     real_subjects[subj_code]["courses"].append({
@@ -1585,20 +1642,40 @@ def main():
                 total_errors += 1
                 continue
 
-            real_subj = parse_amnestillhorighet(scraped["metadata"], code)
-            real_inst = parse_institution_from_meta(scraped["metadata"])
+            # Forskarkurser: kurskodens prefix är den auktoritativa källan för
+            # forskarämne + institution (du.se:s `Institution`-fält är opålitligt
+            # för delade forskarkurser och kan peka på fel institution).
+            forskar_override = None
+            for prefix, info in FORSKAR_PREFIX_TO_SUBJECT.items():
+                if code.startswith(prefix):
+                    forskar_override = info  # (name, code, inst)
+                    break
 
-            if real_subj:
-                subj_name, subj_code = real_subj
+            if forskar_override:
+                subj_name, subj_code, file_inst_code = forskar_override
+                extra_tags = ["forskarutbildning"]
+                extra_cssclasses = None
+                stray_flag = False
+                subj_type = "research"
             else:
-                subj_name, subj_code = ("Okänt ämne", "OKANT")
+                real_subj = parse_amnestillhorighet(scraped["metadata"], code)
+                real_inst = parse_institution_from_meta(scraped["metadata"])
 
-            if real_inst:
-                file_inst_code = real_inst
-            elif selected_insts and len(selected_insts) == 1:
-                file_inst_code = list(selected_insts)[0]
-            else:
-                file_inst_code = "IIT"
+                if real_subj:
+                    subj_name, subj_code = real_subj
+                else:
+                    subj_name, subj_code = ("Okänt ämne", "OKANT")
+
+                if real_inst:
+                    file_inst_code = real_inst
+                elif selected_insts and len(selected_insts) == 1:
+                    file_inst_code = list(selected_insts)[0]
+                else:
+                    file_inst_code = "IIT"
+                extra_tags = ["stray", "vilande"]
+                extra_cssclasses = ["vilande"]
+                stray_flag = True
+                subj_type = "subject"
 
             subject_dir = kursplaner_dir(file_inst_code) / subj_code
             if args.apply:
@@ -1613,8 +1690,8 @@ def main():
                 subject_dir,
                 args.apply,
                 args.quiet,
-                extra_tags=["stray", "vilande"],
-                extra_cssclasses=["vilande"],
+                extra_tags=extra_tags,
+                extra_cssclasses=extra_cssclasses,
             )
             total_changes += n
 
@@ -1623,13 +1700,13 @@ def main():
                     "name": subj_name,
                     "code": subj_code,
                     "institution": file_inst_code,
-                    "type": "subject",
+                    "type": subj_type,
                     "courses": [],
                 }
             real_subjects[subj_code]["courses"].append({
                 "code": code,
                 "name": scraped["name_sv"] or code,
-                "stray": True,
+                "stray": stray_flag,
             })
 
         except Exception as e:

@@ -1,11 +1,11 @@
 ---
-aliases: [Vårdvetenskap]
+aliases: [Pedagogiskt arbete]
 cssclasses: [moc-page]
-tags: [MOC, amne, VÅRDVETS, IHV]
+tags: [MOC, amne, PEDAGARB, IHV]
 up: "[[IHV MOC]]"
 ---
 
-# Vårdvetenskap MOC
+# Pedagogiskt arbete MOC
 
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 
@@ -13,4 +13,4 @@ up: "[[IHV MOC]]"
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
-- [[FHV0001]] — Allmänvetenskaplig introduktionskurs
+- [[FPA0001]] — Vetenskapliga metoder
