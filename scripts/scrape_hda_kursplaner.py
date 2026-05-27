@@ -26,6 +26,7 @@ import os
 import re
 import sys
 import time
+import urllib.parse
 from pathlib import Path
 
 import requests
@@ -77,6 +78,37 @@ INSTITUTIONS = {
 SEARCH_API = "https://www.du.se/search/Search/Search"
 SV_URL = "https://www.du.se/sv/utbildning/kurser/kursplan/?code={code}"
 EN_URL = "https://www.du.se/en/study-at-du/kurser/syllabus/?code={code}"
+FORSKARKURSER_INDEX_URL = (
+    "https://www.du.se/sv/forskning/forskarutbildning/forskarutbildningskurser/"
+)
+
+# Forskarkurs-prefix → (subject_name, subject_code, institution).
+# Används som disambiguator när kursplanens Ämnestillhörighet listar flera ämnen
+# (vissa forskarkurser är gemensamma för Mikrodataanalys / Pedagogiskt arbete /
+# Vårdvetenskap och listar alla tre i sitt metafält). Prefixet på kurskoden är
+# entydigt och avgör forskarämnestillhörigheten.
+FORSKAR_PREFIX_TO_SUBJECT: dict[str, tuple[str, str, str]] = {
+    "FDA":  ("Data Analytics",            "ANALYTIC",  "IIT"),
+    "FEB":  ("Energisystem i byggd miljö", "ENERGIBM",  "IIT"),
+    "FMI":  ("Mikrodataanalys",            "MIKRODAT",  "IIT"),
+    "MIKR": ("Mikrodataanalys",            "MIKRODAT",  "IIT"),
+    "FHV":  ("Vårdvetenskap",              "VÅRDVETS",  "IHV"),
+    "FVV":  ("Vårdvetenskap",              "VÅRDVETS",  "IHV"),
+    "FPA":  ("Pedagogiskt arbete",         "PEDAGARB",  "IKS"),
+}
+
+
+def _extract_code_from_href(href: str) -> str | None:
+    """Plockar ut kurskoden ur en `code=…`-länk, URL-avkodad och versalt.
+
+    Hanterar både rena ASCII-koder (``code=GIK29B``) och URL-kodade former
+    (``code=GV%c3%852RU`` → ``GVÅ2RU``). Trimmar bort eventuella efterföljande
+    query-parametrar (``&...``)."""
+    m = re.search(r"code=([^&\"'\s#]+)", href)
+    if not m:
+        return None
+    code = urllib.parse.unquote(m.group(1)).upper().strip()
+    return code or None
 
 REQUEST_DELAY = 1.0  # sekunder mellan anrop
 
@@ -429,12 +461,14 @@ def _extract_course_links(soup: BeautifulSoup, seen_codes: set) -> list[dict]:
     """Extraherar kurskoder och namn från söksidans länkar."""
     courses = []
     for a in soup.find_all("a", href=True):
-        if "/kurser/kurs/?code=" in a["href"]:
-            code = a["href"].split("code=")[1]
-            name = a.get_text(strip=True)
-            if code not in seen_codes:
-                seen_codes.add(code)
-                courses.append({"code": code, "name": name})
+        if "/kurser/kurs/?code=" not in a["href"]:
+            continue
+        code = _extract_code_from_href(a["href"])
+        if not code or code in seen_codes:
+            continue
+        name = a.get_text(strip=True)
+        seen_codes.add(code)
+        courses.append({"code": code, "name": name})
     return courses
 
 
@@ -476,10 +510,33 @@ def discover_all_kursplan_codes() -> set[str]:
         return set()
     codes: set[str] = set()
     for a in soup.select("table#coursesTable tbody a[href*='code=']"):
-        m = re.search(r"code=([A-Z0-9ÅÄÖ]+)", a["href"])
-        if m:
-            codes.add(m.group(1))
+        code = _extract_code_from_href(a["href"])
+        if code:
+            codes.add(code)
     return codes
+
+
+def discover_forskarkurser() -> list[dict]:
+    """Hämtar samtliga aktiva forskarkurser från du.se:s forskarutbildnings-index.
+
+    Forskarkurser ligger **utanför** det vanliga kursplane-indexet
+    (`/sv/utbildning/kursplaner/Search/`) och har en egen sida som listar dem
+    direkt. Vi returnerar en lista av ``{"code", "name"}``-dikter, ordnade efter
+    sidans naturliga ordning (alfabetiskt efter kursnamn)."""
+    soup = fetch_page(FORSKARKURSER_INDEX_URL)
+    if soup is None:
+        return []
+    courses: list[dict] = []
+    seen: set[str] = set()
+    for a in soup.find_all("a", href=True):
+        if "code=" not in a["href"]:
+            continue
+        code = _extract_code_from_href(a["href"])
+        if not code or code in seen:
+            continue
+        seen.add(code)
+        courses.append({"code": code, "name": a.get_text(strip=True)})
+    return courses
 
 
 def discover_stray_codes_from_known(known_codes: set[str], padding: int = 0) -> set[str]:
@@ -682,21 +739,44 @@ INSTITUTION_TEXT_TO_CODE = {
 }
 
 
-def parse_amnestillhorighet(meta: dict) -> tuple[str, str] | None:
+def parse_amnestillhorighet(
+    meta: dict, course_code: str | None = None
+) -> tuple[str, str] | None:
     """
     Parsar 'Ämnestillhörighet' från kursplanens metadata.
     Returnerar (subject_name, subject_code) eller None.
 
-    Format: "Byggteknik (BYA)", "Datateknik (DTA)", etc.
+    Hanterar tre format:
+    1. Enkelt ämne: "Byggteknik (BYA)" → ("Byggteknik", "BYA")
+    2. Flera ämnen (forskarkurser delade mellan ämnen):
+       "Mikrodataanalys (MIKRODAT) Pedagogiskt arbete (PEDAGARB) Vårdvetenskap (VÅRDVETS)"
+       Disambigueras via kursprefix när ``course_code`` ges (se
+       ``FORSKAR_PREFIX_TO_SUBJECT``); annars sista paret.
+    3. Fri text utan kodparentes → genererar en fallback-kod.
     """
     raw = meta.get("Ämnestillhörighet", "").strip()
     if not raw:
         return None
-    m = re.match(r"^(.+?)\s*\(([A-ZÅÄÖ][A-ZÅÄÖ0-9]+)\)\s*$", raw)
-    if m:
-        return (m.group(1).strip(), m.group(2).strip())
-    # Fallback: no code in parens, use name + generate code
-    return (raw, _generate_subject_code(raw))
+
+    pairs = re.findall(r"([^()]+?)\s*\(([A-ZÅÄÖ][A-ZÅÄÖ0-9]+)\)", raw)
+    pairs = [(name.strip(" -–"), code.strip()) for name, code in pairs if name.strip()]
+
+    if not pairs:
+        return (raw, _generate_subject_code(raw))
+
+    if len(pairs) == 1:
+        return pairs[0]
+
+    # Flera ämnen: använd kurskodens prefix för entydig disambiguering om möjligt.
+    if course_code:
+        for prefix, (subj_name, subj_code, _inst) in FORSKAR_PREFIX_TO_SUBJECT.items():
+            if course_code.upper().startswith(prefix):
+                for pname, pcode in pairs:
+                    if pcode == subj_code:
+                        return (pname, pcode)
+                return (subj_name, subj_code)
+
+    return pairs[-1]
 
 
 def parse_institution_from_meta(meta: dict) -> str | None:
@@ -1436,7 +1516,7 @@ def main():
 
                     # Use Ämnestillhörighet from the course page as the
                     # authoritative subject (not the search query that found it).
-                    real_subj = parse_amnestillhorighet(scraped["metadata"])
+                    real_subj = parse_amnestillhorighet(scraped["metadata"], code)
                     real_inst = parse_institution_from_meta(scraped["metadata"])
 
                     if real_subj:
@@ -1505,7 +1585,7 @@ def main():
                 total_errors += 1
                 continue
 
-            real_subj = parse_amnestillhorighet(scraped["metadata"])
+            real_subj = parse_amnestillhorighet(scraped["metadata"], code)
             real_inst = parse_institution_from_meta(scraped["metadata"])
 
             if real_subj:
