@@ -180,7 +180,7 @@ Inom programmets kurser ges internationella och globala perspektiv via litteratu
 **Fyra alternativa kurser valbara utifrån aktuellt kursutbud**
 
 - <a class="no-graph" href="GBP32U">Bild för grundlärare, årskurs 4–6</a>, 30 hp
-- Idrott för grundlärare, årskurs 4–6, 30 hp
+- <a class="no-graph" href="GIH3AN">Idrott och hälsa I med didaktisk inriktning åk 4-6</a>, 30 hp
 - <a class="no-graph" href="GPG2SC">Samhällsorienterande ämnen, åk 4–6</a>, 30 hp
 - <a class="no-graph" href="GNV367">Naturorienterande ämnen och teknik för grundlärare, åk 4–6</a>, 30 hp
 
