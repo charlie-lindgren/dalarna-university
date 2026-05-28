@@ -21,7 +21,7 @@ IIT som flaggas av respektive kontroll.
 - [[01 IIT/Analys/Introfras|Introfras]]
 - [[01 IIT/Analys/Nedlagda kursreferenser|Nedlagda kursreferenser]]
 - [[01 IIT/Analys/Omfång på lärandemål|Omfång på lärandemål]]
-- [[01 IIT/Analys/Programkurser olankade|Programkurser olänkade]]
+- [[01 IIT/Analys/Programkurser olänkade|Programkurser olänkade]]
 - [[01 IIT/Analys/Samstämmighet svenska och engelska|Samstämmighet svenska och engelska]]
 - [[01 IIT/Analys/Stavfel och språkbruk|Stavfel och språkbruk]]
 - [[01 IIT/Analys/Vilande kursplaner|Vilande kursplaner]]

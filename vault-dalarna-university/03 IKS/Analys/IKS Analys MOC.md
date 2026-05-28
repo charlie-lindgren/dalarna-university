@@ -21,7 +21,7 @@ IKS som flaggas av respektive kontroll.
 - [[03 IKS/Analys/Introfras|Introfras]]
 - [[03 IKS/Analys/Nedlagda kursreferenser|Nedlagda kursreferenser]]
 - [[03 IKS/Analys/Omfång på lärandemål|Omfång på lärandemål]]
-- [[03 IKS/Analys/Programkurser olankade|Programkurser olänkade]]
+- [[03 IKS/Analys/Programkurser olänkade|Programkurser olänkade]]
 - [[03 IKS/Analys/Samstämmighet svenska och engelska|Samstämmighet svenska och engelska]]
 - [[03 IKS/Analys/Stavfel och språkbruk|Stavfel och språkbruk]]
 - [[03 IKS/Analys/Vilande kursplaner|Vilande kursplaner]]
