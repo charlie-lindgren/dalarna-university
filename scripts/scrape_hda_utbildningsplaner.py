@@ -162,6 +162,7 @@ _AKK_RE = re.compile(r"\b(?:åk|årskurs)\s+(?=[F\d])", re.I)
 # resterande dashar.
 _ELLIPSIS_DASH_RE = re.compile(r"(?<=\w)[-–—](?=\s)")
 _DASH_WS_RE = re.compile(r"\s*[-–—]\s*")
+_SLASH_WS_RE = re.compile(r"\s*/\s*")
 _MULTI_WS_RE = re.compile(r"\s+")
 
 
@@ -170,14 +171,16 @@ def _normalize_aggressive(name: str) -> str:
 
     Lowercase, drop ``åk``/``årskurs`` tokens before a grade range, strip
     Swedish elliptic-compound hyphens (``System- och X`` ≡ ``System och X``),
-    collapse whitespace around dashes (``F -3`` → ``F-3``) and unify dash
-    variants. Used in addition to the strict index key so programme bullets
-    phrased slightly differently than the kursplan title still match.
+    collapse whitespace around dashes (``F -3`` → ``F-3``) and around slashes
+    (``CAM / CNC`` → ``CAM/CNC``), unify dash variants. Used in addition to
+    the strict index key so programme bullets phrased slightly differently
+    than the kursplan title still match.
     """
     n = name.strip().lower()
     n = _AKK_RE.sub("", n)
     n = _ELLIPSIS_DASH_RE.sub("", n)
     n = _DASH_WS_RE.sub("-", n)
+    n = _SLASH_WS_RE.sub("/", n)
     n = _MULTI_WS_RE.sub(" ", n)
     return n.strip()
 
@@ -224,6 +227,37 @@ def _parse_course_line(line: str) -> tuple[str, str] | None:
         if name:
             return (name, m.group(1).strip())
     return None
+
+
+# Bullets som "Datadrivet ledarskap eller Ledarskapets ekonomi" beskriver ett
+# val mellan två kurser. Vi delar på "eller"/"alternativt"/"eller …"-tokens
+# och länkar varje del separat. Notera att ` / ` inte räknas — slash är vanlig
+# i kursnamn (CAM/CNC, CAD/CAM) och hanteras av slash-normaliseringen.
+_ALT_SPLIT_RE = re.compile(r"\s+(?:eller|alternativt)\s+", re.I)
+
+
+def _lookup_alternation(
+    raw_name: str, kursplan_index: dict,
+) -> list[tuple[str, str, str]] | None:
+    """Försök splita en bullet på "eller"/"alternativt" och slå upp varje del.
+
+    Returnerar lista av ``(display_name, code, institution)`` om *alla* delar
+    kan matchas; annars ``None``. Används som fallback när en hel bullet inte
+    matchar någon kurs."""
+    parts = _ALT_SPLIT_RE.split(raw_name)
+    if len(parts) < 2:
+        return None
+    results: list[tuple[str, str, str]] = []
+    for part in parts:
+        part = part.strip()
+        if not part:
+            return None
+        hit = _lookup_course(part, kursplan_index)
+        if not hit:
+            return None
+        code, inst = hit
+        results.append((_normalize_course_name(part), code, inst))
+    return results
 
 
 def _lookup_course(raw_name: str, kursplan_index: dict) -> tuple[str, str] | None:
@@ -718,7 +752,27 @@ def build_programme_markdown(scraped: dict, kursplan_index: dict) -> str:
                             sec_lines.append(f"- [[{course_code}|{cname}]], {hp}")
                             same_inst_links += 1
                     else:
-                        sec_lines.append(f"- {cname}, {hp}")
+                        # Fallback: bullet beskriver ett val ("X eller Y") —
+                        # länka varje alternativ separat.
+                        alt = _lookup_alternation(raw_name, kursplan_index)
+                        if alt:
+                            link_parts: list[str] = []
+                            for display, code, course_inst in alt:
+                                if (institution and course_inst
+                                        and course_inst != institution):
+                                    link_parts.append(
+                                        f'<a class="no-graph" href="{code}">'
+                                        f'{display}</a>'
+                                    )
+                                    cross_inst_links += 1
+                                else:
+                                    link_parts.append(f"[[{code}|{display}]]")
+                                    same_inst_links += 1
+                            sec_lines.append(
+                                f"- {' eller '.join(link_parts)}, {hp}"
+                            )
+                        else:
+                            sec_lines.append(f"- {cname}, {hp}")
                 sec_lines.append("")
             else:
                 sec_lines.append(text)

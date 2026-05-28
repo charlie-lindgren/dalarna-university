@@ -11,14 +11,12 @@ status: första pass
 Utbildningsplanens `## 3. Programmets kurser`-sektion ska helst lista varje kurs som en wikilänk till motsvarande kursplansfil (`[[KOD|Namn]], hp`). Analysen flaggar två typer av problem: **olänkade bullets** (där länken saknas helt) och **länkade bullets där programtexten avviker från kursplanens kanoniska namn** (vår skrapa hittar fortfarande rätt kurs via normalisering, men texten bör samordnas).
 ## Problematiska utbildningsplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Programkurser-olänkade.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (34 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Programkurser-olänkade.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (32 rader)</span></a>
 
-> [!example]- 34 fynd — klicka för att expandera
+> [!example]- 32 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
-> | [DBIMA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=DBIMA) | Utbildningsplan | Bullet beskriver val mellan flera kurser | `Datadrivet ledarskap eller Ledarskapets ekonomi` (7,5 hp); rad: - Datadrivet ledarskap eller Ledarskapets ekonomi, 7,5 hp |
-> | [DDCMA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=DDCMA) | Utbildningsplan | Bullet beskriver val mellan flera kurser | `Datadrivet ledarskap eller Ledarskapets ekonomi` (7,5 hp); rad: - Datadrivet ledarskap eller Ledarskapets ekonomi, 7,5 hp |
 > | [DITMG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=DITMG) | Utbildningsplan | Kursnamnet finns varken aktivt eller nedlagt | `Logik och matematik` (7,5hp); rad: - Logik och matematik, 7,5hp |
 > | [DITMG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=DITMG) | Utbildningsplan | Programtext avviker från kursplanens namn | Programtext `System- och verksamhetsutveckling` ≠ kursplanens namn `System och verksamhetsutveckling` (kurskod `GIK2XZ`); rad: - [[GIK2XZ|System- och verksamhetsutveckling]], 7,5hp |
 > | [DSVPG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=DSVPG) | Utbildningsplan | Kursnamnet finns varken aktivt eller nedlagt | `Datakommunikation I` (7,5 hp); rad: - Datakommunikation I, 7,5 hp |
@@ -49,7 +47,7 @@ Utbildningsplanens `## 3. Programmets kurser`-sektion ska helst lista varje kurs
 > | [TPTAG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPTAG) | Utbildningsplan | Kursnamnet finns varken aktivt eller nedlagt | `Additiv tillverkning` (7,5 hp); rad: - Additiv tillverkning, 7,5 hp |
 > | [TPTAG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPTAG) | Utbildningsplan | Kursnamnet finns varken aktivt eller nedlagt | `Examensarbete för högskoleexamen inom maskinteknik` (7,5 hp); rad: - Examensarbete för högskoleexamen inom maskinteknik, 7,5 hp |
 > | [TPTAG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPTAG) | Utbildningsplan | Kursnamnet finns varken aktivt eller nedlagt | `Underhåll och kvalitet` (7,5 hp); rad: - Underhåll och kvalitet, 7,5 hp |
-> | [TPTAG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPTAG) | Utbildningsplan | Bullet beskriver val mellan flera kurser | `CAM / CNC` (7,5 hp); rad: - CAM / CNC, 7,5 hp |
+> | [TPTAG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPTAG) | Utbildningsplan | Programtext avviker från kursplanens namn | Programtext `CAM / CNC` ≠ kursplanens namn `CAM/CNC` (kurskod `GMT34P`); rad: - [[GMT34P|CAM / CNC]], 7,5 hp |
 > | [TSETA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TSETA) | Utbildningsplan | Kursnamnet finns varken aktivt eller nedlagt | `Design av PV hybrid system` (7,5 hp); rad: - Design av PV hybrid system, 7,5 hp |
 
 ## Syfte

@@ -39,6 +39,10 @@ _AKK_RE = re.compile(r"\b(?:åk|årskurs)\s+(?=[F\d])", re.I)
 # blir nedlagda GIK2JW felaktigt prioriterad framför aktiva GIK2XZ.
 _ELLIPSIS_DASH_RE = re.compile(r"(?<=\w)[-–—](?=\s)")
 _DASH_WS_RE = re.compile(r"\s*[-–—]\s*")
+# Slash i kurskursnamn ("CAM/CNC", "CAD/CAM") skrivs ibland med mellanslag i
+# utbildningsplaner ("CAM / CNC") — kollapsa whitespace runt slash så att
+# bägge former hashas till samma nyckel.
+_SLASH_WS_RE = re.compile(r"\s*/\s*")
 _MULTI_WS_RE = re.compile(r"\s+")
 
 
@@ -47,6 +51,7 @@ def _aggressive(name: str) -> str:
     n = _AKK_RE.sub("", n)
     n = _ELLIPSIS_DASH_RE.sub("", n)
     n = _DASH_WS_RE.sub("-", n)
+    n = _SLASH_WS_RE.sub("/", n)
     n = _MULTI_WS_RE.sub(" ", n)
     return n.strip()
 
@@ -292,9 +297,11 @@ def scan_programme_bullets(text: str) -> list[dict]:
 # ─────────────────────────────────────────────────────────────────────────────
 
 # Mönsterord som signalerar att en bullet beskriver ett alternativ-/valblock
-# snarare än en enskild kurs.
+# snarare än en enskild kurs. Notera att ` / ` inte räknas som alternation —
+# slash är vanligt inuti kursnamn som "CAM/CNC", "CAD/CAM", och hanteras av
+# slash-normaliseringen vid matchning istället.
 _ALT_PATTERNS = re.compile(
-    r"\b(eller|alternativt|valbar|valbara|valbart)\b|\s/\s",
+    r"\b(eller|alternativt|valbar|valbara|valbart)\b",
     re.I,
 )
 

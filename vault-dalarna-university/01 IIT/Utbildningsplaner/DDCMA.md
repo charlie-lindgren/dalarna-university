@@ -1,5 +1,5 @@
 ---
-programkod: DDCMA
+programkod: ANA235
 programnamn: "Data Science: Masterprogram"
 institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2018-10-11 . Gäller fr.o.m.  HT 2018."
@@ -8,7 +8,7 @@ scrape_hash: a6a2d451b891be4b
 up: "IIT MOC"
 ---
 
-# DDCMA
+# ANA235
 
 **Programnamn:** Data Science: Masterprogram
 
@@ -74,8 +74,8 @@ Under det andra året kommer studenterna att tränas i och testas på frågor so
 **Alla kurser ingår i huvudområdet mikrodatanalys.**
 
 - [[AMI295|Business Intelligence]], 7,5 hp
-- [[AMI23K|Datainsamling och datakvalitet]], 7,5 hp
-- Datadrivet ledarskap eller Ledarskapets ekonomi, 7,5 hp
+- [[FDA222U|Datainsamling och datakvalitet]], 7,5 hp
+- [[AMI27V|Datadrivet ledarskap]] eller <a class="no-graph" href="ANA235">Ledarskapets ekonomi</a>, 7,5 hp
 - [[AMI23G|Maskininlärning]], 7,5 hp
 - [[AMI22T|Statistisk inlärning]], 7,5 hp
 - [[MI4001|Examensarbete för masterexamen i mikrodataanalys]], 30 hp
@@ -85,7 +85,7 @@ Under det andra året kommer studenterna att tränas i och testas på frågor so
 - [[AMI23A|Dataanalys och visualisering]], 7,5 hp
 - [[AIK232|Data Warehousing]], 7,5 hp
 - [[AMI23L|Rumslig data och GIS]], 7,5 hp
-- [[AMI23C|Komplexitet och operationsanalytiska metoder]], 7,5 hp
+- [[FDA222R|Komplexitet och operationsanalytiska metoder]], 7,5 hp
 - [[GMI23G|Logik och matematik för datavetenskap]], 7,5 hp
 - [[GIK29B|Python- och R-programmering]], 7,5 hp
 - [[AMI22Z|Riskanalys]], 7,5 hp

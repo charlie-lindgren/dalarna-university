@@ -108,7 +108,7 @@ Hållbarhet kommer utöver en orienterande kurs att ligga som självklar del i f
 
 - [[GMT34K|Automation - robotik]], 7,5 hp
 - [[GMT34L|Automation - styrteknik]], 7,5 hp
-- CAM / CNC, 7,5 hp
+- [[GMT34P|CAM / CNC]], 7,5 hp
 - Examensarbete för högskoleexamen inom maskinteknik, 7,5 hp
 - [[GMT34Q|Hållbar produktion]], 7,5 hp
 - [[GMT34R|Materialprovning och materialanalys]], 7,5 hp

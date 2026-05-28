@@ -1,5 +1,5 @@
 ---
-programkod: DBIMA
+programkod: ANA235
 programnamn: "Business Intelligence: Magisterprogram"
 institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2018-10-11 . Gäller fr.o.m.  HT 2018."
@@ -8,7 +8,7 @@ scrape_hash: a630a02817236c92
 up: "IIT MOC"
 ---
 
-# DBIMA
+# ANA235
 
 **Programnamn:** Business Intelligence: Magisterprogram
 
@@ -74,13 +74,13 @@ Under andra terminen skriver studenterna sin magisteruppsats. Terminen inleds me
 
 - [[AMI295|Business Intelligence]], 7,5 hp
 - [[AMI23A|Dataanalys och visualisering]], 7,5 hp
-- Datadrivet ledarskap eller Ledarskapets ekonomi, 7,5 hp
+- [[AMI27V|Datadrivet ledarskap]] eller <a class="no-graph" href="ANA235">Ledarskapets ekonomi</a>, 7,5 hp
 - [[AMI22Z|Riskanalys]], 7,5 hp
 - [[MI4001|Examensarbete för masterexamen i mikrodataanalys]], 15 hp
 
 **Valbara kurser:**
 
-- [[AMI23K|Datainsamling och datakvalitet]], 7,5 hp
+- [[FDA222U|Datainsamling och datakvalitet]], 7,5 hp
 - [[AIK232|Data Warehousing]], 7,5 hp
 - [[GMI23G|Logik och matematik för datavetenskap]], 7,5 hp
 - [[GIK29B|Python- och R-programmering]], 7,5 hp
