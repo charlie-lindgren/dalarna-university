@@ -484,6 +484,12 @@ def check_olänkade_kursreferenser(files: list[Path]) -> list[dict]:
 
 
 _DASH_VARIANTS_RE = re.compile(r"[–—]")
+# Ämnes-prefix på formen ``Afrikanska studier: …`` eller ``Tyska: …`` —
+# kursplanens kanoniska namn bär prefixet, men utbildningsplanens bullet
+# refererar bara till suffixet. Skrapan har redan länkat dem rätt via
+# colon-prefix-matchning; vi vill inte flagga den lagliga förkortningen
+# som en text-avvikelse.
+_SUBJECT_PREFIX_RE = re.compile(r"^[a-zåäö][a-zåäö\s]+?:\s+", re.I)
 
 
 def _normalize_for_display_compare(s: str) -> str:
@@ -496,13 +502,23 @@ def _normalize_for_display_compare(s: str) -> str:
     fortfarande — bara dash-varianter och osynliga encoding-skillnader
     filtreras bort (administrationen kan inte agera på dem).
 
-    Strippar även huvudområdes-suffixet (``- Huvudområde Omvårdnad``) som
-    IHV-programmen häftar på kursnamnet — det är administrativ metadata,
-    inte en del av kursplanens ``kursnamn:``, så vi vill inte flagga den
-    skillnaden mot programansvarig."""
+    Strippar även:
+    - **Soft hyphen (U+00AD)** — osynligt tecken som inte ska räknas som
+      en visuell skillnad.
+    - **Huvudområde-suffixet** (``- Huvudområde Omvårdnad``) — administrativ
+      stämpel som IHV-CMS:t lägger på utan att programansvarig kan ta bort.
+    - **Ämnes-prefix på kursplanens namn** (``Afrikanska studier: X`` →
+      ``X``) — skrapan länkar redan via colon-prefix-uppslag, så
+      programtextens kortform är legitim."""
+    # Soft hyphen är "potentiell bindestreck" — kursplanens namn skriver
+    # ofta en vanlig ``-`` i samma position (``musik- och ljuddesign``).
+    # För visuell jämförelse räknas U+00AD som ekvivalent med ``-``.
+    s = _SOFT_HYPHEN_RE.sub("-", s)
     s = _DASH_VARIANTS_RE.sub("-", s)
     s = _MULTI_WS_RE.sub(" ", s).strip().lower()
-    return _HUVUDOMRADE_SUFFIX_RE.sub("", s).strip()
+    s = _HUVUDOMRADE_SUFFIX_RE.sub("", s).strip()
+    s = _SUBJECT_PREFIX_RE.sub("", s)
+    return s
 
 
 def check_programtext_skiljer_kursnamn(files: list[Path]) -> list[dict]:
