@@ -153,11 +153,11 @@ def main() -> int:
         if not args.quiet:
             print(f"  {len(all_codes)} nedlagda kursplaner enligt du.se")
 
-    existing = _load_existing() if not args.force else set()
+    existing = _load_existing()
     targets = sorted(all_codes - existing)
     if not args.quiet and existing:
         print(f"  {len(existing)} redan cachade — hoppar över "
-              f"(använd --force för omskrivning)")
+              f"(nedlagda kursplaner är persistenta)")
 
     if args.limit:
         targets = targets[: args.limit]
