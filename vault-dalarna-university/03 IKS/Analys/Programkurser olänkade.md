@@ -11,9 +11,9 @@ status: första pass
 Utbildningsplanens `## 3. Programmets kurser`-sektion ska helst lista varje kurs som en wikilänk till motsvarande kursplansfil (`[[KOD|Namn]], hp`). Analysen flaggar två typer av problem: **olänkade bullets** (där länken saknas helt) och **länkade bullets där programtexten avviker från kursplanens kanoniska namn** (vår skrapa hittar fortfarande rätt kurs via normalisering, men texten bör samordnas).
 ## Problematiska utbildningsplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Programkurser-olänkade.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (115 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Programkurser-olänkade.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (114 rader)</span></a>
 
-> [!example]- 115 fynd — klicka för att expandera
+> [!example]- 114 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -103,7 +103,6 @@ Utbildningsplanens `## 3. Programmets kurser`-sektion ska helst lista varje kurs
 > | [SFIFA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SFIFA) | Utbildningsplan | Kursnamnet finns varken aktivt eller nedlagt | `Obligatoriska kurser` (30 hp); rad: - Obligatoriska kurser, 30 hp |
 > | [SFIFA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SFIFA) | Utbildningsplan | Kursnamnet finns varken aktivt eller nedlagt | `Studier i Internationell Human Resource Management` (15 hp); rad: - Studier i Internationell Human Resource Management, 15 hp |
 > | [SFIFA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SFIFA) | Utbildningsplan | Programtext avviker från kursplanens namn | Programtext `Examensarbete` ≠ kursplanens namn `Tyska: Examensarbete` (kurskod `TY2007`); rad: - <a class="no-graph" href="TY2007">Examensarbete</a>, 15 hp |
-> | [SMHTA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SMHTA) | Utbildningsplan | Bullet beskriver val mellan flera kurser | `Eller Examensarbete för Magisterexamen i Turismvetenskap` (15 hp); rad: - Eller Examensarbete för Magisterexamen i Turismvetenskap, 15 hp |
 > | [SMINA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SMINA) | Utbildningsplan | Kursnamnet finns varken aktivt eller nedlagt | `Avancerad mikroteori` (7,5 hp); rad: - Avancerad mikroteori, 7,5 hp |
 > | [SMINA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SMINA) | Utbildningsplan | Kursnamnet finns varken aktivt eller nedlagt | `Samhällsekonomisk utvärdering av offentliga projekt` (7,5 hp); rad: - Samhällsekonomisk utvärdering av offentliga projekt, 7,5 hp |
 > | [SPARG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SPARG) | Utbildningsplan | Kursnamnet finns varken aktivt eller nedlagt | `Arbetsrätt i personalarbetets praktik` (15 hp); rad: - Arbetsrätt i personalarbetets praktik, 15 hp |
