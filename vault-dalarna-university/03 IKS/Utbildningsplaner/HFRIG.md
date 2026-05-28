@@ -83,7 +83,7 @@ Under det tredje läsåret förbereder sig studenten för ett yrkesverksamt liv 
 
 **Första läsåret**
 
-- Det cinematiska språket: Mise-en-scène, 15 hp
+- [[GBQ2UB|Introduktion till produktion av rörlig bild]], 15 hp
 - [[GBQ2U8|Den korta filmens berättarstruktur]], 7,5 hp
 - [[GBQ2U7|Tillämpad filmdesign 1]], 7,5 hp
 - [[GBQ2WH|Tillämpad filmdesign 2]], 7,5 hp

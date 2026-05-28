@@ -109,7 +109,7 @@ Majoriteten av programmets kurser bygger på grundläggande behörighet medan n�
 
 **Läsår 2, helfart (100%) och läsår 3-4, halvfart (50%)**
 
-- Examensarbete för högskoleexamen i musik­ och ljuddesign, 15 hp
+- [[LP1032|Examensarbete för högskoleexamen i musik­ och ljuddesign]], 15 hp
 - Företagsekonomi för musikbranschen, 7,5 hp
 - [[GLP2QU|Inspelning i studio]], 7,5 hp
 - [[LP1052|Ljudläggning till rörliga bilder]], 7,5 hp
