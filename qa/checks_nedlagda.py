@@ -295,8 +295,16 @@ def scan_programme_bullets(text: str) -> list[dict]:
             continue
         m = _BULLET_PLAIN.match(line)
         if m:
+            name = m.group(1).strip()
+            # Filtrera bort spöke-bullets från trasig du.se-rendering där
+            # kursnamnet hamnat på föregående rad som rubrik (KFTKG: bullet
+            # ``- 7, 5 hp`` blir kvar när rubriken ``**Manus för TV och film 5
+            # …,**`` står ovanför). En bullet vars "namn" är rent
+            # numeriskt/kortare än 3 tecken är aldrig en riktig kurs.
+            if len(name) < 3 or not re.search(r"[A-Za-zÅÄÖåäö]", name):
+                continue
             out.append({"form": "plain", "code": None,
-                        "name": m.group(1).strip(), "hp": m.group(2),
+                        "name": name, "hp": m.group(2),
                         "line": line.strip()})
     return out
 
@@ -455,9 +463,15 @@ def _normalize_for_display_compare(s: str) -> str:
     normaliserar en-dash/em-dash (``–``/``—``) till vanligt bindestreck ``-``,
     lowercase och strip. Hyphens-saknad eller ord-skillnader flaggas
     fortfarande — bara dash-varianter och osynliga encoding-skillnader
-    filtreras bort (administrationen kan inte agera på dem)."""
+    filtreras bort (administrationen kan inte agera på dem).
+
+    Strippar även huvudområdes-suffixet (``- Huvudområde Omvårdnad``) som
+    IHV-programmen häftar på kursnamnet — det är administrativ metadata,
+    inte en del av kursplanens ``kursnamn:``, så vi vill inte flagga den
+    skillnaden mot programansvarig."""
     s = _DASH_VARIANTS_RE.sub("-", s)
-    return _MULTI_WS_RE.sub(" ", s).strip().lower()
+    s = _MULTI_WS_RE.sub(" ", s).strip().lower()
+    return _HUVUDOMRADE_SUFFIX_RE.sub("", s).strip()
 
 
 def check_programtext_skiljer_kursnamn(files: list[Path]) -> list[dict]:

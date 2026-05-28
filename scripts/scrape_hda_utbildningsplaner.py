@@ -245,6 +245,28 @@ def _parse_course_line(line: str) -> tuple[str, str] | None:
 _ALT_SPLIT_RE = re.compile(r"\s+(?:eller|alternativt)\s+", re.I)
 
 
+def _parse_variant_line(line: str) -> list[tuple[str, str]] | None:
+    """Hantera bullets på formen ``X, hp eller Y, hp``.
+
+    Vissa utbildningsplaner (t.ex. KFTKG) listar både gammalt och nytt
+    kursnamn separerade av ``eller`` med var sitt ``, hp`` — ``_parse_course_line``
+    fångar bara första halvan och tappar variant nummer två. Här splittar vi
+    på ``eller``/``alternativt`` *innan* hp-parsningen och returnerar varje
+    halva som egen ``(namn, hp)``. Returnerar ``None`` om varje del inte
+    själv är en giltig kursrad — då faller anroparen tillbaka på den vanliga
+    enbullet-vägen (där ``_lookup_alternation`` hanterar ``X eller Y, hp``)."""
+    parts = _ALT_SPLIT_RE.split(line)
+    if len(parts) < 2:
+        return None
+    out: list[tuple[str, str]] = []
+    for part in parts:
+        parsed = _parse_course_line(part.strip())
+        if not parsed:
+            return None
+        out.append(parsed)
+    return out
+
+
 def _lookup_alternation(
     raw_name: str, kursplan_index: dict,
 ) -> list[tuple[str, str, str]] | None:
@@ -739,6 +761,31 @@ def build_programme_markdown(scraped: dict, kursplan_index: dict) -> str:
                     stripped = raw_line.strip()
                     if not stripped:
                         continue
+                    # Dubbel-variant ``X, hp eller Y, hp`` — välj den variant
+                    # som matchar en aktiv kursplan (vanligen den nyare).
+                    variants = _parse_variant_line(stripped)
+                    if variants:
+                        chosen = None
+                        for v_name, v_hp in variants:
+                            v_hit = _lookup_course(v_name, kursplan_index)
+                            if v_hit:
+                                chosen = (v_name, v_hp, v_hit)
+                                break
+                        if chosen:
+                            v_name, hp, v_hit = chosen
+                            course_code, course_inst = v_hit
+                            cname = _normalize_course_name(v_name)
+                            if (institution and course_inst
+                                    and course_inst != institution):
+                                sec_lines.append(
+                                    f'- <a class="no-graph" href="{course_code}">{cname}</a>, {hp}'
+                                )
+                                cross_inst_links += 1
+                            else:
+                                sec_lines.append(f"- [[{course_code}|{cname}]], {hp}")
+                                same_inst_links += 1
+                            continue
+                        # Ingen aktiv variant — fall vidare till vanlig path.
                     parsed = _parse_course_line(stripped)
                     if not parsed:
                         if current_heading is not None:
