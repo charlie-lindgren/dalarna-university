@@ -106,7 +106,7 @@ Under den fjärde terminen skriver studenterna ett examensarbete i turismvetensk
 
 - [[TR3010|Teori och forskningsmetoder]], 15 hp
 - [[ATR2BJ|Projektarbete i Turismvetenskap]], 15 hp
-- Eller Examensarbete för Magisterexamen i Turismvetenskap, 15 hp
+- [[TR3008|Examensarbete för Magisterexamen i Turismvetenskap]], 15 hp
 
 ****Läsår 2****
 
