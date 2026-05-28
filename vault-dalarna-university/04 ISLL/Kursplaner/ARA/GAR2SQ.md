@@ -10,7 +10,7 @@ amne_kod: "ARA"
 institution: "ISLL"
 tags: [kursplan, ARA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 03a44cda197b3f93
+scrape_hash: 96883fa1101116fd
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR2SQ
 up: "[[Arabiska MOC]]"
 ---
@@ -98,4 +98,4 @@ The Swedish grades U–VG.
 
 ### Prerequisites
 
-- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades
+- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades)

@@ -8,8 +8,8 @@ huvudomrade: "Ryska 1"
 amne: "Ryska"
 amne_kod: "RYA"
 institution: "ISLL"
-tags: [kursplan, RYA, ISLL]
-scrape_hash: 3fe43b408b775b5c
+tags: [kursplan, RYA, ISLL, forskarutbildning]
+scrape_hash: ca34e8c965406099
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY38T
 up: "[[Ryska MOC]]"
 ---
@@ -135,4 +135,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades
+- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades)

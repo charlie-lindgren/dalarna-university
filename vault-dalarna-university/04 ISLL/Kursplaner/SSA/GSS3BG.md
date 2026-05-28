@@ -8,8 +8,8 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Svenska som andraspråk"
 amne_kod: "SSA"
 institution: "ISLL"
-tags: [kursplan, SSA, ISLL]
-scrape_hash: 2761b969fe614fdd
+tags: [kursplan, SSA, ISLL, forskarutbildning]
+scrape_hash: 5a0d17d2bf758711
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3BG
 up: "[[Svenska som andraspråk MOC]]"
 ---
@@ -120,4 +120,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades
+- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades)

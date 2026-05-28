@@ -10,7 +10,7 @@ amne_kod: "PEA"
 institution: "IKS"
 tags: [kursplan, PEA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 69fd3413584c23d2
+scrape_hash: 5ed84e8d464baaf4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPE2SA
 up: "[[Pedagogik MOC]]"
 ---
@@ -97,4 +97,4 @@ The Swedish grades U–VG.
 
 ### Prerequisites
 
-- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades
+- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades)

@@ -8,8 +8,8 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
-tags: [kursplan, PGA, IKS]
-scrape_hash: 0acd0481bbe9fe69
+tags: [kursplan, PGA, IKS, forskarutbildning]
+scrape_hash: 433b62b339bf56c0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3JC
 up: "[[Pedagogiskt arbete MOC]]"
 ---
@@ -108,4 +108,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades
+- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades)

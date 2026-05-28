@@ -9,7 +9,9 @@ up: "[[IIT MOC]]"
 
 > Forskarutbildningsämne vid Institutionen för information och teknik, Högskolan Dalarna.
 
-## Kurser (5 st)
+## Vilande kursplaner (5 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[FMI2222]] — Ledarskapets ekonomi för forskarstuderande
 - [[FMI2223]] — Komplexitet och operationsanalytiska metoder för forskarstuderande

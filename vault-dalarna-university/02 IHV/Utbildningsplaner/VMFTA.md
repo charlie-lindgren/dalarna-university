@@ -88,7 +88,7 @@ Magisterprogrammet är utformat för att ge en fördjupning inom huvudområdet f
 
 **Läsår 2:**
 
-- [[AFT2C9|Examensarbete för magisterexamen i fysioterapi]], 15 hp
+- [[AMC29F|Examensarbete för magisterexamen i fysioterapi]], 15 hp
 - [[AFT2C8|Forskningsmetodik och projektplan inför examensarbete för magisterexamen i fysioterapi]], 15 hp
 
 ## 4. Examensbenämning

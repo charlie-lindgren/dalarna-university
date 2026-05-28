@@ -10,7 +10,7 @@ up: "[[ISLL MOC]]"
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 > Huvudområde: Franska 1
 
-## Kurser (30 st)
+## Kurser (31 st)
 
 - [[AFR236]] — Den fransktalande världen: Litteratur, kultur och översättning
 - [[AFR24A]] — Examensarbete i franska för ämneslärarexamen, inriktning grundskolans årskurs 7-9
@@ -40,10 +40,11 @@ up: "[[ISLL MOC]]"
 - [[GFR3GS]] — Franska III: Språkhistoria
 - [[GFR3GT]] — Franska III: Franskspråkig litteratur och litteraturanalys
 - [[GFR3HK]] — Franska: Språkdidaktik I
+- [[GFR3HL]] — Franska: Språkdidaktik II
 - [[GFR3HM]] — Franska I med didaktisk inriktning
 - [[GFR3HN]] — Franska II med didaktisk inriktning
 
-## Vilande kursplaner (17 st)
+## Vilande kursplaner (16 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -63,4 +64,3 @@ up: "[[ISLL MOC]]"
 - [[GFR2WA]] — Franska I med didaktisk inriktning
 - [[GFR35F]] — Franska III: Franskspråkig litteratur och litteraturanalys
 - [[GFR3DL]] — Franska för lärare i gymnasieskolan, 90 hp (1-90 hp). Ingår i Lärarlyftet
-- [[GFR3HL]] — Franska: Språkdidaktik II

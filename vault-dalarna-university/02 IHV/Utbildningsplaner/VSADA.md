@@ -116,7 +116,7 @@ Utbildningsprogrammet är utformat för att ge en fördjupning inom huvudområde
 **År 1**
 
 - Personcentrerad vård av personer med demens, 7,5 hp
-- [[VÅ3131|Demenssjukdomar, diagnostik och behandling ur ett omvårdnadsperspektiv]], 7,5 hp
+- [[GVÅ2RV|Demenssjukdomar, diagnostik och behandling ur ett omvårdnadsperspektiv]], 7,5 hp
 - [[VÅ3132|Vård och omsorg för personer med demens]], 7,5 hp
 - [[AVÅ28G|Nutrition och ätande]], 7,5 hp
 

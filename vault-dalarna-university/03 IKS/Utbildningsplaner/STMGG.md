@@ -118,7 +118,7 @@ Kurserna kombinerar föreläsningar, seminarier och kontakt med näringslivets a
 - Grundläggande ekonomistyrning, 7,5 hp
 - [[TR1033|Turism och samhälle]], 7,5 hp
 - Festival och Event Management, 7,5 hp
-- [[GTR3AU|Turismmarknadsföring]], 7,5 hp
+- [[GFÖ35J|Turismmarknadsföring]], 7,5 hp
 
 **År 2**
 

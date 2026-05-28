@@ -9,7 +9,7 @@ amne: "Turismvetenskap"
 amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
-scrape_hash: 75f2f2e3064ddc12
+scrape_hash: ca96ba909c2b426e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR3AU
 up: "[[Turismvetenskap MOC]]"
 ---
@@ -107,4 +107,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades
+- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades)

@@ -9,7 +9,7 @@ amne: "Ryska"
 amne_kod: "RYA"
 institution: "ISLL"
 tags: [kursplan, RYA, ISLL]
-scrape_hash: e0f31042584228c2
+scrape_hash: 704f02507dbef8e9
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY2LE
 up: "[[Ryska MOC]]"
 ---
@@ -107,4 +107,4 @@ Module 2: Essay - 2.5 cr
 
 ### Prerequisites
 
-- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades
+- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades)

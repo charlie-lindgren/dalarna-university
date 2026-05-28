@@ -11,11 +11,11 @@ tags: [MOC, institution, IIT]
 ## Program (19 st)
 
 - <a class="no-graph" href="TATPG">TATPG</a> — Assisterande teknikprogrammet
-- <a class="no-graph" href="DBIMA">DBIMA</a> — Business Intelligence: Magisterprogram
+- <a class="no-graph" href="ANA235">ANA235</a> — Business Intelligence: Magisterprogram
 - <a class="no-graph" href="TBYSG">TBYSG</a> — Bygg- och samhällsplanerarprogrammet
 - <a class="no-graph" href="TBTCG">TBTCG</a> — Byggingenjörsprogram
 - <a class="no-graph" href="TBTFG">TBTFG</a> — Byggteknik – produktion och förvaltning
-- <a class="no-graph" href="DDCMA">DDCMA</a> — Data Science: Masterprogram
+- <a class="no-graph" href="ANA235">ANA235</a> — Data Science: Masterprogram
 - <a class="no-graph" href="DDTHG">DDTHG</a> — Digitala tjänster – program för högskoleexamen
 - <a class="no-graph" href="KGDWG">KGDWG</a> — Grafisk design och webbutveckling –  kandidatprogram
 - <a class="no-graph" href="THIHG">THIHG</a> — Högskoleingenjörsprogram i hållbara energisystem

@@ -138,15 +138,15 @@ Progression avseende ämnesbredd och -djup sker successivt genom programmet vilk
 
 **År 2**
 
-- [[GVÅ389|Metoder och teorier vid symtom och tecken på hälsa/ohälsa I]], 30 hp
-- [[GVÅ385|Personcentrerad vård inom somatisk vård]], 15 hp
-- [[GVÅ386|Personcentrerad vård inom psykiatrisk vård]], 7,5 hp
+- [[VÅ1053|Metoder och teorier vid symtom och tecken på hälsa/ohälsa I]], 30 hp
+- [[GVÅ384|Personcentrerad vård inom somatisk vård]], 15 hp
+- [[GVÅ2HM|Personcentrerad vård inom psykiatrisk vård]], 7,5 hp
 - [[GVÅ37Y|Metoder och teorier vid symtom och tecken på hälsa/ohälsa II]], 7,5 hp
 
 **År 3**
 
-- [[GVÅ382|Personcentrerad vård inom olika vårdsammanhang]], 22,5 hp
-- [[GVÅ387|Metoder för evidensbaserad vård II]], 7,5 hp
+- [[GVÅ2H6|Personcentrerad vård inom olika vårdsammanhang]], 22,5 hp
+- [[GVÅ2ZY|Metoder för evidensbaserad vård II]], 7,5 hp
 - [[GVÅ36W|Examensarbete i omvårdnad]], 15 hp
 - [[GVÅ37L|Leda och samverka i personcentrerad vård]], 15 hp
 

@@ -7,10 +7,11 @@ niva: "Forskarnivå"
 amne: "Forskarämne Pedagogiskt arbete"
 amne_kod: "PEDAGARB"
 institution: "IKS"
-tags: [kursplan, PEDAGARB, IKS, forskarutbildning]
+tags: [kursplan, PEDAGARB, IKS, forskarutbildning, vilande]
 scrape_hash: a21ab28227c2b3d5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222A
 up: "[[Forskarämne Pedagogiskt arbete MOC]]"
+cssclasses: [vilande]
 ---
 
 # FPA222A

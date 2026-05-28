@@ -10,7 +10,7 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: b82e21b285f819c9
+scrape_hash: dc16ed6e0ca8bf1a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2J5
 up: "[[Svenska som andraspråk MOC]]"
 ---
@@ -432,4 +432,4 @@ Module 9: Swedish for Health Care Settings - 7.5 cr (U-VG)
 
 ### Prerequisites
 
-- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades
+- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades)

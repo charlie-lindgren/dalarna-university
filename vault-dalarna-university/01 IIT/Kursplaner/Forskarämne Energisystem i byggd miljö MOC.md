@@ -9,7 +9,9 @@ up: "[[IIT MOC]]"
 
 > Forskarutbildningsämne vid Institutionen för information och teknik, Högskolan Dalarna.
 
-## Kurser (5 st)
+## Vilande kursplaner (5 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[FEB222K]] — Individuell litteraturkurs
 - [[FEB222L]] — Energi och resursanvändning i den byggda miljön, del 1

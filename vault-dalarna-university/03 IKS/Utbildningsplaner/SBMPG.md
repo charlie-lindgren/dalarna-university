@@ -90,7 +90,7 @@ Programmets tredje år ger en fördjupning inom företagsekonomins delämnesomr�
 
 - [[GFÖ2XW|Ekonomistyrning B]], 7,5 hp
 - [[GFÖ398|Redovisning B]], 7,5 hp
-- [[GFÖ38U|Organisation B]], 7,5 hp
+- [[FÖ1042|Organisation B]], 7,5 hp
 - [[GFÖ39J|Marknadsföring B]], 7,5 hp
 - [[GFÖ3GL|Vetenskap och metod I]], 7,5 hp
 - [[RV1058|Handelsrättslig översiktskurs]], 15 hp
@@ -99,7 +99,7 @@ Programmets tredje år ger en fördjupning inom företagsekonomins delämnesomr�
 **År 3**
 
 - [[FÖ2026|Organisationsförändring och ledarskap]], 7,5 hp
-- [[GFÖ3JM|Ledning och marknadsföring i tjänsteföretag]], 7,5 hp
+- [[FÖ2032|Ledning och marknadsföring i tjänsteföretag]], 7,5 hp
 - [[GFÖ2UF|Hållbar företagsstrategi]], 7,5 hp
 - Valfri kurs, 7,5 hp
 - [[GFÖ2XB|Företagsekonomi C]], 7,5 hp

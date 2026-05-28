@@ -8,8 +8,8 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Franska"
 amne_kod: "FRA"
 institution: "ISLL"
-tags: [kursplan, FRA, ISLL, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, FRA, ISLL, stray]
+
 scrape_hash: 72757f54ecc5b66b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3HL
 up: "[[Franska MOC]]"

@@ -95,7 +95,7 @@ Programmets progression bygger på att innehåll, lärandemål och examinationsf
 - [[RV1058|Handelsrättslig översiktskurs]], 15 hp
 - [[RV1056|Idrottsjuridik]], 7,5 hp
 - [[GFÖ39J|Marknadsföring B]], 7,5 hp
-- [[GFÖ38U|Organisation B]], 7,5 hp
+- [[FÖ1042|Organisation B]], 7,5 hp
 - [[GFÖ3FJ|Sport Management II]], 7,5 hp
 
 **År 3**
@@ -103,7 +103,7 @@ Programmets progression bygger på att innehåll, lärandemål och examinationsf
 - [[GFÖ2WQ|Examensarbete för kandidatexamen i företagsekonomi]], 15 hp
 - [[GFÖ2XB|Företagsekonomi C]], 7,5 hp
 - [[GFÖ2UF|Hållbar företagsstrategi]], 7,5 hp
-- [[GFÖ3JM|Ledning och marknadsföring i tjänsteföretag]], 7,5 hp
+- [[FÖ2032|Ledning och marknadsföring i tjänsteföretag]], 7,5 hp
 - [[FÖ2026|Organisationsförändring och ledarskap]], 7,5 hp
 - [[GFÖ3JN|Sport Management III]], 7,5 hp
 - [[GFÖ2B7|Vetenskap och metod II]], 7,5 hp

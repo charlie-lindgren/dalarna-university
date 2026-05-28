@@ -36,6 +36,7 @@ tags: [MOC, institution, IHV]
 
 ## Forskarutbildningsämnen
 
+- [[Forskarämne Pedagogiskt arbete MOC|Forskarämne Pedagogiskt arbete]] (19 kurser)
 - [[Forskarämne Vårdvetenskap MOC|Forskarämne Vårdvetenskap]] (4 kurser)
 
 ## Kvalitetsanalys

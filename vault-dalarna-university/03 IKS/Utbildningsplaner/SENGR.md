@@ -131,7 +131,7 @@ Studenter som väljer huvudområdet företagsekonomi och vill bli revisor rekomm
 
 - [[GFÖ2XW|Ekonomistyrning B]], 7,5 hp
 - [[GFÖ398|Redovisning B]], 7,5 hp
-- [[GFÖ38U|Organisation B]], 7,5 hp
+- [[FÖ1042|Organisation B]], 7,5 hp
 - [[GFÖ39J|Marknadsföring B]], 7,5 hp
 - Makroekonomi introduktion, 7,5 hp
 - Mikroekonomi introduktion, 7,5 hp

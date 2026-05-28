@@ -9,9 +9,16 @@ up: "[[IKS MOC]]"
 
 > Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (19 st)
+## Kurser (3 st)
 
 - [[FPA0001]] — Vetenskapliga metoder
+- [[FPA222F]] — Akademiskt skrivande och talande på engelska
+- [[FPA222G]] — Forskningskommunikation för samhällsutveckling
+
+## Vilande kursplaner (16 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
+
 - [[FPA0002]] — Forskning och pedagogisk praktik - kommunikation, kunskap och samverkan
 - [[FPA0003]] — Akademiskt skrivande och talande  på engelska
 - [[FPA0004]] — Det demokratiska värdegrundsuppdraget i komplexa skolpraktiker
@@ -26,7 +33,5 @@ up: "[[IKS MOC]]"
 - [[FPA222C]] — Praktikutvecklande forskningsansatser för undervisning och lärande
 - [[FPA222D]] — Språklig mångfald i utbildningssammanhang
 - [[FPA222E]] — Intellektuella utmaningar – att formulera och undersöka ett problem
-- [[FPA222F]] — Akademiskt skrivande och talande på engelska
-- [[FPA222G]] — Forskningskommunikation för samhällsutveckling
 - [[FPA222J]] — Grundläggande statistik för utbildningsvetenskaplig forskning
 - [[FPA222N]] — Vetenskapliga metoder för forskning i pedagogiskt arbete

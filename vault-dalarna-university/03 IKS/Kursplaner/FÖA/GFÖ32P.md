@@ -9,7 +9,7 @@ amne: "Företagsekonomi"
 amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
-scrape_hash: 938276004ff58c42
+scrape_hash: e8401ac7ae012a64
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ32P
 up: "[[Företagsekonomi MOC]]"
 ---
@@ -109,4 +109,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades
+- General entry requirements (with the exemption of the requirement in Swedish for those with foreign grades)

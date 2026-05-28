@@ -8,8 +8,8 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Matematikdidaktik"
 amne_kod: "MDI"
 institution: "IIT"
-tags: [kursplan, MDI, IIT, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, MDI, IIT, stray]
+
 scrape_hash: b3f9810fead94944
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD3K4
 up: "[[Matematikdidaktik MOC]]"

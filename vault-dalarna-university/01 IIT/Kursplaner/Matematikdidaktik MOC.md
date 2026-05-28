@@ -10,7 +10,7 @@ up: "[[IIT MOC]]"
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
 > Huvudområde: Ej huvudområde 1
 
-## Kurser (25 st)
+## Kurser (26 st)
 
 - [[AMD238]] — Examensarbete i matematik för ämneslärarexamen inriktning gymnasieskolan
 - [[AMD239]] — Examensarbete i matematik för ämneslärarexamen inriktning grundskolans årskurs 7-9
@@ -31,6 +31,7 @@ up: "[[IIT MOC]]"
 - [[GMD2PA]] — Matematikinlärning för förskollärare som undervisar i förskoleklass
 - [[GMD2TV]] — Matematik II med didaktisk inriktning
 - [[GMD3GZ]] — Matematikdidaktik I
+- [[GMD3K4]] — Lärande och undervisning på kognitionsvetenskaplig grund
 - [[MD1103]] — Matematisk problemlösning i skolan
 - [[MD2022]] — Matematik III
 - [[MD2023]] — Differentialekvationer och transformer
@@ -38,7 +39,7 @@ up: "[[IIT MOC]]"
 - [[MD2025]] — Linjär algebra
 - [[MD2026]] — Flervariabelanalys
 
-## Vilande kursplaner (12 st)
+## Vilande kursplaner (11 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -50,7 +51,6 @@ up: "[[IIT MOC]]"
 - [[GMD33X]] — Matematik för lärare i åk 7-9
 - [[GMD33Y]] — Matematik för lärare i gymnasieskolan
 - [[GMD3FX]] — Matematikutveckling i förskoleklass och årskurs 1–3 utifrån första- och andraspråksperspektiv
-- [[GMD3K4]] — Lärande och undervisning på kognitionsvetenskaplig grund
 - [[MD1085]] — Matematikundervisning i ett specialpedagogiskt perspektiv
 - [[MD1097]] — Matematikens historia för lärare
 - [[MD1098]] — Matematisk problemlösning i grundskolans senare år
