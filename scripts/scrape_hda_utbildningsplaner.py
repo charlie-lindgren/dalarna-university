@@ -158,6 +158,11 @@ def _normalize_course_name(raw: str) -> str:
     return name
 
 
+# Programkurslistor i IHV/Omvårdnad bär ibland en huvudområdes-stämpel sist i
+# kursnamnet (``… - Huvudområde Omvårdnad``). Det är administrativ metadata,
+# inte en del av kursplanens egna ``kursnamn:`` — strip suffixet vid
+# matchning så att bullets länkas mot rätt kurskod.
+_HUVUDOMRADE_SUFFIX_RE = re.compile(r"\s+-\s+huvudområde\b.*$", re.I)
 _AKK_RE = re.compile(r"\b(?:åk|årskurs)\s+(?=[F\d])", re.I)
 # Svensk ellips i sammansättningar: "System- och verksamhetsutveckling"
 # matchar samma kursplan som "System och verksamhetsutveckling". Strip
@@ -180,6 +185,7 @@ def _normalize_aggressive(name: str) -> str:
     than the kursplan title still match.
     """
     n = name.strip().lower()
+    n = _HUVUDOMRADE_SUFFIX_RE.sub("", n)
     n = _AKK_RE.sub("", n)
     n = _ELLIPSIS_DASH_RE.sub("", n)
     n = _DASH_WS_RE.sub("-", n)

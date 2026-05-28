@@ -32,6 +32,14 @@ INST_DIRS = ["01 IIT", "02 IHV", "03 IKS", "04 ISLL"]
 # Aggressiv namnnormalisering — speglar matcharen i
 # ``scripts/scrape_hda_utbildningsplaner.py``. Vi duplicerar den medvetet
 # här för att hålla qa/-modulerna oberoende av scripts/.
+# Programkurslistor i utbildningsplaner (företrädelsevis från IHV/Omvårdnad)
+# bär ibland en huvudområdes-stämpel i slutet av kursnamnet:
+#   ``Människa, hälsa och samhälle - Huvudområde Omvårdnad, 7,5 hp``
+# Stämpeln är ren administrativ metadata — själva kursplanens ``kursnamn:`` är
+# ``Människa, hälsa och samhälle``. Strip suffixet vid normalisering så att
+# matchningen mot aktivt kursindex lyckas och bullets länkas i stället för att
+# rapporteras som okända.
+_HUVUDOMRADE_SUFFIX_RE = re.compile(r"\s+-\s+huvudområde\b.*$")
 _AKK_RE = re.compile(r"\b(?:åk|årskurs)\s+(?=[F\d])", re.I)
 # Svensk ellips i sammansättningar: "System- och verksamhetsutveckling" är
 # en kortform av "Systemutveckling och verksamhetsutveckling". För matchning
@@ -48,6 +56,7 @@ _MULTI_WS_RE = re.compile(r"\s+")
 
 def _aggressive(name: str) -> str:
     n = name.strip().lower()
+    n = _HUVUDOMRADE_SUFFIX_RE.sub("", n)
     n = _AKK_RE.sub("", n)
     n = _ELLIPSIS_DASH_RE.sub("", n)
     n = _DASH_WS_RE.sub("-", n)
