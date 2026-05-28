@@ -484,6 +484,14 @@ def check_olänkade_kursreferenser(files: list[Path]) -> list[dict]:
 
 
 _DASH_VARIANTS_RE = re.compile(r"[–—]")
+# Kursnamn på ämneslärarprogrammen bär ofta en hp-uppdelning i slutet:
+# ``Sociala relationer, konflikter och makt … åk 1-3 (varav 7,5 hp VFU)``.
+# Programtexten utelämnar parantesen — bägge former syftar på samma kurs,
+# så vi strippar paretensen vid jämförelse.
+_VFU_HP_PAREN_RE = re.compile(
+    r"\s*\((?:varav|inkl\.?|inklusive)\s+[\d,.]+\s*hp\s+vfu\)\s*$",
+    re.I,
+)
 # Ämnes-prefix på formen ``Afrikanska studier: …`` eller ``Tyska: …`` —
 # kursplanens kanoniska namn bär prefixet, men utbildningsplanens bullet
 # refererar bara till suffixet. Skrapan har redan länkat dem rätt via
@@ -517,6 +525,7 @@ def _normalize_for_display_compare(s: str) -> str:
     s = _DASH_VARIANTS_RE.sub("-", s)
     s = _MULTI_WS_RE.sub(" ", s).strip().lower()
     s = _HUVUDOMRADE_SUFFIX_RE.sub("", s).strip()
+    s = _VFU_HP_PAREN_RE.sub("", s).strip()
     s = _SUBJECT_PREFIX_RE.sub("", s)
     return s
 
