@@ -8,14 +8,12 @@ status: första pass
 
 ## Problematiska utbildningsplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Nedlagda-kursreferenser.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (11 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Nedlagda-kursreferenser.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (9 rader)</span></a>
 
-> [!example]- 11 fynd — klicka för att expandera
+> [!example]- 9 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
-> | [HFRIG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=HFRIG) | Utbildningsplan | Programmet listar nedlagd kurs | `Det cinematiska språket: Mise-en-scène` → `BQ1088` (nedlagd 2025-03-06) — plain-text-referens; rad: - Det cinematiska språket: Mise-en-scène, 15 hp |
-> | [KFTKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFTKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Manus för TV och film 2. Dramaturgi, genre och filmhistoria` → `BQ1050` (nedlagd 2014-05-06) — plain-text-referens; rad: - Manus för TV och film 2. Dramaturgi, genre och filmhistoria, 15 hp |
 > | [KFTPG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFTPG) | Utbildningsplan | Programmet listar nedlagd kurs | `Konceptutveckling inom medieproduktion` → `BQ2049` (nedlagd 2025-03-06) — plain-text-referens; rad: - Konceptutveckling inom medieproduktion, 7,5 hp |
 > | [LBF3A](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LBF3A) | Utbildningsplan | Programmet listar nedlagd kurs | `Text, kommunikation och lärande i en mångkulturell skola` → `GSV22L` (nedlagd 2024-10-11) — plain-text-referens; rad: - Text, kommunikation och lärande i en mångkulturell skola, 15 hp |
 > | [LP79A](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LP79A) | Utbildningsplan | Programmet listar nedlagd kurs | `Didaktik och ledarskap för ämneslärare` → `PG1020` (nedlagd 2018-07-02) — plain-text-referens; rad: - Didaktik och ledarskap för ämneslärare, 15 hp |
