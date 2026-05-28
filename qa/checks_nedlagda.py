@@ -399,6 +399,17 @@ def check_olänkade_kursreferenser(files: list[Path]) -> list[dict]:
     return findings
 
 
+def _normalize_for_display_compare(s: str) -> str:
+    """Whitespace-normaliserande jämförelseform.
+
+    Kollapsar alla whitespace-tecken (inkl. non-breaking space ``\\xa0`` som
+    du.se ofta sprider in via HTML-export) till ett enda vanligt mellanslag,
+    lowercase och strip. Behåller dash-/slash-varianter som-de-är — synliga
+    skillnader (en-dash vs hyphen) ska fortfarande flaggas eftersom de syns
+    för läsaren."""
+    return _MULTI_WS_RE.sub(" ", s).strip().lower()
+
+
 def check_programtext_skiljer_kursnamn(files: list[Path]) -> list[dict]:
     """Flaggar utbildningsplaner där en länkad kurs-bullet använder ett annat
     kursnamn än kursplanens kanoniska ``kursnamn:``.
@@ -409,7 +420,8 @@ def check_programtext_skiljer_kursnamn(files: list[Path]) -> list[dict]:
     ändå länka via aggressiv normalisering, men programtexten bör uppdateras
     så att studenter ser samma namn på utbildningsplanen som på kursplanen.
 
-    Skillnaden granskas case-insensitive och whitespace-tolerant; bara reella
+    Skillnaden granskas case-insensitive och whitespace-tolerant (inkl. NBSP);
+    osynliga encoding-skillnader filtreras bort så att bara visuellt skiljande
     text-avvikelser flaggas."""
     code_to_name = _load_active_code_to_name()
     findings: list[dict] = []
@@ -427,7 +439,8 @@ def check_programtext_skiljer_kursnamn(files: list[Path]) -> list[dict]:
             if not canonical:
                 continue  # länkad mot okänd kurs — fångas av annan check
             shown = bullet["name"].strip()
-            if shown.lower().strip() == canonical.lower().strip():
+            if (_normalize_for_display_compare(shown)
+                    == _normalize_for_display_compare(canonical)):
                 continue
             findings.append({
                 "check": "programtext-skiljer-kursnamn",

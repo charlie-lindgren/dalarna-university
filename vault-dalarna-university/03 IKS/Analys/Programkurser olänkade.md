@@ -11,14 +11,13 @@ status: första pass
 Utbildningsplanens `## 3. Programmets kurser`-sektion ska helst lista varje kurs som en wikilänk till motsvarande kursplansfil (`[[KOD|Namn]], hp`). Analysen flaggar två typer av problem: **olänkade bullets** (där länken saknas helt) och **länkade bullets där programtexten avviker från kursplanens kanoniska namn** (vår skrapa hittar fortfarande rätt kurs via normalisering, men texten bör samordnas).
 ## Problematiska utbildningsplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Programkurser-olänkade.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (114 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Programkurser-olänkade.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (113 rader)</span></a>
 
-> [!example]- 114 fynd — klicka för att expandera
+> [!example]- 113 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
 > | [HDMFA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=HDMFA) | Utbildningsplan | Programtext avviker från kursplanens namn | Programtext `Samhällsvetenskapliga metoder III – inriktning statsvetenskap` ≠ kursplanens namn `Samhällsvetenskapliga metoder III - inriktning statsvetenskap` (kurskod `ASK289`); rad: - [[ASK289|Samhällsvetenskapliga metoder III – inriktning statsvetenskap]], 15 hp |
-> | [KAPSG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KAPSG) | Utbildningsplan | Programtext avviker från kursplanens namn | Programtext `Konceptutveckling inom medieproduktion för Ljud- och musikproduktion` ≠ kursplanens namn `Konceptutveckling inom medieproduktion för Ljud- och musikproduktion` (kurskod `GLP2NK`); rad: - [[GLP2NK|Konceptutveckling inom medieproduktion för Ljud- och musikproduktion]], 7,5 hp |
 > | [KFTKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFTKG) | Utbildningsplan | Kursnamnet finns varken aktivt eller nedlagt | `Grundläggande filmproduktion för Manus för film och TV` (15 hp); rad: - Grundläggande filmproduktion för Manus för film och TV, 15 hp |
 > | [KFTKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFTKG) | Utbildningsplan | Kursnamnet finns varken aktivt eller nedlagt | `Dokumentär metod för filmisk gestaltning` (7,5 hp); rad: - Dokumentär metod för filmisk gestaltning, 7,5 hp |
 > | [KFTKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFTKG) | Utbildningsplan | Kursnamnet finns varken aktivt eller nedlagt | `7` (5 hp); rad: - 7, 5 hp |
