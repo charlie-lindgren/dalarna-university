@@ -31,7 +31,7 @@ from checks_common import (
 )
 from checks_nedlagda import (
     check_nedlagda_refs_utb,
-    check_olankade_kursreferenser,
+    check_olänkade_kursreferenser,
     check_programtext_skiljer_kursnamn,
     load_index,
 )
@@ -55,10 +55,10 @@ CHECK_LABELS = {
     "stavning-sv":                 "Stavfel (svenska)",
     "stavning-en":                 "Stavfel (engelska)",
     "nedlagd-kursreferens":        "Nedlagd kursreferens",
-    "olankad-okand-kurs":          "Okänd kursreferens i program",
-    "olankad-scraper-miss":        "Aktiv kurs olänkad (scraper-miss)",
-    "olankad-alternativbullet":    "Alternativ-bullet (val mellan kurser)",
-    "olankad-trunkerad-rad":       "Trunkerad kursrad",
+    "olänkad-okand-kurs":          "Okänd kursreferens i program",
+    "olänkad-scraper-miss":        "Aktiv kurs olänkad (scraper-miss)",
+    "olänkad-alternativbullet":    "Alternativ-bullet (val mellan kurser)",
+    "olänkad-trunkerad-rad":       "Trunkerad kursrad",
     "programtext-skiljer-kursnamn": "Programtext skiljer från kursnamn",
 }
 
@@ -92,7 +92,7 @@ def main():
               "kör menyval 8 för att fylla cachen.)", file=sys.stderr)
 
     # Klassificering av olänkade programkursbullets (oavsett nedlagda-cache).
-    steps.append(("Olänkade kursreferenser", check_olankade_kursreferenser))
+    steps.append(("Olänkade kursreferenser", check_olänkade_kursreferenser))
 
     # Programtext som skiljer från kursplanens kanoniska namn (svensk ellipsis
     # m.fl. — vår skrapa lyckas länka via normalisering men texten bör rättas

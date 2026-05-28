@@ -325,7 +325,7 @@ def _classify_unlinked_bullet(name: str, active: set, index: "NedlagdaIndex") ->
     return "okand-kurs"
 
 
-def check_olankade_kursreferenser(files: list[Path]) -> list[dict]:
+def check_olänkade_kursreferenser(files: list[Path]) -> list[dict]:
     """Flaggar olänkade kursbullets i utbildningsplaner och klassar varför.
 
     Kompletterar ``check_nedlagda_refs_utb`` genom att också rapportera fall där
@@ -351,10 +351,10 @@ def check_olankade_kursreferenser(files: list[Path]) -> list[dict]:
                 # Hanteras av check_nedlagda_refs_utb — undvik dubbletter.
                 continue
             check_label = {
-                "scraper-miss":        "olankad-scraper-miss",
-                "program-alternativ":  "olankad-alternativbullet",
-                "trunkerad-rad":       "olankad-trunkerad-rad",
-                "okand-kurs":          "olankad-okand-kurs",
+                "scraper-miss":        "olänkad-scraper-miss",
+                "program-alternativ":  "olänkad-alternativbullet",
+                "trunkerad-rad":       "olänkad-trunkerad-rad",
+                "okand-kurs":          "olänkad-okand-kurs",
             }[kind]
             findings.append({
                 "check": check_label,

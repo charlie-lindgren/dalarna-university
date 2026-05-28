@@ -127,7 +127,7 @@ ANALYS_FILES: dict[str, dict[str, str]] = {
     "Nedlagda kursreferenser.md": {
         "Nedlagd kursreferens": "Programmet listar nedlagd kurs",
     },
-    "Programkurser olankade.md": {
+    "Programkurser olänkade.md": {
         "Okänd kursreferens i program":         "Kursnamnet finns varken aktivt eller nedlagt",
         "Aktiv kurs olänkad (scraper-miss)":    "Kurs finns aktivt men scrapern länkade inte",
         "Alternativ-bullet (val mellan kurser)": "Bullet beskriver val mellan flera kurser",
