@@ -312,15 +312,37 @@ _TRUNCATED_PATTERNS = (
 )
 
 
+# Generiska beskrivningar som du.se använder i programlistor men som inte är
+# namngivna kurser ("Valbar Inriktningskurs", "Examensarbete i ämne 1 eller 2",
+# "Studenterna väljer valfria kurser …"). Vi kan aldrig länka dem och de bör
+# inte heller flaggas — de är legitim programtext om val.
+# Lagras i aggressiv-normaliserad form för matchning.
+_BULLET_EXKLUDERAD_RAW = {
+    "Examensarbete i ämne 1 eller 2",
+    "Valbar Inriktningskurs",
+    "Valbara eller valfria litteraturvetenskapligt inriktade kurser",
+    "Valbara och valfria litteraturvetenskapligt inriktade kurser",
+    "Valbar eller valfri kurs inom franskspråkig litteratur",
+    "Valbar eller valfri kurs inom tyskspråkig litteratur",
+    "Studenterna väljer valfria kurser, i valfritt ämne nationellt eller "
+    "internationellt, i enlighet med eget intresse och i samråd med "
+    "programansvarig. Ett antal valfria kurser om",
+}
+_BULLET_EXKLUDERAD = {_aggressive(s) for s in _BULLET_EXKLUDERAD_RAW}
+
+
 def _classify_unlinked_bullet(name: str, active: set, index: "NedlagdaIndex") -> str:
     """Klassa ett olänkat kursnamn till en av:
 
+    - ``exkluderad``       — generisk programtext, inte en kurs (filtreras bort)
     - ``scraper-miss``     — kursnamnet finns aktivt; vår scraper kunde inte länka
     - ``program-alternativ``— bullet beskriver ett val ("X eller Y") eller "valbar"
     - ``trunkerad-rad``    — oavslutad parentes eller hängande konjunktion
     - ``nedlagd``          — kursnamnet matchar en nedlagd kursplan
     - ``okand-kurs``       — inget av ovan; sannolikt felstavning eller obefintlig kurs
     """
+    if _aggressive(name) in _BULLET_EXKLUDERAD:
+        return "exkluderad"
     if _aggressive(name) in active:
         return "scraper-miss"
     if any(test(name) for test in _TRUNCATED_PATTERNS):
@@ -354,6 +376,9 @@ def check_olänkade_kursreferenser(files: list[Path]) -> list[dict]:
             if bullet["form"] != "plain":
                 continue
             kind = _classify_unlinked_bullet(bullet["name"], active_titles, index)
+            if kind == "exkluderad":
+                # Generisk programtext (val/valfri/textstycke) — inte en kurs.
+                continue
             if kind == "nedlagd":
                 # Hanteras av check_nedlagda_refs_utb — undvik dubbletter.
                 continue
