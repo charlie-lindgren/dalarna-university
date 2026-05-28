@@ -138,20 +138,20 @@ Utbildningsprogrammet samverkar aktivt för en ökad internationalisering mellan
 
 - Introduktion omvårdnad och etik - Huvudområde Omvårdnad, 15 hp
 - [[MC1072|Anatomi och fysiologi I]], 7,5 hp
-- Metoder för evidensbaserad vård I - Huvudområde Omvårdnad, 7,5 hp
+- [[GVÅ2N9|Metoder för evidensbaserad vård I - Huvudområde Omvårdnad]], 7,5 hp
 - [[GMC2M2|Anatomi och fysiologi II]], 7,5 hp
-- Människans grundläggande omvårdnadsbehov - Huvudområde Omvårdnad, 10,5 hp
+- [[GVÅ2RA|Människans grundläggande omvårdnadsbehov - Huvudområde Omvårdnad]], 10,5 hp
 - [[MC1079|Farmakologi]], 4,5 hp
-- Människa, hälsa och samhälle - Huvudområde Omvårdnad, 7,5 hp
-- Metoder och teorier vid symtom och tecken på hälsa/ohälsa I - Huvudområde Omvårdnad, 30 hp
-- Personcentrerad vård inom somatisk vård - Huvudområde Omvårdnad, 15 hp
-- Metoder och teorier vid symtom och tecken på hälsa/ohälsa II - Huvudområde Omvårdnad, 7,5 hp
-- Ledarskap och teamarbete - Huvudområde Omvårdnad, 7,5 hp
-- Personcentrerad vård inom olika vårdsammanhang - Huvudområde Omvårdnad, 22,5 hp
-- Personcentrerad vård inom psykiatrisk vård - Huvudområde Omvårdnad, 7,5 hp
-- Metoder för evidensbaserad vård II - Huvudområde Omvårdnad, 7,5 hp
-- Examensarbete i omvårdnad - Huvudområde Omvårdnad, 15 hp
-- Personcentrerad vård med fördjupning inom omvårdnad - Huvudområde Omvårdnad, 7,5 hp
+- [[GVÅ2AP|Människa, hälsa och samhälle - Huvudområde Omvårdnad]], 7,5 hp
+- [[VÅ1053|Metoder och teorier vid symtom och tecken på hälsa/ohälsa I - Huvudområde Omvårdnad]], 30 hp
+- [[GVÅ384|Personcentrerad vård inom somatisk vård - Huvudområde Omvårdnad]], 15 hp
+- [[GVÅ37Y|Metoder och teorier vid symtom och tecken på hälsa/ohälsa II - Huvudområde Omvårdnad]], 7,5 hp
+- [[GVÅ2S3|Ledarskap och teamarbete - Huvudområde Omvårdnad]], 7,5 hp
+- [[GVÅ2H6|Personcentrerad vård inom olika vårdsammanhang - Huvudområde Omvårdnad]], 22,5 hp
+- [[GVÅ2HM|Personcentrerad vård inom psykiatrisk vård - Huvudområde Omvårdnad]], 7,5 hp
+- [[GVÅ2ZY|Metoder för evidensbaserad vård II - Huvudområde Omvårdnad]], 7,5 hp
+- [[GVÅ36W|Examensarbete i omvårdnad - Huvudområde Omvårdnad]], 15 hp
+- [[GVÅ2ZG|Personcentrerad vård med fördjupning inom omvårdnad - Huvudområde Omvårdnad]], 7,5 hp
 
 ## 4. Examensbenämning
 
