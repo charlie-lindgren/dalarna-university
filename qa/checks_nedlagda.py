@@ -327,6 +327,8 @@ _BULLET_EXKLUDERAD_RAW = {
     "Studenterna väljer valfria kurser, i valfritt ämne nationellt eller "
     "internationellt, i enlighet med eget intresse och i samråd med "
     "programansvarig. Ett antal valfria kurser om",
+    # Praktik/intern­ship — ingår i programmet men är inte en kursplan.
+    "Solenergiteknikpraktik (7,5 eller",
 }
 _BULLET_EXKLUDERAD = {_aggressive(s) for s in _BULLET_EXKLUDERAD_RAW}
 
