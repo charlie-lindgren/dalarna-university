@@ -1,7 +1,7 @@
 """
 Kvalitetskontroller som drar nytta av QA-cachen i ``qa/nedlagda-kursplaner/``.
 
-Cachen byggs av ``scripts/scrape_hda_nedlagda.py`` (menyval 7 i ``hda.sh``)
+Cachen byggs av ``scripts/scrape_hda_nedlagda.py`` (menyval 8 i ``hda.sh``)
 och innehåller en slim metadatafil per nedlagd kursplan på du.se. Den används
 för:
 

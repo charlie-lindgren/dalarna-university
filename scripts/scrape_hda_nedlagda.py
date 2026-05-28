@@ -7,9 +7,9 @@ Cachen är gitignored och visas inte på sajten — den används bara av QA-kode
 för att t.ex. flagga utbildningsplaner som listar nedlagda kurser och vid
 analys av förkunskapskrav.
 
-Använd ``--apply`` för att skriva. Utan flaggan görs en dry-run. Befintliga
-poster hoppas över automatiskt (snabb resumability); ``--force`` skriver om
-alla.
+Använd ``--apply`` för att skriva. Utan flaggan görs en dry-run. Nedlagda
+kursplaner är persistenta — när en kurs väl är nedlagd återuppstår den inte
+— så cachade poster hoppas alltid över utan omskrapning.
 """
 
 from __future__ import annotations
@@ -127,10 +127,6 @@ def main() -> int:
     parser.add_argument(
         "--apply", action="store_true",
         help="Skriv filer (utan flaggan görs en dry-run).",
-    )
-    parser.add_argument(
-        "--force", action="store_true",
-        help="Skriv om även redan cachade poster.",
     )
     parser.add_argument(
         "--concurrency", type=int, default=6,

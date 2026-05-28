@@ -352,6 +352,7 @@ run_full_pipeline() {
     echo "  • Skrapa utbildningsplaner"
     echo "  • Identifiera vilande kursplaner"
     echo "  • Bygg om MOC-filer från vault"
+    echo "  • Skrapa nedlagda kursplaner (QA-cache)"
     echo "  • QA kursplaner (rapport)"
     echo "  • QA utbildningsplaner (rapport)"
     echo "  • Populera analysfilerna"
@@ -367,6 +368,8 @@ run_full_pipeline() {
     run_vilande
     echo ""
     run_rebuild_mocs
+    echo ""
+    run_scrape_nedlagda
     echo ""
     run_qa_kurs
     echo ""
