@@ -296,12 +296,16 @@ def scan_programme_bullets(text: str) -> list[dict]:
         m = _BULLET_PLAIN.match(line)
         if m:
             name = m.group(1).strip()
-            # Filtrera bort spöke-bullets från trasig du.se-rendering där
-            # kursnamnet hamnat på föregående rad som rubrik (KFTKG: bullet
-            # ``- 7, 5 hp`` blir kvar när rubriken ``**Manus för TV och film 5
-            # …,**`` står ovanför). En bullet vars "namn" är rent
-            # numeriskt/kortare än 3 tecken är aldrig en riktig kurs.
-            if len(name) < 3 or not re.search(r"[A-Za-zÅÄÖåäö]", name):
+            # Filtrera bort spöke-bullets från trasig du.se-rendering:
+            # - KFTKG: bullet ``- 7, 5 hp`` blir kvar när rubriken ``**Manus
+            #   för TV och film 5 …,**`` står ovanför — namnet blir bara ett
+            #   tal.
+            # - VBSKA: bullet ``- ) kurser som krävs för magisterexamen,
+            #   60 hp`` har en föräldralös ``)`` som startar raden — du.se
+            #   har vikt en parentes över radslutet och endast slutet
+            #   parsades som bullet.
+            # Riktiga kursnamn börjar alltid på bokstav/siffra.
+            if len(name) < 3 or not re.match(r"[\w\dÅÄÖåäö]", name):
                 continue
             out.append({"form": "plain", "code": None,
                         "name": name, "hp": m.group(2),
