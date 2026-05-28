@@ -40,6 +40,13 @@ INST_DIRS = ["01 IIT", "02 IHV", "03 IKS", "04 ISLL"]
 # matchningen mot aktivt kursindex lyckas och bullets länkas i stället för att
 # rapporteras som okända.
 _HUVUDOMRADE_SUFFIX_RE = re.compile(r"\s+-\s+huvudområde\b.*$")
+# Lärarprogrammens AIL-varianter ("arbetsintegrerat lärande") får ett
+# ``- AIL``-suffix i programtexten medan kursplanen själv inte bär det.
+# Strip suffixet vid normalisering så bulleten länkas mot rätt kurskod.
+_AIL_SUFFIX_RE = re.compile(r"\s+[-–—]\s+ail\s*$")
+# Soft hyphen (U+00AD) sprids in via HTML-export — osynligt tecken som inte
+# bör hindra matchning.
+_SOFT_HYPHEN_RE = re.compile(r"­")
 _AKK_RE = re.compile(r"\b(?:åk|årskurs)\s+(?=[F\d])", re.I)
 # Svensk ellips i sammansättningar: "System- och verksamhetsutveckling" är
 # en kortform av "Systemutveckling och verksamhetsutveckling". För matchning
@@ -56,7 +63,9 @@ _MULTI_WS_RE = re.compile(r"\s+")
 
 def _aggressive(name: str) -> str:
     n = name.strip().lower()
+    n = _SOFT_HYPHEN_RE.sub("", n)
     n = _HUVUDOMRADE_SUFFIX_RE.sub("", n)
+    n = _AIL_SUFFIX_RE.sub("", n)
     n = _AKK_RE.sub("", n)
     n = _ELLIPSIS_DASH_RE.sub("", n)
     n = _DASH_WS_RE.sub("-", n)
@@ -341,6 +350,8 @@ _TRUNCATED_PATTERNS = (
 _BULLET_EXKLUDERAD_RAW = {
     "Examensarbete i ämne 1 eller 2",
     "Valbar Inriktningskurs",
+    "Valfri kurs",
+    "Obligatoriska kurser",
     "Valbara eller valfria litteraturvetenskapligt inriktade kurser",
     "Valbara och valfria litteraturvetenskapligt inriktade kurser",
     "Valbar eller valfri kurs inom franskspråkig litteratur",
@@ -352,6 +363,14 @@ _BULLET_EXKLUDERAD_RAW = {
     "Solenergiteknikpraktik (7,5 eller",
 }
 _BULLET_EXKLUDERAD = {_aggressive(s) for s in _BULLET_EXKLUDERAD_RAW}
+
+# Mönstret ``Ämne 1/2/3 med didaktisk inriktning I/II/III`` är en generisk
+# platshållare i lärarprogrammens kurslistor — det betyder "studenten väljer
+# ett ämne och läser dess didaktikkurs" och pekar inte mot någon konkret
+# kursplan. Vi kan aldrig länka det och bör inte heller flagga det.
+_PLACEHOLDER_BULLET_RE = re.compile(
+    r"^ämne\s+\d+\s+med\s+didaktisk\s+inriktning\b", re.I,
+)
 
 
 # Kandidat-matchningar för olänkade bullets — när programtextens kursnamn inte
@@ -386,6 +405,14 @@ def _classify_unlinked_bullet(name: str, active: set, index: "NedlagdaIndex") ->
     - ``okand-kurs``       — inget av ovan; sannolikt felstavning eller obefintlig kurs
     """
     if _aggressive(name) in _BULLET_EXKLUDERAD:
+        return "exkluderad"
+    if _PLACEHOLDER_BULLET_RE.match(name.strip()):
+        return "exkluderad"
+    # Prosa-stycken på 150+ tecken är fritext om utbildningen, inte en
+    # kursrad — de fångas oftast bara för att raden råkar sluta på ``, N hp``
+    # någonstans (t.ex. ``Vid Högskolan Dalarna är examensarbetet …
+    # Vetenskapsteori och utbildningsvetenskaplig forskning, 7,5 hp``).
+    if len(name) > 150:
         return "exkluderad"
     if _aggressive(name) in active:
         return "scraper-miss"
