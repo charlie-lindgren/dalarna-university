@@ -269,6 +269,9 @@ def _lookup_course(raw_name: str, kursplan_index: dict) -> tuple[str, str] | Non
     clean = re.sub(r"^[\-–—•*_]+\s*", "", raw_name.strip())
     clean = re.sub(r"^\d+[\.\):]\s*", "", clean)
     clean = re.sub(r"[\*_]+$", "", clean).strip()
+    # Strip leading "Eller "/"Alternativt " — bullets formulerade som alternativ
+    # till föregående rad.
+    clean = re.sub(r"^(?:eller|alternativt)\s+", "", clean, flags=re.I).strip()
     lookup = clean.lower()
     if lookup in kursplan_index:
         return kursplan_index[lookup]
