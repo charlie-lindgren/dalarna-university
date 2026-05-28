@@ -550,9 +550,20 @@ def check_programtext_skiljer_kursnamn(files: list[Path]) -> list[dict]:
             if not canonical:
                 continue  # länkad mot okänd kurs — fångas av annan check
             shown = bullet["name"].strip()
-            if (_normalize_for_display_compare(shown)
-                    == _normalize_for_display_compare(canonical)):
+            norm_shown = _normalize_for_display_compare(shown)
+            norm_canonical = _normalize_for_display_compare(canonical)
+            if norm_shown == norm_canonical:
                 continue
+            # Programtext utökar ofta kursnamnet med en undertitel efter
+            # kolon: ``Svenska 1 för grundlärare 4–6: Barns språkutveckling
+            # …``. Kursplanens egen titel är bara prefixet ``Svenska 1 för
+            # grundlärare 4-6``. Om prefixet matchar kanoniska namnet räknas
+            # det inte som en avvikelse — undertiteln är legitim
+            # programtext-utvidgning.
+            if ":" in norm_shown:
+                shown_prefix = norm_shown.split(":", 1)[0].strip()
+                if shown_prefix == norm_canonical:
+                    continue
             findings.append({
                 "check": "programtext-skiljer-kursnamn",
                 "code": prog_code,
