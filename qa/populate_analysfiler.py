@@ -132,6 +132,7 @@ ANALYS_FILES: dict[str, dict[str, str]] = {
         "Aktiv kurs olänkad (scraper-miss)":    "Kurs finns aktivt men scrapern länkade inte",
         "Alternativ-bullet (val mellan kurser)": "Bullet beskriver val mellan flera kurser",
         "Trunkerad kursrad":                    "Kursraden ser avbruten/feltrycklig ut",
+        "Programtext skiljer från kursnamn":     "Programtext avviker från kursplanens namn",
     },
 }
 

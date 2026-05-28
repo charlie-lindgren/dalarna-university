@@ -118,7 +118,7 @@ Programmets upplägg ger behörighet till vidareutbildning på magister- och mas
 - [[GIK32J|Responsiv webbdesign]], 7,5 hp
 - [[GST2CL|Statistisk analys]], 7,5 hp
 - [[GIK32M|Strategisk kommunikation]], 7,5 hp
-- System- och verksamhetsutveckling, 7,5 hp
+- [[GIK2XZ|System- och verksamhetsutveckling]], 7,5 hp
 - [[GIK38J|Visualisering]], 7,5 hp
 - [[GIK2QZ|Visuell identitet]], 7,5 hp
 

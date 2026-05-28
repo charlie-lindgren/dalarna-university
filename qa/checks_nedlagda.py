@@ -91,6 +91,41 @@ class NedlagdaIndex:
 
 _INDEX_CACHE: NedlagdaIndex | None = None
 _ACTIVE_TITLES: set[str] | None = None
+_ACTIVE_CODE_TO_NAME: dict[str, str] | None = None
+
+
+def _load_active_code_to_name() -> dict[str, str]:
+    """Bygg ``kurskod → kanoniskt kursnamn`` från vaultens aktiva kursplaner.
+
+    Används för att jämföra alias-texten i en utbildningsplans wikilink-bullet
+    mot kursens officiella namn — så att programtext som avviker från
+    kursplanens namn kan lyftas för administrativ rättning."""
+    global _ACTIVE_CODE_TO_NAME
+    if _ACTIVE_CODE_TO_NAME is not None:
+        return _ACTIVE_CODE_TO_NAME
+    mapping: dict[str, str] = {}
+    name_re = re.compile(r'^kursnamn:\s*"?([^"\n]+?)"?\s*$', re.M)
+    for inst in INST_DIRS:
+        kp = VAULT / inst / "Kursplaner"
+        if not kp.exists():
+            continue
+        for path in kp.rglob("*.md"):
+            if "MOC" in path.name:
+                continue
+            try:
+                head = path.read_text(encoding="utf-8")[:1500]
+            except OSError:
+                continue
+            if not head.startswith("---"):
+                continue
+            end = head.find("\n---", 3)
+            if end < 0:
+                continue
+            m = name_re.search(head[3:end])
+            if m:
+                mapping[path.stem.upper()] = m.group(1).strip()
+    _ACTIVE_CODE_TO_NAME = mapping
+    return mapping
 
 
 def _load_active_titles() -> set[str]:
@@ -326,6 +361,48 @@ def check_olankade_kursreferenser(files: list[Path]) -> list[dict]:
                 "code": prog_code,
                 "subj": "Utbildningsplan",
                 "detail": f"`{bullet['name']}` ({bullet['hp']}); rad: {bullet['line']}",
+            })
+    return findings
+
+
+def check_programtext_skiljer_kursnamn(files: list[Path]) -> list[dict]:
+    """Flaggar utbildningsplaner där en länkad kurs-bullet använder ett annat
+    kursnamn än kursplanens kanoniska ``kursnamn:``.
+
+    Triggas främst av svensk ellipsis i sammansättningar — programmet skriver
+    "System- och verksamhetsutveckling" medan kursplanens egen titel är
+    "System och verksamhetsutveckling" (utan bindestrecket). Skrapan lyckas
+    ändå länka via aggressiv normalisering, men programtexten bör uppdateras
+    så att studenter ser samma namn på utbildningsplanen som på kursplanen.
+
+    Skillnaden granskas case-insensitive och whitespace-tolerant; bara reella
+    text-avvikelser flaggas."""
+    code_to_name = _load_active_code_to_name()
+    findings: list[dict] = []
+    for path in files:
+        try:
+            text = path.read_text(encoding="utf-8")
+        except OSError:
+            continue
+        prog_code = path.stem
+        for bullet in scan_programme_bullets(text):
+            if bullet["form"] not in ("wikilink", "nograph"):
+                continue
+            code = (bullet["code"] or "").upper()
+            canonical = code_to_name.get(code)
+            if not canonical:
+                continue  # länkad mot okänd kurs — fångas av annan check
+            shown = bullet["name"].strip()
+            if shown.lower().strip() == canonical.lower().strip():
+                continue
+            findings.append({
+                "check": "programtext-skiljer-kursnamn",
+                "code": prog_code,
+                "subj": "Utbildningsplan",
+                "detail": (
+                    f"Programtext `{shown}` ≠ kursplanens namn "
+                    f"`{canonical}` (kurskod `{code}`); rad: {bullet['line']}"
+                ),
             })
     return findings
 

@@ -103,7 +103,7 @@ Programmets upplägg ger behörighet till vidareutbildning på magister- och mas
 - [[GIK2KM|Data Science och maskininlärning]], 7,5 hp
 - [[GIK2XJ|Objektorienterad design och problemlösning]], 7,5 hp
 - [[GST2CL|Statistisk analys]], 7,5 hp
-- System- och verksamhetsutveckling, 7,5 hp
+- [[GIK2XZ|System- och verksamhetsutveckling]], 7,5 hp
 - [[GIK2JX|Webbaserade geografiska informationssystem]], 7,5 hp
 - Data Storage & Management Technologies, 7,5 hp
 - [[GIK2NX|Distributed Computing]], 7,5 hp

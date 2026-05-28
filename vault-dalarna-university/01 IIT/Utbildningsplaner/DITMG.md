@@ -116,7 +116,7 @@ Programmet avslutas med ett examensarbete.
 - [[GMI2J3|Mjukvarutestning 1]], 7,5hp
 - [[GIK2XJ|Objektorienterad design och problemlösning]], 7,5hp
 - [[GST2CL|Statistisk analys]], 7,5hp
-- System- och verksamhetsutveckling, 7,5hp
+- [[GIK2XZ|System- och verksamhetsutveckling]], 7,5hp
 - [[GDT2JN|Datakommunikation 2]], 7,5hp
 - [[GDT3CR|Etisk hackning]], 7,5hp
 - [[GMI2C8|Examensarbete för kandidatexamen i mikrodataanalys]], 15hp
