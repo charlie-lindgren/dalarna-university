@@ -146,6 +146,9 @@ def _normalize_course_name(raw: str) -> str:
     # Strip numbered prefix: "1.", "1)", "1:" used inside HAFSA's italic lists.
     name = re.sub(r"^\d+[\.\):]\s*", "", name).strip()
     name = re.sub(r"[\*_]+$", "", name).strip()
+    # Strip leading "Eller "/"Alternativt " — bullets som listar ett alternativ
+    # till föregående rad ("- Eller Examensarbete för Magisterexamen i …").
+    name = re.sub(r"^(?:eller|alternativt)\s+", "", name, flags=re.I).strip()
     # Strip trailing level qualifiers: ", avancerad nivå", ", grundnivå"
     name = re.sub(r",\s*(?:avancerad|grund)\s*nivå$", "", name, flags=re.I).strip()
     # Strip parenthesized subject tags: "(FÖ)", "(EU)", "(Idrott- och hälsovetenskap)"
