@@ -333,6 +333,27 @@ _BULLET_EXKLUDERAD_RAW = {
 _BULLET_EXKLUDERAD = {_aggressive(s) for s in _BULLET_EXKLUDERAD_RAW}
 
 
+# Kandidat-matchningar för olänkade bullets — när programtextens kursnamn inte
+# matchar någon kurs men vi (manuellt) vet vilken kurs som sannolikt åsyftas.
+# Format: ``"programtext"`` → ``"kanoniskt kursnamn"``. Den föreslagna kursen
+# slås sedan upp i vaulten för att hämta kurskoden. Mappningen är medvetet
+# konservativ: bara fall där vi är tämligen säkra på vad som åsyftas.
+_KANDIDAT_MATCHNINGAR_RAW: dict[str, str] = {
+    "Logik och matematik":                    "Logik och matematik för datavetenskap",
+    "Datakommunikation I":                    "Datakommunikation 1",
+    "Data Storage & Management Technologies": "Data Storage and Management Technologies",
+    "Finita elementmetoden i praktiken":      "Finita element metoden i praktiken",
+    "Finita elementmetoden":                  "Finita element metoden i praktiken",
+    "3D CAD grundkurs":                       "3D-CAD – grundkurs",
+    "Underhåll och kvalitet":                 "Industriell ekonomi - underhåll och kvalitet",
+    "Design av PV hybrid system":             "Design av PV- och hybridsystem",
+    "Examensarbete för högskoleexamen inom maskinteknik": "Examensarbete för högskoleexamen i maskinteknik",
+}
+_KANDIDAT_MATCHNINGAR: dict[str, str] = {
+    _aggressive(k): v for k, v in _KANDIDAT_MATCHNINGAR_RAW.items()
+}
+
+
 def _classify_unlinked_bullet(name: str, active: set, index: "NedlagdaIndex") -> str:
     """Klassa ett olänkat kursnamn till en av:
 
@@ -390,23 +411,43 @@ def check_olänkade_kursreferenser(files: list[Path]) -> list[dict]:
                 "trunkerad-rad":       "olänkad-trunkerad-rad",
                 "okand-kurs":          "olänkad-okand-kurs",
             }[kind]
+            detail = f"`{bullet['name']}` ({bullet['hp']}); rad: {bullet['line']}"
+            # Vid "okand-kurs": föreslå sannolik kurskandidat om vi har en
+            # manuellt curerad mappning. Suffixet visas i analysen så att
+            # programansvarig direkt ser vår bästa gissning på rätt kurs.
+            if kind == "okand-kurs":
+                suggestion = _KANDIDAT_MATCHNINGAR.get(_aggressive(bullet["name"]))
+                if suggestion:
+                    code_to_name = _load_active_code_to_name()
+                    by_agg = {_aggressive(v): k for k, v in code_to_name.items()}
+                    sugg_code = by_agg.get(_aggressive(suggestion))
+                    if sugg_code:
+                        detail += (
+                            f" — sannolikt avses `{suggestion}` "
+                            f"(kurskod `{sugg_code}`)"
+                        )
             findings.append({
                 "check": check_label,
                 "code": prog_code,
                 "subj": "Utbildningsplan",
-                "detail": f"`{bullet['name']}` ({bullet['hp']}); rad: {bullet['line']}",
+                "detail": detail,
             })
     return findings
 
 
+_DASH_VARIANTS_RE = re.compile(r"[–—]")
+
+
 def _normalize_for_display_compare(s: str) -> str:
-    """Whitespace-normaliserande jämförelseform.
+    """Whitespace- och dash-normaliserande jämförelseform.
 
     Kollapsar alla whitespace-tecken (inkl. non-breaking space ``\\xa0`` som
     du.se ofta sprider in via HTML-export) till ett enda vanligt mellanslag,
-    lowercase och strip. Behåller dash-/slash-varianter som-de-är — synliga
-    skillnader (en-dash vs hyphen) ska fortfarande flaggas eftersom de syns
-    för läsaren."""
+    normaliserar en-dash/em-dash (``–``/``—``) till vanligt bindestreck ``-``,
+    lowercase och strip. Hyphens-saknad eller ord-skillnader flaggas
+    fortfarande — bara dash-varianter och osynliga encoding-skillnader
+    filtreras bort (administrationen kan inte agera på dem)."""
+    s = _DASH_VARIANTS_RE.sub("-", s)
     return _MULTI_WS_RE.sub(" ", s).strip().lower()
 
 
