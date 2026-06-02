@@ -10,7 +10,7 @@ up: "[[ISLL MOC]]"
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 > Huvudområde: Ej huvudområde 1
 
-## Kurser (38 st)
+## Kurser (36 st)
 
 - [[ASS257]] — Examensarbete i svenska som andraspråk för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 - [[ASS258]] — Examensarbete i svenska som andraspråk för ämneslärarexamen, inriktning gymnasieskolan
@@ -34,12 +34,10 @@ up: "[[ISLL MOC]]"
 - [[GSS3BM]] — Språk, undervisning och lärande i ett andraspråksperspektiv
 - [[GSS3BN]] — Svenska som andraspråk II med didaktisk inriktning
 - [[GSS3BP]] — Bedömning av avancerade språkfärdigheter hos inlärare av svenska som andraspråk
-- [[GSS3C6]] — Lärande genom fiktionstext i gymnasieskolan
 - [[GSS3C7]] — Svenska som andraspråk III med didaktisk inriktning för gymnasieskolan
 - [[GSS3H8]] — Svenska som andraspråk II
 - [[GSS3H9]] — Ämnesspecifikt språk
 - [[GSS3HB]] — Modersmål med didaktisk inriktning
-- [[GSS3HC]] — Introduktion till modersmålsundervisning och studiehandledning på modersmålet
 - [[GSS3HD]] — Språkdidaktik med fokus på modersmål och flerspråkighet
 - [[GSS3HG]] — Svenska som andraspråk III med didaktisk inriktning för gymnasieskolan
 - [[GSS3HH]] — Lärande genom fiktionstext i gymnasieskolan
@@ -51,7 +49,7 @@ up: "[[ISLL MOC]]"
 - [[SS3008]] — Flerspråkiga röster i svensk skönlitteratur
 - [[SS3011]] — Svenska som andraspråk: Examensarbete för magisterexamen
 
-## Vilande kursplaner (25 st)
+## Vilande kursplaner (27 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -70,6 +68,8 @@ up: "[[ISLL MOC]]"
 - [[GSS39S]] — Den globala skolan - undervisning inom grundskolan
 - [[GSS39T]] — Den globala skolan - undervisning inom gymnasieskolan
 - [[GSS39U]] — Den globala skolan - undervisning inom vuxenutbildningen
+- [[GSS3C6]] — Lärande genom fiktionstext i gymnasieskolan
+- [[GSS3HC]] — Introduktion till modersmålsundervisning och studiehandledning på modersmålet
 - [[GSS3HE]] — Sociolingvistiska perspektiv på modersmålsundervisning
 - [[GSS3HF]] — Flerspråkiga perspektiv på skriftspråksutveckling
 - [[GSS3K2]] — Litteraturdidaktik för ämneslärare i svenska som andraspråk på gymnasial nivå

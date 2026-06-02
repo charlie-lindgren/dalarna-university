@@ -10,7 +10,7 @@ up: "[[IHV MOC]]"
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 > Huvudområde: Sexuell, reproduktiv och perinatal hälsa 1
 
-## Kurser (23 st)
+## Kurser (25 st)
 
 - [[ASR25T]] — Hälso- och sjukvårdssystemforskning i låg-, medel- och höginkomstkontext
 - [[ASR25U]] — Ledarskap och organisation inom hälso- och sjukvårdssystem
@@ -29,6 +29,8 @@ up: "[[IHV MOC]]"
 - [[ASR2CH]] — Examensarbete i sexuell, reproduktiv och perinatal hälsa
 - [[ASR2CJ]] — Ledarskap och organisation inom hälso- och sjukvårdssystem
 - [[ASR2CK]] — Hälso- och sjukvårdssystemforskning i låg-, medel- och höginkomstkontext
+- [[ASR2CR]] — Graviditet, förlossning och postpartumperiod II
+- [[ASR2CS]] — Graviditet, förlossning och postpartumperiod I
 - [[GSR2ZH]] — Ungdomar och unga vuxnas sexuella och reproduktiva hälsa och rättigheter I
 - [[GSR3BZ]] — Global sexuell och reproduktiv hälsa samt rättigheter för ungdomar och unga vuxna
 - [[SR3008]] — Profession, teori och metod

@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (250 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (252 rader)</span></a>
 
-> [!example]- 250 fynd — klicka för att expandera
+> [!example]- 252 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -235,6 +235,8 @@ status: första pass
 > | [ASR25P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR25P) | SRP | Paritetsskillnad | Svenska: 6 mål, engelska: 8 mål (diff 2) |
 > | [ASR285](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR285) | SRP | Paritetsskillnad | Svenska: 13 mål, engelska: 12 mål (diff 1) |
 > | [ASR29V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29V) | SRP | Paritetsskillnad | Svenska: 13 mål, engelska: 12 mål (diff 1) |
+> | [ASR2CR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CR) | SRP | Paritetsskillnad | Svenska: 8 mål, engelska: 5 mål (diff 3) |
+> | [ASR2CS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CS) | SRP | Paritetsskillnad | Svenska: 9 mål, engelska: 6 mål (diff 3) |
 > | [GSR2ZH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSR2ZH) | SRP | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
 > | [SR3008](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SR3008) | SRP | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
 > | [SR3009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SR3009) | SRP | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |

@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (192 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (206 rader)</span></a>
 
-> [!example]- 192 fynd — klicka för att expandera
+> [!example]- 206 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -206,6 +206,20 @@ status: första pass
 > | [AS3009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS3009) | UVX | Felstavning | `literära` (sv) |
 > | [AS3012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS3012) | UVX | Felstavning (en) | `outlineof` (en) |
 > | [AS4003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS4003) | UVX | Felstavning | `angrepssätt` (sv) |
+> | [HAFSA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=HAFSA) | Utbildningsplaner | Felstavning | `västafrika` (sv) |
+> | [KAPSG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KAPSG) | Utbildningsplaner | Felstavning | `jörgensen` (sv) |
+> | [KFPPG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFPPG) | Utbildningsplaner | Felstavning | `göran` (sv) |
+> | [KFTKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFTKG) | Utbildningsplaner | Felstavning | `åsa` (sv) |
+> | [KMLJG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KMLJG) | Utbildningsplaner | Felstavning | `påbyggbar` (sv) |
+> | [KMPTG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KMPTG) | Utbildningsplaner | Felstavning | `thorbjörn` (sv) |
+> | [LVALA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LVALA) | Utbildningsplaner | Felstavning | `fändrik` (sv) |
+> | [LVALA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LVALA) | Utbildningsplaner | Felstavning | `grundlärar` (sv) |
+> | [LVALA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LVALA) | Utbildningsplaner | Felstavning | `umeå` (sv) |
+> | [LVALA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LVALA) | Utbildningsplaner | Felstavning | `ämneslärar` (sv) |
+> | [SENGR](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SENGR) | Utbildningsplaner | Felstavning | `utgångpunkt` (sv) |
+> | [SENGR](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SENGR) | Utbildningsplaner | Felstavning | `väldfärdsanalys` (sv) |
+> | [SPARG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SPARG) | Utbildningsplaner | Felstavning | `enström` (sv) |
+> | [SSHVG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SSHVG) | Utbildningsplaner | Felstavning | `möjliggörandet` (sv) |
 
 ## Syfte
 

@@ -10,7 +10,7 @@ up: "[[IHV MOC]]"
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 > Huvudområde: Omvårdnad 1
 
-## Kurser (37 st)
+## Kurser (38 st)
 
 - [[AVÅ27L]] — Vård och omsorg för personer med demens (fristående kurs)
 - [[AVÅ28G]] — Nutrition och ätande
@@ -27,6 +27,7 @@ up: "[[IHV MOC]]"
 - [[AVÅ2A4]] — Folkhälsa och folkhälsoarbete
 - [[AVÅ2A5]] — Hälsa och omvårdnad av barn och ungdom
 - [[AVÅ2BH]] — Hälsa och omvårdnad av vuxna och äldre
+- [[AVÅ2CN]] — Handledning inom omvårdnad vid Verksamhetsförlagd utbildning (VFU)
 - [[GVÅ2AP]] — Människa, hälsa och samhälle
 - [[GVÅ2N9]] — Metoder för evidensbaserad vård I
 - [[GVÅ2S3]] — Ledarskap och teamarbete

@@ -10,7 +10,7 @@ up: "[[ISLL MOC]]"
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 > Huvudområde: Kinesiska 1
 
-## Kurser (20 st)
+## Kurser (19 st)
 
 - [[AKI25K]] — Examensarbete i kinesiska för ämneslärarexamen, inriktning gymnasieskolan
 - [[AKI28Z]] — Kinesiska: Praktik för undervisning i högre utbildning I
@@ -20,7 +20,6 @@ up: "[[ISLL MOC]]"
 - [[GKI27H]] — Kinesiska i tal och skrift II
 - [[GKI2HT]] — Kinesisk lingvistik
 - [[GKI2PZ]] — Kinesisk översättning
-- [[GKI2Q9]] — Kinesiska: Det kinesiska samhället
 - [[GKI2QA]] — Kinesiska: Kandidatexamensarbete
 - [[GKI2VM]] — Kinesiska: Språkinlärning och språkundervisning
 - [[GKI3C8]] — Kinesiska för affärslivet I
@@ -33,7 +32,7 @@ up: "[[ISLL MOC]]"
 - [[KI1046]] — Kinesiska i tal och skrift I
 - [[KI1047]] — Kinesisk muntlig språkfärdighet I
 
-## Vilande kursplaner (17 st)
+## Vilande kursplaner (18 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -43,6 +42,7 @@ up: "[[ISLL MOC]]"
 - [[GKI2PX]] — Kinesiska: skriftlig tillämpning
 - [[GKI2PY]] — Kinesiska i tal och skrift III
 - [[GKI2Q2]] — Kinesisk språkstruktur
+- [[GKI2Q9]] — Kinesiska: Det kinesiska samhället
 - [[GKI2VL]] — Kinas kultur och samhälle - introduktionskurs
 - [[GKI2W3]] — Kinesiska I med didaktisk inriktning
 - [[GKI3C9]] — Kinesiska för affärslivet II

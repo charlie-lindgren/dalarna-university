@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (206 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (208 rader)</span></a>
 
-> [!example]- 206 fynd — klicka för att expandera
+> [!example]- 208 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -190,6 +190,8 @@ status: första pass
 > | [ASR2AD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2AD) | SRP | Långt mål | 28 ord: - i simulerad miljö utföra undersökningar och behandlingar vid handläggning av k… |
 > | [ASR2BM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2BM) | SRP | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [ASR2CE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CE) | SRP | Långt mål | 26 ord: - redogöra för centrala begrepp inom global sexuell och reproduktiv hälsa och rä… |
+> | [ASR2CS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CS) | SRP | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
+> | [ASR2CS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CS) | SRP | Långt mål | 26 ord: - redogöra för och motivera metoder för att främja, undersöka och övervaka kvinn… |
 > | [GSR38B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSR38B) | SRP | Långt mål | 33 ord: - uppvisa kunskap, förståelse och reflekterande färdigheter om sexuell och repro… |
 > | [SR3001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SR3001) | SRP | Långt mål | 30 ord: - värdera olika strategier för ledarskap och interventioner som har potential at… |
 > | [SR3002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SR3002) | SRP | Långt mål | 27 ord: - analysera och kritiskt värdera styrkor och svagheter i forskningsprocessens ol… |
