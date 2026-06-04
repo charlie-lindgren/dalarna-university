@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Frasningskonsistens.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (98 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Frasningskonsistens.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (99 rader)</span></a>
 
-> [!example]- 98 fynd — klicka för att expandera
+> [!example]- 99 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -36,6 +36,7 @@ status: första pass
 > | [GIK28T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK28T) | IKA | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna… |
 > | [GIK29B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK29B) | IKA | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | [GIK2Q3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2Q3) | IKA | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | [BMA229](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BMA229) | MAA | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | [GMA2EY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2EY) | MAA | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | [GMD2BH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2BH) | MDI | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [GMD2EX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2EX) | MDI | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |

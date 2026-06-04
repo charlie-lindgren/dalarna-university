@@ -10,7 +10,7 @@ up: "[[IKS MOC]]"
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 > Huvudområde: Ej huvudområde 1
 
-## Kurser (75 st)
+## Kurser (76 st)
 
 - [[APG22X]] — Tematisk fördjupning inom ett utbildningsvetenskapligt område
 - [[APG244]] — Vetenskapsteori och utbildningsvetenskaplig forskning för grundlärare F-3
@@ -81,6 +81,7 @@ up: "[[IKS MOC]]"
 - [[GPG3JC]] — Utbildningssystemet i Sverige
 - [[GPG3JD]] — Att leda kollegiala lärprocesser i förskola och skola
 - [[GPG3JP]] — Interkulturell och inkluderande undervisning i globala sammanhang
+- [[PG3023]] — Pedagogiskt arbete IIIb: Examensarbete
 - [[PG3024]] — Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare F-3
 - [[PG3025]] — Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare 4-6
 - [[PG3031]] — Utbildningsfilosofiska perspektiv
@@ -88,7 +89,7 @@ up: "[[IKS MOC]]"
 - [[PG3061]] — Att kritiskt granska utbildningsvetenskaplig forskning
 - [[PG3069]] — Utbildningsvetenskapliga ansatser - teoretisk och  metodologisk fördjupning
 
-## Vilande kursplaner (34 st)
+## Vilande kursplaner (33 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -123,6 +124,5 @@ up: "[[IKS MOC]]"
 - [[GPG3FT]] — Verksamhetsförlagd utbildning 2 - VAL
 - [[PG2043]] — Pedagogiskt arbete IIIb: Examensarbete (grundnivå 2)
 - [[PG2048]] — Pedagogiskt arbete IIIb: Examensarbete (grundnivå)
-- [[PG3023]] — Pedagogiskt arbete IIIb: Examensarbete
 - [[PG3056]] — Perspektiv på pedagogisk praktik
 - [[PG3065]] — Examensarbete för magisterexamen i pedagogiskt arbete

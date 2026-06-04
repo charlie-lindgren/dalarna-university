@@ -10,7 +10,7 @@ up: "[[IIT MOC]]"
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
 > Huvudområde: Ej huvudområde 1
 
-## Kurser (38 st)
+## Kurser (39 st)
 
 - [[ABY22V]] — Energieffektiva installationssystem
 - [[ABY22W]] — Byggnaders energiprestanda - simulering och analys
@@ -50,6 +50,7 @@ up: "[[IIT MOC]]"
 - [[GBY3AX]] — Husbyggnadsprojekt III - Byggkonstruktionsprojekt
 - [[GBY3DW]] — Resurseffektivt byggande
 - [[GBY3DX]] — Väg- och trafikplanering
+- [[GBY3K7]] — Ledarskap
 
 ## Vilande kursplaner (8 st)
 

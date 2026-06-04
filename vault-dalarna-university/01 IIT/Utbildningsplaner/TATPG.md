@@ -144,7 +144,7 @@ I inriktningskurserna avspeglas assisterande teknik genom exempel och tillämpni
 
 - [[GMA2ZS|Analys i en variabel]], 7,5 hp
 - [[GMT3JV|Assisterande robotik]], 7,5 hp
-- Forskningsmetodik för ingenjörer, 7,5hp
+- [[GMT3K6|Forskningsmetodik för ingenjörer]], 7,5hp
 - [[MD2025|Linjär algebra]], 7,5 hp
 - [[GMT3BW|Mekanik]], 7,5 hp
 - Produktutveckling, 7,5 hp
@@ -153,7 +153,7 @@ I inriktningskurserna avspeglas assisterande teknik genom exempel och tillämpni
 
 ****År 3****
 
-- Examensarbete i assisterande teknik med inriktning mot maskinteknik, 15 hp
+- [[GMT3K5|Examensarbete i assisterande teknik med inriktning mot maskinteknik]], 15 hp
 - Finita elementmetoden i praktiken, 7,5 hp
 - [[MT1060|Hållfasthetslära]], 7,5 hp
 - [[GIE3JW|Innovation och entreprenörskap inom assisterande teknik]], 7,5 hp

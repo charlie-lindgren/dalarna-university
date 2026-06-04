@@ -459,7 +459,7 @@ def check_olänkade_kursreferenser(files: list[Path]) -> list[dict]:
                 "trunkerad-rad":       "olänkad-trunkerad-rad",
                 "okand-kurs":          "olänkad-okand-kurs",
             }[kind]
-            detail = f"`{bullet['name']}` ({bullet['hp']}); rad: {bullet['line']}"
+            detail = f"`{bullet['name']}` ({bullet['hp']})"
             # Vid "okand-kurs": föreslå sannolik kurskandidat om vi har en
             # manuellt curerad mappning. Suffixet visas i analysen så att
             # programansvarig direkt ser vår bästa gissning på rätt kurs.
@@ -579,7 +579,7 @@ def check_programtext_skiljer_kursnamn(files: list[Path]) -> list[dict]:
                 "subj": "Utbildningsplan",
                 "detail": (
                     f"Programtext `{shown}` ≠ kursplanens namn "
-                    f"`{canonical}` (kurskod `{code}`); rad: {bullet['line']}"
+                    f"`{canonical}` (kurskod `{code}`)"
                 ),
             })
     return findings
@@ -632,8 +632,7 @@ def check_nedlagda_refs_utb(files: list[Path]) -> list[dict]:
             ned_date = hit["nedlagd"] or "okänt datum"
             detail = (
                 f"`{bullet['name']}` → `{hit['code']}` "
-                f"(nedlagd {ned_date}) — {reason}; "
-                f"rad: {bullet['line']}"
+                f"(nedlagd {ned_date}) — {reason}"
             )
             findings.append({
                 "check": "nedlagd-kursreferens",

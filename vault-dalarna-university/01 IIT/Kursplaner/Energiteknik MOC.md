@@ -10,7 +10,7 @@ up: "[[IIT MOC]]"
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
 > Huvudområde: Solenergiteknik 1
 
-## Kurser (34 st)
+## Kurser (36 st)
 
 - [[AEG26X]] — Design av PV- och hybridsystem
 - [[AEG294]] — Energipositiva stadsdelar
@@ -46,6 +46,8 @@ up: "[[IIT MOC]]"
 - [[GEG3DU]] — Kraftvärmesystem
 - [[GEG3DV]] — Förnybar Energiteknik
 - [[GEG3FM]] — Vetenskaplig metodik och kommunikation
+- [[GEG3K8]] — Ellära
+- [[GEG3K9]] — Styr- och reglerteknik
 
 ## Vilande kursplaner (21 st)
 

@@ -19,9 +19,10 @@ up: "[[IIT MOC]]"
 - [[MA0011]] — Matematik 3c
 - [[MA0013]] — Matematik 4
 
-## Vilande kursplaner (2 st)
+## Vilande kursplaner (3 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
+- [[BMA229]] — Basmatematik 2
 - [[MA1040]] — Matematik för tekniker
 - [[MA1042]] — Flervariabelanalys

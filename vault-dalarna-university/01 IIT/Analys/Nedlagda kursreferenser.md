@@ -14,21 +14,21 @@ status: första pass
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
-> | [TATPG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TATPG) | Utbildningsplan | Programmet listar nedlagd kurs | `Produktutveckling` → `MT2016` (nedlagd 2021-11-30) — plain-text-referens; rad: - Produktutveckling, 7,5 hp |
-> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Industriell Ekonomi med kalkylering` → `IE1062` (nedlagd 2024-11-06) — plain-text-referens; rad: - Industriell Ekonomi med kalkylering, 7,5hp |
-> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Introduktion till mekanik och hållfasthetslära` → `MT1067` (nedlagd 2025-12-08) — plain-text-referens; rad: - Introduktion till mekanik och hållfasthetslära, 7,5hp |
-> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `3D CAD Grundläggande` → `MT1051` (nedlagd 2025-08-21) — plain-text-referens; rad: - 3D CAD Grundläggande, 7,5hp |
-> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Statistik för ingenjörer` → `ST1028` (nedlagd 2024-11-06) — plain-text-referens; rad: - Statistik för ingenjörer, 7,5hp |
-> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Tillverkningsteknik` → `MT1070` (nedlagd 2025-12-08) — plain-text-referens; rad: - Tillverkningsteknik, 7,5hp |
-> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Grundläggande materiallära` → `GMP2LL` (nedlagd 2025-09-30) — plain-text-referens; rad: - Grundläggande materiallära, 7,5hp |
-> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `CAD/CAM` → `MT1072` (nedlagd 2025-12-08) — plain-text-referens; rad: - CAD/CAM, 7,5hp |
-> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Hydraulik och Pneumatik` → `MT1073` (nedlagd 2025-12-08) — plain-text-referens; rad: - Hydraulik och Pneumatik, 7,5hp |
-> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Grundläggande ellära för maskinteknik` → `ET1022` (nedlagd 2024-11-06) — plain-text-referens; rad: - Grundläggande ellära för maskinteknik, 3,5hp |
-> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Materialval` → `MP2039` (nedlagd 2025-09-30) — plain-text-referens; rad: - Materialval, 4hp |
-> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Introduktion till hållbar utveckling inom maskinteknik` → `GMT2CU` (nedlagd 2025-12-08) — plain-text-referens; rad: - Introduktion till hållbar utveckling inom maskinteknik, 7,5hp |
-> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Konstruktionsprojekt` → `GMT224` (nedlagd 2025-12-08) — plain-text-referens; rad: - Konstruktionsprojekt, 7,5hp |
-> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Kvalitetsteknik` → `GMT2CV` (nedlagd 2025-12-08) — plain-text-referens; rad: - Kvalitetsteknik, 7,5hp |
-> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Industriell produktion` → `GMT259` (nedlagd 2025-12-08) — plain-text-referens; rad: - Industriell produktion, 7,5hp |
+> | [TATPG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TATPG) | Utbildningsplan | Programmet listar nedlagd kurs | `Produktutveckling` → `MT2016` (nedlagd 2021-11-30) — plain-text-referens |
+> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Industriell Ekonomi med kalkylering` → `IE1062` (nedlagd 2024-11-06) — plain-text-referens |
+> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Introduktion till mekanik och hållfasthetslära` → `MT1067` (nedlagd 2025-12-08) — plain-text-referens |
+> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `3D CAD Grundläggande` → `MT1051` (nedlagd 2025-08-21) — plain-text-referens |
+> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Statistik för ingenjörer` → `ST1028` (nedlagd 2024-11-06) — plain-text-referens |
+> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Tillverkningsteknik` → `MT1070` (nedlagd 2025-12-08) — plain-text-referens |
+> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Grundläggande materiallära` → `GMP2LL` (nedlagd 2025-09-30) — plain-text-referens |
+> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `CAD/CAM` → `MT1072` (nedlagd 2025-12-08) — plain-text-referens |
+> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Hydraulik och Pneumatik` → `MT1073` (nedlagd 2025-12-08) — plain-text-referens |
+> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Grundläggande ellära för maskinteknik` → `ET1022` (nedlagd 2024-11-06) — plain-text-referens |
+> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Materialval` → `MP2039` (nedlagd 2025-09-30) — plain-text-referens |
+> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Introduktion till hållbar utveckling inom maskinteknik` → `GMT2CU` (nedlagd 2025-12-08) — plain-text-referens |
+> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Konstruktionsprojekt` → `GMT224` (nedlagd 2025-12-08) — plain-text-referens |
+> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Kvalitetsteknik` → `GMT2CV` (nedlagd 2025-12-08) — plain-text-referens |
+> | [TPOKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Industriell produktion` → `GMT259` (nedlagd 2025-12-08) — plain-text-referens |
 
 ## Syfte
 

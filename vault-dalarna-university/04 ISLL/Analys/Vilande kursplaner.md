@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (154 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (147 rader)</span></a>
 
-> [!example]- 154 fynd — klicka för att expandera
+> [!example]- 147 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Institution | Fastställd | Reviderad | Problem |
 > | --- | --- | --- | --- | --- | --- |
@@ -92,13 +92,10 @@ status: första pass
 > | [GSP2KS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2KS) | SPA | ISLL | 2020-11-20 | — | Ingen aktiv kursomgång |
 > | [GSS2L2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2L2) | SSA | ISLL | 2020-12-01 | — | Ingen aktiv kursomgång |
 > | [GSS2MN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2MN) | SSA | ISLL | 2021-02-25 | — | Ingen aktiv kursomgång |
-> | [GKI2MY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2MY) | KIA | ISLL | 2021-03-02 | — | Ingen aktiv kursomgång |
 > | [GTY2N3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2N3) | TYA | ISLL | 2021-03-04 | — | Ingen aktiv kursomgång |
 > | [GTY2N4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2N4) | TYA | ISLL | 2021-03-04 | — | Ingen aktiv kursomgång |
 > | [GKI2PX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2PX) | KIA | ISLL | 2021-05-03 | — | Ingen aktiv kursomgång |
 > | [GKI2PY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2PY) | KIA | ISLL | 2021-05-03 | — | Ingen aktiv kursomgång |
-> | [GKI2Q2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2Q2) | KIA | ISLL | 2021-05-04 | — | Ingen aktiv kursomgång |
-> | [GKI2Q9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2Q9) | KIA | ISLL | 2021-05-26 | — | Ingen aktiv kursomgång |
 > | [GEN2QW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2QW) | ENA | ISLL | 2021-06-30 | — | Ingen aktiv kursomgång |
 > | [GSS2QV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2QV) | SSA | ISLL | 2021-06-30 | — | Ingen aktiv kursomgång |
 > | [GFR2R3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2R3) | FRA | ISLL | 2021-09-06 | — | Ingen aktiv kursomgång |
@@ -116,7 +113,6 @@ status: första pass
 > | [GKI2VL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2VL) | KIA | ISLL | 2022-03-03 | — | Ingen aktiv kursomgång |
 > | [GFR2W9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2W9) | FRA | ISLL | 2022-04-28 | — | Ingen aktiv kursomgång |
 > | [GFR2WA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2WA) | FRA | ISLL | 2022-04-28 | — | Ingen aktiv kursomgång |
-> | [GKI2W3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2W3) | KIA | ISLL | 2022-04-28 | — | Ingen aktiv kursomgång |
 > | [AJP287](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP287) | JAA | ISLL | 2022-06-22 | — | Ingen aktiv kursomgång |
 > | [GSS2XE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2XE) | SSA | ISLL | 2022-09-02 | — | Ingen aktiv kursomgång |
 > | [GRY325](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY325) | RYA | ISLL | 2023-01-23 | — | Ingen aktiv kursomgång |
@@ -152,15 +148,12 @@ status: första pass
 > | [AJP2AH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP2AH) | JAA | ISLL | 2024-04-26 | — | Ingen aktiv kursomgång |
 > | [GEN3BR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3BR) | ENA | ISLL | 2024-05-24 | — | Ingen aktiv kursomgång |
 > | [GKI3C9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3C9) | KIA | ISLL | 2024-06-19 | — | Ingen aktiv kursomgång |
-> | [GKI3CD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3CD) | KIA | ISLL | 2024-06-19 | — | Ingen aktiv kursomgång |
 > | [GKI3CE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3CE) | KIA | ISLL | 2024-06-19 | — | Ingen aktiv kursomgång |
-> | [GSS3C6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3C6) | SSA | ISLL | 2024-06-19 | — | Ingen aktiv kursomgång |
 > | [ATY2B7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY2B7) | TYA | ISLL | 2024-11-13 | — | Ingen aktiv kursomgång |
 > | [GFR3DL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3DL) | FRA | ISLL | 2025-01-13 | — | Ingen aktiv kursomgång |
 > | [GPR3E5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR3E5) | PRA | ISLL | 2025-02-03 | — | Ingen aktiv kursomgång |
 > | [GSV3FP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3FP) | SVE | ISLL | 2025-05-14 | — | Ingen aktiv kursomgång |
 > | [AEN2BR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BR) | ENA | ISLL | 2025-09-03 | — | Ingen aktiv kursomgång |
-> | [GSS3HC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HC) | SSA | ISLL | 2025-12-15 | — | Ingen aktiv kursomgång |
 > | [GSS3HE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HE) | SSA | ISLL | 2025-12-15 | — | Ingen aktiv kursomgång |
 > | [GSS3HF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3HF) | SSA | ISLL | 2025-12-15 | — | Ingen aktiv kursomgång |
 > | [GSV3JE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3JE) | SVE | ISLL | 2026-01-27 | — | Ingen aktiv kursomgång |

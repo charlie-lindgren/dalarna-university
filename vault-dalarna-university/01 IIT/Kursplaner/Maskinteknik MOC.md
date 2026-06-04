@@ -31,7 +31,7 @@ up: "[[IIT MOC]]"
 - [[GMT3JZ]] — Fysik för tekniker
 - [[MT1033]] — CNC-teknik
 
-## Vilande kursplaner (14 st)
+## Vilande kursplaner (16 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -45,6 +45,8 @@ up: "[[IIT MOC]]"
 - [[GMT3JU]] — Smarta hem och e-hälsoteknik
 - [[GMT3JV]] — Assisterande robotik
 - [[GMT3JY]] — Tillverkning
+- [[GMT3K5]] — Examensarbete i assisterande teknik med inriktning mot maskinteknik
+- [[GMT3K6]] — Forskningsmetodik för ingenjörer
 - [[MT1060]] — Hållfasthetslära
 - [[MT1068]] — Introduktion till produktutveckling
 - [[MT1074]] — Maskinelement

@@ -8,8 +8,8 @@ huvudomrade: "Kinesiska 1"
 amne: "Kinesiska"
 amne_kod: "KIA"
 institution: "ISLL"
-tags: [kursplan, KIA, ISLL, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, KIA, ISLL, stray]
+
 scrape_hash: 0aaa144c14541649
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2MY
 up: "[[Kinesiska MOC]]"

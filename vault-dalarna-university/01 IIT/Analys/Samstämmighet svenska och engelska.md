@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (162 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (164 rader)</span></a>
 
-> [!example]- 162 fynd — klicka för att expandera
+> [!example]- 164 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -47,6 +47,7 @@ status: första pass
 > | [GBY34N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY34N) | BYA | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
 > | [GBY36S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY36S) | BYA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
 > | [GBY37D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY37D) | BYA | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
+> | [GBY3K7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY3K7) | BYA | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
 > | [FEB222K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222K) | ENERGIBM | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (3 mål utan punktlista) |
 > | [FEB222K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222K) | ENERGIBM | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (3 mål utan punktlista) |
 > | [FEB222L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222L) | ENERGIBM | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (3 mål utan punktlista) |
@@ -83,6 +84,7 @@ status: första pass
 > | [GIK348](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK348) | IKA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
 > | [GIK38J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK38J) | IKA | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
 > | [IK1032](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IK1032) | IKA | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
+> | [BMA229](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BMA229) | MAA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [GMA28W](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA28W) | MAA | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
 > | [GMA2ZS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2ZS) | MAA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [GMA2ZT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2ZT) | MAA | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |

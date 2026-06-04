@@ -14,10 +14,10 @@ status: första pass
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
-> | [LG79A](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LG79A) | Utbildningsplan | Programmet listar nedlagd kurs | `Didaktik och ledarskap för ämneslärare` → `PG1020` (nedlagd 2018-07-02) — plain-text-referens; rad: - Didaktik och ledarskap för ämneslärare, 15 hp |
-> | [LGGYA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LGGYA) | Utbildningsplan | Programmet listar nedlagd kurs | `Didaktik och ledarskap för ämneslärare` → `PG1020` (nedlagd 2018-07-02) — plain-text-referens; rad: - Didaktik och ledarskap för ämneslärare, 15 hp |
-> | [LLF3A](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LLF3A) | Utbildningsplan | Programmet listar nedlagd kurs | `Text, kommunikation och lärande i en mångkulturell skola` → `GSV22L` (nedlagd 2024-10-11) — plain-text-referens; rad: - Text, kommunikation och lärande i en mångkulturell skola, 15 hp |
-> | [LLL3A](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LLL3A) | Utbildningsplan | Programmet listar nedlagd kurs | `Text, kommunikation och lärande i en mångkulturell skola` → `GSV22L` (nedlagd 2024-10-11) — plain-text-referens; rad: - Text, kommunikation och lärande i en mångkulturell skola, 15 hp |
+> | [LG79A](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LG79A) | Utbildningsplan | Programmet listar nedlagd kurs | `Didaktik och ledarskap för ämneslärare` → `PG1020` (nedlagd 2018-07-02) — plain-text-referens |
+> | [LGGYA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LGGYA) | Utbildningsplan | Programmet listar nedlagd kurs | `Didaktik och ledarskap för ämneslärare` → `PG1020` (nedlagd 2018-07-02) — plain-text-referens |
+> | [LLF3A](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LLF3A) | Utbildningsplan | Programmet listar nedlagd kurs | `Text, kommunikation och lärande i en mångkulturell skola` → `GSV22L` (nedlagd 2024-10-11) — plain-text-referens |
+> | [LLL3A](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LLL3A) | Utbildningsplan | Programmet listar nedlagd kurs | `Text, kommunikation och lärande i en mångkulturell skola` → `GSV22L` (nedlagd 2024-10-11) — plain-text-referens |
 
 ## Syfte
 

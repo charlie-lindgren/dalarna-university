@@ -14,15 +14,15 @@ status: första pass
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
-> | [KFTPG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFTPG) | Utbildningsplan | Programmet listar nedlagd kurs | `Konceptutveckling inom medieproduktion` → `BQ2049` (nedlagd 2025-03-06) — plain-text-referens; rad: - Konceptutveckling inom medieproduktion, 7,5 hp |
-> | [LBF3A](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LBF3A) | Utbildningsplan | Programmet listar nedlagd kurs | `Text, kommunikation och lärande i en mångkulturell skola` → `GSV22L` (nedlagd 2024-10-11) — plain-text-referens; rad: - Text, kommunikation och lärande i en mångkulturell skola, 15 hp |
-> | [LP79A](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LP79A) | Utbildningsplan | Programmet listar nedlagd kurs | `Didaktik och ledarskap för ämneslärare` → `PG1020` (nedlagd 2018-07-02) — plain-text-referens; rad: - Didaktik och ledarskap för ämneslärare, 15 hp |
-> | [LPGYA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LPGYA) | Utbildningsplan | Programmet listar nedlagd kurs | `Didaktik och ledarskap för ämneslärare` → `PG1020` (nedlagd 2018-07-02) — plain-text-referens; rad: - Didaktik och ledarskap för ämneslärare, 15 hp |
-> | [SSHVG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SSHVG) | Utbildningsplan | Programmet listar nedlagd kurs | `Samhällsekonomi` → `GSQ25R` (nedlagd 2025-12-08) — plain-text-referens; rad: - Samhällsekonomi, 7,5 hp |
-> | [SSHVG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SSHVG) | Utbildningsplan | Programmet listar nedlagd kurs | `Konformitet och avvikelse` → `SO1007` (nedlagd 2025-11-13) — plain-text-referens; rad: - Konformitet och avvikelse, 7,5 hp |
-> | [STMGG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=STMGG) | Utbildningsplan | Programmet listar nedlagd kurs | `Grundläggande ekonomistyrning` → `FEA034` (nedlagd 2008-03-18) — plain-text-referens; rad: - Grundläggande ekonomistyrning, 7,5 hp |
-> | [STMGG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=STMGG) | Utbildningsplan | Programmet listar nedlagd kurs | `Kvalitativa forskningsmetoder` → `SB3002` (nedlagd 2013-01-15) — plain-text-referens; rad: - Kvalitativa forskningsmetoder, 7,5 hp |
-> | [STMGG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=STMGG) | Utbildningsplan | Programmet listar nedlagd kurs | `Projektarbete` → `BTA009` (nedlagd 2008-05-22) — plain-text-referens; rad: - Projektarbete, 15 hp |
+> | [KFTPG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFTPG) | Utbildningsplan | Programmet listar nedlagd kurs | `Konceptutveckling inom medieproduktion` → `BQ2049` (nedlagd 2025-03-06) — plain-text-referens |
+> | [LBF3A](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LBF3A) | Utbildningsplan | Programmet listar nedlagd kurs | `Text, kommunikation och lärande i en mångkulturell skola` → `GSV22L` (nedlagd 2024-10-11) — plain-text-referens |
+> | [LP79A](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LP79A) | Utbildningsplan | Programmet listar nedlagd kurs | `Didaktik och ledarskap för ämneslärare` → `PG1020` (nedlagd 2018-07-02) — plain-text-referens |
+> | [LPGYA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LPGYA) | Utbildningsplan | Programmet listar nedlagd kurs | `Didaktik och ledarskap för ämneslärare` → `PG1020` (nedlagd 2018-07-02) — plain-text-referens |
+> | [SSHVG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SSHVG) | Utbildningsplan | Programmet listar nedlagd kurs | `Samhällsekonomi` → `GSQ25R` (nedlagd 2025-12-08) — plain-text-referens |
+> | [SSHVG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SSHVG) | Utbildningsplan | Programmet listar nedlagd kurs | `Konformitet och avvikelse` → `SO1007` (nedlagd 2025-11-13) — plain-text-referens |
+> | [STMGG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=STMGG) | Utbildningsplan | Programmet listar nedlagd kurs | `Grundläggande ekonomistyrning` → `FEA034` (nedlagd 2008-03-18) — plain-text-referens |
+> | [STMGG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=STMGG) | Utbildningsplan | Programmet listar nedlagd kurs | `Kvalitativa forskningsmetoder` → `SB3002` (nedlagd 2013-01-15) — plain-text-referens |
+> | [STMGG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=STMGG) | Utbildningsplan | Programmet listar nedlagd kurs | `Projektarbete` → `BTA009` (nedlagd 2008-05-22) — plain-text-referens |
 
 ## Syfte
 

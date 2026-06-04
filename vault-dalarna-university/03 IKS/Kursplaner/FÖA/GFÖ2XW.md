@@ -9,7 +9,7 @@ amne: "Företagsekonomi"
 amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
-scrape_hash: 8bc756cd52c15ef2
+scrape_hash: ebcfc608e0353aa0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ2XW
 up: "[[Företagsekonomi MOC]]"
 ---
@@ -82,4 +82,4 @@ The Swedish grades U–VG.
 
 ### Prerequisites
 
-- Financial Management and Accounting A 15 credits or Financial Management A 7,5 credits and Financial Accounting A 7,5 credits
+- Financial Management and Accounting A 15 credits or Financial Management A 7.5 credits and Financial Accounting A 7.5 credits
