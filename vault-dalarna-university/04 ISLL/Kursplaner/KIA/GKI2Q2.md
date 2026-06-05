@@ -12,7 +12,7 @@ tags: [kursplan, KIA, ISLL, stray]
 
 scrape_hash: 9a9a367ecda42c72
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2Q2
-up: "[[Kinesiska MOC]]"
+up: "[[Kinesiska]]"
 ---
 
 # GKI2Q2

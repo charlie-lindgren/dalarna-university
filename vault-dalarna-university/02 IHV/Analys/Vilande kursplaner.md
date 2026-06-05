@@ -1,6 +1,6 @@
 ---
 tags: [analys, kurslivscykel, vilande]
-up: "[[IHV Analys MOC]]"
+up: "[[IHV Analys]]"
 status: första pass
 ---
 

@@ -11,7 +11,7 @@ tags: [kursplan, FÖA, IKS, stray]
 
 scrape_hash: 6c82b83bace3c95e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ3FJ
-up: "[[Företagsekonomi MOC]]"
+up: "[[Företagsekonomi]]"
 ---
 
 # GFÖ3FJ

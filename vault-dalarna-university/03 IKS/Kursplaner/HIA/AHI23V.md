@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, HIA, IKS]
 scrape_hash: 10915516366c907a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI23V
-up: "[[Historia MOC]]"
+up: "[[Historia]]"
 ---
 
 # AHI23V

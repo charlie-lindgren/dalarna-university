@@ -11,7 +11,7 @@ institution: "ISLL"
 tags: [kursplan, ARA, ISLL]
 scrape_hash: 7c580f0ab0827f92
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR38N
-up: "[[Arabiska MOC]]"
+up: "[[Arabiska]]"
 ---
 
 # GAR38N

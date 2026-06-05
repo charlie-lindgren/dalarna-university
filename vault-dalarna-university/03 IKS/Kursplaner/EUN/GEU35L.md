@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, EUN, IKS]
 scrape_hash: 2cde5ef81bc0359e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU35L
-up: "[[Entreprenörskap och innovationsteknik MOC]]"
+up: "[[Entreprenörskap och innovationsteknik]]"
 ---
 
 # GEU35L

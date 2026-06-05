@@ -12,7 +12,7 @@ tags: [kursplan, PEA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 5ed84e8d464baaf4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPE2SA
-up: "[[Pedagogik MOC]]"
+up: "[[Pedagogik]]"
 ---
 
 # GPE2SA

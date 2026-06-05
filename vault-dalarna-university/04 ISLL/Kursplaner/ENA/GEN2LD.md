@@ -11,7 +11,7 @@ institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: 7a34aa727a777a04
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2LD
-up: "[[Engelska MOC]]"
+up: "[[Engelska]]"
 ---
 
 # GEN2LD

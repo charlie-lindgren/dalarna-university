@@ -11,7 +11,7 @@ institution: "IIT"
 tags: [kursplan, IKA, IIT]
 scrape_hash: 48ebf24f531f511a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2KM
-up: "[[Informatik MOC]]"
+up: "[[Informatik]]"
 ---
 
 # GIK2KM

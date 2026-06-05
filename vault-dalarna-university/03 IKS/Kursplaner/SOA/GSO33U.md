@@ -12,7 +12,7 @@ tags: [kursplan, SOA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 77ab82be42545061
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO33U
-up: "[[Sociologi MOC]]"
+up: "[[Sociologi]]"
 ---
 
 # GSO33U

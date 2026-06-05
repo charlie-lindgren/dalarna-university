@@ -11,7 +11,7 @@ institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: 835bb4b3664270b6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AS
-up: "[[Energiteknik MOC]]"
+up: "[[Energiteknik]]"
 ---
 
 # AEG2AS

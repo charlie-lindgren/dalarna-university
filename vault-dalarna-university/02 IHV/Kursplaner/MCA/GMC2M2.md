@@ -12,7 +12,7 @@ tags: [kursplan, MCA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: d3652da500ec3ab2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC2M2
-up: "[[Medicinsk vetenskap MOC]]"
+up: "[[Medicinsk vetenskap]]"
 ---
 
 # GMC2M2

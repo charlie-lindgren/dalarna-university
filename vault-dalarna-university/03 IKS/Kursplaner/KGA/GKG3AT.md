@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, KGA, IKS]
 scrape_hash: 772ea3a268f89e07
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG3AT
-up: "[[Kulturgeografi MOC]]"
+up: "[[Kulturgeografi]]"
 ---
 
 # GKG3AT

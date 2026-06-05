@@ -12,7 +12,7 @@ tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: a9cea81dfc958dc3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG27T
-up: "[[Pedagogiskt arbete MOC]]"
+up: "[[Pedagogiskt arbete]]"
 ---
 
 # APG27T

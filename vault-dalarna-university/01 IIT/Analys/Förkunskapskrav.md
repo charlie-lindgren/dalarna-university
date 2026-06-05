@@ -1,6 +1,6 @@
 ---
 tags: [analys, forkunskapskrav]
-up: "[[IIT Analys MOC]]"
+up: "[[IIT Analys]]"
 status: första pass
 ---
 

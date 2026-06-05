@@ -12,7 +12,7 @@ tags: [kursplan, MCA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: f108bc369f832cd7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC22C
-up: "[[Medicinsk vetenskap MOC]]"
+up: "[[Medicinsk vetenskap]]"
 ---
 
 # AMC22C

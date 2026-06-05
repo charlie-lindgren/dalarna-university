@@ -12,7 +12,7 @@ tags: [kursplan, RKA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: f8b18162578c6b9f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2P4
-up: "[[Religionsvetenskap MOC]]"
+up: "[[Religionsvetenskap]]"
 ---
 
 # GRK2P4

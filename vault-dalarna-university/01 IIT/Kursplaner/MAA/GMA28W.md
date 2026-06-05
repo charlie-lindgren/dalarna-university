@@ -11,7 +11,7 @@ institution: "IIT"
 tags: [kursplan, MAA, IIT]
 scrape_hash: 68c95a1a0e0cc8f3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA28W
-up: "[[Matematik MOC]]"
+up: "[[Matematik]]"
 ---
 
 # GMA28W

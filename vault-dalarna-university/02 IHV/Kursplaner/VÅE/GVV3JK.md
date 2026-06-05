@@ -11,7 +11,7 @@ institution: "IHV"
 tags: [kursplan, VÅE, IHV]
 scrape_hash: 683156a464fde34a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVV3JK
-up: "[[Vårdvetenskap MOC]]"
+up: "[[Vårdvetenskap]]"
 ---
 
 # GVV3JK

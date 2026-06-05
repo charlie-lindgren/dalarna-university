@@ -5,7 +5,7 @@ institution: "IKS"
 faststalld: "Fastställd av Områdesnämnden Utbildningsvetenskap 2020-12-17 . Gäller fr.o.m.  VT 2021."
 tags: [utbildningsplan, program, IKS]
 scrape_hash: e7242b1f30cb0315
-up: "IKS MOC"
+up: "IKS"
 ---
 
 # LBF3A

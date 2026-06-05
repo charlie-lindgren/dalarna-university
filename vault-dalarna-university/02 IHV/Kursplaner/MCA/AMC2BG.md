@@ -11,7 +11,7 @@ institution: "IHV"
 tags: [kursplan, MCA, IHV]
 scrape_hash: b44df4c7a24ed36e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC2BG
-up: "[[Medicinsk vetenskap MOC]]"
+up: "[[Medicinsk vetenskap]]"
 ---
 
 # AMC2BG

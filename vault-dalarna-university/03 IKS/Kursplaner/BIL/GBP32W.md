@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, BIL, IKS]
 scrape_hash: 06f0b2e124a79ea7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBP32W
-up: "[[Bild MOC]]"
+up: "[[Bild]]"
 ---
 
 # GBP32W

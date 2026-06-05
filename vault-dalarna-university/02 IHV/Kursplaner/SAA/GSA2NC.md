@@ -12,7 +12,7 @@ tags: [kursplan, SAA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 06f446ed4f4b8eb7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2NC
-up: "[[Socialt arbete MOC]]"
+up: "[[Socialt arbete]]"
 ---
 
 # GSA2NC

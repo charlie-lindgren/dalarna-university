@@ -12,7 +12,7 @@ tags: [kursplan, NAA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 9d5f89eab42256f8
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA3B7
-up: "[[Nationalekonomi MOC]]"
+up: "[[Nationalekonomi]]"
 ---
 
 # GNA3B7

@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, RKA, IKS]
 scrape_hash: 6462fa05de0f9299
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK36N
-up: "[[Religionsvetenskap MOC]]"
+up: "[[Religionsvetenskap]]"
 ---
 
 # GRK36N

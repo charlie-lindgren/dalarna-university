@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, PEE, IKS]
 scrape_hash: 580cae027d2feea5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2NY
-up: "[[Personal och arbetsliv MOC]]"
+up: "[[Personal och arbetsliv]]"
 ---
 
 # GPA2NY

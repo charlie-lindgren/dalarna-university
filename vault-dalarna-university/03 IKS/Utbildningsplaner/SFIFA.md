@@ -5,7 +5,7 @@ institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2017-09-14 . Gäller fr.o.m.  HT 2018."
 tags: [utbildningsplan, program, IKS]
 scrape_hash: 68e4c7c528755911
-up: "IKS MOC"
+up: "IKS"
 ---
 
 # SFIFA

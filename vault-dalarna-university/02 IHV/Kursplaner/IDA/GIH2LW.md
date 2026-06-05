@@ -12,7 +12,7 @@ tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: fe5d45fdd47e70e9
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2LW
-up: "[[Idrotts- och hälsovetenskap MOC]]"
+up: "[[Idrotts- och hälsovetenskap]]"
 ---
 
 # GIH2LW

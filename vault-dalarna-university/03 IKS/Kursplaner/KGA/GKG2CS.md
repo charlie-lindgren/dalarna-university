@@ -12,7 +12,7 @@ tags: [kursplan, KGA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 68db9574cc766f92
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG2CS
-up: "[[Kulturgeografi MOC]]"
+up: "[[Kulturgeografi]]"
 ---
 
 # GKG2CS

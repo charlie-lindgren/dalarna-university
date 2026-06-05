@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, NAA, IKS]
 scrape_hash: 5354030187f4adea
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA3BA
-up: "[[Nationalekonomi MOC]]"
+up: "[[Nationalekonomi]]"
 ---
 
 # GNA3BA

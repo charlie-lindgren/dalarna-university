@@ -12,7 +12,7 @@ tags: [kursplan, TRU, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 01f89703ce75e4c5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR3A4
-up: "[[Turismvetenskap MOC]]"
+up: "[[Turismvetenskap]]"
 ---
 
 # GTR3A4

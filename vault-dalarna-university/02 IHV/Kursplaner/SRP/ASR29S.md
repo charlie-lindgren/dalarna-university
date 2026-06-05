@@ -11,7 +11,7 @@ institution: "IHV"
 tags: [kursplan, SRP, IHV]
 scrape_hash: 52d10597880d4f0b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29S
-up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
+up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
 # ASR29S

@@ -12,7 +12,7 @@ tags: [kursplan, SQQ, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: afc6bbdeec301ad7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ23K
-up: "[[Samhällsbyggnadsteknik MOC]]"
+up: "[[Samhällsbyggnadsteknik]]"
 ---
 
 # GSQ23K

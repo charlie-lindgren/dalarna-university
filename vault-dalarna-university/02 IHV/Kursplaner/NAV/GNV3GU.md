@@ -11,7 +11,7 @@ institution: "IHV"
 tags: [kursplan, NAV, IHV]
 scrape_hash: 6ce9037f622ac82e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3GU
-up: "[[Naturvetenskap MOC]]"
+up: "[[Naturvetenskap]]"
 ---
 
 # GNV3GU

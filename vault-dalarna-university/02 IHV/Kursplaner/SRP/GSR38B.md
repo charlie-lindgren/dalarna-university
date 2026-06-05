@@ -12,7 +12,7 @@ tags: [kursplan, SRP, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 157040bdb64ee0c6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSR38B
-up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
+up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
 # GSR38B

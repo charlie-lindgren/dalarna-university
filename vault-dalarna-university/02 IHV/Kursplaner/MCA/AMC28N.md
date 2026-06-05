@@ -11,7 +11,7 @@ institution: "IHV"
 tags: [kursplan, MCA, IHV]
 scrape_hash: 3fe968c57496de5e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC28N
-up: "[[Medicinsk vetenskap MOC]]"
+up: "[[Medicinsk vetenskap]]"
 ---
 
 # AMC28N

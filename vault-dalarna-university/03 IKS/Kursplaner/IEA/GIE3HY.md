@@ -10,7 +10,7 @@ institution: "IKS"
 tags: [kursplan, IEA, IKS]
 scrape_hash: 9971cd351ef3ad10
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3HY
-up: "[[Industriell ekonomi MOC]]"
+up: "[[Industriell ekonomi]]"
 ---
 
 # GIE3HY

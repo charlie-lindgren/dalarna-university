@@ -11,7 +11,7 @@ institution: "IIT"
 tags: [kursplan, SQQ, IIT]
 scrape_hash: ab24dc43eb0fc4c5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2MC
-up: "[[Samhällsbyggnadsteknik MOC]]"
+up: "[[Samhällsbyggnadsteknik]]"
 ---
 
 # GSQ2MC

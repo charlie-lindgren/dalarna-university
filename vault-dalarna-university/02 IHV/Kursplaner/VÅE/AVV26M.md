@@ -12,7 +12,7 @@ tags: [kursplan, VÅE, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: a0d4b5e0f2387065
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVV26M
-up: "[[Vårdvetenskap MOC]]"
+up: "[[Vårdvetenskap]]"
 ---
 
 # AVV26M

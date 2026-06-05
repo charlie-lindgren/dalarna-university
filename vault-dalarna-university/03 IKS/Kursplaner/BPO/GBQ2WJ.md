@@ -12,7 +12,7 @@ tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 6f563b1bd4a83f27
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2WJ
-up: "[[Bildproduktion MOC]]"
+up: "[[Bildproduktion]]"
 ---
 
 # GBQ2WJ

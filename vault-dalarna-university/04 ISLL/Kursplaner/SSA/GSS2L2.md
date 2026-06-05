@@ -12,7 +12,7 @@ tags: [kursplan, SSA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 7777c248b334fde7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2L2
-up: "[[Svenska som andraspråk MOC]]"
+up: "[[Svenska som andraspråk]]"
 ---
 
 # GSS2L2

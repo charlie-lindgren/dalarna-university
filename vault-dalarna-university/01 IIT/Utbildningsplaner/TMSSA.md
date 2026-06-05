@@ -5,7 +5,7 @@ institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2024-06-12 . Gäller fr.o.m.  HT 2025."
 tags: [utbildningsplan, program, IIT]
 scrape_hash: c3a37f1f35860f04
-up: "IIT MOC"
+up: "IIT"
 ---
 
 # TMSSA

@@ -11,7 +11,7 @@ institution: "ISLL"
 tags: [kursplan, SVE, ISLL]
 scrape_hash: 6b482a984967dd02
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DF
-up: "[[Svenska MOC]]"
+up: "[[Svenska]]"
 ---
 
 # GSV3DF

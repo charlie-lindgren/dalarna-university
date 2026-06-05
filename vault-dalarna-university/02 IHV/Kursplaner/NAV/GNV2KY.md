@@ -12,7 +12,7 @@ tags: [kursplan, NAV, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 9b71f39494834f82
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV2KY
-up: "[[Naturvetenskap MOC]]"
+up: "[[Naturvetenskap]]"
 ---
 
 # GNV2KY

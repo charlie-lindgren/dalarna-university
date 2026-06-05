@@ -12,7 +12,7 @@ tags: [kursplan, IEA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 86eab14410ccd352
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2MF
-up: "[[Industriell ekonomi MOC]]"
+up: "[[Industriell ekonomi]]"
 ---
 
 # GIE2MF

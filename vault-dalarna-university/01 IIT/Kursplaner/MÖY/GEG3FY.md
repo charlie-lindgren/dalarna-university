@@ -12,7 +12,7 @@ tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 9228e447c3839edb
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG3FY
-up: "[[Energiteknik MOC]]"
+up: "[[Energiteknik]]"
 ---
 
 # GEG3FY

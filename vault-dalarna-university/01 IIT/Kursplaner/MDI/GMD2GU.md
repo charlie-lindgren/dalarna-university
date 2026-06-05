@@ -11,7 +11,7 @@ institution: "IIT"
 tags: [kursplan, MDI, IIT]
 scrape_hash: 054074cf49064675
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2GU
-up: "[[Matematikdidaktik MOC]]"
+up: "[[Matematikdidaktik]]"
 ---
 
 # GMD2GU

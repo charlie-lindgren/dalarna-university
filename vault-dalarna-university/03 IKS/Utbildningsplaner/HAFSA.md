@@ -5,7 +5,7 @@ institution: "IKS"
 faststalld: "Fastställd av Områdesnämnden Humaniora och språk 2014-11-20 . Gäller fr.o.m.  HT 2015."
 tags: [utbildningsplan, program, IKS]
 scrape_hash: e42dc6b78dbd27ae
-up: "IKS MOC"
+up: "IKS"
 ---
 
 # HAFSA

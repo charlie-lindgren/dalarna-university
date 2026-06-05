@@ -12,7 +12,7 @@ tags: [kursplan, MPR, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 675f1b92365c96e3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3F2
-up: "[[Medieproduktion MOC]]"
+up: "[[Medieproduktion]]"
 ---
 
 # GMN3F2

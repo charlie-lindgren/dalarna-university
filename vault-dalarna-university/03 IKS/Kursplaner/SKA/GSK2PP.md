@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, SKA, IKS]
 scrape_hash: d3e55fbdc75fcd8b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK2PP
-up: "[[Statsvetenskap MOC]]"
+up: "[[Statsvetenskap]]"
 ---
 
 # GSK2PP

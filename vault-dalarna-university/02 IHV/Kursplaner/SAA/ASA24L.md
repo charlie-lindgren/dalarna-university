@@ -11,7 +11,7 @@ institution: "IHV"
 tags: [kursplan, SAA, IHV]
 scrape_hash: f0e19c7ca55821a6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA24L
-up: "[[Socialt arbete MOC]]"
+up: "[[Socialt arbete]]"
 ---
 
 # ASA24L

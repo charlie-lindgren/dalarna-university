@@ -877,7 +877,7 @@ def build_programme_markdown(scraped: dict, kursplan_index: dict) -> str:
         # Plain string (utan ``[[ ]]``) — Quartz extraherar wikilinks från
         # frontmatter, men en ren textsträng räknas inte som en graf-edge.
         # Institutionshubben skulle annars drunkna i programlänkar.
-        lines.append(f"up: \"{institution} MOC\"")
+        lines.append(f"up: \"{institution}\"")
     lines.append("---")
     lines.append("")
 

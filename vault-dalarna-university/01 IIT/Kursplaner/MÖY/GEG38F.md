@@ -12,7 +12,7 @@ tags: [kursplan, MÖY, IIT, stray]
 
 scrape_hash: e22bb006db13de7d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG38F
-up: "[[Energiteknik MOC]]"
+up: "[[Energiteknik]]"
 ---
 
 # GEG38F

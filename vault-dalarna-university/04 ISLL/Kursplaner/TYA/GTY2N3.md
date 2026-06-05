@@ -12,7 +12,7 @@ tags: [kursplan, TYA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: ab60e597df09edf2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2N3
-up: "[[Tyska MOC]]"
+up: "[[Tyska]]"
 ---
 
 # GTY2N3

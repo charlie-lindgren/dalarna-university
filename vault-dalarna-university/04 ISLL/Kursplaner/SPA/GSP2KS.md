@@ -12,7 +12,7 @@ tags: [kursplan, SPA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: f8ee66c1bd1a0567
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2KS
-up: "[[Spanska MOC]]"
+up: "[[Spanska]]"
 ---
 
 # GSP2KS

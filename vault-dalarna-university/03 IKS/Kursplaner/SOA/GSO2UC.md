@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, SOA, IKS]
 scrape_hash: 2650f9678efa0371
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO2UC
-up: "[[Sociologi MOC]]"
+up: "[[Sociologi]]"
 ---
 
 # GSO2UC

@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, SKA, IKS]
 scrape_hash: e65a9b6815c3a7c3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASK22M
-up: "[[Statsvetenskap MOC]]"
+up: "[[Statsvetenskap]]"
 ---
 
 # ASK22M

@@ -12,7 +12,7 @@ tags: [kursplan, RKA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 8e912da1a18b9711
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK3CQ
-up: "[[Religionsvetenskap MOC]]"
+up: "[[Religionsvetenskap]]"
 ---
 
 # GRK3CQ

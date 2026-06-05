@@ -11,7 +11,7 @@ institution: "IHV"
 tags: [kursplan, FYS, IHV]
 scrape_hash: 17b2fece72d5a6a1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFT2CA
-up: "[[Fysioterapi MOC]]"
+up: "[[Fysioterapi]]"
 ---
 
 # AFT2CA

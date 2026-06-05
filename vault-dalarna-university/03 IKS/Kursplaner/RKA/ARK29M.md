@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, RKA, IKS]
 scrape_hash: 28837aee03cd452f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29M
-up: "[[Religionsvetenskap MOC]]"
+up: "[[Religionsvetenskap]]"
 ---
 
 # ARK29M

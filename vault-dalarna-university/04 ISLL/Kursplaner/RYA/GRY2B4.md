@@ -11,7 +11,7 @@ institution: "ISLL"
 tags: [kursplan, RYA, ISLL]
 scrape_hash: 9aedd76bd58c795a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY2B4
-up: "[[Ryska MOC]]"
+up: "[[Ryska]]"
 ---
 
 # GRY2B4

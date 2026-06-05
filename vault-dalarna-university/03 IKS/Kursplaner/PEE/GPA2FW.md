@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, PEE, IKS]
 scrape_hash: 8747cb2a1d776168
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2FW
-up: "[[Personal och arbetsliv MOC]]"
+up: "[[Personal och arbetsliv]]"
 ---
 
 # GPA2FW

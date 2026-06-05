@@ -12,7 +12,7 @@ tags: [kursplan, BIL, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 903f953c78e830b3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBP3BC
-up: "[[Bild MOC]]"
+up: "[[Bild]]"
 ---
 
 # GBP3BC

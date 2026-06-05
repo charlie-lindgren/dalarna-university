@@ -12,7 +12,7 @@ tags: [kursplan, ENA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 29c5dbab0abb0f74
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2RZ
-up: "[[Engelska MOC]]"
+up: "[[Engelska]]"
 ---
 
 # GEN2RZ

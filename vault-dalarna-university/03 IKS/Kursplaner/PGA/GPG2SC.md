@@ -12,7 +12,7 @@ tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 1a5550ec7caa6885
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2SC
-up: "[[Pedagogiskt arbete MOC]]"
+up: "[[Pedagogiskt arbete]]"
 ---
 
 # GPG2SC

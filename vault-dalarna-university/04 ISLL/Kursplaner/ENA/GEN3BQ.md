@@ -11,7 +11,7 @@ institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: 05e86af0b479ebd3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3BQ
-up: "[[Engelska MOC]]"
+up: "[[Engelska]]"
 ---
 
 # GEN3BQ

@@ -11,7 +11,7 @@ institution: "IIT"
 tags: [kursplan, BYA, IIT]
 scrape_hash: df22323b521d4361
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2RN
-up: "[[Byggteknik MOC]]"
+up: "[[Byggteknik]]"
 ---
 
 # GBY2RN

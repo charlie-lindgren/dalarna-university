@@ -12,7 +12,7 @@ tags: [kursplan, SRP, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: b2706aa0e81b5b5e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR24V
-up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
+up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
 # ASR24V

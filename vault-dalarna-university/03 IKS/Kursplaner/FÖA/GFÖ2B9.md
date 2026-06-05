@@ -12,7 +12,7 @@ tags: [kursplan, FÖA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 2870808ae906f22b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ2B9
-up: "[[Företagsekonomi MOC]]"
+up: "[[Företagsekonomi]]"
 ---
 
 # GFÖ2B9

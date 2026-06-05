@@ -11,7 +11,7 @@ institution: "IIT"
 tags: [kursplan, IEA, IIT]
 scrape_hash: 9e4ee43c57f08e75
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26L
-up: "[[Industriell ekonomi MOC]]"
+up: "[[Industriell ekonomi]]"
 ---
 
 # GIE26L

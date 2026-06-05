@@ -12,7 +12,7 @@ tags: [kursplan, PEE, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 2546a2f561b72c69
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA32D
-up: "[[Personal och arbetsliv MOC]]"
+up: "[[Personal och arbetsliv]]"
 ---
 
 # GPA32D

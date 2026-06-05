@@ -1,6 +1,6 @@
 ---
 tags: [analys, ovrigt]
-up: "[[IHV Analys MOC]]"
+up: "[[IHV Analys]]"
 status: första pass
 ---
 

@@ -11,7 +11,7 @@ institution: "IHV"
 tags: [kursplan, MCA, IHV]
 scrape_hash: 34c45d250e82441a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC37E
-up: "[[Medicinsk vetenskap MOC]]"
+up: "[[Medicinsk vetenskap]]"
 ---
 
 # GMC37E

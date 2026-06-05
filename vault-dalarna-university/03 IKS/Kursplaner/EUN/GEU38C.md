@@ -11,7 +11,7 @@ tags: [kursplan, EUN, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: f7dfaeba3c2d4320
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU38C
-up: "[[Entreprenörskap och innovationsteknik MOC]]"
+up: "[[Entreprenörskap och innovationsteknik]]"
 ---
 
 # GEU38C

@@ -12,7 +12,7 @@ tags: [kursplan, SKA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: b6937a678b6b3ed8
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK2PU
-up: "[[Statsvetenskap MOC]]"
+up: "[[Statsvetenskap]]"
 ---
 
 # GSK2PU

@@ -12,7 +12,7 @@ tags: [kursplan, RYA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: dc5c755bbbec0c9f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARY25M
-up: "[[Ryska MOC]]"
+up: "[[Ryska]]"
 ---
 
 # ARY25M

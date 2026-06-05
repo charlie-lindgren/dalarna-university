@@ -12,7 +12,7 @@ tags: [kursplan, IKA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 496f1bf1fada0906
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2YP
-up: "[[Informatik MOC]]"
+up: "[[Informatik]]"
 ---
 
 # GIK2YP

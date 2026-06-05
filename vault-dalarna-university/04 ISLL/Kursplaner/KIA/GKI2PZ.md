@@ -11,7 +11,7 @@ institution: "ISLL"
 tags: [kursplan, KIA, ISLL]
 scrape_hash: da412cb664d0087b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2PZ
-up: "[[Kinesiska MOC]]"
+up: "[[Kinesiska]]"
 ---
 
 # GKI2PZ

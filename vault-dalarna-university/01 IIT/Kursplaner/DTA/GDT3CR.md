@@ -11,7 +11,7 @@ institution: "IIT"
 tags: [kursplan, DTA, IIT]
 scrape_hash: 2354b999c133ceb6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT3CR
-up: "[[Datateknik MOC]]"
+up: "[[Datateknik]]"
 ---
 
 # GDT3CR

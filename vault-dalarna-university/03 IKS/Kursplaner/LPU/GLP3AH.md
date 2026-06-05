@@ -12,7 +12,7 @@ tags: [kursplan, LPU, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 8c5453b2f543fe4c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP3AH
-up: "[[Ljud- och musikproduktion MOC]]"
+up: "[[Ljud- och musikproduktion]]"
 ---
 
 # GLP3AH

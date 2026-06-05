@@ -10,7 +10,7 @@ institution: "IKS"
 tags: [kursplan, PEDAGARB, IKS, forskarutbildning, vilande]
 scrape_hash: e3e572cadcc99e92
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222J
-up: "[[Forskarämne Pedagogiskt arbete MOC]]"
+up: "[[Forskarämne Pedagogiskt arbete]]"
 cssclasses: [vilande]
 ---
 

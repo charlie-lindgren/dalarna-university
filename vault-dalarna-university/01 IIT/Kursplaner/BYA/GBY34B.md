@@ -12,7 +12,7 @@ tags: [kursplan, BYA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 4c65033371ab459e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY34B
-up: "[[Byggteknik MOC]]"
+up: "[[Byggteknik]]"
 ---
 
 # GBY34B

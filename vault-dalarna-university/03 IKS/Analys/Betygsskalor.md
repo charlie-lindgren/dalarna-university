@@ -1,6 +1,6 @@
 ---
 tags: [analys, betyg]
-up: "[[IKS Analys MOC]]"
+up: "[[IKS Analys]]"
 status: första pass
 ---
 

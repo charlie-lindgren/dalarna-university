@@ -12,7 +12,7 @@ tags: [kursplan, IEA, IIT, stray]
 
 scrape_hash: fbf22ff7f727c7b8
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3JH
-up: "[[Industriell ekonomi MOC]]"
+up: "[[Industriell ekonomi]]"
 ---
 
 # GIE3JH

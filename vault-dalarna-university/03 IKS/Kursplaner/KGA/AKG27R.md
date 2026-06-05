@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, KGA, IKS]
 scrape_hash: 0a06bd4b56f5e564
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKG27R
-up: "[[Kulturgeografi MOC]]"
+up: "[[Kulturgeografi]]"
 ---
 
 # AKG27R

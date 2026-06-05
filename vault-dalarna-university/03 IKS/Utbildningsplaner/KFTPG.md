@@ -5,7 +5,7 @@ institution: "IKS"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2014-03-19 . Gäller fr.o.m.  HT 2014."
 tags: [utbildningsplan, program, IKS]
 scrape_hash: ec8bc8c94848febb
-up: "IKS MOC"
+up: "IKS"
 ---
 
 # KFTPG

@@ -11,7 +11,7 @@ institution: "IHV"
 tags: [kursplan, VÅE, IHV]
 scrape_hash: ec26b2e68f03d24d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVV2A6
-up: "[[Vårdvetenskap MOC]]"
+up: "[[Vårdvetenskap]]"
 ---
 
 # AVV2A6

@@ -12,7 +12,7 @@ tags: [kursplan, ABA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: d0ce847fb02b85c5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3AK
-up: "[[Arbetsvetenskap MOC]]"
+up: "[[Arbetsvetenskap]]"
 ---
 
 # GAB3AK

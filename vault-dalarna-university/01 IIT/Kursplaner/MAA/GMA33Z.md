@@ -11,7 +11,7 @@ institution: "IIT"
 tags: [kursplan, MAA, IIT]
 scrape_hash: 203fad6dd51e1f94
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA33Z
-up: "[[Matematik MOC]]"
+up: "[[Matematik]]"
 ---
 
 # GMA33Z

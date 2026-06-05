@@ -12,7 +12,7 @@ tags: [kursplan, IDA, IHV, stray]
 
 scrape_hash: b8f9c22be84775a3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH39C
-up: "[[Idrotts- och hälsovetenskap MOC]]"
+up: "[[Idrotts- och hälsovetenskap]]"
 ---
 
 # GIH39C

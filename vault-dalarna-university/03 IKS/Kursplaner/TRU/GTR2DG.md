@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, TRU, IKS]
 scrape_hash: e1ca197670517f09
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2DG
-up: "[[Turismvetenskap MOC]]"
+up: "[[Turismvetenskap]]"
 ---
 
 # GTR2DG

@@ -12,7 +12,7 @@ tags: [kursplan, SVE, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: bf840cdb0b639fb6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2BP
-up: "[[Svenska MOC]]"
+up: "[[Svenska]]"
 ---
 
 # GSV2BP

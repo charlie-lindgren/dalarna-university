@@ -11,7 +11,7 @@ institution: "IHV"
 tags: [kursplan, SRP, IHV]
 scrape_hash: 9f6a9bd31e3e4cf8
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSR3BZ
-up: "[[Sexuell, reproduktiv och perinatal hälsa MOC]]"
+up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
 # GSR3BZ

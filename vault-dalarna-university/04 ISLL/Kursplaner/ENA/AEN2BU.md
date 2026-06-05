@@ -11,7 +11,7 @@ institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
 scrape_hash: 6d454619f9b6c4b0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BU
-up: "[[Engelska MOC]]"
+up: "[[Engelska]]"
 ---
 
 # AEN2BU

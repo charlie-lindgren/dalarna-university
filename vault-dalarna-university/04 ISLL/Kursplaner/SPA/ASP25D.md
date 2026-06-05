@@ -11,7 +11,7 @@ institution: "ISLL"
 tags: [kursplan, SPA, ISLL]
 scrape_hash: 1d7a4caf8699b2a9
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASP25D
-up: "[[Spanska MOC]]"
+up: "[[Spanska]]"
 ---
 
 # ASP25D

@@ -5,7 +5,7 @@ institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, ISLL]
 scrape_hash: 96658b28760d02cf
-up: "ISLL MOC"
+up: "ISLL"
 ---
 
 # LLL3A

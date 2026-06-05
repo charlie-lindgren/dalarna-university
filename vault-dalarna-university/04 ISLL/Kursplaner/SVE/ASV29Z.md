@@ -11,7 +11,7 @@ institution: "ISLL"
 tags: [kursplan, SVE, ISLL]
 scrape_hash: 712057b5c65a3d15
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV29Z
-up: "[[Svenska MOC]]"
+up: "[[Svenska]]"
 ---
 
 # ASV29Z

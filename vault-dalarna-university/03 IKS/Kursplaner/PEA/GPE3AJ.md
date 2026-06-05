@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, PEA, IKS]
 scrape_hash: b641df755dba8c99
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPE3AJ
-up: "[[Pedagogik MOC]]"
+up: "[[Pedagogik]]"
 ---
 
 # GPE3AJ

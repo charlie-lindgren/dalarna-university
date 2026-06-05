@@ -11,7 +11,7 @@ institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
 scrape_hash: ae17162f70531de5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS39Q
-up: "[[Svenska som andraspråk MOC]]"
+up: "[[Svenska som andraspråk]]"
 ---
 
 # GSS39Q

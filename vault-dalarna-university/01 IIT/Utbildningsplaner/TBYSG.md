@@ -5,7 +5,7 @@ institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2019-12-18 . Gäller fr.o.m.  HT 2020."
 tags: [utbildningsplan, program, IIT]
 scrape_hash: 38e2ec128ee772db
-up: "IIT MOC"
+up: "IIT"
 ---
 
 # TBYSG

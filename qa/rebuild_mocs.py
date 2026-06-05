@@ -107,13 +107,13 @@ def migrate_forskar_courses(apply: bool) -> int:
                     continue
                 current_amne = fm.get("amne", "")
                 current_up = fm.get("up", "")
-                expected_up = f'"[[{new_name} MOC]]"'
+                expected_up = f'"[[{new_name}]]"'
                 if current_amne == new_name and current_up == expected_up:
                     continue
                 new_text = text
                 new_text = replace_frontmatter_field(new_text, "amne", f'"{new_name}"')
                 new_text = replace_frontmatter_field(
-                    new_text, "up", f'"[[{new_name} MOC]]"'
+                    new_text, "up", f'"[[{new_name}]]"'
                 )
                 if new_text != text:
                     n_changes += 1
@@ -199,7 +199,7 @@ def write_subject_mocs(subjects: dict, apply: bool) -> tuple[int, int]:
     expected_paths: set[Path] = set()
 
     for (inst_code, subj_code), info in subjects.items():
-        moc_path = kursplaner_dir(inst_code) / f"{info['name']} MOC.md"
+        moc_path = kursplaner_dir(inst_code) / f"{info['name']}.md"
         expected_paths.add(moc_path)
         new_text = build_subject_moc(info, info["courses"])
         if not new_text.endswith("\n"):
@@ -218,7 +218,8 @@ def write_subject_mocs(subjects: dict, apply: bool) -> tuple[int, int]:
         kp = kursplaner_dir(inst_code)
         if not kp.exists():
             continue
-        for moc in kp.glob("* MOC.md"):
+        # Ämnes-hubbar ligger direkt under kp (kurser ligger i subkod-mappar).
+        for moc in kp.glob("*.md"):
             if moc in expected_paths:
                 continue
             if moc.stem.startswith(("Stray ", "Ej Aktiv ")):
@@ -260,7 +261,7 @@ def write_institution_mocs(subjects: dict, apply: bool) -> int:
         if not new_text.endswith("\n"):
             new_text += "\n"
 
-        moc_path = institution_dir(inst_code) / f"{inst_code} MOC.md"
+        moc_path = institution_dir(inst_code) / f"{inst_code}.md"
         if moc_path.exists() and moc_path.read_text(encoding="utf-8") == new_text:
             continue
         n_written += 1

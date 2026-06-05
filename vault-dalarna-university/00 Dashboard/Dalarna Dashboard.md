@@ -21,10 +21,10 @@ Högskolan Dalarna har fyra institutioner. Klicka för att utforska kurs- och ut
 
 Tvärgående kvalitetsgranskning av samtliga kurs- och utbildningsplaner — språk, frasning, examination, betygsskalor, Bloom-taxonomi och samstämmighet sv/en. Varje institution har en egen analysmapp.
 
-- [[IIT Analys MOC]] — Institutionen för information och teknik
-- [[IHV Analys MOC]] — Institutionen för hälsa och välfärd
-- [[IKS Analys MOC]] — Institutionen för kultur och samhälle
-- [[ISLL Analys MOC]] — Institutionen för språk, litteratur och lärande
+- [[IIT Analys]] — Institutionen för information och teknik
+- [[IHV Analys]] — Institutionen för hälsa och välfärd
+- [[IKS Analys]] — Institutionen för kultur och samhälle
+- [[ISLL Analys]] — Institutionen för språk, litteratur och lärande
 
 ## Om
 

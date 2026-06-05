@@ -11,7 +11,7 @@ institution: "IIT"
 tags: [kursplan, STA, IIT]
 scrape_hash: 70c7fbd23f5dddf1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GST2CL
-up: "[[Statistik MOC]]"
+up: "[[Statistik]]"
 ---
 
 # GST2CL

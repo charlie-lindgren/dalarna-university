@@ -12,7 +12,7 @@ tags: [kursplan, ITA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: d25ffe6b6f1c60a4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TK
-up: "[[Italienska MOC]]"
+up: "[[Italienska]]"
 ---
 
 # GIT2TK

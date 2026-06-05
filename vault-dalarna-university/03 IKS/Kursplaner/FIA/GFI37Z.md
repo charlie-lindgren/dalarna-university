@@ -12,7 +12,7 @@ tags: [kursplan, FIA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: b9c4f8a38369dbbd
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFI37Z
-up: "[[Filosofi MOC]]"
+up: "[[Filosofi]]"
 ---
 
 # GFI37Z

@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, RKA, IKS, vilande]
 scrape_hash: 2ff3b6bfbd5789e4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29H
-up: "[[Religionsvetenskap MOC]]"
+up: "[[Religionsvetenskap]]"
 cssclasses: [vilande]
 ---
 

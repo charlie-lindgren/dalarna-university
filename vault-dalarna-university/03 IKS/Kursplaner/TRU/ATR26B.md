@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, TRU, IKS]
 scrape_hash: 12d97e4dbb75cb6e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATR26B
-up: "[[Turismvetenskap MOC]]"
+up: "[[Turismvetenskap]]"
 ---
 
 # ATR26B

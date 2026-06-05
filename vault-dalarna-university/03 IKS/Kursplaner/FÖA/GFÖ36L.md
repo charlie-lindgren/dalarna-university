@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, FÖA, IKS, forskarutbildning]
 scrape_hash: b774bd304276e518
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ36L
-up: "[[Företagsekonomi MOC]]"
+up: "[[Företagsekonomi]]"
 ---
 
 # GFÖ36L

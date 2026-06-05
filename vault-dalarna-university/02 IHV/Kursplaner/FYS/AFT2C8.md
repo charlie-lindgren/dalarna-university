@@ -12,7 +12,7 @@ tags: [kursplan, FYS, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 6c43d71d818d4495
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFT2C8
-up: "[[Fysioterapi MOC]]"
+up: "[[Fysioterapi]]"
 ---
 
 # AFT2C8

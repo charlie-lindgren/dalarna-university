@@ -12,7 +12,7 @@ tags: [kursplan, EUN, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 1543c35a24aa4458
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU35N
-up: "[[Entreprenörskap och innovationsteknik MOC]]"
+up: "[[Entreprenörskap och innovationsteknik]]"
 ---
 
 # GEU35N

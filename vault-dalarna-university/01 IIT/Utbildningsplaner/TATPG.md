@@ -5,7 +5,7 @@ institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-12-19 . Gäller fr.o.m.  HT 2025."
 tags: [utbildningsplan, program, IIT]
 scrape_hash: 11882bd9cf749bbf
-up: "IIT MOC"
+up: "IIT"
 ---
 
 # TATPG

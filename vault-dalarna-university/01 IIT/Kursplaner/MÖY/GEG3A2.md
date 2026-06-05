@@ -11,7 +11,7 @@ institution: "IIT"
 tags: [kursplan, MÖY, IIT]
 scrape_hash: a88ed903f056d229
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG3A2
-up: "[[Energiteknik MOC]]"
+up: "[[Energiteknik]]"
 ---
 
 # GEG3A2

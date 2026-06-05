@@ -12,7 +12,7 @@ tags: [kursplan, HIA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 0de81214c6d5d099
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI26P
-up: "[[Historia MOC]]"
+up: "[[Historia]]"
 ---
 
 # AHI26P

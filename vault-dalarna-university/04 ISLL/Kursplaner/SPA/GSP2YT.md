@@ -11,7 +11,7 @@ institution: "ISLL"
 tags: [kursplan, SPA, ISLL]
 scrape_hash: 76c4954dd7fec64c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2YT
-up: "[[Spanska MOC]]"
+up: "[[Spanska]]"
 ---
 
 # GSP2YT

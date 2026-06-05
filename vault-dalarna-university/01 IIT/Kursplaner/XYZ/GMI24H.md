@@ -11,7 +11,7 @@ institution: "IIT"
 tags: [kursplan, XYZ, IIT]
 scrape_hash: 79bab3c45dd7ef10
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI24H
-up: "[[Mikrodataanalys MOC]]"
+up: "[[Mikrodataanalys]]"
 ---
 
 # GMI24H

@@ -11,7 +11,7 @@ institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
 scrape_hash: 45baee6964fff2eb
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3HM
-up: "[[Franska MOC]]"
+up: "[[Franska]]"
 ---
 
 # GFR3HM

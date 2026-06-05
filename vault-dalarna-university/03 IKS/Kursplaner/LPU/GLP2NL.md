@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, LPU, IKS]
 scrape_hash: c7cae12a62ace96c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2NL
-up: "[[Ljud- och musikproduktion MOC]]"
+up: "[[Ljud- och musikproduktion]]"
 ---
 
 # GLP2NL

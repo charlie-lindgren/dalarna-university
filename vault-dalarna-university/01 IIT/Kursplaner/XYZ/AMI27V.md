@@ -11,7 +11,7 @@ institution: "IIT"
 tags: [kursplan, XYZ, IIT]
 scrape_hash: 2bf8f66e421d9f98
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI27V
-up: "[[Mikrodataanalys MOC]]"
+up: "[[Mikrodataanalys]]"
 ---
 
 # AMI27V

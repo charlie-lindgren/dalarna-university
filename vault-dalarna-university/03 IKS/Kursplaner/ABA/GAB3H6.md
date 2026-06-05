@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, ABA, IKS]
 scrape_hash: 80444fbc357792f5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3H6
-up: "[[Arbetsvetenskap MOC]]"
+up: "[[Arbetsvetenskap]]"
 ---
 
 # GAB3H6

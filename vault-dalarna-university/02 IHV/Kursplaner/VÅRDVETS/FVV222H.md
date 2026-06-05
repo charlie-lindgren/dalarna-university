@@ -10,7 +10,7 @@ institution: "IHV"
 tags: [kursplan, VÅRDVETS, IHV, forskarutbildning]
 scrape_hash: c774380ad46bfe64
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=FVV222H
-up: "[[Forskarämne Vårdvetenskap MOC]]"
+up: "[[Forskarämne Vårdvetenskap]]"
 ---
 
 # FVV222H

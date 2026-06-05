@@ -11,7 +11,7 @@ institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
 scrape_hash: 78004cafe7e321da
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR24A
-up: "[[Franska MOC]]"
+up: "[[Franska]]"
 ---
 
 # AFR24A

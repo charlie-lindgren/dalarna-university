@@ -215,7 +215,8 @@ def rebuild_subject_mocs(apply: bool,
         # amne_kod -> kursmapp (underkataloger till Kursplaner/)
         code_dirs = {d.name: d for d in kp.iterdir() if d.is_dir()}
 
-        for moc in sorted(kp.glob("* MOC.md")):
+        # Ämnes-hubbar ligger direkt under kp; kurser i subkod-mappar.
+        for moc in sorted(kp.glob("*.md")):
             stem = moc.stem
             if stem.startswith("Stray ") or stem.startswith("Ej Aktiv "):
                 continue
@@ -246,7 +247,7 @@ def rebuild_subject_mocs(apply: bool,
             if idx == -1:
                 # Ingen kurssektion att ersätta — bygg hela filen på nytt.
                 new_text = build_subject_moc(
-                    {"name": stem[:-4], "code": subj_code,
+                    {"name": stem, "code": subj_code,
                      "institution": inst_code, "type": "subject"},
                     courses,
                 )

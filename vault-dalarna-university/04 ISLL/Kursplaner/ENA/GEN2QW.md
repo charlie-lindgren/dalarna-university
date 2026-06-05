@@ -11,7 +11,7 @@ institution: "ISLL"
 tags: [kursplan, ENA, ISLL, vilande]
 scrape_hash: fca12bbad3170179
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2QW
-up: "[[Engelska MOC]]"
+up: "[[Engelska]]"
 cssclasses: [vilande]
 ---
 

@@ -11,7 +11,7 @@ institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
 scrape_hash: 48505a93b02914b7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP37U
-up: "[[Japanska MOC]]"
+up: "[[Japanska]]"
 ---
 
 # GJP37U

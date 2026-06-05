@@ -12,7 +12,7 @@ tags: [kursplan, KIA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: f19f6fd6cda22395
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3C9
-up: "[[Kinesiska MOC]]"
+up: "[[Kinesiska]]"
 ---
 
 # GKI3C9

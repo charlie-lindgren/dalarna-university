@@ -11,7 +11,7 @@ institution: "ISLL"
 tags: [kursplan, PRA, ISLL]
 scrape_hash: 121d901519c2fa96
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR2VP
-up: "[[Portugisiska MOC]]"
+up: "[[Portugisiska]]"
 ---
 
 # GPR2VP

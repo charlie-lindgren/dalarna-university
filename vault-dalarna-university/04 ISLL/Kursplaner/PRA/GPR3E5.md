@@ -12,7 +12,7 @@ tags: [kursplan, PRA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 668c937d79dbd476
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR3E5
-up: "[[Portugisiska MOC]]"
+up: "[[Portugisiska]]"
 ---
 
 # GPR3E5

@@ -11,7 +11,7 @@ institution: "IHV"
 tags: [kursplan, IDA, IHV]
 scrape_hash: ffdc0940a7fd9b3e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH39F
-up: "[[Idrotts- och hälsovetenskap MOC]]"
+up: "[[Idrotts- och hälsovetenskap]]"
 ---
 
 # GIH39F

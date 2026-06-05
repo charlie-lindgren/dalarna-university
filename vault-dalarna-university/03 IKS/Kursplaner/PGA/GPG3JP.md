@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, PGA, IKS]
 scrape_hash: d23a33c2ce1ad5e4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3JP
-up: "[[Pedagogiskt arbete MOC]]"
+up: "[[Pedagogiskt arbete]]"
 ---
 
 # GPG3JP

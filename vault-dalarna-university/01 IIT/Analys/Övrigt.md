@@ -1,6 +1,6 @@
 ---
 tags: [analys, ovrigt]
-up: "[[IIT Analys MOC]]"
+up: "[[IIT Analys]]"
 status: första pass
 ---
 

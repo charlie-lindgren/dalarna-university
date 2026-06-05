@@ -12,7 +12,7 @@ tags: [kursplan, MTA, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: e4729e96ceedabb1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JT
-up: "[[Maskinteknik MOC]]"
+up: "[[Maskinteknik]]"
 ---
 
 # GMT3JT

@@ -12,7 +12,7 @@ tags: [kursplan, RVA, IKS, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: d68d9fa5594a32b2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRV2MK
-up: "[[Rättsvetenskap MOC]]"
+up: "[[Rättsvetenskap]]"
 ---
 
 # GRV2MK

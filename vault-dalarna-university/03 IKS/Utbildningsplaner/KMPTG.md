@@ -5,7 +5,7 @@ institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-01-15 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, IKS]
 scrape_hash: b4c205cc437b2cb6
-up: "IKS MOC"
+up: "IKS"
 ---
 
 # KMPTG

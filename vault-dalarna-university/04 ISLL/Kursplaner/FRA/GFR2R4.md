@@ -12,7 +12,7 @@ tags: [kursplan, FRA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: b998030d846f7f9e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2R4
-up: "[[Franska MOC]]"
+up: "[[Franska]]"
 ---
 
 # GFR2R4

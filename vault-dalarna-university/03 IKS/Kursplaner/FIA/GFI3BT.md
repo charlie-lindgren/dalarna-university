@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, FIA, IKS]
 scrape_hash: 30239d94321b41dc
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFI3BT
-up: "[[Filosofi MOC]]"
+up: "[[Filosofi]]"
 ---
 
 # GFI3BT

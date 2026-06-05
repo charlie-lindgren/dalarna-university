@@ -5,7 +5,7 @@ institution: "IHV"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2021-03-04 . Gäller fr.o.m.  HT 2021."
 tags: [utbildningsplan, program, IHV]
 scrape_hash: 2646fe338fd0e00a
-up: "IHV MOC"
+up: "IHV"
 ---
 
 # VGSEA

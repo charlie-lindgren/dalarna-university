@@ -11,7 +11,7 @@ institution: "IIT"
 tags: [kursplan, ETA, IIT]
 scrape_hash: 580c1ba82e380a8b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GET36T
-up: "[[Elektroteknik MOC]]"
+up: "[[Elektroteknik]]"
 ---
 
 # GET36T

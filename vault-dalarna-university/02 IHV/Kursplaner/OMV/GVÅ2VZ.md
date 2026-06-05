@@ -12,7 +12,7 @@ tags: [kursplan, OMV, IHV, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: ffb2b669fd8525cc
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ2VZ
-up: "[[Omvårdnad MOC]]"
+up: "[[Omvårdnad]]"
 ---
 
 # GVÅ2VZ

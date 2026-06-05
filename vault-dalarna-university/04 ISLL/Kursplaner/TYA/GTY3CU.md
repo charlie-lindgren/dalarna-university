@@ -11,7 +11,7 @@ institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
 scrape_hash: 8054c8d7f6465828
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3CU
-up: "[[Tyska MOC]]"
+up: "[[Tyska]]"
 ---
 
 # GTY3CU

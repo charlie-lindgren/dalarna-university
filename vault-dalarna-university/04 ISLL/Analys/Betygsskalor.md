@@ -1,6 +1,6 @@
 ---
 tags: [analys, betyg]
-up: "[[ISLL Analys MOC]]"
+up: "[[ISLL Analys]]"
 status: första pass
 ---
 

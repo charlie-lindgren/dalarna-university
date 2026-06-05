@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, TRU, IKS]
 scrape_hash: a85dca72b772a749
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATR2AF
-up: "[[Turismvetenskap MOC]]"
+up: "[[Turismvetenskap]]"
 ---
 
 # ATR2AF

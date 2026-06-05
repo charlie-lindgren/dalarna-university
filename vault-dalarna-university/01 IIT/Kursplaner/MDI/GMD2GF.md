@@ -12,7 +12,7 @@ tags: [kursplan, MDI, IIT, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 39c4a452aab91c63
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2GF
-up: "[[Matematikdidaktik MOC]]"
+up: "[[Matematikdidaktik]]"
 ---
 
 # GMD2GF

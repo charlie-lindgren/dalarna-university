@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, FÖA, IKS]
 scrape_hash: 6a035af3ecfd5972
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFÖ26H
-up: "[[Företagsekonomi MOC]]"
+up: "[[Företagsekonomi]]"
 ---
 
 # AFÖ26H

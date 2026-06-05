@@ -11,7 +11,7 @@ institution: "IHV"
 tags: [kursplan, OMV, IHV]
 scrape_hash: ce5a3cec89d38011
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ28H
-up: "[[Omvårdnad MOC]]"
+up: "[[Omvårdnad]]"
 ---
 
 # AVÅ28H

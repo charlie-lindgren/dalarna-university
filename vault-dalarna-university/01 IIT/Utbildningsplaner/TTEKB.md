@@ -5,7 +5,7 @@ institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2018-09-20 . Gäller fr.o.m.  HT 2018."
 tags: [utbildningsplan, program, IIT]
 scrape_hash: 97230495c9788f05
-up: "IIT MOC"
+up: "IIT"
 ---
 
 # TTEKB

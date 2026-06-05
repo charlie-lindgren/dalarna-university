@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, MPR, IKS]
 scrape_hash: 763db687b79dcd93
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3DZ
-up: "[[Medieproduktion MOC]]"
+up: "[[Medieproduktion]]"
 ---
 
 # GMN3DZ

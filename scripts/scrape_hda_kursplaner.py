@@ -873,7 +873,7 @@ def build_course_markdown(scraped: dict, subject_name: str, subject_code: str,
             lines.append(f"cssclasses: [{', '.join(css_unique)}]")
     lines.append(f"scrape_hash: {s_hash}")
     lines.append(f"url: {SV_URL.format(code=code)}")
-    lines.append(f"up: \"[[{subject_name} MOC]]\"")
+    lines.append(f"up: \"[[{subject_name}]]\"")
     lines.append("---")
     lines.append("")
 
@@ -1113,13 +1113,13 @@ def build_subject_moc(subject: dict, courses: list[dict]) -> str:
 
     lines = [
         "---",
-        f"aliases: [{name}]",
+        f"aliases: []",
         f"cssclasses: [moc-page]",
         f"tags: [MOC, amne, {code}, {inst_code}]",
-        f"up: \"[[{inst_code} MOC]]\"",
+        f"up: \"[[{inst_code}]]\"",
         "---",
         "",
-        f"# {name} MOC",
+        f"# {name}",
         "",
         f"> {type_label} vid {inst_name}, Högskolan Dalarna.",
     ]
@@ -1145,7 +1145,7 @@ def build_institution_moc(inst_code: str, subjects: list[dict],
         f"tags: [MOC, institution, {inst_code}]",
         "---",
         "",
-        f"# {inst_code} MOC",
+        f"# {inst_code}",
         "",
         f"> {inst_name}, Högskolan Dalarna.",
         "",
@@ -1171,7 +1171,7 @@ def build_institution_moc(inst_code: str, subjects: list[dict],
         lines.append("")
         for s in sorted(regular, key=lambda x: x["name"]):
             count = course_counts.get(s["code"], 0)
-            lines.append(f"- [[{s['name']} MOC|{s['name']}]] ({count} kurser)")
+            lines.append(f"- [[{s['name']}]] ({count} kurser)")
         lines.append("")
 
     if research:
@@ -1179,16 +1179,17 @@ def build_institution_moc(inst_code: str, subjects: list[dict],
         lines.append("")
         for s in sorted(research, key=lambda x: x["name"]):
             count = course_counts.get(s["code"], 0)
-            lines.append(f"- [[{s['name']} MOC|{s['name']}]] ({count} kurser)")
+            lines.append(f"- [[{s['name']}]] ({count} kurser)")
         lines.append("")
 
-    # Kvalitetsanalys per institution: en enda länk till institutionens Analys
-    # MOC, som i sin tur listar och länkar till samtliga analyssidor. Detta ger
-    # institutionshubben en kontrollerad granne i grafen (Analys MOC:en) som
-    # drar analyssidorna till rätt kluster istället för att låta dem flyta fritt.
+    # Kvalitetsanalys per institution: en enda länk till institutionens
+    # Analys-hubb, som i sin tur listar och länkar till samtliga analyssidor.
+    # Detta ger institutionshubben en kontrollerad granne i grafen (Analys-
+    # hubben) som drar analyssidorna till rätt kluster istället för att låta dem
+    # flyta fritt.
     lines.append("## Kvalitetsanalys")
     lines.append("")
-    lines.append(f"- [[{inst_code} Analys MOC]] — kvalitetsanalys för {inst_code}")
+    lines.append(f"- [[{inst_code} Analys]] — kvalitetsanalys för {inst_code}")
     lines.append("")
 
     return "\n".join(lines)
@@ -1455,7 +1456,10 @@ def main():
             if not kp.exists():
                 continue
             for md in kp.rglob("*.md"):
-                if "MOC" not in md.stem:
+                # Course files live in per-subject subfolders (kp/{code}/…);
+                # subject- and ej-aktiv-hubbar ligger direkt under kp. Bara
+                # kurser ska samlas här.
+                if md.parent != kp:
                     existing_codes.add(md.stem)
                     existing_files[md.stem] = md
         if existing_codes:
@@ -1778,7 +1782,7 @@ def main():
             ic = info["institution"]
             subject_dir = kursplaner_dir(ic) / subj_code
             subject_dir.mkdir(parents=True, exist_ok=True)
-            moc_path = kursplaner_dir(ic) / f"{info['name']} MOC.md"
+            moc_path = kursplaner_dir(ic) / f"{info['name']}.md"
             moc_text = build_subject_moc(info, info["courses"])
             moc_path.write_text(moc_text, encoding="utf-8")
             if not args.quiet:
@@ -1816,14 +1820,14 @@ def main():
             subjects = inst_subjects.get(ic, [])
             if not subjects:
                 continue
-            moc_path = institution_dir(ic) / f"{ic} MOC.md"
+            moc_path = institution_dir(ic) / f"{ic}.md"
             progs = inst_programmes.get(ic, [])
             moc_text = build_institution_moc(
                 ic, subjects, all_course_counts, progs or None
             )
             moc_path.write_text(moc_text, encoding="utf-8")
             if not args.quiet:
-                print(f"  ✓ {ic} MOC.md")
+                print(f"  ✓ {ic}.md")
 
     # Summering
     skip_msg = f", {total_skipped} hoppade över" if total_skipped else ""

@@ -12,7 +12,7 @@ tags: [kursplan, FRA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 42409163e49f3dce
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR29D
-up: "[[Franska MOC]]"
+up: "[[Franska]]"
 ---
 
 # AFR29D

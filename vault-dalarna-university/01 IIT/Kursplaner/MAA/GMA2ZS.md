@@ -11,7 +11,7 @@ institution: "IIT"
 tags: [kursplan, MAA, IIT]
 scrape_hash: a953d0c4bb2ae6f5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2ZS
-up: "[[Matematik MOC]]"
+up: "[[Matematik]]"
 ---
 
 # GMA2ZS

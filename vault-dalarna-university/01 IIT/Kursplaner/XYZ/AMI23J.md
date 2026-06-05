@@ -11,7 +11,7 @@ institution: "IIT"
 tags: [kursplan, XYZ, IIT]
 scrape_hash: a4321c9f9bd59666
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI23J
-up: "[[Mikrodataanalys MOC]]"
+up: "[[Mikrodataanalys]]"
 ---
 
 # AMI23J

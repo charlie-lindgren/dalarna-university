@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, BPO, IKS]
 scrape_hash: f676f10a7ae242a3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2U9
-up: "[[Bildproduktion MOC]]"
+up: "[[Bildproduktion]]"
 ---
 
 # GBQ2U9

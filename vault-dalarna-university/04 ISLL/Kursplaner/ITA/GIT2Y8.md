@@ -11,7 +11,7 @@ institution: "ISLL"
 tags: [kursplan, ITA, ISLL]
 scrape_hash: e748d9d53389c068
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2Y8
-up: "[[Italienska MOC]]"
+up: "[[Italienska]]"
 ---
 
 # GIT2Y8

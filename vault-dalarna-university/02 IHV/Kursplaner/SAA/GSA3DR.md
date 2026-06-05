@@ -11,7 +11,7 @@ institution: "IHV"
 tags: [kursplan, SAA, IHV]
 scrape_hash: 5d7150485040e7cc
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DR
-up: "[[Socialt arbete MOC]]"
+up: "[[Socialt arbete]]"
 ---
 
 # GSA3DR

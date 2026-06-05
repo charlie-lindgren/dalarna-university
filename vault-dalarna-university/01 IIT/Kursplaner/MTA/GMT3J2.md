@@ -11,7 +11,7 @@ institution: "IIT"
 tags: [kursplan, MTA, IIT]
 scrape_hash: 6c1c5aa258356a29
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3J2
-up: "[[Maskinteknik MOC]]"
+up: "[[Maskinteknik]]"
 ---
 
 # GMT3J2

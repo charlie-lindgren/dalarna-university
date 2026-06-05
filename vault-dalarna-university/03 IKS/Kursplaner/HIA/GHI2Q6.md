@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, HIA, IKS]
 scrape_hash: 416850b8fd9017a6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI2Q6
-up: "[[Historia MOC]]"
+up: "[[Historia]]"
 ---
 
 # GHI2Q6

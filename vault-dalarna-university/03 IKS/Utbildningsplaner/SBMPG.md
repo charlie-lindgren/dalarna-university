@@ -5,7 +5,7 @@ institution: "IKS"
 faststalld: "Fastställd av prefekt för institutionen för kultur och samhälle 2023-12-19 . Gäller fr.o.m.  HT 2023."
 tags: [utbildningsplan, program, IKS]
 scrape_hash: 53790901df964cfa
-up: "IKS MOC"
+up: "IKS"
 ---
 
 # SBMPG

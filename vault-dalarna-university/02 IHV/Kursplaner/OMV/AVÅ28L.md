@@ -12,7 +12,7 @@ tags: [kursplan, OMV, IHV, stray]
 
 scrape_hash: 63e991b27b831c62
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ28L
-up: "[[Omvårdnad MOC]]"
+up: "[[Omvårdnad]]"
 ---
 
 # AVÅ28L

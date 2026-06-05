@@ -1,0 +1,17 @@
+---
+aliases: []
+cssclasses: [moc-page]
+tags: [MOC, amne, PSA, IHV]
+up: "[[IHV]]"
+---
+
+# Psykologi
+
+> Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
+> Huvudområde: Ej huvudområde 1
+
+## Vilande kursplaner (1 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
+
+- [[PS1018]] — Psykologiska behandlingsmetoder

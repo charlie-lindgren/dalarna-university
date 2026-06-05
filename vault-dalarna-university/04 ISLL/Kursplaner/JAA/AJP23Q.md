@@ -12,7 +12,7 @@ tags: [kursplan, JAA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 5e084bfd27355157
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP23Q
-up: "[[Japanska MOC]]"
+up: "[[Japanska]]"
 ---
 
 # AJP23Q

@@ -12,7 +12,7 @@ tags: [kursplan, ARA, ISLL, stray, vilande]
 cssclasses: [vilande]
 scrape_hash: 96883fa1101116fd
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR2SQ
-up: "[[Arabiska MOC]]"
+up: "[[Arabiska]]"
 ---
 
 # GAR2SQ

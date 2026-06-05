@@ -5,7 +5,7 @@ institution: "ISLL"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2020-10-22 . Gäller fr.o.m.  HT 2021."
 tags: [utbildningsplan, program, ISLL]
 scrape_hash: fffe87fe77e16169
-up: "ISLL MOC"
+up: "ISLL"
 ---
 
 # HEELA

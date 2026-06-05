@@ -11,7 +11,7 @@ institution: "IKS"
 tags: [kursplan, RVA, IKS]
 scrape_hash: 2add71d583527188
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRV3BF
-up: "[[Rättsvetenskap MOC]]"
+up: "[[Rättsvetenskap]]"
 ---
 
 # GRV3BF
