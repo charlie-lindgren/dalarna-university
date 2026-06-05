@@ -2,8 +2,12 @@ import { FullSlug, resolveRelative } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 
+// Internal plumbing tags that drive the graph colouring / QA pipeline but mean
+// nothing to a visitor — never render them as tag chips.
+const HIDDEN_TAGS = new Set(["MOC"])
+
 const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
-  const tags = fileData.frontmatter?.tags
+  const tags = fileData.frontmatter?.tags?.filter((tag) => !HIDDEN_TAGS.has(tag))
   if (tags && tags.length > 0) {
     return (
       <ul class={classNames(displayClass, "tags")}>

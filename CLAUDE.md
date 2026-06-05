@@ -14,8 +14,8 @@ This is **not a software project** — it is a structured knowledge base for nav
 vault-dalarna-university/   Obsidian vault — living knowledge base
   00 Dashboard/             Overview and navigation hub
   01 IIT/                   Institution: Information & Engineering
-    IIT MOC.md              Institution map of content
-    Kursplaner/             Subject MOCs + course-code subfolders (DTA, BYA, …)
+    IIT.md                  Institution hub (index page)
+    Kursplaner/             Subject hubs + course-code subfolders (DTA, BYA, …)
     Utbildningsplaner/      Programme files
   02 IHV/                   Institution: Health & Welfare
   03 IKS/                   Institution: Culture & Society
@@ -35,7 +35,7 @@ qa/                         Quality-control pipeline (Python)
   populate_analysfiler.py   Fill 03 Analys/ from latest report (also writes .xlsx alongside)
   prune_analysfiler.py      Remove resolved rows from 03 Analys/
   identify_ej_aktiv.py      Tag courses no longer in du.se as ej-aktiv (orphan detector)
-  rebuild_mocs.py           Rebuild all subject + institution MOC files from vault state
+  rebuild_mocs.py           Rebuild all subject + institution hub files from vault state
   rapporter/                Timestamped course-plan QA reports
   rapporter-utb/            Timestamped programme-plan QA reports
 scripts/                    du.se scrapers
@@ -45,27 +45,29 @@ scripts/                    du.se scrapers
 hda.sh                      Interactive menu for the full workflow
 ```
 
-### Dandyflower MOC pattern
+### Dandyflower hub pattern
 
-MOCs (Maps of Content) use a dandyflower pattern: seeds spread outward from a central MOC without tangling across other seeds. The hierarchy is:
+The hub/index pages (formerly "Maps of Content") use a dandyflower pattern: seeds spread outward from a central hub without tangling across other seeds. The hierarchy is:
 
 ```text
 Dalarna Dashboard
-├── IIT MOC
-│   ├── Kursplaner/  (subject MOCs → course files)
+├── IIT
+│   ├── Kursplaner/  (subject hubs → course files)
 │   └── Utbildningsplaner/  (programme files)
-├── IHV MOC
+├── IHV
 │   ├── Kursplaner/
 │   └── Utbildningsplaner/
-├── IKS MOC
+├── IKS
 │   ├── Kursplaner/
 │   └── Utbildningsplaner/
-└── ISLL MOC
+└── ISLL
     ├── Kursplaner/
     └── Utbildningsplaner/
 ```
 
-Each file has an `up:` frontmatter key pointing to its parent MOC.
+Each file has an `up:` frontmatter key pointing to its parent hub.
+
+**Naming note:** hub pages are plain-named (`Svenska.md`, `IIT.md`, `IIT Analys.md`) — the historical " MOC" filename suffix was dropped because staff found the jargon confusing (see `qa/rename_drop_moc.py`). The internal `MOC` frontmatter tag is **kept** as plumbing: the graph colouring, the Explorer hub-first sort (`mocFirstSortFn`), and the QA loaders (`is_hub` in `checks_common.py`) all identify a hub by that tag, not by its name. The `#MOC` tag is filtered out of the on-page `TagList` so visitors never see it.
 
 ## Quartz site
 
