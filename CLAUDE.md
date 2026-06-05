@@ -130,7 +130,7 @@ The `vault-dalarna-university/03 Analys/` files are the editorial layer — `pop
 
 ## Ej-aktiv detection
 
-`qa/identify_ej_aktiv.py` rediscovers the current du.se course offering per subject (using the same logic as the kursplan scraper, without per-course scraping) and compares it to the vault. Course files in the vault whose codes are no longer on du.se are tagged `ej-aktiv` (in both `tags:` and `cssclasses:`) and re-pointed via `up:` to a generated `Ej Aktiv {Subject} MOC.md`. Re-emerged courses are auto-untagged. The graph view colors `ej-aktiv` nodes in warm red so they stand out.
+`qa/identify_ej_aktiv.py` rediscovers the current du.se course offering per subject (using the same logic as the kursplan scraper, without per-course scraping) and compares it to the vault. Course files in the vault whose codes are no longer on du.se are tagged `ej-aktiv` (in both `tags:` and `cssclasses:`) and re-pointed via `up:` to a generated `Ej Aktiv {Subject}` hub. Re-emerged courses are auto-untagged. The graph view colors `ej-aktiv` nodes in warm red so they stand out.
 
 ### Active vs vilande in subject MOCs
 
