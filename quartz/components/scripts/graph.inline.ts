@@ -120,12 +120,19 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       v,
     ]),
   )
+  // HDA: Analys-sidor är till för att bläddra i menyn, inte för att navigeras
+  // i grafen. Vi behåller dem i `data` (så titlar fortfarande slår upp) men
+  // utesluter dem som grafnoder och länk-ändpunkter, så de blir helt isolerade
+  // från grafvyn.
+  const isAnalys = (s: SimpleSlug): boolean => (data.get(s)?.tags ?? []).includes("analys")
+
   const links: SimpleLinkData[] = []
   const tags: SimpleSlug[] = []
-  const validLinks = new Set(data.keys())
+  const validLinks = new Set([...data.keys()].filter((s) => !isAnalys(s)))
 
   const tweens = new Map<string, TweenNode>()
   for (const [source, details] of data.entries()) {
+    if (isAnalys(source)) continue // inga utgående kanter från Analys-noder
     const outgoing = details.links ?? []
 
     for (const dest of outgoing) {
