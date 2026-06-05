@@ -388,6 +388,7 @@ _KANDIDAT_MATCHNINGAR_RAW: dict[str, str] = {
     "Underhåll och kvalitet":                 "Industriell ekonomi - underhåll och kvalitet",
     "Design av PV hybrid system":             "Design av PV- och hybridsystem",
     "Examensarbete för högskoleexamen inom maskinteknik": "Examensarbete för högskoleexamen i maskinteknik",
+    "Additiv tillverkning":                               "Additiv tillverkning (3D printing)",
 }
 _KANDIDAT_MATCHNINGAR: dict[str, str] = {
     _aggressive(k): v for k, v in _KANDIDAT_MATCHNINGAR_RAW.items()
@@ -461,8 +462,9 @@ def check_olänkade_kursreferenser(files: list[Path]) -> list[dict]:
             }[kind]
             detail = f"`{bullet['name']}` ({bullet['hp']})"
             # Vid "okand-kurs": föreslå sannolik kurskandidat om vi har en
-            # manuellt curerad mappning. Suffixet visas i analysen så att
-            # programansvarig direkt ser vår bästa gissning på rätt kurs.
+            # manuellt curerad mappning. Om kandidaten kan lösas till en aktiv
+            # kurskod omklassas fyndet till "programtext-skiljer-kursnamn" —
+            # kursen finns men heter annorlunda i utbildningsplanen.
             if kind == "okand-kurs":
                 suggestion = _KANDIDAT_MATCHNINGAR.get(_aggressive(bullet["name"]))
                 if suggestion:
@@ -474,6 +476,7 @@ def check_olänkade_kursreferenser(files: list[Path]) -> list[dict]:
                             f" — sannolikt avses `{suggestion}` "
                             f"(kurskod `{sugg_code}`)"
                         )
+                        check_label = "programtext-skiljer-kursnamn"
             findings.append({
                 "check": check_label,
                 "code": prog_code,
