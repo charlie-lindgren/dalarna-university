@@ -1,22 +1,22 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// Explorer-sortering: MOC-filer (folderns indexsida) hamnar först bland
-// filerna inom samma mapp; därefter mappar (för konsistens med Quartz default
-// är mappar redan först bland folder/file-jämförelsen), och slutligen filer
-// alfabetiskt. Kriteriet "MOC" är ett suffix på filnamnet — t.ex.
-// "IIT Analys MOC", "Datateknik MOC", "Dalarna Dashboard" — eftersom det
-// är konventionen i vaultens MOC-mönster.
+// Explorer-sortering: hubb-/indexsidor (folderns översiktssida) hamnar först
+// bland filerna inom samma mapp; därefter mappar (för konsistens med Quartz
+// default är mappar redan först bland folder/file-jämförelsen), och slutligen
+// filer alfabetiskt. Hubbar identifieras på den interna ``MOC``-taggen — namnen
+// är numera rena (t.ex. "Datateknik", "IIT Analys"), så filnamns-suffixet
+// "MOC" finns inte längre att sortera på.
 const mocFirstSortFn = (a: any, b: any) => {
   // Behåll Quartz defaultbeteende mellan folder/file: mappar först.
   if (!a.isFolder && b.isFolder) return 1
   if (a.isFolder && !b.isFolder) return -1
-  // Inom samma kategori (båda är filer eller båda är mappar): MOC-suffix
-  // sorteras före allt annat.
-  const aIsMoc = / MOC$/.test(a.displayName)
-  const bIsMoc = / MOC$/.test(b.displayName)
-  if (aIsMoc && !bIsMoc) return -1
-  if (!aIsMoc && bIsMoc) return 1
+  // Inom samma kategori (båda är filer eller båda är mappar): hubbar
+  // (MOC-taggade) sorteras före allt annat.
+  const aIsHub = !!a.data?.tags?.includes("MOC")
+  const bIsHub = !!b.data?.tags?.includes("MOC")
+  if (aIsHub && !bIsHub) return -1
+  if (!aIsHub && bIsHub) return 1
   return a.displayName.localeCompare(b.displayName, undefined, {
     numeric: true,
     sensitivity: "base",

@@ -59,6 +59,24 @@ def subject(path: Path) -> str:
     return path.parent.name
 
 
+_TAGS_RE = re.compile(r"^tags:\s*\[([^\]]*)\]", re.MULTILINE)
+
+
+def is_hub(path: Path) -> bool:
+    """True för hub-/index-sidor (taggade ``MOC``).
+
+    Hubbarna hette tidigare ``* MOC.md`` och exkluderades på filnamn. Numera
+    har de rena namn (t.ex. ``Svenska.md``), så exkluderingen sker på den kvar-
+    varande ``MOC``-taggen i frontmatter i stället. Plan-kontrollerna ska inte
+    granska hubbar som om de vore kurs-/utbildningsplaner.
+    """
+    try:
+        m = _TAGS_RE.search(path.read_text(encoding="utf-8")[:600])
+    except OSError:
+        return False
+    return bool(m) and "MOC" in (t.strip() for t in m.group(1).split(","))
+
+
 # ─────────────────────────────────────────────────────────────────────────────
 # Check 1 — Dubblerade ord
 # ─────────────────────────────────────────────────────────────────────────────

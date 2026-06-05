@@ -144,7 +144,7 @@ export default ((opts?: Partial<GraphOptions>) => {
             <p class="graph-legend-note">
               Nyansen ljusnar:
               <br />
-              MOC → ämne → program → kurs
+              institution → ämne → program → kurs
             </p>
           </div>
         </div>

@@ -317,7 +317,7 @@ def set_course_status(path: Path, subject_name: str, status: str, apply: bool) -
     # up: i den binära modellen pekar alla kurser till ämnes-MOC.
     up_m = re.search(r'^up:\s*(.+)$', new_fm, re.MULTILINE)
     current_up = up_m.group(1).strip() if up_m else None
-    target_up = f'"[[{subject_name} MOC]]"'
+    target_up = f'"[[{subject_name}]]"'
     if current_up != target_up:
         new_fm = update_fm_field(new_fm, "up", target_up)
         changed = True
@@ -466,8 +466,8 @@ def build_vilande_analysis_template(callout_lines: list[str], inst_code: str) ->
         "tags: [analys, kurslivscykel, vilande]",
         # Plain string (utan ``[[ ]]``) — Quartz extraherar wikilinks från
         # frontmatter, men en ren textsträng räknas inte som en graf-edge.
-        # Institutions-MOC:en ska bara koppla till ämnes-MOC:ar i grafen.
-        f'up: "{inst_code} MOC"',
+        # Institutionshubben ska bara koppla till ämneshubbar i grafen.
+        f'up: "{inst_code}"',
         "status: första pass",
         "---",
         "",
