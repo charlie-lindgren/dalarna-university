@@ -389,6 +389,7 @@ _KANDIDAT_MATCHNINGAR_RAW: dict[str, str] = {
     "Design av PV hybrid system":             "Design av PV- och hybridsystem",
     "Examensarbete för högskoleexamen inom maskinteknik": "Examensarbete för högskoleexamen i maskinteknik",
     "Additiv tillverkning":                               "Additiv tillverkning (3D printing)",
+    "Fysisk planering III – genomförande och planeringsjuridik": "Fysisk planering III - genomförande och juridisk fördjupning",
 }
 _KANDIDAT_MATCHNINGAR: dict[str, str] = {
     _aggressive(k): v for k, v in _KANDIDAT_MATCHNINGAR_RAW.items()
