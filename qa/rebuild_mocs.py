@@ -253,7 +253,7 @@ def write_institution_mocs(subjects: dict, apply: bool) -> int:
                     continue
                 text = pf.read_text(encoding="utf-8")
                 fm = parse_frontmatter(text) or {}
-                code = fm.get("programkod", "") or pf.stem
+                code = pf.stem  # filename is authoritative; programkod in frontmatter can be wrong
                 name = fm.get("programnamn", "") or pf.stem
                 programmes.append({"code": code, "name_sv": name})
 
