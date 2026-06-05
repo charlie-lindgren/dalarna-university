@@ -1,5 +1,14 @@
 import type { ContentDetails } from "../../plugins/emitters/contentIndex"
 import {
+  INSTITUTION_PALETTE,
+  INSTITUTIONS,
+  STRUCTURAL_GOLD,
+  ANALYS_PURPLE,
+  EJ_AKTIV_RED,
+  VILANDE_RED,
+  TVARFAK_AMBER,
+} from "../graphColors"
+import {
   SimulationNodeDatum,
   SimulationLinkDatum,
   Simulation,
@@ -246,32 +255,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     {} as Record<(typeof cssVars)[number], string>,
   )
 
-  // Graph color scheme — Högskolan Dalarna
-  // Each of the four institutions gets its own hue family.
-  // Within an institution, four luminance steps mark hierarchy (vivid → pale):
-  //   moc      — top-level institution MOC node
-  //   subject  — subject MOC (darkest content tier)
-  //   program  — utbildningsplan (mid tier)
-  //   course   — kursplan (lightest leaf)
-  // Ej-aktiv overrides everything in warm red. Unrecognized nodes fade to gray.
-  // Hues are placed ~90° apart for max separation; each institution keeps a
-  // single hue across the moc/subject/program/course hierarchy.
-  const INSTITUTION_PALETTE: Record<
-    string,
-    { moc: string; subject: string; program: string; course: string }
-  > = {
-    IIT:  { moc: "#0d57c2", subject: "#3b7fd9", program: "#7eaae6", course: "#b6cff0" },  // royal blue (~215°)
-    IHV:  { moc: "#0e8c5a", subject: "#2cb077", program: "#6ed5a3", course: "#a7e8c8" },  // emerald   (~150°)
-    IKS:  { moc: "#d65a1c", subject: "#ef8534", program: "#f5b073", course: "#f9cfa8" },  // orange    (~25°)
-    ISLL: { moc: "#a3268f", subject: "#cd4cbf", program: "#e08bd6", course: "#efbce9" },  // magenta   (~315°)
-  }
-  const INSTITUTIONS = ["IIT", "IHV", "IKS", "ISLL"] as const
-  const STRUCTURAL_GOLD = "#d4a843"   // Dashboard, Analys MOC — cross-institution structure
-  const ANALYS_PURPLE   = "#7e3aed"   // Analys leaf pages — vivid violet in the hue gap between IIT and ISLL
-  const EJ_AKTIV_RED    = "#c0392b"   // not-running courses
-  const VILANDE_RED     = "#c0392b"   // vilande courses
-  const TVARFAK_AMBER   = "#f59e0b"   // cross-faculty programmes that legitimately float
-
+  // Graph color scheme — Högskolan Dalarna. Palette + constants are defined in
+  // ../graphColors so the legend (Graph.tsx) and the renderer stay in sync.
+  // Ej-aktiv overrides everything in warm red; unrecognized nodes fade to gray.
   function institutionOf(d: NodeData): (typeof INSTITUTIONS)[number] | null {
     for (const inst of INSTITUTIONS) {
       if (d.tags.includes(inst)) return inst
@@ -750,6 +736,12 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   Array.from(containerIcons).forEach((icon) => {
     icon.addEventListener("click", renderGlobalGraph)
     window.addCleanup(() => icon.removeEventListener("click", renderGlobalGraph))
+  })
+
+  const graphHints = document.getElementsByClassName("graph-hint")
+  Array.from(graphHints).forEach((hint) => {
+    hint.addEventListener("click", renderGlobalGraph)
+    window.addCleanup(() => hint.removeEventListener("click", renderGlobalGraph))
   })
 
   document.addEventListener("keydown", shortcutHandler)

@@ -4,6 +4,12 @@ import script from "./scripts/graph.inline"
 import style from "./styles/graph.scss"
 import { i18n } from "../i18n"
 import { classNames } from "../util/lang"
+import {
+  INSTITUTIONS,
+  INSTITUTION_PALETTE,
+  INSTITUTION_LABELS,
+  SPECIAL_LEGEND,
+} from "./graphColors"
 
 export interface D3Config {
   drag: boolean
@@ -96,8 +102,47 @@ export default ((opts?: Partial<GraphOptions>) => {
             </svg>
           </button>
         </div>
+        <button class="graph-hint" aria-label="Öppna hela kunskapsgrafen">
+          <span class="graph-hint-title">🕸️ Utforska hela kunskapsgrafen</span>
+          <span class="graph-hint-keys">
+            <span class="graph-hint-os">
+              <kbd></kbd>
+              <span class="graph-hint-plus">+</span>
+              <kbd>G</kbd>
+              <span class="graph-hint-label">Mac</span>
+            </span>
+            <span class="graph-hint-sep">eller</span>
+            <span class="graph-hint-os">
+              <kbd>Ctrl</kbd>
+              <span class="graph-hint-plus">+</span>
+              <kbd>G</kbd>
+              <span class="graph-hint-label">Windows</span>
+            </span>
+          </span>
+          <span class="graph-hint-click">eller klicka här för att öppna</span>
+        </button>
         <div class="global-graph-outer">
           <div class="global-graph-container" data-cfg={JSON.stringify(globalGraph)}></div>
+          <div class="graph-legend">
+            <ul class="graph-legend-list">
+              {INSTITUTIONS.map((inst) => (
+                <li>
+                  <span
+                    class="graph-legend-swatch"
+                    style={`background:${INSTITUTION_PALETTE[inst].moc}`}
+                  ></span>
+                  {INSTITUTION_LABELS[inst]}
+                </li>
+              ))}
+              {SPECIAL_LEGEND.map((entry) => (
+                <li>
+                  <span class="graph-legend-swatch" style={`background:${entry.color}`}></span>
+                  {entry.label}
+                </li>
+              ))}
+            </ul>
+            <p class="graph-legend-note">Nyansen ljusnar: MOC → ämne → program → kurs</p>
+          </div>
         </div>
       </div>
     )
