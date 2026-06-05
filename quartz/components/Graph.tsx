@@ -106,7 +106,7 @@ export default ((opts?: Partial<GraphOptions>) => {
           <span class="graph-hint-title">🕸️ Utforska hela kunskapsgrafen</span>
           <span class="graph-hint-keys">
             <span class="graph-hint-os">
-              <kbd></kbd>
+              <kbd>{"⌘"}</kbd>
               <span class="graph-hint-plus">+</span>
               <kbd>G</kbd>
               <span class="graph-hint-label">Mac</span>
@@ -141,7 +141,11 @@ export default ((opts?: Partial<GraphOptions>) => {
                 </li>
               ))}
             </ul>
-            <p class="graph-legend-note">Nyansen ljusnar: MOC → ämne → program → kurs</p>
+            <p class="graph-legend-note">
+              Nyansen ljusnar:
+              <br />
+              MOC → ämne → program → kurs
+            </p>
           </div>
         </div>
       </div>

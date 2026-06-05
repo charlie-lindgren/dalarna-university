@@ -42,9 +42,9 @@ export const INSTITUTION_LABELS: Record<(typeof INSTITUTIONS)[number], string> =
 }
 
 // Compact legend entries for the cross-cutting (non-institutional) categories.
+// Struktur (gold) and Tvärfakultet (amber) are intentionally omitted — they add
+// noise without helping the typical visitor read the graph.
 export const SPECIAL_LEGEND: { color: string; label: string }[] = [
-  { color: STRUCTURAL_GOLD, label: "Struktur (Dashboard, Analys-MOC)" },
   { color: ANALYS_PURPLE, label: "Analys" },
-  { color: TVARFAK_AMBER, label: "Tvärfakultet" },
   { color: EJ_AKTIV_RED, label: "Ej aktiv / Vilande" },
 ]
