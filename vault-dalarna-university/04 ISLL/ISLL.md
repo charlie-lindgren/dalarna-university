@@ -27,18 +27,18 @@ tags: [MOC, institution, ISLL]
 
 ## Ämnen
 
-- [[Arabiska|Arabiska]] (27 kurser)
-- [[Engelska|Engelska]] (71 kurser)
-- [[Franska|Franska]] (47 kurser)
-- [[Italienska|Italienska]] (29 kurser)
-- [[Japanska|Japanska]] (35 kurser)
-- [[Kinesiska|Kinesiska]] (37 kurser)
-- [[Portugisiska|Portugisiska]] (23 kurser)
-- [[Ryska|Ryska]] (27 kurser)
-- [[Spanska|Spanska]] (24 kurser)
-- [[Svenska|Svenska]] (16 kurser)
-- [[Svenska som andraspråk|Svenska som andraspråk]] (63 kurser)
-- [[Tyska|Tyska]] (45 kurser)
+- [[Arabiska]] (27 kurser)
+- [[Engelska]] (71 kurser)
+- [[Franska]] (47 kurser)
+- [[Italienska]] (29 kurser)
+- [[Japanska]] (35 kurser)
+- [[Kinesiska]] (37 kurser)
+- [[Portugisiska]] (23 kurser)
+- [[Ryska]] (27 kurser)
+- [[Spanska]] (24 kurser)
+- [[Svenska]] (16 kurser)
+- [[Svenska som andraspråk]] (63 kurser)
+- [[Tyska]] (45 kurser)
 
 ## Kvalitetsanalys
 

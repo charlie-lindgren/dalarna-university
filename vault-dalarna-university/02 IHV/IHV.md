@@ -23,21 +23,21 @@ tags: [MOC, institution, IHV]
 
 ## Ämnen
 
-- [[Fysioterapi|Fysioterapi]] (4 kurser)
-- [[Idrotts- och hälsovetenskap|Idrotts- och hälsovetenskap]] (156 kurser)
-- [[Kemi|Kemi]] (1 kurser)
-- [[Medicinsk vetenskap|Medicinsk vetenskap]] (26 kurser)
-- [[Naturvetenskap|Naturvetenskap]] (10 kurser)
-- [[Omvårdnad|Omvårdnad]] (69 kurser)
-- [[Psykologi|Psykologi]] (1 kurser)
-- [[Sexuell, reproduktiv och perinatal hälsa|Sexuell, reproduktiv och perinatal hälsa]] (51 kurser)
-- [[Socialt arbete|Socialt arbete]] (48 kurser)
-- [[Vårdvetenskap|Vårdvetenskap]] (18 kurser)
+- [[Fysioterapi]] (4 kurser)
+- [[Idrotts- och hälsovetenskap]] (156 kurser)
+- [[Kemi]] (1 kurser)
+- [[Medicinsk vetenskap]] (26 kurser)
+- [[Naturvetenskap]] (10 kurser)
+- [[Omvårdnad]] (69 kurser)
+- [[Psykologi]] (1 kurser)
+- [[Sexuell, reproduktiv och perinatal hälsa]] (51 kurser)
+- [[Socialt arbete]] (48 kurser)
+- [[Vårdvetenskap]] (18 kurser)
 
 ## Forskarutbildningsämnen
 
-- [[Forskarämne Pedagogiskt arbete|Forskarämne Pedagogiskt arbete]] (19 kurser)
-- [[Forskarämne Vårdvetenskap|Forskarämne Vårdvetenskap]] (4 kurser)
+- [[Forskarämne Pedagogiskt arbete]] (19 kurser)
+- [[Forskarämne Vårdvetenskap]] (4 kurser)
 
 ## Kvalitetsanalys
 

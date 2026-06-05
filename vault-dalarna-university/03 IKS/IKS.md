@@ -43,31 +43,31 @@ tags: [MOC, institution, IKS]
 
 ## Ämnen
 
-- [[Afrikanska studier|Afrikanska studier]] (19 kurser)
-- [[Arbetsvetenskap|Arbetsvetenskap]] (42 kurser)
-- [[Bild|Bild]] (9 kurser)
-- [[Bildproduktion|Bildproduktion]] (62 kurser)
-- [[Entreprenörskap och innovationsteknik|Entreprenörskap och innovationsteknik]] (17 kurser)
-- [[Filosofi|Filosofi]] (22 kurser)
-- [[Företagsekonomi|Företagsekonomi]] (41 kurser)
-- [[Historia|Historia]] (63 kurser)
-- [[Industriell ekonomi|Industriell ekonomi]] (2 kurser)
-- [[Kulturgeografi|Kulturgeografi]] (23 kurser)
-- [[Ljud- och musikproduktion|Ljud- och musikproduktion]] (57 kurser)
-- [[Medieproduktion|Medieproduktion]] (32 kurser)
-- [[Nationalekonomi|Nationalekonomi]] (34 kurser)
-- [[Pedagogik|Pedagogik]] (44 kurser)
-- [[Pedagogiskt arbete|Pedagogiskt arbete]] (109 kurser)
-- [[Personal och arbetsliv|Personal och arbetsliv]] (18 kurser)
-- [[Religionsvetenskap|Religionsvetenskap]] (37 kurser)
-- [[Rättsvetenskap|Rättsvetenskap]] (33 kurser)
-- [[Sociologi|Sociologi]] (17 kurser)
-- [[Statsvetenskap|Statsvetenskap]] (38 kurser)
-- [[Turismvetenskap|Turismvetenskap]] (45 kurser)
+- [[Afrikanska studier]] (19 kurser)
+- [[Arbetsvetenskap]] (42 kurser)
+- [[Bild]] (9 kurser)
+- [[Bildproduktion]] (62 kurser)
+- [[Entreprenörskap och innovationsteknik]] (17 kurser)
+- [[Filosofi]] (22 kurser)
+- [[Företagsekonomi]] (41 kurser)
+- [[Historia]] (63 kurser)
+- [[Industriell ekonomi]] (2 kurser)
+- [[Kulturgeografi]] (23 kurser)
+- [[Ljud- och musikproduktion]] (57 kurser)
+- [[Medieproduktion]] (32 kurser)
+- [[Nationalekonomi]] (34 kurser)
+- [[Pedagogik]] (44 kurser)
+- [[Pedagogiskt arbete]] (109 kurser)
+- [[Personal och arbetsliv]] (18 kurser)
+- [[Religionsvetenskap]] (37 kurser)
+- [[Rättsvetenskap]] (33 kurser)
+- [[Sociologi]] (17 kurser)
+- [[Statsvetenskap]] (38 kurser)
+- [[Turismvetenskap]] (45 kurser)
 
 ## Forskarutbildningsämnen
 
-- [[Forskarämne Pedagogiskt arbete|Forskarämne Pedagogiskt arbete]] (19 kurser)
+- [[Forskarämne Pedagogiskt arbete]] (19 kurser)
 
 ## Kvalitetsanalys
 
