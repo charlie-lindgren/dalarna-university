@@ -10,21 +10,17 @@ up: "[[IKS]]"
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 > Huvudområde: Personal och arbetsliv 1
 
-## Kurser (11 st)
+## Kurser (7 st)
 
 - [[GPA2FW]] — Personalekonomi och lön
 - [[GPA2NY]] — Strategiskt och internationellt personalarbete
-- [[GPA2R6]] — Kompetensförsörjning - avveckling och förändring
 - [[GPA32E]] — Kollektiva lärprocesser och lärande organisation
-- [[GPA353]] — Ledarskap
-- [[GPA354]] — Arbetsrätt, avtal och förhandling
-- [[GPA357]] — Praktik för personalvetare
 - [[PA2008]] — Examensarbete för kandidatexamen inom Personal och arbetsliv
 - [[PA2009]] — Kunskapsöversikt Personal och arbetsliv
 - [[PA2010]] — Metod III - perspektiv, kunskapssyn och metodval
 - [[PA2011]] — Arbetsmiljö-människa, strategier och processer
 
-## Vilande kursplaner (7 st)
+## Vilande kursplaner (11 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -34,4 +30,8 @@ up: "[[IKS]]"
 - [[GPA2LM]] — Personal och arbetsliv - en introduktion
 - [[GPA2LN]] — Ekonomi- och verksamhetsstyrning för personalvetare
 - [[GPA2P7]] — Samhällsvetenskaplig metod och vetenskapsteori II
+- [[GPA2R6]] — Kompetensförsörjning - avveckling och förändring
 - [[GPA32D]] — Individuella lärprocesser och kompetensutveckling
+- [[GPA353]] — Ledarskap
+- [[GPA354]] — Arbetsrätt, avtal och förhandling
+- [[GPA357]] — Praktik för personalvetare

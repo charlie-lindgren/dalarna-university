@@ -8,10 +8,11 @@ huvudomrade: "Personal och arbetsliv 1"
 amne: "Personal och arbetsliv"
 amne_kod: "PEE"
 institution: "IKS"
-tags: [kursplan, PEE, IKS]
+tags: [kursplan, PEE, IKS, vilande]
 scrape_hash: ecad3ed386aafb54
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2R6
 up: "[[Personal och arbetsliv]]"
+cssclasses: [vilande]
 ---
 
 # GPA2R6

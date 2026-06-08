@@ -57,7 +57,7 @@ tags: [MOC, institution, IKS]
 - [[Medieproduktion]] (32 kurser)
 - [[Nationalekonomi]] (34 kurser)
 - [[Pedagogik]] (44 kurser)
-- [[Pedagogiskt arbete]] (109 kurser)
+- [[Pedagogiskt arbete]] (111 kurser)
 - [[Personal och arbetsliv]] (18 kurser)
 - [[Religionsvetenskap]] (37 kurser)
 - [[Rättsvetenskap]] (33 kurser)

@@ -8,10 +8,11 @@ huvudomrade: "Italienska 1"
 amne: "Italienska"
 amne_kod: "ITA"
 institution: "ISLL"
-tags: [kursplan, ITA, ISLL]
+tags: [kursplan, ITA, ISLL, vilande]
 scrape_hash: 1ddac3d5f73243fe
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TP
 up: "[[Italienska]]"
+cssclasses: [vilande]
 ---
 
 # GIT2TP

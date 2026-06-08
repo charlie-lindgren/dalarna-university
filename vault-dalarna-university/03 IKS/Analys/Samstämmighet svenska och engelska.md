@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (643 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (646 rader)</span></a>
 
-> [!example]- 643 fynd — klicka för att expandera
+> [!example]- 646 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -540,6 +540,9 @@ status: första pass
 > | [GPG3FV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FV) | PGA | Paritetsskillnad | Svenska: 5 mål, engelska: 1 mål (diff 4) |
 > | [GPG3FV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FV) | PGA | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
 > | [GPG3JD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3JD) | PGA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | [GPG3KA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3KA) | PGA | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+> | [GPG3KB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3KB) | PGA | Paritetsskillnad | Svenska: 7 mål, engelska: 1 mål (diff 6) |
+> | [GPG3KB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3KB) | PGA | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
 > | [PG2043](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PG2043) | PGA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [PG2048](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PG2048) | PGA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [PG3023](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PG3023) | PGA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |

@@ -10,11 +10,9 @@ up: "[[IHV]]"
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 > Huvudområde: Sexuell, reproduktiv och perinatal hälsa 1
 
-## Kurser (25 st)
+## Kurser (23 st)
 
 - [[ASR25T]] — Hälso- och sjukvårdssystemforskning i låg-, medel- och höginkomstkontext
-- [[ASR25U]] — Ledarskap och organisation inom hälso- och sjukvårdssystem
-- [[ASR25V]] — Examensarbete i sexuell, reproduktiv och perinatal hälsa
 - [[ASR296]] — Examensarbete i sexuell, reproduktiv och perinatal hälsa (fristående kurs)
 - [[ASR29S]] — Examensarbete i sexuell, reproduktiv och perinatal hälsa
 - [[ASR29T]] — Graviditet, förlossning och postpartumvård I
@@ -38,7 +36,7 @@ up: "[[IHV]]"
 - [[SR3014]] — Förlossningsvård II, verksamhetsförlagd utbildning
 - [[SR3015]] — Mödrahälsovård och folkhälsa, verksamhetsförlagd utbildning
 
-## Vilande kursplaner (26 st)
+## Vilande kursplaner (28 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -48,6 +46,8 @@ up: "[[IHV]]"
 - [[ASR24X]] — Strategier för implementering av förbättringsarbete i hälso- och sjukvård
 - [[ASR25P]] — Graviditet, förlossning och postpartumvård I
 - [[ASR25Q]] — Graviditet, förlossning och postpartumvård II
+- [[ASR25U]] — Ledarskap och organisation inom hälso- och sjukvårdssystem
+- [[ASR25V]] — Examensarbete i sexuell, reproduktiv och perinatal hälsa
 - [[ASR26N]] — Konstruktiv länkning av utbildnings- och kursplaner, läraktiviteter och examinationsformer för lärare i högre utbildning
 - [[ASR26S]] — Graviditet, förlossning och postpartumvård II
 - [[ASR284]] — Förlossningsvård I, verksamhetsförlagd utbildning

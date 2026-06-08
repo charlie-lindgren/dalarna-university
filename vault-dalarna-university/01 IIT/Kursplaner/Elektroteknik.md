@@ -10,7 +10,9 @@ up: "[[IIT]]"
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
 > Huvudområde: Ej huvudområde 1
 
-## Kurser (2 st)
+## Vilande kursplaner (2 st)
+
+> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[ET1029]] — Styr- och reglerteknik
 - [[GET36T]] — Ellära

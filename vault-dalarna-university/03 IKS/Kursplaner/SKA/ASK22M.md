@@ -8,10 +8,11 @@ huvudomrade: "Statsvetenskap 1"
 amne: "Statsvetenskap"
 amne_kod: "SKA"
 institution: "IKS"
-tags: [kursplan, SKA, IKS]
+tags: [kursplan, SKA, IKS, vilande]
 scrape_hash: e65a9b6815c3a7c3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASK22M
 up: "[[Statsvetenskap]]"
+cssclasses: [vilande]
 ---
 
 # ASK22M

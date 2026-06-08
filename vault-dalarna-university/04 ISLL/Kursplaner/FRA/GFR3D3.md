@@ -8,10 +8,11 @@ huvudomrade: "Franska 1"
 amne: "Franska"
 amne_kod: "FRA"
 institution: "ISLL"
-tags: [kursplan, FRA, ISLL]
+tags: [kursplan, FRA, ISLL, vilande]
 scrape_hash: 471e5676b199d7b1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3D3
 up: "[[Franska]]"
+cssclasses: [vilande]
 ---
 
 # GFR3D3

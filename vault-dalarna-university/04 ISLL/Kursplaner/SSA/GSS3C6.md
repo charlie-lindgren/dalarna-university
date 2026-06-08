@@ -8,10 +8,11 @@ huvudomrade: "Svenska som andraspråk 1"
 amne: "Svenska som andraspråk"
 amne_kod: "SSA"
 institution: "ISLL"
-tags: [kursplan, SSA, ISLL]
+tags: [kursplan, SSA, ISLL, vilande]
 scrape_hash: 771022f21dc64db2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3C6
 up: "[[Svenska som andraspråk]]"
+cssclasses: [vilande]
 ---
 
 # GSS3C6

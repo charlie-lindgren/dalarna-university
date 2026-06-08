@@ -8,10 +8,11 @@ huvudomrade: "Sexuell, reproduktiv och perinatal hälsa 1"
 amne: "Sexuell, reproduktiv och perinatal hälsa"
 amne_kod: "SRP"
 institution: "IHV"
-tags: [kursplan, SRP, IHV]
+tags: [kursplan, SRP, IHV, vilande]
 scrape_hash: 4b26181c0248a8b4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR25V
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
+cssclasses: [vilande]
 ---
 
 # ASR25V

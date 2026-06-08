@@ -9,11 +9,10 @@ up: "[[IKS]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (10 st)
+## Kurser (9 st)
 
 - [[GRV266]] — Beskattningsrätt
 - [[GRV2FC]] — Arbetsrätt I
-- [[GRV3BF]] — IT-rätt
 - [[RV1002]] — Associationsrätt
 - [[RV1044]] — Obeståndsrätt
 - [[RV1046]] — Socialrätt I
@@ -22,13 +21,14 @@ up: "[[IKS]]"
 - [[RV1056]] — Idrottsjuridik
 - [[RV1058]] — Handelsrättslig översiktskurs
 
-## Vilande kursplaner (23 st)
+## Vilande kursplaner (24 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[GRV22R]] — Dataskyddsjuridik
 - [[GRV2CE]] — Småföretagens regelverk
 - [[GRV2MK]] — Småföretagens regelverk I
+- [[GRV3BF]] — IT-rätt
 - [[RV1001]] — Arbetsrätt
 - [[RV1003]] — Beskattningsrätt A
 - [[RV1004]] — Familjerätt

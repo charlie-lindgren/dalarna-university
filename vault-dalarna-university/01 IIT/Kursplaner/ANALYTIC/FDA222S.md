@@ -7,10 +7,11 @@ niva: "Forskarnivå"
 amne: "Forskarämne Data Analytics"
 amne_kod: "ANALYTIC"
 institution: "IIT"
-tags: [kursplan, ANALYTIC, IIT, forskarutbildning]
+tags: [kursplan, ANALYTIC, IIT, forskarutbildning, vilande]
 scrape_hash: 32a2a80253370ac8
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222S
 up: "[[Forskarämne Data Analytics]]"
+cssclasses: [vilande]
 ---
 
 # FDA222S

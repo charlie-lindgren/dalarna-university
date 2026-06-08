@@ -10,7 +10,7 @@ up: "[[IIT]]"
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
 > Huvudområde: Solenergiteknik 1
 
-## Kurser (36 st)
+## Kurser (35 st)
 
 - [[AEG26X]] — Design av PV- och hybridsystem
 - [[AEG294]] — Energipositiva stadsdelar
@@ -32,7 +32,6 @@ up: "[[IIT]]"
 - [[EG3014]] — Utformning av solenergibyggnader
 - [[EG3019]] — Livscykelanalys och livscykelkostnadsanalys
 - [[EG3020]] — Examensarbete för magisterexamen i Energiteknik med fokus på energieffektivisering inom byggd miljö
-- [[EG3022]] — Examensarbete för magisterexamen i solenergiteknik
 - [[GEG2JP]] — Utvecklingsprojekt, tillverkning av en solfångare
 - [[GEG2UE]] — Energieffektivisering
 - [[GEG2ZR]] — Introduktion till hållbara energisystem
@@ -49,7 +48,7 @@ up: "[[IIT]]"
 - [[GEG3K8]] — Ellära
 - [[GEG3K9]] — Styr- och reglerteknik
 
-## Vilande kursplaner (21 st)
+## Vilande kursplaner (22 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -67,6 +66,7 @@ up: "[[IIT]]"
 - [[EG3015]] — Solstrålning och solgeometri
 - [[EG3017]] — Solenergiteknikpraktik
 - [[EG3018]] — Solenergiteknikpraktik
+- [[EG3022]] — Examensarbete för magisterexamen i solenergiteknik
 - [[EG4001]] — Examensarbete för masterexamen i solenergiteknik
 - [[GEG26J]] — Vetenskaplig kommunikation
 - [[GEG2UL]] — Förnybar kraftgenerering

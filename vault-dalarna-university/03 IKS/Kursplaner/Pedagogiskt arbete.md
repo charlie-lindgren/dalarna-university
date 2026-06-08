@@ -10,7 +10,7 @@ up: "[[IKS]]"
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 > Huvudområde: Ej huvudområde 1
 
-## Kurser (76 st)
+## Kurser (72 st)
 
 - [[APG22X]] — Tematisk fördjupning inom ett utbildningsvetenskapligt område
 - [[APG244]] — Vetenskapsteori och utbildningsvetenskaplig forskning för grundlärare F-3
@@ -62,7 +62,6 @@ up: "[[IKS]]"
 - [[GPG329]] — Utveckling och lärande för ämneslärare inriktning gymnasieskolan (varav 7,5 hp VFU)
 - [[GPG32A]] — Skolväsendets historia och samhällsuppdrag - ämneslärare
 - [[GPG33D]] — Utveckling, lärande och ledarskap - VAL
-- [[GPG33E]] — Sociala relationer, skolans historiska utveckling och samhällsuppdrag - VAL
 - [[GPG33F]] — Didaktik och bedömning - VAL
 - [[GPG3AB]] — Introduktion till läraryrket för ämneslärare årskurs 7–9 - AIL
 - [[GPG3AC]] — Didaktik och ledarskap för ämneslärare årskurs 7–9 - AIL
@@ -80,16 +79,13 @@ up: "[[IKS]]"
 - [[GPG3FV]] — Självständigt arbete - VAL
 - [[GPG3JC]] — Utbildningssystemet i Sverige
 - [[GPG3JD]] — Att leda kollegiala lärprocesser i förskola och skola
-- [[GPG3JP]] — Interkulturell och inkluderande undervisning i globala sammanhang
 - [[PG3023]] — Pedagogiskt arbete IIIb: Examensarbete
-- [[PG3024]] — Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare F-3
-- [[PG3025]] — Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare 4-6
 - [[PG3031]] — Utbildningsfilosofiska perspektiv
 - [[PG3041]] — Utbildningsvetenskapliga teorier
 - [[PG3061]] — Att kritiskt granska utbildningsvetenskaplig forskning
 - [[PG3069]] — Utbildningsvetenskapliga ansatser - teoretisk och  metodologisk fördjupning
 
-## Vilande kursplaner (33 st)
+## Vilande kursplaner (39 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -112,6 +108,7 @@ up: "[[IKS]]"
 - [[GPG2TT]] — Omsorg, relationer och etik i förskolläraryrket
 - [[GPG2VW]] — Professionellt lärarskap och skolutveckling (varav 10 hp VFU)
 - [[GPG2YH]] — Verksamhetsförlagd utbildning för lärare (YRK)
+- [[GPG33E]] — Sociala relationer, skolans historiska utveckling och samhällsuppdrag - VAL
 - [[GPG36A]] — Didaktik och läroplansteori - KPU
 - [[GPG36B]] — Didaktik och läroplansteori
 - [[GPG3AD]] — Verksamhetsförlagd utbildning 1 för ämneslärare årskurs 7–9 - AIL
@@ -122,7 +119,12 @@ up: "[[IKS]]"
 - [[GPG3FR]] — Introduktion till studier i program - VAL
 - [[GPG3FS]] — Verksamhetsförlagd utbildning 1 - VAL
 - [[GPG3FT]] — Verksamhetsförlagd utbildning 2 - VAL
+- [[GPG3JP]] — Interkulturell och inkluderande undervisning i globala sammanhang
+- [[GPG3KA]] — Didaktik och ledarskap för ämneslärare inriktning årskurs 7-9 (inkl 7,5 hp VFU)
+- [[GPG3KB]] — Didaktik och ledarskap för ämneslärare inriktning gymnasieskolan (inkl 7,5 hp VFU)
 - [[PG2043]] — Pedagogiskt arbete IIIb: Examensarbete (grundnivå 2)
 - [[PG2048]] — Pedagogiskt arbete IIIb: Examensarbete (grundnivå)
+- [[PG3024]] — Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare F-3
+- [[PG3025]] — Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare 4-6
 - [[PG3056]] — Perspektiv på pedagogisk praktik
 - [[PG3065]] — Examensarbete för magisterexamen i pedagogiskt arbete

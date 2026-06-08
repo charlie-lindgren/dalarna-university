@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (423 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (452 rader)</span></a>
 
-> [!example]- 423 fynd — klicka för att expandera
+> [!example]- 452 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Institution | Fastställd | Reviderad | Problem |
 > | --- | --- | --- | --- | --- | --- |
@@ -86,6 +86,8 @@ status: första pass
 > | [PG2043](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PG2043) | PGA | IKS | 2012-10-09 | 2013-05-15 | Ingen aktiv kursomgång |
 > | [RV1045](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1045) | RVA | IKS | 2013-05-23 | — | Ingen aktiv kursomgång |
 > | [AB1022](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1022) | ABA | IKS | 2013-06-13 | — | Ingen aktiv kursomgång |
+> | [PG3024](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PG3024) | PGA | IKS | 2013-07-02 | — | Ingen aktiv kursomgång |
+> | [PG3025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PG3025) | PGA | IKS | 2013-07-03 | — | Ingen aktiv kursomgång |
 > | [SO1027](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SO1027) | SOA | IKS | 2013-03-11 | 2013-08-19 | Ingen aktiv kursomgång |
 > | [SO1033](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SO1033) | SOA | IKS | 2013-10-10 | — | Ingen aktiv kursomgång |
 > | [PE1068](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1068) | PEA | IKS | 2013-11-06 | — | Ingen aktiv kursomgång |
@@ -127,6 +129,7 @@ status: första pass
 > | [TR1024](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR1024) | TRU | IKS | 2014-08-28 | — | Ingen aktiv kursomgång |
 > | [TR1025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR1025) | TRU | IKS | 2014-09-18 | — | Ingen aktiv kursomgång |
 > | [RK3043](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RK3043) | RKA | IKS | 2014-09-19 | — | Ingen aktiv kursomgång |
+> | [LP1053](https://www.du.se/sv/utbildning/kurser/kursplan/?code=LP1053) | LPU | IKS | 2014-10-03 | — | Ingen aktiv kursomgång |
 > | [SK2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SK2009) | SKA | IKS | 2014-10-30 | — | Ingen aktiv kursomgång |
 > | [AS2001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS2001) | UVX | IKS | 2014-10-30 | — | Ingen aktiv kursomgång |
 > | [RV1048](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1048) | RVA | IKS | 2014-11-21 | — | Ingen aktiv kursomgång |
@@ -148,6 +151,7 @@ status: första pass
 > | [SK1055](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SK1055) | SKA | IKS | 2015-02-13 | — | Ingen aktiv kursomgång |
 > | [SK1060](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SK1060) | SKA | IKS | 2015-02-13 | — | Ingen aktiv kursomgång |
 > | [SK2011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SK2011) | SKA | IKS | 2015-02-13 | — | Ingen aktiv kursomgång |
+> | [EU1033](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EU1033) | EUN | IKS | 2015-02-26 | — | Ingen aktiv kursomgång |
 > | [FÖ2024](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FÖ2024) | FÖA | IKS | 2015-02-26 | — | Ingen aktiv kursomgång |
 > | [RV1051](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1051) | RVA | IKS | 2015-02-26 | — | Ingen aktiv kursomgång |
 > | [RV1052](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1052) | RVA | IKS | 2015-02-26 | — | Ingen aktiv kursomgång |
@@ -163,6 +167,7 @@ status: första pass
 > | [SK1018](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SK1018) | SKA | IKS | 2008-01-01 | 2015-08-24 | Ingen aktiv kursomgång |
 > | [SK1064](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SK1064) | SKA | IKS | 2015-09-03 | — | Ingen aktiv kursomgång |
 > | [SK1065](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SK1065) | SKA | IKS | 2015-09-03 | — | Ingen aktiv kursomgång |
+> | [AB1029](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1029) | ABA | IKS | 2015-09-15 | — | Ingen aktiv kursomgång |
 > | [HI3019](https://www.du.se/sv/utbildning/kurser/kursplan/?code=HI3019) | HIA | IKS | 2015-09-17 | — | Ingen aktiv kursomgång |
 > | [HI3020](https://www.du.se/sv/utbildning/kurser/kursplan/?code=HI3020) | HIA | IKS | 2015-09-17 | — | Ingen aktiv kursomgång |
 > | [SK2013](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SK2013) | SKA | IKS | 2015-09-17 | — | Ingen aktiv kursomgång |
@@ -254,11 +259,13 @@ status: första pass
 > | [GLP29X](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP29X) | LPU | IKS | 2019-06-17 | — | Ingen aktiv kursomgång |
 > | [FPA0005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA0005) | PEDAGARB | IKS | 2019-06-20 | — | Ingen aktiv kursomgång |
 > | [ASK22L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASK22L) | SKA | IKS | 2018-11-15 | 2019-08-20 | Ingen aktiv kursomgång |
+> | [ASK22M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASK22M) | SKA | IKS | 2018-11-15 | 2019-08-20 | Ingen aktiv kursomgång |
 > | [GAB2AJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB2AJ) | ABA | IKS | 2019-08-29 | — | Ingen aktiv kursomgång |
 > | [GBQ2AY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2AY) | BPO | IKS | 2019-09-11 | — | Ingen aktiv kursomgång |
 > | [GBQ2AZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2AZ) | BPO | IKS | 2019-09-11 | — | Ingen aktiv kursomgång |
 > | [GFÖ2B9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ2B9) | FÖA | IKS | 2019-09-11 | — | Ingen aktiv kursomgång |
 > | [FPA2227](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA2227) | PEDAGARB | IKS | 2019-09-23 | — | Ingen aktiv kursomgång |
+> | [GLP2BQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2BQ) | LPU | IKS | 2019-10-09 | — | Ingen aktiv kursomgång |
 > | [FPA2226](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA2226) | PEDAGARB | IKS | 2019-10-23 | — | Ingen aktiv kursomgång |
 > | [GEU2CA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2CA) | EUN | IKS | 2019-11-28 | — | Ingen aktiv kursomgång |
 > | [GEU2CB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2CB) | EUN | IKS | 2019-11-28 | — | Ingen aktiv kursomgång |
@@ -301,6 +308,9 @@ status: första pass
 > | [GLP2JZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2JZ) | LPU | IKS | 2020-09-30 | — | Ingen aktiv kursomgång |
 > | [GLP2KH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2KH) | LPU | IKS | 2020-11-06 | — | Ingen aktiv kursomgång |
 > | [GRK2KL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2KL) | RKA | IKS | 2020-11-06 | — | Ingen aktiv kursomgång |
+> | [GEU2KV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2KV) | EUN | IKS | 2020-11-26 | — | Ingen aktiv kursomgång |
+> | [GEU2KW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2KW) | EUN | IKS | 2020-11-26 | — | Ingen aktiv kursomgång |
+> | [GEU2KX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2KX) | EUN | IKS | 2020-11-26 | — | Ingen aktiv kursomgång |
 > | [GPA2KU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2KU) | PEE | IKS | 2020-11-26 | — | Ingen aktiv kursomgång |
 > | [APG26D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG26D) | PGA | IKS | 2020-11-26 | — | Ingen aktiv kursomgång |
 > | [FPA222B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222B) | PEDAGARB | IKS | 2020-12-02 | — | Ingen aktiv kursomgång |
@@ -325,9 +335,15 @@ status: första pass
 > | [GSK2PU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK2PU) | SKA | IKS | 2021-04-12 | — | Ingen aktiv kursomgång |
 > | [GSK2PW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSK2PW) | SKA | IKS | 2021-04-12 | — | Ingen aktiv kursomgång |
 > | [FPA222E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222E) | PEDAGARB | IKS | 2021-05-04 | — | Ingen aktiv kursomgång |
+> | [FPA222F](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222F) | PEDAGARB | IKS | 2021-05-04 | — | Ingen aktiv kursomgång |
+> | [FPA222G](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222G) | PEDAGARB | IKS | 2021-05-04 | — | Ingen aktiv kursomgång |
+> | [GBQ2QB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2QB) | BPO | IKS | 2021-05-26 | — | Ingen aktiv kursomgång |
 > | [GLP2QC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2QC) | LPU | IKS | 2021-05-26 | — | Ingen aktiv kursomgång |
 > | [GLP2QD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2QD) | LPU | IKS | 2021-05-26 | — | Ingen aktiv kursomgång |
 > | [GLP2QU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2QU) | LPU | IKS | 2021-06-30 | — | Ingen aktiv kursomgång |
+> | [GLP2QX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2QX) | LPU | IKS | 2021-08-20 | — | Ingen aktiv kursomgång |
+> | [GEU2QY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2QY) | EUN | IKS | 2021-08-24 | — | Ingen aktiv kursomgång |
+> | [GPA2R6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2R6) | PEE | IKS | 2021-09-07 | — | Ingen aktiv kursomgång |
 > | [GRK2R7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2R7) | RKA | IKS | 2021-09-07 | — | Ingen aktiv kursomgång |
 > | [GRK2R8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2R8) | RKA | IKS | 2021-09-07 | — | Ingen aktiv kursomgång |
 > | [SO1019](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SO1019) | SOA | IKS | 2010-10-19 | 2021-09-07 | Ingen aktiv kursomgång |
@@ -367,26 +383,34 @@ status: första pass
 > | [GBQ2XD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2XD) | BPO | IKS | 2022-08-22 | — | Ingen aktiv kursomgång |
 > | [FPA222J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222J) | PEDAGARB | IKS | 2022-09-02 | — | Ingen aktiv kursomgång |
 > | [FPA222N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222N) | PEDAGARB | IKS | 2022-10-06 | — | Ingen aktiv kursomgång |
+> | [ASK289](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASK289) | SKA | IKS | 2022-10-17 | — | Ingen aktiv kursomgång |
 > | [APG28B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG28B) | PGA | IKS | 2022-11-21 | — | Ingen aktiv kursomgång |
 > | [GPG2YH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2YH) | PGA | IKS | 2022-11-21 | — | Ingen aktiv kursomgång |
 > | [GRK323](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK323) | RKA | IKS | 2023-01-12 | — | Ingen aktiv kursomgång |
 > | [GHI32G](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI32G) | HIA | IKS | 2023-01-26 | — | Ingen aktiv kursomgång |
 > | [GPA32D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA32D) | PEE | IKS | 2023-01-26 | — | Ingen aktiv kursomgång |
 > | [GLP33C](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP33C) | LPU | IKS | 2023-02-24 | — | Ingen aktiv kursomgång |
+> | [GPG33E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG33E) | PGA | IKS | 2023-02-27 | — | Ingen aktiv kursomgång |
 > | [AS3001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS3001) | UVX | IKS | 2014-12-10 | 2023-03-06 | Ingen aktiv kursomgång |
 > | [AS3002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS3002) | UVX | IKS | 2014-12-10 | 2023-03-06 | Ingen aktiv kursomgång |
 > | [AS3003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS3003) | UVX | IKS | 2014-12-10 | 2023-03-06 | Ingen aktiv kursomgång |
 > | [AS3004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS3004) | UVX | IKS | 2015-06-17 | 2023-03-06 | Ingen aktiv kursomgång |
 > | [GSO33U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO33U) | SOA | IKS | 2023-03-13 | — | Ingen aktiv kursomgång |
 > | [GAB358](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB358) | ABA | IKS | 2023-05-31 | — | Ingen aktiv kursomgång |
+> | [GPA353](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA353) | PEE | IKS | 2023-05-31 | — | Ingen aktiv kursomgång |
+> | [GPA354](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA354) | PEE | IKS | 2023-05-31 | — | Ingen aktiv kursomgång |
+> | [GPA357](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA357) | PEE | IKS | 2023-05-31 | — | Ingen aktiv kursomgång |
 > | [GLP359](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP359) | LPU | IKS | 2023-06-07 | — | Ingen aktiv kursomgång |
 > | [GFÖ35J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ35J) | FÖA | IKS | 2023-06-29 | — | Ingen aktiv kursomgång |
 > | [GBQ35K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ35K) | BPO | IKS | 2023-06-30 | — | Ingen aktiv kursomgång |
+> | [GEU35L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU35L) | EUN | IKS | 2023-08-22 | — | Ingen aktiv kursomgång |
 > | [GEU35M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU35M) | EUN | IKS | 2023-08-22 | — | Ingen aktiv kursomgång |
 > | [GEU35N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU35N) | EUN | IKS | 2023-08-22 | — | Ingen aktiv kursomgång |
+> | [GBQ36D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ36D) | BPO | IKS | 2023-09-08 | — | Ingen aktiv kursomgång |
 > | [ARK29H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29H) | RKA | IKS | 2023-09-08 | — | Ingen aktiv kursomgång |
 > | [GPG36A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG36A) | PGA | IKS | 2023-09-11 | — | Ingen aktiv kursomgång |
 > | [GPG36B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG36B) | PGA | IKS | 2023-09-11 | — | Ingen aktiv kursomgång |
+> | [GBQ36K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ36K) | BPO | IKS | 2023-09-12 | — | Ingen aktiv kursomgång |
 > | [AHI29Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI29Q) | HIA | IKS | 2023-10-05 | — | Ingen aktiv kursomgång |
 > | [AHI29R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI29R) | HIA | IKS | 2023-10-05 | — | Ingen aktiv kursomgång |
 > | [GHI37M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI37M) | HIA | IKS | 2023-12-05 | — | Ingen aktiv kursomgång |
@@ -411,11 +435,13 @@ status: första pass
 > | [GLP3AH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP3AH) | LPU | IKS | 2024-02-07 | — | Ingen aktiv kursomgång |
 > | [GAB3AK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3AK) | ABA | IKS | 2024-02-13 | — | Ingen aktiv kursomgång |
 > | [GAB3AL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB3AL) | ABA | IKS | 2024-02-13 | — | Ingen aktiv kursomgång |
+> | [GPE3AJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPE3AJ) | PEA | IKS | 2024-02-13 | — | Ingen aktiv kursomgång |
 > | [GLP3AR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP3AR) | LPU | IKS | 2024-02-28 | — | Ingen aktiv kursomgång |
 > | [GBQ3AV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3AV) | BPO | IKS | 2024-03-07 | — | Ingen aktiv kursomgång |
 > | [GBQ3AW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3AW) | BPO | IKS | 2024-03-07 | — | Ingen aktiv kursomgång |
 > | [GTR3B6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR3B6) | TRU | IKS | 2024-05-16 | — | Ingen aktiv kursomgång |
 > | [GNA3B7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA3B7) | NAA | IKS | 2024-05-17 | — | Ingen aktiv kursomgång |
+> | [GRV3BF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRV3BF) | RVA | IKS | 2024-05-20 | — | Ingen aktiv kursomgång |
 > | [GBP3BB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBP3BB) | BIL | IKS | 2024-05-21 | — | Ingen aktiv kursomgång |
 > | [GBP3BC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBP3BC) | BIL | IKS | 2024-05-21 | — | Ingen aktiv kursomgång |
 > | [GPG3BD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3BD) | PGA | IKS | 2024-05-21 | — | Ingen aktiv kursomgång |
@@ -437,6 +463,9 @@ status: första pass
 > | [GPG3FT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FT) | PGA | IKS | 2025-05-19 | — | Ingen aktiv kursomgång |
 > | [GMN3F3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3F3) | MPR | IKS | 2025-07-04 | — | Ingen aktiv kursomgång |
 > | [APG2CC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2CC) | PGA | IKS | 2026-02-23 | — | Ingen aktiv kursomgång |
+> | [GPG3JP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3JP) | PGA | IKS | 2026-03-23 | — | Ingen aktiv kursomgång |
+> | [GPG3KA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3KA) | PGA | IKS | 2026-06-02 | — | Ingen aktiv kursomgång |
+> | [GPG3KB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3KB) | PGA | IKS | 2026-06-02 | — | Ingen aktiv kursomgång |
 
 ## Syfte
 

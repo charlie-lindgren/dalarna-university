@@ -10,7 +10,7 @@ up: "[[ISLL]]"
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 > Huvudområde: Italienska 1
 
-## Kurser (16 st)
+## Kurser (14 st)
 
 - [[GIT247]] — Italienska: Nybörjarkurs I
 - [[GIT26V]] — Italienska B: Grammatik och skriftlig produktion
@@ -22,14 +22,12 @@ up: "[[ISLL]]"
 - [[GIT2TE]] — Italienska A: Fonetik och muntlig språkfärdighet
 - [[GIT2TF]] — Italienska A: Grammatik och skriftlig språkfärdighet
 - [[GIT2TL]] — Italienska A: Kultur och samhälle, södra Italien
-- [[GIT2TP]] — Italienska A: Kultur och samhälle, mellersta Italien
-- [[GIT2TQ]] — Italienska A: Textanalys, en litterär resa i mellersta Italien
 - [[GIT2Y8]] — Italienska A: Kultur och samhälle
 - [[GIT2YE]] — Italienska A: Textanalys, barn- och ungdomsskildringar
 - [[GIT397]] — Italienska C: Examensarbete för kandidatexamen
 - [[IT1034]] — Italienska: Nybörjarkurs II
 
-## Vilande kursplaner (13 st)
+## Vilande kursplaner (15 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -41,6 +39,8 @@ up: "[[ISLL]]"
 - [[GIT2TK]] — Italienska A: Kultur och samhälle, de italienska öarna
 - [[GIT2TM]] — Italienska A: Textanalys, en litterär resa i södra Italien
 - [[GIT2TN]] — Italienska A: Textanalys, deckargenren
+- [[GIT2TP]] — Italienska A: Kultur och samhälle, mellersta Italien
+- [[GIT2TQ]] — Italienska A: Textanalys, en litterär resa i mellersta Italien
 - [[GIT2Y9]] — Italienska A: Textanalys, familjeskildringar
 - [[GIT2YA]] — Italienska A: Textanalys, krig och fred
 - [[GIT2YB]] — Italienska A: Textanalys, det nya millenniets skönlitteratur

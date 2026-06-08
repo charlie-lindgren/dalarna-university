@@ -8,10 +8,11 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Entreprenörskap och innovationsteknik"
 amne_kod: "EUN"
 institution: "IKS"
-tags: [kursplan, EUN, IKS]
+tags: [kursplan, EUN, IKS, vilande]
 scrape_hash: f24c7a6f7cfd9e41
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2KV
 up: "[[Entreprenörskap och innovationsteknik]]"
+cssclasses: [vilande]
 ---
 
 # GEU2KV

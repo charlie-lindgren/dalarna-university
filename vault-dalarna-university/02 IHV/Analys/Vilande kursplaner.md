@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (219 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (236 rader)</span></a>
 
-> [!example]- 219 fynd — klicka för att expandera
+> [!example]- 236 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Institution | Fastställd | Reviderad | Problem |
 > | --- | --- | --- | --- | --- | --- |
@@ -51,6 +51,7 @@ status: första pass
 > | [VV3010](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3010) | VÅE | IHV | 2009-12-14 | 2013-08-26 | Ingen aktiv kursomgång |
 > | [VÅ1046](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VÅ1046) | OMV | IHV | 2013-09-03 | — | Ingen aktiv kursomgång |
 > | [IH1062](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1062) | IDA | IHV | 2012-12-05 | 2013-11-25 | Ingen aktiv kursomgång |
+> | [NV1024](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NV1024) | NAV | IHV | 2012-10-11 | 2014-02-12 | Ingen aktiv kursomgång |
 > | [VV3014](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3014) | VÅE | IHV | 2014-03-06 | — | Ingen aktiv kursomgång |
 > | [MC2020](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MC2020) | MCA | IHV | 2014-03-20 | — | Ingen aktiv kursomgång |
 > | [IH1095](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1095) | IDA | IHV | 2014-05-14 | — | Ingen aktiv kursomgång |
@@ -61,6 +62,7 @@ status: första pass
 > | [IH1100](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1100) | IDA | IHV | 2014-05-14 | — | Ingen aktiv kursomgång |
 > | [IH1101](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1101) | IDA | IHV | 2014-05-14 | — | Ingen aktiv kursomgång |
 > | [IH1102](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1102) | IDA | IHV | 2014-05-14 | — | Ingen aktiv kursomgång |
+> | [SA1032](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SA1032) | SAA | IHV | 2014-10-14 | — | Ingen aktiv kursomgång |
 > | [IH1111](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1111) | IDA | IHV | 2014-12-09 | — | Ingen aktiv kursomgång |
 > | [SA2020](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SA2020) | SAA | IHV | 2014-12-23 | — | Ingen aktiv kursomgång |
 > | [VV3015](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3015) | VÅE | IHV | 2015-02-05 | — | Ingen aktiv kursomgång |
@@ -98,6 +100,7 @@ status: första pass
 > | [FHV0001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0001) | VÅRDVETS | IHV | 2018-01-25 | — | Ingen aktiv kursomgång |
 > | [VÅ1062](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VÅ1062) | OMV | IHV | 2018-03-05 | — | Ingen aktiv kursomgång |
 > | [GMC22H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC22H) | MCA | IHV | 2018-04-12 | 2018-04-16 | Ingen aktiv kursomgång |
+> | [GIH24A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH24A) | IDA | IHV | 2018-09-11 | — | Ingen aktiv kursomgång |
 > | [GSA24V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA24V) | SAA | IHV | 2018-09-27 | — | Ingen aktiv kursomgång |
 > | [AVÅ22D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ22D) | OMV | IHV | 2018-10-08 | 2018-10-11 | Ingen aktiv kursomgång |
 > | [GSA24U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA24U) | SAA | IHV | 2018-09-27 | 2018-10-19 | Ingen aktiv kursomgång |
@@ -138,6 +141,8 @@ status: första pass
 > | [ASR24V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR24V) | SRP | IHV | 2020-03-05 | 2020-06-23 | Ingen aktiv kursomgång |
 > | [ASR24W](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR24W) | SRP | IHV | 2020-03-05 | 2020-06-23 | Ingen aktiv kursomgång |
 > | [ASA24M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA24M) | SAA | IHV | 2020-02-19 | 2020-06-24 | Ingen aktiv kursomgång |
+> | [ASR25U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR25U) | SRP | IHV | 2020-06-17 | 2020-06-25 | Ingen aktiv kursomgång |
+> | [ASR25V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR25V) | SRP | IHV | 2020-06-17 | 2020-06-25 | Ingen aktiv kursomgång |
 > | [GVÅ2HM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ2HM) | OMV | IHV | 2020-08-27 | 2020-09-10 | Ingen aktiv kursomgång |
 > | [AMC265](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC265) | MCA | IHV | 2020-09-24 | 2020-10-01 | Ingen aktiv kursomgång |
 > | [GNV2KY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV2KY) | NAV | IHV | 2020-11-26 | — | Ingen aktiv kursomgång |
@@ -182,17 +187,26 @@ status: första pass
 > | [ASR285](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR285) | SRP | IHV | 2022-06-16 | — | Ingen aktiv kursomgång |
 > | [ASR286](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR286) | SRP | IHV | 2022-06-16 | — | Ingen aktiv kursomgång |
 > | [GIH2X3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2X3) | IDA | IHV | 2022-06-16 | 2022-08-22 | Ingen aktiv kursomgång |
+> | [AMC288](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC288) | MCA | IHV | 2022-09-08 | — | Ingen aktiv kursomgång |
 > | [GSA2XN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2XN) | SAA | IHV | 2022-09-08 | — | Ingen aktiv kursomgång |
+> | [GIH2XY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2XY) | IDA | IHV | 2022-09-26 | 2022-09-30 | Ingen aktiv kursomgång |
 > | [AVÅ28C](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVÅ28C) | OMV | IHV | 2022-11-14 | — | Ingen aktiv kursomgång |
+> | [GIH2ZA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZA) | IDA | IHV | 2022-12-12 | — | Ingen aktiv kursomgång |
 > | [GIH2ZB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZB) | IDA | IHV | 2022-12-12 | — | Ingen aktiv kursomgång |
+> | [GIH2ZC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZC) | IDA | IHV | 2022-12-12 | — | Ingen aktiv kursomgång |
+> | [GIH2ZD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZD) | IDA | IHV | 2022-12-12 | — | Ingen aktiv kursomgång |
+> | [GIH2ZE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZE) | IDA | IHV | 2022-12-12 | — | Ingen aktiv kursomgång |
 > | [GVÅ2ZG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ2ZG) | OMV | IHV | 2022-12-12 | — | Ingen aktiv kursomgång |
 > | [GVÅ2ZY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ2ZY) | OMV | IHV | 2022-12-12 | — | Ingen aktiv kursomgång |
+> | [GIH334](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH334) | IDA | IHV | 2023-02-07 | — | Ingen aktiv kursomgång |
 > | [GSA32Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA32Y) | SAA | IHV | 2023-02-07 | — | Ingen aktiv kursomgång |
 > | [GIH33J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH33J) | IDA | IHV | 2023-02-23 | — | Ingen aktiv kursomgång |
 > | [GIH33K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH33K) | IDA | IHV | 2023-02-23 | — | Ingen aktiv kursomgång |
 > | [GIH33P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH33P) | IDA | IHV | 2023-02-23 | — | Ingen aktiv kursomgång |
 > | [GIH34D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34D) | IDA | IHV | 2023-04-05 | — | Ingen aktiv kursomgång |
+> | [GIH34S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34S) | IDA | IHV | 2023-05-09 | — | Ingen aktiv kursomgång |
 > | [GIH34T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34T) | IDA | IHV | 2023-05-09 | — | Ingen aktiv kursomgång |
+> | [GIH34U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34U) | IDA | IHV | 2023-05-09 | — | Ingen aktiv kursomgång |
 > | [GIH34V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34V) | IDA | IHV | 2023-05-09 | — | Ingen aktiv kursomgång |
 > | [GIH35B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35B) | IDA | IHV | 2023-06-19 | — | Ingen aktiv kursomgång |
 > | [GIH35P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35P) | IDA | IHV | 2023-08-30 | — | Ingen aktiv kursomgång |
@@ -202,6 +216,7 @@ status: första pass
 > | [GIH37B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37B) | IDA | IHV | 2023-11-07 | — | Ingen aktiv kursomgång |
 > | [GIH37C](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37C) | IDA | IHV | 2023-11-07 | — | Ingen aktiv kursomgång |
 > | [GVÅ37H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ37H) | OMV | IHV | 2023-11-07 | — | Ingen aktiv kursomgång |
+> | [GVÅ382](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ382) | OMV | IHV | 2023-11-07 | — | Ingen aktiv kursomgång |
 > | [GSA2DW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2DW) | SAA | IHV | 2020-02-20 | 2023-11-30 | Ingen aktiv kursomgång |
 > | [GIH37N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37N) | IDA | IHV | 2023-12-05 | — | Ingen aktiv kursomgång |
 > | [GIH37P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37P) | IDA | IHV | 2023-12-05 | — | Ingen aktiv kursomgång |
@@ -216,6 +231,8 @@ status: första pass
 > | [AMC2AE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC2AE) | MCA | IHV | 2024-02-27 | — | Ingen aktiv kursomgång |
 > | [GSA3AS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3AS) | SAA | IHV | 2024-03-04 | — | Ingen aktiv kursomgång |
 > | [GIH3CS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3CS) | IDA | IHV | 2024-11-12 | — | Ingen aktiv kursomgång |
+> | [GIH3D4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3D4) | IDA | IHV | 2024-11-12 | — | Ingen aktiv kursomgång |
+> | [GIH3D5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3D5) | IDA | IHV | 2024-11-12 | — | Ingen aktiv kursomgång |
 > | [GIH3D6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3D6) | IDA | IHV | 2024-11-12 | — | Ingen aktiv kursomgång |
 > | [GSA3DN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DN) | SAA | IHV | 2024-12-10 | — | Ingen aktiv kursomgång |
 > | [GSA3DS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DS) | SAA | IHV | 2024-12-10 | — | Ingen aktiv kursomgång |

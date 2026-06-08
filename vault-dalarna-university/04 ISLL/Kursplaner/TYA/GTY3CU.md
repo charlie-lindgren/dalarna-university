@@ -8,10 +8,11 @@ huvudomrade: "Tyska 1"
 amne: "Tyska"
 amne_kod: "TYA"
 institution: "ISLL"
-tags: [kursplan, TYA, ISLL]
+tags: [kursplan, TYA, ISLL, vilande]
 scrape_hash: 8054c8d7f6465828
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3CU
 up: "[[Tyska]]"
+cssclasses: [vilande]
 ---
 
 # GTY3CU

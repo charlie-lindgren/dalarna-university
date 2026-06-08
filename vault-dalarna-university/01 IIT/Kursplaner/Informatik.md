@@ -10,7 +10,7 @@ up: "[[IIT]]"
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
 > Huvudområde: Informatik 1 Mikrodataanalys 2
 
-## Kurser (36 st)
+## Kurser (33 st)
 
 - [[AIK232]] — Data Warehousing
 - [[GIK23M]] — Introduktion till relationsdatabaser
@@ -29,7 +29,6 @@ up: "[[IIT]]"
 - [[GIK2PF]] — IT-arkitektur
 - [[GIK2PG]] — Projektbaserad systemutveckling
 - [[GIK2Q3]] — Tillämpad Big Data och Cloud Computing
-- [[GIK2QZ]] — Visuell identitet
 - [[GIK2UK]] — Data- och informationshantering
 - [[GIK2XJ]] — Objektorienterad design och problemlösning
 - [[GIK2XK]] — Design av webbapplikationer
@@ -43,18 +42,17 @@ up: "[[IIT]]"
 - [[GIK348]] — Användarcentrerad design
 - [[GIK34Y]] — Forskningsmetodik
 - [[GIK36Q]] — Kollaborativt projekt
-- [[GIK36R]] — Applikationsutveckling och testning
 - [[GIK373]] — Informationsdesign
-- [[GIK377]] — Utveckling av digitala tjänster
 - [[GIK38J]] — Visualisering
 - [[GIK3BY]] — Examensarbete för Högskoleexamen i Informatik
 
-## Vilande kursplaner (18 st)
+## Vilande kursplaner (21 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[GIK289]] — Objektorienterad programmering och problemlösning
 - [[GIK2PD]] — Hård infrastruktur
+- [[GIK2QZ]] — Visuell identitet
 - [[GIK2V4]] — Datasäkerhet och integritet
 - [[GIK2YK]] — Relationsdatabaser
 - [[GIK2YL]] — Projekt och agila arbetsmetoder
@@ -63,8 +61,10 @@ up: "[[IIT]]"
 - [[GIK2YR]] — Designprinciper och användargränssnitt
 - [[GIK32K]] — Layout och typografi
 - [[GIK346]] — Data Science programmering och dataanalys
+- [[GIK36R]] — Applikationsutveckling och testning
 - [[GIK375]] — Komponentdriven webbdesign
 - [[GIK376]] — Applikationsutveckling för webben
+- [[GIK377]] — Utveckling av digitala tjänster
 - [[GIK38G]] — Design av digitala tjänster
 - [[GIK38H]] — Introduktion till IT och digitala tjänster
 - [[GIK3BV]] — E-samhället: e-förvaltning och digitala tjänster

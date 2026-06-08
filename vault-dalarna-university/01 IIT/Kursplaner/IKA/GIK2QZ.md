@@ -8,10 +8,11 @@ huvudomrade: "Informatik 1"
 amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
-tags: [kursplan, IKA, IIT]
+tags: [kursplan, IKA, IIT, vilande]
 scrape_hash: fafdf18dbefe2342
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2QZ
 up: "[[Informatik]]"
+cssclasses: [vilande]
 ---
 
 # GIK2QZ

@@ -8,10 +8,11 @@ huvudomrade: "Idrotts- och hälsovetenskap 1"
 amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
-tags: [kursplan, IDA, IHV]
+tags: [kursplan, IDA, IHV, vilande]
 scrape_hash: 73497cda7afdaf1a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZC
 up: "[[Idrotts- och hälsovetenskap]]"
+cssclasses: [vilande]
 ---
 
 # GIH2ZC

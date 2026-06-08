@@ -9,9 +9,8 @@ up: "[[IKS]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (12 st)
+## Kurser (11 st)
 
-- [[AB1029]] — Introduktion till Professionell kommunikation - mer än bara samtal
 - [[GAB3FZ]] — Hållbart arbetsliv, personalarbete och vetenskap
 - [[GAB3G2]] — Kompetensförsörjning
 - [[GAB3G3]] — Motivation och lärande
@@ -24,7 +23,7 @@ up: "[[IKS]]"
 - [[GAB3HS]] — Ledarskapets roll och förutsättningar
 - [[GAB3HV]] — Hållbar utveckling i personalarbetets praktik
 
-## Vilande kursplaner (30 st)
+## Vilande kursplaner (31 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -42,6 +41,7 @@ up: "[[IKS]]"
 - [[AB1026]] — Personligt ledarskap
 - [[AB1027]] — Ledarskap för ökat resultat
 - [[AB1028]] — Ledarskap för att motivera grupper
+- [[AB1029]] — Introduktion till Professionell kommunikation - mer än bara samtal
 - [[AB1030]] — Att arbeta i projekt
 - [[AB1031]] — Professionell utveckling - genom fokus på kollektivt lärande
 - [[AB1032]] — Personligt ledarskap

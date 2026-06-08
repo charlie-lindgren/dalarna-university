@@ -1,5 +1,5 @@
 ---
-programkod: DBIMA
+programkod: ANA235
 programnamn: "Business Intelligence: Magisterprogram"
 institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2018-10-11 . Gäller fr.o.m.  HT 2018."
@@ -8,7 +8,7 @@ scrape_hash: a630a02817236c92
 up: "IIT"
 ---
 
-# DBIMA
+# ANA235
 
 **Programnamn:** Business Intelligence: Magisterprogram
 

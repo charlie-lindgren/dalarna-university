@@ -8,10 +8,11 @@ huvudomrade: "Industriell ekonomi 1"
 amne: "Entreprenörskap och innovationsteknik"
 amne_kod: "EUN"
 institution: "IKS"
-tags: [kursplan, EUN, IKS]
+tags: [kursplan, EUN, IKS, vilande]
 scrape_hash: 2cde5ef81bc0359e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU35L
 up: "[[Entreprenörskap och innovationsteknik]]"
+cssclasses: [vilande]
 ---
 
 # GEU35L

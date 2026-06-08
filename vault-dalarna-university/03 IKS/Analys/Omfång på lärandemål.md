@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (433 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (435 rader)</span></a>
 
-> [!example]- 433 fynd — klicka för att expandera
+> [!example]- 435 fynd — klicka för att expandera
 >
 > | Kursplan | Ämne | Problem | Detalj |
 > | --- | --- | --- | --- |
@@ -368,6 +368,8 @@ status: första pass
 > | [GPG3FV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FV) | PGA | Långt mål | 28 ord: - utifrån egna erfarenheter i den pedagogiska verksamheten och tidigare forsknin… |
 > | [GPG3JP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3JP) | PGA | Långt mål | 34 ord: - använda det engelska språket för att i samarbete i internationellt blandade gr… |
 > | [GPG3JP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3JP) | PGA | Långt mål | 29 ord: - kritiskt reflektera över sin egen interkulturella kompetens och det interkultu… |
+> | [GPG3KA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3KA) | PGA | Långt mål | 28 ord: - diskutera och analysera den egna undervisningen, samt i samarbete med verksamm… |
+> | [GPG3KB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3KB) | PGA | Långt mål | 28 ord: - diskutera och analysera den egna undervisningen, samt i samarbete med verksamm… |
 > | [PG2043](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PG2043) | PGA | Långt mål | 30 ord: - visa förmåga att, med krav på skriftlig och muntlig kommunikationsförmåga, pre… |
 > | [PG2048](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PG2048) | PGA | Långt mål | 30 ord: - visa förmåga att, med krav på skriftlig och muntlig kommunikationsförmåga, pre… |
 > | [PG3023](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PG3023) | PGA | Långt mål | 31 ord: - visa fördjupad förmåga att, med krav på skriftlig och muntlig kommunikationsfö… |

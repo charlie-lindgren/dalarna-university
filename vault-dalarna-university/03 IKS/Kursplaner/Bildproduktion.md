@@ -10,7 +10,7 @@ up: "[[IKS]]"
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 > Huvudområde: Bildproduktion 1
 
-## Kurser (15 st)
+## Kurser (12 st)
 
 - [[ABQ2AZ]] — Audiovisuella produktionsprocesser
 - [[ABQ2B2]] — Audiovisuella studier: Kunskapsproduktion genom gestaltning
@@ -18,17 +18,14 @@ up: "[[IKS]]"
 - [[ABQ2B4]] — Magisterexamensarbete i Audiovisuella studier
 - [[AU3005]] — Vetenskaplig teori och metod i Audiovisuella studier
 - [[GBQ2NJ]] — Konceptutveckling inom medieproduktion för Bildproduktion
-- [[GBQ2QB]] — Kvalificerat filmmanusprojekt
 - [[GBQ2U2]] — Vetenskapsteori och metod i bildproduktion
 - [[GBQ2U9]] — Kandidatexamensarbete i Bildproduktion
 - [[GBQ2UD]] — Exponeringsprojekt i bildproduktion
-- [[GBQ36D]] — Kvalificerad filmproduktion
 - [[GBQ36E]] — Arbetsplatsförlagd bildproduktion
-- [[GBQ36K]] — Flerkameraproduktion, fördjupning
 - [[GBQ38V]] — Introduktion till redigering av rörliga bilder med Media Composer
 - [[GBQ38W]] — Fördjupning i redigering av rörliga bilder med Media Composer
 
-## Vilande kursplaner (47 st)
+## Vilande kursplaner (50 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -54,6 +51,7 @@ up: "[[IKS]]"
 - [[GBQ2NH]] — Projektplanering och användarperspektiv
 - [[GBQ2NM]] — Vetenskapsteori och metod i Bildproduktion
 - [[GBQ2NP]] — Kandidatexamensarbete i Bildproduktion
+- [[GBQ2QB]] — Kvalificerat filmmanusprojekt
 - [[GBQ2U3]] — Människan och den rörliga bilden
 - [[GBQ2U4]] — Informationsfilmsproduktion
 - [[GBQ2U5]] — Kvalificerad filmdesign i transmedia
@@ -69,6 +67,8 @@ up: "[[IKS]]"
 - [[GBQ2XC]] — Manus för TV och film 3. Dialog i audiovisuella medier
 - [[GBQ2XD]] — Ljudinspelning och ljudläggning inom filmdesign
 - [[GBQ35K]] — Berätta med film om kulturarv och historia
+- [[GBQ36D]] — Kvalificerad filmproduktion
+- [[GBQ36K]] — Flerkameraproduktion, fördjupning
 - [[GBQ38X]] — Fortsätt berätta med film om kulturarv och historia
 - [[GBQ3A5]] — Grunderna i filmproduktion
 - [[GBQ3A6]] — Konceptutveckling för korta filmer

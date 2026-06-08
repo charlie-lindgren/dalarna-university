@@ -10,7 +10,7 @@ up: "[[ISLL]]"
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 > Huvudområde: Franska 1
 
-## Kurser (31 st)
+## Kurser (28 st)
 
 - [[AFR236]] — Den fransktalande världen: Litteratur, kultur och översättning
 - [[AFR24A]] — Examensarbete i franska för ämneslärarexamen, inriktning grundskolans årskurs 7-9
@@ -27,7 +27,6 @@ up: "[[ISLL]]"
 - [[GFR2HW]] — Franska: Förberedande kurs I
 - [[GFR2HX]] — Franska: Förberedande kurs II
 - [[GFR2HY]] — Franska: Förberedande kurs III
-- [[GFR2YU]] — Franska: Språkdidaktik II
 - [[GFR35E]] — Franska I: Kultur och samhälle
 - [[GFR3BS]] — Franska III med didaktisk inriktning för gymnasieskolan
 - [[GFR3CV]] — Franska II: Muntlig franska
@@ -35,8 +34,6 @@ up: "[[ISLL]]"
 - [[GFR3CX]] — Franskspråkig litteratur II: Fram till 1900
 - [[GFR3CY]] — Franska II: Introduktion till lingvistik och akademiskt skrivande
 - [[GFR3CZ]] — Franska III: Examensarbete för kandidatexamen
-- [[GFR3D2]] — Franska I med didaktisk inriktning
-- [[GFR3D3]] — Franska II med didaktisk inriktning
 - [[GFR3GS]] — Franska III: Språkhistoria
 - [[GFR3GT]] — Franska III: Franskspråkig litteratur och litteraturanalys
 - [[GFR3HK]] — Franska: Språkdidaktik I
@@ -44,7 +41,7 @@ up: "[[ISLL]]"
 - [[GFR3HM]] — Franska I med didaktisk inriktning
 - [[GFR3HN]] — Franska II med didaktisk inriktning
 
-## Vilande kursplaner (16 st)
+## Vilande kursplaner (19 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -62,5 +59,8 @@ up: "[[ISLL]]"
 - [[GFR2R4]] — Franska II med didaktisk inriktning
 - [[GFR2W9]] — Franska: Språkdidaktik I
 - [[GFR2WA]] — Franska I med didaktisk inriktning
+- [[GFR2YU]] — Franska: Språkdidaktik II
 - [[GFR35F]] — Franska III: Franskspråkig litteratur och litteraturanalys
+- [[GFR3D2]] — Franska I med didaktisk inriktning
+- [[GFR3D3]] — Franska II med didaktisk inriktning
 - [[GFR3DL]] — Franska för lärare i gymnasieskolan, 90 hp (1-90 hp). Ingår i Lärarlyftet

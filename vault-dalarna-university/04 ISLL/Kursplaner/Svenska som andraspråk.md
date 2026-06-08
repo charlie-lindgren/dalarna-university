@@ -10,11 +10,10 @@ up: "[[ISLL]]"
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 > Huvudområde: Ej huvudområde 1
 
-## Kurser (38 st)
+## Kurser (33 st)
 
 - [[ASS257]] — Examensarbete i svenska som andraspråk för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 - [[ASS258]] — Examensarbete i svenska som andraspråk för ämneslärarexamen, inriktning gymnasieskolan
-- [[ASS26C]] — Sveriges nationella minoriteter – språk, kultur och identitet
 - [[ASS28X]] — Examensarbete i modersmål arabiska för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 - [[GSS2BY]] — Svenska språkets struktur i ett andraspråksperspektiv
 - [[GSS2BZ]] — Skriftspråksutveckling i ett flerspråkigt perspektiv
@@ -32,10 +31,7 @@ up: "[[ISLL]]"
 - [[GSS3BK]] — Grundläggande svenska som andraspråk IV (nivå CEFR B1.2)
 - [[GSS3BL]] — Grundläggande svenska som andraspråk V (nivå CEFR B2)
 - [[GSS3BM]] — Språk, undervisning och lärande i ett andraspråksperspektiv
-- [[GSS3BN]] — Svenska som andraspråk II med didaktisk inriktning
 - [[GSS3BP]] — Bedömning av avancerade språkfärdigheter hos inlärare av svenska som andraspråk
-- [[GSS3C6]] — Lärande genom fiktionstext i gymnasieskolan
-- [[GSS3C7]] — Svenska som andraspråk III med didaktisk inriktning för gymnasieskolan
 - [[GSS3H8]] — Svenska som andraspråk II
 - [[GSS3H9]] — Ämnesspecifikt språk
 - [[GSS3HB]] — Modersmål med didaktisk inriktning
@@ -46,15 +42,15 @@ up: "[[ISLL]]"
 - [[GSS3HJ]] — Svenska som andraspråk II med didaktisk inriktning
 - [[SS2007]] — Svenska som andraspråk III -  examensarbete för kandidatexamen
 - [[SS3002]] — Flerspråkighet som fenomen och företeelse - vetenskapsteoretiska förklaringsmodeller och metodologiska perspektiv
-- [[SS3003]] — Svenska som andraspråk i ett utvecklingsperspektiv - förklaringsmodeller och metodologiska perspektiv
 - [[SS3006]] — Flerspråkighet, identitet och kulturmöten i sociala sammanhang
 - [[SS3008]] — Flerspråkiga röster i svensk skönlitteratur
 - [[SS3011]] — Svenska som andraspråk: Examensarbete för magisterexamen
 
-## Vilande kursplaner (25 st)
+## Vilande kursplaner (30 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
+- [[ASS26C]] — Sveriges nationella minoriteter – språk, kultur och identitet
 - [[GSS22M]] — Studiehandledning på modersmål
 - [[GSS22P]] — Den globala skolan - förskola och grundskola
 - [[GSS2G8]] — Svenska som andraspråk för lärare i åk 4-6, 30 hp (1-30 hp). Ingår i Lärarlyftet.
@@ -70,11 +66,15 @@ up: "[[ISLL]]"
 - [[GSS39S]] — Den globala skolan - undervisning inom grundskolan
 - [[GSS39T]] — Den globala skolan - undervisning inom gymnasieskolan
 - [[GSS39U]] — Den globala skolan - undervisning inom vuxenutbildningen
+- [[GSS3BN]] — Svenska som andraspråk II med didaktisk inriktning
+- [[GSS3C6]] — Lärande genom fiktionstext i gymnasieskolan
+- [[GSS3C7]] — Svenska som andraspråk III med didaktisk inriktning för gymnasieskolan
 - [[GSS3HE]] — Sociolingvistiska perspektiv på modersmålsundervisning
 - [[GSS3HF]] — Flerspråkiga perspektiv på skriftspråksutveckling
 - [[GSS3K2]] — Litteraturdidaktik för ämneslärare i svenska som andraspråk på gymnasial nivå
 - [[SS1085]] — Svenska som andraspråk för lärare åk 7-9, 45 hp (1-45). Ingår i Lärarlyftet II
 - [[SS2009]] — Svenska som andraspråk III - Andraspråksforskning
+- [[SS3003]] — Svenska som andraspråk i ett utvecklingsperspektiv - förklaringsmodeller och metodologiska perspektiv
 - [[SS3004]] — Svenska som andraspråk i ett tvärspråkligt perspektiv
 - [[SS3007]] — Flerspråkighet, interaktion och identitetsskapande i klassrum
 - [[SS3009]] — Litteracitet och flerspråkighet

@@ -1,5 +1,5 @@
 ---
-programkod: DDCMA
+programkod: ANA235
 programnamn: "Data Science: Masterprogram"
 institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2018-10-11 . Gäller fr.o.m.  HT 2018."
@@ -8,7 +8,7 @@ scrape_hash: a6a2d451b891be4b
 up: "IIT"
 ---
 
-# DDCMA
+# ANA235
 
 **Programnamn:** Data Science: Masterprogram
 

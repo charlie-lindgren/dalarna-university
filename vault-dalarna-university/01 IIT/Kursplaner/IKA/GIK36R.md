@@ -8,10 +8,11 @@ huvudomrade: "Datateknik 1 Informatik 2 Mikrodataanalys 3"
 amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
-tags: [kursplan, IKA, IIT]
+tags: [kursplan, IKA, IIT, vilande]
 scrape_hash: d6da812a09edfc61
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK36R
 up: "[[Informatik]]"
+cssclasses: [vilande]
 ---
 
 # GIK36R

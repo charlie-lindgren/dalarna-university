@@ -8,10 +8,11 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Elektroteknik"
 amne_kod: "ETA"
 institution: "IIT"
-tags: [kursplan, ETA, IIT]
+tags: [kursplan, ETA, IIT, vilande]
 scrape_hash: 580c1ba82e380a8b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GET36T
 up: "[[Elektroteknik]]"
+cssclasses: [vilande]
 ---
 
 # GET36T
