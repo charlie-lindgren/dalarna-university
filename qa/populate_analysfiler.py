@@ -183,6 +183,51 @@ def build_code_to_path_map(subfolder: str) -> dict[str, Path]:
     return mapping
 
 
+# Datum + sidlänk per plan, så att analystabellerna kan visa Fastställd/Reviderad
+# (samma som vilande-analysen) och en länk till planens egen sida på sajten.
+ISO_DATE_RE = re.compile(r"\d{4}-\d{2}-\d{2}")
+
+
+def _first_date_on_marker_line(text: str, marker: str) -> str | None:
+    """Returnera första ISO-datumet på den första raden som innehåller ``marker``.
+    Speglar logiken i ``identify_ej_aktiv.read_course_*_date``."""
+    for line in text.split("\n"):
+        if marker in line:
+            m = ISO_DATE_RE.search(line)
+            if m:
+                return m.group(0)
+    return None
+
+
+def build_plan_meta_map() -> dict[str, tuple[str | None, str | None, str]]:
+    """Bygg ``kod → (fastställd, reviderad, sidslug)`` för varje kurs- och
+    utbildningsplan i vaulten.
+
+    - *fastställd*/*reviderad* extraheras ur planfilens metadatarader (``None``
+      om de saknas, t.ex. aldrig reviderade planer).
+    - *sidslug* är planens vault-relativa sökväg utan ``.md`` med blanksteg → ``-``
+      (Quartz slugkonvention), för en länk till sidan på själva sajten."""
+    meta: dict[str, tuple[str | None, str | None, str]] = {}
+    for dirname in INST_DIR_NAME.values():
+        for sub in ("Kursplaner", "Utbildningsplaner"):
+            base = VAULT / dirname / sub
+            if not base.exists():
+                continue
+            for md in base.rglob("*.md"):
+                stem = md.stem
+                if "MOC" in stem or not COURSE_CODE_RE.match(stem):
+                    continue
+                try:
+                    text = md.read_bytes().decode("utf-8", "replace")
+                except Exception:
+                    continue
+                faststalld = _first_date_on_marker_line(text, "Fastställd")
+                reviderad = _first_date_on_marker_line(text, "**Reviderad:**")
+                slug = str(md.relative_to(VAULT).with_suffix("")).replace(" ", "-")
+                meta[stem] = (faststalld, reviderad, slug)
+    return meta
+
+
 def plan_url_for(subj: str, code: str) -> str:
     """Välj rätt du.se-URL beroende på om raden gäller en kurs- eller
     utbildningsplan. Kontrollerna i ``checks_nedlagda`` sätter ``subj`` till
@@ -263,6 +308,7 @@ def build_callout(
     rows: list[tuple[str, str, str, str]],
     xlsx_filename: str,
     inst_code: str | None = None,
+    meta_map: dict[str, tuple[str | None, str | None, str]] | None = None,
 ) -> list[str]:
     """rows = [(code, subj, problem_label, detail), ...] -> callout + download link lines.
 
@@ -270,7 +316,12 @@ def build_callout(
     (one per institution). Quartz's "shortest" link resolver sees multiple matches
     and falls back to vault-root → 404. We avoid that by writing the full
     institution-prefixed slug path so transformLink's suffix-match yields a unique hit.
+
+    ``meta_map`` (kod → (fastställd, reviderad, sidslug)) lägger till kolumnerna
+    *Sida* (länk till planens sida på sajten), *Fastställd* och *Reviderad* —
+    samma datumkolumner som vilande-analysen.
     """
+    meta_map = meta_map or {}
     n = len(rows)
     xlsx_slug = xlsx_filename.replace(" ", "-")  # Quartz slugifies asset names the same way
     if inst_code:
@@ -287,15 +338,22 @@ def build_callout(
         "",
         f"> [!example]- {n} fynd — klicka för att expandera",
         ">",
-        "> | Kursplan | Ämne | Problem | Detalj |",
-        "> | --- | --- | --- | --- |",
+        "> | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |",
+        "> | --- | --- | --- | --- | --- | --- | --- |",
     ]
     for code, subj, problem, detail in rows:
         url = plan_url_for(subj, code)
         # Escape `##` so Quartz doesn't render it as a heading/tag link inside
         # the table cell — the excerpt quotes raw kursplan markdown verbatim.
         cell_detail = detail.replace("##", r"\##")
-        lines.append(f"> | [{code}]({url}) | {subj} | {problem} | {cell_detail} |")
+        faststalld, reviderad, slug = meta_map.get(code, (None, None, None))
+        # `no-graph` håller länken utanför grafvyn (annars skulle varje analyshubb
+        # få en edge till varenda problematisk plan och tangla grafen).
+        sida = f'<a class="no-graph" href="{slug}">sida</a>' if slug else "—"
+        lines.append(
+            f"> | [{code}]({url}) | {sida} | {subj} | "
+            f"{faststalld or '—'} | {reviderad or '—'} | {problem} | {cell_detail} |"
+        )
     return lines
 
 
@@ -445,31 +503,41 @@ HEADER_FONT = Font(bold=True, color="FFFFFF")
 LINK_FONT   = Font(color="0563C1", underline="single")
 
 
-def build_xlsx(rows: list[tuple[str, str, str, str]], output_path: Path, sheet_title: str) -> None:
-    """Write rows to an .xlsx file with a hyperlinked Kursplan column."""
+def build_xlsx(
+    rows: list[tuple[str, str, str, str]],
+    output_path: Path,
+    sheet_title: str,
+    meta_map: dict[str, tuple[str | None, str | None, str]] | None = None,
+) -> None:
+    """Write rows to an .xlsx file with a hyperlinked Kursplan column.
+
+    ``meta_map`` adds the Fastställd/Reviderad columns, mirroring the page table."""
+    meta_map = meta_map or {}
     wb = Workbook()
     ws = wb.active
     ws.title = sheet_title[:31]  # Excel max sheet title length
 
-    headers = ["Kursplan", "Ämne", "Problem", "Detalj", "Länk"]
+    headers = ["Kursplan", "Ämne", "Fastställd", "Reviderad", "Problem", "Detalj", "Länk"]
     ws.append(headers)
     for cell in ws[1]:
         cell.font = HEADER_FONT
         cell.fill = HEADER_FILL
         cell.alignment = Alignment(horizontal="left", vertical="center")
 
+    link_col = len(headers)  # "Länk" is the last column
     for code, subj, problem, detail in rows:
         url = plan_url_for(subj, code)
-        ws.append([code, subj, problem, detail, url])
+        faststalld, reviderad, _slug = meta_map.get(code, (None, None, None))
+        ws.append([code, subj, faststalld or "", reviderad or "", problem, detail, url])
         row_idx = ws.max_row
         kod_cell = ws.cell(row=row_idx, column=1)
         kod_cell.hyperlink = url
         kod_cell.font = LINK_FONT
-        link_cell = ws.cell(row=row_idx, column=5)
+        link_cell = ws.cell(row=row_idx, column=link_col)
         link_cell.hyperlink = url
         link_cell.font = LINK_FONT
 
-    widths = [12, 8, 28, 70, 70]
+    widths = [12, 8, 12, 12, 28, 70, 70]
     for i, w in enumerate(widths, start=1):
         ws.column_dimensions[get_column_letter(i)].width = w
 
@@ -575,6 +643,7 @@ def main():
         by_section[sec].append((code, subj, detail))
 
     code_to_inst = build_code_to_institution_map()
+    plan_meta = build_plan_meta_map()  # kod → (fastställd, reviderad, sidslug)
     unmapped: set[str] = set()
 
     for filename, section_map in ANALYS_FILES.items():
