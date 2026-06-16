@@ -13,6 +13,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2NX
 up: "[[Informatik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Duggor (U - VG), Laborationsredovisningar (U - G) och inlämningsuppgifter (U - VG). Slutbe… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Duggor (2 hp) Laborationsredovisningar (2,5 hp) och inlämningsuppgifter (3 hp).… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande tillägnar sig kunskaper och färdigheter i att samla in och… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen inte kan tillgodoräknas i en examen tillsammans med Distribuerad databehandling och problemlösning med Java, IK20… |
+<!-- analys:end -->
+
 # GIK2NX
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2NX)

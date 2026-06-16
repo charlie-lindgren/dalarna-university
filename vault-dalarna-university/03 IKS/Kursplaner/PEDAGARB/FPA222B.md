@@ -14,6 +14,20 @@ up: "[[Forskarämne Pedagogiskt arbete]]"
 cssclasses: [vilande]
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom muntliga presentationer och skriftliga inlämningsuppgifter.… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande syftet med kursen är att de forskarstuderande utvecklar fördjupad kunskap och förståelse av olika metod… |
+> | Omfång på lärandemål | För få mål | 0 lärandemål (minimum rekommenderat: 4 för 10 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 2 mål, engelska: 0 mål (diff 2) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (2 mål utan punktlista) |
+> | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+<!-- analys:end -->
+
 # FPA222B
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222B)

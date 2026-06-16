@@ -14,6 +14,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR26Q
 up: "[[Franska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på båda modulerna. Betygsrapportering: Modul… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom skriftliga inlämningsuppgifter och aktivt deltagande i seminarier.… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter AFR24Y.… |
+<!-- analys:end -->
+
 # AFR26Q
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR26Q)

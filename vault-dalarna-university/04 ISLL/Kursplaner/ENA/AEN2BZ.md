@@ -14,6 +14,16 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BZ
 up: "[[Engelska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Omfång på lärandemål | Långt mål | 27 ord: - självständigt analysera ett urval litterära verk från olika epoker som fokuser… |
+> | Stavfel och språkbruk | Felstavning | `ochspanskspråkiga` (sv) |
+<!-- analys:end -->
+
 # AEN2BZ
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BZ)

@@ -14,6 +14,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI23G
 up: "[[Mikrodataanalys]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Projektarbete U - VG Laborationer, seminarier och skriftlig reflektioner U-G. Slutbetyget … |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Projektarbete som rapporteras skriftligt och presenteras muntligt 3 hp,… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kursen ska studenten kunna:… |
+> | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+<!-- analys:end -->
+
 # AMI23G
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI23G)

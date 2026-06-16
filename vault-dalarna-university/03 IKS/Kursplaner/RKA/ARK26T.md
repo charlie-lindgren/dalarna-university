@@ -15,6 +15,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK26T
 up: "[[Religionsvetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom fortlöpande bedömning av förberett och aktivt deltagande i seminarier, samt avslutande skriftlig … |
+> | Frasningskonsistens | Avviker från referensformen | Efter… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: För nätbaserad kurs krävs att den studerande kan kommunicera med ljud och bild via en dator eller motsvarande.… |
+<!-- analys:end -->
+
 # ARK26T
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK26T)

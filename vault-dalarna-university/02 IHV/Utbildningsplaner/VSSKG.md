@@ -8,6 +8,16 @@ scrape_hash: c7e71026833e416a
 up: "IHV"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Introduktion omvårdnad och etik - Huvudområde Omvårdnad` → `VÅ1061` (nedlagd 2025-06-03) — plain-text-referens |
+> | Stavfel och språkbruk | Felstavning | `engström` (sv) |
+> | Stavfel och språkbruk | Felstavning | `hälso` (sv) |
+<!-- analys:end -->
+
 # VSSKG
 
 **Programnamn:** Sjuksköterskeprogrammet

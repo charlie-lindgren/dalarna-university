@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2JP
 up: "[[Energiteknik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. Inlämningsuppgift, rapport och muntlig presentation ger U eller G. Det samlade betyg… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig salstentamen (3 hp)Skriftlig rapport (2 hp) Inlämningsuppgift (1,5 hp) Muntlig presentation (1 hp)… |
+> | Frasningskonsistens | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ersätter Utvecklingsprojekt, konstruktion och tillverkning av en solfångare del 1, EG1007, samt del 2, EG1008.… |
+<!-- analys:end -->
+
 # GEG2JP
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2JP)

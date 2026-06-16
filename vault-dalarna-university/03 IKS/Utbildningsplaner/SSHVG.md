@@ -8,6 +8,28 @@ scrape_hash: bf9405ee3d139393
 up: "IKS"
 ---
 
+<!-- analys:start -->
+> [!warning]- 15 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Samhällsekonomi` → `GSQ25R` (nedlagd 2025-12-08) — plain-text-referens |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Konformitet och avvikelse` → `SO1007` (nedlagd 2025-11-13) — plain-text-referens |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Inriktning sociologi II` (30 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Examensarbete för högskoleexamen i Sociologi` (7,5 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Makt och samhälle` (7,5 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Samhällsvetenskapliga metoder I` (7,5 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Inriktning statsvetenskap II` (30 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Inriktning sociologi III` (30 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Examensarbete för kandidatexamen i sociologi` (15 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Fördjupningskurs i sociologisk teori` (7,5 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Samhällsvetenskapliga metoder II` (7,5 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Inriktning statsvetenskap III` (30 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Samhällsvetenskapliga metoder II inriktning statsvetenskap` (7,5 hp) |
+> | Programkurser olänkade | Kursraden ser avbruten/feltrycklig ut | `Valbar termin (med möjlighet till internationellt utbyte eller läsning av valfri temakurs/kurser om` (30 hp) |
+> | Stavfel och språkbruk | Felstavning | `möjliggörandet` (sv) |
+<!-- analys:end -->
+
 # SSHVG
 
 **Programnamn:** Samhällsvetarprogrammet

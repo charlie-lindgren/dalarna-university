@@ -15,6 +15,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2H5
 up: "[[Matematikdidaktik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examinationen sker genom muntliga och skriftliga redovisningar samt en skriftlig salstentamen.… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen motsvarar GMD2ER.… |
+<!-- analys:end -->
+
 # GMD2H5
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2H5)

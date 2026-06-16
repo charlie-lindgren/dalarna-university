@@ -14,6 +14,15 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3BK
 up: "[[Svenska som andraspråk]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Stavfel och språkbruk | Felstavning | `framställing` (sv) |
+> | Stavfel och språkbruk | Felstavning (en) | `refelction` (en) |
+<!-- analys:end -->
+
 # GSS3BK
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3BK)

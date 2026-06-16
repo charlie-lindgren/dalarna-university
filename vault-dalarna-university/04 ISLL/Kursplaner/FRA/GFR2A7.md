@@ -14,6 +14,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2A7
 up: "[[Franska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs betyget VG på minst 4,5 hp. Betygsrapportering:… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftligt arbete i fonetik samt fortlöpande examinering genom inlämningsuppgifter och muntliga redovisningar.… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen syftar till att utveckla färdigheter i att kommunicera muntligt på franska.… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter FR1026.… |
+<!-- analys:end -->
+
 # GFR2A7
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2A7)

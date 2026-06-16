@@ -13,6 +13,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2EY
 up: "[[Matematik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: En skriftlig tentamen 5 hp.… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | Omfång på lärandemål | För många mål | 11 lärandemål (maximum rekommenderat: 6 för 5 hp) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ersätter MA1036. Kursen kan ej tillgodoräknas inom en högskoleingenjörsexamen. Kursen kan inte räknas in i en hög… |
+<!-- analys:end -->
+
 # GMA2EY
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2EY)

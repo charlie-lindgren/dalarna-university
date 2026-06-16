@@ -15,6 +15,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2ST
 up: "[[Tyska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget väl godkänd på hela kursen krävs väl godkänd på minst 4,5 hp. Betygsrap… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras kontinuerligt genom aktivt deltagande i seminarier och skriftliga inlämningsuppgifter.… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen syftar till att de studerande ska utveckla grundläggande teoretiska kunskaper i tysk grammatik och färdigheter i … |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 3 mål, engelska: 1 mål (diff 2) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter TY1034.… |
+<!-- analys:end -->
+
 # GTY2ST
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2ST)

@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG25N
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom skriftliga inlämningsuppgifter samt muntliga redovisningar vid seminarier.… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | Stavfel och språkbruk | Felstavning | `tillvägagångsätt` (sv) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen kan ingå som valbar kurs i magisterprogrammet i pedagogiskt arbete vid Högskolan Dalarna.… |
+<!-- analys:end -->
+
 # APG25N
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG25N)

@@ -14,6 +14,16 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2W6
 up: "[[Spanska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen syftar till att ge den studerande en introduktion till språkdidaktik. Kursen ger en teoretisk grund till språklär… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter SP1016. För nätbaserad kurs krävs tillgång till dator, headset, webbkamera och internetuppkoppling.… |
+<!-- analys:end -->
+
 # GSP2W6
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2W6)

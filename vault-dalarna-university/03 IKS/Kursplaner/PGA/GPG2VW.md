@@ -15,6 +15,25 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2VW
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 12 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För betyget Väl godkänd på kursen krävs Väl godkänd på delkurs 2, 10 hp samt minst betyget… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Delkurs ”Utvecklingsarbete” examineras genom muntlig och skriftlig presentation och diskussion av seminarieuppgifter sam… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': -… |
+> | Omfång på lärandemål | För många mål | 13 lärandemål (maximum rekommenderat: 10 för 15 hp) |
+> | Omfång på lärandemål | Långt mål | 30 ord: - visa kunskap om olika modeller för och teorier om utvärdering och skolutveckli… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - visa kunskap om utbildning för hållbar utveckling och professionellt lärarskap… |
+> | Omfång på lärandemål | Långt mål | 34 ord: - visa förmåga att formulera ett bidrag till en hållbar utveckling av lärarprofe… |
+> | Omfång på lärandemål | Långt mål | 29 ord: - visa förmåga att möta eleverna i det egna undervisningsämnet genom att utgå fr… |
+> | Omfång på lärandemål | Långt mål | 31 ord: - visa förmåga att självständigt planera, genomföra, utvärdera och utveckla unde… |
+> | Omfång på lärandemål | Långt mål | 27 ord: - visa förmåga att självständigt och kritiskt analysera, diskutera och reflekter… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 13 mål, engelska: 12 mål (diff 1) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Nätbaserad kurs, innehåller obligatoriska campusträffar.… |
+<!-- analys:end -->
+
 # GPG2VW
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2VW)

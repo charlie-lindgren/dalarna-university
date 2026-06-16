@@ -15,6 +15,22 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3DL
 up: "[[Franska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 9 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att de studerande utvecklar goda kunskaper i och om det franska språket samt om franskspråki… |
+> | Omfång på lärandemål | För många mål | 78 lärandemål (maximum rekommenderat: 15 för 90 hp) |
+> | Omfång på lärandemål | Långt mål | 33 ord: - reflektera över elevers syn på och upplevelser av sitt språklärande samt disku… |
+> | Omfång på lärandemål | Långt mål | 35 ord: - diskutera och reflektera över samspelet mellan inre och yttre faktorer som är … |
+> | Omfång på lärandemål | Långt mål | 26 ord: - visa förmåga att i skriftlig och muntlig form presentera och argumentera för e… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 78 mål, engelska: 1 mål (diff 77) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning (en) | `ehtics` (en) |
+> | Stavfel och språkbruk | Felstavning (en) | `teachning` (en) |
+<!-- analys:end -->
+
 # GFR3DL
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3DL)

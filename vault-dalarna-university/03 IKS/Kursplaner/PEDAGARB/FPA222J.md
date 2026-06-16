@@ -14,6 +14,20 @@ up: "[[Forskarämne Pedagogiskt arbete]]"
 cssclasses: [vilande]
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom en avslutande rapport, där statistiska analyser tillämpas på utbildningsvetenskapliga data och r… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen avser att ge en introduktion till och en översikt av grundläggande statistiska begrepp och deras tillämpning i kv… |
+> | Omfång på lärandemål | För få mål | 0 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (3 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: För att kunna delta i kursen krävs tillgång till egen dator tillsammans med datortillbehör för nätburen kommunikation, s… |
+<!-- analys:end -->
+
 # FPA222J
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222J)

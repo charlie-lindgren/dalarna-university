@@ -15,6 +15,14 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3E2
 up: "[[Medieproduktion]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
+<!-- analys:end -->
+
 # GMN3E2
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3E2)

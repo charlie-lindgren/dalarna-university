@@ -15,6 +15,15 @@ up: "[[Bildproduktion]]"
 cssclasses: [vilande]
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Bloom-taxonomi | Okänt ledande verb | 3 av 9 bullets har okänt ledande verb |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
+<!-- analys:end -->
+
 # GBQ36D
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ36D)

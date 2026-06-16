@@ -14,6 +14,20 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2QP
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Delkurs 1 ”Ledarskap” examineras individuellt genom skriftlig hemtentamen samt i en muntligt och skriftlig examination i… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': -… |
+> | Omfång på lärandemål | För många mål | 15 lärandemål (maximum rekommenderat: 10 för 15 hp) |
+> | Omfång på lärandemål | Långt mål | 32 ord: - visa förmåga att utifrån skolans styrdokument, teorier om motivation och språk… |
+> | Omfång på lärandemål | Långt mål | 30 ord: - visa förmåga att självständigt och kritiskt reflektera över den egna och andra… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 15 mål, engelska: 14 mål (diff 1) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Nätbaserad kurs, innehåller obligatoriska campusträffar. Student som underkänts i mål knutna till kursens verksamhetsför… |
+<!-- analys:end -->
+
 # GPG2QP
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2QP)

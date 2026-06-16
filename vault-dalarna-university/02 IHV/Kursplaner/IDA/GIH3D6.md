@@ -15,6 +15,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3D6
 up: "[[Idrotts- och hälsovetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Betygsrapportering: Modul 1: Muntlig redovisning och skriftliga inlämningsuppgifter - 7,5 … |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Muntlig redovisning och skriftliga inlämningsuppgifter.… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ingår i Idrottstränarprogrammet - prestation och hälsa, 180 hp. Denna kurs motsvarar kursen IH1132 _Tränarskap 5 … |
+<!-- analys:end -->
+
 # GIH3D6
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3D6)

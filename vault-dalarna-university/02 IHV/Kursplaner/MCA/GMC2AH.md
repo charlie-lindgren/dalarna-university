@@ -15,6 +15,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC2AH
 up: "[[Medicinsk vetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom skriftliga tentamina samt skriftlig laborationsrapport.… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 5 mål, engelska: 1 mål (diff 4) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen motsvarar MC1076.… |
+<!-- analys:end -->
+
 # GMC2AH
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC2AH)

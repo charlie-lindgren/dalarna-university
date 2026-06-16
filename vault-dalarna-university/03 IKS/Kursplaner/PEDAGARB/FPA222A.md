@@ -14,6 +14,18 @@ up: "[[Forskarämne Pedagogiskt arbete]]"
 cssclasses: [vilande]
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker muntligt och genom skriftliga inlämningsuppgifter… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att de forskarstuderande utvecklarfördjupade kunskaper om vetenskapsteori och forskningsetik… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+<!-- analys:end -->
+
 # FPA222A
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222A)

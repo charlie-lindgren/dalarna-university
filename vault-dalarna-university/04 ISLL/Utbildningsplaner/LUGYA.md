@@ -8,6 +8,14 @@ scrape_hash: 48664e932c0c487e
 up: "ISLL"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Examensarbete för ämneslärare` ≠ kursplanens namn `Examensarbete för ämneslärare (avancerad nivå)` (kurskod `APG282`) |
+<!-- analys:end -->
+
 # LUGYA
 
 **Programnamn:** Kompletterande pedagogisk utbildning, inriktning gymnasieskolan

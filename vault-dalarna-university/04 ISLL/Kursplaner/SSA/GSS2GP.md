@@ -15,6 +15,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2GP
 up: "[[Svenska som andraspråk]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få VG på hela kursen krävs VG på minst 22,5 hp. Betygsrapportering: Delkurs 1, mod… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: **Delkurs 1** examineras kontinuerligt genom aktivt deltagande på seminarier samt genom skriftliga inlämningsuppgifter. … |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande fördjupar sina didaktiska kunskaper i arabiska som modersmål.… |
+> | Omfång på lärandemål | För många mål | 21 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 21 mål, engelska: 1 mål (diff 20) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: För nätbaserad kurs krävs tillgång till dator, headset, webbkamera och internetuppkoppling.… |
+<!-- analys:end -->
+
 # GSS2GP
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2GP)

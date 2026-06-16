@@ -14,6 +14,16 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2YT
 up: "[[Spanska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska den studerande på spanska kunna:… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Spanska I` → `SP1014` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
+> | Omfång på lärandemål | Långt mål | 33 ord: - visa förtrogenhet med uppbyggnaden av vetenskapliga texter, vilket innefattar … |
+<!-- analys:end -->
+
 # GSP2YT
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2YT)

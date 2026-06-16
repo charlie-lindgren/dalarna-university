@@ -15,6 +15,21 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ23K
 up: "[[Samhällsbyggnadsteknik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. Projektarbete U,VG Slutbetyget på kursen sätts efter en samlad bedömning av examinat… |
+> | Betygsskalor | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Uppsats, 2,5 hp Projektarbete inklusive seminarier som redovisas skriftligt och muntligt, 5 hp… |
+> | Frasningskonsistens | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Fysisk planering` → `GSQ25G` (nedlagd 2025-12-08); förkunskap nämner nedlagd kurs |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Regional planering` → `GSQ25H` (nedlagd 2025-12-08); förkunskap nämner nedlagd kurs |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 5 mål, engelska: 4 mål (diff 1) |
+> | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+<!-- analys:end -->
+
 # GSQ23K
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ23K)

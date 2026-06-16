@@ -8,6 +8,14 @@ scrape_hash: 0b44d60ea84de210
 up: "IHV"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Stavfel och språkbruk | Felstavning | `hälso` (sv) |
+<!-- analys:end -->
+
 # VSOPG
 
 **Programnamn:** Socionomprogrammet

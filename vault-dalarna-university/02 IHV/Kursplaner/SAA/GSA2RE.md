@@ -14,6 +14,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2RE
 up: "[[Socialt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Betygsrapportering: Modul 1: Seminarier, inlämningsuppgifter, skriftlig tentamen - 7,5 hp… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Seminarier, inlämningsuppgifter och skriftlig tentamen.… |
+> | Omfång på lärandemål | För många mål | 10 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 10 mål, engelska: 1 mål (diff 9) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen motsvarar/överlappar SO1046 Socialpolitik… |
+<!-- analys:end -->
+
 # GSA2RE
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2RE)

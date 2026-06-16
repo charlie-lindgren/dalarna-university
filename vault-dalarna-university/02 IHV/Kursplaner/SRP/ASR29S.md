@@ -14,6 +14,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29S
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska studenten självständigt kunna… |
+> | Omfång på lärandemål | Långt mål | 27 ord: - analysera och värdera resultat i relation till tidigare forskning, värdera den… |
+> | Stavfel och språkbruk | Felstavning (en) | `alsoincludes` (en) |
+> | Stavfel och språkbruk | Felstavning (en) | `anotherstudent` (en) |
+> | Stavfel och språkbruk | Felstavning (en) | `compilinga` (en) |
+> | Stavfel och språkbruk | Felstavning (en) | `thesisand` (en) |
+<!-- analys:end -->
+
 # ASR29S
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29S)

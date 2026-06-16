@@ -14,6 +14,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR2HS
 up: "[[Arabiska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kontinuerlig examination genom bedömning av aktivt deltagande i seminarier och skriftliga inlämningsuppgifter samt genom… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter AR1010.… |
+<!-- analys:end -->
+
 # GAR2HS
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR2HS)

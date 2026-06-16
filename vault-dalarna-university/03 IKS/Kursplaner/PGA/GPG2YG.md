@@ -14,6 +14,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2YG
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen består av två delkurser.… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 8 mål, engelska: 3 mål (diff 5) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (3 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GSV22L. I kursen ingår en obligatorisk träff om max två dagar på campus. För nätbaserad kurs krävs att den stud… |
+<!-- analys:end -->
+
 # GPG2YG
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2YG)

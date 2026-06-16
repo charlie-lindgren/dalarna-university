@@ -14,6 +14,23 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI35A
 up: "[[Historia]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 10 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Målet med kursen är att den studerande inhämtar kunskaper om kulturstudier med historisk inriktning, de nationella minor… |
+> | Omfång på lärandemål | För många mål | 15 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 28 ord: - diskutera och analysera ungdomars roll och aktivitet i fråga om formandet av k… |
+> | Omfång på lärandemål | Långt mål | 29 ord: - analysera och redogöra för hur forskare sett på hur historien, samhället, situ… |
+> | Omfång på lärandemål | Långt mål | 26 ord: - diskutera och analysera hur lärare, med stöd i historiedidaktisk teori, kan om… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 15 mål, engelska: 2 mål (diff 13) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning | `analyseratmänniskors` (sv) |
+> | Stavfel och språkbruk | Felstavning | `medförintelsen` (sv) |
+> | Stavfel och språkbruk | Felstavning | `människorsagerande` (sv) |
+<!-- analys:end -->
+
 # GHI35A
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI35A)

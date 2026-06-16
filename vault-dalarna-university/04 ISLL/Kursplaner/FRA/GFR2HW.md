@@ -13,6 +13,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2HW
 up: "[[Franska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på både modul 1 och 2. Betygsrapportering: M… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras fortlöpande genom den muntliga prestationen på seminarier, skriftliga inlämningsuppgifter och inspelni… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Denna kurs vänder sig till studenter som saknar tidigare kunskaper i franska. För att tillgodogöra sig kursen krävs kuns… |
+<!-- analys:end -->
+
 # GFR2HW
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2HW)

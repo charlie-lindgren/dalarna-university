@@ -15,6 +15,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2FL
 up: "[[Personal och arbetsliv]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. På de olika delarna kan något av följande betyg erhållas: Seminarier: U, G Skriftlig inläm… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Seminarier 1,5 hp Skriftlig inlämningsuppgift i grupp 1,5 hp Individuell skriftlig tentamen 4,5 hp… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Syftet med kursen är att den studerande ska skaffa sig fördjupade kunskaper om och förståelse för strukturella och socia… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter PA1044.… |
+<!-- analys:end -->
+
 # GPA2FL
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2FL)

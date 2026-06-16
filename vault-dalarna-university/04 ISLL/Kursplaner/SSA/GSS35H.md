@@ -15,6 +15,16 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS35H
 up: "[[Svenska som andraspråk]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande fördjupar sina kunskaper i arabiska som modersmål med didaktiskt fokus.… |
+> | Omfång på lärandemål | För många mål | 21 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 21 mål, engelska: 1 mål (diff 20) |
+<!-- analys:end -->
+
 # GSS35H
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS35H)

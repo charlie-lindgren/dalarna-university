@@ -14,6 +14,15 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG29G
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Övergripande mål är att den studerande utvecklar sin förmåga att leda professionsutvecklande insatser grundat i praktikn… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+<!-- analys:end -->
+
 # APG29G
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG29G)

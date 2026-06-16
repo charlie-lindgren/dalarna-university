@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2NA
 up: "[[Socialt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Muntliga redovisningar och skriftliga inlämningsuppgifter samt salstentamen.… |
+> | Omfång på lärandemål | För många mål | 10 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 10 mål, engelska: 1 mål (diff 9) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen motsvarar/överlappar SO1045.… |
+<!-- analys:end -->
+
 # GSA2NA
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2NA)

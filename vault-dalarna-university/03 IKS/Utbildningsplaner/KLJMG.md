@@ -8,6 +8,16 @@ scrape_hash: 4bbef6d42bdbcce5
 up: "IKS"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Konceptutveckling inom medieproduktion i Ljud- och musikproduktion` (7,5 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Arbetsplatsförlagd utbildning för medieproduktion` (15 hp) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Produktionsprocesser och -villkor inom musikproduktion` ≠ kursplanens namn `Produktionsprocesser och - villkor inom musikproduktion` (kurskod `LP1072`) |
+<!-- analys:end -->
+
 # KLJMG
 
 **Programnamn:** Ljud- och musikproduktionsprogrammet

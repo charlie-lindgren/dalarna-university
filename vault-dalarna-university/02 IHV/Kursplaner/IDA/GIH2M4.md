@@ -15,6 +15,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2M4
 up: "[[Idrotts- och hälsovetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Muntliga redovisningar och skriftliga inlämningsuppgifter.… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 2 mål, engelska: 1 mål (diff 1) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ges i samarbete med Svenska Klätterförbundet. Kursen motsvarar GIH2LY och GIH2LX.… |
+<!-- analys:end -->
+
 # GIH2M4
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2M4)

@@ -15,6 +15,14 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSR38B
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | Långt mål | 33 ord: - uppvisa kunskap, förståelse och reflekterande färdigheter om sexuell och repro… |
+<!-- analys:end -->
+
 # GSR38B
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSR38B)

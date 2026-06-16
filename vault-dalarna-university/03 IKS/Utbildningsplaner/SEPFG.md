@@ -8,6 +8,15 @@ scrape_hash: 94f9bf55b288be3d
 up: "IKS"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Entreprenörskap - entreprenörskapets villkor och särart` (7,5 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Förhandlings  försäljnings  och dialogkonst` (7,5 hp) |
+<!-- analys:end -->
+
 # SEPFG
 
 **Programnamn:** Entreprenöriellt företagande

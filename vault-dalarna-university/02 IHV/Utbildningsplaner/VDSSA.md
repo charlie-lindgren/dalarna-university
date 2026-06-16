@@ -8,6 +8,16 @@ scrape_hash: d8958a8aea800920
 up: "IHV"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Stavfel och språkbruk | Felstavning | `hälso` (sv) |
+> | Stavfel och språkbruk | Felstavning | `levnadsvaneförändring` (sv) |
+> | Stavfel och språkbruk | Felstavning | `levnadsvaneförändringar` (sv) |
+<!-- analys:end -->
+
 # VDSSA
 
 **Programnamn:** Specialistsjuksköterskeutbildning till distriktssköterska

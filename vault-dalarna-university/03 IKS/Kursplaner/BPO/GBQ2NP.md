@@ -15,6 +15,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2NP
 up: "[[Bildproduktion]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG.… |
+> | Bloom-taxonomi | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [0,0,1,0,1,1] |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras fortlöpande genom förberett och aktivt deltagande i seminarier och handledning, skriftliga inlämningsu… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter BQ2042. Rätten till handledning upphör i och med att kursen avslutas.… |
+<!-- analys:end -->
+
 # GBQ2NP
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2NP)

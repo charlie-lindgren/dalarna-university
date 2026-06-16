@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2BZ
 up: "[[Svenska som andraspråk]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom aktivt deltagande i seminarier, skriftliga inlämningsuppgifter samt en skriftlig rapport.… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter SS1089. För nätbaserad kurs krävs att den studerande har möjlighet att kommunicera med ljud och bild via en dat… |
+<!-- analys:end -->
+
 # GSS2BZ
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2BZ)

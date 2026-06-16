@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI23G
 up: "[[Mikrodataanalys]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Duggor 4,5 hp Laborationsrapporter 3 hp… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Grundläggande programmering` → `MI1001` (nedlagd 2024-11-06); förkunskap nämner nedlagd kurs |
+> | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+<!-- analys:end -->
+
 # GMI23G
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI23G)

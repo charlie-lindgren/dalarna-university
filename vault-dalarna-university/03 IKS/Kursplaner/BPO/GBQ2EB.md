@@ -15,6 +15,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2EB
 up: "[[Bildproduktion]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För betyget VG på hela kursen krävs VG på minst 9 hp. Betygsrapportering: Modul 1: Researc… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: **Modul 1** examineras genom aktivt deltagande i seminarier samt inlämningsuppgifter. **Modul 2** examineras fortlöpande… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter BQ1082.… |
+<!-- analys:end -->
+
 # GBQ2EB
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2EB)

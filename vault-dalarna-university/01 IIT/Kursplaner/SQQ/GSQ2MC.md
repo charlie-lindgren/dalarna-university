@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2MC
 up: "[[Samhällsbyggnadsteknik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. Slutbetyg sätts efter en samlad bedömning av examinator.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Inlämningsuppgift + seminarium 1,5 hp Projektarbete + redovisning, 3 hp Tentamen, 3 hp… |
+> | Frasningskonsistens | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GMI22F… |
+<!-- analys:end -->
+
 # GSQ2MC
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2MC)

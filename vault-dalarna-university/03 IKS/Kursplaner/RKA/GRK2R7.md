@@ -15,6 +15,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2R7
 up: "[[Religionsvetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom en religionsvetenskaplig uppsats som försvaras vid ett ventileringsseminarium, samt opponering p… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Religionsvetenskap III` → `GRK25S` (nedlagd 2023-03-01); förkunskap nämner nedlagd kurs |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 10 mål, engelska: 0 mål (diff 10) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Motsvarar delkurs 5 _Uppsats_, 15 hp i kursen _Religionsvetenskap III_, 30 hp (GRK25S). Ersätter GRK2NZ.… |
+<!-- analys:end -->
+
 # GRK2R7
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2R7)

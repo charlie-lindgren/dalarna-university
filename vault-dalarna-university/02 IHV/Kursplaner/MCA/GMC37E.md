@@ -14,6 +14,16 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC37E
 up: "[[Medicinsk vetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | För få mål | 1 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
+> | Omfång på lärandemål | Långt mål | 30 ord: - Namnge, beskriva och förklara anatomi och funktion under människans livscykel … |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+<!-- analys:end -->
+
 # GMC37E
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC37E)

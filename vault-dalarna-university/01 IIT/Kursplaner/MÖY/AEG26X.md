@@ -14,6 +14,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG26X
 up: "[[Energiteknik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. Inlämningsuppgift 1: 2 hp, U-G Inlämningsuppgift 2: 3 hp, U, 3, 4, 5 Inlämningsuppgi… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftliga inlämningsuppgifter 7,5 hp… |
+> | Frasningskonsistens | Avviker från referensformen | Efter genomgång av kursen ska studenten kunna:… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ersätter AEG234… |
+<!-- analys:end -->
+
 # AEG26X
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG26X)

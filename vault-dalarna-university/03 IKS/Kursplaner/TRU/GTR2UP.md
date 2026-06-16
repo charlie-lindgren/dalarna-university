@@ -14,6 +14,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2UP
 up: "[[Turismvetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används A–F. Modul 1: Skrivuppgift och seminarium - 3 hp (A-F) Modul 2: Seminarier - 1,5 hp (U-G) Modul … |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig inlämningsuppgift, muntliga presentationer och aktivt deltagande i seminarier, skriftlig tentamen… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter TR1036… |
+<!-- analys:end -->
+
 # GTR2UP
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2UP)

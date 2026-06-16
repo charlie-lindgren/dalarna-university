@@ -15,6 +15,16 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC2AE
 up: "[[Medicinsk vetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Bloom-taxonomi | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [6,1,0,0,0,0] |
+> | Omfång på lärandemål | Långt mål | 26 ord: - visa förståelse för och kritiskt förhållningsätt till vetenskapliga begrepp oc… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+<!-- analys:end -->
+
 # AMC2AE
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC2AE)

@@ -14,6 +14,20 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKG27R
 up: "[[Kulturgeografi]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används A–F. Modul 1: Seminarier - 2,5 hp (A-F) Modul 2: Exkursion - 1 hp (U-G) Modul3: PM - 4 hp (A-F)… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Aktivt deltagande i seminarier, ett individuellt PM.… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Stavfel och språkbruk | Felstavning (en) | `compulsotry` (en) |
+> | Stavfel och språkbruk | Felstavning (en) | `curent` (en) |
+> | Stavfel och språkbruk | Felstavning (en) | `theoretica` (en) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Maximalt fem examinationstillfällen. Ersätter KG3018.… |
+<!-- analys:end -->
+
 # AKG27R
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKG27R)

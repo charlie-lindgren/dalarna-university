@@ -14,6 +14,15 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR3GM
 up: "[[Portugisiska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': -… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 12 mål, engelska: 11 mål (diff 1) |
+<!-- analys:end -->
+
 # GPR3GM
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR3GM)

@@ -14,6 +14,14 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT34Z
 up: "[[Datateknik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs skall studenten kunna:… |
+<!-- analys:end -->
+
 # GDT34Z
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT34Z)

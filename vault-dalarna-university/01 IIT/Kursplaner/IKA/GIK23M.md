@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK23M
 up: "[[Informatik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Resultatet på den skriftliga tentamen styr slutbetyget på kursen.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig tentamen (4,5 hp) och skriftlig redovisning av laborationer (3 hp, betygskala U-G).… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Grundläggande programmering` → `MI1001` (nedlagd 2024-11-06); förkunskap nämner nedlagd kurs |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att studenten ska tillägna sig kunskap om principer och metoder för att designa och använda … |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Antal examinationstillfällen är p.g.a. ämnets snabba utveckling begränsade till fem.… |
+<!-- analys:end -->
+
 # GIK23M
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK23M)

@@ -15,6 +15,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA24N
 up: "[[Socialt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Grupparbete som redovisas vid seminarier. En individuell skriftlig rapport, muntligt försvar av denna samt opponering av… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 8 mål, engelska: 6 mål (diff 2) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ingår som valfri kurs i Socionomprogrammet. Kursen motsvarar VÅ3137 och AVÅ24F. Kursen kan inte ingå i examen vid… |
+<!-- analys:end -->
+
 # ASA24N
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA24N)

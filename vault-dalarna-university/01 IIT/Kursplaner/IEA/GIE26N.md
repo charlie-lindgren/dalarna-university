@@ -14,6 +14,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26N
 up: "[[Industriell ekonomi]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. På skriftlig tentamen ges betyget U-3-4-5 På individuella inlämningsuppgifter ges be… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig tentamen, 4hp Individuella inlämningsuppgifter, 3,5hp… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Överlappar IE1075.… |
+<!-- analys:end -->
+
 # GIE26N
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26N)

@@ -14,6 +14,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA24K
 up: "[[Socialt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Seminarier samt individuella skriftliga inlämningsuppgifter.… |
+> | Omfång på lärandemål | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ingår i Socionomprogrammet.… |
+<!-- analys:end -->
+
 # ASA24K
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA24K)

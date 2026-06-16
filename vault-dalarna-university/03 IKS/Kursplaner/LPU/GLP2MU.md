@@ -14,6 +14,20 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2MU
 up: "[[Ljud- och musikproduktion]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget Väl Godkänt (VG) på hela kursen, krävs VG på modul 3 samt minst en av d… |
+> | Bloom-taxonomi | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [0,1,0,0,0,2] |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom skriftliga och audiovisuella inlämningsuppgifter samt en musikproduktion med tillhörande skriftl… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | Omfång på lärandemål | Långt mål | 26 ord: - med egna ord och på ett välstrukturerat sätt diskutera musik och musikprodukti… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GLP29W. Motsvarar kursen _Möten med skilda musikgenrer,_ 7,5 hp.… |
+<!-- analys:end -->
+
 # GLP2MU
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2MU)

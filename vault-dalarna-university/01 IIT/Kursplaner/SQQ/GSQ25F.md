@@ -14,6 +14,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25F
 up: "[[Samhällsbyggnadsteknik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. Projektarbete och övningsuppgifter U,VG. Slutbetyget utgör en sammanvägning av betyg… |
+> | Betygsskalor | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
+> | Bloom-taxonomi | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [0,0,0,1,0,2] |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Seminarier (1,5 hp) Projektarbete och övningsuppgifter (6 hp)… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att introducera form och gestaltning av byggnader och stadsmiljöer med fokus på verktyg för … |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter SQ1002.… |
+<!-- analys:end -->
+
 # GSQ25F
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25F)

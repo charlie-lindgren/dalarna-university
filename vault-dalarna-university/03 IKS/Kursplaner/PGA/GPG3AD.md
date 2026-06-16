@@ -15,6 +15,14 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AD
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Stavfel och språkbruk | Dubblerat ord | `as` — …ment on the way to the subject teaching profession, as well as as support for being able to make conscious didactic choices d… |
+<!-- analys:end -->
+
 # GPG3AD
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AD)

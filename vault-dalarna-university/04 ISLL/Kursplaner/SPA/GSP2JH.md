@@ -15,6 +15,22 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2JH
 up: "[[Spanska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 9 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på delkurserna 1, 2, 4 och 5. Betygsrapporte… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: **Delkurs 1** examineras genom aktivt deltagande i seminarier, skriftliga prov samt en nätbaserad skriftlig sluttentamen… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande utvecklar grundläggande… |
+> | Omfång på lärandemål | För många mål | 38 lärandemål (maximum rekommenderat: 15 för 45 hp) |
+> | Omfång på lärandemål | Långt mål | 41 ord: - visa kunskap om elevers syn på och upplevelser av sitt språklärande samt refle… |
+> | Omfång på lärandemål | Långt mål | 35 ord: - diskutera och reflektera över samspelet mellan inre och yttre faktorer som är … |
+> | Omfång på lärandemål | Långt mål | 32 ord: - visa fördjupade kunskaper om användningen av digitala verktyg i språkundervisn… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 38 mål, engelska: 1 mål (diff 37) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Denna utbildning är en uppdragsutbildning och får endast sökas av lärare som deltar i Lärarlyftet. För att delta i en ku… |
+<!-- analys:end -->
+
 # GSP2JH
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2JH)

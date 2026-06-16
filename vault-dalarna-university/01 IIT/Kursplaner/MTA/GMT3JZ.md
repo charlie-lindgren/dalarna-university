@@ -14,6 +14,14 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JZ
 up: "[[Maskinteknik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+<!-- analys:end -->
+
 # GMT3JZ
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JZ)

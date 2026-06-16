@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37R
 up: "[[Idrotts- och hälsovetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Idrott` → `IDB009` (nedlagd 2005-08-01); förkunskap nämner nedlagd kurs |
+> | Förkunskapskrav | Refererar troligen nedlagd kurs | Refererad kurs hittas ej i vaulten (troligen nedlagd): 'Idrott och hälsa 1 med didaktisk inriktning' |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande, utifrån den kunskapsbas som lagts i Idrott och hälsa I med didaktisk inr… |
+> | Omfång på lärandemål | För många mål | 15 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 15 mål, engelska: 1 mål (diff 14) |
+<!-- analys:end -->
+
 # GIH37R
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37R)

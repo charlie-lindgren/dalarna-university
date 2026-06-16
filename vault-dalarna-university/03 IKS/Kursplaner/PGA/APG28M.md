@@ -14,6 +14,16 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG28M
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Bloom-taxonomi | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [5,0,0,0,0,0] |
+> | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska den studerande kunna:… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+<!-- analys:end -->
+
 # APG28M
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG28M)

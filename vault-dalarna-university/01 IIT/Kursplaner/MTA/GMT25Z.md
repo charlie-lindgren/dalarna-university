@@ -15,6 +15,16 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT25Z
 up: "[[Maskinteknik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5.… |
+> | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska studenten kunna:… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: De programkurser som är relevanta för det specifika examensarbetet ska vara godkända.… |
+<!-- analys:end -->
+
 # GMT25Z
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT25Z)

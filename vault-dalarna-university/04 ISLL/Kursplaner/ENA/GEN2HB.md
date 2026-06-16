@@ -15,6 +15,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2HB
 up: "[[Engelska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används A–F. Slutbetyg på kursen sätts efter en samlad bedömning av examinator. Betygsrapportering: Modu… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom kontinuerlig bedömning av aktivt seminariedeltagande och förberedelse, samt genom skriftlig och m… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter EN1106.… |
+<!-- analys:end -->
+
 # GEN2HB
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2HB)

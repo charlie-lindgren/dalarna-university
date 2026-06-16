@@ -14,6 +14,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATR25Z
 up: "[[Turismvetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används A–F. Seminarier U-G. De skriftliga inlämningsuppgifterna styr slutbetyget på kursen.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftliga inlämningsuppgifter: 5 hp Seminarier: 2,5 hp… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs skall studenten kunna:… |
+> | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+<!-- analys:end -->
+
 # ATR25Z
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATR25Z)

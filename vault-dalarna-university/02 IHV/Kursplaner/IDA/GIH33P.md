@@ -15,6 +15,14 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH33P
 up: "[[Idrotts- och hälsovetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Stavfel och språkbruk | Felstavning | `jämviktsystem` → jämviktssystem |
+<!-- analys:end -->
+
 # GIH33P
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH33P)

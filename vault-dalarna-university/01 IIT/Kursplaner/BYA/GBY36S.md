@@ -14,6 +14,14 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY36S
 up: "[[Byggteknik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+<!-- analys:end -->
+
 # GBY36S
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY36S)

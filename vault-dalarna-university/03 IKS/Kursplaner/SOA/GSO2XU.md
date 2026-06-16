@@ -14,6 +14,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO2XU
 up: "[[Sociologi]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Betygsrapportering: Modul 1: Makt och samhälle, 7,5 hp Modul 2: Konformitet och avvikelse,… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att den… |
+> | Omfång på lärandemål | För många mål | 19 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 19 mål, engelska: 1 mål (diff 18) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen motsvarar SO1038 samt SO1041.… |
+<!-- analys:end -->
+
 # GSO2XU
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO2XU)

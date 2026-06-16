@@ -14,6 +14,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2SE
 up: "[[Socialt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Betygsrapportering: Modul 1: Seminarier, skriftliga inlämningsuppgifter, hemtentamen - 7,5… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Aktivt deltagande i seminarier, skriftliga inlämningsuppgifter och individuell hemtentamen.… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Organisation` → `FEB021` (nedlagd 2008-03-18); förkunskap nämner nedlagd kurs |
+> | Omfång på lärandemål | För många mål | 12 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 12 mål, engelska: 0 mål (diff 12) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ingår i Socionomprogrammet.… |
+<!-- analys:end -->
+
 # GSA2SE
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2SE)

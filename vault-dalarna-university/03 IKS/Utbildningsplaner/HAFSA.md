@@ -8,6 +8,27 @@ scrape_hash: e42dc6b78dbd27ae
 up: "IKS"
 ---
 
+<!-- analys:start -->
+> [!warning]- 14 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Magisterprojektets planering` (1 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Den vidareutvecklade uppsatsplanen` (1 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Magisterexamensarbete i Afrikanska studier` (15 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Bistånd och utveckling i Afrika söder om Sahara` (7 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Egypten och medierna` (7 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Egyptisk–sudanesiska relationer: Vattenresursernas geopolitik` (7 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Den nordafrikanska novellen` (7 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Islam och muslimska samhällen i Afrika` (7 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Språk och nationalitet i afrikanska flerspråkliga länder` (7 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Södra Afrikas moderna historia` (7 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Afrikas horn` (7 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Fred och konflikt i Afrika: Internationell institutionell lag` (7 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Västafrika sedan 1800-talet` (7 hp) |
+> | Stavfel och språkbruk | Felstavning | `västafrika` (sv) |
+<!-- analys:end -->
+
 # HAFSA
 
 **Programnamn:** Magisterprogram i Afrikanska studier

@@ -15,6 +15,15 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR35F
 up: "[[Franska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten på franska kunna:… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Franskspråkig litteratur II` → `FR1072` (nedlagd 2019-06-04); förkunskap nämner nedlagd kurs |
+<!-- analys:end -->
+
 # GFR35F
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR35F)

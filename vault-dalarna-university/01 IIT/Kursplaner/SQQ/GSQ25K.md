@@ -15,6 +15,20 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25K
 up: "[[Samhällsbyggnadsteknik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. För projektarbetet är betygsskalan U,G,VG. Slutbetyget på kursen sätts efter en saml… |
+> | Betygsskalor | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Projektarbete inklusive presentationer i ord och bild, seminarier och GIS-analyser, 5 hp… |
+> | Frasningskonsistens | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Regional planering` → `GSQ25H` (nedlagd 2025-12-08); förkunskap nämner nedlagd kurs |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Transportplanering` → `GMI22F` (nedlagd 2024-11-06); förkunskap nämner nedlagd kurs |
+> | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+<!-- analys:end -->
+
 # GSQ25K
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25K)

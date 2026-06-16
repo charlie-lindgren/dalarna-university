@@ -15,6 +15,15 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFT2C8
 up: "[[Fysioterapi]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | Långt mål | 40 ord: - presentera och argumentera för vald design av en projektplan för en vetenskapl… |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (6 mål utan punktlista) |
+<!-- analys:end -->
+
 # AFT2C8
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFT2C8)

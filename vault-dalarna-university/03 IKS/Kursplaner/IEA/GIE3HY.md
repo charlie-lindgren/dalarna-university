@@ -13,6 +13,14 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3HY
 up: "[[Industriell ekonomi]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+<!-- analys:end -->
+
 # GIE3HY
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3HY)

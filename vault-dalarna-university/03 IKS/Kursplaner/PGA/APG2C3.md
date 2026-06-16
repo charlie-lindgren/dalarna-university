@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2C3
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska studenten:… |
+> | Omfång på lärandemål | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
+> | Omfång på lärandemål | Långt mål | 26 ord: - visa förmåga att sammanhållet genomföra adekvat och etisk försvarbar dokumenta… |
+> | Omfång på lärandemål | Långt mål | 32 ord: - kunna kritiskt värdera traditionsbaserad undervisningspraktik inom den egna in… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
+<!-- analys:end -->
+
 # APG2C3
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2C3)

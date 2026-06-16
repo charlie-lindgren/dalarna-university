@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2AJ
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | Omfång på lärandemål | För många mål | 11 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
+> | Omfång på lärandemål | Långt mål | 29 ord: - självständigt och tillsammans med andra planera, genomföra, utvärdera och utve… |
+> | Omfång på lärandemål | Långt mål | 30 ord: - utifrån ämnesdidaktiska och specialpedagogiska överväganden och med ett kritis… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 11 mål, engelska: 0 mål (diff 11) |
+<!-- analys:end -->
+
 # APG2AJ
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2AJ)

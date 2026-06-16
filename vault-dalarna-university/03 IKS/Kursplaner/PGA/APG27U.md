@@ -15,6 +15,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG27U
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Modul 1: Perspektiv på utvärdering 7,5 hp Modul 2: Verksamhetsförlagd utbildning (VFU) 7,5… |
+> | Bloom-taxonomi | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [7,0,0,0,0,0] |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursens mål examineras genom en eller flera muntliga redovisningar, skriftliga uppgifter och seminarier samt verksamhets… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ingår i Förskollärarprogrammet. Student som underkänts i mål knutna till kursens verksamhetsförlagda utbildning h… |
+<!-- analys:end -->
+
 # APG27U
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG27U)

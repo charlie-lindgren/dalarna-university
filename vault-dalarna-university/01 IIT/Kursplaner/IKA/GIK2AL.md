@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2AL
 up: "[[Informatik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig tentamen (3,5 hp) och redovisning av laborationer (4 hp).… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att studenten ska tillägna sig kunskap om principer och metoder för att designa och använda … |
+> | Omfång på lärandemål | Långt mål | 28 ord: - manipulera (söka, lägga till, ändra och ta bort) data och skapa, ändra samt ta… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen motsvarar (IK1068) Introduktion till databassystem, 7,5hp och (IK1007) databassystem, 7,5hp… |
+<!-- analys:end -->
+
 # GIK2AL
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2AL)

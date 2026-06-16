@@ -14,6 +14,15 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34R
 up: "[[Maskinteknik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | För många mål | 10 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
+> | Omfång på lärandemål | Långt mål | 31 ord: - kritiskt diskutera och reflektera över hur olika typer av materialfel kan påve… |
+<!-- analys:end -->
+
 # GMT34R
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34R)

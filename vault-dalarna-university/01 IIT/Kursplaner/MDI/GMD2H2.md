@@ -13,6 +13,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2H2
 up: "[[Matematikdidaktik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom skriftliga och muntliga redovisningar samt en individuell skriftlig salstentamen.… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Omfång på lärandemål | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: För studenter i nätbaserad kurs krävs en godtagbar nätuppkoppling och verktyg för kommunikation med ljud och bild via in… |
+<!-- analys:end -->
+
 # GMD2H2
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2H2)

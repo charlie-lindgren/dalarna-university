@@ -14,6 +14,15 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FU
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | Långt mål | 38 ord: - identifiera och diskutera problem samt föreslå utvecklingsområden i den pedago… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+<!-- analys:end -->
+
 # GPG3FU
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FU)

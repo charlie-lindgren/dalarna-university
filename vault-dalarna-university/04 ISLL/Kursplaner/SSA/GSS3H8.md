@@ -14,6 +14,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3H8
 up: "[[Svenska som andraspråk]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande syftet med kursen är att den studerande utvecklar sina ämneskunskaper och ämnesdidaktiska kunskaper ino… |
+> | Omfång på lärandemål | För många mål | 20 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 20 mål, engelska: 2 mål (diff 18) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+<!-- analys:end -->
+
 # GSS3H8
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3H8)

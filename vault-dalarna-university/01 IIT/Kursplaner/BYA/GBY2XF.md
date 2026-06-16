@@ -14,6 +14,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2XF
 up: "[[Byggteknik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. Projektuppgift U-VG Laboaration U-G Slutbetyget på kursen sätts efter en sammanvägni… |
+> | Betygsskalor | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig salstentamen 1, 1,5 hp… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att studenten ska skaffa sig kunskaper i husbyggnadsteknik, speciellt beträffande u… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Överlappar GBY24K och GBY2RW… |
+<!-- analys:end -->
+
 # GBY2XF
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2XF)

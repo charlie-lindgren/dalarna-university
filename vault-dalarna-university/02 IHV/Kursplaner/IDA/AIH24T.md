@@ -14,6 +14,20 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AIH24T
 up: "[[Idrotts- och hälsovetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Muntliga presentationer och skriftliga inlämningsuppgifter och ett skriftligt självständigt arbete, försvar av det egna … |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Omfång på lärandemål | Långt mål | 29 ord: - självständigt identifiera ett idrottsdidaktiskt problemområde och formulera fo… |
+> | Omfång på lärandemål | Långt mål | 31 ord: - utifrån ett vetenskapsteoretiskt perspektiv diskutera kvalitativ och kvantitat… |
+> | Omfång på lärandemål | Långt mål | 30 ord: - genomföra ett självständigt idrottsdidaktiskt vetenskapligt arbete med tydlig … |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+<!-- analys:end -->
+
 # AIH24T
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AIH24T)

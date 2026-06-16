@@ -14,6 +14,15 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2AD
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande ska förstå förlopp och processer vid komplicerad graviditet, förlossning … |
+> | Omfång på lärandemål | Långt mål | 28 ord: - i simulerad miljö utföra undersökningar och behandlingar vid handläggning av k… |
+<!-- analys:end -->
+
 # ASR2AD
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2AD)

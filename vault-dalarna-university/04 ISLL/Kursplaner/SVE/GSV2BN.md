@@ -15,6 +15,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2BN
 up: "[[Svenska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att erhålla Väl Godkänd på hela kursen krävs Väl Godkänd i både modul 1 och 2. Betygsr… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom egenproducerade och framförda tal, skriftliga inlämningsuppgifter samt genom aktivt deltagande v… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: För nätbaserad kurs krävs att den studerande måste ha möjlighet att kommunicera med ljud och bild via en dator eller mot… |
+<!-- analys:end -->
+
 # GSV2BN
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2BN)

@@ -15,6 +15,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2V4
 up: "[[Informatik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att introducera studenten till cybersäkerhetstrender, hotbilder vid IT-användning mot person… |
+> | Omfång på lärandemål | Långt mål | 26 ord: - Analysera säkerhetsbehov inom ett hemma- eller medelstort företagsnätverk och … |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter IK1080. När kursen ges som webbaserad online-kurs ges den i Windowsmiljö. Andra operativsystem accepteras men i… |
+<!-- analys:end -->
+
 # GIK2V4
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2V4)

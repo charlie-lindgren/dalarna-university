@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI2C8
 up: "[[Mikrodataanalys]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att erhålla VG som slutbetyg på kursen krävs att bedömningskriterier för VG uppfylls s… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom följande delar:… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Examensarbetet är det avslutande tillfället för studenten att tillämpa grundläggande kunskaper och ytterligare fördjupa … |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Examensarbetet är ett självständigt arbete, men kan med fördel utföras i grupper om två studenter, gärna i samarbete i f… |
+<!-- analys:end -->
+
 # GMI2C8
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI2C8)

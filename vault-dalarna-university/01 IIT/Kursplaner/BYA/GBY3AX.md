@@ -14,6 +14,15 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY3AX
 up: "[[Byggteknik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande för ett konkret husbyggnadsprojekt kunna:… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Byggstatik` → `BYB010` (nedlagd 2007-10-22); förkunskap nämner nedlagd kurs |
+<!-- analys:end -->
+
 # GBY3AX
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY3AX)

@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2W3
 up: "[[Kinesiska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen ämnar att ge den studerande grundläggande kunskaper i det kinesiska språket, vilket förbereder den studerande inf… |
+> | Omfång på lärandemål | För många mål | 27 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 26 ord: - med utgångspunkt i elevers kunskapsbehov och individuella förutsättningar för … |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 27 mål, engelska: 1 mål (diff 26) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Om kursen läses som första ämne inom ämneslärarprogrammet krävs närvaro i Falun vid terminsstart under max två dagar. Fö… |
+<!-- analys:end -->
+
 # GKI2W3
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2W3)

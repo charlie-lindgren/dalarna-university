@@ -15,6 +15,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2UN
 up: "[[Bildproduktion]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Modul 1: Filmscensmanus, 2,5 hp Modul 2: Seminarier och skriftlig filmanalys, 5 hp För att… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination genom aktivt deltagande vid seminarier, workshops, samt genom skriftliga inlämningsuppgifter och muntliga re… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter BQ1099.… |
+<!-- analys:end -->
+
 # GBQ2UN
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2UN)

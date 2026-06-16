@@ -14,6 +14,16 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR2XS
 up: "[[Portugisiska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | Omfång på lärandemål | Långt mål | 27 ord: - visa förståelse för olika aspekter av portugisiskans ljudsystem som betonings-… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ersätter PR1022. Kursen kan inte användas i en examen tillsammans med kursen _Portugisiska: Fonetik och muntlig s… |
+<!-- analys:end -->
+
 # GPR2XS
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR2XS)

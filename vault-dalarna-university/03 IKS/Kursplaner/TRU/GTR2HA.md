@@ -14,6 +14,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2HA
 up: "[[Turismvetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används A–F. Seminarier: U-G. Slutbetyget på kursen sätts efter en samlad bedömning av examinator.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Seminarier (6 hp), skriftliga inlämningsuppgifter (4 hp) och slutrapport (5 hp).… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna :… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Studenten ansvarar för val och anskaffning av praktikplats. Dock måste praktikplatsen godkännas av kursansvarig innan på… |
+<!-- analys:end -->
+
 # GTR2HA
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2HA)

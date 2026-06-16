@@ -14,6 +14,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2SZ
 up: "[[Tyska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget Väl Godkänd på hela kursen krävs Väl Godkänd på samtliga 5 hp. Betygsra… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras kontinuerligt genom aktivt deltagande i seminarier och skriftliga inlämningsuppgifter.… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen syftar till att den studerande ska utveckla grundläggande färdigheter i att tala och förstå tyska. Den studerande… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen vänder sig till utbytesstudenter utan kunskaper i svenska. Ersätter GTY2GL.… |
+<!-- analys:end -->
+
 # GTY2SZ
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2SZ)

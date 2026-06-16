@@ -14,6 +14,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI23V
 up: "[[Historia]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom aktivt deltagande i seminarier samt i form av en vetenskaplig uppsats som den studerande present… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+> | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+<!-- analys:end -->
+
 # AHI23V
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI23V)

@@ -15,6 +15,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG27T
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
+> | Bloom-taxonomi | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [5,0,0,0,0,0] |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursens mål examineras genom muntlig presentation, enskild skriftlig uppgift samt opponering på andras skriftliga uppgif… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Omfång på lärandemål | Långt mål | 34 ord: - visa fördjupad kunskap om och förmåga att systematiskt analysera och organiser… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen är en uppdragsutbildning från Skolverket och gäller rektorer som genomgått Rektorsprogrammet med godkänt resultat… |
+<!-- analys:end -->
+
 # APG27T
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG27T)

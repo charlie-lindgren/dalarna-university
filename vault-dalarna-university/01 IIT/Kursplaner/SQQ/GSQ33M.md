@@ -14,6 +14,14 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ33M
 up: "[[Samhällsbyggnadsteknik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsskalor | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
+<!-- analys:end -->
+
 # GSQ33M
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ33M)

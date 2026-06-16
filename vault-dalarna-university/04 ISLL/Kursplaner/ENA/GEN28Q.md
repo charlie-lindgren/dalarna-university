@@ -14,6 +14,21 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN28Q
 up: "[[Engelska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på minst tre moduler. Betygsrapportering:… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: **Delkurs 1**: Examination sker genom fortlöpande bedömning av aktivt seminariedeltagande samt genom skriftliga inlämnin… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande fördjupar sina kunskaper om engelskämnets ämnesteoretiska och didaktiska … |
+> | Omfång på lärandemål | För många mål | 23 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 28 ord: - i skrift och tal kommunicera och argumentera för sina egna tolkningar av litte… |
+> | Omfång på lärandemål | Långt mål | 30 ord: - redogöra för hur olika former av digitala verktyg kan användas för att utveckl… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 23 mål, engelska: 1 mål (diff 22) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen inkluderar 2-3 fältdagar på den studerandes kommande VFU skola.… |
+<!-- analys:end -->
+
 # GEN28Q
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN28Q)

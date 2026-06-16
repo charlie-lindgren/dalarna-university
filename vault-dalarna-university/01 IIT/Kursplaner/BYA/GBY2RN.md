@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2RN
 up: "[[Byggteknik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. Skriftlig tentamen (U-3-4-5) Projekt (U-G) Betyget på skriftlig tentamen styr slutbe… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig tentamen 4 hp Inlämningsuppgift 1 hp… |
+> | Frasningskonsistens | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |
+> | Omfång på lärandemål | För många mål | 9 lärandemål (maximum rekommenderat: 6 för 5 hp) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter BY1064.… |
+<!-- analys:end -->
+
 # GBY2RN
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2RN)

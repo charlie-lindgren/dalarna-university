@@ -15,6 +15,16 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR26S
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination i kursen sker genom en skriftlig individuell hemtentamen, inlämningsuppgifter som diskuteras vid seminarier … |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ingår i Barnmorskeprogrammet. Kursen motsvarar/överlappar ASR25Q.… |
+<!-- analys:end -->
+
 # ASR26S
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR26S)

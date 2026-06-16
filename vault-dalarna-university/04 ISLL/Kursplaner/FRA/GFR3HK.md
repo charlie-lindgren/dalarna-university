@@ -14,6 +14,14 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3HK
 up: "[[Franska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen syftar till att ge den studerande en introduktion till språkdidaktik. Kursen ger en teoretisk grund till språklär… |
+<!-- analys:end -->
+
 # GFR3HK
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3HK)

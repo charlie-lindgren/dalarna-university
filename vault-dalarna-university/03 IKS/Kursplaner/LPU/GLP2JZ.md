@@ -15,6 +15,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2JZ
 up: "[[Ljud- och musikproduktion]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G. Betygsrapportering: Modul 1: Ljudteknikens verktyg och deras funktionalitet (3 hp) Modul 2:… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Modul 1 examineras genom en skriftlig online-tentamen, modul 2 examineras genom skriftliga labbrapporter och en praktisk… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Motsvarar GLP29R.… |
+<!-- analys:end -->
+
 # GLP2JZ
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2JZ)

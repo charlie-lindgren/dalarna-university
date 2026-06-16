@@ -15,6 +15,19 @@ up: "[[Engelska]]"
 cssclasses: [vilande]
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom skriftliga och muntliga inlämningsuppgifter samt aktivt deltagande i seminarier.… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen syftar till att den studerande utvecklar grundläggande språkdidaktiska kunskaper i engelska.… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 1 mål (diff 5) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: För nätbaserad kurs krävs tillgång till dator, headset, webbkamera och internetuppkoppling. Ersätter GEN2JG.… |
+<!-- analys:end -->
+
 # GEN2QW
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2QW)

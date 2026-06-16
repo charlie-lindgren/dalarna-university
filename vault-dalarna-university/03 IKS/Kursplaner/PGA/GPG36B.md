@@ -15,6 +15,21 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG36B
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': -… |
+> | Omfång på lärandemål | För många mål | 18 lärandemål (maximum rekommenderat: 10 för 15 hp) |
+> | Omfång på lärandemål | Långt mål | 27 ord: - visa förmåga att läsa, sammanfatta och referera innehåll i texter som är relev… |
+> | Omfång på lärandemål | Långt mål | 27 ord: - visa förmåga att utifrån gällande skollag och läroplan för aktuell skolform kr… |
+> | Omfång på lärandemål | Långt mål | 32 ord: - visa kunskap om sociala relationer och makt, genom att med hjälp av aktuell fo… |
+> | Omfång på lärandemål | Långt mål | 34 ord: - visa förmåga att reflektera över former för lärare att hantera, förebygga och … |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 18 mål, engelska: 2 mål (diff 16) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+<!-- analys:end -->
+
 # GPG36B
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG36B)

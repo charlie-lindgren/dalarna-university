@@ -15,6 +15,14 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CE
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | Långt mål | 26 ord: - redogöra för centrala begrepp inom global sexuell och reproduktiv hälsa och rä… |
+<!-- analys:end -->
+
 # ASR2CE
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CE)

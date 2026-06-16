@@ -15,6 +15,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY2B7
 up: "[[Tyska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Tyskspråkig litteratur och litteraturvetenskap` → `TY2003` (nedlagd 2011-02-10); förkunskap nämner nedlagd kurs |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Den moderna tyskspråkiga lingvistikens utveckling` → `TYC002` (nedlagd 2008-09-18); förkunskap nämner nedlagd kurs |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Examensarbete` → `EN2004` (nedlagd 2011-02-01); förkunskap nämner nedlagd kurs |
+> | Omfång på lärandemål | Långt mål | 29 ord: - muntligt och skriftligt analysera, värdera och kritiskt granska egna och andra… |
+<!-- analys:end -->
+
 # ATY2B7
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY2B7)

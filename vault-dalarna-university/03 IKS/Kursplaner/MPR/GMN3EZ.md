@@ -15,6 +15,15 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EZ
 up: "[[Medieproduktion]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Bloom-taxonomi | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [1,0,0,1,0,3] |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+<!-- analys:end -->
+
 # GMN3EZ
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EZ)

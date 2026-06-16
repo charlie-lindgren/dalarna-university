@@ -14,6 +14,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI23K
 up: "[[Mikrodataanalys]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Laborationsrapporter U-G. Slutbetyget på kursen sätts efter en samlad bedömning av examina… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Individuellt projekt, genomförande och rapportering, 3 hp, laborationsrapporter, 2 hp samt individuella uppgifter, 2,5 h… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter ST3012.… |
+<!-- analys:end -->
+
 # AMI23K
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI23K)

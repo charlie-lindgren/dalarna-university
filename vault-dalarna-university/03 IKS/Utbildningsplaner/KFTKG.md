@@ -8,6 +8,14 @@ scrape_hash: e3d784e4062888bc
 up: "IKS"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Stavfel och språkbruk | Felstavning | `åsa` (sv) |
+<!-- analys:end -->
+
 # KFTKG
 
 **Programnamn:** Manus för film och TV – kandidatprogram

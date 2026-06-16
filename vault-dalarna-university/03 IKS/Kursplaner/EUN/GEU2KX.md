@@ -14,6 +14,17 @@ up: "[[Entreprenörskap och innovationsteknik]]"
 cssclasses: [vilande]
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För betyget Väl godkänd på hela kursen krävs betyget Väl godkänt på båda momenten.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig tentamen, 4,5 hp (examinerar mål 1 och 2): Individuell skriftlig inlämningsuppgift med opposition samt aktivt … |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Den som antagits till och registrerats på kursen har rätt att erhålla undervisning och/eller handledning under den tid s… |
+<!-- analys:end -->
+
 # GEU2KX
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2KX)

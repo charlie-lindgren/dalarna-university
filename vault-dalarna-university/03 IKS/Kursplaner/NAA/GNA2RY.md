@@ -15,6 +15,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA2RY
 up: "[[Nationalekonomi]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Betygsrapportering: Modul 1 Skriftlig tentamen - 6 hp (U-VG) Modul 2 Skriftlig inlämningsu… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras med en skriftlig tentamen, motsvarande 6 hp och en skriftlig inlämningsuppgift, motsvarande 1,5 hp.… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs skall studenten kunna:… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 1 mål (diff 5) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter kursen ST1020 - Statistik för ekonomer… |
+<!-- analys:end -->
+
 # GNA2RY
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA2RY)

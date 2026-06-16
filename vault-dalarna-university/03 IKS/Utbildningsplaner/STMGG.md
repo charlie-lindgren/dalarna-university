@@ -8,6 +8,19 @@ scrape_hash: 7456ae575ba3192c
 up: "IKS"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Grundläggande ekonomistyrning` → `FEA034` (nedlagd 2008-03-18) — plain-text-referens |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Kvalitativa forskningsmetoder` → `SB3002` (nedlagd 2013-01-15) — plain-text-referens |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Projektarbete` → `BTA009` (nedlagd 2008-05-22) — plain-text-referens |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Festival och Event Management` (7,5 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Turismstudier utomlands` (30 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Kvantitativa forskningsmetoder` (7,5 hp) |
+<!-- analys:end -->
+
 # STMGG
 
 **Programnamn:** International Tourism Management

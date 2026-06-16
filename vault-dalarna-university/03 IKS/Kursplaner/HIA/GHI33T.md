@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI33T
 up: "[[Historia]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Målet med kursen är att studenten fördjupar sina kunskaper om äldre och nyare historia samt om samtida globalhistoria. D… |
+> | Omfång på lärandemål | För många mål | 14 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 14 mål, engelska: 2 mål (diff 12) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning | `problemförmuleringsförmåga` (sv) |
+<!-- analys:end -->
+
 # GHI33T
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI33T)

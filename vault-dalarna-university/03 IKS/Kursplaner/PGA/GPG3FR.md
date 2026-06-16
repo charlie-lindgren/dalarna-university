@@ -15,6 +15,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FR
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examinationsformer saknas.… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Mål saknas.… |
+> | Omfång på lärandemål | För få mål | 0 lärandemål (minimum rekommenderat: 1 för 0 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 1 mål, engelska: 0 mål (diff 1) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (1 mål utan punktlista) |
+<!-- analys:end -->
+
 # GPG3FR
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FR)

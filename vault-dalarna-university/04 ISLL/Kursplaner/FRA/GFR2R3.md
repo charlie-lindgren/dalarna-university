@@ -15,6 +15,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2R3
 up: "[[Franska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på båda modulerna. Betygsrapportering: Modul… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras kontinuerligt genom aktivt deltagande vid seminarier, muntliga redovisningar och skriftliga inlämnings… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande på franska kunna:… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Franskspråkig litteratur I` → `FR1029` (nedlagd 2019-06-04); förkunskap nämner nedlagd kurs |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 5 mål, engelska: 4 mål (diff 1) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GFR2JC.… |
+<!-- analys:end -->
+
 # GFR2R3
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2R3)

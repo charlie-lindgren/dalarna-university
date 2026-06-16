@@ -14,6 +14,14 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA33Z
 up: "[[Matematik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
+<!-- analys:end -->
+
 # GMA33Z
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA33Z)

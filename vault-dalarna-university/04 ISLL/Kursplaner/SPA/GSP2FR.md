@@ -14,6 +14,21 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2FR
 up: "[[Spanska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom bedömning av aktivt deltagande i seminarier och forumdiskussioner, skriftliga reflekterande text… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att de studerande fördjupar sina kunskaper i språkdidaktiska teorier och skolans styrdokumen… |
+> | Omfång på lärandemål | Långt mål | 35 ord: - visa kunskap om elevers syn på och upplevelser av sitt språklärande samt refle… |
+> | Omfång på lärandemål | Långt mål | 35 ord: - diskutera och reflektera över samspelet mellan inre och yttre faktorer som är … |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 7 mål, engelska: 1 mål (diff 6) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: För nätbaserad kurs krävs tillgång till dator, headset, webbkamera och internetuppkoppling. Kursen innehåller två till t… |
+<!-- analys:end -->
+
 # GSP2FR
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2FR)

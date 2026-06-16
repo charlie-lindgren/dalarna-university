@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO2UC
 up: "[[Sociologi]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Betygsrapportering: Modul 1: Seminarier och individuell skriftlig hemtentamen 7,5 hp… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination görs genom aktivt deltagande i seminarier och individuell skriftlig tentamen.… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Det krävs att den studerande kan kommunicera med både ljud och bild via en dator Ersätter kursen GSO29C.… |
+<!-- analys:end -->
+
 # GSO2UC
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO2UC)

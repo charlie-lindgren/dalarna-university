@@ -15,6 +15,16 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI29Q
 up: "[[Historia]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Bloom-taxonomi | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,2,0,0,0,0] |
+> | Stavfel och språkbruk | Felstavning (en) | `consultaion` (en) |
+> | Stavfel och språkbruk | Felstavning (en) | `situatin` (en) |
+<!-- analys:end -->
+
 # AHI29Q
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI29Q)

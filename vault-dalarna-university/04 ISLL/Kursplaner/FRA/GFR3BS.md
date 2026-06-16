@@ -14,6 +14,20 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3BS
 up: "[[Franska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande fördjupar såväl sina kunskaper i franska och sin teoretiska medvetenhet i… |
+> | Omfång på lärandemål | För många mål | 18 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 27 ord: - visa förmåga att i skriftlig och muntlig form presentera och argumentera för e… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 18 mål, engelska: 1 mål (diff 17) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning (en) | `defens` (en) |
+> | Stavfel och språkbruk | Felstavning (en) | `ehtics` (en) |
+<!-- analys:end -->
+
 # GFR3BS
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3BS)

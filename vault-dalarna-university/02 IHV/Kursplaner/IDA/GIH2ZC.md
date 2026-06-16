@@ -15,6 +15,15 @@ up: "[[Idrotts- och hälsovetenskap]]"
 cssclasses: [vilande]
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | Långt mål | 26 ord: - diskutera och problematisera skolämnet idrott och hälsa utifrån olika didaktis… |
+> | Stavfel och språkbruk | Felstavning (en) | `movementorgans` (en) |
+<!-- analys:end -->
+
 # GIH2ZC
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZC)

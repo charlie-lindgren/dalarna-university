@@ -15,6 +15,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD33X
 up: "[[Matematikdidaktik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens… |
+> | Omfång på lärandemål | För många mål | 45 lärandemål (maximum rekommenderat: 15 för 45 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 45 mål, engelska: 7 mål (diff 38) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (7 mål utan punktlista) |
+<!-- analys:end -->
+
 # GMD33X
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD33X)

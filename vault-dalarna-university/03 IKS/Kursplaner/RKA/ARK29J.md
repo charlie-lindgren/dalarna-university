@@ -14,6 +14,14 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29J
 up: "[[Religionsvetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Religionsvetenskap III` → `GRK25S` (nedlagd 2023-03-01); förkunskap nämner nedlagd kurs |
+<!-- analys:end -->
+
 # ARK29J
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29J)

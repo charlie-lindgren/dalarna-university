@@ -15,6 +15,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3FP
 up: "[[Svenska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | Långt mål | 35 ord: - förklara samt redogöra för betydelsen av ordförråd och språkförståelse i eleve… |
+> | Omfång på lärandemål | Långt mål | 27 ord: - beskriva och problematisera särskilda utmaningar i läs- och skrivinlärning och… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+> | Stavfel och språkbruk | Felstavning | `framåtsiktande` (sv) |
+> | Stavfel och språkbruk | Felstavning (en) | `edcuation` (en) |
+<!-- analys:end -->
+
 # GSV3FP
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3FP)

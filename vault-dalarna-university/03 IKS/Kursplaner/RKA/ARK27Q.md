@@ -15,6 +15,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK27Q
 up: "[[Religionsvetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Modul 1: Seminarier, muntliga och skriftliga redovisningar, 7,5 hp… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker i form av aktivt deltagande vid seminarier samt skriftliga inlämningsuppgifter.… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Stavfel och språkbruk | Felstavning (en) | `tha` (en) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: För nätbaserad kurs krävs att studenten kan kommunicera med ljud och bild via en dator eller motsvarande utrustning.… |
+<!-- analys:end -->
+
 # ARK27Q
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK27Q)

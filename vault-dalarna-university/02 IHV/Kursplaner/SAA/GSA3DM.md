@@ -14,6 +14,21 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DM
 up: "[[Socialt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att den studerande ska tillägna sig kunskaper om välfärdsinsatser på individ-, grup… |
+> | Omfång på lärandemål | För många mål | 23 lärandemål (maximum rekommenderat: 10 för 15 hp) |
+> | Omfång på lärandemål | Långt mål | 28 ord: - visa förmåga att på grundläggande nivå tillämpa metoder i socialt arbete inom … |
+> | Omfång på lärandemål | Långt mål | 27 ord: - kunna redogöra för grundläggande metoder och arbetssätt som tillämpas i social… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 23 mål, engelska: 0 mål (diff 23) |
+> | Stavfel och språkbruk | Felstavning | `brukarperspektivinnebär` (sv) |
+> | Stavfel och språkbruk | Felstavning | `frånorganisationsperspektiv` (sv) |
+> | Stavfel och språkbruk | Felstavning | `somarbetslöshet` (sv) |
+<!-- analys:end -->
+
 # GSA3DM
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DM)

@@ -14,6 +14,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR22D
 up: "[[Turismvetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används A–F. Det slutliga betyget fastställs av examinator genom vägning av resultaten, baserat på resul… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig uppgift. (Mål 2, 3, 4, 5, 6, 7, 8) (4,5 hp) Aktivt deltagande i seminarier och uppgift som redovisas skriftlig… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | Stavfel och språkbruk | Felstavning | `samhållsvetenskap` (sv) |
+> | Stavfel och språkbruk | Felstavning | `värderigsförmåga` (sv) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Antalet examinationstillfällen är högst 5 av varje modul.… |
+<!-- analys:end -->
+
 # GTR22D
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR22D)

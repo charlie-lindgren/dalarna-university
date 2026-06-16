@@ -14,6 +14,20 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKI25K
 up: "[[Kinesiska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på delkurs 2. Betygsrapportering: Delkurs 1:… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: **Delkurs 1** examineras genom en skriftlig inlämningsuppgift i form av en systematisk litteraturstudie skriven på svens… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande ska kunna genomföra en kvalificerad och självständig vetenskaplig undersö… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - med högt ställda krav på skriftlig och muntlig kommunikationsförmåga, presente… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 12 mål, engelska: 1 mål (diff 11) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: För nätbaserad kurs krävs att den studerande kan kommunicera med ljud och bild via en dator eller motsvarande.… |
+<!-- analys:end -->
+
 # AKI25K
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKI25K)

@@ -14,6 +14,15 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKI2BN
 up: "[[Kinesiska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska den studerande kunna:… |
+> | Omfång på lärandemål | Långt mål | 26 ord: - analysera och formulera välgrundade perspektiv på centrala frågor i det samtid… |
+<!-- analys:end -->
+
 # AKI2BN
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKI2BN)

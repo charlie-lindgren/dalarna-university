@@ -15,6 +15,20 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2QV
 up: "[[Svenska som andraspråk]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på 22,5 hp. Betygsrapportering: Modul 1: And… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom skriftlig hemtentamen i samtliga delkurser. I samtliga delkurser utgör även aktivt deltagande i s… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande fördjupar… |
+> | Omfång på lärandemål | För många mål | 13 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 13 mål, engelska: 2 mål (diff 11) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ersätter GSS2MP. För nätbaserad kurs krävs att den studerande kan kommunicera med ljud och bild via en dator elle… |
+<!-- analys:end -->
+
 # GSS2QV
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2QV)

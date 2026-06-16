@@ -14,6 +14,16 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2A2
 up: "[[Svenska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande ska kunna genomföra en kvalificerad och självständig vetenskaplig undersö… |
+> | Omfång på lärandemål | Långt mål | 26 ord: - visa fördjupad förmåga att i tal och skrift beskriva och argumentera för den e… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
+<!-- analys:end -->
+
 # ASV2A2
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2A2)

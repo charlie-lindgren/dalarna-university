@@ -15,6 +15,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2MS
 up: "[[Ljud- och musikproduktion]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras kontinuerligt genom seminarier, skriftliga uppgifter, en skriftlig tentamen samt en avslutande kampanj… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenterna kunna:… |
+> | Omfång på lärandemål | För få mål | 2 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 2 mål, engelska: 0 mål (diff 2) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter LP1054.… |
+<!-- analys:end -->
+
 # GLP2MS
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2MS)

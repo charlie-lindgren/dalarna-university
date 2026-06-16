@@ -14,6 +14,21 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2P3
 up: "[[Religionsvetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på minst 9 hp. Betygsrapportering: Modul 1: … |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom muntliga redovisningar och skriftliga inlämningsuppgifter.… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens mål är uppdelade per delkurs.… |
+> | Omfång på lärandemål | Långt mål | 29 ord: - redogöra för, samt på ett reflekterat sätt diskutera komplexiteten i identitet… |
+> | Omfång på lärandemål | Långt mål | 29 ord: - redogöra för och problematisera olika synsätt på relationen mellan religion oc… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 10 mål, engelska: 2 mål (diff 8) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen kan inte användas i en examen tillsammans med kurserna _Religionsvetenskap III_, 30 hp och _Religionsvetenskap II… |
+<!-- analys:end -->
+
 # GRK2P3
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2P3)

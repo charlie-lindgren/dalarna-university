@@ -15,6 +15,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TN
 up: "[[Italienska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att erhålla betyget VG på hela kursen krävs VG på bägge modulerna. Betygsrapportering:… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Fortlöpande examinering sker genom bedömning av studenternas aktiva deltagande under seminarier och skriftliga redovisni… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Undervisning och lärandeaktiviteter är nätbaserade och sker med stöd av en lärplattform och digitala verktyg. Det föruts… |
+<!-- analys:end -->
+
 # GIT2TN
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TN)

@@ -14,6 +14,14 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA3FN
 up: "[[Nationalekonomi]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | Långt mål | 26 ord: - genomföra en enklare ekonomisk analys av utfallet på en marknad när exogena ef… |
+<!-- analys:end -->
+
 # GNA3FN
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA3FN)

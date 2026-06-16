@@ -13,6 +13,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI2MD
 up: "[[Mikrodataanalys]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Individuell muntlig och skriftlig redovisning av inlämningsuppgifter och gruppresentation … |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Individuell muntlig och skriftlig redovisning av inlämningsuppgifter och gruppresentation vid ett seminarium (5,5 hp) Te… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad utbildning ska den studerande kunna:… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GMI28V… |
+<!-- analys:end -->
+
 # GMI2MD
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI2MD)

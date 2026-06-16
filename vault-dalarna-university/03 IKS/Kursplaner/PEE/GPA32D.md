@@ -15,6 +15,15 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA32D
 up: "[[Personal och arbetsliv]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att studenten ska förstå hur vuxna människor lär och hur kompetensutveckling kan sk… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+<!-- analys:end -->
+
 # GPA32D
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA32D)

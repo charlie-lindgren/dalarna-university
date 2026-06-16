@@ -14,6 +14,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2K8
 up: "[[Turismvetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används A–F. Individuellt skriftligt arbete, U-VG Grupparbete kring ett case, U-G Indivuduell skriftlig … |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Individuellt skriftligt arbete, 2 hp Grupparbete kring ett case, 3 hp Indivuduell skriftlig tentamen 2,5 hp… |
+> | Frasningskonsistens | Avviker från referensformen | Efter slutförd kurs ska studenten kunna:… |
+> | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+<!-- analys:end -->
+
 # GTR2K8
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2K8)

@@ -15,6 +15,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2AY
 up: "[[Bildproduktion]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på 3 av modulerna. Betygsrapportering: Modul… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom praktiska och skriftliga inlämningsuppgifter, aktivt deltagande i seminarier och en audiovisuell … |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | Omfång på lärandemål | För många mål | 11 lärandemål (maximum rekommenderat: 10 för 15 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 11 mål, engelska: 0 mål (diff 11) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter BQ1103.… |
+<!-- analys:end -->
+
 # GBQ2AY
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2AY)

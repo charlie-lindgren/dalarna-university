@@ -14,6 +14,16 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BW
 up: "[[Engelska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - redogöra för och kritiskt reflektera över politiska, kulturella och etiska frå… |
+> | Stavfel och språkbruk | Felstavning (en) | `froming` (en) |
+<!-- analys:end -->
+
 # AEN2BW
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BW)

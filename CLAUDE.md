@@ -32,7 +32,7 @@ qa/                         Quality-control pipeline (Python)
   check_utbildningsplaner.py Reduced check set for programme plans
   checks_common.py          Shared helpers + 4 reusable language checks
   diff_rapporter.py         Compare two QA reports — resolved vs new findings
-  populate_analysfiler.py   Fill 03 Analys/ from latest report (also writes .xlsx alongside)
+  populate_analysfiler.py   Fill 0X {INST}/Analys/ from latest report (also writes .xlsx alongside) + a per-course callout atop each affected kursplan
   prune_analysfiler.py      Remove resolved rows from 03 Analys/
   identify_ej_aktiv.py      Tag courses no longer in du.se as ej-aktiv (orphan detector)
   rebuild_mocs.py           Rebuild all subject + institution hub files from vault state
@@ -126,7 +126,9 @@ python3 qa/prune_analysfiler.py --dry-run         # remove resolved rows
 
 Course-plan checks (11): duplicated words, known typos, hunspell sv/en, learning-outcome intro phrasing, grading scale, examination structure, learning-outcome count + length, Bloom verb level for advanced courses, Swedish/English parity. Programme-plan checks (4): duplicated words, known typos, hunspell sv/en. Hunspell requires `hunspell` + `sv_SE`/`en_US` dictionaries; without them, run with `--skip-hunspell`.
 
-The `vault-dalarna-university/03 Analys/` files are the editorial layer — `populate_analysfiler.py` writes the `> [!example]-` callout block from the latest QA report, while the surrounding prose (Syfte / Metod / Observationer / Rekommendationer) is curated by hand.
+The `vault-dalarna-university/0X {INST}/Analys/` files are the editorial layer — `populate_analysfiler.py` writes the `> [!example]-` callout block from the latest QA report, while the surrounding prose (Syfte / Metod / Observationer / Rekommendationer) is curated by hand.
+
+The same `populate_analysfiler.py` run also writes a **per-course callout** at the top of every kursplan that has at least one finding — a collapsible `> [!warning]-` table (Område / Problem / Detalj) delimited by `<!-- analys:start -->` / `<!-- analys:end -->`. Each row's *Område* maps back to the subject-level Analys dropdown. Courses with no remaining findings have any stale block stripped. No separate analysis nodes are created — the dropdown lives inside the kursplan itself, so the graph is unchanged. The block is rewritten by the scraper-overwrite + populate cycle, so run populate (menu 12, or the QC/full pipelines) after scraping to refresh it.
 
 ## Ej-aktiv detection
 

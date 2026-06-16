@@ -14,6 +14,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO2PL
 up: "[[Sociologi]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Bloom-taxonomi | Okänt ledande verb | 3 av 10 bullets har okänt ledande verb |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftliga inlämningsuppgifter, aktivt deltagande på seminarier, fältuppgift samt individuell hemtentamen.… |
+> | Omfång på lärandemål | För många mål | 10 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 10 mål, engelska: 0 mål (diff 10) |
+> | Stavfel och språkbruk | Dubblerat ord | `credits` — …7.5 credits, Psychological Perspectives on Social Work 7.5 credits credits and Welfare Measures and User Perspective 15 credits… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ingår i Socionomprogrammet. Kursen motsvarar GSO26K.… |
+<!-- analys:end -->
+
 # GSO2PL
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO2PL)

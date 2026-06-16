@@ -14,6 +14,21 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CL
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': -… |
+> | Omfång på lärandemål | För många mål | 27 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 29 ord: - redogöra för naturlandskapets förändringar och för människors utnyttjande av r… |
+> | Omfång på lärandemål | Långt mål | 27 ord: - med utgångspunkt i praktikens didaktiska villkor och utifrån ett hållbarhetspe… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 27 mål, engelska: 2 mål (diff 25) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning | `samhällorienterande` (sv) |
+> | Stavfel och språkbruk | Felstavning (en) | `sociaty` (en) |
+<!-- analys:end -->
+
 # GPG3CL
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CL)

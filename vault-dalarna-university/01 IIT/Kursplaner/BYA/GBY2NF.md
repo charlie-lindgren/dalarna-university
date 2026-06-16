@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2NF
 up: "[[Byggteknik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. Skriftlig tentamen U-3-4-5 Projektuppgift U-G Betyget på skriftlig tentamen utgör be… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig tentamen 3 hp Projektuppgift 2 hp… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet är att studenten skall tillägna sig kunskaper om laster och krafter i byggkonstruktioner samt gru… |
+> | Omfång på lärandemål | För många mål | 9 lärandemål (maximum rekommenderat: 6 för 5 hp) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter BY1032.… |
+<!-- analys:end -->
+
 # GBY2NF
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2NF)

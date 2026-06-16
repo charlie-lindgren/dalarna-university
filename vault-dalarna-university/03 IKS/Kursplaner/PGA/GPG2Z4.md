@@ -14,6 +14,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2Z4
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska den studerande kunna:… |
+> | Omfång på lärandemål | Långt mål | 27 ord: - visa kunskap om olika teoretiska perspektiv på utveckling och lärande samt vis… |
+> | Omfång på lärandemål | Långt mål | 27 ord: - visa förmåga att identifiera elevers behov av specialpedagogiska insatser, inb… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+<!-- analys:end -->
+
 # GPG2Z4
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2Z4)

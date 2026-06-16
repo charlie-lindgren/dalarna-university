@@ -14,6 +14,21 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR29Q
 up: "[[Turismvetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används A–F. Slutbetyget sätts efter samlad bedömning av alla delmoment.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig inlämningsuppgift (5 hp) Skriftlig tentamen (5 hp) Grupparbete (5 hp)… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna;… |
+> | Omfång på lärandemål | Långt mål | 27 ord: - Diskutera och visa förståelse för de tre dimensionerna ekologisk, social och e… |
+> | Stavfel och språkbruk | Felstavning | `förhållningssät` (sv) |
+> | Stavfel och språkbruk | Felstavning (en) | `assignement` (en) |
+> | Stavfel och språkbruk | Felstavning (en) | `implmented` (en) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter TR1028.… |
+<!-- analys:end -->
+
 # GTR29Q
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR29Q)

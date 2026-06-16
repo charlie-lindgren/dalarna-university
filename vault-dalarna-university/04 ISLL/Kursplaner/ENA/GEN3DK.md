@@ -14,6 +14,21 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DK
 up: "[[Engelska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att studenten fördjupar sina kunskaper om engelskämnets litteraturvetenskapliga grund. Ytter… |
+> | Omfång på lärandemål | För många mål | 13 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 27 ord: - inom givna tidsramar genomföra en självständig litteraturvetenskaplig studie m… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 13 mål, engelska: 1 mål (diff 12) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning (en) | `anlyses` (en) |
+> | Stavfel och språkbruk | Felstavning (en) | `indepently` (en) |
+> | Stavfel och språkbruk | Felstavning (en) | `knowlege` (en) |
+<!-- analys:end -->
+
 # GEN3DK
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DK)

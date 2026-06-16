@@ -14,6 +14,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DD
 up: "[[Svenska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande tillägnar sig grundläggande kunskaper om språkliga och innehållsliga möns… |
+> | Omfång på lärandemål | För många mål | 20 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 28 ord: - reflektera över texter och andra verktyg som medel för att stimulera elevers s… |
+> | Omfång på lärandemål | Långt mål | 35 ord: - tala och skriva i enlighet med de normer som finns för formell svenska och på … |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 20 mål, engelska: 2 mål (diff 18) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+<!-- analys:end -->
+
 # GSV3DD
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DD)

@@ -14,6 +14,22 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG24E
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 9 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Bloom-taxonomi | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [7,0,0,0,0,0] |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras dels i form av muntliga redoviningar individuellt och i grupp, dels genom individuella skriftliga inlä… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande ska utveckla fördjupade kunskaper om vetenskapsteori, kvalitativa och kva… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - visa fördjupad kunskap om och använda sig av centrala vetenskapsteoretiska beg… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 7 mål, engelska: 1 mål (diff 6) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning | `inlämingsuppgifter` (sv) |
+> | Stavfel och språkbruk | Felstavning (en) | `credtis` (en) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen motsvarar PG3036 och PG3060.… |
+<!-- analys:end -->
+
 # APG24E
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG24E)

@@ -15,6 +15,21 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG28B
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Bloom-taxonomi | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [10,0,0,0,0,0] |
+> | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska den studerande kunna:… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - visa förmåga att möta eleverna i den egna undervisningen genom att utgå från e… |
+> | Omfång på lärandemål | Långt mål | 32 ord: - visa förmåga att självständigt och tillsammans med andra planera, genomföra, u… |
+> | Omfång på lärandemål | Långt mål | 32 ord: - visa förmåga att med ett kritiskt förhållningssätt utifrån ämnesdidaktiska och… |
+> | Omfång på lärandemål | Långt mål | 26 ord: - visa förmåga att självständigt och kritiskt analysera, diskutera och reflekter… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 10 mål, engelska: 0 mål (diff 10) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Nätbaserad kurs, innehåller obligatorisk campusträff. Student som underkänts i mål knutna till kursens verksamhetsförlag… |
+<!-- analys:end -->
+
 # APG28B
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG28B)

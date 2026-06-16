@@ -14,6 +14,23 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29V
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 10 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska studenten på en fördjupad nivå kunna:… |
+> | Omfång på lärandemål | För många mål | 13 lärandemål (maximum rekommenderat: 10 för 9 hp) |
+> | Omfång på lärandemål | Långt mål | 26 ord: - aktivt delta i abortverksamhet och visa på självständighet i vården av kvinnor… |
+> | Omfång på lärandemål | Långt mål | 29 ord: - tillämpa ett professionellt förhållningssätt i kommunikation med vårdtagare oc… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 13 mål, engelska: 12 mål (diff 1) |
+> | Stavfel och språkbruk | Felstavning (en) | `carrid` (en) |
+> | Stavfel och språkbruk | Felstavning (en) | `focsing` (en) |
+> | Stavfel och språkbruk | Felstavning (en) | `havng` (en) |
+> | Stavfel och språkbruk | Felstavning (en) | `situaion` (en) |
+> | Stavfel och språkbruk | Felstavning (en) | `traied` (en) |
+<!-- analys:end -->
+
 # ASR29V
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29V)

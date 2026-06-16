@@ -14,6 +14,16 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2QS
 up: "[[Industriell ekonomi]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. Projekt, U-3-4-5 Inlämningsuppgifter, U-3-4-5 Slutbetyget på kursen ges av en samman… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Projekt, 4,5hp Inlämningsuppgifter, 3hp… |
+> | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+<!-- analys:end -->
+
 # GIE2QS
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2QS)

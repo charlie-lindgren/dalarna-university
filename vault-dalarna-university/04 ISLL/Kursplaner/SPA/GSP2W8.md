@@ -14,6 +14,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2W8
 up: "[[Spanska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen syftar till att ge den studerande en introduktion i och förberedelse för sin blivande yrkesroll som spansklärare … |
+> | Omfång på lärandemål | För många mål | 31 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 26 ord: - med utgångspunkt i elevers kunskapsbehov och individuella förutsättningar för … |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 31 mål, engelska: 1 mål (diff 30) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GSP2FY. Om den nätbaserade kursen läses som första ämne inom ämneslärarprogrammet krävs närvaro i Falun vid ter… |
+<!-- analys:end -->
+
 # GSP2W8
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2W8)

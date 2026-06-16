@@ -14,6 +14,21 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DG
 up: "[[Engelska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att studenten vidareutvecklar sina kunskaper om det engelska språket och om engelskämnets ve… |
+> | Omfång på lärandemål | För många mål | 14 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 28 ord: - förklara grundläggande typer av variation i det engelska språket, genom hänvis… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - redogöra för huvuddragen i de litterära och idéhistoriska epokerna inom den an… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - muntligt och skriftligt kommunicera sin egen såväl som andras tolkning av hist… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 14 mål, engelska: 1 mål (diff 13) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning (en) | `literarature` (en) |
+<!-- analys:end -->
+
 # GEN3DG
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DG)

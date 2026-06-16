@@ -14,6 +14,20 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASP25D
 up: "[[Spanska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom presentation och försvar av ett självständigt skriftligt examensarbete i uppsatsform. Examensarb… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande fördjupar såväl sina kunskaper i spanska och sin teoretiska medvetenhet i… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 9 mål, engelska: 1 mål (diff 8) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: För nätbaserad kurs krävs att den studerande har möjlighet att kommunicera med ljud och bild via dator.… |
+<!-- analys:end -->
+
 # ASP25D
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASP25D)

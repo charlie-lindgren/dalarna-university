@@ -15,6 +15,20 @@ up: "[[Personal och arbetsliv]]"
 cssclasses: [vilande]
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För betyget väl godkänd på kursen krävs betyget VG på både skriftlig tentamen samt skriftl… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig tentamen, 3,5 hp Skriftlig inlämningsuppgift, 4 hp… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Organisation - roller och intressenter` → `GPA356` (nedlagd 2026-02-11); förkunskap nämner nedlagd kurs |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att utveckla studentens ämneskunskap om organisationsförändringar som innefattar personalned… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | Stavfel och språkbruk | Felstavning | `tillvägagångsätt` (sv) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GPA2JY.… |
+<!-- analys:end -->
+
 # GPA2R6
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2R6)

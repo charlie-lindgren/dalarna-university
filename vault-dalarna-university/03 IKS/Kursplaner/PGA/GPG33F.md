@@ -14,6 +14,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG33F
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska den studerande kunna:… |
+> | Omfång på lärandemål | Långt mål | 32 ord: - visa förmåga att, utifrån skolans styrdokument, självständigt och i samarbete … |
+> | Omfång på lärandemål | Långt mål | 27 ord: - visa förmåga att tala och skriva i enlighet med normer för akademiskt språk oc… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
+<!-- analys:end -->
+
 # GPG33F
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG33F)

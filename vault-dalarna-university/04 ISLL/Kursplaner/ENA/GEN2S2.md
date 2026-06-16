@@ -14,6 +14,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2S2
 up: "[[Engelska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används A–F. Slutbetyg på kursen sätts efter en samlad bedömning av examinator. Betygsrapportering: Modu… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom aktivt deltagande i seminarier, inlämningsuppgifter, en muntlig presentation och ett skriftligt p… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att förbereda studenterna för arbetsmarknaden genom att utveckla deras förståelse av muntlig… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Engelska 6 motsvarar GERS nivå B2. Kursen ersätter EN1109.… |
+<!-- analys:end -->
+
 # GEN2S2
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2S2)

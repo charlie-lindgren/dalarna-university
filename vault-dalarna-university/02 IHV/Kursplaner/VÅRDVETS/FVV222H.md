@@ -13,6 +13,16 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=FVV222H
 up: "[[Forskarämne Vårdvetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G. För betyget godkänd på kursen krävs Godkänt på alla momenten listade nedan. Betygsrapporter… |
+> | Stavfel och språkbruk | Felstavning (en) | `isues` (en) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen är nätbaserad. Undervisning samt muntliga och skriftliga examinationer sker på engelska, om inte annat meddelas.… |
+<!-- analys:end -->
+
 # FVV222H
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FVV222H)

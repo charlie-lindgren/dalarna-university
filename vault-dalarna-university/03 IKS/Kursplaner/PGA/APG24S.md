@@ -14,6 +14,20 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG24S
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Bloom-taxonomi | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [3,0,0,0,0,0] |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom muntlig och skriftlig presentation och diskussion av seminarieuppgifter samt en individuell skrif… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande ska utveckla kunskap om utvärdering och utveckling av pedagogisk verksamh… |
+> | Omfång på lärandemål | Långt mål | 29 ord: - visa kunskaper om olika modeller för och teorier om utvärdering och skolutveck… |
+> | Omfång på lärandemål | Långt mål | 33 ord: - visa förmåga att kritiskt och självständigt tillämpa och reflektera över relev… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: I kursen ingår en obligatorisk träff motsvarande maximalt tre dagar på campus. Kursen motsvarar PG3045.… |
+<!-- analys:end -->
+
 # APG24S
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG24S)

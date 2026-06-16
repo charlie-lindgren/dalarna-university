@@ -8,6 +8,14 @@ scrape_hash: af81f6e91d396179
 up: "ISLL"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Svenska som andraspråk i ett utvecklingsperspektiv - vetenskapsteoretiska förklaringsmodeller och metodologiska perspektiv` (7,5 hp) |
+<!-- analys:end -->
+
 # HSVAA
 
 **Programnamn:** Magisterprogram i svenska som andraspråk

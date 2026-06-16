@@ -14,6 +14,15 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP3B2
 up: "[[Japanska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Japanska III` → `JP1012` (nedlagd 2009-12-01); förkunskap nämner nedlagd kurs |
+> | Omfång på lärandemål | Långt mål | 26 ord: - analysera och översätta olika typer av dokument från japanska till engelska oc… |
+<!-- analys:end -->
+
 # GJP3B2
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP3B2)

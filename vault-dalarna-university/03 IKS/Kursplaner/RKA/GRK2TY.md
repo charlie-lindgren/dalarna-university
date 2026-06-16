@@ -14,6 +14,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2TY
 up: "[[Religionsvetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget Väl godkänt på hela kursen krävs Väl godkänt på minst 22,5 hp Betygsrap… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: **Delkurs 1** examineras genom aktivt seminariedeltagande, muntlig och skriftlig redovisning samt genom hemtentamen. **D… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 9 mål, engelska: 2 mål (diff 7) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: För nätbaserad kurs krävs tillgång till dator, headset, webbkamera och internetuppkoppling. Ersätter GRK2DM.… |
+<!-- analys:end -->
+
 # GRK2TY
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2TY)

@@ -14,6 +14,21 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2BJ
 up: "[[Engelska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på minst 10,5 hp. Betygsrapportering: Modul … |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Alla delkurser examineras genom aktivt deltagande i seminarier samt muntliga och skriftliga inlämningsuppgifter.… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande efter avslutad kurs visar en god muntlig och skriftlig kommunikativ förmå… |
+> | Omfång på lärandemål | För många mål | 19 lärandemål (maximum rekommenderat: 10 för 15 hp) |
+> | Omfång på lärandemål | Långt mål | 28 ord: - muntligt och skriftligt diskutera och motivera val av innehåll, material och a… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 19 mål, engelska: 1 mål (diff 18) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen innehåller 1-2 fältdagar på en VFU-skola och en obligatorisk campusträff på max 3 dagar för samtliga studenter, o… |
+<!-- analys:end -->
+
 # GEN2BJ
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2BJ)

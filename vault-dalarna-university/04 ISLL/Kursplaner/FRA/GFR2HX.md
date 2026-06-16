@@ -13,6 +13,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2HX
 up: "[[Franska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på både modul 1 och 2. Betygsrapportering: M… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras fortlöpande genom den muntliga prestationen på seminarier, skriftliga inlämningsuppgifter och inspelni… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: För att tillgodogöra sig kursen krävs kunskaper i svenska. Ersätter GFR25M.… |
+<!-- analys:end -->
+
 # GFR2HX
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2HX)

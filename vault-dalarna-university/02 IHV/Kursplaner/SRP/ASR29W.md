@@ -14,6 +14,15 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29W
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | Långt mål | 26 ord: - aktivt delta i vård av kvinnor med normal graviditet inför, under och efter fö… |
+> | Stavfel och språkbruk | Felstavning (en) | `ofa` (en) |
+<!-- analys:end -->
+
 # ASR29W
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29W)

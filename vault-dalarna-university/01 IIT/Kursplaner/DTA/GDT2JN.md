@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT2JN
 up: "[[Datateknik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Nätverkslaboration, 3,5hp Skriftlig tentamen, 2hp Muntlig och praktisk redovisning av laboration, 2hp… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs skall studenten kunna:… |
+> | Omfång på lärandemål | Långt mål | 29 ord: - Praktiskt konfigurera och implementera tekniker som möjliggör trådlös kommunik… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter DT1066.… |
+<!-- analys:end -->
+
 # GDT2JN
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT2JN)

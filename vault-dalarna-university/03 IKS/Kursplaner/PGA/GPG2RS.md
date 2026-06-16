@@ -14,6 +14,25 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2RS
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 12 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För betyget Väl godkänd på kursen krävs Väl godkänd på delkurs 2, 10 hp samt minst betyget… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Delkurs ”Specialpedagogik och ämnesdidaktik” examineras genom muntlig och skriftlig presentation och diskussion av semin… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': -… |
+> | Omfång på lärandemål | För många mål | 16 lärandemål (maximum rekommenderat: 10 för 15 hp) |
+> | Omfång på lärandemål | Långt mål | 31 ord: - visa kunskap om olika orsaker till elevers behov av specialpedagogiska insatse… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - visa grundläggande kunskap om olika teoretiska perspektiv på specialpedagogik … |
+> | Omfång på lärandemål | Långt mål | 27 ord: - visa kunskap om undervisning, lärande och bedömning inom ett ämnesdidaktiskt a… |
+> | Omfång på lärandemål | Långt mål | 39 ord: - visa förmåga att självständigt och tillsammans med andra planera, genomföra oc… |
+> | Omfång på lärandemål | Långt mål | 36 ord: - visa förmåga att självständigt och kritiskt analysera, diskutera och reflekter… |
+> | Omfång på lärandemål | Långt mål | 31 ord: - visa förmåga till etiskt och medvetet förhållningssätt vid muntlig och skriftl… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 16 mål, engelska: 15 mål (diff 1) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Nätbaserad kurs, innehåller obligatoriska campusträffar. Student som underkänts i mål knutna till kursens verksamhetsför… |
+<!-- analys:end -->
+
 # GPG2RS
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2RS)

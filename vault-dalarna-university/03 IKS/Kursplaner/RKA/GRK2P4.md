@@ -15,6 +15,21 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2P4
 up: "[[Religionsvetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på minst 24 hp. Betygsrapportering: Modul 1:… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom aktivt deltagande i seminarier, muntliga redovisningar, skriftliga inlämningsuppgifter, uppsats … |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att förbereda den studerande för religionskunskapsundervisning inom gymnasieskolan.… |
+> | Omfång på lärandemål | För många mål | 22 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 26 ord: - diskutera och reflektera över hur normkritiska aspekter kan bidra till en förd… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 22 mål, engelska: 2 mål (diff 20) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GRK2CD.… |
+<!-- analys:end -->
+
 # GRK2P4
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2P4)

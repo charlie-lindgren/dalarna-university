@@ -14,6 +14,15 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG3AT
 up: "[[Kulturgeografi]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Stavfel och språkbruk | Felstavning | `tilllämpas` (sv) |
+> | Stavfel och språkbruk | Felstavning (en) | `writtten` (en) |
+<!-- analys:end -->
+
 # GKG3AT
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG3AT)

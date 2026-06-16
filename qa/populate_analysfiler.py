@@ -12,6 +12,11 @@ Idempotent: hittar callout-blocket `> [!example]- ... fynd ...` i analysfilen,
 och ersätter det med ett nytt block byggt från rapporten. All övrig prosa
 (syfte, metod, observationer, rekommendationer) lämnas orörd.
 
+Skriver dessutom en kursspecifik callout överst i varje kursplan som har minst
+ett fynd (avgränsad av `<!-- analys:start -->` / `<!-- analys:end -->`), och tar
+bort blocket från kursplaner utan kvarvarande fynd. Inga separata analysnoder
+skapas — dropdownen ligger direkt i kursplanen. Se ``populate_kursplan_callouts``.
+
 Användning:
     python3 qa/populate_analysfiler.py [--rapport <fil>] [--dry-run]
 
@@ -140,6 +145,41 @@ KURSPLAN_URL = "https://www.du.se/sv/utbildning/kurser/kursplan/?code={code}"
 UTBILDNINGSPLAN_URL = "https://www.du.se/sv/utbildning/Program/utbildningsplan/?code={code}"
 
 
+def build_section_area_map() -> dict[str, tuple[str, str]]:
+    """Platta ut ANALYS_FILES till ``rapport-sektion → (område, problem-etikett)``.
+
+    Området är analysfilens namn utan ``.md`` (t.ex. "Stavfel och språkbruk"),
+    så att varje rad i en kursplans egen callout pekar tillbaka på motsvarande
+    ämnesdropdown. Varje sektion förekommer i exakt en analysfil, så mappningen
+    är entydig."""
+    m: dict[str, tuple[str, str]] = {}
+    for filename, section_map in ANALYS_FILES.items():
+        area = filename[:-3] if filename.endswith(".md") else filename
+        for section_label, problem_label in section_map.items():
+            m[section_label] = (area, problem_label)
+    return m
+
+
+def build_code_to_path_map(subfolder: str) -> dict[str, Path]:
+    """Bygg ``kod → planfil`` för alla planer i ``subfolder`` (``Kursplaner`` eller
+    ``Utbildningsplaner``) tvärs institutionerna. Hubbar (MOC) och filer vars namn
+    inte ser ut som en kod hoppas över. Används för att skriva en plan-specifik
+    callout direkt i filen."""
+    mapping: dict[str, Path] = {}
+    for dirname in INST_DIR_NAME.values():
+        base = VAULT / dirname / subfolder
+        if not base.exists():
+            continue
+        for md in base.rglob("*.md"):
+            stem = md.stem
+            if "MOC" in stem:
+                continue
+            if not COURSE_CODE_RE.match(stem):
+                continue
+            mapping[stem] = md
+    return mapping
+
+
 def plan_url_for(subj: str, code: str) -> str:
     """Välj rätt du.se-URL beroende på om raden gäller en kurs- eller
     utbildningsplan. Kontrollerna i ``checks_nedlagda`` sätter ``subj`` till
@@ -254,6 +294,144 @@ def build_callout(
         cell_detail = detail.replace("##", r"\##")
         lines.append(f"> | [{code}]({url}) | {subj} | {problem} | {cell_detail} |")
     return lines
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Kursspecifik callout (skrivs in överst i varje drabbad kursplan)
+# ─────────────────────────────────────────────────────────────────────────────
+# HTML-kommentarsmarkörer avgränsar blocket så att det kan hittas, ersättas och
+# tas bort idempotent. Quartz renderar inte HTML-kommentarer, så de syns aldrig.
+KURSPLAN_BLOCK_START = "<!-- analys:start -->"
+KURSPLAN_BLOCK_END   = "<!-- analys:end -->"
+KURSPLAN_BLOCK_RE = re.compile(
+    r"\n*[ \t]*"
+    + re.escape(KURSPLAN_BLOCK_START)
+    + r".*?"
+    + re.escape(KURSPLAN_BLOCK_END)
+    + r"[ \t]*\n*",
+    re.DOTALL,
+)
+
+
+def strip_kursplan_block(text: str) -> str:
+    """Ta bort ett befintligt analysblock (och omgivande blankrader) ur en
+    kursplan. Ersätts med en enkel blankradsseparator så att texten är stabil
+    vid upprepade körningar."""
+    if KURSPLAN_BLOCK_START not in text:
+        return text
+    return KURSPLAN_BLOCK_RE.sub("\n\n", text)
+
+
+def build_plan_callout(rows: list[tuple[str, str, str]], noun: str) -> list[str]:
+    """rows = [(område, problem, detalj), ...] → markörinramat callout-block.
+
+    Lägger varje kvalitetsnotering för *en* plan i en hopfälld callout. ``noun``
+    är "kursplan" eller "utbildningsplan". Området knyter raden till motsvarande
+    ämnes-/programanalys-dropdown utan att skapa en separat analysnod i grafen."""
+    n = len(rows)
+    notering = "kvalitetsnotering" if n == 1 else "kvalitetsnoteringar"
+    lines = [
+        KURSPLAN_BLOCK_START,
+        f"> [!warning]- {n} {notering} i denna {noun} — klicka för att expandera",
+        ">",
+        "> | Område | Problem | Detalj |",
+        "> | --- | --- | --- |",
+    ]
+    for area, problem, detail in rows:
+        # Escapa `##` (rubrik/tagg) och `|` (kolumnavgränsare) så att det citerade
+        # kursplansutdraget inte bryter tabellen.
+        cell_detail = detail.replace("##", r"\##").replace("|", r"\|")
+        lines.append(f"> | {area} | {problem} | {cell_detail} |")
+    lines.append(KURSPLAN_BLOCK_END)
+    return lines
+
+
+def insert_kursplan_block(text: str, block_lines: list[str]) -> str:
+    """Skriv in ett analysblock direkt efter frontmatter, överst i kursplanen.
+
+    Ett eventuellt tidigare block tas bort först, så funktionen är idempotent."""
+    text = strip_kursplan_block(text)
+    lines = text.split("\n")
+    insert_at = 0
+    if lines and lines[0].strip() == "---":
+        for i in range(1, len(lines)):
+            if lines[i].strip() == "---":
+                insert_at = i + 1
+                break
+    new_lines = lines[:insert_at] + [""] + block_lines + lines[insert_at:]
+    return "\n".join(new_lines)
+
+
+def dedup_plan_rows(
+    rows: list[tuple[str, str, str, str]],
+) -> list[tuple[str, str, str]]:
+    """Deduplicera fynd inom *en* plan, per (område, token) — samma logik som
+    analysfilerna använder per fil, så att planens callout speglar unionen av
+    analysdropdownarna. rows = [(område, problem, detalj, token), ...]."""
+    best: dict[tuple[str, str], tuple[str, str, str]] = {}
+    order: list[tuple[str, str]] = []
+    for area, problem, detail, token in rows:
+        key = (area, token)
+        if key not in best:
+            best[key] = (area, problem, detail)
+            order.append(key)
+        elif "→" in detail and "→" not in best[key][2]:
+            best[key] = (area, problem, detail)
+    return [best[k] for k in order]
+
+
+def populate_plan_callouts(
+    rapport_rows: list[tuple[str, str, str, str]],
+    code_to_path: dict[str, Path],
+    noun: str,
+    dry_run: bool,
+) -> None:
+    """Skriv/uppdatera/ta bort en plan-specifik callout överst i varje plan i
+    ``code_to_path`` som har minst ett fynd. Planer utan fynd får ett eventuellt
+    gammalt block borttaget, så funktionen konvergerar mot vault-tillståndet.
+
+    Fynden routas till rätt plan enbart via kodträff mot ``code_to_path`` —
+    kurskoder och programkoder lever i skilda mappar, så en kursplan får bara
+    kursfynd och en utbildningsplan bara programfynd."""
+    section_area = build_section_area_map()
+
+    per_plan: dict[str, list[tuple[str, str, str, str]]] = defaultdict(list)
+    for sec, code, subj, detail in rapport_rows:
+        area_problem = section_area.get(sec)
+        if area_problem is None or code not in code_to_path:
+            continue
+        area, problem = area_problem
+        m = DETAIL_TOKEN_RE.search(detail)
+        token = m.group(1).lower() if m else detail
+        per_plan[code].append((area, problem, detail, token))
+
+    written = removed = 0
+    for code, path in sorted(code_to_path.items()):
+        # Läs/skriv som bytes så att radslut (vissa scrapade planer har kvar \r\n
+        # i enstaka rader) bevaras exakt — annars skulle read_text normalisera
+        # dem och skapa brus utöver själva callout-blocket, och slåss med scrapern.
+        original = path.read_bytes().decode("utf-8")
+        raw = per_plan.get(code)
+        if raw:
+            rows = dedup_plan_rows(raw)
+            rows.sort(key=lambda r: (r[0], r[1]))
+            new_text = insert_kursplan_block(original, build_plan_callout(rows, noun))
+        else:
+            new_text = strip_kursplan_block(original)
+
+        if new_text == original:
+            continue
+        if raw:
+            written += 1
+        else:
+            removed += 1
+        if not dry_run:
+            path.write_bytes(new_text.encode("utf-8"))
+
+    verb = "skulle skrivas" if dry_run else "skrev"
+    print(f"\n  {CYAN}{noun.capitalize()}-callouts{RESET}")
+    print(f"    {GREEN}{verb} {written}{RESET} {noun}er med fynd, "
+          f"{YELLOW}rensade {removed}{RESET} utan kvarvarande fynd")
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -455,6 +633,16 @@ def main():
     if unmapped:
         print(f"\n  {YELLOW}{len(unmapped)} kurs(er) gick inte att klassa till institution"
               f" och hoppades över: {', '.join(sorted(unmapped))}{RESET}")
+
+    # Skriv den plan-specifika dropdownen överst i varje drabbad kurs- och
+    # utbildningsplan. Detta speglar samma fynd som analysfilerna ovan, fast per
+    # plan; varje plan får bara de fynd vars kod matchar planen.
+    populate_plan_callouts(
+        rapport_rows, build_code_to_path_map("Kursplaner"), "kursplan", dry_run
+    )
+    populate_plan_callouts(
+        rapport_rows, build_code_to_path_map("Utbildningsplaner"), "utbildningsplan", dry_run
+    )
 
     print()
 

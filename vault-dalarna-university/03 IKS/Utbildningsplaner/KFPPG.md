@@ -8,6 +8,14 @@ scrape_hash: 804baa3c34db07a5
 up: "IKS"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Stavfel och språkbruk | Felstavning | `göran` (sv) |
+<!-- analys:end -->
+
 # KFPPG
 
 **Programnamn:** Filmproduktionsprogrammet

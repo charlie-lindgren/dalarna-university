@@ -8,6 +8,17 @@ scrape_hash: 22d2bfaf6d06f0d7
 up: "IIT"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Datakommunikation I` (7,5 hp) — sannolikt avses `Datakommunikation 1` (kurskod `GDT2JM`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Data Storage & Management Technologies` (7,5 hp) — sannolikt avses `Data Storage and Management Technologies` (kurskod `GIK2NV`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `System- och verksamhetsutveckling` ≠ kursplanens namn `System och verksamhetsutveckling` (kurskod `GIK2XZ`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Webbaserade geografiska informationssystem` ≠ kursplanens namn `Webbaserade geografiska informationssystem (GIS)` (kurskod `GIK2JX`) |
+<!-- analys:end -->
+
 # DSVPG
 
 **Programnamn:** Systemvetenskapliga programmet

@@ -8,6 +8,14 @@ scrape_hash: 46d3e9b3503e47d1
 up: "IHV"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Media och kommunikation inom idrott` (7,5hp) |
+<!-- analys:end -->
+
 # VIDRG
 
 **Programnamn:** Idrottstränarprogrammet

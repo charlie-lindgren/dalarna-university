@@ -15,6 +15,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2WA
 up: "[[Franska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens mål är att de studerande utvecklar grundläggande kunskaper i det franska språket, om franskspråkig kultur och li… |
+> | Omfång på lärandemål | För många mål | 32 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 26 ord: - med utgångspunkt i elevers kunskapsbehov och individuella förutsättningar för … |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 32 mål, engelska: 1 mål (diff 31) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GFR2J8. För nätbaserad kurs krävs att den studerande kan kommunicera med ljud och bild via en dator eller motsv… |
+<!-- analys:end -->
+
 # GFR2WA
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2WA)

@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2KM
 up: "[[Informatik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Slutbetygets nivå fastställs genom en sammanvägning av inlämningsuppgifter och duggor.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Inlämningsuppgifter (2,5 hp), laborationer (3 hp) och duggor (2 hp).… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet är att studenten ska förvärva fördjupade kunskaper och färdigheter i att använda och utveckla mju… |
+> | Omfång på lärandemål | För många mål | 10 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
+> | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+<!-- analys:end -->
+
 # GIK2KM
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2KM)

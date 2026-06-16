@@ -15,6 +15,20 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2KR
 up: "[[Franska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används A–F.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom författande av ett vetenskapligt examensarbete, försvarande av texten samt opponering av en anna… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Franskspråkig litteratur II` → `FR1072` (nedlagd 2019-06-04); förkunskap nämner nedlagd kurs |
+> | Omfång på lärandemål | Långt mål | 26 ord: - samla in relevant språkvetenskapligt eller litterärt material på franska för e… |
+> | Omfång på lärandemål | Långt mål | 30 ord: - författa ett skriftligt teoretiskt arbete, på god franska där studenten använd… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GFR2AS.… |
+<!-- analys:end -->
+
 # GFR2KR
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2KR)

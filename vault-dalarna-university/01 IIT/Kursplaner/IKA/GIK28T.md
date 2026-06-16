@@ -14,6 +14,16 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK28T
 up: "[[Informatik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna… |
+> | Omfång på lärandemål | Långt mål | 26 ord: - Redogöra för val av forskningsansats i relation till forskningsfrågor och kuns… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Examensarbetet är ett självständigt arbete, men kan med fördel utföras i grupper om två studenter, gärna i samarbete i f… |
+<!-- analys:end -->
+
 # GIK28T
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK28T)

@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CJ
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att studenten ska utveckla sitt pedagogiska ledarskap där förmågan att kommunicera och aktiv… |
+> | Omfång på lärandemål | För många mål | 11 lärandemål (maximum rekommenderat: 10 för 15 hp) |
+> | Omfång på lärandemål | Långt mål | 26 ord: - självständigt och med stöd av verksamma lärare planera, genomföra, diskutera o… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 11 mål, engelska: 2 mål (diff 9) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+<!-- analys:end -->
+
 # GPG3CJ
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CJ)

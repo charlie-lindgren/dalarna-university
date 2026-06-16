@@ -8,6 +8,16 @@ scrape_hash: 8ab451fa7d9d897d
 up: "ISLL"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Undervisning och ledarskap` (15 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Ämnesdidaktik och specialpedagogik` (15 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Professionellt lärarskap och skolutveckling` (15 hp) |
+<!-- analys:end -->
+
 # LYSLA
 
 **Programnamn:** Yrkeslärarprogrammet

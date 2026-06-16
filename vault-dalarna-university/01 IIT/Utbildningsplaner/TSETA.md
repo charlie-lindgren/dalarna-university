@@ -8,6 +8,14 @@ scrape_hash: 91bc96c865ee3489
 up: "IIT"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Design av PV hybrid system` (7,5 hp) — sannolikt avses `Design av PV- och hybridsystem` (kurskod `AEG26X`) |
+<!-- analys:end -->
+
 # TSETA
 
 **Programnamn:** Magisterprogram i solenergiteknik

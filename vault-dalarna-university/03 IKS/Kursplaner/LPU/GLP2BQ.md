@@ -15,6 +15,18 @@ up: "[[Ljud- och musikproduktion]]"
 cssclasses: [vilande]
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att erhålla betyget _Väl godkänd_ på hela kursen krävs betyget _Väl godkänd_ på båda m… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Modul 1 examineras individuellt genom en skriftlig projektplan. Modul 2 examineras med en gruppvis muntlig och skriftlig… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter LP1055 och LP1076.… |
+<!-- analys:end -->
+
 # GLP2BQ
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2BQ)

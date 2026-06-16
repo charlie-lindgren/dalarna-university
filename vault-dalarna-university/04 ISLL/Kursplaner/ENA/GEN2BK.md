@@ -14,6 +14,20 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2BK
 up: "[[Engelska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på minst 10,5 hp. Betygsrapportering: Modul … |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Samtliga delkurser examineras genom aktivt deltagande i seminarier, samt muntliga och skriftliga uppgifter.… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att… |
+> | Omfång på lärandemål | För många mål | 17 lärandemål (maximum rekommenderat: 10 för 15 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 17 mål, engelska: 1 mål (diff 16) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen innehåller 1-2 fältdagar på VFU-skola och en obligatorisk campusträff på max 3 dagar för samtliga studenter, oavs… |
+<!-- analys:end -->
+
 # GEN2BK
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2BK)

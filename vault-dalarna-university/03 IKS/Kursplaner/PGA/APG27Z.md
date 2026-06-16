@@ -15,6 +15,25 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG27Z
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 12 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Bloom-taxonomi | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [12,0,0,0,0,0] |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': .… |
+> | Omfång på lärandemål | För många mål | 12 lärandemål (maximum rekommenderat: 10 för 15 hp) |
+> | Omfång på lärandemål | Långt mål | 30 ord: - visa kunskap om olika modeller för och teorier om utvärdering och skolutveckli… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - visa kunskap om utbildning för hållbar utveckling och professionellt lärarskap… |
+> | Omfång på lärandemål | Långt mål | 34 ord: - visa förmåga att formulera ett bidrag till en hållbar utveckling av lärarprofe… |
+> | Omfång på lärandemål | Långt mål | 29 ord: - visa förmåga att möta eleverna i det egna undervisningsämnet genom att utgå fr… |
+> | Omfång på lärandemål | Långt mål | 32 ord: - visa fördjupad förmåga att självständigt planera, genomföra, utvärdera och utv… |
+> | Omfång på lärandemål | Långt mål | 27 ord: - visa förmåga att självständigt och kritiskt analysera, diskutera och reflekter… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 12 mål, engelska: 2 mål (diff 10) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Nätbaserad kurs, innehåller obligatoriska campusträffar. Student som underkänts i mål knutna till kursens verksamhetsför… |
+<!-- analys:end -->
+
 # APG27Z
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG27Z)

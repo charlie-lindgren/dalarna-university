@@ -15,6 +15,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2CA
 up: "[[Entreprenörskap och innovationsteknik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. På de olika delmomenten kan något av följande betyg erhållas: Individuell skriftlig inlämn… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Individuell skriftlig inlämningsuppgift samt aktivt deltagande vid seminarium, 5 hp (examinerar mål 1, 2, 3, 4) Reflekti… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter EU1030.… |
+<!-- analys:end -->
+
 # GEU2CA
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2CA)

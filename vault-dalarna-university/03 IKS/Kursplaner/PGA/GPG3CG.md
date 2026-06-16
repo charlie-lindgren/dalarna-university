@@ -14,6 +14,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CG
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att studenten fördjupar sin didaktiska förmåga att… |
+> | Omfång på lärandemål | För många mål | 13 lärandemål (maximum rekommenderat: 10 för 15 hp) |
+> | Omfång på lärandemål | Långt mål | 27 ord: - argumentera, vetenskapligt i tal och skrift, för val av innehåll och arbetsfor… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 13 mål, engelska: 2 mål (diff 11) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning (en) | `perspecitves` (en) |
+<!-- analys:end -->
+
 # GPG3CG
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CG)

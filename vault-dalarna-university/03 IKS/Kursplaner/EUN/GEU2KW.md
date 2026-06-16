@@ -15,6 +15,16 @@ up: "[[Entreprenörskap och innovationsteknik]]"
 cssclasses: [vilande]
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Skriftlig dugga: U, G För betyget Väl godkänd på kursen krävs betyget Väl Godkänd på indiv… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig dugga, 2,5 hp (examinerar mål 1) Individuell skriftlig inlämningsuppgift samt aktivt deltagande vid seminarium… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter EU1031. Den som antagits till och registrerats på kursen har rätt att erhålla undervisning och/eller handlednin… |
+<!-- analys:end -->
+
 # GEU2KW
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2KW)

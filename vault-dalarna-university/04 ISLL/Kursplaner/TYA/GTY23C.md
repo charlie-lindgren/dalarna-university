@@ -15,6 +15,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY23C
 up: "[[Tyska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examinationen sker löpande genom aktivt deltagande i seminarier och skriftliga inlämningsuppgifter.… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Tyska` → `TYC001` (nedlagd 2008-09-18); förkunskap nämner nedlagd kurs |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen ger en introduktion till tyskspråkig barn- och ungdomslitteratur med tonvikt på samtida texter. Litteratur i olik… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen riktar sig dels till blivande och yrkesverksamma lärare, dels till övriga intresserade.… |
+<!-- analys:end -->
+
 # GTY23C
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY23C)

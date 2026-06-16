@@ -14,6 +14,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2ZV
 up: "[[Svenska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande utvecklar grundläggande kunskaper om barns språk, språkkompetens, språkut… |
+> | Omfång på lärandemål | För många mål | 23 lärandemål (maximum rekommenderat: 10 för 15 hp) |
+> | Omfång på lärandemål | Långt mål | 26 ord: - redogöra för olika sätt att betrakta språk och för vilken betydelse olika språ… |
+> | Omfång på lärandemål | Långt mål | 26 ord: - visa kunskap om skönlitterära genrer och litteraturvetenskapliga begrepp samt … |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 23 mål, engelska: 2 mål (diff 21) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+<!-- analys:end -->
+
 # GSV2ZV
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2ZV)

@@ -15,6 +15,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2VE
 up: "[[Engelska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Omfång på lärandemål | För få mål | 3 lärandemål (minimum rekommenderat: 4 för 12 hp) |
+> | Omfång på lärandemål | Långt mål | 33 ord: - analysera litteratur från den engelskspråkiga världen med hjälp av relevant li… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ersätter EN1120.… |
+<!-- analys:end -->
+
 # GEN2VE
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2VE)

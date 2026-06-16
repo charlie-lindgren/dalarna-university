@@ -8,6 +8,15 @@ scrape_hash: 53790901df964cfa
 up: "IKS"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Makroekonomi introduktion` (7,5 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Mikroekonomi introduktion` (7,5 hp) |
+<!-- analys:end -->
+
 # SBMPG
 
 **Programnamn:** Business Managementprogrammet - Kandidatprogram i företagsekonomi

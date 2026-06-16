@@ -14,6 +14,16 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP39X
 up: "[[Japanska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska studenterna kunna:… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Japanska III` → `JP1012` (nedlagd 2009-12-01); förkunskap nämner nedlagd kurs |
+> | Omfång på lärandemål | För få mål | 3 lärandemål (minimum rekommenderat: 4 för 15 hp) |
+<!-- analys:end -->
+
 # GJP39X
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP39X)

@@ -15,6 +15,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFT2C9
 up: "[[Fysioterapi]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | Långt mål | 29 ord: - genomföra en vetenskaplig undersökning med relevant design, metod och analys s… |
+> | Omfång på lärandemål | Långt mål | 36 ord: - analysera och värdera resultat från den vetenskapliga undersökningen i relatio… |
+> | Omfång på lärandemål | Långt mål | 26 ord: - presentera, sammanfatta och försvara eget självständigt arbete, samt som oppon… |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (7 mål utan punktlista) |
+<!-- analys:end -->
+
 # AFT2C9
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFT2C9)

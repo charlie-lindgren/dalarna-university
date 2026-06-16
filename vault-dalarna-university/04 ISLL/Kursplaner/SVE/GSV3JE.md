@@ -15,6 +15,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3JE
 up: "[[Svenska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att den studerande utvecklar teoretiska och didaktiska kunskaper om barns språk-, l… |
+> | Omfång på lärandemål | Långt mål | 31 ord: - redogöra för, välja och tillämpa olika metoder och material i läs- och skrivun… |
+> | Omfång på lärandemål | Långt mål | 31 ord: - reflektera över barns bruk av skrift och andra medier i och utanför skolan sam… |
+> | Omfång på lärandemål | Långt mål | 26 ord: - självständigt tala och skriva i enlighet med de normer som finns för formell s… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+<!-- analys:end -->
+
 # GSV3JE
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3JE)

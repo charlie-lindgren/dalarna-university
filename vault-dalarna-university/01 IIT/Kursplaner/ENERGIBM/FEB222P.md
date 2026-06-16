@@ -14,6 +14,17 @@ up: "[[Forskarämne Energisystem i byggd miljö]]"
 cssclasses: [vilande]
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: • inlämningsuppgifter • muntlig presentation • seminarier… |
+> | Omfång på lärandemål | För många mål | 7 lärandemål (maximum rekommenderat: 6 för 4.5 hp) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Doktorand som inte är antagen vid någon av Högskola Dalarnas forskarutbildningar antas i mån av plats. Kursen ges på eng… |
+<!-- analys:end -->
+
 # FEB222P
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222P)

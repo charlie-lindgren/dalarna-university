@@ -51,7 +51,7 @@ print_menu() {
     echo -e "    ${BOLD}9.${RESET}  QA kursplaner (rapport)"
     echo -e "   ${BOLD}10.${RESET}  QA utbildningsplaner (rapport)"
     echo -e "   ${BOLD}11.${RESET}  Jämför kursplan-rapporter (lösta/nya fynd)"
-    echo -e "   ${BOLD}12.${RESET}  Populera analysfilerna (från senaste rapport)"
+    echo -e "   ${BOLD}12.${RESET}  Populera analysfilerna + kursplan-callouts (från senaste rapport)"
     echo -e "   ${BOLD}13.${RESET}  Rensa analysfilerna (ta bort lösta fynd)"
     echo -e "   ${BOLD}14.${RESET}  ${BOLD}Kör alla QC-steg${RESET} (9 + 10 + 12)"
     echo ""
@@ -309,7 +309,11 @@ run_diff() {
 
 # ── steg: populera analysfilerna ────────────────────────────────────────────
 run_populate() {
-    echo -e "${BOLD}Populera analysfilerna${RESET}"
+    echo -e "${BOLD}Populera analysfilerna + kursplan-callouts${RESET}"
+    echo ""
+    echo "Fyller varje institutions analysfiler från senaste rapporten och"
+    echo "skriver en kursspecifik dropdown överst i varje kursplan med fynd"
+    echo "(tar bort den från kursplaner utan kvarvarande fynd)."
     echo ""
     "$PYTHON" qa/populate_analysfiler.py
 }

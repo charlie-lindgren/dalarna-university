@@ -14,6 +14,15 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DP
 up: "[[Socialt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | För många mål | 11 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
+> | Stavfel och språkbruk | Felstavning (en) | `guidlines` (en) |
+<!-- analys:end -->
+
 # GSA3DP
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DP)

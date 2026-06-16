@@ -8,6 +8,14 @@ scrape_hash: cda556c04cb40b47
 up: "IHV"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Stavfel och språkbruk | Felstavning | `engström` (sv) |
+<!-- analys:end -->
+
 # VSJPG
 
 **Programnamn:** Sjuksköterskeprogrammet

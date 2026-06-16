@@ -15,6 +15,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2LN
 up: "[[Personal och arbetsliv]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. På de olika delmomenten kan något av följande betyg erhållas: Individuell skriftlig tentam… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Individuell skriftlig tentamen, 4 hp Skriftlig gruppuppgift, 3,5 hp… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ingår i Personal- och arbetslivsprogrammet. Kan ej tillgodoräknas i en examen samtidigt som kursen PA1024, Redovi… |
+<!-- analys:end -->
+
 # GPA2LN
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2LN)

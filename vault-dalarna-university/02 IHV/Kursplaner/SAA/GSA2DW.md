@@ -15,6 +15,20 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2DW
 up: "[[Socialt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom övningar, seminarium samt hemtentamen.… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att den studerande ska tillägna sig kunskaper och färdigheter inom socialt arbete m… |
+> | Omfång på lärandemål | För många mål | 11 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
+> | Omfång på lärandemål | Långt mål | 29 ord: - visa förmåga att reflektera över hur de egna personliga värderingarna avseende… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 11 mål, engelska: 1 mål (diff 10) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursplanen ingår i Socionomprogrammet. Kursen motsvarar SA1047.… |
+<!-- analys:end -->
+
 # GSA2DW
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2DW)

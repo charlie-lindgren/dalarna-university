@@ -14,6 +14,19 @@ up: "[[Forskarämne Pedagogiskt arbete]]"
 cssclasses: [vilande]
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom muntliga presentationer och skriftliga inlämningsuppgifter.… |
+> | Omfång på lärandemål | För få mål | 0 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 1 mål, engelska: 0 mål (diff 1) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (1 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ges på svenska om ej annat anges. Kursen ges antingen som nätbaserad eller campusförlagd kurs, alternativt med in… |
+<!-- analys:end -->
+
 # FPA222C
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FPA222C)

@@ -15,6 +15,16 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DS
 up: "[[Socialt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': **Modul 1. Campusförlagd utbildning, 5 högskolepoäng**… |
+> | Omfång på lärandemål | För många mål | 18 lärandemål (maximum rekommenderat: 10 för 15 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 18 mål, engelska: 0 mål (diff 18) |
+<!-- analys:end -->
+
 # GSA3DS
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DS)

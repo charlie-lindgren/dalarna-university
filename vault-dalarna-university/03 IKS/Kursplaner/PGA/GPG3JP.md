@@ -15,6 +15,15 @@ up: "[[Pedagogiskt arbete]]"
 cssclasses: [vilande]
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | Långt mål | 34 ord: - använda det engelska språket för att i samarbete i internationellt blandade gr… |
+> | Omfång på lärandemål | Långt mål | 29 ord: - kritiskt reflektera över sin egen interkulturella kompetens och det interkultu… |
+<!-- analys:end -->
+
 # GPG3JP
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3JP)

@@ -15,6 +15,20 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2JA
 up: "[[Svenska som andraspråk]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få VG på hela kursen krävs VG på 67,5 hp. Betygsrapportering: Modul 1: Andraspråks… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Samtliga delkurser examineras genom bedömning av aktivt deltagande i seminarier, muntliga redovisningar och skriftliga i… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att den studerande utvecklar fördjupade och vidgade kunskaper i svenska som andrasp… |
+> | Omfång på lärandemål | För många mål | 53 lärandemål (maximum rekommenderat: 15 för 90 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 53 mål, engelska: 2 mål (diff 51) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Denna utbildning är en uppdragsutbildning och får endast sökas av lärare som deltar i Lärarlyftet. För att delta i en ku… |
+<!-- analys:end -->
+
 # GSS2JA
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2JA)

@@ -15,6 +15,15 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AG
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | Långt mål | 30 ord: - i tal och skrift, argumentera för val av innehåll och arbetsformer i den egna … |
+> | Omfång på lärandemål | Långt mål | 27 ord: - i den egna undervisningen, aktivt verka för skolans värdegrund och samhällsupp… |
+<!-- analys:end -->
+
 # GPG3AG
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AG)

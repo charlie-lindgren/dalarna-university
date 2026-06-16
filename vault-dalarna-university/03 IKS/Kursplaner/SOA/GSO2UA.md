@@ -14,6 +14,20 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO2UA
 up: "[[Sociologi]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Betygsrapportering: Modul 1: Sociologiska perspektiv på samhället. En introduktion till so… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Alla delkurser examineras genom aktivt deltagande vid seminarier samt muntliga och skriftliga redovisningar och skriftli… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att den studerande ska skaffa sig grundläggande kunskaper om och förståelse för soc… |
+> | Omfång på lärandemål | För många mål | 16 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 16 mål, engelska: 1 mål (diff 15) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen motsvarar SO1023 samt SO1028… |
+<!-- analys:end -->
+
 # GSO2UA
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO2UA)

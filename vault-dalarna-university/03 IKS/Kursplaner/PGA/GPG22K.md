@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG22K
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom aktivt deltagande vid seminarier samt genom en vetenskaplig uppsats som den studerande skriver s… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande ska kunna genomföra en självständig vetenskaplig undersökning med anknytn… |
+> | Omfång på lärandemål | Långt mål | 33 ord: - visa förmåga att, med högt ställda krav på skriftlig och muntlig kommunikation… |
+> | Stavfel och språkbruk | Felstavning (en) | `conciderations` (en) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ingår i programmet Kompletterande pedagogisk utbildning. Kursen motsvarar PG2066. Kursen avslutas med en obligato… |
+<!-- analys:end -->
+
 # GPG22K
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG22K)

@@ -15,6 +15,15 @@ up: "[[Religionsvetenskap]]"
 cssclasses: [vilande]
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Bloom-taxonomi | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [0,3,0,0,0,0] |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Religionsvetenskap III` → `GRK25S` (nedlagd 2023-03-01); förkunskap nämner nedlagd kurs |
+<!-- analys:end -->
+
 # ARK29H
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29H)

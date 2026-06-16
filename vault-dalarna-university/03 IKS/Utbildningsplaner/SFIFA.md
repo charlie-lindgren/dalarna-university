@@ -8,6 +8,14 @@ scrape_hash: 68e4c7c528755911
 up: "IKS"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Studier i Internationell Human Resource Management` (15 hp) |
+<!-- analys:end -->
+
 # SFIFA
 
 **Programnamn:** Magisterprogram i företagsekonomi med ett internationellt fokus

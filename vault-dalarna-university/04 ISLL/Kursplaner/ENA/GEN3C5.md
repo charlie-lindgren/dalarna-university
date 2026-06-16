@@ -14,6 +14,15 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3C5
 up: "[[Engelska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | För få mål | 3 lärandemål (minimum rekommenderat: 4 för 12 hp) |
+> | Omfång på lärandemål | Långt mål | 33 ord: - analysera litteratur från den engelskspråkiga världen med hjälp av relevant li… |
+<!-- analys:end -->
+
 # GEN3C5
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3C5)

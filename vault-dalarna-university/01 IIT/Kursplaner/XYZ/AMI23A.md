@@ -14,6 +14,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI23A
 up: "[[Mikrodataanalys]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Slutbetyget på kursen baseras på en helhetsbedömning av examinatorn.… |
+> | Bloom-taxonomi | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [2,1,1,0,0,0] |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Individuella projekt, rapporter, seminarier och datorövningar. För att bli godkänd på kursen ska studenten har deltagit … |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna… |
+> | Omfång på lärandemål | Långt mål | 38 ord: - visa förståelse för visual literacy, bestämma de grafiska elementen som använd… |
+> | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+<!-- analys:end -->
+
 # AMI23A
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI23A)

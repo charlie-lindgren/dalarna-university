@@ -15,6 +15,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2CP
 up: "[[Svenska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | Långt mål | 28 ord: - analysera och värdera sambandet mellan elevers språkförståelse, läsförkunskape… |
+> | Omfång på lärandemål | Långt mål | 27 ord: - problematisera och diskutera utmaningar i undervisningen i förskoleklass och å… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | Stavfel och språkbruk | Felstavning | `framåtsiktande` (sv) |
+> | Stavfel och språkbruk | Felstavning | `läsförkunskaper` (sv) |
+<!-- analys:end -->
+
 # ASV2CP
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2CP)

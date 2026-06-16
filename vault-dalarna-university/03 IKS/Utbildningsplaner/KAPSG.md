@@ -8,6 +8,14 @@ scrape_hash: 012deea2504d7e8c
 up: "IKS"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Stavfel och språkbruk | Felstavning | `jörgensen` (sv) |
+<!-- analys:end -->
+
 # KAPSG
 
 **Programnamn:** Audiovisuell produktion för scen och event – kandidatprogram

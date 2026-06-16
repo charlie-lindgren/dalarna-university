@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2PB
 up: "[[Informatik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Seminarieuppgifter U-VG Projektarbete och laboration U-G För att erhålla slutbetyget VG på… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Seminarieuppgifter (2.5 hp), projekt (3.5 hp), laboration (1.5 hp).… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande ska tillägna sig kunskap om och förståelse för systemförvaltning och test… |
+> | Omfång på lärandemål | För många mål | 11 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GIK2FD. Eventuella restuppgifter och kompletteringar på seminarieuppgifter, laboration och projektrapport måste… |
+<!-- analys:end -->
+
 # GIK2PB
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2PB)

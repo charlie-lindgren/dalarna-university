@@ -14,6 +14,19 @@ up: "[[Forskarämne Energisystem i byggd miljö]]"
 cssclasses: [vilande]
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Arbete presenteras i minst två seminarier. Opposition med skriftligt svar sker minst två gånger. Aktivt deltagande och m… |
+> | Omfång på lärandemål | För få mål | 0 lärandemål (minimum rekommenderat: 1 för 3 hp) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (2 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ges på Engelska.… |
+<!-- analys:end -->
+
 # FEB222M
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222M)

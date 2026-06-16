@@ -14,6 +14,25 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3CT
 up: "[[Tyska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 12 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens mål är att de studerande utvecklar grundläggande kunskaper i det tyska språket, om tyskspråkig kultur och litter… |
+> | Omfång på lärandemål | För många mål | 36 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 30 ord: - genomföra och ge respons på kortare muntliga och skriftliga presentationer av … |
+> | Omfång på lärandemål | Långt mål | 26 ord: - med utgångspunkt i elevers kunskapsbehov och individuella förutsättningar för … |
+> | Omfång på lärandemål | Långt mål | 33 ord: - reflektera över elevers syn på och upplevelser av sitt språklärande samt disku… |
+> | Omfång på lärandemål | Långt mål | 35 ord: - diskutera och reflektera över samspelet mellan inre och yttre faktorer som är … |
+> | Omfång på lärandemål | Långt mål | 35 ord: - redogöra för olika former av digitala verktyg och diskutera hur de kan använda… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - självständigt välja relevanta innehåll och arbetssätt i planeringen av språkun… |
+> | Omfång på lärandemål | Långt mål | 33 ord: - redogöra för hur digitala verktyg kan användas i språkundervisningen, redogöra… |
+> | Omfång på lärandemål | Långt mål | 26 ord: - ställa en relevant forskningsfråga inom ett avgränsat problemområde som är kop… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 36 mål, engelska: 1 mål (diff 35) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+<!-- analys:end -->
+
 # GTY3CT
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3CT)

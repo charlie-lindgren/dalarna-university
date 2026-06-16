@@ -8,6 +8,15 @@ scrape_hash: 7b27bbaa6bcdc318
 up: "IKS"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Avancerad mikroteori` (7,5 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Samhällsekonomisk utvärdering av offentliga projekt` (7,5 hp) |
+<!-- analys:end -->
+
 # SMINA
 
 **Programnamn:** Magisterprogram i nationalekonomi

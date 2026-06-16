@@ -15,6 +15,14 @@ up: "[[Idrotts- och hälsovetenskap]]"
 cssclasses: [vilande]
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | Långt mål | 26 ord: - utifrån valt syfte, innehåll och målgrupp samt i relation till aktuella styrdo… |
+<!-- analys:end -->
+
 # GIH2ZD
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZD)

@@ -15,6 +15,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2E5
 up: "[[Socialt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Aktivt deltagande i seminarier, skriftliga inlämningsuppgifter, studiegruppsuppgifter samt individuell hemtentamen.… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Organisation` → `FEB021` (nedlagd 2008-03-18); förkunskap nämner nedlagd kurs |
+> | Omfång på lärandemål | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ingår i Socionomprogrammet. Kursen motsvarar GSA27U.… |
+<!-- analys:end -->
+
 # GSA2E5
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2E5)

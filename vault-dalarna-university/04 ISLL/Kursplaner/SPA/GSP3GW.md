@@ -14,6 +14,20 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3GW
 up: "[[Spanska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande på spanska kunna:… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Spanska II` → `SP1001` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
+> | Stavfel och språkbruk | Felstavning | `förtjänstersåväl` (sv) |
+> | Stavfel och språkbruk | Felstavning | `ställdakrav` (sv) |
+> | Stavfel och språkbruk | Felstavning | `tidsramargenomföra` (sv) |
+> | Stavfel och språkbruk | Felstavning | `vilarpå` (sv) |
+> | Stavfel och språkbruk | Felstavning (en) | `theseis` (en) |
+<!-- analys:end -->
+
 # GSP3GW
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3GW)

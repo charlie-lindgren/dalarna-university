@@ -15,6 +15,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2D7
 up: "[[Idrotts- och hälsovetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Bloom-taxonomi | Okänt ledande verb | 3 av 4 bullets har okänt ledande verb |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Seminarier, inlämningsuppgifter samt skriftlig salstentamen.… |
+> | Frasningskonsistens | Avviker från referensformen | Efter… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ges i samarbete med Svenska Styrkelyftförbundet. Kursen kan inte ingå i examen vid Högskolan Dalarna parallellt m… |
+<!-- analys:end -->
+
 # GIH2D7
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2D7)

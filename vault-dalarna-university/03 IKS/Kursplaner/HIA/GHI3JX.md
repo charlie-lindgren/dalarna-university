@@ -14,6 +14,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3JX
 up: "[[Historia]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Målet med kursen är att den studerande inhämtar kunskaper om kulturstudier med historisk inriktning. Dessutom fördjupar … |
+> | Omfång på lärandemål | För många mål | 17 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 28 ord: - diskutera och analysera ungdomars roll och aktivitet i fråga om formandet av k… |
+> | Omfång på lärandemål | Långt mål | 26 ord: - diskutera och analysera hur lärare, med stöd i historiedidaktisk teori, kan om… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 17 mål, engelska: 2 mål (diff 15) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+<!-- analys:end -->
+
 # GHI3JX
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3JX)

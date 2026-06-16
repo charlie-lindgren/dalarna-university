@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2L8
 up: "[[Samhällsbyggnadsteknik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. Tentamen och seminarier med skriftliga inlämningar, U, 3, 4, 5. Projektuppgiften, U,… |
+> | Betygsskalor | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Tentamen 1,5 hp Seminarier med skriftliga inlämningsuppgifter 2 hp Projektarbete 4 hp… |
+> | Frasningskonsistens | Avviker från referensformen | Efter genomgången… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen överlappar delvis kursen Regional planering, GSQ25H och SQ2001.… |
+<!-- analys:end -->
+
 # GSQ2L8
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2L8)

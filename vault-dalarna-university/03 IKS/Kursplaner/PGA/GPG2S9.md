@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2S9
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Den studerande examineras genom presentation och diskussion av seminarieuppgifter samt genom skriftliga inlämningsuppgif… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande utvecklar en teoretisk-kritisk bas för att skapa beredskap att förstå de … |
+> | Omfång på lärandemål | Långt mål | 28 ord: - visa förmåga att utifrån kursens teorier analysera, problematisera och kommuni… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - visa förmåga att utifrån ovanstående teorier och erfarenheter i den egna under… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: I kursen ingår en träff på campus under maximalt tre dagar. Kursen motsvarar PG2057 och PG2068.… |
+<!-- analys:end -->
+
 # GPG2S9
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2S9)

@@ -14,6 +14,23 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2BV
 up: "[[Socialt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 10 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Seminarier och muntliga och skriftliga redovisningar. Examination sker genom kontinuerlig bedömning av studentens teoret… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Organisation` → `FEB021` (nedlagd 2008-03-18); förkunskap nämner nedlagd kurs |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': unskap och förståelse… |
+> | Omfång på lärandemål | För många mål | 11 lärandemål (maximum rekommenderat: 10 för 15 hp) |
+> | Omfång på lärandemål | Långt mål | 26 ord: - visa förmåga att under handledning planera, strukturera och självständigt geno… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - visa förmåga och färdigheter att identifiera, definiera, analysera och dokumen… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - kritiskt reflektera över den egna förmågan och den personliga och professionel… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 11 mål, engelska: 14 mål (diff 3) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (14 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ingår i Socionomprogrammet. Om en student inte uppnår målen för den verksamhetsförlagda kursen under ordinarie pe… |
+<!-- analys:end -->
+
 # GSA2BV
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2BV)

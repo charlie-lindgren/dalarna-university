@@ -14,6 +14,15 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AE
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | Långt mål | 27 ord: - redogöra för olika teoretiska perspektiv på lärande, utveckling och kunskap sa… |
+> | Omfång på lärandemål | Långt mål | 31 ord: - diskutera olika digitala lärresursers möjligheter och begränsningar i den peda… |
+<!-- analys:end -->
+
 # GPG3AE
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AE)

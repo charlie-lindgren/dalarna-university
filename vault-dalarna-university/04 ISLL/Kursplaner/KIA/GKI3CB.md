@@ -14,6 +14,14 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3CB
 up: "[[Kinesiska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Stavfel och språkbruk | Dubblerat ord | `and` — …cate unhindered in Chinese on a variety of topics    - read and and understand short authentic Chinese texts    - compose short… |
+<!-- analys:end -->
+
 # GKI3CB
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3CB)

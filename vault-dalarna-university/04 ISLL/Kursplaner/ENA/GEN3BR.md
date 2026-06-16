@@ -15,6 +15,15 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3BR
 up: "[[Engelska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | Långt mål | 28 ord: - visa ett kritiskt förhållningssätt till olika typer av kulturella texter samt … |
+> | Omfång på lärandemål | Långt mål | 29 ord: - visa grundläggande kunskaper om ett urval centrala kulturella och litterära te… |
+<!-- analys:end -->
+
 # GEN3BR
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3BR)

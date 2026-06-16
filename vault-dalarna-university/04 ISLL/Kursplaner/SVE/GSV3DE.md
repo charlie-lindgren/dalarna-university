@@ -14,6 +14,25 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DE
 up: "[[Svenska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 12 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande uppnår fördjupade kunskaper om språk och skönlitteratur i relation till s… |
+> | Omfång på lärandemål | För många mål | 23 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 27 ord: - göra kritiska läsningar av skönlitterära verk och diskutera deras potential so… |
+> | Omfång på lärandemål | Långt mål | 32 ord: - tala och skriva i enlighet med de normer som finns för formell svenska och på … |
+> | Omfång på lärandemål | Långt mål | 28 ord: - beskriva olika typer av språkpolicy samt utifrån exempel från Sverige och Nord… |
+> | Omfång på lärandemål | Långt mål | 33 ord: - föra en fördjupad diskussion kring hur ungdomars utveckling av litteracitet oc… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - utifrån aktuell forskning och beprövad erfarenhet planera svenskundervisning s… |
+> | Omfång på lärandemål | Långt mål | 41 ord: - tala och skriva i enlighet med de normer som finns för formell svenska och på … |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 23 mål, engelska: 2 mål (diff 21) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning | `närstudiet` (sv) |
+> | Stavfel och språkbruk | Felstavning | `verbalspråket` (sv) |
+<!-- analys:end -->
+
 # GSV3DE
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DE)

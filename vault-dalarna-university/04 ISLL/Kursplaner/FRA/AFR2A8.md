@@ -14,6 +14,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR2A8
 up: "[[Franska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens mål är att den studerande utvecklar fördjupade kunskaper om talad franska och dess olika varianter vad gäller ut… |
+> | Omfång på lärandemål | Långt mål | 27 ord: - redogöra för de vanligaste problemen som svenska inlärare av franska har när d… |
+> | Stavfel och språkbruk | Felstavning (en) | `amd` (en) |
+> | Stavfel och språkbruk | Felstavning (en) | `percieving` (en) |
+<!-- analys:end -->
+
 # AFR2A8
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR2A8)

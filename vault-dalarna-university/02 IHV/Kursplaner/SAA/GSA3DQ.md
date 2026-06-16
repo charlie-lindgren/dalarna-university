@@ -14,6 +14,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DQ
 up: "[[Socialt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | För många mål | 14 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
+> | Omfång på lärandemål | Långt mål | 27 ord: - redogöra för perspektiv på och metoder för socialt arbete med barn, familjer, … |
+> | Omfång på lärandemål | Långt mål | 27 ord: - visa förmåga att reflektera över hur de egna personliga värderingarna rörande … |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 14 mål, engelska: 0 mål (diff 14) |
+<!-- analys:end -->
+
 # GSA3DQ
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DQ)

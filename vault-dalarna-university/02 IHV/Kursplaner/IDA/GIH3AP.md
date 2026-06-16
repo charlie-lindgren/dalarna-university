@@ -14,6 +14,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AP
 up: "[[Idrotts- och hälsovetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande utvecklar grundläggande kunskaper om idrott och hälsa.… |
+> | Omfång på lärandemål | För många mål | 23 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 28 ord: - på en grundläggande nivå diskutera och problematisera skolämnet idrott och häl… |
+> | Omfång på lärandemål | Långt mål | 26 ord: - utifrån valt syfte, innehåll och målgrupp samt i relation till aktuella styrdo… |
+> | Omfång på lärandemål | Långt mål | 26 ord: - diskutera och problematisera skolämnet idrott och hälsa utifrån olika didaktis… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 23 mål, engelska: 1 mål (diff 22) |
+<!-- analys:end -->
+
 # GIH3AP
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AP)

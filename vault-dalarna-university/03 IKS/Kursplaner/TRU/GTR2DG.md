@@ -14,6 +14,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2DG
 up: "[[Turismvetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används A–F. Slutbetyget på kursen sätts av examinator och är en sammanvägd bedömning av resultaten på a… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig salstentamen (Lärandemål 1, 2, 3, 4, 5 ) (2,5 hp) Skriftliga och muntliga inlämningsuppgifter (Lärandemål 2, 3… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna… |
+> | Stavfel och språkbruk | Dubblerat ord | `the` — …earch. The course is organised into two parts. In part one, the The course introduces students to quantitative research. The co… |
+> | Stavfel och språkbruk | Felstavning | `enkätsstudie` (sv) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter TR2004.… |
+<!-- analys:end -->
+
 # GTR2DG
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2DG)

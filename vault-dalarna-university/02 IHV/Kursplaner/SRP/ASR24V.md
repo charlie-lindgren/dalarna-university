@@ -15,6 +15,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR24V
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Seminarier, projektplan och inlämningsuppgifter.… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Omfång på lärandemål | Långt mål | 26 ord: - redogöra för centrala begrepp inom global sexuell och reproduktiv hälsa och rä… |
+> | Omfång på lärandemål | Långt mål | 27 ord: - ur ett rättighetsperspektiv analysera och diskutera hur sociala, ekonomiska, m… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ingår i magisterprogrammet Global sexuell och reproduktiv hälsa.… |
+<!-- analys:end -->
+
 # ASR24V
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR24V)

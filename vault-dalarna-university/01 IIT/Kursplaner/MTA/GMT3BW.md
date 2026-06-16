@@ -14,6 +14,16 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3BW
 up: "[[Maskinteknik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | Långt mål | 29 ord: - redogöra för innebörden av begrepp och teoretiska grunder inom statiska- och d… |
+> | Omfång på lärandemål | Långt mål | 27 ord: - redogöra för innebörden av begrepp och teoretiska grunder inom energisystem, v… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+<!-- analys:end -->
+
 # GMT3BW
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3BW)

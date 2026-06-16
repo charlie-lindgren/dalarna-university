@@ -15,6 +15,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD33Y
 up: "[[Matematikdidaktik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att de studerande utvecklar och fördjupar sina matematiska förmågor och sina kunskaper i mat… |
+> | Omfång på lärandemål | För många mål | 77 lärandemål (maximum rekommenderat: 15 för 90 hp) |
+> | Omfång på lärandemål | Långt mål | 37 ord: - beskriva, analysera, diskutera samt tillämpa differentialekvationer av första … |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 77 mål, engelska: 2 mål (diff 75) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+<!-- analys:end -->
+
 # GMD33Y
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD33Y)

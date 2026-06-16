@@ -14,6 +14,22 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2LZ
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 9 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få VG som slutbetyg i kursen krävs VG i minst moment 2 och ytterligare ett moment … |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras i tre moment enligt följande: **Moment 1, Teoretiska perspektiv på sociala relationer, konflikter och … |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande utvecklar en teoretisk-kritisk bas för att skapa beredskap att förstå de … |
+> | Omfång på lärandemål | Långt mål | 28 ord: - visa förmåga att utifrån ovanstående teorier analysera, problematisera och kom… |
+> | Omfång på lärandemål | Långt mål | 31 ord: - visa förmåga att utifrån ovanstående teorier och erfarenheter i den egna under… |
+> | Omfång på lärandemål | Långt mål | 34 ord: - självständigt och i samarbete med verksamma lärare omsätta kunskaper inom ämne… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 1 mål (diff 5) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: För nätbaserad kurs krävs att den studerande har möjlighet att kommunicera med ljud och bild via en dator eller motsvara… |
+<!-- analys:end -->
+
 # GPG2LZ
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2LZ)

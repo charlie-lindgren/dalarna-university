@@ -15,6 +15,27 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2R4
 up: "[[Franska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 14 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på minst 22,5 hp. Betygsrapportering: **Delk… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: **Delkurs 1**: Kursen examineras kontinuerligt genom skriftliga inlämningsuppgifter samt genom ett skriftligt prov. **De… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande fördjupar sina kunskaper i det franska språket och om franskspråkig litte… |
+> | Omfång på lärandemål | För många mål | 37 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 35 ord: - visa kunskap om elevers syn på och upplevelser av sitt språklärande samt refle… |
+> | Omfång på lärandemål | Långt mål | 35 ord: - diskutera och reflektera över samspelet mellan inre och yttre faktorer som är … |
+> | Omfång på lärandemål | Långt mål | 35 ord: - visa kunskap om olika former av digitala verktyg och hur de kan användas i spr… |
+> | Omfång på lärandemål | Långt mål | 29 ord: - visa förmåga att självständigt välja relevant innehåll och arbetssätt i språku… |
+> | Omfång på lärandemål | Långt mål | 29 ord: - visa fördjupade kunskaper om den gemensamma europeiska referensramen för språk… |
+> | Omfång på lärandemål | Långt mål | 37 ord: - visa fördjupade kunskaper om användning av digitala verktyg i språkundervisnin… |
+> | Omfång på lärandemål | Långt mål | 32 ord: - visa förmåga att formulera en relevant forskningsfråga inom ett avgränsat prob… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 37 mål, engelska: 1 mål (diff 36) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GFR2JD. För nätbaserad kurs krävs tillgång till dator, headset, webbkamera och internetuppkoppling. Kursen inne… |
+<!-- analys:end -->
+
 # GFR2R4
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2R4)

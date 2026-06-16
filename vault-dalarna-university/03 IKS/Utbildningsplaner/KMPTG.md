@@ -8,6 +8,14 @@ scrape_hash: b4c205cc437b2cb6
 up: "IKS"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Stavfel och språkbruk | Felstavning | `thorbjörn` (sv) |
+<!-- analys:end -->
+
 # KMPTG
 
 **Programnamn:** Medieproduktionsprogrammet för TV och sociala medier

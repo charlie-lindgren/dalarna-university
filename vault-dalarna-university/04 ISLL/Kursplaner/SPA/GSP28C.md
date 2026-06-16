@@ -14,6 +14,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP28C
 up: "[[Spanska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på minst 22,5 hp Betygsrapportering: Moment … |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: **Samtliga delkurser** examineras genom bedömning av muntliga redovisningar och individuella skriftliga inlämningsuppgif… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande utvecklar fördjupade kunskaper i spanskspråkig litteratur och spansk ling… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - reflektera över, värdera och kritiskt granska vetenskapliga artiklar och textt… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 12 mål, engelska: 1 mål (diff 11) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen innehåller en fältdag vid en gymnasieskola. För nätbaserad kurs krävs tillgång till dator, headset, webbkamera oc… |
+<!-- analys:end -->
+
 # GSP28C
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP28C)

@@ -14,6 +14,16 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3CZ
 up: "[[Franska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska den studerande kunna:… |
+> | Omfång på lärandemål | Långt mål | 27 ord: - samla in relevant språkvetenskapligt, litterärt eller språkdidaktiskt material… |
+> | Omfång på lärandemål | Långt mål | 39 ord: - författa ett skriftligt teoretiskt arbete på god franska, där den studerande a… |
+<!-- analys:end -->
+
 # GFR3CZ
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3CZ)

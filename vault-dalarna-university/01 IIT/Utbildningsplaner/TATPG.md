@@ -8,6 +8,15 @@ scrape_hash: 11882bd9cf749bbf
 up: "IIT"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Produktutveckling` → `MT2016` (nedlagd 2021-11-30) — plain-text-referens |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Finita elementmetoden i praktiken` (7,5 hp) — sannolikt avses `Finita element metoden i praktiken` (kurskod `GMT2QF`) |
+<!-- analys:end -->
+
 # TATPG
 
 **Programnamn:** Assisterande teknikprogrammet

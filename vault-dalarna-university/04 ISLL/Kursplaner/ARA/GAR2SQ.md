@@ -15,6 +15,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR2SQ
 up: "[[Arabiska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Fortlöpande examinering sker genom inlämningsuppgifter och deltagande i diskussioner under seminarier samt genom en avsl… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | Omfång på lärandemål | Långt mål | 26 ord: - redogöra kortfattat både muntligt och skriftligt för några av de mer betydelse… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Studenter som saknar formell behörighet, men som har kunskaper i arabiska som minst motsvarar gymnasiets steg 3, ges möj… |
+<!-- analys:end -->
+
 # GAR2SQ
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR2SQ)

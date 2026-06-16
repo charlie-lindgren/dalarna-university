@@ -15,6 +15,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3GV
 up: "[[Naturvetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | Långt mål | 28 ord: - redogöra för grundläggande kunskaper i naturvetenskap, med särskilt fokus på e… |
+> | Omfång på lärandemål | Långt mål | 34 ord: - reflektera över och problematisera skolans roll i arbetet med lärande för håll… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
+> | Stavfel och språkbruk | Felstavning | `inlämingsuppgift` (sv) |
+<!-- analys:end -->
+
 # GNV3GV
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3GV)

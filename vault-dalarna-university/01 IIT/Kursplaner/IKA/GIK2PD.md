@@ -15,6 +15,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2PD
 up: "[[Informatik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att erhålla VG som slutbetyg på hela kursen krävs VG på projektuppgiften samt minst tv… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Duggor (4x1hp) och projekt (3,5hp).… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Introduktion till Informatik och eTjänster` → `IK1078` (nedlagd 2022-06-23); förkunskap nämner nedlagd kurs |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att introducera studenten till nätverk, nätverkstjänster , nätverkssäkerhet, datakommunikati… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: När kursen ges som webbaserad online-kurs ges den i Windowsmiljö. Cisco Packet Tracer-aktiviteter förutsätter att studen… |
+<!-- analys:end -->
+
 # GIK2PD
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2PD)

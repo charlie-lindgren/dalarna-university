@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC29F
 up: "[[Medicinsk vetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | Långt mål | 26 ord: - självständigt identifiera och formulera problemställning och syfte för en vete… |
+> | Omfång på lärandemål | Långt mål | 29 ord: - genomföra en vetenskaplig undersökning med relevant design, metod och analys s… |
+> | Omfång på lärandemål | Långt mål | 32 ord: - analysera och värdera resultat från den vetenskapliga undersökningen i relatio… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - försvara eget självständigt arbete samt kritiskt granska och värdera annat exa… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+<!-- analys:end -->
+
 # AMC29F
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC29F)

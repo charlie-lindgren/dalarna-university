@@ -14,6 +14,15 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH38Z
 up: "[[Idrotts- och hälsovetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | Långt mål | 28 ord: - diskutera och problematisera skolämnet idrott och hälsa utifrån olika didaktis… |
+> | Omfång på lärandemål | Långt mål | 26 ord: - utifrån valt syfte, innehåll och målgrupp samt i relation till aktuella styrdo… |
+<!-- analys:end -->
+
 # GIH38Z
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH38Z)

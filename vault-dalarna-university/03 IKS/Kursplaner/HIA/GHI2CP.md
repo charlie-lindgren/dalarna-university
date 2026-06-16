@@ -15,6 +15,20 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI2CP
 up: "[[Historia]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att erhålla betyget Väl godkänd på hela kursen krävs Väl godkänd på minst 22,5 hp. Bet… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Alla delkurser examineras genom aktivt seminariedeltagande och olika skriftliga inlämningsuppgifter. **Delkurs 1** exami… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Den studerande ska under kursen utveckla kunskaper om grundläggande vetenskapliga, didaktiska och metodologiska frågor o… |
+> | Omfång på lärandemål | För många mål | 16 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 16 mål, engelska: 2 mål (diff 14) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: För nätbaserad kurs krävs att den studerande kan kommunicera med ljud och bild via en dator eller motsvarande. Om den nä… |
+<!-- analys:end -->
+
 # GHI2CP
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI2CP)

@@ -14,6 +14,21 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DF
 up: "[[Svenska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande ska bredda sitt kunnande om forsknings- och utvecklingsarbete inom litter… |
+> | Omfång på lärandemål | För många mål | 23 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 49 ord: - tala och skriva i enlighet med de normer som finns för formell svenska och på … |
+> | Omfång på lärandemål | Långt mål | 45 ord: - tala och skriva i enlighet med de normer som finns för formell svenska och på … |
+> | Omfång på lärandemål | Långt mål | 28 ord: - utifrån sina samlade kunskaper om litteraturvetenskap, språkvetenskap och ämne… |
+> | Omfång på lärandemål | Långt mål | 36 ord: - tala och skriva i enlighet med de normer som finns för formell svenska och på … |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 23 mål, engelska: 2 mål (diff 21) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+<!-- analys:end -->
+
 # GSV3DF
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DF)

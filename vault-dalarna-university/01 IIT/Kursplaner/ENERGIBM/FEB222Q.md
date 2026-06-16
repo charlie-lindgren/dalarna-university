@@ -14,6 +14,16 @@ up: "[[Forskarämne Energisystem i byggd miljö]]"
 cssclasses: [vilande]
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G. Betyg rapporteras enligt följande: Forskningsplan 2 hp Manus 2,5 hp Individuell rapport, 0,… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: • Inlämningsuppgifter • Seminarier… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Projekt i kursen görs av minst två doktorander. Kursen ges på engelska.… |
+<!-- analys:end -->
+
 # FEB222Q
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222Q)

@@ -14,6 +14,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP23S
 up: "[[Japanska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras fortlöpande genom den muntliga prestationen på seminarier, skriftliga inlämningsuppgifter, datoriserad… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten på japanska kunna:… |
+> | Stavfel och språkbruk | Felstavning | `språkfärdiget` (sv) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter JP1042.… |
+<!-- analys:end -->
+
 # GJP23S
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP23S)

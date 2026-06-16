@@ -14,6 +14,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CR
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 8 mål, engelska: 5 mål (diff 3) |
+> | Stavfel och språkbruk | Felstavning (en) | `andother` (en) |
+> | Stavfel och språkbruk | Felstavning (en) | `carewithin` (en) |
+> | Stavfel och språkbruk | Felstavning (en) | `postpartumperiod` (en) |
+<!-- analys:end -->
+
 # ASR2CR
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CR)

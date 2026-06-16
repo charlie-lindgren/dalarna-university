@@ -14,6 +14,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2ZW
 up: "[[Svenska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande utvecklar fördjupad kunskap om barns skriftspråksutveckling, grundläggand… |
+> | Omfång på lärandemål | För många mål | 25 lärandemål (maximum rekommenderat: 10 för 15 hp) |
+> | Omfång på lärandemål | Långt mål | 30 ord: - med grund i läst avhandling skriftligt analysera och jämföra olika teorier om … |
+> | Omfång på lärandemål | Långt mål | 31 ord: - analysera och bedöma elevers skrivförmåga utifrån autentiska texter och visa f… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 25 mål, engelska: 2 mål (diff 23) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+<!-- analys:end -->
+
 # GSV2ZW
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2ZW)

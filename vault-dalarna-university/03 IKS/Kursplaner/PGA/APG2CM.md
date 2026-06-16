@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2CM
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | Långt mål | 34 ord: - utifrån en nyanserad kunskap om de övergripande ramverken kritiskt reflektera … |
+> | Omfång på lärandemål | Långt mål | 29 ord: - analysera och värdera egen och andras undervisnings genomförande och föreslå m… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | Stavfel och språkbruk | Felstavning | `undervisningensmål` (sv) |
+> | Stavfel och språkbruk | Felstavning (en) | `educare` (en) |
+<!-- analys:end -->
+
 # APG2CM
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2CM)

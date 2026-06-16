@@ -14,6 +14,18 @@ up: "[[Forskarämne Mikrodataanalys]]"
 cssclasses: [vilande]
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G. Betygsrapportering: Moment 1: enskilt projekt 2 hp Moment 2: laborationsrapporter 1 hp Mome… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom ett enskilt projekt kopplat till doktorandens avhandlingsar-bete och muntlig redovisning av dett… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna… |
+> | Omfång på lärandemål | Långt mål | 26 ord: - värdera olika typer av uppgifter och typer av datainsamling med avseende på di… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen kan tillgodoräknas inom forskningsämnena Pedagogiskt arbete ooch Vårdvetenskap.… |
+<!-- analys:end -->
+
 # MIKR002
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MIKR002)

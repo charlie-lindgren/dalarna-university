@@ -14,6 +14,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI27G
 up: "[[Kinesiska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på minst 6 hp inklusive modul 5. Betygsrappo… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Studenten examineras kontinuerligt genom bedömning av aktivt deltagande i seminarier och skriftliga inlämningsuppgifter … |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter KI1020.… |
+<!-- analys:end -->
+
 # GKI27G
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI27G)

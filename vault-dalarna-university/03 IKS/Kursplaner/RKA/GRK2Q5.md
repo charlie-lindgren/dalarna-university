@@ -14,6 +14,20 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2Q5
 up: "[[Religionsvetenskap]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på minst 22,5 hp. Betygsrapportering: Delkur… |
+> | Bloom-taxonomi | Okänt ledande verb | 3 av 11 bullets har okänt ledande verb |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: I samtliga delkurser utgör förberett och aktivt deltagande i seminarier och muntliga och skriftliga redovisningar av til… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 11 mål, engelska: 2 mål (diff 9) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Om den nätbaserade kursen läses som första ämne inom ämneslärarprogrammet krävs närvaro i Falun vid terminsstart under m… |
+<!-- analys:end -->
+
 # GRK2Q5
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2Q5)

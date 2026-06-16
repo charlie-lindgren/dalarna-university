@@ -14,6 +14,15 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3J5
 up: "[[Tyska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Tyska` → `TYC001` (nedlagd 2008-09-18); förkunskap nämner nedlagd kurs |
+> | Stavfel och språkbruk | Felstavning | `tilllämpa` (sv) |
+<!-- analys:end -->
+
 # GTY3J5
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3J5)

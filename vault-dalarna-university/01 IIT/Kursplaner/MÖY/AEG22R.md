@@ -15,6 +15,16 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG22R
 up: "[[Energiteknik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Muntliga presentationer och skriftliga grupprapporter för projektet, U-G. Det samlade bety… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs, ska studenten kunna:… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: I denna kurs förväntas studenten tillämpa kunskaper om solstrålning, solceller och solvärme från kurserna Solstrålning o… |
+<!-- analys:end -->
+
 # AEG22R
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG22R)

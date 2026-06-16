@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN37A
 up: "[[Engelska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att ge en omfattande introduktion till studier i engelska på universitetsnivå.… |
+> | Omfång på lärandemål | För många mål | 14 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 33 ord: - analysera litteratur från den engelskspråkiga världen med hjälp av relevant li… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 14 mål, engelska: 1 mål (diff 13) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+<!-- analys:end -->
+
 # GEN37A
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN37A)

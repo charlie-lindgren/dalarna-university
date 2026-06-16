@@ -15,6 +15,16 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABQ2AM
 up: "[[Bildproduktion]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 5 mål, engelska: 6 mål (diff 1) |
+> | Stavfel och språkbruk | Felstavning (en) | `inludes` (en) |
+> | Stavfel och språkbruk | Felstavning (en) | `managment` (en) |
+<!-- analys:end -->
+
 # ABQ2AM
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABQ2AM)

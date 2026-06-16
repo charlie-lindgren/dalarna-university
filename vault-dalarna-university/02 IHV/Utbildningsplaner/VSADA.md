@@ -8,6 +8,16 @@ scrape_hash: 3db00acdd9353f82
 up: "IHV"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Personcentrerad vård av personer med demens` (7,5 hp) |
+> | Stavfel och språkbruk | Felstavning | `engström` (sv) |
+> | Stavfel och språkbruk | Felstavning | `ätandeproblem` (sv) |
+<!-- analys:end -->
+
 # VSADA
 
 **Programnamn:** Specialistsjuksköterska med inriktning demensvård

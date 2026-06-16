@@ -15,6 +15,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2GF
 up: "[[Matematikdidaktik]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Samtliga delkurser examineras genom seminarier, muntliga och skriftliga redovisningar, skriftliga inlämningsuppgifter sa… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att studenten utvecklar och fördjupar sina matematiska och matematikdidaktiska kunskaper för… |
+> | Omfång på lärandemål | För många mål | 24 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 26 ord: - med grund i aktuella styrdokument, forskning och beprövad erfarenhet redogöra … |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 24 mål, engelska: 1 mål (diff 23) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: För att delta i en kurs inom Lärarlyftet ska du ha en behörighetsgivande lärarexamen samt vara anställd av staten, en ko… |
+<!-- analys:end -->
+
 # GMD2GF
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2GF)

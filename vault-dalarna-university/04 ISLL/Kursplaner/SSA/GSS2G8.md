@@ -15,6 +15,20 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2G8
 up: "[[Svenska som andraspråk]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på minst tre av delkurserna. Betygsrapporter… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Samtliga delkurser examineras genom bedömning av aktivt deltagande i seminarier, muntliga och skriftliga uppgifter samt … |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande syftet med kursen är att den studerande utvecklar sina… |
+> | Omfång på lärandemål | För många mål | 21 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 21 mål, engelska: 2 mål (diff 19) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Denna utbildning är en uppdragsutbildning och får endast sökas av lärare som deltar i Lärarlyftet. För att delta i en ku… |
+<!-- analys:end -->
+
 # GSS2G8
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2G8)

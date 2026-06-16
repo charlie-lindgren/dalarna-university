@@ -8,6 +8,14 @@ scrape_hash: 38e2ec128ee772db
 up: "IIT"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Fysisk planering III – genomförande och planeringsjuridik` (7,5 hp) — sannolikt avses `Fysisk planering III - genomförande och juridisk fördjupning` (kurskod `GSQ2PH`) |
+<!-- analys:end -->
+
 # TBYSG
 
 **Programnamn:** Bygg- och samhällsplanerarprogrammet

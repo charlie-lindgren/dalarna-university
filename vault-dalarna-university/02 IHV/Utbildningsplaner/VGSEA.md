@@ -8,6 +8,14 @@ scrape_hash: 2646fe338fd0e00a
 up: "IHV"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Strategier för implementering av förbättringsarbete i hälso-sjukvård` (7,5 hp) |
+<!-- analys:end -->
+
 # VGSEA
 
 **Programnamn:** Magisterprogram i global sexuell och reproduktiv hälsa

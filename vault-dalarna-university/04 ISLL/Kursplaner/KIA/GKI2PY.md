@@ -15,6 +15,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2PY
 up: "[[Kinesiska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Betygsrapportering: Modul 1: Tala och lyssna - 7,5 hp Modul 2: Läsa och skriva - 7,5 hp… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen består av två moduler som bedöms separat. De två modulerna bedöms både muntligt och skriftligt samt i form av ett… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen syftar till att hjälpa studenterna att befästa de kunskaper de tillgodogjort sig på kurserna på lägre nivå i kine… |
+> | Stavfel och språkbruk | Felstavning | `forsätter` (sv) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter KI1042.… |
+<!-- analys:end -->
+
 # GKI2PY
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2PY)

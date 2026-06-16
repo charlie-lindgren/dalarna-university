@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR27P
 up: "[[Franska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på båda modulerna. Betygsrapportering: Modul… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom kontinuerlig bedömning av aktivt deltagande i seminarier och skriftliga inlämningsuppgifter. Stu… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande på franska kunna:… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - utifrån egen eller befintlig sångöversättning tillämpa centrala perspektiv ino… |
+> | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+<!-- analys:end -->
+
 # AFR27P
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR27P)

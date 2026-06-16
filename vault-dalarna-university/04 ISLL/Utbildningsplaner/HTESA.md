@@ -8,6 +8,14 @@ scrape_hash: c94f7aa43229aec6
 up: "ISLL"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Kärnområden i tillämpad engelsk lingvistik` (7,5 hp) |
+<!-- analys:end -->
+
 # HTESA
 
 **Programnamn:** Magisterprogram i tillämpad engelsk språkvetenskap

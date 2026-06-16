@@ -14,6 +14,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI33V
 up: "[[Historia]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Målet med kursen är att den studerande utvecklar insikter och kunskaper om för historieämnet grundläggande vetenskapliga… |
+> | Omfång på lärandemål | För många mål | 17 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 17 mål, engelska: 2 mål (diff 15) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning | `delkurseninnehåller` (sv) |
+> | Stavfel och språkbruk | Felstavning | `godkäng` (sv) |
+<!-- analys:end -->
+
 # GHI33V
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI33V)

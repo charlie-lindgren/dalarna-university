@@ -8,6 +8,14 @@ scrape_hash: d019fb53c2fc6d7c
 up: "ISLL"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Examensarbete för ämneslärare` ≠ kursplanens namn `Examensarbete för ämneslärare (avancerad nivå)` (kurskod `APG282`) |
+<!-- analys:end -->
+
 # LU79A
 
 **Programnamn:** Kompletterande pedagogisk utbildning, inriktning årskurs 7–9

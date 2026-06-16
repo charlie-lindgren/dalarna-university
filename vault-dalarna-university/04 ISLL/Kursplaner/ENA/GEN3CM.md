@@ -14,6 +14,29 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3CM
 up: "[[Engelska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 16 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens mål är att de studerande utvecklar goda kunskaper i det engelska språket, om engelskspråkig litteratur och om de… |
+> | Omfång på lärandemål | För många mål | 26 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 28 ord: - redogöra för huvuddragen i de litterära och idéhistoriska epokerna inom den an… |
+> | Omfång på lärandemål | Långt mål | 29 ord: - visa på färdigheter i att kritiskt reflektera, analysera och tolka litterära t… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - muntligt och skriftligt kommunicera sin egen såväl som andras tolkning av hist… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - förklara grundläggande typer av variation i det engelska språket, genom hänvis… |
+> | Omfång på lärandemål | Långt mål | 36 ord: - visa kunskap om olika former av informations- och kommunikationsteknik och hur… |
+> | Omfång på lärandemål | Långt mål | 29 ord: - visa förmåga att självständigt välja relevant innehåll och arbetssätt i språku… |
+> | Omfång på lärandemål | Långt mål | 29 ord: - visa fördjupade kunskaper om den gemensamma europeiska referensramen för språk… |
+> | Omfång på lärandemål | Långt mål | 30 ord: - visa fördjupade kunskaper om användning av IKT i språkundervisningen, IKT-utve… |
+> | Omfång på lärandemål | Långt mål | 30 ord: - visa förmåga att ställa en relevant forskningsfråga inom ett avgränsat problem… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 26 mål, engelska: 1 mål (diff 25) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning | `bedöming` (sv) |
+> | Stavfel och språkbruk | Felstavning | `föväntas` (sv) |
+> | Stavfel och språkbruk | Felstavning | `ideströmningar` (sv) |
+<!-- analys:end -->
+
 # GEN3CM
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3CM)

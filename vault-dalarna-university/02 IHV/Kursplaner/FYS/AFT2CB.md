@@ -14,6 +14,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFT2CB
 up: "[[Fysioterapi]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | Långt mål | 28 ord: - redogöra för centrala anpassningar i organ och vävnader som följer av regelbun… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - genomföra enklare datainsamling av fysisk aktivitetsnivå och fysisk prestation… |
+> | Omfång på lärandemål | Långt mål | 31 ord: - med stöd i relevant teoribildning identifiera hinder och underlättande faktore… |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (6 mål utan punktlista) |
+<!-- analys:end -->
+
 # AFT2CB
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFT2CB)

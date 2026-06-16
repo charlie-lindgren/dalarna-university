@@ -15,6 +15,18 @@ up: "[[Kinesiska]]"
 cssclasses: [vilande]
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på modulerna 3 och 4. Betygsrapportering: Mo… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom aktivt deltagande i seminarier och ett examensarbete i form av en vetenskaplig uppsats samt geno… |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Kinesisk traditionell filosofi` → `KI2006` (nedlagd 2025-09-26); förkunskap nämner nedlagd kurs |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter KI2011 och GKI2HU. För nätbaserad kurs krävs att studerande har möjlighet att kommunicera med ljud och bild via… |
+<!-- analys:end -->
+
 # GKI2QA
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2QA)

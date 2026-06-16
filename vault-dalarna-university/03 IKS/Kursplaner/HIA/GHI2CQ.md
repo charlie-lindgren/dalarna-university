@@ -15,6 +15,20 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI2CQ
 up: "[[Historia]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att erhålla väl godkänd på hela kursen krävs väl godkänd på minst 22,5 högskolepoäng, … |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Alla delkurser examineras genom aktivt seminariedeltagande och olika skriftliga inlämningsuppgifter. **Delkurs 4** exami… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Målet med kursen är att den studerande fördjupar sina kunskaper om modern och samtida globalhistoria och i fråga om någo… |
+> | Omfång på lärandemål | För många mål | 15 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 15 mål, engelska: 2 mål (diff 13) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: För nätbaserad kurs krävs att den studerande har möjlighet att kommunicera med ljud och bild via en dator eller motsvara… |
+<!-- analys:end -->
+
 # GHI2CQ
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI2CQ)

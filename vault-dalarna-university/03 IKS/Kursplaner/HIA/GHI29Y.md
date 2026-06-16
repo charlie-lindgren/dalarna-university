@@ -15,6 +15,23 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI29Y
 up: "[[Historia]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 10 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att erhålla betyget Väl Godkänt på hela kursen krävs Väl Godkänt på minst 22,5 hp. Bet… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom muntliga presentationer och skriftliga inlämningsuppgifter. Då seminarierna är obligatoriska kräv… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att den studerande utvecklar kunskaper om kulturstudier med historisk inriktning, u… |
+> | Omfång på lärandemål | Långt mål | 26 ord: - analysera och presentera hur forskare sett på hur historien, samhället, situat… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - diskutera och analysera hur lärare, med stöd i historiedidaktisk teori kan oms… |
+> | Omfång på lärandemål | Långt mål | 26 ord: - diskutera och analysera olika elevers möjligheter till historiskt tänkande, de… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 12 mål, engelska: 2 mål (diff 10) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning | `innhållet` (sv) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: För nätbaserad kurs krävs att den studerande har möjlighet att kommunicera med ljud och bild via en dator eller motsvara… |
+<!-- analys:end -->
+
 # GHI29Y
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI29Y)

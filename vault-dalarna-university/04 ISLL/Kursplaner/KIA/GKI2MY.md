@@ -15,6 +15,28 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2MY
 up: "[[Kinesiska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 15 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på minst 22,5 hp. Betygsrapportering: Modul … |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: På samtliga delkurser examineras den studerande genom bedömning av aktivt deltagande på seminarier. Dessutom examineras*… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande utvecklar grundläggande kunskaper i det kinesiska språket, vilket förbere… |
+> | Omfång på lärandemål | För många mål | 31 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 28 ord: - identifiera och förklara olika grammatiska svårigheter i det kinesiska språket… |
+> | Omfång på lärandemål | Långt mål | 26 ord: - redogöra för vanliga svårigheter svensktalande inlärare upplever gällande kine… |
+> | Omfång på lärandemål | Långt mål | 35 ord: - visa kunskap om elevers syn på och upplevelser av sitt språklärande samt refle… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - visa kunskap om bakgrunden till skolans styrdokument med fokus på det europeis… |
+> | Omfång på lärandemål | Långt mål | 35 ord: - diskutera och reflektera över samspelet mellan inre och yttre faktorer som är … |
+> | Omfång på lärandemål | Långt mål | 35 ord: - visa kunskap om olika former av digitala verktyg och hur de kan användas i spr… |
+> | Omfång på lärandemål | Långt mål | 29 ord: - visa förmåga att självständigt välja relevant innehåll och arbetssätt i språku… |
+> | Omfång på lärandemål | Långt mål | 29 ord: - visa fördjupade kunskaper om den gemensamma europeiska referensramen för språk… |
+> | Omfång på lärandemål | Långt mål | 32 ord: - visa förmåga att ställa en relevant forskningsfråga inom ett avgränsat problem… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 31 mål, engelska: 1 mål (diff 30) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen innehåller 1-2 obligatoriska fysiska träffar i Falun. Dessutom ingår också 2-3 obligatoriska fältdagar vid en gym… |
+<!-- analys:end -->
+
 # GKI2MY
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2MY)

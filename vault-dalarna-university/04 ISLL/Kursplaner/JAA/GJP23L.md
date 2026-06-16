@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP23L
 up: "[[Japanska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras fortlöpande, genom återkommande skriftliga inlämningsuppgifter, aktivt deltagande i seminarier och en … |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs skall den studerande kunna:… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Japanska II` → `JP1007` (nedlagd 2009-12-01); förkunskap nämner nedlagd kurs |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Denna kursplan ersätter JP1038.… |
+<!-- analys:end -->
+
 # GJP23L
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP23L)

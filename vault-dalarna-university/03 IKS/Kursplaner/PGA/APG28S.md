@@ -14,6 +14,20 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG28S
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Bloom-taxonomi | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [9,0,0,0,0,0] |
+> | Omfång på lärandemål | Långt mål | 27 ord: - visa fördjupade ämnes- och ämnesdidaktiska kunskaper som krävs för den egna un… |
+> | Omfång på lärandemål | Långt mål | 36 ord: - visa förmåga att självständigt och tillsammans med andra planera, genomföra, u… |
+> | Omfång på lärandemål | Långt mål | 27 ord: - visa förmåga att, med utgångspunkt i forskning och erfarenhetsbaserad kunskap,… |
+> | Omfång på lärandemål | Långt mål | 35 ord: - visa förmåga att observera, dokumentera, analysera, och i samarbete med verksa… |
+> | Omfång på lärandemål | Långt mål | 33 ord: - visa förmåga att, med ett kritiskt förhållningssätt utifrån ämnesdidaktiska öv… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
+<!-- analys:end -->
+
 # APG28S
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG28S)

@@ -14,6 +14,15 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3E7
 up: "[[Engelska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | Långt mål | 28 ord: - redogöra för huvuddragen i de litterära och idéhistoriska epokerna inom den an… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - muntligt och skriftligt kommunicera sin egen såväl som andras tolkning av hist… |
+<!-- analys:end -->
+
 # GEN3E7
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3E7)

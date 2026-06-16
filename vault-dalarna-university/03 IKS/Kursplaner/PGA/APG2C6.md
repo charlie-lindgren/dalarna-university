@@ -14,6 +14,18 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2C6
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | Långt mål | 27 ord: - utifrån relevanta teorier analysera och problematisera bedömningspraktiker i å… |
+> | Omfång på lärandemål | Långt mål | 30 ord: - identifiera, jämföra och problematisera olika metoder för att dokumentera och … |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | Stavfel och språkbruk | Felstavning (en) | `credtis` (en) |
+> | Stavfel och språkbruk | Felstavning (en) | `whithin` (en) |
+<!-- analys:end -->
+
 # APG2C6
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2C6)

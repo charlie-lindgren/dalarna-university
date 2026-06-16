@@ -14,6 +14,24 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2RR
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 11 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För betyg Väl godkänd på kursen krävs Väl godkänd på minst 10 hp samt minst Godkänd på 5 h… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Delkurs ”Kunskap och lärande” examineras genom muntlig och skriftlig presentation och diskussion av seminarieuppgifter i… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': -… |
+> | Omfång på lärandemål | För många mål | 13 lärandemål (maximum rekommenderat: 10 för 15 hp) |
+> | Omfång på lärandemål | Långt mål | 35 ord: - visa kunskap om olika teorier om kunskap, lärande och utveckling för unga och … |
+> | Omfång på lärandemål | Långt mål | 32 ord: - visa förmåga att identifiera sitt behov av fortsatt utveckling av det egna lär… |
+> | Omfång på lärandemål | Långt mål | 27 ord: - visa kunskap om och förmåga att använda sig av centrala vetenskapsteoretiska b… |
+> | Omfång på lärandemål | Långt mål | 27 ord: - visa kunskap om kvalitativa och kvantitativa forskningsmetoder och forskningst… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - visa förmåga att urskilja, analysera och värdera elevers skilda nivåer av ämne… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 13 mål, engelska: 12 mål (diff 1) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Nätbaserad kurs, innehåller obligatoriska campusträffar.… |
+<!-- analys:end -->
+
 # GPG2RR
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2RR)
