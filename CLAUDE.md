@@ -98,6 +98,8 @@ python3 scripts/scrape_hda_kursplaner.py GIK29B GDT34Z        # specific courses
 
 Requires: `requests`, `beautifulsoup4`.
 
+A **full** scrape (`--apply` with no `--institution`/`--subject`/positional-code filter) also stamps the "Senaste större skrapning" date box on the Dalarna Dashboard via `stamp_dashboard_scrape_date()` — it replaces the `<!-- scrape-date:start -->`…`<!-- scrape-date:end -->` block with today's date. Targeted re-scrapes leave it untouched.
+
 ## Programme plan scraping
 
 Scrape all programme plans from du.se:
