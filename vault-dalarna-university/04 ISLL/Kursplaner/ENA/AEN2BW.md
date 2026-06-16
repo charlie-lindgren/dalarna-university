@@ -15,12 +15,13 @@ up: "[[Engelska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | Omfång på lärandemål | Långt mål | 28 ord: - redogöra för och kritiskt reflektera över politiska, kulturella och etiska frå… |
+> | Stavfel och språkbruk | Felstavning | `frå` (sv) |
 > | Stavfel och språkbruk | Felstavning (en) | `froming` (en) |
 <!-- analys:end -->
 

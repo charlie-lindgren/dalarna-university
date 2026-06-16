@@ -16,12 +16,13 @@ up: "[[Pedagogiskt arbete]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Omfång på lärandemål | Långt mål | 30 ord: - i tal och skrift, argumentera för val av innehåll och arbetsformer i den egna … |
 > | Omfång på lärandemål | Långt mål | 27 ord: - i den egna undervisningen, aktivt verka för skolans värdegrund och samhällsupp… |
+> | Stavfel och språkbruk | Felstavning | `samhällsupp` (sv) |
 <!-- analys:end -->
 
 # GPG3AG

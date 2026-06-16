@@ -7,7 +7,7 @@ up: "[[ISLL]]"
 
 # Tyska
 
-> Forskarutbildningsämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
+> Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
 ## Kurser (30 st)
 

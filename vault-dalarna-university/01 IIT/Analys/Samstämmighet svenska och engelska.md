@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (164 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (165 rader)</span></a>
 
-> [!example]- 164 fynd — klicka för att expandera
+> [!example]- 165 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -84,6 +84,7 @@ status: första pass
 > | [GIK348](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK348) | <a class="no-graph" href="01-IIT/Kursplaner/IKA/GIK348">sida</a> | IKA | 2023-04-04 | — | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
 > | [GIK38J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK38J) | <a class="no-graph" href="01-IIT/Kursplaner/IKA/GIK38J">sida</a> | IKA | 2023-12-19 | — | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
 > | [IK1032](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IK1032) | <a class="no-graph" href="01-IIT/Kursplaner/IKA/IK1032">sida</a> | IKA | 2007-06-13 | — | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
+> | [BMA228](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BMA228) | <a class="no-graph" href="01-IIT/Kursplaner/MAA/BMA228">sida</a> | MAA | 2026-05-25 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [BMA229](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BMA229) | <a class="no-graph" href="01-IIT/Kursplaner/MAA/BMA229">sida</a> | MAA | 2026-05-25 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [GMA28W](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA28W) | <a class="no-graph" href="01-IIT/Kursplaner/MAA/GMA28W">sida</a> | MAA | 2019-03-21 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
 > | [GMA2ZS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2ZS) | <a class="no-graph" href="01-IIT/Kursplaner/MAA/GMA2ZS">sida</a> | MAA | 2022-12-01 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |

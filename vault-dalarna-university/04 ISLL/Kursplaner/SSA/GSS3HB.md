@@ -15,7 +15,7 @@ up: "[[Svenska som andraspråk]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -23,6 +23,7 @@ up: "[[Svenska som andraspråk]]"
 > | Omfång på lärandemål | För många mål | 20 lärandemål (maximum rekommenderat: 12 för 30 hp) |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 20 mål, engelska: 2 mål (diff 18) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning | `därutöve` (sv) |
 <!-- analys:end -->
 
 # GSS3HB

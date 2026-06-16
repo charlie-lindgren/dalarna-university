@@ -9,6 +9,30 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LVALA
 up: "IKS"
 ---
 
+<!-- analys:start -->
+> [!warning]- 17 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Skolans samhällsuppdrag` ≠ kursplanens namn `Skolans samhällsuppdrag - VAL` (kurskod `GPG2Z7`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Didaktik och ledarskap` ≠ kursplanens namn `Didaktik och ledarskap - VAL` (kurskod `GPG3BE`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Utveckling och lärande` ≠ kursplanens namn `Utveckling och lärande - VAL` (kurskod `GPG2Z4`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Sociala relationer och konflikthantering` ≠ kursplanens namn `Sociala relationer och konflikthantering - VAL` (kurskod `GPG2Z6`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Vetenskapsteori och utbildningsvetenskaplig forskning` ≠ kursplanens namn `Vetenskapsteori och utbildningsvetenskaplig forskning - VAL` (kurskod `APG28M`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Utvärdering och utvecklingsarbete` ≠ kursplanens namn `Utvärdering och utvecklingsarbete - VAL` (kurskod `GPG3FU`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Självständigt arbete` ≠ kursplanens namn `Självständigt arbete - VAL` (kurskod `GPG3FV`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Verksamhetsförlagd utbildning 1` ≠ kursplanens namn `Verksamhetsförlagd utbildning 1 - VAL` (kurskod `GPG3FS`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Verksamhetsförlagd utbildning 2` ≠ kursplanens namn `Verksamhetsförlagd utbildning 2 - VAL` (kurskod `GPG3FT`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Verksamhetsförlagd utbildning 3` ≠ kursplanens namn `Verksamhetsförlagd utbildning 3 - VAL` (kurskod `APG2BK`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Didaktik och bedömning` ≠ kursplanens namn `Didaktik och bedömning - VAL` (kurskod `GPG33F`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Utveckling, lärande och ledarskap` ≠ kursplanens namn `Utveckling, lärande och ledarskap - VAL` (kurskod `GPG33D`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Sociala relationer, skolans historiska utveckling och samhällsuppdrag` ≠ kursplanens namn `Sociala relationer, skolans historiska utveckling och samhällsuppdrag - VAL` (kurskod `GPG33E`) |
+> | Stavfel och språkbruk | Felstavning | `fändrik` (sv) |
+> | Stavfel och språkbruk | Felstavning | `grundlärar` (sv) |
+> | Stavfel och språkbruk | Felstavning | `umeå` (sv) |
+> | Stavfel och språkbruk | Felstavning | `ämneslärar` (sv) |
+<!-- analys:end -->
+
 # LVALA
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LVALA)

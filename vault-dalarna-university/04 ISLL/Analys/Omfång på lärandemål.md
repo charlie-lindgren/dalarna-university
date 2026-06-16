@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (336 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (338 rader)</span></a>
 
-> [!example]- 336 fynd — klicka för att expandera
+> [!example]- 338 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -112,6 +112,8 @@ status: första pass
 > | [GEN3K3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3K3) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/GEN3K3">sida</a> | ENA | 2026-04-27 | — | Långt mål | 28 ord: - förklara grundläggande typer av variation i det engelska språket, genom hänvis… |
 > | [GEN3K3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3K3) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/GEN3K3">sida</a> | ENA | 2026-04-27 | — | Långt mål | 28 ord: - redogöra för huvuddragen i de litterära och idéhistoriska epokerna inom den an… |
 > | [GEN3K3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3K3) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/GEN3K3">sida</a> | ENA | 2026-04-27 | — | Långt mål | 28 ord: - muntligt och skriftligt kommunicera sin egen såväl som andras tolkning av hist… |
+> | [GEN3KC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3KC) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/GEN3KC">sida</a> | ENA | 2026-06-15 | — | För många mål | 22 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | [GEN3KC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3KC) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/GEN3KC">sida</a> | ENA | 2026-06-15 | — | Långt mål | 30 ord: - redogöra för hur olika former av digitala verktyg kan användas för att utveckl… |
 > | [AFR24A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR24A) | <a class="no-graph" href="04-ISLL/Kursplaner/FRA/AFR24A">sida</a> | FRA | 2020-02-26 | — | Långt mål | 31 ord: - visa förmåga att, med högt ställda krav på skriftlig och muntlig kommunikation… |
 > | [AFR24B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR24B) | <a class="no-graph" href="04-ISLL/Kursplaner/FRA/AFR24B">sida</a> | FRA | 2020-02-26 | — | Långt mål | 32 ord: - visa fördjupad förmåga att, med högt ställda krav på skriftlig och muntlig kom… |
 > | [AFR24B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR24B) | <a class="no-graph" href="04-ISLL/Kursplaner/FRA/AFR24B">sida</a> | FRA | 2020-02-26 | — | Långt mål | 26 ord: - visa fördjupad förmåga att analysera, värdera och diskutera andras vetenskapli… |

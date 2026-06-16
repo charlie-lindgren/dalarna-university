@@ -15,7 +15,7 @@ up: "[[Byggteknik]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -23,6 +23,7 @@ up: "[[Byggteknik]]"
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig tentamen (2 hp) Litteraturseminarium (1,5 hp) Projektuppgift (4 hp) Laborationer (2,5 hp)… |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att studenten ska skaffa sig grundläggande kunskaper inom fysisk planering med tyng… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+> | Stavfel och språkbruk | Felstavning | `bedömni` (sv) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GSQ25G.… |
 <!-- analys:end -->
 

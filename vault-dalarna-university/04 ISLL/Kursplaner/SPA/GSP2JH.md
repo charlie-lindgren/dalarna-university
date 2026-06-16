@@ -16,7 +16,7 @@ up: "[[Spanska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 9 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 10 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -28,6 +28,7 @@ up: "[[Spanska]]"
 > | Omfång på lärandemål | Långt mål | 35 ord: - diskutera och reflektera över samspelet mellan inre och yttre faktorer som är … |
 > | Omfång på lärandemål | Långt mål | 32 ord: - visa fördjupade kunskaper om användningen av digitala verktyg i språkundervisn… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 38 mål, engelska: 1 mål (diff 37) |
+> | Stavfel och språkbruk | Felstavning | `språkundervisn` (sv) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Denna utbildning är en uppdragsutbildning och får endast sökas av lärare som deltar i Lärarlyftet. För att delta i en ku… |
 <!-- analys:end -->
 

@@ -15,7 +15,7 @@ up: "[[Tyska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 12 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 13 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -31,6 +31,7 @@ up: "[[Tyska]]"
 > | Omfång på lärandemål | Långt mål | 26 ord: - ställa en relevant forskningsfråga inom ett avgränsat problemområde som är kop… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 36 mål, engelska: 1 mål (diff 35) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning | `språkun` (sv) |
 <!-- analys:end -->
 
 # GTY3CT

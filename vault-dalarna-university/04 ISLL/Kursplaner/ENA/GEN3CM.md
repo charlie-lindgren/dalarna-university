@@ -15,7 +15,7 @@ up: "[[Engelska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 16 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 17 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -35,6 +35,7 @@ up: "[[Engelska]]"
 > | Stavfel och språkbruk | Felstavning | `bedöming` (sv) |
 > | Stavfel och språkbruk | Felstavning | `föväntas` (sv) |
 > | Stavfel och språkbruk | Felstavning | `ideströmningar` (sv) |
+> | Stavfel och språkbruk | Felstavning | `språku` (sv) |
 <!-- analys:end -->
 
 # GEN3CM

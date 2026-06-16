@@ -15,7 +15,7 @@ up: "[[Pedagogiskt arbete]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 9 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -25,6 +25,7 @@ up: "[[Pedagogiskt arbete]]"
 > | Omfång på lärandemål | Långt mål | 27 ord: - med utgångspunkt i praktikens didaktiska villkor och utifrån ett hållbarhetspe… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 27 mål, engelska: 2 mål (diff 25) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning | `hållbarhetspe` (sv) |
 > | Stavfel och språkbruk | Felstavning | `samhällorienterande` (sv) |
 > | Stavfel och språkbruk | Felstavning (en) | `sociaty` (en) |
 <!-- analys:end -->

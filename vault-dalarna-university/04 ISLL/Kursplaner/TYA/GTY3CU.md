@@ -16,7 +16,7 @@ cssclasses: [vilande]
 ---
 
 <!-- analys:start -->
-> [!warning]- 12 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 13 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -32,6 +32,7 @@ cssclasses: [vilande]
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 34 mål, engelska: 1 mål (diff 33) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
 > | Stavfel och språkbruk | Felstavning | `samhällssyttringar` (sv) |
+> | Stavfel och språkbruk | Felstavning | `språkun` (sv) |
 <!-- analys:end -->
 
 # GTY3CU

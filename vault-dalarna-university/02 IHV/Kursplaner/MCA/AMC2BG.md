@@ -15,7 +15,7 @@ up: "[[Medicinsk vetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -23,6 +23,7 @@ up: "[[Medicinsk vetenskap]]"
 > | Omfång på lärandemål | Långt mål | 27 ord: - identifiera och diskutera miljö- och hållbarhetsperspektiv i samband med läkem… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 9 mål, engelska: 1 mål (diff 8) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning | `läkem` (sv) |
 <!-- analys:end -->
 
 # AMC2BG

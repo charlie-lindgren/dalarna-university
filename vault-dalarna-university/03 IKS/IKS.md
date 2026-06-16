@@ -44,28 +44,30 @@ tags: [MOC, institution, IKS]
 ## Ämnen
 
 - [[Afrikanska studier]] (19 kurser)
+- [[Arbetsvetenskap]] (42 kurser)
+- [[Bild]] (9 kurser)
+- [[Bildproduktion]] (62 kurser)
 - [[Entreprenörskap och innovationsteknik]] (17 kurser)
+- [[Filosofi]] (22 kurser)
+- [[Företagsekonomi]] (41 kurser)
+- [[Historia]] (63 kurser)
+- [[Industriell ekonomi]] (2 kurser)
 - [[Kulturgeografi]] (23 kurser)
+- [[Ljud- och musikproduktion]] (57 kurser)
+- [[Medieproduktion]] (32 kurser)
+- [[Nationalekonomi]] (34 kurser)
 - [[Pedagogik]] (44 kurser)
+- [[Pedagogiskt arbete]] (111 kurser)
+- [[Personal och arbetsliv]] (18 kurser)
+- [[Religionsvetenskap]] (37 kurser)
+- [[Rättsvetenskap]] (33 kurser)
+- [[Sociologi]] (17 kurser)
+- [[Statsvetenskap]] (38 kurser)
+- [[Turismvetenskap]] (45 kurser)
 
 ## Forskarutbildningsämnen
 
-- [[Arbetsvetenskap]] (55 kurser)
-- [[Bild]] (15 kurser)
-- [[Bildproduktion]] (78 kurser)
-- [[Filosofi]] (23 kurser)
-- [[Företagsekonomi]] (51 kurser)
-- [[Historia]] (82 kurser)
-- [[Ljud- och musikproduktion]] (67 kurser)
-- [[Medieproduktion]] (36 kurser)
-- [[Nationalekonomi]] (38 kurser)
-- [[Pedagogiskt arbete]] (207 kurser)
-- [[Personal och arbetsliv]] (26 kurser)
-- [[Religionsvetenskap]] (51 kurser)
-- [[Rättsvetenskap]] (36 kurser)
-- [[Sociologi]] (21 kurser)
-- [[Statsvetenskap]] (52 kurser)
-- [[Turismvetenskap]] (55 kurser)
+- [[Forskarämne Pedagogiskt arbete]] (19 kurser)
 
 ## Kvalitetsanalys
 

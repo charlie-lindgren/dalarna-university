@@ -16,7 +16,7 @@ up: "[[Samhällsbyggnadsteknik]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -24,6 +24,7 @@ up: "[[Samhällsbyggnadsteknik]]"
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Seminarier och skriftliga inlämningsuppgifter i kvalitativa metoder, 3,5 hp Seminarier och skriftliga inlämningsuppgifte… |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att studenten ska skaffa sig förtrogenhet inom vetenskapligt metod. Efter genomgång… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | Stavfel och språkbruk | Felstavning | `inlämningsuppgifte` (sv) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter SQ1003.… |
 <!-- analys:end -->
 

@@ -15,7 +15,7 @@ up: "[[Pedagogiskt arbete]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -24,6 +24,7 @@ up: "[[Pedagogiskt arbete]]"
 > | Omfång på lärandemål | Långt mål | 27 ord: - identifiera och beakta grundläggande demokratiska värderingar samt olika jämst… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 15 mål, engelska: 2 mål (diff 13) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning | `jämst` (sv) |
 <!-- analys:end -->
 
 # GPG3EU

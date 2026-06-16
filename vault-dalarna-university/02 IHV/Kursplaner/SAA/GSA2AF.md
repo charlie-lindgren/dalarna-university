@@ -15,7 +15,7 @@ up: "[[Socialt arbete]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 9 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 10 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -27,6 +27,7 @@ up: "[[Socialt arbete]]"
 > | Omfång på lärandemål | Långt mål | 32 ord: - komponera och integrera de olika delarna i ett vetenskapligt arbete på ett såd… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 14 mål, engelska: 1 mål (diff 13) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning | `såd` (sv) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ingår i Socionomprogrammet. Kursen motsvarar delkurs 3 i SA2020.… |
 <!-- analys:end -->
 

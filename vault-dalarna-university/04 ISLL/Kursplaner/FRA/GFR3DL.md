@@ -16,7 +16,7 @@ up: "[[Franska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 9 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 10 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -27,6 +27,7 @@ up: "[[Franska]]"
 > | Omfång på lärandemål | Långt mål | 26 ord: - visa förmåga att i skriftlig och muntlig form presentera och argumentera för e… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 78 mål, engelska: 1 mål (diff 77) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning | `franskspråki` (sv) |
 > | Stavfel och språkbruk | Felstavning (en) | `ehtics` (en) |
 > | Stavfel och språkbruk | Felstavning (en) | `teachning` (en) |
 <!-- analys:end -->

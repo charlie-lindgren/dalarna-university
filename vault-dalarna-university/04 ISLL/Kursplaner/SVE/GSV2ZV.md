@@ -15,7 +15,7 @@ up: "[[Svenska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -25,6 +25,8 @@ up: "[[Svenska]]"
 > | Omfång på lärandemål | Långt mål | 26 ord: - visa kunskap om skönlitterära genrer och litteraturvetenskapliga begrepp samt … |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 23 mål, engelska: 2 mål (diff 21) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning | `språ` (sv) |
+> | Stavfel och språkbruk | Felstavning | `språkut` (sv) |
 <!-- analys:end -->
 
 # GSV2ZV

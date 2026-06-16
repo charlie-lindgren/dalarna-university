@@ -7,7 +7,8 @@ up: "[[ISLL]]"
 
 # Engelska
 
-> Forskarutbildningsämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
+> Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
+> Huvudområde: Engelskspråkig litteratur 1 Interkulturella litteraturstudier 2
 
 ## Kurser (51 st)
 

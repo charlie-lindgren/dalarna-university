@@ -8,6 +8,7 @@ up: "[[IIT]]"
 # Datateknik
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
+> Huvudområde: Mikrodataanalys 1
 
 ## Kurser (4 st)
 

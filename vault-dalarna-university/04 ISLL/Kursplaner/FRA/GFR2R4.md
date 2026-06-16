@@ -16,7 +16,7 @@ up: "[[Franska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 14 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 16 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -33,6 +33,8 @@ up: "[[Franska]]"
 > | Omfång på lärandemål | Långt mål | 32 ord: - visa förmåga att formulera en relevant forskningsfråga inom ett avgränsat prob… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 37 mål, engelska: 1 mål (diff 36) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning | `språku` (sv) |
+> | Stavfel och språkbruk | Felstavning | `språkundervisnin` (sv) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GFR2JD. För nätbaserad kurs krävs tillgång till dator, headset, webbkamera och internetuppkoppling. Kursen inne… |
 <!-- analys:end -->
 

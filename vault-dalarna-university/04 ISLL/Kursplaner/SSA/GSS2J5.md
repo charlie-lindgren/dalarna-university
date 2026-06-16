@@ -16,7 +16,7 @@ up: "[[Svenska som andraspråk]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 10 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 11 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -27,6 +27,7 @@ up: "[[Svenska som andraspråk]]"
 > | Omfång på lärandemål | För många mål | 32 lärandemål (maximum rekommenderat: 15 för 67.5 hp) |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 32 mål, engelska: 1 mål (diff 31) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning | `inlämnin` (sv) |
 > | Stavfel och språkbruk | Felstavning (en) | `amd` (en) |
 > | Stavfel och språkbruk | Felstavning (en) | `pracitse` (en) |
 > | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |

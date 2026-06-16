@@ -15,7 +15,7 @@ up: "[[Japanska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -23,6 +23,7 @@ up: "[[Japanska]]"
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras fortlöpande genom skriftliga inlämningsuppgifter, datoriserade prov online, inspelningsuppgifter, bedö… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Japanska I` → `JP1001` (nedlagd 2009-12-01); förkunskap nämner nedlagd kurs |
+> | Stavfel och språkbruk | Felstavning | `bedö` (sv) |
 > | Stavfel och språkbruk | Felstavning (en) | `opprtunity` (en) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen vänder sig till den som har kunskaper i japanska motsvarande JLPT nivå N5. Detta innebär att man kan läsa och skr… |
 <!-- analys:end -->

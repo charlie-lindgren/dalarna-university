@@ -15,6 +15,17 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3KC
 up: "[[Engelska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande fördjupar sina kunskaper om engelskämnets ämnesteoretiska och didaktiska … |
+> | Omfång på lärandemål | För många mål | 22 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 30 ord: - redogöra för hur olika former av digitala verktyg kan användas för att utveckl… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 22 mål, engelska: 1 mål (diff 21) |
+<!-- analys:end -->
+
 # GEN3KC
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3KC)

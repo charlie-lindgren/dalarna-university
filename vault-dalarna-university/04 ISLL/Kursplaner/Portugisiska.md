@@ -7,7 +7,8 @@ up: "[[ISLL]]"
 
 # Portugisiska
 
-> Forskarutbildningsämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
+> Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
+> Huvudområde: Portugisiska 1
 
 ## Kurser (21 st)
 

@@ -9,6 +9,16 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VDSSA
 up: "IHV"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Stavfel och språkbruk | Felstavning | `hälso` (sv) |
+> | Stavfel och språkbruk | Felstavning | `levnadsvaneförändring` (sv) |
+> | Stavfel och språkbruk | Felstavning | `levnadsvaneförändringar` (sv) |
+<!-- analys:end -->
+
 # VDSSA
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VDSSA)

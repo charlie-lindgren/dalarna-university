@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Introfras.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (141 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Introfras.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (142 rader)</span></a>
 
-> [!example]- 141 fynd — klicka för att expandera
+> [!example]- 142 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -39,6 +39,7 @@ status: första pass
 > | [GEN3DG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DG) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/GEN3DG">sida</a> | ENA | 2025-01-13 | — | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att studenten vidareutvecklar sina kunskaper om det engelska språket och om engelskämnets ve… |
 > | [GEN3DK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DK) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/GEN3DK">sida</a> | ENA | 2025-01-13 | — | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att studenten fördjupar sina kunskaper om engelskämnets litteraturvetenskapliga grund. Ytter… |
 > | [GEN3K3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3K3) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/GEN3K3">sida</a> | ENA | 2026-04-27 | — | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att studenten vidareutvecklar sina kunskaper om det engelska språket och om engelskämnets ve… |
+> | [GEN3KC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3KC) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/GEN3KC">sida</a> | ENA | 2026-06-15 | — | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande fördjupar sina kunskaper om engelskämnets ämnesteoretiska och didaktiska … |
 > | [AFR24A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR24A) | <a class="no-graph" href="04-ISLL/Kursplaner/FRA/AFR24A">sida</a> | FRA | 2020-02-26 | — | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande fördjupar såväl sina kunskaper i franska och sin teoretiska medvetenhet i… |
 > | [AFR24B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR24B) | <a class="no-graph" href="04-ISLL/Kursplaner/FRA/AFR24B">sida</a> | FRA | 2020-02-26 | — | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens… |
 > | [AFR24Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR24Z) | <a class="no-graph" href="04-ISLL/Kursplaner/FRA/AFR24Z">sida</a> | FRA | 2020-03-09 | — | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande syfte är att förbereda den studerande inför uppgiften att skriva ett språkvetenskapligt eller litte… |
