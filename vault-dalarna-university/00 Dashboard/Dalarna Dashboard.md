@@ -8,6 +8,11 @@ cssclasses: [wide-page]
 
 > Samtliga kursplaner och utbildningsplaner vid Högskolan Dalarna, organiserade per institution och ämne.
 
+<!-- scrape-date:start -->
+> [!info] Senaste större skrapning
+> Kurs- och utbildningsplanerna hämtades senast från du.se den **2026-06-08**.
+<!-- scrape-date:end -->
+
 ## Institutioner
 
 Högskolan Dalarna har fyra institutioner. Klicka för att utforska kurs- och utbildningsplaner per institution.
