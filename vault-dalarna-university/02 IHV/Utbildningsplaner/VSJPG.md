@@ -9,6 +9,14 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSJPG
 up: "IHV"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Stavfel och språkbruk | Felstavning | `engström` (sv) |
+<!-- analys:end -->
+
 # VSJPG
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSJPG)
