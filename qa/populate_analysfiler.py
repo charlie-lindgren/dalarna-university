@@ -12,10 +12,13 @@ Idempotent: hittar callout-blocket `> [!example]- ... fynd ...` i analysfilen,
 och ersätter det med ett nytt block byggt från rapporten. All övrig prosa
 (syfte, metod, observationer, rekommendationer) lämnas orörd.
 
-Skriver dessutom en kursspecifik callout överst i varje kursplan som har minst
-ett fynd (avgränsad av `<!-- analys:start -->` / `<!-- analys:end -->`), och tar
-bort blocket från kursplaner utan kvarvarande fynd. Inga separata analysnoder
-skapas — dropdownen ligger direkt i kursplanen. Se ``populate_kursplan_callouts``.
+Skriver dessutom en plan-specifik callout överst i varje kurs- OCH utbildningsplan
+som har minst ett fynd (avgränsad av `<!-- analys:start -->` / `<!-- analys:end -->`),
+och tar bort blocket från planer utan kvarvarande fynd. Varje plan får bara de fynd
+vars kod matchar planen (kurskoder → kursplaner, programkoder → utbildningsplaner).
+Inga separata analysnoder skapas — dropdownen ligger direkt i planen. Filerna läses
+och skrivs som bytes så att scrapernas radslut (enstaka `\r\n`) bevaras exakt. Se
+``populate_plan_callouts``.
 
 Användning:
     python3 qa/populate_analysfiler.py [--rapport <fil>] [--dry-run]
