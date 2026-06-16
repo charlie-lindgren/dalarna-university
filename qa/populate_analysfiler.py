@@ -702,7 +702,7 @@ def main():
                 print(f"    {inst_code:<5} {len(rows):>4} fynd  (md oförändrad)")
 
             if not dry_run:
-                build_xlsx(rows, xlsx_path, sheet_title=analys_path.stem)
+                build_xlsx(rows, xlsx_path, sheet_title=analys_path.stem, meta_map=plan_meta)
 
     if unmapped:
         print(f"\n  {YELLOW}{len(unmapped)} kurs(er) gick inte att klassa till institution"

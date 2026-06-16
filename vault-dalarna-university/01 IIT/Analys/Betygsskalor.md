@@ -12,19 +12,19 @@ status: första pass
 
 > [!example]- 11 fynd — klicka för att expandera
 >
-> | Kursplan | Ämne | Problem | Detalj |
-> | --- | --- | --- | --- |
-> | [BY3005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY3005) | BYA | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
-> | [GBY2J2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2J2) | BYA | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
-> | [GBY2XF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2XF) | BYA | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
-> | [GSQ23K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ23K) | SQQ | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
-> | [GSQ25F](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25F) | SQQ | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
-> | [GSQ25K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25K) | SQQ | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
-> | [GSQ2J4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2J4) | SQQ | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
-> | [GSQ2L8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2L8) | SQQ | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
-> | [GSQ2PH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2PH) | SQQ | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
-> | [GSQ33M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ33M) | SQQ | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
-> | [GSQ33N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ33N) | SQQ | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
+> | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | [BY3005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY3005) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/BY3005">sida</a> | BYA | 2017-12-14 | — | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
+> | [GBY2J2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2J2) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/GBY2J2">sida</a> | BYA | 2020-09-03 | — | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
+> | [GBY2XF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2XF) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/GBY2XF">sida</a> | BYA | 2022-09-05 | — | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
+> | [GSQ23K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ23K) | <a class="no-graph" href="01-IIT/Kursplaner/SQQ/GSQ23K">sida</a> | SQQ | 2018-06-14 | — | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
+> | [GSQ25F](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25F) | <a class="no-graph" href="01-IIT/Kursplaner/SQQ/GSQ25F">sida</a> | SQQ | 2018-10-29 | — | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
+> | [GSQ25K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25K) | <a class="no-graph" href="01-IIT/Kursplaner/SQQ/GSQ25K">sida</a> | SQQ | 2018-11-08 | — | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
+> | [GSQ2J4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2J4) | <a class="no-graph" href="01-IIT/Kursplaner/SQQ/GSQ2J4">sida</a> | SQQ | 2020-09-03 | — | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
+> | [GSQ2L8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2L8) | <a class="no-graph" href="01-IIT/Kursplaner/SQQ/GSQ2L8">sida</a> | SQQ | 2020-12-17 | — | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
+> | [GSQ2PH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2PH) | <a class="no-graph" href="01-IIT/Kursplaner/SQQ/GSQ2PH">sida</a> | SQQ | 2021-04-15 | — | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
+> | [GSQ33M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ33M) | <a class="no-graph" href="01-IIT/Kursplaner/SQQ/GSQ33M">sida</a> | SQQ | 2023-03-07 | — | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
+> | [GSQ33N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ33N) | <a class="no-graph" href="01-IIT/Kursplaner/SQQ/GSQ33N">sida</a> | SQQ | 2023-03-07 | — | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
 
 ## Syfte
 

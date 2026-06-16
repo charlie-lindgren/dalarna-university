@@ -12,10 +12,10 @@ status: första pass
 
 > [!example]- 2 fynd — klicka för att expandera
 >
-> | Kursplan | Ämne | Problem | Detalj |
-> | --- | --- | --- | --- |
-> | [VBSKA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VBSKA) | Utbildningsplan | Programmet listar nedlagd kurs | `Gynekologisk och postpartumvård, verksamhetsförlagd utbildning` → `VÅ3086` (nedlagd 2017-04-07) — plain-text-referens |
-> | [VSSKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSSKG) | Utbildningsplan | Programmet listar nedlagd kurs | `Introduktion omvårdnad och etik - Huvudområde Omvårdnad` → `VÅ1061` (nedlagd 2025-06-03) — plain-text-referens |
+> | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | [VBSKA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VBSKA) | <a class="no-graph" href="02-IHV/Utbildningsplaner/VBSKA">sida</a> | Utbildningsplan | 2019-09-10 | — | Programmet listar nedlagd kurs | `Gynekologisk och postpartumvård, verksamhetsförlagd utbildning` → `VÅ3086` (nedlagd 2017-04-07) — plain-text-referens |
+> | [VSSKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSSKG) | <a class="no-graph" href="02-IHV/Utbildningsplaner/VSSKG">sida</a> | Utbildningsplan | 2018-12-04 | 2020-12-17 | Programmet listar nedlagd kurs | `Introduktion omvårdnad och etik - Huvudområde Omvårdnad` → `VÅ1061` (nedlagd 2025-06-03) — plain-text-referens |
 
 ## Syfte
 

@@ -15,13 +15,13 @@ Utbildningsplanens `## 3. Programmets kurser`-sektion ska helst lista varje kurs
 
 > [!example]- 5 fynd — klicka för att expandera
 >
-> | Kursplan | Ämne | Problem | Detalj |
-> | --- | --- | --- | --- |
-> | [VBSKA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VBSKA) | Utbildningsplan | Kursnamnet finns varken aktivt eller nedlagt | `Gravididet, förlossning och postpartumvård 1` (7,5 hp) |
-> | [VBSKA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VBSKA) | Utbildningsplan | Kursnamnet finns varken aktivt eller nedlagt | `Gravididet, förlossning och postpartumvård 2` (6 hp) |
-> | [VGSEA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VGSEA) | Utbildningsplan | Kursnamnet finns varken aktivt eller nedlagt | `Strategier för implementering av förbättringsarbete i hälso-sjukvård` (7,5 hp) |
-> | [VIDRG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VIDRG) | Utbildningsplan | Kursnamnet finns varken aktivt eller nedlagt | `Media och kommunikation inom idrott` (7,5hp) |
-> | [VSADA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSADA) | Utbildningsplan | Kursnamnet finns varken aktivt eller nedlagt | `Personcentrerad vård av personer med demens` (7,5 hp) |
+> | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | [VBSKA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VBSKA) | <a class="no-graph" href="02-IHV/Utbildningsplaner/VBSKA">sida</a> | Utbildningsplan | 2019-09-10 | — | Kursnamnet finns varken aktivt eller nedlagt | `Gravididet, förlossning och postpartumvård 1` (7,5 hp) |
+> | [VBSKA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VBSKA) | <a class="no-graph" href="02-IHV/Utbildningsplaner/VBSKA">sida</a> | Utbildningsplan | 2019-09-10 | — | Kursnamnet finns varken aktivt eller nedlagt | `Gravididet, förlossning och postpartumvård 2` (6 hp) |
+> | [VGSEA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VGSEA) | <a class="no-graph" href="02-IHV/Utbildningsplaner/VGSEA">sida</a> | Utbildningsplan | 2021-03-04 | — | Kursnamnet finns varken aktivt eller nedlagt | `Strategier för implementering av förbättringsarbete i hälso-sjukvård` (7,5 hp) |
+> | [VIDRG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VIDRG) | <a class="no-graph" href="02-IHV/Utbildningsplaner/VIDRG">sida</a> | Utbildningsplan | 2025-01-15 | — | Kursnamnet finns varken aktivt eller nedlagt | `Media och kommunikation inom idrott` (7,5hp) |
+> | [VSADA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSADA) | <a class="no-graph" href="02-IHV/Utbildningsplaner/VSADA">sida</a> | Utbildningsplan | 2023-01-09 | — | Kursnamnet finns varken aktivt eller nedlagt | `Personcentrerad vård av personer med demens` (7,5 hp) |
 
 ## Syfte
 

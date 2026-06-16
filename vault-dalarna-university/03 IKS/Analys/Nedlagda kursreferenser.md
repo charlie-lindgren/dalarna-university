@@ -12,17 +12,17 @@ status: första pass
 
 > [!example]- 9 fynd — klicka för att expandera
 >
-> | Kursplan | Ämne | Problem | Detalj |
-> | --- | --- | --- | --- |
-> | [KFTPG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFTPG) | Utbildningsplan | Programmet listar nedlagd kurs | `Konceptutveckling inom medieproduktion` → `BQ2049` (nedlagd 2025-03-06) — plain-text-referens |
-> | [LBF3A](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LBF3A) | Utbildningsplan | Programmet listar nedlagd kurs | `Text, kommunikation och lärande i en mångkulturell skola` → `GSV22L` (nedlagd 2024-10-11) — plain-text-referens |
-> | [LP79A](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LP79A) | Utbildningsplan | Programmet listar nedlagd kurs | `Didaktik och ledarskap för ämneslärare` → `PG1020` (nedlagd 2018-07-02) — plain-text-referens |
-> | [LPGYA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LPGYA) | Utbildningsplan | Programmet listar nedlagd kurs | `Didaktik och ledarskap för ämneslärare` → `PG1020` (nedlagd 2018-07-02) — plain-text-referens |
-> | [SSHVG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SSHVG) | Utbildningsplan | Programmet listar nedlagd kurs | `Samhällsekonomi` → `GSQ25R` (nedlagd 2025-12-08) — plain-text-referens |
-> | [SSHVG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SSHVG) | Utbildningsplan | Programmet listar nedlagd kurs | `Konformitet och avvikelse` → `SO1007` (nedlagd 2025-11-13) — plain-text-referens |
-> | [STMGG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=STMGG) | Utbildningsplan | Programmet listar nedlagd kurs | `Grundläggande ekonomistyrning` → `FEA034` (nedlagd 2008-03-18) — plain-text-referens |
-> | [STMGG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=STMGG) | Utbildningsplan | Programmet listar nedlagd kurs | `Kvalitativa forskningsmetoder` → `SB3002` (nedlagd 2013-01-15) — plain-text-referens |
-> | [STMGG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=STMGG) | Utbildningsplan | Programmet listar nedlagd kurs | `Projektarbete` → `BTA009` (nedlagd 2008-05-22) — plain-text-referens |
+> | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | [KFTPG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFTPG) | <a class="no-graph" href="03-IKS/Utbildningsplaner/KFTPG">sida</a> | Utbildningsplan | 2014-03-19 | 2021-03-23 | Programmet listar nedlagd kurs | `Konceptutveckling inom medieproduktion` → `BQ2049` (nedlagd 2025-03-06) — plain-text-referens |
+> | [LBF3A](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LBF3A) | <a class="no-graph" href="03-IKS/Utbildningsplaner/LBF3A">sida</a> | Utbildningsplan | 2020-12-17 | 2023-06-02 | Programmet listar nedlagd kurs | `Text, kommunikation och lärande i en mångkulturell skola` → `GSV22L` (nedlagd 2024-10-11) — plain-text-referens |
+> | [LP79A](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LP79A) | <a class="no-graph" href="03-IKS/Utbildningsplaner/LP79A">sida</a> | Utbildningsplan | 2017-12-19 | 2022-08-29 | Programmet listar nedlagd kurs | `Didaktik och ledarskap för ämneslärare` → `PG1020` (nedlagd 2018-07-02) — plain-text-referens |
+> | [LPGYA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LPGYA) | <a class="no-graph" href="03-IKS/Utbildningsplaner/LPGYA">sida</a> | Utbildningsplan | 2017-12-19 | 2022-08-29 | Programmet listar nedlagd kurs | `Didaktik och ledarskap för ämneslärare` → `PG1020` (nedlagd 2018-07-02) — plain-text-referens |
+> | [SSHVG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SSHVG) | <a class="no-graph" href="03-IKS/Utbildningsplaner/SSHVG">sida</a> | Utbildningsplan | 2021-06-16 | — | Programmet listar nedlagd kurs | `Samhällsekonomi` → `GSQ25R` (nedlagd 2025-12-08) — plain-text-referens |
+> | [SSHVG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SSHVG) | <a class="no-graph" href="03-IKS/Utbildningsplaner/SSHVG">sida</a> | Utbildningsplan | 2021-06-16 | — | Programmet listar nedlagd kurs | `Konformitet och avvikelse` → `SO1007` (nedlagd 2025-11-13) — plain-text-referens |
+> | [STMGG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=STMGG) | <a class="no-graph" href="03-IKS/Utbildningsplaner/STMGG">sida</a> | Utbildningsplan | 2017-11-15 | 2023-03-17 | Programmet listar nedlagd kurs | `Grundläggande ekonomistyrning` → `FEA034` (nedlagd 2008-03-18) — plain-text-referens |
+> | [STMGG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=STMGG) | <a class="no-graph" href="03-IKS/Utbildningsplaner/STMGG">sida</a> | Utbildningsplan | 2017-11-15 | 2023-03-17 | Programmet listar nedlagd kurs | `Kvalitativa forskningsmetoder` → `SB3002` (nedlagd 2013-01-15) — plain-text-referens |
+> | [STMGG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=STMGG) | <a class="no-graph" href="03-IKS/Utbildningsplaner/STMGG">sida</a> | Utbildningsplan | 2017-11-15 | 2023-03-17 | Programmet listar nedlagd kurs | `Projektarbete` → `BTA009` (nedlagd 2008-05-22) — plain-text-referens |
 
 ## Syfte
 

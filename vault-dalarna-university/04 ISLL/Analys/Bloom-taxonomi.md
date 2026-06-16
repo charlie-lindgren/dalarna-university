@@ -12,27 +12,27 @@ status: första pass
 
 > [!example]- 19 fynd — klicka för att expandera
 >
-> | Kursplan | Ämne | Problem | Detalj |
-> | --- | --- | --- | --- |
-> | [AEN2BP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BP) | ENA | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,3,1,0,0,0] |
-> | [AEN2BR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BR) | ENA | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [2,0,1,0,0,0] |
-> | [AEN2BT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BT) | ENA | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,1,1,0,0,0] |
-> | [AEN2BU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BU) | ENA | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,2,1,0,0,0] |
-> | [EN3062](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3062) | ENA | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [2,1,1,0,0,0] |
-> | [EN3075](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3075) | ENA | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [3,1,1,0,0,0] |
-> | [GIT247](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT247) | ITA | Okänt ledande verb | 3 av 7 bullets har okänt ledande verb |
-> | [AJP23N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP23N) | JAA | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,3,1,0,0,0] |
-> | [AJP279](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP279) | JAA | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,2,1,0,0,0] |
-> | [AJP27A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP27A) | JAA | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,1,1,0,0,0] |
-> | [AJP27B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP27B) | JAA | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [2,0,1,0,0,0] |
-> | [AKI28Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKI28Z) | KIA | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,2,1,0,0,0] |
-> | [GSS2J5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2J5) | SSA | Okänt ledande verb | 4 av 32 bullets har okänt ledande verb |
-> | [GSS3C6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3C6) | SSA | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [0,0,0,1,1,1] |
-> | [SS3003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3003) | SSA | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [2,1,1,0,0,0] |
-> | [SS3004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3004) | SSA | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [2,1,1,0,0,0] |
-> | [SS3007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3007) | SSA | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [5,0,1,0,0,0] |
-> | [SS3011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3011) | SSA | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [5,0,0,0,0,0] |
-> | [TY3012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TY3012) | TYA | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [3,1,2,0,0,0] |
+> | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | [AEN2BP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BP) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/AEN2BP">sida</a> | ENA | 2025-09-03 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,3,1,0,0,0] |
+> | [AEN2BR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BR) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/AEN2BR">sida</a> | ENA | 2025-09-03 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [2,0,1,0,0,0] |
+> | [AEN2BT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BT) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/AEN2BT">sida</a> | ENA | 2025-09-03 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,1,1,0,0,0] |
+> | [AEN2BU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BU) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/AEN2BU">sida</a> | ENA | 2025-09-03 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,2,1,0,0,0] |
+> | [EN3062](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3062) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/EN3062">sida</a> | ENA | 2013-09-03 | 2023-12-08 | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [2,1,1,0,0,0] |
+> | [EN3075](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3075) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/EN3075">sida</a> | ENA | 2017-03-13 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [3,1,1,0,0,0] |
+> | [GIT247](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT247) | <a class="no-graph" href="04-ISLL/Kursplaner/ITA/GIT247">sida</a> | ITA | 2018-09-04 | — | Okänt ledande verb | 3 av 7 bullets har okänt ledande verb |
+> | [AJP23N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP23N) | <a class="no-graph" href="04-ISLL/Kursplaner/JAA/AJP23N">sida</a> | JAA | 2020-01-29 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,3,1,0,0,0] |
+> | [AJP279](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP279) | <a class="no-graph" href="04-ISLL/Kursplaner/JAA/AJP279">sida</a> | JAA | 2021-11-09 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,2,1,0,0,0] |
+> | [AJP27A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP27A) | <a class="no-graph" href="04-ISLL/Kursplaner/JAA/AJP27A">sida</a> | JAA | 2021-11-09 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,1,1,0,0,0] |
+> | [AJP27B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP27B) | <a class="no-graph" href="04-ISLL/Kursplaner/JAA/AJP27B">sida</a> | JAA | 2021-11-09 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [2,0,1,0,0,0] |
+> | [AKI28Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKI28Z) | <a class="no-graph" href="04-ISLL/Kursplaner/KIA/AKI28Z">sida</a> | KIA | 2023-05-22 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,2,1,0,0,0] |
+> | [GSS2J5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2J5) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/GSS2J5">sida</a> | SSA | 2020-09-09 | — | Okänt ledande verb | 4 av 32 bullets har okänt ledande verb |
+> | [GSS3C6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3C6) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/GSS3C6">sida</a> | SSA | 2024-06-19 | — | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [0,0,0,1,1,1] |
+> | [SS3003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3003) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS3003">sida</a> | SSA | 2014-03-20 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [2,1,1,0,0,0] |
+> | [SS3004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3004) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS3004">sida</a> | SSA | 2014-04-11 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [2,1,1,0,0,0] |
+> | [SS3007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3007) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS3007">sida</a> | SSA | 2014-10-30 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [5,0,1,0,0,0] |
+> | [SS3011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3011) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS3011">sida</a> | SSA | 2016-06-09 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [5,0,0,0,0,0] |
+> | [TY3012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TY3012) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/TY3012">sida</a> | TYA | 2013-11-07 | 2019-12-20 | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [3,1,2,0,0,0] |
 
 ## Syfte
 

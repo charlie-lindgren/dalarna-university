@@ -12,172 +12,172 @@ status: första pass
 
 > [!example]- 164 fynd — klicka för att expandera
 >
-> | Kursplan | Ämne | Problem | Detalj |
-> | --- | --- | --- | --- |
-> | [FDA222R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222R) | ANALYTIC | Paritetsskillnad | Svenska: 2 mål, engelska: 1 mål (diff 1) |
-> | [FDA222R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222R) | ANALYTIC | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (2 mål utan punktlista) |
-> | [FDA222R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222R) | ANALYTIC | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | [FDA222S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222S) | ANALYTIC | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (1 mål utan punktlista) |
-> | [FDA222S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222S) | ANALYTIC | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | [FDA222T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222T) | ANALYTIC | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (1 mål utan punktlista) |
-> | [FDA222T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222T) | ANALYTIC | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | [FDA222U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222U) | ANALYTIC | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (1 mål utan punktlista) |
-> | [FDA222U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222U) | ANALYTIC | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | [BY1053](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1053) | BYA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [BY1054](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1054) | BYA | Paritetsskillnad | Svenska: 14 mål, engelska: 0 mål (diff 14) |
-> | [BY1058](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1058) | BYA | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
-> | [BY1065](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1065) | BYA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [BY2022](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY2022) | BYA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
-> | [BY2025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY2025) | BYA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
-> | [GBY2GB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2GB) | BYA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
-> | [GBY2GC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2GC) | BYA | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
-> | [GBY2GR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2GR) | BYA | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
-> | [GBY2J2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2J2) | BYA | Paritetsskillnad | Svenska: 10 mål, engelska: 0 mål (diff 10) |
-> | [GBY2MA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2MA) | BYA | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
-> | [GBY2MB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2MB) | BYA | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
-> | [GBY2ME](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2ME) | BYA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
-> | [GBY2RX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2RX) | BYA | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
-> | [GBY2V5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2V5) | BYA | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
-> | [GBY2V6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2V6) | BYA | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
-> | [GBY2VR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2VR) | BYA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
-> | [GBY2XF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2XF) | BYA | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
-> | [GBY33L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY33L) | BYA | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
-> | [GBY34B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY34B) | BYA | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
-> | [GBY34M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY34M) | BYA | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
-> | [GBY34N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY34N) | BYA | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
-> | [GBY36S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY36S) | BYA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
-> | [GBY37D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY37D) | BYA | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
-> | [GBY3K7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY3K7) | BYA | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
-> | [FEB222K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222K) | ENERGIBM | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (3 mål utan punktlista) |
-> | [FEB222K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222K) | ENERGIBM | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (3 mål utan punktlista) |
-> | [FEB222L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222L) | ENERGIBM | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (3 mål utan punktlista) |
-> | [FEB222L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222L) | ENERGIBM | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (3 mål utan punktlista) |
-> | [FEB222M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222M) | ENERGIBM | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (2 mål utan punktlista) |
-> | [FEB222M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222M) | ENERGIBM | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
-> | [BFY224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY224) | FYA | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
-> | [BFY225](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY225) | FYA | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
-> | [BFY226](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY226) | FYA | Paritetsskillnad | Svenska: 12 mål, engelska: 0 mål (diff 12) |
-> | [BFY227](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY227) | FYA | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
-> | [GFY345](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFY345) | FYA | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
-> | [GIE26L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26L) | IEA | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
-> | [GIE26M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26M) | IEA | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
-> | [GIE26N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26N) | IEA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [GIE26P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26P) | IEA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [GIE29N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE29N) | IEA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [GIE2L7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2L7) | IEA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [GIE2MF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2MF) | IEA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [GIE36Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE36Z) | IEA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [GIE372](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE372) | IEA | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
-> | [GIE3FW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3FW) | IEA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
-> | [GIE3H2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3H2) | IEA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [IE1068](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IE1068) | IEA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
-> | [IE1069](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IE1069) | IEA | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
-> | [GIK299](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK299) | IKA | Paritetsskillnad | Svenska: 11 mål, engelska: 0 mål (diff 11) |
-> | [GIK2LF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2LF) | IKA | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
-> | [GIK2PD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2PD) | IKA | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
-> | [GIK2UK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2UK) | IKA | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
-> | [GIK32K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32K) | IKA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [GIK32L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32L) | IKA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [GIK32M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32M) | IKA | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
-> | [GIK32N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32N) | IKA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
-> | [GIK347](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK347) | IKA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
-> | [GIK348](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK348) | IKA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
-> | [GIK38J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK38J) | IKA | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
-> | [IK1032](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IK1032) | IKA | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
-> | [BMA229](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BMA229) | MAA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [GMA28W](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA28W) | MAA | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
-> | [GMA2ZS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2ZS) | MAA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [GMA2ZT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2ZT) | MAA | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
-> | [GMA33Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA33Z) | MAA | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
-> | [MA0011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MA0011) | MAA | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
-> | [MA0013](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MA0013) | MAA | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
-> | [MA1040](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MA1040) | MAA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [MA1042](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MA1042) | MAA | Paritetsskillnad | Svenska: 10 mål, engelska: 0 mål (diff 10) |
-> | [AMD238](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMD238) | MDI | Paritetsskillnad | Svenska: 17 mål, engelska: 2 mål (diff 15) |
-> | [AMD238](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMD238) | MDI | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
-> | [AMD239](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMD239) | MDI | Paritetsskillnad | Svenska: 17 mål, engelska: 2 mål (diff 15) |
-> | [AMD239](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMD239) | MDI | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
-> | [GMD2AR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2AR) | MDI | Paritetsskillnad | Svenska: 28 mål, engelska: 1 mål (diff 27) |
-> | [GMD2AR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2AR) | MDI | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | [GMD2BH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2BH) | MDI | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [GMD2EX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2EX) | MDI | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
-> | [GMD2GF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2GF) | MDI | Paritetsskillnad | Svenska: 24 mål, engelska: 1 mål (diff 23) |
-> | [GMD2GG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2GG) | MDI | Paritetsskillnad | Svenska: 24 mål, engelska: 1 mål (diff 23) |
-> | [GMD2GU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2GU) | MDI | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
-> | [GMD2H3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2H3) | MDI | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (8 mål utan punktlista) |
-> | [GMD2H5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2H5) | MDI | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
-> | [GMD2HE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2HE) | MDI | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
-> | [GMD2HF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2HF) | MDI | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
-> | [GMD2HG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2HG) | MDI | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
-> | [GMD2HH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2HH) | MDI | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
-> | [GMD2HJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2HJ) | MDI | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
-> | [GMD2HK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2HK) | MDI | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
-> | [GMD2MH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2MH) | MDI | Paritetsskillnad | Svenska: 10 mål, engelska: 8 mål (diff 2) |
-> | [GMD2MH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2MH) | MDI | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (8 mål utan punktlista) |
-> | [GMD2MJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2MJ) | MDI | Paritetsskillnad | Svenska: 10 mål, engelska: 0 mål (diff 10) |
-> | [GMD2PA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2PA) | MDI | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [GMD2TV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2TV) | MDI | Paritetsskillnad | Svenska: 32 mål, engelska: 2 mål (diff 30) |
-> | [GMD2TV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2TV) | MDI | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
-> | [GMD2XQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2XQ) | MDI | Paritetsskillnad | Svenska: 77 mål, engelska: 2 mål (diff 75) |
-> | [GMD2XQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2XQ) | MDI | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
-> | [GMD33X](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD33X) | MDI | Paritetsskillnad | Svenska: 45 mål, engelska: 7 mål (diff 38) |
-> | [GMD33X](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD33X) | MDI | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (7 mål utan punktlista) |
-> | [GMD33Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD33Y) | MDI | Paritetsskillnad | Svenska: 77 mål, engelska: 2 mål (diff 75) |
-> | [GMD33Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD33Y) | MDI | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
-> | [GMD3FX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD3FX) | MDI | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
-> | [GMD3GZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD3GZ) | MDI | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [MD1085](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD1085) | MDI | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
-> | [MD1103](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD1103) | MDI | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [MD2022](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2022) | MDI | Paritetsskillnad | Svenska: 17 mål, engelska: 0 mål (diff 17) |
-> | [MD2023](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2023) | MDI | Paritetsskillnad | Svenska: 2 mål, engelska: 0 mål (diff 2) |
-> | [MD2024](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2024) | MDI | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
-> | [MD2025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2025) | MDI | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [MD2026](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2026) | MDI | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [FMI2222](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2222) | MIKRODAT | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (1 mål utan punktlista) |
-> | [FMI2222](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2222) | MIKRODAT | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | [FMI2223](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2223) | MIKRODAT | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (1 mål utan punktlista) |
-> | [FMI2223](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2223) | MIKRODAT | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | [FMI2224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2224) | MIKRODAT | Paritetsskillnad | Svenska: 8 mål, engelska: 1 mål (diff 7) |
-> | [FMI2224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2224) | MIKRODAT | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | [GMT2WL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT2WL) | MTA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
-> | [GMT34A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34A) | MTA | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
-> | [GMT34K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34K) | MTA | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
-> | [GMT34L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34L) | MTA | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
-> | [GMT34P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34P) | MTA | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
-> | [GMT34W](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34W) | MTA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [GMT3BW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3BW) | MTA | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
-> | [GMT3JZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JZ) | MTA | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
-> | [MT1033](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT1033) | MTA | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | [MT1060](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT1060) | MTA | Paritetsskillnad | Svenska: 10 mål, engelska: 9 mål (diff 1) |
-> | [MT1068](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT1068) | MTA | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [MT1074](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT1074) | MTA | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
-> | [MT2006](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT2006) | MTA | Paritetsskillnad | Svenska: 3 mål, engelska: 1 mål (diff 2) |
-> | [MT2006](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT2006) | MTA | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | [BEG222](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BEG222) | MÖY | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
-> | [GEG2JP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2JP) | MÖY | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
-> | [GEG2UE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2UE) | MÖY | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
-> | [GEG2ZQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZQ) | MÖY | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
-> | [GEG33B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG33B) | MÖY | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [GEG38F](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG38F) | MÖY | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
-> | [GSQ23J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ23J) | SQQ | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
-> | [GSQ23K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ23K) | SQQ | Paritetsskillnad | Svenska: 5 mål, engelska: 4 mål (diff 1) |
-> | [GSQ25J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25J) | SQQ | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [GSQ25N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25N) | SQQ | Paritetsskillnad | Svenska: 10 mål, engelska: 0 mål (diff 10) |
-> | [GSQ2DH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2DH) | SQQ | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
-> | [GSQ2H7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2H7) | SQQ | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [GSQ2L9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2L9) | SQQ | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
-> | [GSQ2MC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2MC) | SQQ | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [GSQ2PH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2PH) | SQQ | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [GSQ2R5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2R5) | SQQ | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
-> | [GSQ2VY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2VY) | SQQ | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
-> | [GSQ2WM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2WM) | SQQ | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
-> | [GSQ2Y2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2Y2) | SQQ | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [SQ1003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SQ1003) | SQQ | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | [GST2CL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GST2CL) | STA | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
-> | [ST1013](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ST1013) | STA | Paritetsskillnad | Svenska: 8 mål, engelska: 1 mål (diff 7) |
-> | [ST1013](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ST1013) | STA | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | [GMI24H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI24H) | XYZ | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
-> | [GMI2C8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI2C8) | XYZ | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
+> | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | [FDA222R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222R) | <a class="no-graph" href="01-IIT/Kursplaner/ANALYTIC/FDA222R">sida</a> | ANALYTIC | 2025-09-17 | — | Paritetsskillnad | Svenska: 2 mål, engelska: 1 mål (diff 1) |
+> | [FDA222R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222R) | <a class="no-graph" href="01-IIT/Kursplaner/ANALYTIC/FDA222R">sida</a> | ANALYTIC | 2025-09-17 | — | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (2 mål utan punktlista) |
+> | [FDA222R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222R) | <a class="no-graph" href="01-IIT/Kursplaner/ANALYTIC/FDA222R">sida</a> | ANALYTIC | 2025-09-17 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | [FDA222S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222S) | <a class="no-graph" href="01-IIT/Kursplaner/ANALYTIC/FDA222S">sida</a> | ANALYTIC | 2025-09-17 | — | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (1 mål utan punktlista) |
+> | [FDA222S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222S) | <a class="no-graph" href="01-IIT/Kursplaner/ANALYTIC/FDA222S">sida</a> | ANALYTIC | 2025-09-17 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | [FDA222T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222T) | <a class="no-graph" href="01-IIT/Kursplaner/ANALYTIC/FDA222T">sida</a> | ANALYTIC | 2025-09-17 | — | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (1 mål utan punktlista) |
+> | [FDA222T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222T) | <a class="no-graph" href="01-IIT/Kursplaner/ANALYTIC/FDA222T">sida</a> | ANALYTIC | 2025-09-17 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | [FDA222U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222U) | <a class="no-graph" href="01-IIT/Kursplaner/ANALYTIC/FDA222U">sida</a> | ANALYTIC | 2025-09-17 | — | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (1 mål utan punktlista) |
+> | [FDA222U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222U) | <a class="no-graph" href="01-IIT/Kursplaner/ANALYTIC/FDA222U">sida</a> | ANALYTIC | 2025-09-17 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | [BY1053](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1053) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/BY1053">sida</a> | BYA | 2014-02-20 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [BY1054](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1054) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/BY1054">sida</a> | BYA | 2014-08-28 | — | Paritetsskillnad | Svenska: 14 mål, engelska: 0 mål (diff 14) |
+> | [BY1058](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1058) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/BY1058">sida</a> | BYA | 2015-03-20 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | [BY1065](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1065) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/BY1065">sida</a> | BYA | 2016-09-01 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [BY2022](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY2022) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/BY2022">sida</a> | BYA | 2016-05-19 | — | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | [BY2025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY2025) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/BY2025">sida</a> | BYA | 2017-11-02 | — | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | [GBY2GB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2GB) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/GBY2GB">sida</a> | BYA | 2020-04-02 | — | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | [GBY2GC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2GC) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/GBY2GC">sida</a> | BYA | 2020-04-02 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | [GBY2GR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2GR) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/GBY2GR">sida</a> | BYA | 2020-04-30 | — | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+> | [GBY2J2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2J2) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/GBY2J2">sida</a> | BYA | 2020-09-03 | — | Paritetsskillnad | Svenska: 10 mål, engelska: 0 mål (diff 10) |
+> | [GBY2MA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2MA) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/GBY2MA">sida</a> | BYA | 2021-02-18 | — | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
+> | [GBY2MB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2MB) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/GBY2MB">sida</a> | BYA | 2021-02-18 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | [GBY2ME](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2ME) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/GBY2ME">sida</a> | BYA | 2021-02-18 | — | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | [GBY2RX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2RX) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/GBY2RX">sida</a> | BYA | 2021-09-23 | — | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
+> | [GBY2V5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2V5) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/GBY2V5">sida</a> | BYA | 2022-03-01 | — | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
+> | [GBY2V6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2V6) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/GBY2V6">sida</a> | BYA | 2022-03-01 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | [GBY2VR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2VR) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/GBY2VR">sida</a> | BYA | 2022-03-01 | — | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | [GBY2XF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2XF) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/GBY2XF">sida</a> | BYA | 2022-09-05 | — | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+> | [GBY33L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY33L) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/GBY33L">sida</a> | BYA | 2023-03-07 | — | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
+> | [GBY34B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY34B) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/GBY34B">sida</a> | BYA | 2023-04-04 | — | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+> | [GBY34M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY34M) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/GBY34M">sida</a> | BYA | 2023-05-23 | — | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+> | [GBY34N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY34N) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/GBY34N">sida</a> | BYA | 2023-05-23 | — | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
+> | [GBY36S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY36S) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/GBY36S">sida</a> | BYA | 2023-10-03 | — | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | [GBY37D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY37D) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/GBY37D">sida</a> | BYA | 2023-11-21 | — | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
+> | [GBY3K7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY3K7) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/GBY3K7">sida</a> | BYA | 2026-05-25 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | [FEB222K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222K) | <a class="no-graph" href="01-IIT/Kursplaner/ENERGIBM/FEB222K">sida</a> | ENERGIBM | 2022-09-13 | — | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (3 mål utan punktlista) |
+> | [FEB222K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222K) | <a class="no-graph" href="01-IIT/Kursplaner/ENERGIBM/FEB222K">sida</a> | ENERGIBM | 2022-09-13 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (3 mål utan punktlista) |
+> | [FEB222L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222L) | <a class="no-graph" href="01-IIT/Kursplaner/ENERGIBM/FEB222L">sida</a> | ENERGIBM | 2022-09-13 | — | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (3 mål utan punktlista) |
+> | [FEB222L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222L) | <a class="no-graph" href="01-IIT/Kursplaner/ENERGIBM/FEB222L">sida</a> | ENERGIBM | 2022-09-13 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (3 mål utan punktlista) |
+> | [FEB222M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222M) | <a class="no-graph" href="01-IIT/Kursplaner/ENERGIBM/FEB222M">sida</a> | ENERGIBM | 2022-09-13 | — | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (2 mål utan punktlista) |
+> | [FEB222M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222M) | <a class="no-graph" href="01-IIT/Kursplaner/ENERGIBM/FEB222M">sida</a> | ENERGIBM | 2022-09-13 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | [BFY224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY224) | <a class="no-graph" href="01-IIT/Kursplaner/FYA/BFY224">sida</a> | FYA | 2021-09-07 | — | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+> | [BFY225](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY225) | <a class="no-graph" href="01-IIT/Kursplaner/FYA/BFY225">sida</a> | FYA | 2022-12-13 | — | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
+> | [BFY226](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY226) | <a class="no-graph" href="01-IIT/Kursplaner/FYA/BFY226">sida</a> | FYA | 2022-12-13 | — | Paritetsskillnad | Svenska: 12 mål, engelska: 0 mål (diff 12) |
+> | [BFY227](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BFY227) | <a class="no-graph" href="01-IIT/Kursplaner/FYA/BFY227">sida</a> | FYA | 2022-12-13 | — | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
+> | [GFY345](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFY345) | <a class="no-graph" href="01-IIT/Kursplaner/FYA/GFY345">sida</a> | FYA | 2023-04-04 | — | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+> | [GIE26L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26L) | <a class="no-graph" href="01-IIT/Kursplaner/IEA/GIE26L">sida</a> | IEA | 2019-02-21 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | [GIE26M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26M) | <a class="no-graph" href="01-IIT/Kursplaner/IEA/GIE26M">sida</a> | IEA | 2019-02-21 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | [GIE26N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26N) | <a class="no-graph" href="01-IIT/Kursplaner/IEA/GIE26N">sida</a> | IEA | 2019-02-21 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [GIE26P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26P) | <a class="no-graph" href="01-IIT/Kursplaner/IEA/GIE26P">sida</a> | IEA | 2019-02-21 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [GIE29N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE29N) | <a class="no-graph" href="01-IIT/Kursplaner/IEA/GIE29N">sida</a> | IEA | 2019-06-13 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [GIE2L7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2L7) | <a class="no-graph" href="01-IIT/Kursplaner/IEA/GIE2L7">sida</a> | IEA | 2020-12-17 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [GIE2MF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2MF) | <a class="no-graph" href="01-IIT/Kursplaner/IEA/GIE2MF">sida</a> | IEA | 2021-02-18 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [GIE36Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE36Z) | <a class="no-graph" href="01-IIT/Kursplaner/IEA/GIE36Z">sida</a> | IEA | 2023-10-31 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [GIE372](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE372) | <a class="no-graph" href="01-IIT/Kursplaner/IEA/GIE372">sida</a> | IEA | 2023-10-31 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | [GIE3FW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3FW) | <a class="no-graph" href="01-IIT/Kursplaner/IEA/GIE3FW">sida</a> | IEA | 2025-05-22 | — | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | [GIE3H2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3H2) | <a class="no-graph" href="01-IIT/Kursplaner/IEA/GIE3H2">sida</a> | IEA | 2025-11-13 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [IE1068](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IE1068) | <a class="no-graph" href="01-IIT/Kursplaner/IEA/IE1068">sida</a> | IEA | 2015-02-05 | — | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | [IE1069](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IE1069) | <a class="no-graph" href="01-IIT/Kursplaner/IEA/IE1069">sida</a> | IEA | 2015-02-05 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | [GIK299](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK299) | <a class="no-graph" href="01-IIT/Kursplaner/IKA/GIK299">sida</a> | IKA | 2019-04-18 | — | Paritetsskillnad | Svenska: 11 mål, engelska: 0 mål (diff 11) |
+> | [GIK2LF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2LF) | <a class="no-graph" href="01-IIT/Kursplaner/IKA/GIK2LF">sida</a> | IKA | 2021-01-28 | — | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+> | [GIK2PD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2PD) | <a class="no-graph" href="01-IIT/Kursplaner/IKA/GIK2PD">sida</a> | IKA | 2021-04-15 | — | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
+> | [GIK2UK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2UK) | <a class="no-graph" href="01-IIT/Kursplaner/IKA/GIK2UK">sida</a> | IKA | 2022-03-01 | — | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
+> | [GIK32K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32K) | <a class="no-graph" href="01-IIT/Kursplaner/IKA/GIK32K">sida</a> | IKA | 2023-02-07 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [GIK32L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32L) | <a class="no-graph" href="01-IIT/Kursplaner/IKA/GIK32L">sida</a> | IKA | 2023-02-07 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [GIK32M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32M) | <a class="no-graph" href="01-IIT/Kursplaner/IKA/GIK32M">sida</a> | IKA | 2023-02-07 | — | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
+> | [GIK32N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK32N) | <a class="no-graph" href="01-IIT/Kursplaner/IKA/GIK32N">sida</a> | IKA | 2023-02-07 | — | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | [GIK347](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK347) | <a class="no-graph" href="01-IIT/Kursplaner/IKA/GIK347">sida</a> | IKA | 2023-04-04 | — | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | [GIK348](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK348) | <a class="no-graph" href="01-IIT/Kursplaner/IKA/GIK348">sida</a> | IKA | 2023-04-04 | — | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | [GIK38J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK38J) | <a class="no-graph" href="01-IIT/Kursplaner/IKA/GIK38J">sida</a> | IKA | 2023-12-19 | — | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
+> | [IK1032](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IK1032) | <a class="no-graph" href="01-IIT/Kursplaner/IKA/IK1032">sida</a> | IKA | 2007-06-13 | — | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
+> | [BMA229](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BMA229) | <a class="no-graph" href="01-IIT/Kursplaner/MAA/BMA229">sida</a> | MAA | 2026-05-25 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [GMA28W](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA28W) | <a class="no-graph" href="01-IIT/Kursplaner/MAA/GMA28W">sida</a> | MAA | 2019-03-21 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | [GMA2ZS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2ZS) | <a class="no-graph" href="01-IIT/Kursplaner/MAA/GMA2ZS">sida</a> | MAA | 2022-12-01 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [GMA2ZT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA2ZT) | <a class="no-graph" href="01-IIT/Kursplaner/MAA/GMA2ZT">sida</a> | MAA | 2022-12-20 | — | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
+> | [GMA33Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMA33Z) | <a class="no-graph" href="01-IIT/Kursplaner/MAA/GMA33Z">sida</a> | MAA | 2023-04-04 | — | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
+> | [MA0011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MA0011) | <a class="no-graph" href="01-IIT/Kursplaner/MAA/MA0011">sida</a> | MAA | 2013-12-12 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | [MA0013](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MA0013) | <a class="no-graph" href="01-IIT/Kursplaner/MAA/MA0013">sida</a> | MAA | 2014-01-30 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | [MA1040](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MA1040) | <a class="no-graph" href="01-IIT/Kursplaner/MAA/MA1040">sida</a> | MAA | 2016-03-24 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [MA1042](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MA1042) | <a class="no-graph" href="01-IIT/Kursplaner/MAA/MA1042">sida</a> | MAA | 2017-02-16 | — | Paritetsskillnad | Svenska: 10 mål, engelska: 0 mål (diff 10) |
+> | [AMD238](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMD238) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/AMD238">sida</a> | MDI | 2019-06-19 | — | Paritetsskillnad | Svenska: 17 mål, engelska: 2 mål (diff 15) |
+> | [AMD238](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMD238) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/AMD238">sida</a> | MDI | 2019-06-19 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | [AMD239](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMD239) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/AMD239">sida</a> | MDI | 2019-06-19 | — | Paritetsskillnad | Svenska: 17 mål, engelska: 2 mål (diff 15) |
+> | [AMD239](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMD239) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/AMD239">sida</a> | MDI | 2019-06-19 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | [GMD2AR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2AR) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD2AR">sida</a> | MDI | 2019-08-29 | 2021-12-03 | Paritetsskillnad | Svenska: 28 mål, engelska: 1 mål (diff 27) |
+> | [GMD2AR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2AR) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD2AR">sida</a> | MDI | 2019-08-29 | 2021-12-03 | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | [GMD2BH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2BH) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD2BH">sida</a> | MDI | 2019-08-29 | 2019-09-19 | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [GMD2EX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2EX) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD2EX">sida</a> | MDI | 2020-02-25 | — | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
+> | [GMD2GF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2GF) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD2GF">sida</a> | MDI | 2020-04-08 | 2020-12-15 | Paritetsskillnad | Svenska: 24 mål, engelska: 1 mål (diff 23) |
+> | [GMD2GG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2GG) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD2GG">sida</a> | MDI | 2020-04-08 | 2020-12-15 | Paritetsskillnad | Svenska: 24 mål, engelska: 1 mål (diff 23) |
+> | [GMD2GU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2GU) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD2GU">sida</a> | MDI | 2020-06-04 | 2020-06-15 | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | [GMD2H3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2H3) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD2H3">sida</a> | MDI | 2020-06-08 | 2023-04-21 | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (8 mål utan punktlista) |
+> | [GMD2H5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2H5) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD2H5">sida</a> | MDI | 2020-06-08 | 2023-04-21 | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
+> | [GMD2HE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2HE) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD2HE">sida</a> | MDI | 2020-08-27 | 2020-09-15 | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+> | [GMD2HF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2HF) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD2HF">sida</a> | MDI | 2020-08-27 | 2025-05-12 | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+> | [GMD2HG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2HG) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD2HG">sida</a> | MDI | 2020-08-27 | 2020-09-15 | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
+> | [GMD2HH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2HH) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD2HH">sida</a> | MDI | 2020-08-27 | 2020-09-16 | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+> | [GMD2HJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2HJ) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD2HJ">sida</a> | MDI | 2020-08-27 | 2025-05-12 | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+> | [GMD2HK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2HK) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD2HK">sida</a> | MDI | 2020-08-27 | 2020-09-16 | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
+> | [GMD2MH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2MH) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD2MH">sida</a> | MDI | 2021-02-23 | 2023-04-21 | Paritetsskillnad | Svenska: 10 mål, engelska: 8 mål (diff 2) |
+> | [GMD2MH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2MH) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD2MH">sida</a> | MDI | 2021-02-23 | 2023-04-21 | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (8 mål utan punktlista) |
+> | [GMD2MJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2MJ) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD2MJ">sida</a> | MDI | 2021-02-23 | 2023-04-21 | Paritetsskillnad | Svenska: 10 mål, engelska: 0 mål (diff 10) |
+> | [GMD2PA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2PA) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD2PA">sida</a> | MDI | 2021-04-12 | 2021-04-14 | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [GMD2TV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2TV) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD2TV">sida</a> | MDI | 2021-12-22 | 2022-05-23 | Paritetsskillnad | Svenska: 32 mål, engelska: 2 mål (diff 30) |
+> | [GMD2TV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2TV) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD2TV">sida</a> | MDI | 2021-12-22 | 2022-05-23 | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | [GMD2XQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2XQ) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD2XQ">sida</a> | MDI | 2022-09-08 | — | Paritetsskillnad | Svenska: 77 mål, engelska: 2 mål (diff 75) |
+> | [GMD2XQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2XQ) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD2XQ">sida</a> | MDI | 2022-09-08 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | [GMD33X](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD33X) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD33X">sida</a> | MDI | 2023-03-17 | — | Paritetsskillnad | Svenska: 45 mål, engelska: 7 mål (diff 38) |
+> | [GMD33X](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD33X) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD33X">sida</a> | MDI | 2023-03-17 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (7 mål utan punktlista) |
+> | [GMD33Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD33Y) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD33Y">sida</a> | MDI | 2023-03-17 | — | Paritetsskillnad | Svenska: 77 mål, engelska: 2 mål (diff 75) |
+> | [GMD33Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD33Y) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD33Y">sida</a> | MDI | 2023-03-17 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | [GMD3FX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD3FX) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD3FX">sida</a> | MDI | 2025-05-22 | — | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | [GMD3GZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD3GZ) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD3GZ">sida</a> | MDI | 2025-10-07 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [MD1085](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD1085) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/MD1085">sida</a> | MDI | 2013-12-17 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | [MD1103](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD1103) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/MD1103">sida</a> | MDI | 2015-10-01 | 2021-12-03 | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [MD2022](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2022) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/MD2022">sida</a> | MDI | 2017-09-28 | — | Paritetsskillnad | Svenska: 17 mål, engelska: 0 mål (diff 17) |
+> | [MD2023](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2023) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/MD2023">sida</a> | MDI | 2017-09-28 | — | Paritetsskillnad | Svenska: 2 mål, engelska: 0 mål (diff 2) |
+> | [MD2024](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2024) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/MD2024">sida</a> | MDI | 2017-09-28 | — | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
+> | [MD2025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2025) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/MD2025">sida</a> | MDI | 2017-09-28 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [MD2026](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MD2026) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/MD2026">sida</a> | MDI | 2017-09-28 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [FMI2222](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2222) | <a class="no-graph" href="01-IIT/Kursplaner/MIKRODAT/FMI2222">sida</a> | MIKRODAT | 2019-10-03 | — | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (1 mål utan punktlista) |
+> | [FMI2222](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2222) | <a class="no-graph" href="01-IIT/Kursplaner/MIKRODAT/FMI2222">sida</a> | MIKRODAT | 2019-10-03 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | [FMI2223](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2223) | <a class="no-graph" href="01-IIT/Kursplaner/MIKRODAT/FMI2223">sida</a> | MIKRODAT | 2017-10-04 | — | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (1 mål utan punktlista) |
+> | [FMI2223](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2223) | <a class="no-graph" href="01-IIT/Kursplaner/MIKRODAT/FMI2223">sida</a> | MIKRODAT | 2017-10-04 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | [FMI2224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2224) | <a class="no-graph" href="01-IIT/Kursplaner/MIKRODAT/FMI2224">sida</a> | MIKRODAT | 2019-10-29 | — | Paritetsskillnad | Svenska: 8 mål, engelska: 1 mål (diff 7) |
+> | [FMI2224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2224) | <a class="no-graph" href="01-IIT/Kursplaner/MIKRODAT/FMI2224">sida</a> | MIKRODAT | 2019-10-29 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | [GMT2WL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT2WL) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/GMT2WL">sida</a> | MTA | 2022-06-08 | — | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | [GMT34A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34A) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/GMT34A">sida</a> | MTA | 2023-04-04 | — | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
+> | [GMT34K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34K) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/GMT34K">sida</a> | MTA | 2023-05-30 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | [GMT34L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34L) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/GMT34L">sida</a> | MTA | 2023-05-30 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | [GMT34P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34P) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/GMT34P">sida</a> | MTA | 2023-05-30 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | [GMT34W](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34W) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/GMT34W">sida</a> | MTA | 2023-05-30 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [GMT3BW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3BW) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/GMT3BW">sida</a> | MTA | 2024-05-23 | — | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+> | [GMT3JZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JZ) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/GMT3JZ">sida</a> | MTA | 2026-04-01 | — | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | [MT1033](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT1033) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/MT1033">sida</a> | MTA | 2008-04-29 | 2010-08-26 | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | [MT1060](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT1060) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/MT1060">sida</a> | MTA | 2014-04-03 | — | Paritetsskillnad | Svenska: 10 mål, engelska: 9 mål (diff 1) |
+> | [MT1068](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT1068) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/MT1068">sida</a> | MTA | 2016-05-19 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [MT1074](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT1074) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/MT1074">sida</a> | MTA | 2018-02-15 | — | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
+> | [MT2006](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT2006) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/MT2006">sida</a> | MTA | 2007-05-22 | — | Paritetsskillnad | Svenska: 3 mål, engelska: 1 mål (diff 2) |
+> | [MT2006](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MT2006) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/MT2006">sida</a> | MTA | 2007-05-22 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | [BEG222](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BEG222) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/BEG222">sida</a> | MÖY | 2019-10-17 | — | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | [GEG2JP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2JP) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/GEG2JP">sida</a> | MÖY | 2020-09-24 | — | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
+> | [GEG2UE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2UE) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/GEG2UE">sida</a> | MÖY | 2022-01-27 | — | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+> | [GEG2ZQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG2ZQ) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/GEG2ZQ">sida</a> | MÖY | 2022-12-20 | — | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | [GEG33B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG33B) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/GEG33B">sida</a> | MÖY | 2023-02-23 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [GEG38F](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG38F) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/GEG38F">sida</a> | MÖY | 2023-12-19 | — | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
+> | [GSQ23J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ23J) | <a class="no-graph" href="01-IIT/Kursplaner/SQQ/GSQ23J">sida</a> | SQQ | 2018-05-24 | — | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
+> | [GSQ23K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ23K) | <a class="no-graph" href="01-IIT/Kursplaner/SQQ/GSQ23K">sida</a> | SQQ | 2018-06-14 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 4 mål (diff 1) |
+> | [GSQ25J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25J) | <a class="no-graph" href="01-IIT/Kursplaner/SQQ/GSQ25J">sida</a> | SQQ | 2018-10-29 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [GSQ25N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25N) | <a class="no-graph" href="01-IIT/Kursplaner/SQQ/GSQ25N">sida</a> | SQQ | 2018-11-08 | — | Paritetsskillnad | Svenska: 10 mål, engelska: 0 mål (diff 10) |
+> | [GSQ2DH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2DH) | <a class="no-graph" href="01-IIT/Kursplaner/SQQ/GSQ2DH">sida</a> | SQQ | 2020-02-06 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | [GSQ2H7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2H7) | <a class="no-graph" href="01-IIT/Kursplaner/SQQ/GSQ2H7">sida</a> | SQQ | 2020-06-29 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [GSQ2L9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2L9) | <a class="no-graph" href="01-IIT/Kursplaner/SQQ/GSQ2L9">sida</a> | SQQ | 2020-12-17 | — | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | [GSQ2MC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2MC) | <a class="no-graph" href="01-IIT/Kursplaner/SQQ/GSQ2MC">sida</a> | SQQ | 2021-02-18 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [GSQ2PH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2PH) | <a class="no-graph" href="01-IIT/Kursplaner/SQQ/GSQ2PH">sida</a> | SQQ | 2021-04-15 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [GSQ2R5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2R5) | <a class="no-graph" href="01-IIT/Kursplaner/SQQ/GSQ2R5">sida</a> | SQQ | 2021-08-24 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | [GSQ2VY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2VY) | <a class="no-graph" href="01-IIT/Kursplaner/SQQ/GSQ2VY">sida</a> | SQQ | 2022-03-24 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | [GSQ2WM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2WM) | <a class="no-graph" href="01-IIT/Kursplaner/SQQ/GSQ2WM">sida</a> | SQQ | 2022-06-08 | — | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
+> | [GSQ2Y2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ2Y2) | <a class="no-graph" href="01-IIT/Kursplaner/SQQ/GSQ2Y2">sida</a> | SQQ | 2022-09-27 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [SQ1003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SQ1003) | <a class="no-graph" href="01-IIT/Kursplaner/SQQ/SQ1003">sida</a> | SQQ | 2017-10-12 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [GST2CL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GST2CL) | <a class="no-graph" href="01-IIT/Kursplaner/STA/GST2CL">sida</a> | STA | 2020-01-30 | — | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+> | [ST1013](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ST1013) | <a class="no-graph" href="01-IIT/Kursplaner/STA/ST1013">sida</a> | STA | 2010-12-14 | 2013-02-13 | Paritetsskillnad | Svenska: 8 mål, engelska: 1 mål (diff 7) |
+> | [ST1013](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ST1013) | <a class="no-graph" href="01-IIT/Kursplaner/STA/ST1013">sida</a> | STA | 2010-12-14 | 2013-02-13 | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | [GMI24H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI24H) | <a class="no-graph" href="01-IIT/Kursplaner/XYZ/GMI24H">sida</a> | XYZ | 2018-09-13 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | [GMI2C8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI2C8) | <a class="no-graph" href="01-IIT/Kursplaner/XYZ/GMI2C8">sida</a> | XYZ | 2019-10-17 | — | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
 
 ## Syfte
 

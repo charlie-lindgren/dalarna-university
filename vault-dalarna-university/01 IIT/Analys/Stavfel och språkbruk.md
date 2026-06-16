@@ -12,10 +12,10 @@ status: första pass
 
 > [!example]- 2 fynd — klicka för att expandera
 >
-> | Kursplan | Ämne | Problem | Detalj |
-> | --- | --- | --- | --- |
-> | [FMI2222](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2222) | MIKRODAT | Felstavning (en) | `experiental` (en) |
-> | [FMI2224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2224) | MIKRODAT | Felstavning (en) | `seperability` (en) |
+> | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | [FMI2222](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2222) | <a class="no-graph" href="01-IIT/Kursplaner/MIKRODAT/FMI2222">sida</a> | MIKRODAT | 2019-10-03 | — | Felstavning (en) | `experiental` (en) |
+> | [FMI2224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2224) | <a class="no-graph" href="01-IIT/Kursplaner/MIKRODAT/FMI2224">sida</a> | MIKRODAT | 2019-10-29 | — | Felstavning (en) | `seperability` (en) |
 
 ## Syfte
 

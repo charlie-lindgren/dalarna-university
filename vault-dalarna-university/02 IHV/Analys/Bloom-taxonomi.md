@@ -12,29 +12,29 @@ status: första pass
 
 > [!example]- 21 fynd — klicka för att expandera
 >
-> | Kursplan | Ämne | Problem | Detalj |
-> | --- | --- | --- | --- |
-> | [GIH2D6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2D6) | IDA | Okänt ledande verb | 3 av 4 bullets har okänt ledande verb |
-> | [GIH2D7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2D7) | IDA | Okänt ledande verb | 3 av 4 bullets har okänt ledande verb |
-> | [GIH2G4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2G4) | IDA | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [0,0,1,0,1,1] |
-> | [GIH2VK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2VK) | IDA | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [1,0,0,0,0,2] |
-> | [GIH37B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37B) | IDA | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [1,0,0,1,1,2] |
-> | [GIH37C](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37C) | IDA | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [0,0,0,1,1,2] |
-> | [GIH39B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH39B) | IDA | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [1,0,0,1,1,2] |
-> | [GIH39C](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH39C) | IDA | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [0,0,0,1,1,2] |
-> | [GIH3AQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AQ) | IDA | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [1,0,1,0,4,0] |
-> | [GIH3G4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G4) | IDA | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [0,0,0,0,1,1] |
-> | [GIH3G7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G7) | IDA | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [1,0,0,0,2,2] |
-> | [IH1006](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1006) | IDA | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [1,0,0,0,1,1] |
-> | [IH3007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH3007) | IDA | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,1,3,0,0,0] |
-> | [AMC2AE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC2AE) | MCA | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [6,1,0,0,0,0] |
-> | [GSA27Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA27Y) | SAA | Okänt ledande verb | 5 av 9 bullets har okänt ledande verb |
-> | [ASR22N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR22N) | SRP | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [4,1,1,0,0,0] |
-> | [SR3015](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SR3015) | SRP | Okänt ledande verb | 3 av 14 bullets har okänt ledande verb |
-> | [VV3007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3007) | VÅE | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [5,0,2,0,0,0] |
-> | [VV3010](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3010) | VÅE | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [4,0,2,0,0,0] |
-> | [VV3011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3011) | VÅE | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,0,4,0,0,0] |
-> | [VV3011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3011) | VÅE | Okänt ledande verb | 14 av 19 bullets har okänt ledande verb |
+> | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | [GIH2D6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2D6) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH2D6">sida</a> | IDA | 2020-02-14 | 2020-05-26 | Okänt ledande verb | 3 av 4 bullets har okänt ledande verb |
+> | [GIH2D7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2D7) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH2D7">sida</a> | IDA | 2020-02-14 | 2020-05-26 | Okänt ledande verb | 3 av 4 bullets har okänt ledande verb |
+> | [GIH2G4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2G4) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH2G4">sida</a> | IDA | 2020-03-05 | 2020-05-20 | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [0,0,1,0,1,1] |
+> | [GIH2VK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2VK) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH2VK">sida</a> | IDA | 2022-03-03 | — | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [1,0,0,0,0,2] |
+> | [GIH37B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37B) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH37B">sida</a> | IDA | 2023-11-07 | — | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [1,0,0,1,1,2] |
+> | [GIH37C](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37C) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH37C">sida</a> | IDA | 2023-11-07 | — | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [0,0,0,1,1,2] |
+> | [GIH39B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH39B) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH39B">sida</a> | IDA | 2023-12-19 | — | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [1,0,0,1,1,2] |
+> | [GIH39C](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH39C) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH39C">sida</a> | IDA | 2023-12-19 | — | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [0,0,0,1,1,2] |
+> | [GIH3AQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3AQ) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH3AQ">sida</a> | IDA | 2024-02-27 | — | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [1,0,1,0,4,0] |
+> | [GIH3G4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G4) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH3G4">sida</a> | IDA | 2025-06-09 | — | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [0,0,0,0,1,1] |
+> | [GIH3G7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G7) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH3G7">sida</a> | IDA | 2025-06-09 | — | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [1,0,0,0,2,2] |
+> | [IH1006](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1006) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/IH1006">sida</a> | IDA | 2011-01-26 | — | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [1,0,0,0,1,1] |
+> | [IH3007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH3007) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/IH3007">sida</a> | IDA | 2012-04-11 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,1,3,0,0,0] |
+> | [AMC2AE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC2AE) | <a class="no-graph" href="02-IHV/Kursplaner/MCA/AMC2AE">sida</a> | MCA | 2024-02-27 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [6,1,0,0,0,0] |
+> | [GSA27Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA27Y) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA27Y">sida</a> | SAA | 2019-03-12 | — | Okänt ledande verb | 5 av 9 bullets har okänt ledande verb |
+> | [ASR22N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR22N) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR22N">sida</a> | SRP | 2018-12-06 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [4,1,1,0,0,0] |
+> | [SR3015](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SR3015) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/SR3015">sida</a> | SRP | 2016-10-12 | 2018-01-10 | Okänt ledande verb | 3 av 14 bullets har okänt ledande verb |
+> | [VV3007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3007) | <a class="no-graph" href="02-IHV/Kursplaner/VÅE/VV3007">sida</a> | VÅE | 2009-04-21 | 2010-10-18 | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [5,0,2,0,0,0] |
+> | [VV3010](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3010) | <a class="no-graph" href="02-IHV/Kursplaner/VÅE/VV3010">sida</a> | VÅE | 2009-12-14 | 2013-08-26 | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [4,0,2,0,0,0] |
+> | [VV3011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3011) | <a class="no-graph" href="02-IHV/Kursplaner/VÅE/VV3011">sida</a> | VÅE | 2010-06-01 | 2010-10-18 | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,0,4,0,0,0] |
+> | [VV3011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3011) | <a class="no-graph" href="02-IHV/Kursplaner/VÅE/VV3011">sida</a> | VÅE | 2010-06-01 | 2010-10-18 | Okänt ledande verb | 14 av 19 bullets har okänt ledande verb |
 
 ## Syfte
 

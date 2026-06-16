@@ -115,3 +115,22 @@ a.download-xlsx:active {
 :root[saved-theme="dark"] a.download-xlsx {
   .download-xlsx-icon { color: #46c486; }
 }
+
+// Analystabellerna (i [!example]-dropdownen) har nu sju kolumner — Kursplan,
+// Sida, Ämne, Fastställd, Reviderad, Problem, Detalj. För att de inte ska bli
+// trånga krymper vi typsnittet och cellpaddingen. Per-kursplan-callouterna
+// använder [!warning] och påverkas inte.
+.callout[data-callout="example"] table {
+  font-size: 0.72rem;
+  line-height: 1.3;
+
+  th,
+  td {
+    padding: 0.2em 0.45em;
+  }
+
+  // Sida-länken är kompakt och behöver ingen extern-ikon
+  a.no-graph::after {
+    content: none !important;
+  }
+}
