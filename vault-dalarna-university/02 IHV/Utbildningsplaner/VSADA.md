@@ -5,20 +5,13 @@ institution: "IHV"
 faststalld: "Fastställd av prefekt för institutionen för hälsa och välfärd 2023-01-09 . Gäller fr.o.m.  HT 2022."
 tags: [utbildningsplan, program, IHV]
 scrape_hash: 3db00acdd9353f82
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSADA
 up: "IHV"
 ---
 
-<!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Personcentrerad vård av personer med demens` (7,5 hp) |
-> | Stavfel och språkbruk | Felstavning | `engström` (sv) |
-> | Stavfel och språkbruk | Felstavning | `ätandeproblem` (sv) |
-<!-- analys:end -->
-
 # VSADA
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSADA)
 
 **Programnamn:** Specialistsjuksköterska med inriktning demensvård
 

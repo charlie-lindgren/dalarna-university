@@ -5,10 +5,13 @@ institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för språk, litteratur och lärande 2023-09-11 . Gäller fr.o.m.  HT 2023."
 tags: [utbildningsplan, program, ISLL]
 scrape_hash: 3abf41b924b07539
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=HMILA
 up: "ISLL"
 ---
 
 # HMILA
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=HMILA)
 
 **Programnamn:** Masterprogram i interkulturella litteraturstudier
 

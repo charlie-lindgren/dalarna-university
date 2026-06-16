@@ -5,22 +5,13 @@ institution: "IKS"
 faststalld: "Fastställd av Områdesnämnden Utbildningsvetenskap 2020-12-17 . Gäller fr.o.m.  VT 2021."
 tags: [utbildningsplan, program, IKS]
 scrape_hash: e7242b1f30cb0315
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LBF3A
 up: "IKS"
 ---
 
-<!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Text, kommunikation och lärande i en mångkulturell skola` → `GSV22L` (nedlagd 2024-10-11) — plain-text-referens |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Didaktik och ledarskap i förskoleklass och grundskolans åk 1–3` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Utvärdering och utvecklingsarbete i förskoleklass och grundskolans åk 1–3` (15 hp) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Vetenskapsteori och utbildningsvetenskaplig forskning för grundlärare F -3` ≠ kursplanens namn `Vetenskapsteori och utbildningsvetenskaplig forskning för grundlärare F-3` (kurskod `APG244`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Engelska för grundlärare åk F-3` ≠ kursplanens namn `Engelska för grundlärare F-3` (kurskod `GEN2BJ`) |
-<!-- analys:end -->
-
 # LBF3A
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LBF3A)
 
 **Programnamn:** Grundlärarprogrammet Förskoleklass och grundskolans årskurs 1–3 arbetsintegrerad utbildning
 

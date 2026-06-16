@@ -5,20 +5,13 @@ institution: "IHV"
 faststalld: "Fastställd av Områdesnämnden Vård och omsorg 2018-12-04 . Gäller fr.o.m.  VT 2019."
 tags: [utbildningsplan, program, IHV]
 scrape_hash: d8958a8aea800920
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VDSSA
 up: "IHV"
 ---
 
-<!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning | `hälso` (sv) |
-> | Stavfel och språkbruk | Felstavning | `levnadsvaneförändring` (sv) |
-> | Stavfel och språkbruk | Felstavning | `levnadsvaneförändringar` (sv) |
-<!-- analys:end -->
-
 # VDSSA
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VDSSA)
 
 **Programnamn:** Specialistsjuksköterskeutbildning till distriktssköterska
 

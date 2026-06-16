@@ -5,18 +5,13 @@ institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för språk, litteratur och lärande 2023-12-20 . Gäller fr.o.m.  HT 2023."
 tags: [utbildningsplan, program, ISLL]
 scrape_hash: c94f7aa43229aec6
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=HTESA
 up: "ISLL"
 ---
 
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Kärnområden i tillämpad engelsk lingvistik` (7,5 hp) |
-<!-- analys:end -->
-
 # HTESA
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=HTESA)
 
 **Programnamn:** Magisterprogram i tillämpad engelsk språkvetenskap
 

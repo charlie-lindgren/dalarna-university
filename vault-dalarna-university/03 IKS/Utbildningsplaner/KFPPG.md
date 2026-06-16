@@ -5,18 +5,13 @@ institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-01-15 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, IKS]
 scrape_hash: 804baa3c34db07a5
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFPPG
 up: "IKS"
 ---
 
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning | `göran` (sv) |
-<!-- analys:end -->
-
 # KFPPG
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFPPG)
 
 **Programnamn:** Filmproduktionsprogrammet
 

@@ -5,10 +5,13 @@ institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2018-09-20 . Gäller fr.o.m.  HT 2018."
 tags: [utbildningsplan, program, IIT]
 scrape_hash: 97230495c9788f05
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TTEKB
 up: "IIT"
 ---
 
 # TTEKB
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TTEKB)
 
 **Programnamn:** Teknisk bastermin
 

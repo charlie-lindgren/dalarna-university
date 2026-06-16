@@ -5,18 +5,13 @@ institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2021-03-23 . Gäller fr.o.m.  HT 2021."
 tags: [utbildningsplan, program, IKS]
 scrape_hash: e3d784e4062888bc
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFTKG
 up: "IKS"
 ---
 
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning | `åsa` (sv) |
-<!-- analys:end -->
-
 # KFTKG
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFTKG)
 
 **Programnamn:** Manus för film och TV – kandidatprogram
 

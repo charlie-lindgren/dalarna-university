@@ -5,10 +5,13 @@ institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2024-09-18 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, IKS]
 scrape_hash: 53003a36e4af0bc9
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SMHTA
 up: "IKS"
 ---
 
 # SMHTA
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SMHTA)
 
 **Programnamn:** Masterprogram i hållbarhet och turism
 

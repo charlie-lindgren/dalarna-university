@@ -5,19 +5,13 @@ institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2019-03-05 . Gäller fr.o.m.  HT 2019."
 tags: [utbildningsplan, program, IIT]
 scrape_hash: 9ea6135e8e8d68ea
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=DITMG
 up: "IIT"
 ---
 
-<!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Logik och matematik` (7,5hp) — sannolikt avses `Logik och matematik för datavetenskap` (kurskod `GMI23G`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `System- och verksamhetsutveckling` ≠ kursplanens namn `System och verksamhetsutveckling` (kurskod `GIK2XZ`) |
-<!-- analys:end -->
-
 # DITMG
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=DITMG)
 
 **Programnamn:** IT-säkerhet och mjukvarutestning - kandidatprogram
 

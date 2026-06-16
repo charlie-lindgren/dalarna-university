@@ -873,6 +873,7 @@ def build_programme_markdown(scraped: dict, kursplan_index: dict) -> str:
         tag_list.append("tvärfakultet")
     lines.append(f"tags: [{', '.join(tag_list)}]")
     lines.append(f"scrape_hash: {s_hash}")
+    lines.append(f"url: {PLAN_SV_URL.format(code=code)}")
     if institution:
         # Plain string (utan ``[[ ]]``) — Quartz extraherar wikilinks från
         # frontmatter, men en ren textsträng räknas inte som en graf-edge.
@@ -883,6 +884,8 @@ def build_programme_markdown(scraped: dict, kursplan_index: dict) -> str:
 
     # Header
     lines.append(f"# {code}")
+    lines.append("")
+    lines.append(f"[Utbildningsplan på du.se →]({PLAN_SV_URL.format(code=code)})")
     lines.append("")
     lines.append(f"**Programnamn:** {name_sv}")
     if name_en and name_en != name_sv:

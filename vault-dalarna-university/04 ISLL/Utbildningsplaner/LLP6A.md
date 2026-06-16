@@ -5,25 +5,13 @@ institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, ISLL]
 scrape_hash: e683e1d9c18a6308
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LLP6A
 up: "ISLL"
 ---
 
-<!-- analys:start -->
-> [!warning]- 8 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Didaktik och ledarskap i grundskolans åk 4–6` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Examensarbete för grundlärarexamen inriktning 4–6 – del 1` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Examensarbete för grundlärarexamen inriktning 4–6 – del 2` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Utvärdering och utvecklingsarbete i grundskolans åk 4–6` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Engelska för grundlärare åk 4-6 1a` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Engelska för grundlärare åk 4-6 1b` (15 hp) |
-> | Programkurser olänkade | Kursraden ser avbruten/feltrycklig ut | `Sociala relationer, konflikter och makt i grundskolan åk 4–6,` (15 hp) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Samhällsorienterande ämnen, åk 4–6` ≠ kursplanens namn `Samhällsorienterande ämnen, årskurs 4-6` (kurskod `GPG2SC`) |
-<!-- analys:end -->
-
 # LLP6A
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LLP6A)
 
 **Programnamn:** Grundlärarprogrammet grundskolans årskurs 4-6
 

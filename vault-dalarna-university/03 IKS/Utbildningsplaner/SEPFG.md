@@ -5,19 +5,13 @@ institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2024-03-12 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, IKS]
 scrape_hash: 94f9bf55b288be3d
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SEPFG
 up: "IKS"
 ---
 
-<!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Entreprenörskap - entreprenörskapets villkor och särart` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Förhandlings  försäljnings  och dialogkonst` (7,5 hp) |
-<!-- analys:end -->
-
 # SEPFG
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SEPFG)
 
 **Programnamn:** Entreprenöriellt företagande
 

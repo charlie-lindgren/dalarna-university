@@ -5,19 +5,13 @@ institution: "IKS"
 faststalld: "Fastställd av prefekt för institutionen för kultur och samhälle 2023-12-19 . Gäller fr.o.m.  HT 2023."
 tags: [utbildningsplan, program, IKS]
 scrape_hash: 53790901df964cfa
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SBMPG
 up: "IKS"
 ---
 
-<!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Makroekonomi introduktion` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Mikroekonomi introduktion` (7,5 hp) |
-<!-- analys:end -->
-
 # SBMPG
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SBMPG)
 
 **Programnamn:** Business Managementprogrammet - Kandidatprogram i företagsekonomi
 

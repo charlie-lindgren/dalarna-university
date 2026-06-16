@@ -5,18 +5,13 @@ institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2021-10-08 . Gäller fr.o.m.  VT 2022."
 tags: [utbildningsplan, program, IIT]
 scrape_hash: 44c4427e74d9d25d
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KGDWG
 up: "IIT"
 ---
 
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `System- och verksamhetsutveckling` ≠ kursplanens namn `System och verksamhetsutveckling` (kurskod `GIK2XZ`) |
-<!-- analys:end -->
-
 # KGDWG
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KGDWG)
 
 **Programnamn:** Grafisk design och webbutveckling –  kandidatprogram
 

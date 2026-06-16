@@ -5,18 +5,13 @@ institution: "IHV"
 faststalld: "Fastställd av Områdesnämnden Vård och omsorg 2021-02-04 . Gäller fr.o.m.  HT 2020."
 tags: [utbildningsplan, program, IHV]
 scrape_hash: 0b44d60ea84de210
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSOPG
 up: "IHV"
 ---
 
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning | `hälso` (sv) |
-<!-- analys:end -->
-
 # VSOPG
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSOPG)
 
 **Programnamn:** Socionomprogrammet
 

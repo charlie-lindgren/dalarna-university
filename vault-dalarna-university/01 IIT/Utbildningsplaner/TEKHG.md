@@ -5,10 +5,13 @@ institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2024-11-13 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, IIT]
 scrape_hash: fce054262508d57d
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TEKHG
 up: "IIT"
 ---
 
 # TEKHG
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TEKHG)
 
 **Programnamn:** Industriell ekonomi, högskoleprogram
 

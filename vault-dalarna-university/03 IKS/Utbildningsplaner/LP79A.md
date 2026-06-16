@@ -5,23 +5,13 @@ institution: "IKS"
 faststalld: "Fastställd av Områdesnämnden Utbildningsvetenskap 2017-12-19 . Gäller fr.o.m.  HT 2018."
 tags: [utbildningsplan, program, IKS]
 scrape_hash: eca4960e35dc58eb
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LP79A
 up: "IKS"
 ---
 
-<!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Didaktik och ledarskap för ämneslärare` → `PG1020` (nedlagd 2018-07-02) — plain-text-referens |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Utveckling och lärande - ämneslärare` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Utveckling och lärande för ämneslärare inriktning åk 7-9` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Sociala relationer, konflikter och makt - ämneslärare` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Utvärdering och utvecklingsarbete för ämneslärare` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Verksamhetsförlagd utbildning - ämneslärare` (15 hp) |
-<!-- analys:end -->
-
 # LP79A
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LP79A)
 
 **Programnamn:** Ämneslärarprogrammet inriktning grundskolans årskurs 7-9
 

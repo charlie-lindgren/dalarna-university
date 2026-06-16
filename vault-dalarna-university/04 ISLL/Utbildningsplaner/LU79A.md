@@ -5,18 +5,13 @@ institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, ISLL, tvärfakultet]
 scrape_hash: d019fb53c2fc6d7c
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LU79A
 up: "ISLL"
 ---
 
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Examensarbete för ämneslärare` ≠ kursplanens namn `Examensarbete för ämneslärare (avancerad nivå)` (kurskod `APG282`) |
-<!-- analys:end -->
-
 # LU79A
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LU79A)
 
 **Programnamn:** Kompletterande pedagogisk utbildning, inriktning årskurs 7–9
 

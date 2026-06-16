@@ -5,10 +5,13 @@ institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2018-10-11 . Gäller fr.o.m.  HT 2018."
 tags: [utbildningsplan, program, IIT]
 scrape_hash: a630a02817236c92
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=ANA235
 up: "IIT"
 ---
 
 # ANA235
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=ANA235)
 
 **Programnamn:** Business Intelligence: Magisterprogram
 

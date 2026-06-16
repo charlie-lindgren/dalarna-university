@@ -5,10 +5,13 @@ institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-06-17 . Gäller fr.o.m.  HT 2025."
 tags: [utbildningsplan, program, IKS]
 scrape_hash: e1e42f01c2f0f2c3
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LPEDA
 up: "IKS"
 ---
 
 # LPEDA
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LPEDA)
 
 **Programnamn:** Magisterprogram i pedagogiskt arbete
 

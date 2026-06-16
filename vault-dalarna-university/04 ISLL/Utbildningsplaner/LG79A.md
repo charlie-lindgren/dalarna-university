@@ -5,23 +5,13 @@ institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, ISLL, tvärfakultet]
 scrape_hash: 3044348929c22393
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LG79A
 up: "ISLL"
 ---
 
-<!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Didaktik och ledarskap för ämneslärare` → `PG1020` (nedlagd 2018-07-02) — plain-text-referens |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Utveckling och lärande - ämneslärare` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Utveckling och lärande för ämneslärare inriktning åk 7-9` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Sociala relationer, konflikter och makt - ämneslärare` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Utvärdering och utvecklingsarbete för ämneslärare` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Verksamhetsförlagd utbildning - ämneslärare` (15 hp) |
-<!-- analys:end -->
-
 # LG79A
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LG79A)
 
 **Programnamn:** Ämneslärarprogrammet inriktning grundskolans årskurs 7-9
 

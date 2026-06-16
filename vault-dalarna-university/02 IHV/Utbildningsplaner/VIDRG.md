@@ -5,18 +5,13 @@ institution: "IHV"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-01-15 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, IHV]
 scrape_hash: 46d3e9b3503e47d1
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VIDRG
 up: "IHV"
 ---
 
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Media och kommunikation inom idrott` (7,5hp) |
-<!-- analys:end -->
-
 # VIDRG
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VIDRG)
 
 **Programnamn:** Idrottstränarprogrammet
 

@@ -5,10 +5,13 @@ institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2017-12-19 . Gäller fr.o.m.  HT 2017."
 tags: [utbildningsplan, program, IIT]
 scrape_hash: e46fa7ab8524364d
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TTBRB
 up: "IIT"
 ---
 
 # TTBRB
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TTBRB)
 
 **Programnamn:** Tekniskt basår
 

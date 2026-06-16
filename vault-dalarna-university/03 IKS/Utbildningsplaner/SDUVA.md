@@ -5,18 +5,13 @@ institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2012-05-02 . Gäller fr.o.m.  2012-05-02."
 tags: [utbildningsplan, program, IKS]
 scrape_hash: cf673602e64629e2
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SDUVA
 up: "IKS"
 ---
 
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Evenemangsturism` (7,5 hp) |
-<!-- analys:end -->
-
 # SDUVA
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SDUVA)
 
 **Programnamn:** Magisterprogram i destinationsutveckling
 

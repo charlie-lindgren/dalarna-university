@@ -5,20 +5,13 @@ institution: "IHV"
 faststalld: "Fastställd av Områdesnämnden Vård och omsorg 2018-12-04 . Gäller fr.o.m.  HT 2018."
 tags: [utbildningsplan, program, IHV]
 scrape_hash: c7e71026833e416a
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSSKG
 up: "IHV"
 ---
 
-<!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Introduktion omvårdnad och etik - Huvudområde Omvårdnad` → `VÅ1061` (nedlagd 2025-06-03) — plain-text-referens |
-> | Stavfel och språkbruk | Felstavning | `engström` (sv) |
-> | Stavfel och språkbruk | Felstavning | `hälso` (sv) |
-<!-- analys:end -->
-
 # VSSKG
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSSKG)
 
 **Programnamn:** Sjuksköterskeprogrammet
 

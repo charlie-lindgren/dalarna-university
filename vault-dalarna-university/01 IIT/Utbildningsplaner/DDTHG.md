@@ -5,10 +5,13 @@ institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2022-12-20 . Gäller fr.o.m.  HT 2023."
 tags: [utbildningsplan, program, IIT]
 scrape_hash: 90d06997b21be837
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=DDTHG
 up: "IIT"
 ---
 
 # DDTHG
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=DDTHG)
 
 **Programnamn:** Digitala tjänster – program för högskoleexamen
 

@@ -5,10 +5,13 @@ institution: "IKS"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2018-12-20 . Gäller fr.o.m.  HT 2018."
 tags: [utbildningsplan, program, IKS]
 scrape_hash: eb616771f856bb6a
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=HFRIG
 up: "IKS"
 ---
 
 # HFRIG
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=HFRIG)
 
 **Programnamn:** Filmproduktion för reklam och information – kandidatprogram
 

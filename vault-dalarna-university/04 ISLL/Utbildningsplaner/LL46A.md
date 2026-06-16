@@ -5,24 +5,13 @@ institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, ISLL]
 scrape_hash: dca4e37056e7315f
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LL46A
 up: "ISLL"
 ---
 
-<!-- analys:start -->
-> [!warning]- 7 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Didaktik och ledarskap i grundskolans åk 4–6` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Examensarbete för grundlärarexamen inriktning 4–6 – del 1` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Examensarbete för grundlärarexamen inriktning 4–6 – del 2` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Utvärdering och utvecklingsarbete i grundskolans åk 4–6` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Engelska för grundlärare åk 4-6 1A` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Engelska för grundlärare åk 4-6 1B` (15 hp) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Samhällsorienterande ämnen, åk 4–6` ≠ kursplanens namn `Samhällsorienterande ämnen, årskurs 4-6` (kurskod `GPG2SC`) |
-<!-- analys:end -->
-
 # LL46A
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LL46A)
 
 **Programnamn:** Grundlärarprogrammet grundskolans årskurs 4-6 arbetsintegrerad utbildning
 

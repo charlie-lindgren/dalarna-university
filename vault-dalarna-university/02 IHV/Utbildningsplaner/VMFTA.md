@@ -5,10 +5,13 @@ institution: "IHV"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2026-01-14 . Gäller fr.o.m.  HT 2025."
 tags: [utbildningsplan, program, IHV]
 scrape_hash: c40068538a21c4a4
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VMFTA
 up: "IHV"
 ---
 
 # VMFTA
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VMFTA)
 
 **Programnamn:** Magisterprogram i fysioterapi
 

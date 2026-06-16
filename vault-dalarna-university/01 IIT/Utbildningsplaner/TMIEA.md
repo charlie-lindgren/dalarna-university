@@ -5,10 +5,13 @@ institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2018-10-11 . Gäller fr.o.m.  VT 2019."
 tags: [utbildningsplan, program, IIT]
 scrape_hash: bac4d84f3904afff
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TMIEA
 up: "IIT"
 ---
 
 # TMIEA
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TMIEA)
 
 **Programnamn:** Magisterprogram i energieffektivt byggande
 

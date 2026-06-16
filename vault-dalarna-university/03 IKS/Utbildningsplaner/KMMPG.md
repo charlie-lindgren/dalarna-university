@@ -5,10 +5,13 @@ institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-01-15 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, IKS]
 scrape_hash: 55fe11dc3f7bfe62
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KMMPG
 up: "IKS"
 ---
 
 # KMMPG
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KMMPG)
 
 **Programnamn:** Manus och medieproduktion
 

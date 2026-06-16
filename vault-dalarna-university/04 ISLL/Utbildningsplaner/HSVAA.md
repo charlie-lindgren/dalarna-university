@@ -5,18 +5,13 @@ institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för språk, litteratur och lärande 2020-04-17 . Gäller fr.o.m.  VT 2021."
 tags: [utbildningsplan, program, ISLL]
 scrape_hash: af81f6e91d396179
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=HSVAA
 up: "ISLL"
 ---
 
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Svenska som andraspråk i ett utvecklingsperspektiv - vetenskapsteoretiska förklaringsmodeller och metodologiska perspektiv` (7,5 hp) |
-<!-- analys:end -->
-
 # HSVAA
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=HSVAA)
 
 **Programnamn:** Magisterprogram i svenska som andraspråk
 

@@ -5,19 +5,13 @@ institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-12-19 . Gäller fr.o.m.  HT 2025."
 tags: [utbildningsplan, program, IIT]
 scrape_hash: 11882bd9cf749bbf
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TATPG
 up: "IIT"
 ---
 
-<!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Produktutveckling` → `MT2016` (nedlagd 2021-11-30) — plain-text-referens |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Finita elementmetoden i praktiken` (7,5 hp) — sannolikt avses `Finita element metoden i praktiken` (kurskod `GMT2QF`) |
-<!-- analys:end -->
-
 # TATPG
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TATPG)
 
 **Programnamn:** Assisterande teknikprogrammet
 

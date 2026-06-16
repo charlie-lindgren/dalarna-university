@@ -5,10 +5,13 @@ institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-01-15 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, IKS]
 scrape_hash: ff919bad8230ef68
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KMUSG
 up: "IKS"
 ---
 
 # KMUSG
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KMUSG)
 
 **Programnamn:** Musik- och ljudproduktionsprogrammet
 

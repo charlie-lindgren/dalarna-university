@@ -5,10 +5,13 @@ institution: "IKS"
 faststalld: "Fastställd av prefekt för institutionen för kultur och samhälle 2023-12-19 . Gäller fr.o.m.  HT 2023."
 tags: [utbildningsplan, program, IKS]
 scrape_hash: d2168de513a50205
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SPTMG
 up: "IKS"
 ---
 
 # SPTMG
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SPTMG)
 
 **Programnamn:** Sport Managementprogrammet
 

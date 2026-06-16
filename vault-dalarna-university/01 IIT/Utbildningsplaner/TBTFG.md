@@ -5,10 +5,13 @@ institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2022-03-01 . Gäller fr.o.m.  VT 2022."
 tags: [utbildningsplan, program, IIT]
 scrape_hash: 90b6e3194e8b4d30
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TBTFG
 up: "IIT"
 ---
 
 # TBTFG
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TBTFG)
 
 **Programnamn:** Byggteknik – produktion och förvaltning
 

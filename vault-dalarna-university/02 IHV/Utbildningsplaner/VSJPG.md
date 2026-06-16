@@ -5,18 +5,13 @@ institution: "IHV"
 faststalld: "Fastställd av prefekt för institutionen för hälsa och välfärd 2023-11-07 . Gäller fr.o.m.  HT 2023."
 tags: [utbildningsplan, program, IHV]
 scrape_hash: cda556c04cb40b47
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSJPG
 up: "IHV"
 ---
 
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning | `engström` (sv) |
-<!-- analys:end -->
-
 # VSJPG
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSJPG)
 
 **Programnamn:** Sjuksköterskeprogrammet
 

@@ -5,10 +5,13 @@ institution: "ISLL"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2020-10-22 . Gäller fr.o.m.  HT 2021."
 tags: [utbildningsplan, program, ISLL]
 scrape_hash: fffe87fe77e16169
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=HEELA
 up: "ISLL"
 ---
 
 # HEELA
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=HEELA)
 
 **Programnamn:** Magisterprogram i engelska med inriktning mot engelskspråkig litteratur
 

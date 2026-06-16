@@ -5,18 +5,13 @@ institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-01-15 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, IKS]
 scrape_hash: b4c205cc437b2cb6
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KMPTG
 up: "IKS"
 ---
 
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning | `thorbjörn` (sv) |
-<!-- analys:end -->
-
 # KMPTG
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KMPTG)
 
 **Programnamn:** Medieproduktionsprogrammet för TV och sociala medier
 

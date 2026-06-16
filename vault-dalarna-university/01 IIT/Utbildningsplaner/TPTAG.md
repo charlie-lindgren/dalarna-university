@@ -5,22 +5,13 @@ institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2023-03-28 . Gäller fr.o.m.  VT 2023."
 tags: [utbildningsplan, program, IIT]
 scrape_hash: 0d6d6355d815b993
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPTAG
 up: "IIT"
 ---
 
-<!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `3D CAD grundkurs` (7,5 hp) — sannolikt avses `3D-CAD – grundkurs` (kurskod `GMT338`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Additiv tillverkning` (7,5 hp) — sannolikt avses `Additiv tillverkning (3D printing)` (kurskod `GMT34A`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Examensarbete för högskoleexamen inom maskinteknik` (7,5 hp) — sannolikt avses `Examensarbete för högskoleexamen i maskinteknik` (kurskod `GMT34W`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Underhåll och kvalitet` (7,5 hp) — sannolikt avses `Industriell ekonomi - underhåll och kvalitet` (kurskod `GIE26N`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `CAM / CNC` ≠ kursplanens namn `CAM/CNC` (kurskod `GMT34P`) |
-<!-- analys:end -->
-
 # TPTAG
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPTAG)
 
 **Programnamn:** Produktionstekniker inom maskinteknik - högskoleexamensprogram
 

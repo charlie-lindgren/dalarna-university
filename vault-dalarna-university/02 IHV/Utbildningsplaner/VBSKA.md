@@ -5,23 +5,13 @@ institution: "IHV"
 faststalld: "Fastställd av Områdesnämnden Vård och omsorg 2019-09-10 . Gäller fr.o.m.  HT 2020."
 tags: [utbildningsplan, program, IHV]
 scrape_hash: 28a8eda79dd8f212
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VBSKA
 up: "IHV"
 ---
 
-<!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Gynekologisk och postpartumvård, verksamhetsförlagd utbildning` → `VÅ3086` (nedlagd 2017-04-07) — plain-text-referens |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Gravididet, förlossning och postpartumvård 1` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Gravididet, förlossning och postpartumvård 2` (6 hp) |
-> | Stavfel och språkbruk | Felstavning | `europarådets` (sv) |
-> | Stavfel och språkbruk | Felstavning | `postpartumvård` (sv) |
-> | Stavfel och språkbruk | Felstavning | `ternström` (sv) |
-<!-- analys:end -->
-
 # VBSKA
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VBSKA)
 
 **Programnamn:** Barnmorskeprogrammet
 
