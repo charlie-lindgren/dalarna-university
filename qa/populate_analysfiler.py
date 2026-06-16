@@ -678,7 +678,9 @@ def main():
 
             xlsx_filename = analys_path.stem + ".xlsx"
             xlsx_path = analys_path.with_suffix(".xlsx")
-            callout_lines = build_callout(rows, xlsx_filename, inst_code=inst_code)
+            callout_lines = build_callout(
+                rows, xlsx_filename, inst_code=inst_code, meta_map=plan_meta
+            )
 
             original = analys_path.read_text(encoding="utf-8")
             new_text = replace_callout(original, callout_lines)
