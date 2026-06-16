@@ -86,7 +86,11 @@ let index = new FlexSearch.Document<Item>({
 const p = new DOMParser()
 const fetchContentCache: Map<FullSlug, Element[]> = new Map()
 const contextWindowWords = 30
-const numSearchResults = 8
+// Upper bound handed to flexsearch so it returns *all* matches rather than a
+// truncated page; the UI then reveals them progressively via infinite scroll.
+const searchResultLimit = 10000
+// How many result cards to render per infinite-scroll batch.
+const resultsBatchSize = 20
 const numTagResults = 5
 
 const tokenizeTerm = (term: string) => {
@@ -210,6 +214,8 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   const enablePreview = searchLayout.dataset.preview === "true"
   let preview: HTMLDivElement | undefined = undefined
   let previewInner: HTMLDivElement | undefined = undefined
+  // Observer that drives infinite scroll; recreated per query in displayResults.
+  let resultObserver: IntersectionObserver | null = null
   const results = document.createElement("div")
   results.className = "results-container"
   appendLayout(results)
@@ -374,6 +380,11 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   }
 
   async function displayResults(finalResults: Item[]) {
+    // Tear down any infinite-scroll observer from a previous query.
+    if (resultObserver) {
+      resultObserver.disconnect()
+      resultObserver = null
+    }
     removeAllChildren(results)
     if (finalResults.length === 0) {
       results.innerHTML = `<a class="result-card no-match">
@@ -381,7 +392,37 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
           <p>Try another search term?</p>
       </a>`
     } else {
-      results.append(...finalResults.map(resultToHTML))
+      // Render the first batch immediately, then reveal the rest as the user
+      // scrolls to the bottom of the results container (infinite scroll). This
+      // keeps the DOM light even when a query matches hundreds of plans.
+      let rendered = 0
+      const renderNextBatch = () => {
+        const batch = finalResults.slice(rendered, rendered + resultsBatchSize)
+        results.append(...batch.map(resultToHTML))
+        rendered += batch.length
+      }
+      renderNextBatch()
+
+      if (rendered < finalResults.length) {
+        const sentinel = document.createElement("div")
+        sentinel.className = "search-scroll-sentinel"
+        results.append(sentinel)
+        resultObserver = new IntersectionObserver(
+          (entries) => {
+            if (!entries[0].isIntersecting) return
+            sentinel.remove()
+            renderNextBatch()
+            if (rendered < finalResults.length) {
+              results.append(sentinel)
+            } else {
+              resultObserver?.disconnect()
+              resultObserver = null
+            }
+          },
+          { root: results, rootMargin: "200px" },
+        )
+        resultObserver.observe(sentinel)
+      }
     }
 
     if (finalResults.length === 0 && preview) {
@@ -452,13 +493,10 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
         searchResults = await index.searchAsync({
           query: query,
           // return at least 10000 documents, so it is enough to filter them by tag (implemented in flexsearch)
-          limit: Math.max(numSearchResults, 10000),
+          limit: Math.max(searchResultLimit, 10000),
           index: ["title", "content"],
           tag: { tags: tag },
         })
-        for (let searchResult of searchResults) {
-          searchResult.result = searchResult.result.slice(0, numSearchResults)
-        }
         // set search type to basic and remove tag from term for proper highlightning and scroll
         searchType = "basic"
         currentSearchTerm = query
@@ -466,14 +504,14 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
         // default search by tags index
         searchResults = await index.searchAsync({
           query: currentSearchTerm,
-          limit: numSearchResults,
+          limit: searchResultLimit,
           index: ["tags"],
         })
       }
     } else if (searchType === "basic") {
       searchResults = await index.searchAsync({
         query: currentSearchTerm,
-        limit: numSearchResults,
+        limit: searchResultLimit,
         index: ["title", "content"],
       })
     }
@@ -499,6 +537,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   window.addCleanup(() => searchButton.removeEventListener("click", () => showSearch("basic")))
   searchBar.addEventListener("input", onType)
   window.addCleanup(() => searchBar.removeEventListener("input", onType))
+  window.addCleanup(() => resultObserver?.disconnect())
 
   registerEscapeHandler(container, hideSearch)
   await fillDocument(data)
