@@ -9,28 +9,6 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG
 up: "IIT"
 ---
 
-<!-- analys:start -->
-> [!warning]- 15 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Industriell Ekonomi med kalkylering` → `IE1062` (nedlagd 2024-11-06) — plain-text-referens |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Introduktion till mekanik och hållfasthetslära` → `MT1067` (nedlagd 2025-12-08) — plain-text-referens |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `3D CAD Grundläggande` → `MT1051` (nedlagd 2025-08-21) — plain-text-referens |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Statistik för ingenjörer` → `ST1028` (nedlagd 2024-11-06) — plain-text-referens |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Tillverkningsteknik` → `MT1070` (nedlagd 2025-12-08) — plain-text-referens |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Grundläggande materiallära` → `GMP2LL` (nedlagd 2025-09-30) — plain-text-referens |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `CAD/CAM` → `MT1072` (nedlagd 2025-12-08) — plain-text-referens |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Hydraulik och Pneumatik` → `MT1073` (nedlagd 2025-12-08) — plain-text-referens |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Grundläggande ellära för maskinteknik` → `ET1022` (nedlagd 2024-11-06) — plain-text-referens |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Materialval` → `MP2039` (nedlagd 2025-09-30) — plain-text-referens |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Introduktion till hållbar utveckling inom maskinteknik` → `GMT2CU` (nedlagd 2025-12-08) — plain-text-referens |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Konstruktionsprojekt` → `GMT224` (nedlagd 2025-12-08) — plain-text-referens |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Kvalitetsteknik` → `GMT2CV` (nedlagd 2025-12-08) — plain-text-referens |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Industriell produktion` → `GMT259` (nedlagd 2025-12-08) — plain-text-referens |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Finita elementmetoden` (7,5hp) — sannolikt avses `Finita element metoden i praktiken` (kurskod `GMT2QF`) |
-<!-- analys:end -->
-
 # TPOKG
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TPOKG)
