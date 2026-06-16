@@ -5,10 +5,13 @@ institution: "IHV"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-02-12 . Gäller fr.o.m.  HT 2025."
 tags: [utbildningsplan, program, IHV]
 scrape_hash: 4c73e5c8f417ae97
+url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=L7I9A
 up: "IHV"
 ---
 
 # L7I9A
+
+[Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=L7I9A)
 
 **Programnamn:** Ämneslärarprogrammet årskurs 7-9 arbetsintegrerad utbildning med inriktning matematik och idrott och hälsa
 
