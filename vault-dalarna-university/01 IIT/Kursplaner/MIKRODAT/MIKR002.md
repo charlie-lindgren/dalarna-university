@@ -10,7 +10,7 @@ institution: "IIT"
 tags: [kursplan, MIKRODAT, IIT, forskarutbildning, vilande]
 scrape_hash: e977f0b4d2608a77
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=MIKR002
-up: "[[Forskarämne Mikrodataanalys]]"
+up: "[[Mikrodataanalys]]"
 cssclasses: [vilande]
 ---
 
