@@ -27,6 +27,7 @@ import re
 import sys
 import time
 import urllib.parse
+from datetime import date
 from pathlib import Path
 
 import requests
@@ -38,6 +39,52 @@ from bs4 import BeautifulSoup, Tag
 
 VAULT = Path(__file__).resolve().parent.parent / "vault-dalarna-university"
 INST_DIR_NAME = {"IIT": "01 IIT", "IHV": "02 IHV", "IKS": "03 IKS", "ISLL": "04 ISLL"}
+
+# Datumrutan "Senaste större skrapning" på Dalarna Dashboard. Stämplas vid varje
+# fullständig skrapning (--apply utan kod-/ämnes-/institutionsfilter).
+DASHBOARD_PATH = VAULT / "00 Dashboard" / "Dalarna Dashboard.md"
+SCRAPE_DATE_START = "<!-- scrape-date:start -->"
+SCRAPE_DATE_END = "<!-- scrape-date:end -->"
+
+
+def stamp_dashboard_scrape_date(today: str | None = None) -> bool:
+    """Skriv dagens datum i rutan "Senaste större skrapning" på Dalarna Dashboard.
+
+    Idempotent: ersätter innehållet mellan ``scrape-date``-markörerna. Saknas
+    markörerna (t.ex. om rutan tagits bort) infogas blocket efter dashboardens
+    H1-rubrik. Returnerar True om filen ändrades."""
+    today = today or date.today().isoformat()
+    if not DASHBOARD_PATH.exists():
+        return False
+    text = DASHBOARD_PATH.read_text(encoding="utf-8")
+    block = (
+        f"{SCRAPE_DATE_START}\n"
+        f"> [!info] Senaste större skrapning\n"
+        f"> Kurs- och utbildningsplanerna hämtades senast från du.se den **{today}**.\n"
+        f"{SCRAPE_DATE_END}"
+    )
+    pattern = re.compile(
+        re.escape(SCRAPE_DATE_START) + r".*?" + re.escape(SCRAPE_DATE_END),
+        re.DOTALL,
+    )
+    if pattern.search(text):
+        new_text = pattern.sub(block, text)
+    else:
+        # Infoga efter första H1-rubriken (och dess efterföljande blankrad).
+        lines = text.split("\n")
+        insert_at = len(lines)
+        for i, line in enumerate(lines):
+            if line.startswith("# "):
+                insert_at = i + 1
+                while insert_at < len(lines) and lines[insert_at].strip() == "":
+                    insert_at += 1
+                break
+        lines[insert_at:insert_at] = ["", block, ""]
+        new_text = "\n".join(lines)
+    if new_text == text:
+        return False
+    DASHBOARD_PATH.write_text(new_text, encoding="utf-8")
+    return True
 
 
 def institution_dir(inst_code: str) -> Path:
@@ -1828,6 +1875,13 @@ def main():
             moc_path.write_text(moc_text, encoding="utf-8")
             if not args.quiet:
                 print(f"  ✓ {ic}.md")
+
+    # Stämpla dashboardens datumruta — men bara vid en *fullständig* skrapning
+    # (--apply, inga kod-/ämnes-/institutionsfilter), dvs. en "större skrapning".
+    is_full_scrape = not (args.courses or args.subject or args.institution)
+    if args.apply and is_full_scrape:
+        if stamp_dashboard_scrape_date():
+            print(f"  ✓ Dashboardens datumruta stämplad ({date.today().isoformat()})")
 
     # Summering
     skip_msg = f", {total_skipped} hoppade över" if total_skipped else ""
