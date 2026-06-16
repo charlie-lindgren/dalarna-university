@@ -392,7 +392,7 @@ def read_course_revised_date(path: Path) -> str | None:
 
 
 def build_vilande_analysis_callout(
-    rows: list[tuple[str, str, str, str, str, str | None, str | None]],
+    rows: list[tuple[str, str, str, str, str, str | None, str | None, str]],
     xlsx_filename: str,
     inst_code: str | None = None,
 ) -> list[str]:
@@ -400,6 +400,9 @@ def build_vilande_analysis_callout(
 
     inst_code prefixas i href:en så att Quartz' "shortest" länkresolver
     hittar exakt en match (varje institutions Analys-mapp har samma filnamn).
+
+    Kolumnen *Sida* länkar till kursplanens egen sida på sajten (samma som de
+    övriga analyssidorna); `no-graph` håller länken utanför grafvyn.
     """
     n = len(rows)
     xlsx_slug = xlsx_filename.replace(" ", "-")
@@ -416,16 +419,17 @@ def build_vilande_analysis_callout(
         "",
         f"> [!example]- {n} fynd — klicka för att expandera",
         ">",
-        "> | Kursplan | Ämne | Institution | Fastställd | Reviderad | Problem |",
-        "> | --- | --- | --- | --- | --- | --- |",
+        "> | Kursplan | Sida | Ämne | Institution | Fastställd | Reviderad | Problem |",
+        "> | --- | --- | --- | --- | --- | --- | --- |",
     ]
     for (code, subj_code, inst_code, _subject_name, _course_name,
-         established_date, revised_date) in rows:
+         established_date, revised_date, slug) in rows:
         established = established_date or "okänt"
         revised = revised_date or "—"
+        sida = f'<a class="no-graph" href="{slug}">sida</a>' if slug else "—"
         lines.append(
             "> | "
-            f"[{code}]({KURSPLAN_URL.format(code=code)}) | "
+            f"[{code}]({KURSPLAN_URL.format(code=code)}) | {sida} | "
             f"{subj_code} | {inst_code} | "
             f"{established} | {revised} | "
             "Ingen aktiv kursomgång |"
@@ -518,14 +522,14 @@ def build_vilande_analysis_template(callout_lines: list[str], inst_code: str) ->
 
 
 def write_vilande_analysis(
-    rows_by_inst: dict[str, list[tuple[str, str, str, str, str, str | None, str | None]]],
+    rows_by_inst: dict[str, list[tuple[str, str, str, str, str, str | None, str | None, str]]],
     apply: bool,
 ) -> dict[str, tuple[bool, bool]]:
     """Skriv/uppdatera Vilande kursplaner.md + .xlsx per institution.
 
     Returnerar {inst_code: (md_changed, xlsx_changed)}.
     """
-    def row_sort_key(r: tuple[str, str, str, str, str, str | None, str | None]) -> tuple[dt.date, str, str, str]:
+    def row_sort_key(r: tuple[str, str, str, str, str, str | None, str | None, str]) -> tuple[dt.date, str, str, str]:
         # Sortera på Reviderad (kolumn 7). Aldrig reviderade kursplaner saknar
         # datum — fall tillbaka på Fastställd (kolumn 6), dvs. kursplanens
         # effektiva senast-ändrad-datum, så de ändå hamnar i rätt ordning
@@ -587,7 +591,7 @@ def write_vilande_analysis(
             cell.alignment = Alignment(horizontal="left", vertical="center")
 
         for (code, subj_code, inst_c, subject_name, course_name,
-             established_date, revised_date) in inst_rows:
+             established_date, revised_date, _slug) in inst_rows:
             url = KURSPLAN_URL.format(code=code)
             ws.append([
                 code,
@@ -743,7 +747,7 @@ def main():
     total_vilande = 0
     total_nedlagd = 0
     total_reactivated = 0
-    vilande_rows: list[tuple[str, str, str, str, str, str | None, str | None]] = []
+    vilande_rows: list[tuple[str, str, str, str, str, str | None, str | None, str]] = []
 
     for subj_code, current_codes in codes_per_subject.items():
         info = subject_info.get(subj_code, {})
@@ -791,6 +795,7 @@ def main():
                         read_course_name(path),
                         read_course_established_date(path),
                         read_course_revised_date(path),
+                        str(path.relative_to(VAULT).with_suffix("")).replace(" ", "-"),
                     )
                 )
             time.sleep(REQUEST_DELAY)
@@ -815,7 +820,7 @@ def main():
         total_nedlagd += len(nedlagd_codes_subj)
         total_reactivated += len(reactivated)
 
-    rows_by_inst: dict[str, list[tuple[str, str, str, str, str, str | None, str | None]]] = defaultdict(list)
+    rows_by_inst: dict[str, list[tuple[str, str, str, str, str, str | None, str | None, str]]] = defaultdict(list)
     for row in vilande_rows:
         inst_c = row[2]
         if inst_c in INST_DIR_NAME:
