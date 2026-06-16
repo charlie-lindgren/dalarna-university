@@ -8,7 +8,6 @@ up: "[[IKS]]"
 # Kulturgeografi
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
-> Huvudområde: Kulturgeografi 1 Turismvetenskap 2
 
 ## Kurser (4 st)
 

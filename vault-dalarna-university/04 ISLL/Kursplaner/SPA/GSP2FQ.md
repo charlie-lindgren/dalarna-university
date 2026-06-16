@@ -9,29 +9,10 @@ amne: "Spanska"
 amne_kod: "SPA"
 institution: "ISLL"
 tags: [kursplan, SPA, ISLL]
-scrape_hash: 4ea1e2ba48825812
+scrape_hash: 57b2778278589f1c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2FQ
 up: "[[Spanska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 12 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens… |
-> | Omfång på lärandemål | För många mål | 33 lärandemål (maximum rekommenderat: 12 för 30 hp) |
-> | Omfång på lärandemål | Långt mål | 35 ord: - visa kunskap om elevers syn på och upplevelser av sitt språklärande samt refle… |
-> | Omfång på lärandemål | Långt mål | 35 ord: - diskutera och reflektera över samspelet mellan inre och yttre faktorer som är … |
-> | Omfång på lärandemål | Långt mål | 36 ord: - visa kunskap om olika former av informations- och kommunikationsteknik och hur… |
-> | Omfång på lärandemål | Långt mål | 29 ord: - visa förmåga att självständigt välja relevant innehåll och arbetssätt i språku… |
-> | Omfång på lärandemål | Långt mål | 29 ord: - visa fördjupade kunskaper om den gemensamma europeiska referensramen för språk… |
-> | Omfång på lärandemål | Långt mål | 30 ord: - visa fördjupade kunskaper om användningen av IKT i språkundervisningen, IKT-ut… |
-> | Omfång på lärandemål | Långt mål | 30 ord: - visa förmåga att ställa en relevant forskningsfråga inom ett avgränsat problem… |
-> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 33 mål, engelska: 1 mål (diff 32) |
-> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen innehåller två till tre fältdagar vid en grund- eller gymnasieskola. För nätbaserad kurs krävs tillgång till dato… |
-<!-- analys:end -->
 
 # GSP2FQ
 
@@ -340,7 +321,7 @@ Betyg rapporteras enligt följande:
 
 ## Förkunskapskrav
 
-- Spanska I med didaktisk inriktning, 22,5 hp, inklusive delkursen Språkfärdighet och grammatik och en av Språkdidaktik-delkurserna
+- Spanska I med didaktisk inriktning, 22,5 hp, inklusive delkursen Språkfärdighet och grammatik 6 hp och en av Språkdidaktik-delkurserna 6 hp
 
 ## Övrigt
 
@@ -585,4 +566,4 @@ Reporting of grades:
 
 ### Prerequisites
 
-- Spanish I for Teacher Education Students, 22.5 credits, including the module Language Proficiency and Grammar and one of the Language learning and teaching modules
+- Spanish I for Teacher Education Students, 22.5 credits, including the module Language Proficiency and Grammar 6 credits and one of the Language learning and teaching modules 6 credits

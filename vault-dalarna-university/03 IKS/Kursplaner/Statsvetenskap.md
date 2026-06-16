@@ -7,15 +7,16 @@ up: "[[IKS]]"
 
 # Statsvetenskap
 
-> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
-> Huvudområde: Statsvetenskap 1
+> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (20 st)
+## Kurser (22 st)
 
 - [[ASK22G]] — Transnationell integration och nationell fragmentering
 - [[ASK22H]] — Statsbyggnad och medborgarskap
 - [[ASK22J]] — Processer till demokrati och autokrati
 - [[ASK22K]] — Politisk kultur i ett jämförande perspektiv
+- [[ASK22M]] — Examensarbete för magisterexamen i statsvetenskap
+- [[ASK289]] — Samhällsvetenskapliga metoder III - inriktning statsvetenskap
 - [[ASK297]] — Komparativa metoder i statsvetenskap med fokus på Afrika
 - [[GSK2C9]] — Civilsamhälle och demokrati i Sverige
 - [[GSK2K2]] — Segregationens dimensioner, orsaker och konsekvenser
@@ -33,13 +34,11 @@ up: "[[IKS]]"
 - [[GSK38P]] — Svensk politik och samhälle - kontinuitet och förändring
 - [[SK1058]] — Globalisering - innebörder och konsekvenser
 
-## Vilande kursplaner (18 st)
+## Vilande kursplaner (16 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[ASK22L]] — Samhällsvetenskapliga metoder III - inriktning statsvetenskap
-- [[ASK22M]] — Examensarbete för magisterexamen i statsvetenskap
-- [[ASK289]] — Samhällsvetenskapliga metoder III - inriktning statsvetenskap
 - [[GSK2PU]] — Examensarbete för högskoleexamen i statsvetenskap
 - [[GSK2PW]] — Examensarbete för kandidatexamen i statsvetenskap
 - [[SK1018]] — Europeiska Unionen: Institutioner och politik

@@ -7,8 +7,7 @@ up: "[[IKS]]"
 
 # Ljud- och musikproduktion
 
-> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
-> Huvudområde: Ljud- och musikproduktion 1
+> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
 ## Kurser (11 st)
 

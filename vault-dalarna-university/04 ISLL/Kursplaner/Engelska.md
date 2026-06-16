@@ -7,8 +7,7 @@ up: "[[ISLL]]"
 
 # Engelska
 
-> Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
-> Huvudområde: Engelskspråkig litteratur 1 Interkulturella litteraturstudier 2
+> Forskarutbildningsämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
 ## Kurser (51 st)
 
@@ -64,7 +63,7 @@ up: "[[ISLL]]"
 - [[GEN3E6]] — Introduktion till engelsk lingvistik
 - [[GEN3E7]] — Brittisk och amerikansk litteratur- och idéhistoria
 
-## Vilande kursplaner (20 st)
+## Vilande kursplaner (21 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -88,3 +87,4 @@ up: "[[ISLL]]"
 - [[GEN3BQ]] — Teman inom populärlitteraturen
 - [[GEN3BR]] — Kulturella texter och kontexter
 - [[GEN3K3]] — Engelska II
+- [[GEN3KC]] — Engelska III med didaktisk inriktning för gymnasieskolan

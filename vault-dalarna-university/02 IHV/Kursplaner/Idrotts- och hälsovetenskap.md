@@ -7,8 +7,7 @@ up: "[[IHV]]"
 
 # Idrotts- och hälsovetenskap
 
-> Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
-> Huvudområde: Ej huvudområde 1
+> Forskarutbildningsämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 
 ## Kurser (44 st)
 

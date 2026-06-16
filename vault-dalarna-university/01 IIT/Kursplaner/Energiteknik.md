@@ -8,7 +8,6 @@ up: "[[IIT]]"
 # Energiteknik
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
-> Huvudområde: Solenergiteknik 1
 
 ## Kurser (35 st)
 

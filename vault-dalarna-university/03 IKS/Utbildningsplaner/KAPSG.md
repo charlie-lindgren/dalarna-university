@@ -9,14 +9,6 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KAPSG
 up: "IKS"
 ---
 
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning | `jörgensen` (sv) |
-<!-- analys:end -->
-
 # KAPSG
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KAPSG)

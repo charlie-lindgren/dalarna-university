@@ -9,20 +9,10 @@ amne: "Spanska"
 amne_kod: "SPA"
 institution: "ISLL"
 tags: [kursplan, SPA, ISLL]
-scrape_hash: 76c4954dd7fec64c
+scrape_hash: a3beebb08571b466
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2YT
 up: "[[Spanska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska den studerande på spanska kunna:… |
-> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Spanska I` → `SP1014` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
-> | Omfång på lärandemål | Långt mål | 33 ord: - visa förtrogenhet med uppbyggnaden av vetenskapliga texter, vilket innefattar … |
-<!-- analys:end -->
 
 # GSP2YT
 
@@ -72,7 +62,7 @@ Betyg rapporteras enligt följande:
 
 ## Förkunskapskrav
 
-- 22,5 hp inom huvudområdet spanska, inklusive kursen Spanska I: Skriftlig språkfärdighet och grammatik, 7,5 hp
+- 22,5 hp inom huvudområdet spanska inklusive Spanska I: Skriftlig språkfärdighet och grammatik, 7,5 hp
 
 ## Övrigt
 
@@ -122,4 +112,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- 22.5 credits within the main field of Spanish, including the course Spanish I: Written Language Proficiency and Grammar, 7,5 credits
+- 22.5 credits within the main field of Spanish including Spanish I: Written Language Proficiency and Grammar, 7.5 credits

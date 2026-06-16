@@ -7,10 +7,9 @@ up: "[[IKS]]"
 
 # Pedagogiskt arbete
 
-> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
-> Huvudområde: Ej huvudområde 1
+> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (72 st)
+## Kurser (77 st)
 
 - [[APG22X]] — Tematisk fördjupning inom ett utbildningsvetenskapligt område
 - [[APG244]] — Vetenskapsteori och utbildningsvetenskaplig forskning för grundlärare F-3
@@ -24,6 +23,7 @@ up: "[[IKS]]"
 - [[APG275]] — Utvärdering och utvecklingsarbete i förskoleklass och grundskolans åk 1-3 (varav 7,5 hp VFU)
 - [[APG276]] — Utvärdering och utvecklingsarbete i grundskolans åk 4-6, (varav 7,5 hp VFU)
 - [[APG282]] — Examensarbete för ämneslärare (avancerad nivå)
+- [[APG28B]] — Verksamhetsförlagd utbildning för lärare (KPU)
 - [[APG28M]] — Vetenskapsteori och utbildningsvetenskaplig forskning - VAL
 - [[APG28R]] — Verksamhetsförlagd utbildning i gymnasieskolan
 - [[APG28S]] — Verksamhetsförlagd utbildning i grundskolan årskurs 7-9
@@ -52,6 +52,7 @@ up: "[[IKS]]"
 - [[GPG2VX]] — Självständigt arbete för yrkeslärare
 - [[GPG2WR]] — Examensarbete för ämneslärare (grundnivå)
 - [[GPG2YG]] — Kommunikation och berättande i ett flerspråkigt klassrum för grundlärare årskurs F-3
+- [[GPG2YH]] — Verksamhetsförlagd utbildning för lärare (YRK)
 - [[GPG2Z3]] — Bedömning och betygssättning - VAL
 - [[GPG2Z4]] — Utveckling och lärande - VAL
 - [[GPG2Z6]] — Sociala relationer och konflikthantering - VAL
@@ -65,6 +66,7 @@ up: "[[IKS]]"
 - [[GPG33F]] — Didaktik och bedömning - VAL
 - [[GPG3AB]] — Introduktion till läraryrket för ämneslärare årskurs 7–9 - AIL
 - [[GPG3AC]] — Didaktik och ledarskap för ämneslärare årskurs 7–9 - AIL
+- [[GPG3AD]] — Verksamhetsförlagd utbildning 1 för ämneslärare årskurs 7–9 - AIL
 - [[GPG3AE]] — Utveckling och lärande för ämneslärare årskurs 7-9 - AIL
 - [[GPG3BE]] — Didaktik och ledarskap - VAL
 - [[GPG3CF]] — Utveckling och lärande i förskoleklass och grundskolans åk 1-3 (varav 7,5 hp VFU)
@@ -79,13 +81,15 @@ up: "[[IKS]]"
 - [[GPG3FV]] — Självständigt arbete - VAL
 - [[GPG3JC]] — Utbildningssystemet i Sverige
 - [[GPG3JD]] — Att leda kollegiala lärprocesser i förskola och skola
+- [[GPG3KA]] — Didaktik och ledarskap för ämneslärare inriktning årskurs 7-9 (inkl 7,5 hp VFU)
+- [[GPG3KB]] — Didaktik och ledarskap för ämneslärare inriktning gymnasieskolan (inkl 7,5 hp VFU)
 - [[PG3023]] — Pedagogiskt arbete IIIb: Examensarbete
 - [[PG3031]] — Utbildningsfilosofiska perspektiv
 - [[PG3041]] — Utbildningsvetenskapliga teorier
 - [[PG3061]] — Att kritiskt granska utbildningsvetenskaplig forskning
 - [[PG3069]] — Utbildningsvetenskapliga ansatser - teoretisk och  metodologisk fördjupning
 
-## Vilande kursplaner (39 st)
+## Vilande kursplaner (34 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -93,7 +97,6 @@ up: "[[IKS]]"
 - [[APG27T]] — Rektors ledning och organisering för utveckling av barns och elevers lärandemiljö
 - [[APG27U]] — Utvärdering och verksamhetsutveckling i förskola och förskoleklass (varav 7,5 hp VFU)
 - [[APG27Z]] — Professionellt lärarskap och skolutveckling - KPU (varav 10 hp VFU)
-- [[APG28B]] — Verksamhetsförlagd utbildning för lärare (KPU)
 - [[APG2AA]] — Lärarskicklighet - utveckling av lärarskicklighet i förskola och skola utifrån forskning
 - [[APG2AB]] — Bedömning och betygssättning för ämneslärare årskurs 7-9 - AIL
 - [[APG2AC]] — Rektors pedagogiska ledarskap med fokus på förskolans utbildningsuppdrag
@@ -107,11 +110,9 @@ up: "[[IKS]]"
 - [[GPG2SH]] — Lek i förskolan (varav 7,5 hp VFU)
 - [[GPG2TT]] — Omsorg, relationer och etik i förskolläraryrket
 - [[GPG2VW]] — Professionellt lärarskap och skolutveckling (varav 10 hp VFU)
-- [[GPG2YH]] — Verksamhetsförlagd utbildning för lärare (YRK)
 - [[GPG33E]] — Sociala relationer, skolans historiska utveckling och samhällsuppdrag - VAL
 - [[GPG36A]] — Didaktik och läroplansteori - KPU
 - [[GPG36B]] — Didaktik och läroplansteori
-- [[GPG3AD]] — Verksamhetsförlagd utbildning 1 för ämneslärare årskurs 7–9 - AIL
 - [[GPG3AF]] — Specialpedagogik och ett läraruppdrag i förändring för ämneslärare årskurs 7–9 - AIL
 - [[GPG3AG]] — Verksamhetsförlagd utbildning 2 för ämneslärare årskurs 7–9 - AIL
 - [[GPG3BD]] — Introduktion till läraryrket
@@ -120,8 +121,6 @@ up: "[[IKS]]"
 - [[GPG3FS]] — Verksamhetsförlagd utbildning 1 - VAL
 - [[GPG3FT]] — Verksamhetsförlagd utbildning 2 - VAL
 - [[GPG3JP]] — Interkulturell och inkluderande undervisning i globala sammanhang
-- [[GPG3KA]] — Didaktik och ledarskap för ämneslärare inriktning årskurs 7-9 (inkl 7,5 hp VFU)
-- [[GPG3KB]] — Didaktik och ledarskap för ämneslärare inriktning gymnasieskolan (inkl 7,5 hp VFU)
 - [[PG2043]] — Pedagogiskt arbete IIIb: Examensarbete (grundnivå 2)
 - [[PG2048]] — Pedagogiskt arbete IIIb: Examensarbete (grundnivå)
 - [[PG3024]] — Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare F-3
