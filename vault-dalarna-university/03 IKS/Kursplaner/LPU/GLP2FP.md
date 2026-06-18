@@ -16,7 +16,7 @@ up: "[[Ljud- och musikproduktion]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -24,7 +24,6 @@ up: "[[Ljud- och musikproduktion]]"
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Modul 1examineras genom en skriftlig vetenskaplig rapport och ett muntligt redovisningsseminarium. Modul 2 examineras ge… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
-> | Stavfel och språkbruk | Dubblerat ord | `in` — …get _Väl godkänd_ är att de examinerande uppgifterna lämnas in in… \| > \| Examinationsformer \| Saknar punktlista \| Examination… |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter LP1057.… |
 <!-- analys:end -->
 

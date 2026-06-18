@@ -16,14 +16,13 @@ up: "[[Vårdvetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Seminarier med skriftlig inlämning. Vid frånvaro eller underkännande av seminarium sker komplettering med skriftlig inlä… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
-> | Stavfel och språkbruk | Felstavning | `inlä` (sv) |
 > | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
 <!-- analys:end -->
 

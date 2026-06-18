@@ -16,7 +16,7 @@ up: "[[Svenska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -24,7 +24,6 @@ up: "[[Svenska]]"
 > | Omfång på lärandemål | Långt mål | 29 ord: - analysera och kritiskt granska hur läsundervisningen kan stödja utvecklingen a… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | Stavfel och språkbruk | Felstavning | `framåtsiktande` (sv) |
-> | Stavfel och språkbruk | Felstavning | `läsu` (sv) |
 <!-- analys:end -->
 
 # ASV2CQ

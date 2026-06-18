@@ -16,13 +16,12 @@ up: "[[Bildproduktion]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Omfång på lärandemål | Långt mål | 30 ord: - ta ställning till etiska och upphovsrättsliga frågor i samband med dokumentärf… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
-> | Stavfel och språkbruk | Felstavning | `dokumentärf` (sv) |
 <!-- analys:end -->
 
 # GBQ35K

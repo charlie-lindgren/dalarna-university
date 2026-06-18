@@ -15,7 +15,7 @@ up: "[[Svenska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -25,7 +25,6 @@ up: "[[Svenska]]"
 > | Omfång på lärandemål | Långt mål | 31 ord: - analysera och bedöma elevers skrivförmåga utifrån autentiska texter och visa f… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 25 mål, engelska: 2 mål (diff 23) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning | `grundläggand` (sv) |
 > | Stavfel och språkbruk | Felstavning | `tiilämpa` (sv) |
 <!-- analys:end -->
 

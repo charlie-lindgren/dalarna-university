@@ -16,7 +16,7 @@ up: "[[Ljud- och musikproduktion]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -24,7 +24,6 @@ up: "[[Ljud- och musikproduktion]]"
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom muntliga och skriftliga seminarie- och laborationsredovisningar samt självständigt genomförda lj… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
-> | Stavfel och språkbruk | Dubblerat ord | `in` — …get _Väl godkänd_ är att de examinerande uppgifterna lämnas in in… \| > \| Examinationsformer \| Saknar punktlista \| Examination… |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Motsvarar LP1041 delkurs 1 och LP1048. Ersätter LP1062. Denna kurs kan inte användas i en examen tillsammans med kursen … |
 <!-- analys:end -->
 

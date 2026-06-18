@@ -25,12 +25,28 @@ DICPATH = os.path.expanduser("~/Library/Spelling")
 # Hjälpare
 # ─────────────────────────────────────────────────────────────────────────────
 
+# Det kursspecifika analysblocket som populate_analysfiler.py skriver in överst i
+# varje drabbad plan (avgränsat av dessa HTML-kommentarer). Det måste tas bort
+# innan kontrollerna läser texten — annars granskas analysblockets egna citat
+# (t.ex. en avhuggen "genomförand") och blir nya, falska fynd vid nästa körning.
+_ANALYS_BLOCK_RE = re.compile(
+    r"\n*[ \t]*<!-- analys:start -->.*?<!-- analys:end -->[ \t]*\n*",
+    re.DOTALL,
+)
+
+
+def strip_analys_block(text: str) -> str:
+    if "<!-- analys:start -->" not in text:
+        return text
+    return _ANALYS_BLOCK_RE.sub("\n\n", text)
+
+
 def strip_frontmatter(text: str) -> str:
     if text.startswith("---"):
         end = text.find("\n---", 3)
         if end != -1:
-            return text[end + 4:]
-    return text
+            return strip_analys_block(text[end + 4:])
+    return strip_analys_block(text)
 
 
 def extract_section(text: str, heading: str) -> str:

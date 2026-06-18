@@ -23,7 +23,7 @@ up: "[[Sociologi]]"
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftliga inlämningsuppgifter, aktivt deltagande på seminarier, fältuppgift samt individuell hemtentamen.… |
 > | Omfång på lärandemål | För många mål | 10 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 10 mål, engelska: 0 mål (diff 10) |
-> | Stavfel och språkbruk | Dubblerat ord | `credits` — ……7.5 credits, Psychological Perspectives on Social Work 7.5 credits credits and Welfare Measures and User Perspective 15 credits… \| > \|… |
+> | Stavfel och språkbruk | Dubblerat ord | `credits` — …7.5 credits, Psychological Perspectives on Social Work 7.5 credits credits and Welfare Measures and User Perspective 15 credits… |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ingår i Socionomprogrammet. Kursen motsvarar GSO26K.… |
 <!-- analys:end -->
 

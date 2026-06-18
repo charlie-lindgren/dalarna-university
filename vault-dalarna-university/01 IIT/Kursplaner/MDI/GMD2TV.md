@@ -15,7 +15,7 @@ up: "[[Matematikdidaktik]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -24,7 +24,6 @@ up: "[[Matematikdidaktik]]"
 > | Omfång på lärandemål | För många mål | 32 lärandemål (maximum rekommenderat: 12 för 30 hp) |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 32 mål, engelska: 2 mål (diff 30) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning | `nätuppkop` (sv) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ingår i Ämneslärarprogrammet. Kursen motsvarar GMD2MG. För studenter i nätbaserad kurs krävs fungerande nätuppkop… |
 <!-- analys:end -->
 

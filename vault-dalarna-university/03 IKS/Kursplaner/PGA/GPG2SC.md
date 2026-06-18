@@ -16,7 +16,7 @@ up: "[[Pedagogiskt arbete]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 14 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 13 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -29,7 +29,6 @@ up: "[[Pedagogiskt arbete]]"
 > | Omfång på lärandemål | Långt mål | 29 ord: - reflektera över hur digitala verktyg och digitala miljöer kan användas i under… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 27 mål, engelska: 1 mål (diff 26) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning | `inlämningsuppgi` (sv) |
 > | Stavfel och språkbruk | Felstavning | `samhällorienterande` (sv) |
 > | Stavfel och språkbruk | Felstavning (en) | `sociaty` (en) |
 > | Stavfel och språkbruk | Felstavning (en) | `understandingn` (en) |

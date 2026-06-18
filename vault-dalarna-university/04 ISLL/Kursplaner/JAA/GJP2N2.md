@@ -15,7 +15,7 @@ up: "[[Japanska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -23,7 +23,6 @@ up: "[[Japanska]]"
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras fortlöpande genom skriftliga inlämningsuppgifter, datoriserade prov online, inspelningsuppgifter, bedö… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Japanska II` → `JP1007` (nedlagd 2009-12-01); förkunskap nämner nedlagd kurs |
-> | Stavfel och språkbruk | Felstavning | `bedö` (sv) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GJP23T.… |
 <!-- analys:end -->
 

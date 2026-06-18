@@ -15,12 +15,11 @@ up: "[[Informatik]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Duggor, U-VG Seminarier, U-G Projekt, U-VG Slutbetyget på kursen baseras på en helhetsbedö… |
-> | Stavfel och språkbruk | Felstavning | `helhetsbedö` (sv) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Överlappar, GIK2F7, IK1004 och MI1003. Undervisning kan ske på engelska.… |
 <!-- analys:end -->
 

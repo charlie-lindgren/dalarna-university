@@ -15,7 +15,7 @@ up: "[[Engelska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 9 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -26,7 +26,6 @@ up: "[[Engelska]]"
 > | Omfång på lärandemål | Långt mål | 28 ord: - i skrift och tal kommunicera och argumentera för sina egna tolkningar av litte… |
 > | Omfång på lärandemål | Långt mål | 30 ord: - redogöra för hur olika former av digitala verktyg kan användas för att utveckl… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 23 mål, engelska: 1 mål (diff 22) |
-> | Stavfel och språkbruk | Felstavning | `inlämnin` (sv) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen inkluderar 2-3 fältdagar på den studerandes kommande VFU skola.… |
 <!-- analys:end -->
 

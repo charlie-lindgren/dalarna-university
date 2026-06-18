@@ -16,7 +16,7 @@ up: "[[Pedagogiskt arbete]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 13 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 12 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -31,7 +31,6 @@ up: "[[Pedagogiskt arbete]]"
 > | Omfång på lärandemål | Långt mål | 31 ord: - visa förmåga att självständigt planera, genomföra, utvärdera och utveckla unde… |
 > | Omfång på lärandemål | Långt mål | 27 ord: - visa förmåga att självständigt och kritiskt analysera, diskutera och reflekter… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 13 mål, engelska: 12 mål (diff 1) |
-> | Stavfel och språkbruk | Felstavning | `lärarprofe` (sv) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Nätbaserad kurs, innehåller obligatoriska campusträffar.… |
 <!-- analys:end -->
 

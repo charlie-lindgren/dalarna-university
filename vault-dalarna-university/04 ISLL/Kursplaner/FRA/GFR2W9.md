@@ -16,13 +16,12 @@ up: "[[Franska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen syftar till att ge den studerande en introduktion till språkdidaktik. Kursen ger en teoretisk grund till språklär… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
-> | Stavfel och språkbruk | Felstavning | `språklär` (sv) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter FR1032. För nätbaserad kurs krävs tillgång till dator, headset, webbkamera och internetuppkoppling.… |
 <!-- analys:end -->
 

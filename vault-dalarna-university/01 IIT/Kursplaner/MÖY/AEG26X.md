@@ -15,14 +15,13 @@ up: "[[Energiteknik]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. Inlämningsuppgift 1: 2 hp, U-G Inlämningsuppgift 2: 3 hp, U, 3, 4, 5 Inlämningsuppgi… |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftliga inlämningsuppgifter 7,5 hp… |
 > | Frasningskonsistens | Avviker från referensformen | Efter genomgång av kursen ska studenten kunna:… |
-> | Stavfel och språkbruk | Felstavning | `inlämningsuppgi` (sv) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ersätter AEG234… |
 <!-- analys:end -->
 

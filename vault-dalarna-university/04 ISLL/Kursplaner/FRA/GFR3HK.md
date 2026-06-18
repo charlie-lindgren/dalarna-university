@@ -15,12 +15,11 @@ up: "[[Franska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen syftar till att ge den studerande en introduktion till språkdidaktik. Kursen ger en teoretisk grund till språklär… |
-> | Stavfel och språkbruk | Felstavning | `språklär` (sv) |
 <!-- analys:end -->
 
 # GFR3HK

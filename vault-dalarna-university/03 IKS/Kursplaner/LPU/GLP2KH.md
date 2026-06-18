@@ -16,7 +16,7 @@ up: "[[Ljud- och musikproduktion]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -25,7 +25,6 @@ up: "[[Ljud- och musikproduktion]]"
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Radioproduktion` → `LP1061` (nedlagd 2021-10-28); förkunskap nämner nedlagd kurs |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
-> | Stavfel och språkbruk | Dubblerat ord | `in` — …get _Väl godkänd_ är att de examinerande uppgifterna lämnas in in… \| > \| Examinationsformer \| Saknar punktlista \| Examination… |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GLP29S.… |
 <!-- analys:end -->
 

@@ -16,7 +16,7 @@ up: "[[Kinesiska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 17 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 15 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -34,8 +34,6 @@ up: "[[Kinesiska]]"
 > | Omfång på lärandemål | Långt mål | 29 ord: - visa fördjupade kunskaper om den gemensamma europeiska referensramen för språk… |
 > | Omfång på lärandemål | Långt mål | 32 ord: - visa förmåga att ställa en relevant forskningsfråga inom ett avgränsat problem… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 31 mål, engelska: 1 mål (diff 30) |
-> | Stavfel och språkbruk | Felstavning | `förbere` (sv) |
-> | Stavfel och språkbruk | Felstavning | `språku` (sv) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen innehåller 1-2 obligatoriska fysiska träffar i Falun. Dessutom ingår också 2-3 obligatoriska fältdagar vid en gym… |
 <!-- analys:end -->
 

@@ -16,14 +16,13 @@ up: "[[Historia]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG.… |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Ett förberett och aktivt deltagande i seminarier och muntliga och skriftliga redovisningar av tillhörande uppgifter utgö… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
-> | Stavfel och språkbruk | Felstavning | `utgö` (sv) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: För nätbaserad kurs krävs tillgång till dator, headset eller bordsmikrofon, webkamera och internetuppkoppling.… |
 <!-- analys:end -->
 

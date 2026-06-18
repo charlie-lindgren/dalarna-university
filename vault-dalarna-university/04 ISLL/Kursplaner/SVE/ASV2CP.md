@@ -16,7 +16,7 @@ up: "[[Svenska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -24,7 +24,6 @@ up: "[[Svenska]]"
 > | Omfång på lärandemål | Långt mål | 27 ord: - problematisera och diskutera utmaningar i undervisningen i förskoleklass och å… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | Stavfel och språkbruk | Felstavning | `framåtsiktande` (sv) |
-> | Stavfel och språkbruk | Felstavning | `läsförkunskape` (sv) |
 > | Stavfel och språkbruk | Felstavning | `läsförkunskaper` (sv) |
 <!-- analys:end -->
 

@@ -16,7 +16,7 @@ up: "[[Bildproduktion]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -24,7 +24,6 @@ up: "[[Bildproduktion]]"
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examinationen sker genom skriftliga uppgifter, examinerande seminarier, en etnografisk övning samt en dokumentärfilmsövn… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
-> | Stavfel och språkbruk | Felstavning | `dokumentärfilmsövn` (sv) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter BQ1076.… |
 <!-- analys:end -->
 
