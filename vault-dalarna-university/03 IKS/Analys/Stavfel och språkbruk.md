@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (206 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (208 rader)</span></a>
 
-> [!example]- 206 fynd — klicka för att expandera
+> [!example]- 208 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -74,6 +74,9 @@ status: första pass
 > | [AKG27R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKG27R) | <a class="no-graph" href="03-IKS/Kursplaner/KGA/AKG27R">sida</a> | KGA | 2022-02-16 | — | Felstavning (en) | `theoretica` (en) |
 > | [GKG3AT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG3AT) | <a class="no-graph" href="03-IKS/Kursplaner/KGA/GKG3AT">sida</a> | KGA | 2024-03-04 | — | Felstavning | `tilllämpas` (sv) |
 > | [GKG3AT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG3AT) | <a class="no-graph" href="03-IKS/Kursplaner/KGA/GKG3AT">sida</a> | KGA | 2024-03-04 | — | Felstavning (en) | `writtten` (en) |
+> | [GKG3KE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG3KE) | <a class="no-graph" href="03-IKS/Kursplaner/KGA/GKG3KE">sida</a> | KGA | 2026-05-25 | — | Felstavning (en) | `dat` (en) |
+> | [GKG3KE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG3KE) | <a class="no-graph" href="03-IKS/Kursplaner/KGA/GKG3KE">sida</a> | KGA | 2026-05-25 | — | Felstavning (en) | `writtten` (en) |
+> | [GKG3KF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG3KF) | <a class="no-graph" href="03-IKS/Kursplaner/KGA/GKG3KF">sida</a> | KGA | 2026-05-25 | — | Felstavning (en) | `writtten` (en) |
 > | [KG1024](https://www.du.se/sv/utbildning/kurser/kursplan/?code=KG1024) | <a class="no-graph" href="03-IKS/Kursplaner/KGA/KG1024">sida</a> | KGA | 2010-02-23 | 2012-10-01 | Felstavning | `beräklningstung` (sv) |
 > | [KG1024](https://www.du.se/sv/utbildning/kurser/kursplan/?code=KG1024) | <a class="no-graph" href="03-IKS/Kursplaner/KGA/KG1024">sida</a> | KGA | 2010-02-23 | 2012-10-01 | Felstavning (en) | `quantitativ` (en) |
 > | [KG1025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=KG1025) | <a class="no-graph" href="03-IKS/Kursplaner/KGA/KG1025">sida</a> | KGA | 2010-04-20 | 2012-10-18 | Felstavning (en) | `evolvement` (en) |
@@ -169,7 +172,6 @@ status: första pass
 > | [ASK22L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASK22L) | <a class="no-graph" href="03-IKS/Kursplaner/SKA/ASK22L">sida</a> | SKA | 2018-11-15 | 2019-08-20 | Felstavning (en) | `formes` (en) |
 > | [ASK22M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASK22M) | <a class="no-graph" href="03-IKS/Kursplaner/SKA/ASK22M">sida</a> | SKA | 2018-11-15 | 2019-08-20 | Felstavning (en) | `reviewscrutiny` (en) |
 > | [ASK289](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASK289) | <a class="no-graph" href="03-IKS/Kursplaner/SKA/ASK289">sida</a> | SKA | 2022-10-17 | — | Felstavning (en) | `compative` (en) |
-> | [GSO2PL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSO2PL) | <a class="no-graph" href="03-IKS/Kursplaner/SOA/GSO2PL">sida</a> | SOA | 2021-04-15 | — | Dubblerat ord | `credits` — …7.5 credits, Psychological Perspectives on Social Work 7.5 credits credits and Welfare Measures and User Perspective 15 credits… |
 > | [SO1027](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SO1027) | <a class="no-graph" href="03-IKS/Kursplaner/SOA/SO1027">sida</a> | SOA | 2013-03-11 | 2013-08-19 | Felstavning (en) | `abilty` (en) |
 > | [ATR26B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATR26B) | <a class="no-graph" href="03-IKS/Kursplaner/TRU/ATR26B">sida</a> | TRU | 2020-10-15 | — | Felstavning | `hållbarbetsmål` (sv) |
 > | [ATR2BJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATR2BJ) | <a class="no-graph" href="03-IKS/Kursplaner/TRU/ATR2BJ">sida</a> | TRU | 2025-04-16 | — | Felstavning (en) | `leaisure` (en) |

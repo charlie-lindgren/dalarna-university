@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (101 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (102 rader)</span></a>
 
-> [!example]- 101 fynd — klicka för att expandera
+> [!example]- 102 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -28,6 +28,7 @@ status: första pass
 > | [GBY342](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY342) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/GBY342">sida</a> | BYA | 2023-04-04 | — | För många mål | 7 lärandemål (maximum rekommenderat: 6 för 5 hp) |
 > | [GDT2JM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT2JM) | <a class="no-graph" href="01-IIT/Kursplaner/DTA/GDT2JM">sida</a> | DTA | 2020-09-24 | — | För många mål | 10 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [GDT2JN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT2JN) | <a class="no-graph" href="01-IIT/Kursplaner/DTA/GDT2JN">sida</a> | DTA | 2020-09-24 | — | Långt mål | 29 ord: - Praktiskt konfigurera och implementera tekniker som möjliggör trådlös kommunik… |
+> | [GDV3KY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDV3KY) | <a class="no-graph" href="01-IIT/Kursplaner/DVE/GDV3KY">sida</a> | DVE | 2026-06-23 | — | Långt mål | 26 ord: - Analysera säkerhetsbehov inom ett hemma- eller medelstort företagsnätverk och … |
 > | [FEB222K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222K) | <a class="no-graph" href="01-IIT/Kursplaner/ENERGIBM/FEB222K">sida</a> | ENERGIBM | 2022-09-13 | — | För få mål | 0 lärandemål (minimum rekommenderat: 2 för 5 hp) |
 > | [FEB222L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222L) | <a class="no-graph" href="01-IIT/Kursplaner/ENERGIBM/FEB222L">sida</a> | ENERGIBM | 2022-09-13 | — | För få mål | 0 lärandemål (minimum rekommenderat: 2 för 5 hp) |
 > | [FEB222M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222M) | <a class="no-graph" href="01-IIT/Kursplaner/ENERGIBM/FEB222M">sida</a> | ENERGIBM | 2022-09-13 | — | För få mål | 0 lärandemål (minimum rekommenderat: 1 för 3 hp) |

@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Bloom-taxonomi.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (19 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Bloom-taxonomi.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (20 rader)</span></a>
 
-> [!example]- 19 fynd — klicka för att expandera
+> [!example]- 20 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -18,6 +18,7 @@ status: första pass
 > | [AEN2BR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BR) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/AEN2BR">sida</a> | ENA | 2025-09-03 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [2,0,1,0,0,0] |
 > | [AEN2BT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BT) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/AEN2BT">sida</a> | ENA | 2025-09-03 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,1,1,0,0,0] |
 > | [AEN2BU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BU) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/AEN2BU">sida</a> | ENA | 2025-09-03 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,2,1,0,0,0] |
+> | [AEN2CT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2CT) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/AEN2CT">sida</a> | ENA | 2026-06-16 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,3,1,0,0,0] |
 > | [EN3062](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3062) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/EN3062">sida</a> | ENA | 2013-09-03 | 2023-12-08 | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [2,1,1,0,0,0] |
 > | [EN3075](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3075) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/EN3075">sida</a> | ENA | 2017-03-13 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [3,1,1,0,0,0] |
 > | [GIT247](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT247) | <a class="no-graph" href="04-ISLL/Kursplaner/ITA/GIT247">sida</a> | ITA | 2018-09-04 | — | Okänt ledande verb | 3 av 7 bullets har okänt ledande verb |

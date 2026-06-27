@@ -1,0 +1,125 @@
+---
+kurskod: GSP3KU
+kursnamn: "Spanska II: Skriftlig språkfärdighet och grammatik"
+course_name: "Spanish II: Written Language Proficiency and Grammar"
+hp: 6 högskolepoäng
+niva: "Grundnivå"
+huvudomrade: "Spanska 1"
+amne: "Spanska"
+amne_kod: "SPA"
+institution: "ISLL"
+tags: [kursplan, SPA, ISLL, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: f4e0f26a7409bf42
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3KU
+up: "[[Spanska]]"
+---
+
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Spanska I` → `SP1014` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
+> | Stavfel och språkbruk | Felstavning (en) | `assigments` (en) |
+<!-- analys:end -->
+
+# GSP3KU
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3KU)
+
+**Kursnamn:** Spanska II: Skriftlig språkfärdighet och grammatik
+**Course Name:** Spanish II: Written Language Proficiency and Grammar
+
+- **Poäng:** 6 högskolepoäng
+- **Nivå:** Grundnivå
+- **Kursen kan ingå i följande huvudområde(n):** Spanska 1
+- **Ämnestillhörighet:** Spanska (SPA)
+- **Fastställd:** Fastställd 2026-06-16 . Kursplanen gäller fr.o.m. 2026-06-16.
+
+## Lärandemål
+
+Efter godkänd kurs ska studenten kunna:
+
+  - visa goda kunskaper i spanska språkets grammatiska variation i olika spansktalande områden
+
+  - både skriftligen och muntligen reflektera över kurslitteraturen på grammatiskt och lexikaliskt korrekt spanska
+
+  - visa på variation och koherens i den egna skriftliga produktionen
+
+  - presentera och försvara sina synpunkter skriftligt på vårdad, varierad och välargumenterad spanska med utgångspunkt i olika grammatiska områden
+
+  - visa goda kunskaper om spanskans och svenskans strukturella skillnader.
+
+## Innehåll
+
+Kursen omfattar en fördjupning av
+den grammatik som studerades på Spanska I. Stort fokus läggs på den studerandes
+medvetenhet om språklig korrekthet och variation gällande den egna
+textproduktionen. Den studerande förväntas under kursens gång bygga upp ett kritiskt
+reflekterande förhållningssätt till både kurslitteraturens innehåll och till
+sina egna texter. Den kontrastiva analysen av strukturella skillnader mellan
+spanska och svenska utgör också ett viktigt inslag. Kursen innefattar även
+träning i att, utifrån valda grammatiska områden, muntligt presentera och
+försvara olika perspektiv och ståndpunkter.
+
+## Examinationsformer
+
+- Löpande examination vid seminarier
+
+  - Skriftlig onlinetentamen
+
+  - Skriftliga inlämningsuppgifter
+
+## Betyg
+
+Som betygsskala på hel kurs används U–VG.
+
+Betyg rapporteras enligt följande:
+
+  - Spanska II: Skriftlig språkfärdighet och grammatik - 6 hp | U–VG
+
+## Förkunskapskrav
+
+- 22,5 hp inom huvudområdet spanska inklusive Spanska I: Skriftlig språkfärdighet och grammatik, 7,5 hp
+
+## Övrigt
+
+Ersätter SP1050.
+
+Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
+
+Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Högskolan Dalarna på grund av funktionsnedsättning, har examinator rätt att anpassa examinationen. Examinator avgör utifrån kursplanens mål om examinationen kan anpassas i enlighet med beslutet/rekommendationen.
+
+## English Version
+
+### Learning Outcomes
+
+Upon completion of the course, students shall be able to:
+
+  - demonstrate good knowledge of the grammatical variation in Spanish in terms of the different Spanish-speaking areas
+  - both orally and in writing reflect on the course literature in grammatically and lexically correct Spanish
+  - demonstrate variety and coherence in their own written texts
+  - present and defend their views in writing in accurate, varied and well-argued Spanish based on different grammatical areas
+  - show good knowledge and understanding of the structural differences between
+Spanish and Swedish.
+
+### Course Content
+
+The course includes further studies of grammar following Spanish I. Great emphasis is placed on the students‘ awareness of language in terms of correctness and linguistic variation in their own text production. During the course, the students are expected to develop a critically reflective attitude to both the content of the course literature and their own texts. The contrastive analysis of structural differences between Spanish and Swedish is an important feature. The course also includes exercises in oral presentation and defence of different perspectives and points of view in terms of chosen grammatical areas.
+
+### Assessment
+
+Continuous examination through written assigments and oral presentations, as well as active and prepared participation in seminars and written exams.
+
+### Grades
+
+The grading scale used for the final course grade is U–VG.
+
+Grades are reported as follows:
+
+  - Assignments, presentations, seminars - 6 Credits | U–VG
+
+### Prerequisites
+
+- 22.5 credits within the main field of Spanish including Spanish I: Written Language Proficiency and Grammar, 7.5 credits

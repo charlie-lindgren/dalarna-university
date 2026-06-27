@@ -10,18 +10,10 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: db4636c57ba2194a
+scrape_hash: 01bddf07a7e45cf8
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH33P
 up: "[[Idrotts- och hälsovetenskap]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning | `jämviktsystem` → jämviktssystem |
-<!-- analys:end -->
 
 # GIH33P
 
@@ -40,7 +32,7 @@ up: "[[Idrotts- och hälsovetenskap]]"
 
 Efter godkänd kurs ska studenten kunna:
 
-  - redogöra för krafter, hävarmar och vridande moment i ett statiskt jämviktsystem
+  - redogöra för krafter, hävarmar och vridande moment i ett statiskt jämviktssystem
 
   - redogöra för yttre krafters storlek och riktning, utfört arbete, effektutveckling och tröghetsmoment under utförande av fysisk aktivitet
 

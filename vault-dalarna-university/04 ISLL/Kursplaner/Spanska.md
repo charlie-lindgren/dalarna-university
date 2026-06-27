@@ -8,7 +8,7 @@ up: "[[ISLL]]"
 # Spanska
 
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
-> Huvudområde: Ej huvudområde 1
+> Huvudområde: Spanska 1
 
 ## Kurser (21 st)
 
@@ -34,10 +34,14 @@ up: "[[ISLL]]"
 - [[SP2023]] — Spanska III Litteraturvetenskaplig inriktning: Spansk litteratur, från guldåldern till realismen
 - [[SP2024]] — Spanska III Lingvistisk inriktning: Människan, språket och samhället. Spansk sociolingvistik
 
-## Vilande kursplaner (3 st)
+## Vilande kursplaner (7 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[GSP2JH]] — Spanska för lärare åk 7-9, 45 hp (1-45 hp). Ingår i Lärarlyftet.
 - [[GSP2KS]] — Spanska III Lingvistisk inriktning: Kandidatexamensarbete
 - [[GSP39N]] — Spanska: Förberedande kurs
+- [[GSP3KS]] — Spanska II med didaktisk inriktning
+- [[GSP3KT]] — Spanska II: Från inbördeskriget till nutiden: Litteratur, film och samhälle i Spanien
+- [[GSP3KU]] — Spanska II: Skriftlig språkfärdighet och grammatik
+- [[GSP3KV]] — Spanska II: Språklig variation i den spansktalande världen

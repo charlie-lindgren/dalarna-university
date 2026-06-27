@@ -9,18 +9,17 @@ amne: "Socialt arbete"
 amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
-scrape_hash: 4bed43659571249f
+scrape_hash: efdb9586a9c7244f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA28Q
 up: "[[Socialt arbete]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att studenten ska tillägna sig en djupare förståelse av åldrande utifrån socialgerontologisk… |
-> | Stavfel och språkbruk | Felstavning (en) | `researcg` (en) |
 <!-- analys:end -->
 
 # ASA28Q
@@ -130,7 +129,7 @@ After completion of the course, the student will be able to:
 
 ### Course Content
 
-The course covers principal social gerontological theories and perspectives, researcg on ageing and on older adults, and how older adults living conditions can be understood bases on the older adults social, physical and cultural context. The course also covers concepts on equality, integrity, dignity and ethics in professional situations when meeting older adults.
+The course covers principal social gerontological theories and perspectives, research on ageing and on older adults, and how older adults living conditions can be understood bases on the older adults social, physical and cultural context. The course also covers concepts on equality, integrity, dignity and ethics in professional situations when meeting older adults.
 
 ### Assessment
 

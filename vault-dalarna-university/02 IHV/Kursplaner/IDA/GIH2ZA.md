@@ -8,20 +8,12 @@ huvudomrade: "Idrotts- och hälsovetenskap 1"
 amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
-tags: [kursplan, IDA, IHV, vilande]
-scrape_hash: 3190d919ca1c7088
+tags: [kursplan, IDA, IHV, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: 7318522eadef23fc
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZA
 up: "[[Idrotts- och hälsovetenskap]]"
-cssclasses: [vilande]
 ---
-
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning (en) | `enviroment` (en) |
-<!-- analys:end -->
 
 # GIH2ZA
 
@@ -104,7 +96,7 @@ Upon completion of the course, students will be able to:
 
   - Techniques in skiing (cross-country, back-country and downhill) and skating
 
-  - Winter journey with overnight stay in close outdoor enviroment
+  - Winter journey with overnight stay in close outdoor environment
 
   - Aspects of safety and emergency during teaching
 

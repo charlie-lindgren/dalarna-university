@@ -105,16 +105,16 @@ Under utbildningen ges möjlighet att välja mellan valbara kurser.
 - [[GIK2YR|Designprinciper och användargränssnitt]], 15 hp
 - [[GIK38G|Design av digitala tjänster]], 7,5 hp
 - [[GIK38H|Introduktion till IT och digitala tjänster]], 7,5 hp
-- [[GIK2YN|Programutvecklingsteknik]], 7,5 hp
-- [[GIK2YL|Projekt och agila arbetsmetoder]], 7,5 hp
-- [[GIK2YK|Relationsdatabaser]], 7,5 hp
+- [[GDV3KX|Programutvecklingsteknik]], 7,5 hp
+- [[GDV3KZ|Projekt och agila arbetsmetoder]], 7,5 hp
+- [[GDV3KW|Relationsdatabaser]], 7,5 hp
 - [[GIK2YP|Webbdesign]], 7,5 hp
 
 **_År 2 (baserat på heltidsstudier)_**
 
 - [[GIK376|Applikationsutveckling för webben]], 7,5 hp
 - [[GIK36R|Applikationsutveckling och testning]], 7,5 hp
-- [[GIK2V4|Datasäkerhet och integritet]], 7,5 hp
+- [[GDV3KY|Datasäkerhet och integritet]], 7,5 hp
 - [[GIK3BV|E-samhället: e-förvaltning och digitala tjänster]], 7,5 hp
 - [[GIK3BY|Examensarbete för högskoleexamen i Informatik]], 7,5 hp
 - [[GIK375|Komponentdriven webbdesign]], 7,5 hp

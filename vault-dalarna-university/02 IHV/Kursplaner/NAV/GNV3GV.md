@@ -10,20 +10,19 @@ amne_kod: "NAV"
 institution: "IHV"
 tags: [kursplan, NAV, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 85bfaf85cf6db899
+scrape_hash: cadd8b2492c921f2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3GV
 up: "[[Naturvetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Omfång på lärandemål | Långt mål | 28 ord: - redogöra för grundläggande kunskaper i naturvetenskap, med särskilt fokus på e… |
 > | Omfång på lärandemål | Långt mål | 34 ord: - reflektera över och problematisera skolans roll i arbetet med lärande för håll… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
-> | Stavfel och språkbruk | Felstavning | `inlämingsuppgift` (sv) |
 <!-- analys:end -->
 
 # GNV3GV
@@ -73,7 +72,7 @@ I kursen bearbetas kontinuerligt ämnesdidaktiska perspektiv på elevers lärand
 
   - Praktisk examination 
 
-  - Skriftlig inlämingsuppgift
+  - Skriftlig inlämningsuppgift
 
 ## Betyg
 

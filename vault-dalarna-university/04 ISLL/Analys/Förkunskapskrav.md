@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Förkunskapskrav.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (84 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Förkunskapskrav.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (87 rader)</span></a>
 
-> [!example]- 84 fynd — klicka för att expandera
+> [!example]- 87 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -62,6 +62,9 @@ status: första pass
 > | [GSP2KS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2KS) | <a class="no-graph" href="04-ISLL/Kursplaner/SPA/GSP2KS">sida</a> | SPA | 2020-11-20 | — | Refererar bekräftat nedlagd kurs | `Spanska II` → `SP1001` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
 > | [GSP2YT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2YT) | <a class="no-graph" href="04-ISLL/Kursplaner/SPA/GSP2YT">sida</a> | SPA | 2022-11-29 | — | Refererar bekräftat nedlagd kurs | `Spanska I` → `SP1014` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
 > | [GSP3GW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3GW) | <a class="no-graph" href="04-ISLL/Kursplaner/SPA/GSP3GW">sida</a> | SPA | 2025-09-10 | — | Refererar bekräftat nedlagd kurs | `Spanska II` → `SP1001` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
+> | [GSP3KT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3KT) | <a class="no-graph" href="04-ISLL/Kursplaner/SPA/GSP3KT">sida</a> | SPA | 2026-06-16 | — | Refererar bekräftat nedlagd kurs | `Spanska I` → `SP1014` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
+> | [GSP3KU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3KU) | <a class="no-graph" href="04-ISLL/Kursplaner/SPA/GSP3KU">sida</a> | SPA | 2026-06-16 | — | Refererar bekräftat nedlagd kurs | `Spanska I` → `SP1014` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
+> | [GSP3KV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3KV) | <a class="no-graph" href="04-ISLL/Kursplaner/SPA/GSP3KV">sida</a> | SPA | 2026-06-16 | — | Refererar bekräftat nedlagd kurs | `Spanska I` → `SP1014` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
 > | [SP1050](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SP1050) | <a class="no-graph" href="04-ISLL/Kursplaner/SPA/SP1050">sida</a> | SPA | 2017-06-15 | — | Refererar bekräftat nedlagd kurs | `Spanska I` → `SP1014` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
 > | [SP1051](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SP1051) | <a class="no-graph" href="04-ISLL/Kursplaner/SPA/SP1051">sida</a> | SPA | 2017-06-15 | — | Refererar bekräftat nedlagd kurs | `Spanska I` → `SP1014` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
 > | [SP1052](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SP1052) | <a class="no-graph" href="04-ISLL/Kursplaner/SPA/SP1052">sida</a> | SPA | 2017-06-15 | — | Refererar bekräftat nedlagd kurs | `Spanska I` → `SP1014` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |

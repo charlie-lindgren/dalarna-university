@@ -8,20 +8,19 @@ huvudomrade: "Idrotts- och hälsovetenskap 1"
 amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
-tags: [kursplan, IDA, IHV, vilande]
-scrape_hash: 73497cda7afdaf1a
+tags: [kursplan, IDA, IHV, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: 117c5d33f9423681
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZC
 up: "[[Idrotts- och hälsovetenskap]]"
-cssclasses: [vilande]
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Omfång på lärandemål | Långt mål | 26 ord: - diskutera och problematisera skolämnet idrott och hälsa utifrån olika didaktis… |
-> | Stavfel och språkbruk | Felstavning (en) | `movementorgans` (en) |
 <!-- analys:end -->
 
 # GIH2ZC
@@ -99,7 +98,7 @@ Upon completion of the course, students will be able to:
 
 ### Course Content
 
-- Basic anatomy and physiology (circulation, respiration, movementorgans)
+- Basic anatomy and physiology (circulation, respiration, movement organs)
 
   - The body‘s adjustment to different forms of physical activity 
 

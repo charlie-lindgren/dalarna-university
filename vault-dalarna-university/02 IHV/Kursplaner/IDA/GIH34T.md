@@ -10,18 +10,17 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: bbbc60d6c84069d9
+scrape_hash: 8040d60e624627f9
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34T
 up: "[[Idrotts- och hälsovetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 4 mål, engelska: 5 mål (diff 1) |
-> | Stavfel och språkbruk | Felstavning (en) | `respirationsystem` (en) |
 <!-- analys:end -->
 
 # GIH34T
@@ -109,7 +108,7 @@ biology,
 
 - The anatomy and physiology of the movement apparatus and the nerv system,
 
-  - the anatomy and physiology of the circulation- and respirationsystem,
+  - the anatomy and physiology of the circulatory and respiratory system,
 
   - energy processes in the muscle,
 

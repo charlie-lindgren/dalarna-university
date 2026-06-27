@@ -17,11 +17,14 @@ up: "[[IKS]]"
 - [[GKG3AT]] — Geografiska Informationssystem (GIS) 2: Rumslig analys
 - [[KG3019]] — Hållbar destinationsutveckling
 
-## Vilande kursplaner (19 st)
+## Vilande kursplaner (22 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[GKG2CS]] — Marknadsanalyser med hjälp av GIS
+- [[GKG3KD]] — Geografiska Informationssystem (GIS): Introduktion
+- [[GKG3KE]] — Geografiska Informationssystem (GIS): Introduktion till GIS-analyser
+- [[GKG3KF]] — Geografiska Informationssystem (GIS): Rumslig analys och statistik
 - [[KG1005]] — Fysisk och lokal planering
 - [[KG1010]] — Introduktion till Geografiska Informations System (GIS)
 - [[KG1016]] — Mobility and Travel Behaviour

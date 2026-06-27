@@ -16,7 +16,7 @@ up: "IIT"
 **Programnamn:** Byggteknik – produktion och förvaltning
 
 - **Programkod:** TBTFG
-- **Programansvarig:** Stina Johansson
+- **Programansvarig:** Hans Persson
 - **Fastställd:** Fastställd av Områdesnämnden Teknik och naturvetenskap 2022-03-01 . Gäller fr.o.m.  VT 2022.
 
 ## 1. Programmets mål

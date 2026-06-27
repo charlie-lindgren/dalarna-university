@@ -8,19 +8,18 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Naturvetenskap"
 amne_kod: "NAV"
 institution: "IHV"
-tags: [kursplan, NAV, IHV]
-scrape_hash: 6ce9037f622ac82e
+tags: [kursplan, NAV, IHV, forskarutbildning]
+scrape_hash: 0c32a6dd70dbf079
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3GU
 up: "[[Naturvetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
-> | Stavfel och språkbruk | Felstavning | `inlämingsuppgift` (sv) |
 <!-- analys:end -->
 
 # GNV3GU
@@ -68,7 +67,7 @@ Vidare behandlas ämnesdidaktiska perspektiv på elevers lärande i teknik utifr
 
   - Praktisk examination
 
-  - Skriftlig inlämingsuppgift
+  - Skriftlig inlämningsuppgift
 
 ## Betyg
 

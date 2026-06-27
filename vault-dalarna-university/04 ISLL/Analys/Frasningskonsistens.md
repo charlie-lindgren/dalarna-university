@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Frasningskonsistens.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (251 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Frasningskonsistens.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (252 rader)</span></a>
 
-> [!example]- 251 fynd — klicka för att expandera
+> [!example]- 252 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -253,6 +253,7 @@ status: första pass
 > | [SS3010](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3010) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS3010">sida</a> | SSA | 2015-12-14 | — | Avviker från referensformen | Efter… |
 > | [SS3011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3011) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS3011">sida</a> | SSA | 2016-06-09 | — | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | [SS3014](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3014) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS3014">sida</a> | SSA | 2016-11-18 | — | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
+> | [BSV22A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BSV22A) | <a class="no-graph" href="04-ISLL/Kursplaner/SVE/BSV22A">sida</a> | SVE | 2026-06-18 | — | Avviker från referensformen | Efter godkänd kurs ska studenten, på en nivå som motsvarar kriterier för C i gymnasieskolans kurs Svenska 3/Svenska nivå… |
 > | [GSV2BN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2BN) | <a class="no-graph" href="04-ISLL/Kursplaner/SVE/GSV2BN">sida</a> | SVE | 2019-09-20 | — | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [GSV2BP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2BP) | <a class="no-graph" href="04-ISLL/Kursplaner/SVE/GSV2BP">sida</a> | SVE | 2019-09-20 | — | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [ATY29E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY29E) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/ATY29E">sida</a> | TYA | 2023-06-28 | 2023-12-08 | Avviker från referensformen | Efter godkänd kurs ska den studerande kunna:… |

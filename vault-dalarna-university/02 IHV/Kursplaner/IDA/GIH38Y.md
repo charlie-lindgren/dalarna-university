@@ -8,20 +8,18 @@ huvudomrade: "Idrotts- och hälsovetenskap 1"
 amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
-tags: [kursplan, IDA, IHV, stray]
-
-scrape_hash: 2abf9889c345e1a0
+tags: [kursplan, IDA, IHV]
+scrape_hash: 5c55451996f17ba2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH38Y
 up: "[[Idrotts- och hälsovetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 4 mål, engelska: 5 mål (diff 1) |
-> | Stavfel och språkbruk | Felstavning (en) | `respirationsystem` (en) |
 <!-- analys:end -->
 
 # GIH38Y
@@ -109,7 +107,7 @@ biology,
 
 - The anatomy and physiology of the movement apparatus and the nerv system,
 
-  - the anatomy and physiology of the circulation- and respirationsystem,
+  - the anatomy and physiology of the circulatory and respiratory system,
 
   - energy processes in the muscle,
 

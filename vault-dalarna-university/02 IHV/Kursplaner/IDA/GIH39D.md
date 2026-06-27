@@ -9,18 +9,10 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: ad98e38a58af9682
+scrape_hash: 2589ed9d6c7d5463
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH39D
 up: "[[Idrotts- och hälsovetenskap]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning (en) | `enviroment` (en) |
-<!-- analys:end -->
 
 # GIH39D
 
@@ -103,7 +95,7 @@ Upon completion of the course, students will be able to:
 
   - Techniques in skiing (cross-country, back-country and downhill) and skating
 
-  - Winter journey with overnight stay in close outdoor enviroment
+  - Winter journey with overnight stay in close outdoor environment
 
   - Aspects of safety and emergency during teaching
 

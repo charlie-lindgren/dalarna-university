@@ -8,11 +8,11 @@ huvudomrade: "Sexuell, reproduktiv och perinatal hälsa 1"
 amne: "Sexuell, reproduktiv och perinatal hälsa"
 amne_kod: "SRP"
 institution: "IHV"
-tags: [kursplan, SRP, IHV, vilande]
-scrape_hash: 4b26181c0248a8b4
+tags: [kursplan, SRP, IHV, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: 9e9183454afc1486
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR25V
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
-cssclasses: [vilande]
 ---
 
 <!-- analys:start -->
@@ -22,7 +22,7 @@ cssclasses: [vilande]
 > | --- | --- | --- |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examensarbete samt opponent/respondentskap.… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den… |
-> | Stavfel och språkbruk | Felstavning (en) | `systemacity` (en) |
+> | Stavfel och språkbruk | Felstavning (en) | `systematicity` (en) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ingår i magisterprogrammet Global sexuell och reproduktiv hälsa.… |
 <!-- analys:end -->
 
@@ -110,7 +110,7 @@ Upon completion of the course, students will independently be able to:
 
   - evaluate their own contribution to the development of knowledge and give suggestions for further research
 
-  - defend and communicate their own scientific work and critically evaluate the scientific work of others concerning the degree of scientific, systemacity, content and structure.
+  - defend and communicate their own scientific work and critically evaluate the scientific work of others concerning the degree of scientific, systematicity, content and structure.
 
 ### Course Content
 

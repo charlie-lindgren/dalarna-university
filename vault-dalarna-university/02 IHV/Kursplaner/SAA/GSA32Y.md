@@ -10,20 +10,19 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: d4e27a6f6d1740c6
+scrape_hash: a7171d951370671d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA32Y
 up: "[[Socialt arbete]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': **Modul 1. Campusförlagd utbildning, 5 högskolepoäng**… |
 > | Omfång på lärandemål | För många mål | 18 lärandemål (maximum rekommenderat: 10 för 15 hp) |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 18 mål, engelska: 0 mål (diff 18) |
-> | Stavfel och språkbruk | Dubblerat ord | `credits` — …7.5 credits, Psychological Perspectives on Social Work 7.5 credits credits and Welfare Measures and User Perspective 15 credits… |
 <!-- analys:end -->
 
 # GSA32Y
@@ -188,4 +187,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- Sociological Perspectives on Social Work 7.5 credits, Psychological Perspectives on Social Work 7.5 credits credits and Welfare Measures and User Perspective 15 credits
+- Sociological Perspectives on Social Work 7.5 credits, Psychological Perspectives on Social Work 7.5 credits and Welfare Measures and User Perspective 15 credits

@@ -1,0 +1,139 @@
+---
+kurskod: GSP3KT
+kursnamn: "Spanska II: Från inbördeskriget till nutiden: Litteratur, film och samhälle i Spanien"
+course_name: "Spanish II: From the Civil War to the Present: Literature, Film and Society in Spain"
+hp: 6 högskolepoäng
+niva: "Grundnivå"
+huvudomrade: "Spanska 1"
+amne: "Spanska"
+amne_kod: "SPA"
+institution: "ISLL"
+tags: [kursplan, SPA, ISLL, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: 9d8b749b0c688a68
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3KT
+up: "[[Spanska]]"
+---
+
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Spanska I` → `SP1014` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens mål är att studenten utvecklar goda kunskaper i spansk litteratur och film i relation till det spanska samhället… |
+<!-- analys:end -->
+
+# GSP3KT
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3KT)
+
+**Kursnamn:** Spanska II: Från inbördeskriget till nutiden: Litteratur, film och samhälle i Spanien
+**Course Name:** Spanish II: From the Civil War to the Present: Literature, Film and Society in Spain
+
+- **Poäng:** 6 högskolepoäng
+- **Nivå:** Grundnivå
+- **Kursen kan ingå i följande huvudområde(n):** Spanska 1
+- **Ämnestillhörighet:** Spanska (SPA)
+- **Fastställd:** Fastställd 2026-06-16 . Kursplanen gäller fr.o.m. 2026-06-16.
+
+## Lärandemål
+
+Kursens mål är att studenten utvecklar goda kunskaper i spansk litteratur och film i relation till det spanska samhället, samt en förmåga till litterär analys och kritiskt tänkande.  
+Efter godkänd kurs ska studenten kunna:
+
+  - presentera och försvara sina texttolkningar muntligt och skriftligt på god spanska med utgångspunkt i olika litterära texter
+
+  - sätta litterära texter i ett historiskt och kulturellt sammanhang med hjälp av film och andra uttrycksformer
+
+  - visa förmåga att med viss kritisk distans färdigställa texttolkningar som lever upp till grundläggande litteraturvetenskapliga krav
+
+  - visa god förståelse för vissa centrala litterära begrepp samt förmåga att, med hjälp av dessa, analysera spansk litteratur på ett välargumenterat sätt.
+
+## Innehåll
+
+Kursen
+behandlar ett urval skönlitterära verk och filmer som representerar olika
+perioder i Spaniens litteratur och kultur från 1900- och 2000-talet. Studiet av
+litterära verk kompletteras även med annat material som behandlar texter ur ett
+historiskt, sociopolitiskt och kulturellt perspektiv. I kursen studeras ett
+antal litteraturvetenskapliga begrepp. Texterna används också som utgångspunkt
+för diskussioner om spansk kultur och historia där den studerande får träna upp
+sin förmåga att muntligt presentera, argumentera för och försvara sin textanalys
+på korrekt och varierad spanska.
+
+## Examinationsformer
+
+- Löpande examination vid seminarier
+
+  - Skriftlig onlinetentamen
+
+  - Skriftliga inlämningsuppgifter
+
+  - Muntliga redovisningar
+
+## Betyg
+
+Som betygsskala på hel kurs används U–VG.
+
+Betyg rapporteras enligt följande:
+
+  - Spanska II: Från inbördeskriget till nutiden: Litteratur, film och samhälle i Spanien - 6 hp | U–VG
+
+## Förkunskapskrav
+
+- 22,5 hp inom huvudområdet spanska inklusive Spanska I: Skriftlig språkfärdighet och grammatik, 7,5 hp
+
+## Övrigt
+
+Ersätter SP1052.
+
+Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
+
+Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Högskolan Dalarna på grund av funktionsnedsättning, har examinator rätt att anpassa examinationen. Examinator avgör utifrån kursplanens mål om examinationen kan anpassas i enlighet med beslutet/rekommendationen.
+
+## English Version
+
+### Learning Outcomes
+
+The goal of the course is that students will develop both their
+knowledge of Spanish literature and film in relation to Spanish society, as well as their
+ability to analyse literature and think critically.  
+Upon completion of the course, students shall be able to:
+
+  - present and defend their text interpretations orally and in writing in
+adequate Spanish based on various literary texts
+  - place the literary text within a historical and cultural context with
+the help of film and other materials
+  - demonstrate the ability to interpret texts with a certain critical
+distance at a level that meets with basic literary requirements
+  - demonstrate both a good understanding of some central literary concepts
+as well as an ability to, with the help of these, analyze Spanish literature in
+a well-argued way.
+
+### Course Content
+
+The course covers a selection of literary works and films representing different
+periods in Spanish literature and culture from the 1900s and 2000s. The study of literature also includes other
+material that deals with texts from a historical, socio-political and cultural
+perspective. In the course, a number of literary concepts are studied. The
+texts are also used as a starting point for discussions about Spanish culture
+and history in which students practise their ability to present, argue for and
+defend their text analyses orally in correct and varied Spanish.
+
+### Assessment
+
+The course is examined through written assignments, oral presentations
+and active participation in seminars and forum discussions.
+
+### Grades
+
+The grading scale used for the final course grade is U–VG.
+
+Grades are reported as follows:
+
+  - Assignments, presentations, seminars, discussions - 6 Credits | U–VG
+
+### Prerequisites
+
+- 22.5 credits within the main field of Spanish including Spanish I: Written Language Proficiency and Grammar, 7.5 credits

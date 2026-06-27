@@ -9,13 +9,13 @@ amne: "Socialt arbete"
 amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
-scrape_hash: 37665e3f412886c2
+scrape_hash: 9ec20688ef311c35
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DM
 up: "[[Socialt arbete]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -24,9 +24,6 @@ up: "[[Socialt arbete]]"
 > | Omfång på lärandemål | Långt mål | 28 ord: - visa förmåga att på grundläggande nivå tillämpa metoder i socialt arbete inom … |
 > | Omfång på lärandemål | Långt mål | 27 ord: - kunna redogöra för grundläggande metoder och arbetssätt som tillämpas i social… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 23 mål, engelska: 0 mål (diff 23) |
-> | Stavfel och språkbruk | Felstavning | `brukarperspektivinnebär` (sv) |
-> | Stavfel och språkbruk | Felstavning | `frånorganisationsperspektiv` (sv) |
-> | Stavfel och språkbruk | Felstavning | `somarbetslöshet` (sv) |
 <!-- analys:end -->
 
 # GSA3DM
@@ -129,7 +126,7 @@ Efter godkänd modul ska studenten kunna:
 
 **Modul 1. Campusförlagd utbildning, 10,5 högskolepoäng**
 
-Modulen belyser välfärdssamhällets insatser och vad ett brukarperspektivinnebär i socialt arbete. Medborgares och brukares rättigheter och skyldigheterkring välfärden analyseras och diskuteras med utgångspunkt frånorganisationsperspektiv och brukarperspektiv. I modulen studeras socialtarbete med olika målgrupper som ungdomar, familjer, äldre personer, personer med olika kulturell bakgrund, personer med funktionshinder samt olika områden somarbetslöshet, fattigdom, missbruk och relationsproblematik. Intressekonflikter i mötet mellan brukare och välfärdsinstitutionerna behandlas också, liksom potentiella hinder och resurser i samverkan mellan skilda välfärdsinstitutioner respektive professioner. Reflektioner kring betydelsen av det personliga och professionella förhållningssättet görs i relation till brukare. I modulen introduceras studenten i kvalitativa metoder, planering och genomförande av en forskningsintervju samt i forskningsetikens grunder.
+Modulen belyser välfärdssamhällets insatser och vad ett brukarperspektiv innebär i socialt arbete. Medborgares och brukares rättigheter och skyldigheterkring välfärden analyseras och diskuteras med utgångspunkt från organisationsperspektiv och brukarperspektiv. I modulen studeras socialtarbete med olika målgrupper som ungdomar, familjer, äldre personer, personer med olika kulturell bakgrund, personer med funktionshinder samt olika områden som arbetslöshet, fattigdom, missbruk och relationsproblematik. Intressekonflikter i mötet mellan brukare och välfärdsinstitutionerna behandlas också, liksom potentiella hinder och resurser i samverkan mellan skilda välfärdsinstitutioner respektive professioner. Reflektioner kring betydelsen av det personliga och professionella förhållningssättet görs i relation till brukare. I modulen introduceras studenten i kvalitativa metoder, planering och genomförande av en forskningsintervju samt i forskningsetikens grunder.
 
   - kursen innehåller 2,5 hp vetenskaplig metod
 

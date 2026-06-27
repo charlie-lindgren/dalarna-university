@@ -16,14 +16,13 @@ up: "[[Svenska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Omfång på lärandemål | Långt mål | 35 ord: - förklara samt redogöra för betydelsen av ordförråd och språkförståelse i eleve… |
 > | Omfång på lärandemål | Långt mål | 27 ord: - beskriva och problematisera särskilda utmaningar i läs- och skrivinlärning och… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
-> | Stavfel och språkbruk | Felstavning | `framåtsiktande` (sv) |
 > | Stavfel och språkbruk | Felstavning (en) | `edcuation` (en) |
 <!-- analys:end -->
 

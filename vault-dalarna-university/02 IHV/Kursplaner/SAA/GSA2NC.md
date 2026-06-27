@@ -10,13 +10,13 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 06f446ed4f4b8eb7
+scrape_hash: f5aacbd0848ccb69
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2NC
 up: "[[Socialt arbete]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -25,7 +25,6 @@ up: "[[Socialt arbete]]"
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': **Moment 1. Campusförlagd utbildning, 5 högskolepoäng**… |
 > | Omfång på lärandemål | För många mål | 14 lärandemål (maximum rekommenderat: 10 för 15 hp) |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 14 mål, engelska: 0 mål (diff 14) |
-> | Stavfel och språkbruk | Dubblerat ord | `credits` — …7.5 credits, Psychological Perspectives on Social Work 7.5 credits credits and Welfare Measures and User Perspective 15 credits… |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ingår i Socionomprogrammet. Kursen motsvarar/överlappar GSO23Q. Om en student inte uppnår målen för den verksamhe… |
 <!-- analys:end -->
 
@@ -539,4 +538,4 @@ The Swedish grades U–VG.
 
 ### Prerequisites
 
-- Sociological Perspectives on Social Work 7.5 credits, Psychological Perspectives on Social Work 7.5 credits credits and Welfare Measures and User Perspective 15 credits
+- Sociological Perspectives on Social Work 7.5 credits, Psychological Perspectives on Social Work 7.5 credits and Welfare Measures and User Perspective 15 credits

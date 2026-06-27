@@ -8,11 +8,11 @@ huvudomrade: "Svenska som andraspråk 1"
 amne: "Svenska som andraspråk"
 amne_kod: "SSA"
 institution: "ISLL"
-tags: [kursplan, SSA, ISLL, vilande]
+tags: [kursplan, SSA, ISLL, stray, vilande]
+cssclasses: [vilande]
 scrape_hash: b1be09768eee72b5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3C7
 up: "[[Svenska som andraspråk]]"
-cssclasses: [vilande]
 ---
 
 <!-- analys:start -->
@@ -38,6 +38,7 @@ cssclasses: [vilande]
 - **Kursen kan ingå i följande huvudområde(n):** Svenska som andraspråk 1
 - **Ämnestillhörighet:** Svenska som andraspråk (SSA)
 - **Fastställd:** Fastställd 2024-06-19 . Kursplanen gäller fr.o.m. 2024-06-19.
+- **Reviderad:** Reviderad 2026-06-24 . Revideringen är giltig fr.o.m. 2026-06-24.
 
 ## Lärandemål
 

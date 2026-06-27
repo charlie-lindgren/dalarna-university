@@ -9,18 +9,17 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: 687c06b627630740
+scrape_hash: 4759982b38c730af
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3C2
 up: "[[Idrotts- och hälsovetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (4 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning (en) | `reporage` (en) |
 <!-- analys:end -->
 
 # GIH3C2
@@ -85,9 +84,9 @@ On completion of the course, students will be able to:
 
 know the ethical and legal prerequisites for journalism and commentary
 
-write a reporage based on the prerequisites of the reporage as well as ethical and legal perspectives
+write a reportage based on the prerequisites of the reportage as well as ethical and legal perspectives
 
-explain and problematize the difference between an article and a reporage
+explain and problematize the difference between an article and a reportage
 
 explain and problematize the commentator’s assumptions based on culture, medium and language
 

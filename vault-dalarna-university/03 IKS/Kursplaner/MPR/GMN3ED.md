@@ -8,8 +8,8 @@ huvudomrade: "Medieproduktion 1"
 amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
-tags: [kursplan, MPR, IKS]
-scrape_hash: 5fa21e239e634b5b
+tags: [kursplan, MPR, IKS, forskarutbildning]
+scrape_hash: b5ee1aa90c36064f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3ED
 up: "[[Medieproduktion]]"
 ---
@@ -49,7 +49,7 @@ Efter godkänd kurs ska studenten kunna:
 
   - granska andras vetenskapliga arbeten, och ge muntliga kommentarer
 
-  - värdera och reflektera över och värdera det egna arbetet utifrån andras kommentarer.
+  - värdera och reflektera över det egna arbetet utifrån andras kommentarer.
 
 ## Innehåll
 

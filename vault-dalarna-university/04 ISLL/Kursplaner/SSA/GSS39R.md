@@ -38,6 +38,7 @@ up: "[[Svenska som andraspråk]]"
 - **Kursen kan ingå i följande huvudområde(n):** Svenska som andraspråk 1
 - **Ämnestillhörighet:** Svenska som andraspråk (SSA)
 - **Fastställd:** Fastställd 2023-12-19 . Kursplanen gäller fr.o.m. 2023-12-19.
+- **Reviderad:** Reviderad 2026-06-24 . Revideringen är giltig fr.o.m. 2026-06-24.
 
 ## Lärandemål
 

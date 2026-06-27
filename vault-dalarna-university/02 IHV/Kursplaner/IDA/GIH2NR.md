@@ -10,20 +10,19 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: f2223113427ef188
+scrape_hash: 835aa4d5211a62bf
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2NR
 up: "[[Idrotts- och hälsovetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom skriftlig salstentamen, muntliga och praktiska redovisningar.… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 3 mål, engelska: 4 mål (diff 1) |
-> | Stavfel och språkbruk | Felstavning (en) | `lecturs` (en) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen motsvarar GIH2DY.… |
 <!-- analys:end -->
 
@@ -102,7 +101,7 @@ Examination is done through practical exams and written assignments and seminars
 
 ### Forms of Study
 
-Working arrangements are laboratory and practical work in combination with lecturs and seminars.
+Working arrangements are laboratory and practical work in combination with lectures and seminars.
 
 ### Grades
 

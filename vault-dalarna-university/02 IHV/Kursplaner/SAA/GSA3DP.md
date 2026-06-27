@@ -9,18 +9,17 @@ amne: "Socialt arbete"
 amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
-scrape_hash: eb3a0fb5108c8430
+scrape_hash: 2c168e7e235b01bf
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DP
 up: "[[Socialt arbete]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Omfång på lärandemål | För många mål | 11 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
-> | Stavfel och språkbruk | Felstavning (en) | `guidlines` (en) |
 <!-- analys:end -->
 
 # GSA3DP
@@ -117,22 +116,36 @@ Knowledge and understanding
 After completion of the course, the student shall be able to:
 
   - demonstrate knowledge and concepts in the area of substance abuse and dependence
+
   - understand the onset of harmful substance use, substance abuse and dependence
+
   - understand how different drugs affect people from a biological as well as psychological perspective
+
   - understand how statistical methods can contribute to an evidence-based practice in the field of substance abuse and dependence
-Competence and skills  
+
+Competence and skills
+  
+
 After completion of the course, the student shall be able to:
 
   - discuss how social, biological and individual factors affect the development of harmful substance use, substance abuse and dependence
+
   - understand and apply current research findings in the area of substance abuse and dependence
+
   - describe various treatment models for substance abuse and dependence, and argue for the pros and cons of those different models
+
   - present and interpret statistics within the field of substance abuse and dependence
-Judgment and approach  
+
+Judgment and approach
+  
+
 After completion of the course, the student shall be able to:
 
   - evaluate different approaches and treatment models for substance abuse and dependence based on individual needs
+
   - evaluate information about the field of knowledge of substance abuse and dependence, as based on research, legislation, and statistics
-  - reflect on how legislation and guidlines affect work with people with substance abuse and dependence problems.
+
+  - reflect on how legislation and guidelines affect work with people with substance abuse and dependence problems.
 
 ### Course Content
 

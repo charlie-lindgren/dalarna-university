@@ -10,7 +10,7 @@ up: "[[ISLL]]"
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 > Huvudområde: Engelskspråkig litteratur 1 Interkulturella litteraturstudier 2
 
-## Kurser (51 st)
+## Kurser (52 st)
 
 - [[AEN252]] — Migration, klimat och ångest i engelskspråkig litteratur
 - [[AEN25H]] — Examensarbete i engelska för ämneslärarexamen, inriktning grundskolans årskurs 7-9
@@ -63,12 +63,15 @@ up: "[[ISLL]]"
 - [[GEN3DK]] — Engelska III: Fokus litteratur
 - [[GEN3E6]] — Introduktion till engelsk lingvistik
 - [[GEN3E7]] — Brittisk och amerikansk litteratur- och idéhistoria
+- [[GEN3KC]] — Engelska III med didaktisk inriktning för gymnasieskolan
 
-## Vilande kursplaner (21 st)
+## Vilande kursplaner (22 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[AEN2BR]] — Interkulturella litteraturstudier: Akademisk läsning
+- [[AEN2CT]] — Introduktion till interkulturella litteraturstudier
+- [[AEN2CU]] — Interkulturella litteraturstudier: Magisterexamensarbete
 - [[EN1086]] — Engelsk språkstruktur
 - [[EN1129]] — Engelska: Skriftlig språkfärdighet
 - [[EN2025]] — Litteratur och teori
@@ -88,4 +91,3 @@ up: "[[ISLL]]"
 - [[GEN3BQ]] — Teman inom populärlitteraturen
 - [[GEN3BR]] — Kulturella texter och kontexter
 - [[GEN3K3]] — Engelska II
-- [[GEN3KC]] — Engelska III med didaktisk inriktning för gymnasieskolan

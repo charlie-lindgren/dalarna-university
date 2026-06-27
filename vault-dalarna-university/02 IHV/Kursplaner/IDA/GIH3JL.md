@@ -10,18 +10,10 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: bcad194c59b8ef72
+scrape_hash: 59de2767cdb77ebd
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3JL
 up: "[[Idrotts- och hälsovetenskap]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning (en) | `emphasising` (en) |
-<!-- analys:end -->
 
 # GIH3JL
 
@@ -97,7 +89,7 @@ describe and discuss how these physiological systems relate to factors which are
 
 ### Course Content
 
-This course explores the physiological systems that underpin human performance in sport and exercise. Students will be given the opportunity to gain understanding of how key physiological systems respond to various forms of exercise. Emphasising both theory and application, the course also examines the influence of environmental factors, fatigue and use of ergogenic aids on physiological processes and athletic performance. Through discussions and case examples, students will study the relationships between these systems, providing them the opportunity to acquire the foundational knowledge needed for understanding and optimising performance in sports.
+This course explores the physiological systems that underpin human performance in sport and exercise. Students will be given the opportunity to gain understanding of how key physiological systems respond to various forms of exercise. Emphasizing both theory and application, the course also examines the influence of environmental factors, fatigue and use of ergogenic aids on physiological processes and athletic performance. Through discussions and case examples, students will study the relationships between these systems, providing them the opportunity to acquire the foundational knowledge needed for understanding and optimising performance in sports.
 
 ### Assessment
 

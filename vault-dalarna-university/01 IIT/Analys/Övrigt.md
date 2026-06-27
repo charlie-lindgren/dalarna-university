@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Övrigt.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (201 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Övrigt.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (202 rader)</span></a>
 
-> [!example]- 201 fynd — klicka för att expandera
+> [!example]- 202 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -53,6 +53,7 @@ status: första pass
 > | [GBY2XF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2XF) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/GBY2XF">sida</a> | BYA | 2022-09-05 | — | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Överlappar GBY24K och GBY2RW… |
 > | [GDT2JM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT2JM) | <a class="no-graph" href="01-IIT/Kursplaner/DTA/GDT2JM">sida</a> | DTA | 2020-09-24 | — | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GDT2AN… |
 > | [GDT2JN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT2JN) | <a class="no-graph" href="01-IIT/Kursplaner/DTA/GDT2JN">sida</a> | DTA | 2020-09-24 | — | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter DT1066.… |
+> | [GDV3KY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDV3KY) | <a class="no-graph" href="01-IIT/Kursplaner/DVE/GDV3KY">sida</a> | DVE | 2026-06-23 | — | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GIK2V4. När kursen ges som webbaserad online-kurs ges den i Windowsmiljö. Andra operativsystem accepteras men i… |
 > | [FEB222K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222K) | <a class="no-graph" href="01-IIT/Kursplaner/ENERGIBM/FEB222K">sida</a> | ENERGIBM | 2022-09-13 | — | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ges på Engelska.… |
 > | [FEB222L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222L) | <a class="no-graph" href="01-IIT/Kursplaner/ENERGIBM/FEB222L">sida</a> | ENERGIBM | 2022-09-13 | — | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ges på Engelska.… |
 > | [FEB222M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222M) | <a class="no-graph" href="01-IIT/Kursplaner/ENERGIBM/FEB222M">sida</a> | ENERGIBM | 2022-09-13 | — | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ges på Engelska.… |

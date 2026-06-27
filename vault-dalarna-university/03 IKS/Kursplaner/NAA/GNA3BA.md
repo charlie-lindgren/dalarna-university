@@ -9,7 +9,7 @@ amne: "Nationalekonomi"
 amne_kod: "NAA"
 institution: "IKS"
 tags: [kursplan, NAA, IKS]
-scrape_hash: 5354030187f4adea
+scrape_hash: 6f17e9b5cee6bb39
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA3BA
 up: "[[Nationalekonomi]]"
 ---
@@ -57,7 +57,7 @@ Kursen behandlar den finansiella marknadens roll i samhällsekonomin, utlandsber
 
 Som betygsskala på hel kurs används U–VG.
 
-För betyget Väl godkänd på kursen krävs VG på den andra modulen och G på den första modulen.
+För betyget Väl godkänd på kursen krävs VG på den första modulen och G på den andra modulen.
 
 Betyg rapporteras enligt följande:
 

@@ -10,18 +10,17 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: b6c8d3afa5d95af8
+scrape_hash: 296a2a2ebcbbd1f1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH34D
 up: "[[Idrotts- och hälsovetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 7 mål, engelska: 4 mål (diff 3) |
-> | Stavfel och språkbruk | Felstavning (en) | `humanistiv` (en) |
 <!-- analys:end -->
 
 # GIH34D
@@ -104,7 +103,7 @@ Upon completion of the course, students will be able to:
 
 ### Course Content
 
-The student meets methods for data collection as well as basic and in-depth qualitative and quantitative collection methods for processing and analysis of quantitative and qualitative data material out of a social science or humanistiv perspective. The data is collected, processed, analyzed and interpreted. The results of this work are presented orally and in writing in a clear and relevant manner according to scientific principles. Ethical aspects of data collection and knowledge production are discussed.
+The student meets methods for data collection as well as basic and in-depth qualitative and quantitative collection methods for processing and analysis of quantitative and qualitative data material out of a social science or humanistic perspective. The data is collected, processed, analyzed and interpreted. The results of this work are presented orally and in writing in a clear and relevant manner according to scientific principles. Ethical aspects of data collection and knowledge production are discussed.
 
 ### Assessment
 

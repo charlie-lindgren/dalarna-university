@@ -10,13 +10,13 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: c3ca2430f1bbad83
+scrape_hash: c552b4ae594c08bb
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2QL
 up: "[[Idrotts- och hälsovetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -24,8 +24,7 @@ up: "[[Idrotts- och hälsovetenskap]]"
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | Omfång på lärandemål | Långt mål | 30 ord: - med goda rörelsekvaliteter delta i olika rörelseaktiviteter med relevans för t… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
-> | Stavfel och språkbruk | Felstavning | `idrottsränarprogrammet` (sv) |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ingår i Idrottsränarprogrammet - prestation och hälsa, 180 hp. Kursen motsvarar GIH2E2.… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ingår i Idrottstränarprogrammet - prestation och hälsa, 180 hp. Kursen motsvarar GIH2E2.… |
 <!-- analys:end -->
 
 # GIH2QL
@@ -86,7 +85,7 @@ Betygsrapportering:
 
 ## Övrigt
 
-Kursen ingår i Idrottsränarprogrammet - prestation och hälsa, 180 hp. Kursen motsvarar GIH2E2.
+Kursen ingår i Idrottstränarprogrammet - prestation och hälsa, 180 hp. Kursen motsvarar GIH2E2.
 
 ## English Version
 

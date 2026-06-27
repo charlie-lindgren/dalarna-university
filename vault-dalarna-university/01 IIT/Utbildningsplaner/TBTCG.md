@@ -16,7 +16,7 @@ up: "IIT"
 **Programnamn:** Byggingenjörsprogram
 
 - **Programkod:** TBTCG
-- **Programansvarig:** Hans Persson
+- **Programansvarig:** Mikael Andersson
 - **Fastställd:** Fastställd av prefekt för institutionen för information och teknik 2023-02-14 . Gäller fr.o.m.  HT 2023.
 
 ## 1. Programmets mål

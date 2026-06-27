@@ -34,6 +34,7 @@ tags: [MOC, institution, IIT]
 
 - [[Byggteknik]] (47 kurser)
 - [[Datateknik]] (4 kurser)
+- [[Datavetenskaper]] (4 kurser)
 - [[Elektroteknik]] (2 kurser)
 - [[Energiteknik]] (57 kurser)
 - [[Fysik]] (6 kurser)

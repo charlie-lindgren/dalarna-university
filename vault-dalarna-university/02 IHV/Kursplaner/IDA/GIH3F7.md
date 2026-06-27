@@ -9,18 +9,10 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: 4033c2633c5e1ae9
+scrape_hash: 24646c689856eb16
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3F7
 up: "[[Idrotts- och hälsovetenskap]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning (en) | `teories` (en) |
-<!-- analys:end -->
 
 # GIH3F7
 
@@ -89,7 +81,7 @@ On completion of the course, students will be able to:
 
   - describe sport pedagogy as a field of knowledge from a national as well as an international perspective,
 
-  - account for teories about learning in relation to sport,
+  - account for theories about learning in relation to sport,
 
   - describe what makes sport possible for different groups in society and analyse youth sport as an environment for development in relation to basics for inclusion,
 

@@ -10,10 +10,9 @@ up: "[[IHV]]"
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 > Huvudområde: Ej huvudområde 1
 
-## Kurser (8 st)
+## Kurser (7 st)
 
 - [[AMC28N]] — Evidensbaserat arbetssätt och forskningsmetodik inom fysioterapi
-- [[AMC29F]] — Examensarbete för magisterexamen i fysioterapi
 - [[AMC2BG]] — Förskrivningsrätt för vissa läkemedel och förbrukningsartiklar
 - [[GMC32X]] — Vård och behandling vid blås- och tarmdysfunktion
 - [[GMC37E]] — Anatomi och fysiologi för sjuksköterskor II
@@ -21,7 +20,7 @@ up: "[[IHV]]"
 - [[GMC37T]] — Anatomi och fysiologi för sjuksköterskor I
 - [[MC1072]] — Anatomi och fysiologi I
 
-## Vilande kursplaner (18 st)
+## Vilande kursplaner (19 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -31,6 +30,7 @@ up: "[[IHV]]"
 - [[AMC25W]] — Personcentrerad vård vid astma/KOL/allergi, del 2
 - [[AMC265]] — Farmakologisk behandling vid diabetes
 - [[AMC288]] — Fysisk aktivitet och träning som prevention och behandling
+- [[AMC29F]] — Examensarbete för magisterexamen i fysioterapi
 - [[AMC29Y]] — Förskrivningsrätt för vissa läkemedel och förbrukningsartiklar
 - [[AMC2A7]] — Kardiologi: Arytmi
 - [[AMC2AE]] — Fysioterapi med fokus på smärta och hållbar utveckling

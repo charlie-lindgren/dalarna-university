@@ -27,7 +27,7 @@ up: "[[ISLL]]"
 - [[GIT397]] — Italienska C: Examensarbete för kandidatexamen
 - [[IT1034]] — Italienska: Nybörjarkurs II
 
-## Vilande kursplaner (15 st)
+## Vilande kursplaner (21 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -46,3 +46,9 @@ up: "[[ISLL]]"
 - [[GIT2YB]] — Italienska A: Textanalys, det nya millenniets skönlitteratur
 - [[GIT2YC]] — Italienska A: Textanalys, 1900-talets skönlitteratur
 - [[GIT2YD]] — Italienska A: Textanalys, kvinnoskildringar
+- [[GIT3KL]] — Italienska A: Textanalys, barn- och ungdomsskildringar
+- [[GIT3KM]] — Italienska A: Fonetik och muntlig språkfärdighet
+- [[GIT3KN]] — Italienska A: Grammatik och skriftlig språkfärdighet
+- [[GIT3KP]] — Italienska B: Muntlig språkfärdighet och kulturkunskap
+- [[GIT3KQ]] — Italienska B: Grammatik och skriftlig produktion
+- [[GIT3KR]] — Italienska B: Litteraturhistoria med textanalys

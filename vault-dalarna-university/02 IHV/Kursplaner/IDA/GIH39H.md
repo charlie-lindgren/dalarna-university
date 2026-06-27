@@ -9,18 +9,17 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: bc6393f1de519db6
+scrape_hash: 687091276ee8753e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH39H
 up: "[[Idrotts- och hälsovetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Omfång på lärandemål | Långt mål | 26 ord: - diskutera och problematisera skolämnet idrott och hälsa utifrån olika didaktis… |
-> | Stavfel och språkbruk | Felstavning (en) | `movementorgans` (en) |
 <!-- analys:end -->
 
 # GIH39H
@@ -98,7 +97,7 @@ Upon completion of the course, students will be able to:
 
 ### Course Content
 
-- Basic anatomy and physiology (circulation, respiration, movementorgans)
+- Basic anatomy and physiology (circulation, respiration, movement organs)
 
   - The body‘s adjustment to different forms of physical activity 
 

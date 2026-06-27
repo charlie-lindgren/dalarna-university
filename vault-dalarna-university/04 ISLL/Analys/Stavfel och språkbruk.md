@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (121 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (123 rader)</span></a>
 
-> [!example]- 121 fynd — klicka för att expandera
+> [!example]- 123 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -61,6 +61,8 @@ status: första pass
 > | [GIT2AE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2AE) | <a class="no-graph" href="04-ISLL/Kursplaner/ITA/GIT2AE">sida</a> | ITA | 2019-08-23 | 2023-12-18 | Felstavning (en) | `particicpation` (en) |
 > | [GIT2TK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TK) | <a class="no-graph" href="04-ISLL/Kursplaner/ITA/GIT2TK">sida</a> | ITA | 2021-12-21 | 2023-12-18 | Felstavning (en) | `themself` (en) |
 > | [GIT2Y8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2Y8) | <a class="no-graph" href="04-ISLL/Kursplaner/ITA/GIT2Y8">sida</a> | ITA | 2022-11-11 | 2023-12-18 | Felstavning | `nlämningsuppgifter` (sv) |
+> | [GIT3KP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT3KP) | <a class="no-graph" href="04-ISLL/Kursplaner/ITA/GIT3KP">sida</a> | ITA | 2026-06-16 | — | Felstavning (en) | `indentify` (en) |
+> | [GIT3KR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT3KR) | <a class="no-graph" href="04-ISLL/Kursplaner/ITA/GIT3KR">sida</a> | ITA | 2026-06-16 | — | Felstavning (en) | `andcultural` (en) |
 > | [GJP23S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP23S) | <a class="no-graph" href="04-ISLL/Kursplaner/JAA/GJP23S">sida</a> | JAA | 2018-08-23 | — | Felstavning | `språkfärdiget` (sv) |
 > | [GJP2MZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP2MZ) | <a class="no-graph" href="04-ISLL/Kursplaner/JAA/GJP2MZ">sida</a> | JAA | 2021-03-04 | — | Felstavning (en) | `opprtunity` (en) |
 > | [GJP37U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP37U) | <a class="no-graph" href="04-ISLL/Kursplaner/JAA/GJP37U">sida</a> | JAA | 2023-12-04 | — | Felstavning (en) | `sritten` (en) |
@@ -88,6 +90,9 @@ status: första pass
 > | [GSP3GW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3GW) | <a class="no-graph" href="04-ISLL/Kursplaner/SPA/GSP3GW">sida</a> | SPA | 2025-09-10 | — | Felstavning | `tidsramargenomföra` (sv) |
 > | [GSP3GW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3GW) | <a class="no-graph" href="04-ISLL/Kursplaner/SPA/GSP3GW">sida</a> | SPA | 2025-09-10 | — | Felstavning | `vilarpå` (sv) |
 > | [GSP3GW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3GW) | <a class="no-graph" href="04-ISLL/Kursplaner/SPA/GSP3GW">sida</a> | SPA | 2025-09-10 | — | Felstavning (en) | `theseis` (en) |
+> | [GSP3KU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3KU) | <a class="no-graph" href="04-ISLL/Kursplaner/SPA/GSP3KU">sida</a> | SPA | 2026-06-16 | — | Felstavning (en) | `assigments` (en) |
+> | [GSP3KV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3KV) | <a class="no-graph" href="04-ISLL/Kursplaner/SPA/GSP3KV">sida</a> | SPA | 2026-06-16 | — | Felstavning (en) | `realtion` (en) |
+> | [GSP3KV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3KV) | <a class="no-graph" href="04-ISLL/Kursplaner/SPA/GSP3KV">sida</a> | SPA | 2026-06-16 | — | Felstavning (en) | `semantical` (en) |
 > | [SP1050](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SP1050) | <a class="no-graph" href="04-ISLL/Kursplaner/SPA/SP1050">sida</a> | SPA | 2017-06-15 | — | Felstavning (en) | `assigments` (en) |
 > | [SP1051](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SP1051) | <a class="no-graph" href="04-ISLL/Kursplaner/SPA/SP1051">sida</a> | SPA | 2017-06-15 | — | Felstavning (en) | `realtion` (en) |
 > | [SP1051](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SP1051) | <a class="no-graph" href="04-ISLL/Kursplaner/SPA/SP1051">sida</a> | SPA | 2017-06-15 | — | Felstavning (en) | `semantical` (en) |
@@ -103,25 +108,22 @@ status: första pass
 > | [GSS3BL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3BL) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/GSS3BL">sida</a> | SSA | 2024-05-24 | — | Felstavning (en) | `witten` (en) |
 > | [SS1085](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS1085) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS1085">sida</a> | SSA | 2015-03-03 | — | Felstavning | `näbaserade` (sv) |
 > | [SS1085](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS1085) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS1085">sida</a> | SSA | 2015-03-03 | — | Felstavning | `änvänder` (sv) |
-> | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS2009">sida</a> | SSA | 2013-02-04 | — | Felstavning | `inlärartal` (sv) |
-> | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS2009">sida</a> | SSA | 2013-02-04 | — | Felstavning (en) | `affrican` (en) |
-> | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS2009">sida</a> | SSA | 2013-02-04 | — | Felstavning (en) | `centrual` (en) |
-> | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS2009">sida</a> | SSA | 2013-02-04 | — | Felstavning (en) | `dealrs` (en) |
-> | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS2009">sida</a> | SSA | 2013-02-04 | — | Felstavning (en) | `dourse` (en) |
-> | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS2009">sida</a> | SSA | 2013-02-04 | — | Felstavning (en) | `egarding` (en) |
-> | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS2009">sida</a> | SSA | 2013-02-04 | — | Felstavning (en) | `prespectives` (en) |
-> | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS2009">sida</a> | SSA | 2013-02-04 | — | Felstavning (en) | `relatec` (en) |
-> | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS2009">sida</a> | SSA | 2013-02-04 | — | Felstavning (en) | `researchj` (en) |
-> | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS2009">sida</a> | SSA | 2013-02-04 | — | Felstavning (en) | `teorritoriality` (en) |
+> | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS2009">sida</a> | SSA | 2013-02-04 | 2026-06-24 | Felstavning | `inlärartal` (sv) |
+> | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS2009">sida</a> | SSA | 2013-02-04 | 2026-06-24 | Felstavning (en) | `affrican` (en) |
+> | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS2009">sida</a> | SSA | 2013-02-04 | 2026-06-24 | Felstavning (en) | `centrual` (en) |
+> | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS2009">sida</a> | SSA | 2013-02-04 | 2026-06-24 | Felstavning (en) | `dealrs` (en) |
+> | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS2009">sida</a> | SSA | 2013-02-04 | 2026-06-24 | Felstavning (en) | `dourse` (en) |
+> | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS2009">sida</a> | SSA | 2013-02-04 | 2026-06-24 | Felstavning (en) | `egarding` (en) |
+> | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS2009">sida</a> | SSA | 2013-02-04 | 2026-06-24 | Felstavning (en) | `prespectives` (en) |
+> | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS2009">sida</a> | SSA | 2013-02-04 | 2026-06-24 | Felstavning (en) | `relatec` (en) |
+> | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS2009">sida</a> | SSA | 2013-02-04 | 2026-06-24 | Felstavning (en) | `researchj` (en) |
+> | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS2009">sida</a> | SSA | 2013-02-04 | 2026-06-24 | Felstavning (en) | `teorritoriality` (en) |
 > | [SS3007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3007) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS3007">sida</a> | SSA | 2014-10-30 | — | Felstavning | `användingen` (sv) |
 > | [SS3009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS3009) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS3009">sida</a> | SSA | 2014-10-30 | — | Felstavning | `skriftspråksanvänding` (sv) |
-> | [ASV2CP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2CP) | <a class="no-graph" href="04-ISLL/Kursplaner/SVE/ASV2CP">sida</a> | SVE | 2026-05-13 | — | Felstavning | `framåtsiktande` (sv) |
 > | [ASV2CP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2CP) | <a class="no-graph" href="04-ISLL/Kursplaner/SVE/ASV2CP">sida</a> | SVE | 2026-05-13 | — | Felstavning | `läsförkunskaper` (sv) |
-> | [ASV2CQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2CQ) | <a class="no-graph" href="04-ISLL/Kursplaner/SVE/ASV2CQ">sida</a> | SVE | 2026-05-13 | — | Felstavning | `framåtsiktande` (sv) |
 > | [GSV2ZX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2ZX) | <a class="no-graph" href="04-ISLL/Kursplaner/SVE/GSV2ZX">sida</a> | SVE | 2023-01-23 | — | Felstavning | `tiilämpa` (sv) |
 > | [GSV3DE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DE) | <a class="no-graph" href="04-ISLL/Kursplaner/SVE/GSV3DE">sida</a> | SVE | 2025-01-13 | — | Felstavning | `närstudiet` (sv) |
 > | [GSV3DE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3DE) | <a class="no-graph" href="04-ISLL/Kursplaner/SVE/GSV3DE">sida</a> | SVE | 2025-01-13 | — | Felstavning | `verbalspråket` (sv) |
-> | [GSV3FP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3FP) | <a class="no-graph" href="04-ISLL/Kursplaner/SVE/GSV3FP">sida</a> | SVE | 2025-05-14 | — | Felstavning | `framåtsiktande` (sv) |
 > | [GSV3FP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3FP) | <a class="no-graph" href="04-ISLL/Kursplaner/SVE/GSV3FP">sida</a> | SVE | 2025-05-14 | — | Felstavning (en) | `edcuation` (en) |
 > | [ATY29E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY29E) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/ATY29E">sida</a> | TYA | 2023-06-28 | 2023-12-08 | Felstavning | `tyskpråkig` (sv) |
 > | [ATY2B8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY2B8) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/ATY2B8">sida</a> | TYA | 2024-11-13 | — | Felstavning (en) | `additon` (en) |

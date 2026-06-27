@@ -10,19 +10,18 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 51a41055ea0067fc
+scrape_hash: 8d34d1a4773d388a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2DB
 up: "[[Idrotts- och hälsovetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Inlämningsuppgift samt muntlig salstentamen.… |
-> | Frasningskonsistens | Avviker från referensformen | Efter… |
-> | Stavfel och språkbruk | Felstavning | `jämviktsystem` → jämviktssystem |
+> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande på en grundläggande nivå kunna:… |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ges i samarbete med Svenska Judoförbundet. Kursen kan inte ingå i examen vid Högskolan Dalarna parallellt med Bio… |
 <!-- analys:end -->
 
@@ -42,15 +41,13 @@ up: "[[Idrotts- och hälsovetenskap]]"
 
 ## Lärandemål
 
-Efter
-avslutad kurs ska den studerande på en grundläggande nivå kunna:
+Efter avslutad kurs ska den studerande på en grundläggande nivå kunna:
 
-  - redogöra för krafter, hävarmar och vridande moment i ett
-statiskt jämviktsystem
-  - redogöra för yttre krafters storlek och riktning, utfört
-arbete, effektutveckling och tröghetsmoment under utförande av fysisk aktivitet
-  - visa förmåga att analysera rörelseformer utifrån biomekaniska
-principer.
+  - redogöra för krafter, hävarmar och vridande moment i ett statiskt jämviktssystem
+
+  - redogöra för yttre krafters storlek och riktning, utfört arbete, effektutveckling och tröghetsmoment under utförande av fysisk aktivitet
+
+  - visa förmåga att analysera rörelseformer utifrån biomekaniska principer.
 
 ## Innehåll
 

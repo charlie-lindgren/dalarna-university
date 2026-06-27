@@ -52,7 +52,7 @@ tags: [MOC, institution, IKS]
 - [[Företagsekonomi]] (41 kurser)
 - [[Historia]] (63 kurser)
 - [[Industriell ekonomi]] (2 kurser)
-- [[Kulturgeografi]] (23 kurser)
+- [[Kulturgeografi]] (26 kurser)
 - [[Ljud- och musikproduktion]] (57 kurser)
 - [[Medieproduktion]] (32 kurser)
 - [[Nationalekonomi]] (34 kurser)

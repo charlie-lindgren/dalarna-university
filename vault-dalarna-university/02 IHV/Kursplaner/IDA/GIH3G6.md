@@ -10,18 +10,17 @@ amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 0ad01d43727460d0
+scrape_hash: f28e39368d7e2504
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G6
 up: "[[Idrotts- och hälsovetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Omfång på lärandemål | För få mål | 2 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
-> | Stavfel och språkbruk | Felstavning | `kunskapnivå` (sv) |
 <!-- analys:end -->
 
 # GIH3G6
@@ -41,7 +40,7 @@ up: "[[Idrotts- och hälsovetenskap]]"
 
 Efter godkänd kurs ska studenten kunna:
 
-  - uppvisa en fördjupad kunskapnivå inom ett avgränsat idrotts- och hälsovetenskapligt område,
+  - uppvisa en fördjupad kunskapsnivå inom ett avgränsat idrotts- och hälsovetenskapligt område,
 
   - redogöra för tidigare forskning inom ett avgränsat idrotts- och hälsovetenskapligt område.
 
