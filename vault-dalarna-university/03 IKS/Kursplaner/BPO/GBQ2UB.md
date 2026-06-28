@@ -16,7 +16,7 @@ up: "[[Bildproduktion]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -25,7 +25,6 @@ up: "[[Bildproduktion]]"
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 10 mål, engelska: 1 mål (diff 9) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning | `berättandestruktur` (sv) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter BQ1067 och BQ1088.… |
 <!-- analys:end -->
 

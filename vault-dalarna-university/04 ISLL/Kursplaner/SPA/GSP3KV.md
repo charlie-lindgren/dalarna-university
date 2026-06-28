@@ -16,14 +16,13 @@ up: "[[Spanska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Spanska I` → `SP1014` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens mål är att den studerande utvecklar grundläggande kunskaper i spansk lingvistik, inbegripet områdena språkutveck… |
 > | Stavfel och språkbruk | Felstavning (en) | `realtion` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `semantical` (en) |
 <!-- analys:end -->
 
 # GSP3KV

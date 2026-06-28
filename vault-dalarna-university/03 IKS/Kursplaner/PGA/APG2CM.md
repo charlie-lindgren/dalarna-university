@@ -15,7 +15,7 @@ up: "[[Pedagogiskt arbete]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -23,7 +23,6 @@ up: "[[Pedagogiskt arbete]]"
 > | Omfång på lärandemål | Långt mål | 29 ord: - analysera och värdera egen och andras undervisnings genomförande och föreslå m… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | Stavfel och språkbruk | Felstavning | `undervisningensmål` (sv) |
-> | Stavfel och språkbruk | Felstavning (en) | `educare` (en) |
 <!-- analys:end -->
 
 # APG2CM

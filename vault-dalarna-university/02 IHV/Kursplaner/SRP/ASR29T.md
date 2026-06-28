@@ -15,13 +15,12 @@ up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Omfång på lärandemål | Långt mål | 26 ord: - problematisera och reflektera över kvinnans, barnets och närståendes roller oc… |
 > | Omfång på lärandemål | Långt mål | 28 ord: - i simulerad miljö utföra undersökningar och behandlingar vid handläggning av o… |
-> | Stavfel och språkbruk | Felstavning | `föräldrablivande` (sv) |
 > | Stavfel och språkbruk | Felstavning (en) | `beable` (en) |
 > | Stavfel och språkbruk | Felstavning (en) | `processesof` (en) |
 > | Stavfel och språkbruk | Felstavning (en) | `thestudent` (en) |

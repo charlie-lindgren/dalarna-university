@@ -16,14 +16,13 @@ up: "[[Svenska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Omfång på lärandemål | Långt mål | 28 ord: - analysera och värdera sambandet mellan elevers språkförståelse, läsförkunskape… |
 > | Omfång på lärandemål | Långt mål | 27 ord: - problematisera och diskutera utmaningar i undervisningen i förskoleklass och å… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | Stavfel och språkbruk | Felstavning | `läsförkunskaper` (sv) |
 <!-- analys:end -->
 
 # ASV2CP

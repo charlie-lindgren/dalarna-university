@@ -261,6 +261,7 @@ SV_IGNORE = {
     "soloprenör","mätprinciper","hälsopromotiva","normförmedlare",
     "kärlproblematik","substansmängdsförhållanden","vätske","kärlområdet",
     "förståelser","självtillitsträning","läraktivitet","läraktiviteter",
+    "stökiometri","stökiometriska","stökiometrisk",
     # IKS — egennamn och fältspecifika sammansättningar
     "angelöw","kravställan",
     # IKS+ISLL — egennamn (efternamn, orter)
@@ -281,6 +282,12 @@ SV_IGNORE = {
     # Utbildningsplaner — fältspecifika sammansättningar + egennamn
     "mjukvarutestningsområdena","mjukvarutestningsområdet",
     "förutbildningen","römsing","pär",
+    # QC 2026-06-28 — giltiga sammansättningar/facktermer/egennamn (ej stavfel)
+    "beställningsfilmsproduktion","berättandestruktur","länderjämförelser",
+    "livsvärldsperspektivet","ätsvårigheter","andraämne","utvärderbara",
+    "inlärartal","läsförkunskaper","närstudiet","verbalspråket","förvärvda",
+    "framträdandeform","skalfrågor","kartöverlägg","historiedidaktikområdet",
+    "utanförperspektiv","föräldrablivande","gävle",
 }
 HAS_SV = re.compile(r"[åäöÅÄÖ]")
 
@@ -491,6 +498,10 @@ EN_IGNORE = {
     "inriktningen","kurs","metod","sidor","studerande","tematisk",
     "tidigare","uppsats","utveckling","vara","varav","specialiseringar",
     "dessutom","hela",
+    # QC 2026-06-28 — giltiga ord/facktermer/brittisk stavning/akronymer (ej stavfel)
+    "postproduction","explainer","naprapath","educare","evolvement","subtasks",
+    "iatrogenic","empathic","geodemographic","interorganizational",
+    "systematicity","semantical","recognises","cerqual",
 }
 
 

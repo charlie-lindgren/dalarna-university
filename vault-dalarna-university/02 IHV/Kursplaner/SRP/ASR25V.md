@@ -16,13 +16,12 @@ up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examensarbete samt opponent/respondentskap.… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den… |
-> | Stavfel och språkbruk | Felstavning (en) | `systematicity` (en) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ingår i magisterprogrammet Global sexuell och reproduktiv hälsa.… |
 <!-- analys:end -->
 

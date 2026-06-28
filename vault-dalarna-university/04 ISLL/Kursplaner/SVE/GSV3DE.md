@@ -15,7 +15,7 @@ up: "[[Svenska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 12 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 10 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -29,8 +29,6 @@ up: "[[Svenska]]"
 > | Omfång på lärandemål | Långt mål | 41 ord: - tala och skriva i enlighet med de normer som finns för formell svenska och på … |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 23 mål, engelska: 2 mål (diff 21) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning | `närstudiet` (sv) |
-> | Stavfel och språkbruk | Felstavning | `verbalspråket` (sv) |
 <!-- analys:end -->
 
 # GSV3DE

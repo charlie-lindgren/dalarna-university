@@ -16,12 +16,11 @@ up: "[[Socialt arbete]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 5 mål, engelska: 7 mål (diff 2) |
-> | Stavfel och språkbruk | Felstavning (en) | `interorganizational` (en) |
 <!-- analys:end -->
 
 # GSA3AS
