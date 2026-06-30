@@ -8,18 +8,17 @@ amne: "Forskarämne Vårdvetenskap"
 amne_kod: "VÅRDVETS"
 institution: "IHV"
 tags: [kursplan, VÅRDVETS, IHV, forskarutbildning]
-scrape_hash: c774380ad46bfe64
+scrape_hash: b06c0aeb8342bf44
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=FVV222H
 up: "[[Forskarämne Vårdvetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G. För betyget godkänd på kursen krävs Godkänt på alla momenten listade nedan. Betygsrapporter… |
-> | Stavfel och språkbruk | Felstavning (en) | `isues` (en) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen är nätbaserad. Undervisning samt muntliga och skriftliga examinationer sker på engelska, om inte annat meddelas.… |
 <!-- analys:end -->
 
@@ -117,7 +116,7 @@ Skills and abilities
 
 Judgement and approach
 
-  - assess isues related to research ethics in various study designs and relate to Swedish laws, regulations and guidelines concerning research ethics and the integrity of the researcher
+  - assess issues related to research ethics in various study designs and relate to Swedish laws, regulations and guidelines concerning research ethics and the integrity of the researcher
 
   - elaborate on the ethical responsibility of the researcher and ethical aspects in relation to chosen planned thesis including the perspective of data management and associated laws and regulations
 

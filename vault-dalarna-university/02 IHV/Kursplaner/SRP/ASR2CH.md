@@ -8,19 +8,18 @@ huvudomrade: "Sexuell, reproduktiv och perinatal hälsa 1"
 amne: "Sexuell, reproduktiv och perinatal hälsa"
 amne_kod: "SRP"
 institution: "IHV"
-tags: [kursplan, SRP, IHV]
-scrape_hash: 3b89b60d4e668c9e
+tags: [kursplan, SRP, IHV, forskarutbildning]
+scrape_hash: da3f41cbdb627dbd
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CH
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska studenten självständigt kunna:… |
-> | Stavfel och språkbruk | Felstavning (en) | `perspectiv` (en) |
 <!-- analys:end -->
 
 # ASR2CH
@@ -96,7 +95,7 @@ On completion of the course, students will independently be able to:
 
   - conduct a scientific investigation using a relevant design, methodology and analysis
 
-  - critically analyse concepts, theories and perspectives in global sexual, reproductive health and rights from a sustainability perspectiv
+  - critically analyse concepts, theories and perspectives in global sexual, reproductive health and rights from a sustainability perspective
 
   - identify a scientific problem statement and purpose based on current research knowledge in a defined area
 

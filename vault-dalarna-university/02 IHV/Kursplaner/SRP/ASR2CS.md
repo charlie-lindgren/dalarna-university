@@ -9,20 +9,19 @@ amne: "Sexuell, reproduktiv och perinatal hälsa"
 amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV, forskarutbildning]
-scrape_hash: 495e5e1103aef762
+scrape_hash: 1cb0f011b75267bd
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CS
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Omfång på lärandemål | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | Omfång på lärandemål | Långt mål | 26 ord: - redogöra för och motivera metoder för att främja, undersöka och övervaka kvinn… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 9 mål, engelska: 6 mål (diff 3) |
-> | Stavfel och språkbruk | Felstavning (en) | `beable` (en) |
 <!-- analys:end -->
 
 # ASR2CS
@@ -100,7 +99,7 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 ### Learning Outcomes
 
-Upon completion of the course, studenta will beable to:
+Upon completion of the course, studenta will be able to:
 
   - demonstrate an understanding of how psychosocial aspects, attachment and bonding can affect the process of becoming parent and family formation
 

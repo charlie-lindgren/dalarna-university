@@ -9,13 +9,13 @@ amne: "Sexuell, reproduktiv och perinatal hälsa"
 amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV]
-scrape_hash: d7d75e4c0d97866a
+scrape_hash: d33b781971a75b0c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29V
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 10 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -24,11 +24,6 @@ up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 > | Omfång på lärandemål | Långt mål | 26 ord: - aktivt delta i abortverksamhet och visa på självständighet i vården av kvinnor… |
 > | Omfång på lärandemål | Långt mål | 29 ord: - tillämpa ett professionellt förhållningssätt i kommunikation med vårdtagare oc… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 13 mål, engelska: 12 mål (diff 1) |
-> | Stavfel och språkbruk | Felstavning (en) | `carrid` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `focsing` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `havng` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `situaion` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `traied` (en) |
 <!-- analys:end -->
 
 # ASR29V
@@ -115,26 +110,37 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 ### Learning Outcomes
 
-The overall objective of the course is that the student should be able to apply, extend and integrate their theoretical and clinical knowledge in sexual, reproductive and perinatal health based on the midwifery profession and research area focsing on gynecological care and postpartum care.  
+The overall objective of the course is that the student should be able to apply, extend and integrate their theoretical and clinical knowledge in sexual, reproductive and perinatal health based on the midwifery profession and research area focusing on gynecological care and postpartum care.  
   
 After completing the course the student should be able on an extended level to 
- 
-  - critically reflect on concepts, theories and perspectives to promote good health care in gynecological- and postpartum care, with a focus on women and the family perspective, 
-  - independently care for women and healthy babies postpartum and identify deviations from the normal progression, 
-  - promote the mother-child connection and provide support, protection and advice on breastfeeding, 
-  - assess and evaluate breastfeeding complications and need for alternative feeding methods, 
-  - conduct investigation and treatment of premature infants, 
-  - use of medical technology within the midwife‘s responsibility and work area in a safe manner, 
-  - identify health problems and illnesses in gynecological health care and conduct treatment in outpatient and inpatient gynecological care, 
-  - actively initiate and create good quality care with a high hygienic standards, 
-  - participate in abortion activities and show independence in the care of women havng an abortion in inpatient care as well as outpatient gynecological care, 
-  - apply adequate documentation, patient record management and reporting according to current regulations, 
-  - apply a professional approach in communication with patients and colleagues and show empathy in the assessment and application of knowledge in the light of the situaion for the patient and closely related person, 
+
+  - critically reflect on concepts, theories and perspectives to promote good health care in gynecological- and postpartum care, with a focus on women and the family perspective,
+
+  - independently care for women and healthy babies postpartum and identify deviations from the normal progression,
+
+  - promote the mother-child connection and provide support, protection and advice on breastfeeding,
+
+  - assess and evaluate breastfeeding complications and need for alternative feeding methods,
+
+  - conduct investigation and treatment of premature infants,
+
+  - use of medical technology within the midwife‘s responsibility and work area in a safe manner,
+
+  - identify health problems and illnesses in gynecological health care and conduct treatment in outpatient and inpatient gynecological care,
+
+  - actively initiate and create good quality care with a high hygienic standards,
+
+  - participate in abortion activities and show independence in the care of women having an abortion in inpatient care as well as outpatient gynecological care,
+
+  - apply adequate documentation, patient record management and reporting according to current regulations,
+
+  - apply a professional approach in communication with patients and colleagues and show empathy in the assessment and application of knowledge in the light of the situation for the patient and closely related person,
+
   - discuss and reflect on personal professional development as a midwife.
 
 ### Course Content
 
-The course includes application, deepening and integration of clinical and theoretical knowledge in connection to care of women and children after birth. Furthermore assessments are carrid out investigating the need for support and security. Custom advice is given based on identified needs. Students should also make observations and assessments of normal and abnormal conditions postpartum and support the establishment of effective breastfeeding. The course also includes applications, deepening and integration of clinical and theoretical knowledge in connection with gynecological health and illness, and active participation in the care of women with gynecological disorders, illness and abortion. The student will apply their skills in assessment, handling of postpartum care, gynecological diseases and illness as well as abortion with the support of medical technical devices, while being mentored by the clinical teacher.The students are traied in planning and taking action based on their observations and assessments, and to monitor, evaluate and document nursing care.
+The course includes application, deepening and integration of clinical and theoretical knowledge in connection to care of women and children after birth. Furthermore assessments are carried out investigating the need for support and security. Custom advice is given based on identified needs. Students should also make observations and assessments of normal and abnormal conditions postpartum and support the establishment of effective breastfeeding. The course also includes applications, deepening and integration of clinical and theoretical knowledge in connection with gynecological health and illness, and active participation in the care of women with gynecological disorders, illness and abortion. The student will apply their skills in assessment, handling of postpartum care, gynecological diseases and illness as well as abortion with the support of medical technical devices, while being mentored by the clinical teacher.The students are trained in planning and taking action based on their observations and assessments, and to monitor, evaluate and document nursing care.
 
 ### Assessment
 
@@ -147,16 +153,7 @@ The course includes application, deepening and integration of clinical and theor
 The grading scale used for the final course grade is U–G.
 
 
-Score is reported as:  
- 
- 
-  - Clinical education, 8.5 credits. 
-  - Seminar, 0.5 credits.
-
-Grades are reported as follows:
-
-  - Clinical practice - 8.5 Credits | U–G
-  - Seminar - 0.5 Credits | U–G
+Score is reported as:
 
 ### Prerequisites
 

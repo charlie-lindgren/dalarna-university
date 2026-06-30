@@ -10,21 +10,18 @@ amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 5678180df78ee62e
+scrape_hash: 422a799ee5581c04
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29U
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska studenten självständigt kunna:… |
 > | Omfång på lärandemål | Långt mål | 26 ord: - i simulerad miljö utföra undersökningar och behandlingar vid komplicerad gravi… |
-> | Stavfel och språkbruk | Felstavning (en) | `ofthe` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `postpartumperiod` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `srole` (en) |
 <!-- analys:end -->
 
 # ASR29U
@@ -92,13 +89,13 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 ### Learning Outcomes
 
-The overall aim ofthe course is for the student to understand the procedures and processes of complicated pregnancy, childbirth and postpartum care in a sustainable perspective. 
+The overall aim of the course is for the student to understand the procedures and processes of complicated pregnancy, childbirth and postpartum care in a sustainable perspective. 
 
 Upon completion of the course, students will be able to:
 
-  - perform examinations and treatment in pregnancy, childbirth and the postpartumperiod in simulation-based training based on research and midwifery scope of practice
+  - perform examinations and treatment in pregnancy, childbirth and the postpartum period in simulation-based training based on research and midwifery scope of practice
 
-  - critically reflect on the midwife´srole and responsibilities in relation to complicated pregnancy, childbirth and the postpartum period, including neonatal care
+  - critically reflect on the midwife´s role and responsibilities in relation to complicated pregnancy, childbirth and the postpartum period, including neonatal care
 
   - explain and reflect on health concepts regarding complicated pregnancy, childbirth and postpartum period including neonatal care
 

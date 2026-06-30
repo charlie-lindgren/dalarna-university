@@ -10,19 +10,18 @@ amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: ef2638c82f56f5ce
+scrape_hash: d80a8824e0b10fd7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSR2A5
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom individuella skriftliga inlämningsuppgifter samt examinerande seminarium med skriftlig inlämning… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna… |
-> | Stavfel och språkbruk | Felstavning | `väderingar` (sv) |
 > | Stavfel och språkbruk | Felstavning (en) | `adolscents` (en) |
 > | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
 <!-- analys:end -->
@@ -46,10 +45,15 @@ up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 Efter avslutad kurs ska den studerande kunna
 
   - redovisa kunskaper för ungdomar och unga vuxnas reproduktiva hälsa i ett hållbarhetsperspektiv
+
   - redogöra för fysisk samt psykisk utveckling 
+
   - diskutera hot, våld och övergrepp i ett mångfaldsperspektiv 
+
   - diskutera hur könsidentitet påverkar och formar synen på sexualitet och relationer 
-  - reflektera över egna väderingar, attityder och förhållningssätt i samtal med ungdomar och unga vuxna
+
+  - reflektera över egna värderingar, attityder och förhållningssätt i samtal med ungdomar och unga vuxna
+
   - uppvisa kunskaper, förståelse och färdigheter i evidensbaserad praktik och i tvärprofessionellt kvalitets- och utvecklingsarbete.
 
 ## Innehåll
@@ -92,7 +96,7 @@ Betygsrapportering:
 
 Upon completion of the course, students will be able to:
 
-  - demonstrate knowledge of adolescents’ and young adults’ reproductive health from a sustainable perspective
+  - demonstrate knowledge of adolescent and young adult reproductive health from a sustainable perspective
 
   - describe the physical and psychological development of adolscents and young adults
 

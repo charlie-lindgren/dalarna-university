@@ -9,18 +9,10 @@ amne: "Sexuell, reproduktiv och perinatal hälsa"
 amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV]
-scrape_hash: 0e1845123b62e04a
+scrape_hash: 76d5c520f261be69
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CJ
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning (en) | `servises` (en) |
-<!-- analys:end -->
 
 # ASR2CJ
 
@@ -83,7 +75,7 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 On completion of the course, students will be able to:
 
-  - problematise principles that are the basis for legal and sustainable organisations and management in health care servises
+  - problematise principles that are the basis for legal and sustainable organisations and management in health care services
 
   - problematise and reflect on different theories on organisation, leadership and management
 

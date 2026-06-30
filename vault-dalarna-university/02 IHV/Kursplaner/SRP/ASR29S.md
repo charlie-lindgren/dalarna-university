@@ -8,23 +8,19 @@ huvudomrade: "Sexuell, reproduktiv och perinatal hälsa 1"
 amne: "Sexuell, reproduktiv och perinatal hälsa"
 amne_kod: "SRP"
 institution: "IHV"
-tags: [kursplan, SRP, IHV]
-scrape_hash: 52d10597880d4f0b
+tags: [kursplan, SRP, IHV, forskarutbildning]
+scrape_hash: d8a0c79d4ae892bf
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29S
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska studenten självständigt kunna… |
 > | Omfång på lärandemål | Långt mål | 27 ord: - analysera och värdera resultat i relation till tidigare forskning, värdera den… |
-> | Stavfel och språkbruk | Felstavning (en) | `alsoincludes` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `anotherstudent` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `compilinga` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `thesisand` (en) |
 <!-- analys:end -->
 
 # ASR29S
@@ -124,7 +120,7 @@ After completing the course the student should be able to independently
 
 ### Course Content
 
-The course includes planning, implementing and compilinga scientific study in sexual, reproductive and perinatal health in accordance with the different parts of a research process. The course alsoincludes defense of the thesisand critical review of anotherstudent‘s thesis. Examination is performed through halftime examination and degree thesis. If the thesis have several authors an individual performance assessment is done.
+The course includes planning, implementing and compiling a scientific study in sexual, reproductive and perinatal health in accordance with the different parts of a research process. The course also includes defense of the thesis and critical review of another student‘s thesis. Examination is performed through halftime examination and degree thesis. If the thesis have several authors an individual performance assessment is done.
 
 ### Assessment
 

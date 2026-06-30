@@ -9,20 +9,17 @@ amne: "Sexuell, reproduktiv och perinatal hälsa"
 amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV]
-scrape_hash: 031d9b0410d18216
+scrape_hash: eda77cc0ae64a619
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CR
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 8 mål, engelska: 5 mål (diff 3) |
-> | Stavfel och språkbruk | Felstavning (en) | `andother` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `carewithin` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `postpartumperiod` (en) |
 <!-- analys:end -->
 
 # ASR2CR
@@ -100,15 +97,15 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 Upon completion of the course, students will be able to:
 
-  - perform examinations and treatment in pregnancy, childbirth and the postpartumperiod in simulation-based training
+  - perform examinations and treatment in pregnancy, childbirth and the postpartum period in simulation-based training
 
   - reflect critically on the midwife´s role and responsibilities in relation to pregnancy, childbirth and the postpartum period, including neonatal care
 
   - explain and reflect on health concepts regarding complicated pregnancy, childbirth and postpartum period including neonatal care
 
-  - analyze and reflect on management related to pregnancy, childbirth and postpartum carewithin midwifery scope of practice
+  - analyze and reflect on management related to pregnancy, childbirth and postpartum care within midwifery scope of practice
 
-  - understand and explain how pharmacological treatments andother interventions can influence pregnancy, childbirth and the postpartum period.
+  - understand and explain how pharmacological treatments and other interventions can influence pregnancy, childbirth and the postpartum period.
 
 ### Course Content
 

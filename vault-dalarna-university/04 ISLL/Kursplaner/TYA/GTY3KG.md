@@ -10,7 +10,7 @@ amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 4c4ba91e7c783d2b
+scrape_hash: fce344e193ab65ec
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3KG
 up: "[[Tyska]]"
 ---
@@ -263,19 +263,22 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 ### Learning Outcomes
 
-The aim of the course is for students to develop basic knowledge of German and German-language culture and literature as they prepare for their future professional role as language teacher. A further overall aim is that students develop independence in their studies and the ability to reflect on their learning.
+The aim of the course is for students to develop basic knowledge of German and German-language culture and literature as they prepare for their future professional role as language teachers. A further overall aim is that students develop independence in their studies and the ability to reflect on their learning.
 
 ### Modules
 
 1.Oral Language Proficiency with Phonetics and Culture Studies I, 6 Credits
 
 On completion of the module, students will be able to:
- 
- 
-  -  interact in spoke German in different contexts 
-  - identify basic differences between Swedish and German pronunciation and reflect on these 
-  - compare the history, geography and society of German-speaking countries and relate these to their own experiences and reflect on cultural issues connected to German-speaking countries 
-  - carry out and respond to shorter oral and written presentations on current topics and use different presentation methods, as well as reflect on the work with written and oral presentations in school teaching 
+
+  - interact in spoken German in different contexts
+
+  - identify basic differences between Swedish and German pronunciation and reflect on these
+
+  - compare the history, geography and society of German-speaking countries and relate these to their own experiences, and reflect on cultural issues connected to German-speaking countries
+
+  - carry out and respond to short oral and written presentations on current topics and use different presentation methods, as well as reflect on the work with written and oral presentations in school teaching
+
   - comment on and discuss content and language in German-language films and other media.
 
 2.German Grammar, 7.5 Credits
@@ -284,7 +287,7 @@ On completion of the module, students will be able to:
 
   - identify, explain, and use fundamental grammatical concepts in German grammar
 
-  - analyze the function of the verb as the central element of the sentence and account for its significance for sentence structure
+  - analyse the function of the verb as the central element of the sentence and account for its significance for sentence structure
 
   - use digital and AI-based tools to investigate and explain linguistic structures in their own and others’ texts
 
@@ -297,10 +300,11 @@ On completion of the module, students will be able to:
 3.Modern Literature in German, 6 Credits
 
 On completion of the module, students will be able to:
- 
- 
-  - discuss contemporary literary texts and apply basic literary concepts 
-  - reflect on and analyse language, content and different genres in contemporary literary texts 
+
+  - discuss contemporary literary texts and apply basic literary concepts
+
+  - reflect on and analyse language, content and different genres in contemporary literary texts
+
   - reflect on how to work with literary texts in language teaching at different levels and with different age groups.
 
 4.Applied Text Analysis, 3 Credits
@@ -313,72 +317,81 @@ On completion of the module, students will be able to:
 
   - take a contrastive perspective in German versus Swedish
 
-  - reflect on the teaching and learning of written text production from a language didactic perspective
+  - reflect on the teaching and learning of written text production from a language-didactic perspective
 
 5.Language Learning and Teaching 1A, 7.5 Credits
 
-This module aims to give students an introduction to language didactics. The module provides a theoretical basis and complements the content of the other modules in preparation for students’ future professional role as langauge teacher.  
+This module aims to give students an introduction to language didactics. The module provides a theoretical basis and complements the content of the other modules in preparation for students’ future professional role as language teacher.  
 On completion of the module, students will be able to:
- 
- 
-  - discuss how the position of foreign languages in school and society has developed historically and is debated in the present day 
-  - explain central language-learning theories and discuss their importance for language teaching 
-  - describe the school’s governing documents with a particular focus on the syllabuses and subject curricula for modern languages 
+
+  - discuss how the position of foreign languages in school and society has developed historically and is currently debated
+
+  - explain central language-learning theories and discuss their importance for language teaching
+
+  - describe the school’s governing documents with a particular focus on the syllabuses and subject curricula for modern languages
+
   - in Swedish, discuss and reflect on language didactic issues relating to the selection of teaching materials and working methods in relation to the target group and the school’s governing documents.
 
 6.Language Learning and Teaching 1B, 7.5 Credits
 
-The aim of this module is for students to consolidate and deepen their language didactic knowledge and skills, and to develop familiarity with language teaching in primary and secondary school. The module also aims to increased awareness of pupils’ general and specific requirements for language learning. A further aim is for students to develop their ability to relate their other language studies to a professional perspective as language teacher.  
+The aim of this module is for students to consolidate and deepen their language didactic knowledge and skills, and to develop familiarity with language teaching in primary and secondary school. The module also aims to increase awareness of pupils’ general and specific requirements for language learning. A further aim is for students to develop their ability to relate their other language studies to a professional perspective as language teacher.  
 On completion of the module, students will be able to:
- 
- 
-  - discuss content and working methods for teaching with regard to the target group, the school’s governing documents and relevant research based on pupils’ need for knowledge and individual conditions for learning 
-  - discuss and decide on central language learning theories based on relevant and current research as well as their own experiences of language teaching 
-  - discuss and explain relevant assessments of pupils’ oral and written performances based on different theories of assessment and the school’s governing documents 
+
+  - discuss content and working methods for teaching with regard to the target group, the school’s governing documents and relevant research based on pupils’ need for knowledge and individual conditions for learning
+
+  - discuss and decide on central language learning theories based on relevant and current research, as well as on their own experiences of language teaching
+
+  - discuss and explain relevant assessments of pupils’ oral and written performances based on different theories of assessment and the school’s governing documents
+
   - discuss culture in language teaching, use different sources and critically decide on different interpretations of the concept of culture and intercultural competence.
 
 7.Language Learning and Teaching 2A, 7.5 Credits
 
 On completion of the module, students will be able to:
- 
- 
-  - reflect on pupils’ views on and experiences of their language learning and discuss how language teaching should be designed to benefit pupils’ language development based on theories and research on foreign language learning 
-  - discuss assessment in language teaching based on the school’s governing documents and theories on assessment 
-  - explain the background to the school’s governing document with a focus on European cooperation and the Common European Framework of Reference (CEFR) 
-  - discuss and reflect on the interplay between internal and external factors that are linked to the student, the teacher and the concrete teaching situation and how these can be addressed by choosing content and relevant working methods in language teaching 
-  - analyse and critically review teaching materials for teaching German as a foreign language from a language didactic perspective and in relation to the school’s governing documents 
-  - describe different forms of digital tools and discuss how they can be used in teaching to develop the subject’s content and teaching methods as well as pupils’ learning, and also practically apply these in their own learning.
+
+  - reflect on pupils’ views on and experiences of their language learning and discuss how language teaching should be designed to benefit pupils’ language development based on theories and research on foreign language learning
+
+  - discuss assessment in language teaching based on the school’s governing documents and theories on assessment
+
+  - explain the background to the school’s governing document with a focus on European cooperation and the Common European Framework of Reference (CEFR)
+
+  - discuss and reflect on the interplay between internal and external factors that are linked to the student, the teacher, and the concrete teaching situation, and how these can be addressed by choosing content and relevant working methods in language teaching
+
+  - analyse and critically review teaching materials for teaching German as a foreign language from a language-didactic perspective and in relation to the school’s governing documents
+
+  - describe different forms of digital tools and discuss how they can be used in teaching to develop the subject’s content and teaching methods, as well as pupils’ learning, and also practically apply these in their own learning.
 
 8.Language Learning and Teaching 2B, 7.5 Credits
 
 On completion of the module, students will be able to:
- 
- 
-  - independently choose relevant content and working methods in the planning of language teaching in relation to pupils’ different needs and backgrounds and in relation to the school’s governing documents and relevant research 
-  - describe the Common European Framework of Reference for Languages (CEFR) and make relevant assessments of pupils’ language skills in relation to CEFR and to the school’s governing documents 
-  - explain how digital tools can be used in language teaching, explain the importance of digital development for the content and working methods of language teaching, and apply digital tools in teaching based on relevant language didactic research 
-  - explain central language didactic research areas and research methods 
-  - formulate a relevant research question within a defined problem area that is connected to language teaching in primary and secondary schools and develop a method to investigate the question 
+
+  - independently choose relevant content and working methods in the planning of language teaching in relation to pupils’ different needs and backgrounds and in relation to the school’s governing documents and relevant research
+
+  - describe the Common European Framework of Reference for Languages (CEFR) and make relevant assessments of pupils’ language skills in relation to CEFR and to the school’s governing documents
+
+  - explain how digital tools can be used in language teaching, explain the importance of digital development for the content and working methods of language teaching, and apply digital tools in teaching based on relevant language-didactic research
+
+  - explain central language-didactic research areas and research methods
+
+  - formulate a relevant research question within a defined problem area that is connected to language teaching in primary and secondary schools, and develop a method to investigate the question
+
   - prepare, lead and evaluate a discussion that is about selected content.
 
 ### Course Content
 
 The course consists of four obligatory modules:  
 Module 1. Oral Language Proficiency with Phonetics and Culture Studies I, 6 credits  
-Module 2. German Grammar, 6 credits  
+Module 2. German Grammar, 7.5 credits  
 Module 3. Modern Literature in German, 6 credits  
-Module 4. Written Language Proficiency I, 6 credits
- 
+Module 4. Written Language Proficiency I, 3 credits
 
 Students then choose one of the four modules that focus on language learning and teaching:  
-Module 5. Language Learning and Teaching 1A, 6 credits  
-Module 6. Language Learning and Teaching 1B, 6 credits  
-Module 7. Language Learning and Teaching 2A, 6 credits  
-Module 8. Language Learning and Teaching 2B, 6 credits
- 
+Module 5. Language Learning and Teaching 1A, 7.5 credits  
+Module 6. Language Learning and Teaching 1B, 7.5 credits  
+Module 7. Language Learning and Teaching 2A, 7.5 credits  
+Module 8. Language Learning and Teaching 2B, 7.5 credits
 
 The modules Language Learning and Teaching 1 and Language Learning and Teaching 2 can be taken in any order. They are normally offered once a year.
- 
 
 Students who are studying **German as their first subject** AND students who have studied **a subject other than language as their first subject** take module 5, Language Learning and Teaching 1A or module 7, Language Learning and Teaching 2A.  
 Students who have studied **another language as their first subject** take module 6, Language Learning and Teaching 1B or module 8, Language Learning and Teaching 2B.
@@ -387,11 +400,11 @@ Students who have studied **another language as their first subject** take modul
 
 1.Oral Language Proficiency with Phonetics and Culture Studies I, 6 Credits
 
-This module contains a review of elementary phonetics and the principles of German pronunciation from a contrastive perspective. It includes exercises in understanding German speech and in communicating in German in different situations and in different subject areas. Great emphasis is placed on the active practice of vocabulary and phraseology related to everyday situations. The module includes an overall introduction to the history, geography and society of German-speaking countries. By investigating and discussing current social issues, students get an additional opportunity to practise their spoken German, whereby comparisons are also made with Swedish circumstances.
+This module contains a review of elementary phonetics and the principles of German pronunciation, especially from a contrastive perspective. It includes exercises in understanding German speech and in communicating in German in different situations and in different subject areas. Great emphasis is placed on the active practice of vocabulary and phraseology related to everyday situations. The module includes an overall introduction to the history, geography, and society of German-speaking countries. By investigating and discussing current social issues, students get an additional opportunity to practise their spoken German, whereby comparisons are also made with Swedish circumstances.
 
 2.German Grammar, 7.5 Credits
 
-The course covers fundamental concepts in German grammar, with particular focus on the function of the verb as the central element of the sentence. The aim is to provide a foundation for the identification, analysis, and use of grammatical structures, as well as to develop a conscious understanding of language structure. Through theoretical instruction and practical application exercises, the ability to identify, analyze, and use grammatical structures is trained, with the goal of strengthening accurate and conscious language use. The course also introduces digital and AI-based tools as support for grammatical analysis and language learning, with a focus on reflective and critical use. In addition, the course includes components intended to support reflection on the students’ own learning process and the development of strategies for continued grammar learning. The course also addresses didactic challenges related to the teaching of grammar in schools and introduces strategies and approaches for planning and implementing grammar instruction.
+The course covers fundamental concepts in German grammar, with particular focus on the function of the verb as the central element of the sentence. The aim is both to provide a foundation for the identification, analysis, and use of grammatical structures, as well as to develop a conscious understanding of language structure. Through theoretical instruction and practical application exercises, students practice the ability to identify, analyze, and use grammatical structures, with the aim of strengthening accurate and conscious language use. The course also introduces digital and AI-based tools as support for grammatical analysis and language learning, with a focus on reflective and critical use. In addition, the course includes components intended to support reflection on the students’ own learning process and the development of strategies for continued grammar learning. The course also addresses didactic challenges related to the teaching of grammar in schools and introduces strategies and approaches for planning and implementing grammar instruction.
 
 3.Modern Literature in German, 6 Credits
 
@@ -399,30 +412,32 @@ The module includes the study of modern prose and poetry from the German-speakin
 
 4.Applied Text Analysis, 3 Credits
 
-This module focuses on developing the ability to critically analyze texts from a linguistic perspective and to deepen knowledge of the structure of German. It also fosters the ability to adopt a contrastive perspective in relation to Swedish to highlight similarities and differences between the languages. In addition, the course addresses reflection on the role of textanalys in the teaching of German as a foreign language.
+This module focuses on developing the ability to critically analyse texts from a linguistic perspective and to deepen knowledge of the structure of German. It also fosters the ability to adopt a contrastive perspective in relation to Swedish to highlight similarities and differences between the languages. In addition, the course addresses reflection on the role of text analysis in the teaching of German as a foreign language.
 
 5.Language Learning and Teaching 1A, 7.5 Credits
 
-This module constitutes an introduction to language didactics and to the central questions concerning the content and design of language teaching in relation to pupils’ different conditions for language learning and the school’s governing documents. The role and development of foreign languages in Swedish schools is treated in a historical retrospective. Central elements are a basic study of theories about language learning and discussions about language didactic issues. By also studying current governing documents in the form of curricula and syllabuses for modern languages, the relationship between the theories and the content of the school subject is treated. In this way, the content of the other modules is linked to the future profession and the concrete teaching situation as well as to the demands placed on the language teacher at school.
+This module constitutes an introduction to language didactics and to the central questions concerning the content and design of language teaching in relation to pupils’ different conditions for language learning and the school’s governing documents. The role and development of foreign languages in Swedish schools is covered in a historical retrospective. Central elements are a basic study of theories about language learning and discussions about language didactic issues. By also studying current governing documents in the form of curricula and syllabuses for modern languages, the relationship between the theories and the content of the school subject is covered. In this way, the content of the other modules is linked to the future profession and the concrete teaching situation as well as to the demands placed on the language teacher at school.
 
 6.Language Learning and Teaching 1B, 7.5 Credits
 
-The module involves an in-depth study of language didactic theories linked to various aspects of language learning and language teaching and a discussion of the relevance of these theories for language teaching. Students compare different theories on and models for language learning and gain insight into national and international research on multilingualism. Through practical exercises, students’ improve their scholarly approach and increase their ability to independently evaluate different theories. Students immerse themselves in the school’s governing documents and various theories about assessment and practices using different assessment models that are used in language teaching. Using practical exercises, students work on their ability to teach about cultural phenomena and to apply theoretical knowledge about the role of culture in language teaching.
+This module involves an in-depth study of language-didactic theories linked to various aspects of language learning and language teaching and a discussion of the relevance of these theories for language teaching. Students compare different theories on and models for language learning and gain insight into national and international research on multilingualism. Through practical exercises, students’ improve their scholarly approach and increase their ability to independently evaluate different theories. Students immerse themselves in the school’s governing documents and in various theories about assessment and practices using different assessment models that are used in language teaching. Using practical exercises, students work on their ability to teach about cultural phenomena and to apply theoretical knowledge about the role of culture in language teaching.
 
 7.Language Learning and Teaching 2A, 7.5 Credits
 
-This module contains studies of different aspects of language learning where discussion and reflection on didactic issues are central. Pupils’ linguistic awareness and how they perceive their situation as language learners is treated. The module invites reflection on and discussion about the awareness of students’ language learning and how this knowledge can be used in language teaching. Different aspects of assessment and grading in languages form another important feature of the module. The Common European Framwork of Reference (CEFR) is treated and put in relation to the Swedish school’s curricula for modern languages. The module also includes studies of how digital tools can be used in language teaching and also includes the review of other types of teaching materials. The content of the module connects with the other studies in the subject of German and to the students’ future professional role.
+This module contains studies of different aspects of language learning where discussion and reflection on didactic issues are central. Pupils’ linguistic awareness and how they perceive their situation as language learners is covered. The module invites reflection on and discussion about the awareness of students’ language learning and how this knowledge can be used in language teaching. Different aspects of assessment and grading in languages form another important feature of the module. The Common European Framwork of Reference (CEFR) is discussed and put in relation to the Swedish school’s curricula for modern languages. The module also includes studies of how digital tools can be used in language teaching and also includes a review of other types of teaching materials. The content of the module connects with the other studies in the subject of German and with the students’ future professional role.
 
 8.Language Learning and Teaching 2B, 7.5 Credits
 
-This module involves an in-depth study of language didactic theories and research with a particular focus on the importance of new media for language teaching in terms of both the content of the subject and its teaching methods. The module provides tools to independently plan, implement and evaluate language teaching as well as to use and critically decide on digital tools as a resource for pupils’ learning. The Common European Framework of Reference for Languages (CEFR) is studied from an assessment perspective, and students also get to practise how it can be used in the assessment of pupils’ knowledge and skills in relation to the school’s governing documents. The course introduces central research areas and research methods in language didactics, and students work on their ability to formulate a relevant research question within a defined area and to describe a relevant method to answer the question.
+This module involves an in-depth study of language didactic theories and research with a particular focus on the importance of new media for language teaching in terms of both the content of the subject and its teaching methods. The module provides tools to independently plan, implement and evaluate language teaching as well as to use and critically decide on digital tools as a resource for pupils’ learning. The Common European Framework of Reference for Languages (CEFR) is studied from an assessment perspective, and students also practise how it can be used in the assessment of pupils’ knowledge and skills in relation to the school’s governing documents. The course introduces central research areas and research methods in language didactics, and students work on their ability to formulate a relevant research question within a defined area and to describe a relevant method to answer the question.
 
 ### Assessment
 
-- Active participation in seminars 
-  - Written assignments 
-  - Oral assignments 
-  - Written presentations 
+- Continuous oral examination in seminars
+
+  - Written assignments
+
+  - Oral assignments
+
   - Oral presentations
 
 ### Grades

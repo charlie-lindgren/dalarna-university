@@ -10,7 +10,7 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: ff653713c22de250
+scrape_hash: 6b5f7de65ea36ea7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2CU
 up: "[[Engelska]]"
 ---
@@ -94,21 +94,21 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 On completion of the course, students will be able to:
 
-  - demonstrate knowledge of methodology and theory as well as insight into current research issues within the field of intercultural literature studies
+  - demonstrate knowledge of methodology and theory, as well as insight into current research issues within the field of intercultural literature studies
 
   - analyse and work with relevant phenomena and questions
 
-  - develop a research question within the field intercultural literary studies and independently search for, collect, evaluate, and critically interpret and analyse, relevant information
+  - develop a research question within the field of intercultural literature studies and independently search for, collect, evaluate, and critically interpret and analyse relevant information
 
-  - complete an independent literary study of scholarly value within a set timeframe that is characterised by both a connection to current research, a competent application of method and theory as well as strong argumentation based on advanced literary analyses
+  - complete an independent literary study of scholarly value within a set timeframe that is characterised by a connection to current research and a competent application of method and theory, as well as strong argumentation based on advanced literary analyses
 
   - orally and in writing present and argue for their own results in a way that demonstrates a high level of communicative competence
 
-  - critically analyse and discuss the scholarly work of others in the form of constructive response.
+  - critically analyse and discuss the scholarly work of others in the form of a constructive response.
 
 ### Course Content
 
-Students carry out an independent literary study of a well-defined research topic that is relevant to the field of intercultural literary studies. The study is to be written in English and presented in the form of an independently written thesis of 11 000 to 13 000 words. Students also practice oral presentation and defence of their results and arguments, as well as the analysis of other students’ work.
+Students carry out an independent literary study of a well-defined research topic that is relevant to the field of intercultural literature studies. The study is to be written in English and presented in the form of an independently written thesis of 11 000 to 13 000 words. Students also practise giving an oral presentation and defending their results and arguments, as well as analysing other students’ work.
 
 ### Assessment
 

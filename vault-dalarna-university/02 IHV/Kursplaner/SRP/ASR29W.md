@@ -8,19 +8,18 @@ huvudomrade: "Sexuell, reproduktiv och perinatal hälsa 1"
 amne: "Sexuell, reproduktiv och perinatal hälsa"
 amne_kod: "SRP"
 institution: "IHV"
-tags: [kursplan, SRP, IHV]
-scrape_hash: 2789132e5785f0cc
+tags: [kursplan, SRP, IHV, forskarutbildning]
+scrape_hash: df3413626fc2cae3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29W
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Omfång på lärandemål | Långt mål | 26 ord: - aktivt delta i vård av kvinnor med normal graviditet inför, under och efter fö… |
-> | Stavfel och språkbruk | Felstavning (en) | `ofa` (en) |
 <!-- analys:end -->
 
 # ASR29W
@@ -130,7 +129,7 @@ After completing the course students should be able to
 
 ### Course Content
 
-The course includes studies regarding clinical and theoretical knowledge associated with normal pregnancy and expected uncomplicated childbirth. The course also includes identifying and meeting the woman‘s, her partner‘s and newborn child‘s care needs in relation to and in connection with childbirth. Moreover, to implement practical hand grips, relevant assessment methods and medical management during labor under the mentoring ofa professional supervisor. Also included in this course is the assessment of the woman‘s, the healthy newborn child‘s and relative‘s need of support and security and to provide adequate counseling, and also to make observations of normal and abnormal conditions before, during and after childbirth. Training is provided in planning and taking action in response to observations made and evaluate provided care, and to document care in accordance with laws and regulations.
+The course includes studies regarding clinical and theoretical knowledge associated with normal pregnancy and expected uncomplicated childbirth. The course also includes identifying and meeting the woman‘s, her partner‘s and newborn child‘s care needs in relation to and in connection with childbirth. Moreover, to implement practical hand grips, relevant assessment methods and medical management during labor under the mentoring of a professional supervisor. Also included in this course is the assessment of the woman‘s, the healthy newborn child‘s and relative‘s need of support and security and to provide adequate counseling, and also to make observations of normal and abnormal conditions before, during and after childbirth. Training is provided in planning and taking action in response to observations made and evaluate provided care, and to document care in accordance with laws and regulations.
 
 ### Assessment
 

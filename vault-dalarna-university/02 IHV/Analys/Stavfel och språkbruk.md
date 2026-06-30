@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (51 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (17 rader)</span></a>
 
-> [!example]- 51 fynd — klicka för att expandera
+> [!example]- 17 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -18,37 +18,7 @@ status: första pass
 > | [GSA2XN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2XN) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA2XN">sida</a> | SAA | 2022-09-08 | — | Felstavning (en) | `guidlines` (en) |
 > | [SA2020](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SA2020) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/SA2020">sida</a> | SAA | 2014-12-23 | — | Felstavning | `fördjuping` (sv) |
 > | [ASR22N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR22N) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR22N">sida</a> | SRP | 2018-12-06 | — | Felstavning (en) | `ethtical` (en) |
-> | [ASR29S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29S) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR29S">sida</a> | SRP | 2023-10-03 | — | Felstavning (en) | `alsoincludes` (en) |
-> | [ASR29S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29S) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR29S">sida</a> | SRP | 2023-10-03 | — | Felstavning (en) | `anotherstudent` (en) |
-> | [ASR29S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29S) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR29S">sida</a> | SRP | 2023-10-03 | — | Felstavning (en) | `compilinga` (en) |
-> | [ASR29S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29S) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR29S">sida</a> | SRP | 2023-10-03 | — | Felstavning (en) | `thesisand` (en) |
-> | [ASR29T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29T) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR29T">sida</a> | SRP | 2023-10-03 | — | Felstavning (en) | `beable` (en) |
-> | [ASR29T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29T) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR29T">sida</a> | SRP | 2023-10-03 | — | Felstavning (en) | `processesof` (en) |
-> | [ASR29T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29T) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR29T">sida</a> | SRP | 2023-10-03 | — | Felstavning (en) | `thestudent` (en) |
-> | [ASR29T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29T) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR29T">sida</a> | SRP | 2023-10-03 | — | Felstavning (en) | `toconduct` (en) |
-> | [ASR29U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29U) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR29U">sida</a> | SRP | 2023-10-03 | — | Felstavning (en) | `ofthe` (en) |
-> | [ASR29U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29U) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR29U">sida</a> | SRP | 2023-10-03 | — | Felstavning (en) | `postpartumperiod` (en) |
-> | [ASR29U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29U) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR29U">sida</a> | SRP | 2023-10-03 | — | Felstavning (en) | `srole` (en) |
-> | [ASR29V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29V) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR29V">sida</a> | SRP | 2023-10-03 | — | Felstavning (en) | `carrid` (en) |
-> | [ASR29V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29V) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR29V">sida</a> | SRP | 2023-10-03 | — | Felstavning (en) | `focsing` (en) |
-> | [ASR29V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29V) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR29V">sida</a> | SRP | 2023-10-03 | — | Felstavning (en) | `havng` (en) |
-> | [ASR29V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29V) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR29V">sida</a> | SRP | 2023-10-03 | — | Felstavning (en) | `situaion` (en) |
-> | [ASR29V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29V) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR29V">sida</a> | SRP | 2023-10-03 | — | Felstavning (en) | `traied` (en) |
-> | [ASR29W](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29W) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR29W">sida</a> | SRP | 2023-10-03 | — | Felstavning (en) | `ofa` (en) |
-> | [ASR2CF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CF) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR2CF">sida</a> | SRP | 2026-03-11 | — | Felstavning | `förforskningsområdet` (sv) |
-> | [ASR2CF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CF) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR2CF">sida</a> | SRP | 2026-03-11 | — | Felstavning | `reproduktivhälsaoch` (sv) |
-> | [ASR2CH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CH) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR2CH">sida</a> | SRP | 2026-03-11 | — | Felstavning (en) | `perspectiv` (en) |
-> | [ASR2CJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CJ) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR2CJ">sida</a> | SRP | 2026-03-11 | — | Felstavning (en) | `servises` (en) |
-> | [ASR2CR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CR) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR2CR">sida</a> | SRP | 2026-05-28 | — | Felstavning (en) | `andother` (en) |
-> | [ASR2CR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CR) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR2CR">sida</a> | SRP | 2026-05-28 | — | Felstavning (en) | `carewithin` (en) |
-> | [ASR2CR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CR) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR2CR">sida</a> | SRP | 2026-05-28 | — | Felstavning (en) | `postpartumperiod` (en) |
-> | [ASR2CS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CS) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR2CS">sida</a> | SRP | 2026-05-28 | — | Felstavning (en) | `beable` (en) |
-> | [GSR2A5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSR2A5) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/GSR2A5">sida</a> | SRP | 2019-06-19 | 2021-02-19 | Felstavning | `väderingar` (sv) |
 > | [GSR2A5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSR2A5) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/GSR2A5">sida</a> | SRP | 2019-06-19 | 2021-02-19 | Felstavning (en) | `adolscents` (en) |
-> | [SR3001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SR3001) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/SR3001">sida</a> | SRP | 2016-10-05 | — | Felstavning | `hälsodeterminaters` (sv) |
-> | [SR3006](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SR3006) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/SR3006">sida</a> | SRP | 2016-10-05 | — | Felstavning (en) | `interferential` (en) |
-> | [SR3010](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SR3010) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/SR3010">sida</a> | SRP | 2016-10-12 | 2017-10-05 | Felstavning | `hållbarhetsperpektiv` (sv) |
-> | [SR3010](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SR3010) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/SR3010">sida</a> | SRP | 2016-10-12 | 2017-10-05 | Felstavning | `övergripade` (sv) |
 > | [VBSKA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VBSKA) | <a class="no-graph" href="02-IHV/Utbildningsplaner/VBSKA">sida</a> | Utbildningsplaner | 2019-09-10 | — | Felstavning | `europarådets` (sv) |
 > | [VBSKA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VBSKA) | <a class="no-graph" href="02-IHV/Utbildningsplaner/VBSKA">sida</a> | Utbildningsplaner | 2019-09-10 | — | Felstavning | `postpartumvård` (sv) |
 > | [VBSKA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VBSKA) | <a class="no-graph" href="02-IHV/Utbildningsplaner/VBSKA">sida</a> | Utbildningsplaner | 2019-09-10 | — | Felstavning | `ternström` (sv) |
@@ -61,10 +31,6 @@ status: första pass
 > | [VSOPG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSOPG) | <a class="no-graph" href="02-IHV/Utbildningsplaner/VSOPG">sida</a> | Utbildningsplaner | 2021-02-04 | — | Felstavning | `hälso` (sv) |
 > | [VSSKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSSKG) | <a class="no-graph" href="02-IHV/Utbildningsplaner/VSSKG">sida</a> | Utbildningsplaner | 2018-12-04 | 2020-12-17 | Felstavning | `engström` (sv) |
 > | [VSSKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSSKG) | <a class="no-graph" href="02-IHV/Utbildningsplaner/VSSKG">sida</a> | Utbildningsplaner | 2018-12-04 | 2020-12-17 | Felstavning | `hälso` (sv) |
-> | [VV3011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3011) | <a class="no-graph" href="02-IHV/Kursplaner/VÅE/VV3011">sida</a> | VÅE | 2010-06-01 | 2010-10-18 | Felstavning | `livsstilförändring` (sv) |
-> | [VV3011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=VV3011) | <a class="no-graph" href="02-IHV/Kursplaner/VÅE/VV3011">sida</a> | VÅE | 2010-06-01 | 2010-10-18 | Felstavning | `själständigt` (sv) |
-> | [FHV0002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0002) | <a class="no-graph" href="02-IHV/Kursplaner/VÅRDVETS/FHV0002">sida</a> | VÅRDVETS | 2018-03-28 | 2022-09-28 | Felstavning | `valitetsbedömning` (sv) |
-> | [FVV222H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FVV222H) | <a class="no-graph" href="02-IHV/Kursplaner/VÅRDVETS/FVV222H">sida</a> | VÅRDVETS | 2022-04-28 | 2023-01-19 | Felstavning (en) | `isues` (en) |
 
 ## Syfte
 

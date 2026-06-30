@@ -8,23 +8,19 @@ huvudomrade: "Sexuell, reproduktiv och perinatal hälsa 1"
 amne: "Sexuell, reproduktiv och perinatal hälsa"
 amne_kod: "SRP"
 institution: "IHV"
-tags: [kursplan, SRP, IHV]
-scrape_hash: a7b2b5d3a75626b4
+tags: [kursplan, SRP, IHV, forskarutbildning]
+scrape_hash: 956242827637d6d1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29T
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Omfång på lärandemål | Långt mål | 26 ord: - problematisera och reflektera över kvinnans, barnets och närståendes roller oc… |
 > | Omfång på lärandemål | Långt mål | 28 ord: - i simulerad miljö utföra undersökningar och behandlingar vid handläggning av o… |
-> | Stavfel och språkbruk | Felstavning (en) | `beable` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `processesof` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `thestudent` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `toconduct` (en) |
 <!-- analys:end -->
 
 # ASR29T
@@ -94,9 +90,9 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 ### Learning Outcomes
 
-The overall aim of the course is for thestudent to understand the procedures and processesof uncomplicated pregnancy, childbirth and postpartum care in a sustainable perspective. The student shall be able toconduct examinations and provide treatments related to these processes in simulation-bases training based on research and the midwifery scope of practice.  
+The overall aim of the course is for the student to understand the procedures and processes of uncomplicated pregnancy, childbirth and postpartum care in a sustainable perspective. The student shall be able to conduct examinations and provide treatments related to these processes in simulation-bases training based on research and the midwifery scope of practice.  
   
-Upon completion of the course, studenta will beable to:
+Upon completion of the course, students will be able to:
 
   - demonstrate an understanding of how psychosocial aspects, attachment and bonding can affect the process of becoming parent and family formation
 

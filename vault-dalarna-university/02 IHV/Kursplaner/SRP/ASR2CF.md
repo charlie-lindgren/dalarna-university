@@ -9,19 +9,10 @@ amne: "Sexuell, reproduktiv och perinatal hälsa"
 amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV]
-scrape_hash: b8787917cf98f626
+scrape_hash: 7fd0a82ba94422d8
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CF
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning | `förforskningsområdet` (sv) |
-> | Stavfel och språkbruk | Felstavning | `reproduktivhälsaoch` (sv) |
-<!-- analys:end -->
 
 # ASR2CF
 
@@ -50,7 +41,7 @@ Efter godkänd kurs ska studenten kunna:
 
 ## Innehåll
 
-I kursen studeras forskningsmetoder och etik i forskningsprocessen som är relevant förforskningsområdet global sexuell, reproduktivhälsaoch rättigheter.
+I kursen studeras forskningsmetoder och etik i forskningsprocessen som är relevant för forskningsområdet global sexuell, reproduktiv hälsa och rättigheter.
 
 ## Examinationsformer
 
