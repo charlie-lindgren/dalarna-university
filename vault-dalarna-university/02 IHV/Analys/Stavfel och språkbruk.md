@@ -8,17 +8,13 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (5 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (1 rader)</span></a>
 
-> [!example]- 5 fynd — klicka för att expandera
+> [!example]- 1 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
-> | [GIH334](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH334) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH334">sida</a> | IDA | 2023-02-07 | — | Felstavning (en) | `collaboratation` (en) |
 > | [GSA2XN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2XN) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA2XN">sida</a> | SAA | 2022-09-08 | — | Felstavning (en) | `guidlines` (en) |
-> | [SA2020](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SA2020) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/SA2020">sida</a> | SAA | 2014-12-23 | — | Felstavning | `fördjuping` (sv) |
-> | [ASR22N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR22N) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR22N">sida</a> | SRP | 2018-12-06 | — | Felstavning (en) | `ethtical` (en) |
-> | [GSR2A5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSR2A5) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/GSR2A5">sida</a> | SRP | 2019-06-19 | 2021-02-19 | Felstavning (en) | `adolscents` (en) |
 
 ## Syfte
 

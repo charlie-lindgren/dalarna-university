@@ -10,19 +10,18 @@ amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: d80a8824e0b10fd7
+scrape_hash: 07f80f8d9c24785d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSR2A5
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom individuella skriftliga inlämningsuppgifter samt examinerande seminarium med skriftlig inlämning… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna… |
-> | Stavfel och språkbruk | Felstavning (en) | `adolscents` (en) |
 > | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
 <!-- analys:end -->
 
@@ -98,7 +97,7 @@ Upon completion of the course, students will be able to:
 
   - demonstrate knowledge of adolescent and young adult reproductive health from a sustainable perspective
 
-  - describe the physical and psychological development of adolscents and young adults
+  - describe the physical and psychological development of adolescents and young adults
 
   - discuss threats, violence, and abuse from a diversity perspective
 

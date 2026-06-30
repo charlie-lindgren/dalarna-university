@@ -10,20 +10,19 @@ amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 6e547ce1e86968e8
+scrape_hash: 92179333d9ebb3d7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR22N
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Bloom-taxonomi | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [4,1,1,0,0,0] |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig och muntlig presentation av ett projekt.… |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande ska kunna identifiera barnmorskelärarens roll i att planera och genomföra… |
-> | Stavfel och språkbruk | Felstavning (en) | `ethtical` (en) |
 > | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
 <!-- analys:end -->
 
@@ -95,7 +94,7 @@ After completing the course, the student will be able to:
 
   - summarize background data for a project through a literature review
 
-  - carry out a project taking into account ethtical principles
+  - carry out a project taking into account ethical principles
 
   - present in writing and orally the planning and implementation phases of the project.
 

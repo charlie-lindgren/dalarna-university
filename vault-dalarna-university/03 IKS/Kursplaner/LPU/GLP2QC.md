@@ -8,11 +8,12 @@ huvudomrade: "Ljud- och musikproduktion 1"
 amne: "Ljud- och musikproduktion"
 amne_kod: "LPU"
 institution: "IKS"
-tags: [kursplan, LPU, IKS, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, LPU, IKS, stray, nedlagd]
+cssclasses: [nedlagd]
 scrape_hash: 2c76e3eac584a111
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2QC
 up: "[[Ljud- och musikproduktion]]"
+draft: true
 ---
 
 <!-- analys:start -->
