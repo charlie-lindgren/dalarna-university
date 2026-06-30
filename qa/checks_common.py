@@ -288,6 +288,10 @@ SV_IGNORE = {
     "inlärartal","läsförkunskaper","närstudiet","verbalspråket","förvärvda",
     "framträdandeform","skalfrågor","kartöverlägg","historiedidaktikområdet",
     "utanförperspektiv","föräldrablivande","gävle",
+    # QC 2026-06-30 — giltiga sammansättningar/facktermer/egennamn (ej stavfel)
+    "europarådets","ternström","postpartumvård","hälso",
+    "levnadsvaneförändring","levnadsvaneförändringar","engström",
+    "ätandeproblem",
 }
 HAS_SV = re.compile(r"[åäöÅÄÖ]")
 

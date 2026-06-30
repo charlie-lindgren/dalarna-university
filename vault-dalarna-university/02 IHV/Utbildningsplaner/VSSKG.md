@@ -10,13 +10,11 @@ up: "IHV"
 ---
 
 <!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Introduktion omvårdnad och etik - Huvudområde Omvårdnad` → `VÅ1061` (nedlagd 2025-06-03) — plain-text-referens |
-> | Stavfel och språkbruk | Felstavning | `engström` (sv) |
-> | Stavfel och språkbruk | Felstavning | `hälso` (sv) |
 <!-- analys:end -->
 
 # VSSKG
