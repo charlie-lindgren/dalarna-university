@@ -8,7 +8,6 @@ up: "[[IIT]]"
 # Datavetenskaper
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
-> Huvudområde: Datavetenskaper 1
 
 ## Vilande kursplaner (4 st)
 

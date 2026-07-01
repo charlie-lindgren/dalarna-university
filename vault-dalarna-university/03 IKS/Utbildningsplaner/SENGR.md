@@ -9,20 +9,6 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SENGR
 up: "IKS"
 ---
 
-<!-- analys:start -->
-> [!warning]- 7 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Makroekonomi introduktion` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Mikroekonomi introduktion` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Mikroekonomi fortsättningskurs` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Makroekonomi fortsättning` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Samhällsekonomisk utvärdering av offentliga projekt` (7,5 hp) |
-> | Stavfel och språkbruk | Felstavning | `utgångpunkt` (sv) |
-> | Stavfel och språkbruk | Felstavning | `väldfärdsanalys` (sv) |
-<!-- analys:end -->
-
 # SENGR
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SENGR)

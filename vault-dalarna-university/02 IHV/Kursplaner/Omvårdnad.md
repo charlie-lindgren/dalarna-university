@@ -7,8 +7,7 @@ up: "[[IHV]]"
 
 # Omvårdnad
 
-> Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
-> Huvudområde: Omvårdnad 1
+> Forskarutbildningsämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 
 ## Kurser (37 st)
 

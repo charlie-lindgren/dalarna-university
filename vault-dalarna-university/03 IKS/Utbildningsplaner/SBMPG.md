@@ -9,15 +9,6 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SBMPG
 up: "IKS"
 ---
 
-<!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Makroekonomi introduktion` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Mikroekonomi introduktion` (7,5 hp) |
-<!-- analys:end -->
-
 # SBMPG
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SBMPG)

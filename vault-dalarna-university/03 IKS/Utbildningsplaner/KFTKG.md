@@ -9,14 +9,6 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFTKG
 up: "IKS"
 ---
 
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning | `åsa` (sv) |
-<!-- analys:end -->
-
 # KFTKG
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFTKG)

@@ -9,14 +9,6 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VGSEA
 up: "IHV"
 ---
 
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Strategier för implementering av förbättringsarbete i hälso-sjukvård` (7,5 hp) |
-<!-- analys:end -->
-
 # VGSEA
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VGSEA)

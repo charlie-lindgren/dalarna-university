@@ -8,7 +8,6 @@ up: "[[IKS]]"
 # Pedagogik
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
-> Huvudområde: Ej huvudområde 1
 
 ## Vilande kursplaner (44 st)
 

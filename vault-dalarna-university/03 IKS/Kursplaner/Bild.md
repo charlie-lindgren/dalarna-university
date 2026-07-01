@@ -7,8 +7,7 @@ up: "[[IKS]]"
 
 # Bild
 
-> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
-> Huvudområde: Ej huvudområde 1
+> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
 ## Kurser (7 st)
 
