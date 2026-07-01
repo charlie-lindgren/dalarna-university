@@ -9,6 +9,23 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KAPSG
 up: "IKS"
 ---
 
+<!-- analys:start -->
+> [!warning]- 10 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Introduktion till audiovisuell produktion` → `GLP239` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Audiovisuellt berättande` → `GLP23B` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Audiovisuell komposition` → `GLP23A` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Audiovisuell gestaltning` → `GLP234` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Vetenskaplig uppsats i Ljud- och musikproduktion` → `LP1065` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Audiovisuella installationer` → `GLP235` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Audiovisuell performance` → `GLP236` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Kommunikationsteorier` → `GLP2MS` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Arbetsplatsförlagd utbildning i medieproduktion` → `GLP2QD` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
+> | Stavfel och språkbruk | Felstavning | `jörgensen` (sv) |
+<!-- analys:end -->
+
 # KAPSG
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KAPSG)

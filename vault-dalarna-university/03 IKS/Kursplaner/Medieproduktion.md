@@ -7,7 +7,8 @@ up: "[[IKS]]"
 
 # Medieproduktion
 
-> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Huvudområde: Ej huvudområde 1
 
 ## Kurser (26 st)
 
