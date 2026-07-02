@@ -20,6 +20,7 @@ BOLD='\033[1m'
 CYAN='\033[0;36m'
 GREEN='\033[0;32m'
 YELLOW='\033[0;33m'
+RED='\033[0;31m'
 MAGENTA='\033[0;35m'
 RESET='\033[0m'
 
@@ -55,8 +56,8 @@ print_menu() {
     echo -e "   ${BOLD}13.${RESET}  Rensa analysfilerna (ta bort lösta fynd)"
     echo -e "   ${BOLD}14.${RESET}  ${BOLD}Kör alla QC-steg${RESET} (9 + 10 + 12)"
     echo ""
-    echo -e "  ${MAGENTA}${BOLD}Bygg${RESET}"
-    echo -e "   ${BOLD}15.${RESET}  Bygg Quartz-sajten (public/)"
+    echo -e "  ${MAGENTA}${BOLD}Bygg & publicera${RESET}"
+    echo -e "   ${BOLD}15.${RESET}  ${BOLD}Publicera sajten online${RESET} (commit + push → GitHub Pages)"
     echo -e "   ${BOLD}16.${RESET}  Bygg & förhandsvisa sajten lokalt"
     echo ""
     echo -e "    ${BOLD}q.${RESET}  Avsluta"
@@ -216,6 +217,45 @@ run_serve_site() {
     fi
     echo -e "${YELLOW}Kör npx quartz build --serve (Ctrl-C för att avsluta) …${RESET}"
     npx quartz build --serve
+}
+
+# ── steg: publicera sajten online ───────────────────────────────────────────
+# Uppdaterar den LIVE-sajten. Ett lokalt bygge (15 tidigare / 16) rör inte
+# online-sidan — den byggs bara av GitHub Actions vid push till main. Denna
+# funktion gör därför en kontroll-build, committar + pushar, vilket startar
+# deployen. Finns inga ändringar startas en ny deploy manuellt (workflow_dispatch).
+run_publish_site() {
+    echo -e "${BOLD}Publicera sajten online${RESET}"
+    echo ""
+    if [[ ! -d node_modules ]]; then
+        echo -e "${YELLOW}node_modules saknas — kör npm ci först …${RESET}"
+        npm ci
+    fi
+    echo -e "${YELLOW}Kontroll-bygge lokalt (npx quartz build) …${RESET}"
+    if ! npx quartz build; then
+        echo -e "${RED}✗ Bygget misslyckades — inget publiceras. Åtgärda felen ovan först.${RESET}"
+        return 1
+    fi
+    echo -e "${GREEN}✓ Lokalt bygge OK${RESET}"
+    echo ""
+    if [[ -n "$(git status --porcelain)" ]]; then
+        git add -A
+        default_msg="Uppdatera sajten $(date +%Y-%m-%d)"
+        read -rp "Commit-meddelande [$default_msg]: " msg
+        msg="${msg:-$default_msg}"
+        git commit -m "$msg"
+        echo -e "${YELLOW}Pushar till main (startar deployen) …${RESET}"
+        git push origin main
+    else
+        echo -e "${YELLOW}Inga ändringar att committa — startar en ny deploy manuellt …${RESET}"
+        if ! gh workflow run deploy.yml --ref main; then
+            echo -e "${RED}✗ Kunde inte starta deployen (kräver 'gh' inloggad).${RESET}"
+            return 1
+        fi
+    fi
+    echo ""
+    echo -e "${GREEN}✓ Deploy startad.${RESET} Sajten uppdateras när körningen blir grön (~5–8 min)."
+    echo -e "   Följ den här: ${BOLD}https://github.com/charlie-lindgren/dalarna-university/actions${RESET}"
 }
 
 # ── steg: QA kursplaner ─────────────────────────────────────────────────────
@@ -408,7 +448,7 @@ while true; do
         12) run_populate ;;
         13) run_prune ;;
         14) run_qc_pipeline ;;
-        15) run_build_site ;;
+        15) run_publish_site ;;
         16) run_serve_site ;;
         q|Q|quit|exit)
             echo "Hejdå."
