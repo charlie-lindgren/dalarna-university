@@ -10,18 +10,17 @@ amne_kod: "FIA"
 institution: "IKS"
 tags: [kursplan, FIA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 33b0efa17d8bd624
+scrape_hash: 191d641f960e8381
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFI3BU
 up: "[[Filosofi]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (3 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning (en) | `througout` (en) |
 <!-- analys:end -->
 
 # GFI3BU
@@ -89,7 +88,7 @@ problematize and critically discuss the presuppositions of existentialism from a
 
 ### Course Content
 
-The course presents a historically oriented overview of the motivations, concepts and problems of existentialism. Existentialist accounts of e.g. freedom, responsibility, authenticity, alienation, boredom and anguish are analyzed through close reading of excerpts from the works of the existentialist thinkers. The presuppositions and prospects of existentialism are problematized from a philosophical point of view througout the course.
+The course presents a historically oriented overview of the motivations, concepts and problems of existentialism. Existentialist accounts of e.g. freedom, responsibility, authenticity, alienation, boredom and anguish are analyzed through close reading of excerpts from the works of the existentialist thinkers. The presuppositions and prospects of existentialism are problematized from a philosophical point of view throughout the course.
 
 ### Assessment
 

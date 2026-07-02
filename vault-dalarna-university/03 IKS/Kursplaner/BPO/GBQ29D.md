@@ -10,13 +10,13 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: eb28f25abce72c8a
+scrape_hash: cdcee79eacf8eb14
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ29D
 up: "[[Bildproduktion]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -24,7 +24,6 @@ up: "[[Bildproduktion]]"
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom aktivt deltagande i obligatoriska övningsproduktioner, föreläsningar, seminarier, laborationer o… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | Stavfel och språkbruk | Felstavning (en) | `undergradaute` (en) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter BQ2038.… |
 <!-- analys:end -->
 
@@ -102,4 +101,4 @@ The Swedish grades U–VG.
 
 ### Prerequisites
 
-- 60 cr in Moving Image Production, including the course Television News and Multicamera Production, 15 cr Undergradaute level
+- 60 cr in Moving Image Production, including the course Television News and Multicamera Production, 15 cr Undergraduate level

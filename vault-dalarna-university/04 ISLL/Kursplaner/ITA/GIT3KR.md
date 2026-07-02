@@ -10,7 +10,7 @@ amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: ef0e2ce7a4654605
+scrape_hash: 543ebaa22b2cb04f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT3KR
 up: "[[Italienska]]"
 ---
@@ -83,24 +83,23 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 ### Learning Outcomes
 
-On completion of the course,students shall be able to:
+On completion of the course, the student will be able to:
 
   - describe and analyse Italian literature from the 18th, 19th and 20th centuries as well as its most important authors and literary movements
 
-  - analyse, present and discuss, in spoken Italian, the contents of a selection of representative literary works, and identify their typical features
+  - analyse, present and discuss, in spoken Italian, the contents of a selection of representative literary works, and identify their typical time features
 
   - reflect upon the chosen literary works and place them both in a literary andcultural context, as well as in a broader comparative European perspective
 
 ### Course Content
 
-The course contains an orientation in the Italian literary
-history of the 18th, 19th and 20th centuries by studying the most central works, authors and
-literary movements of these periods. In the course, students practice to
-understand and analyse, orally and in writing, Italian literary works.
+The course contains an orientation in the Italian literary history of the 18th, 19th and 20th centuries through the study of the most central works, authors and literary movements of these periods. In the course, students practise understanding and analysing, orally and in writing, Italian literary works.
 
 ### Assessment
 
-The course is examined through continuous assessment of activity in seminars and a final written exam.
+- Continuous examination in seminars
+
+  - Written online exam
 
 ### Grades
 
@@ -109,8 +108,8 @@ The grading scale used for the final course grade is U–VG.
 To achieve the grade of VG for the whole course, students must achieve VG in both modules.
 
 Reporting of grades:  
-Module 1: Active participation in seminars - 3,5 cr  
-Module 2: Final written exam - 4 cr
+Module 1: Active participation in seminars - 3.5 cr | U–VG  
+Module 2: Final written exam - 4 cr | U–VG
 
 Grades are reported as follows:
 

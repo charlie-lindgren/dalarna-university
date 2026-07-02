@@ -8,21 +8,20 @@ huvudomrade: "Audiovisuella studier 1"
 amne: "Bildproduktion"
 amne_kod: "BPO"
 institution: "IKS"
-tags: [kursplan, BPO, IKS]
-scrape_hash: 5cae882b3ce16c28
+tags: [kursplan, BPO, IKS, forskarutbildning]
+scrape_hash: d96da9cb69f3b904
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABQ2B4
 up: "[[Bildproduktion]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Omfång på lärandemål | Långt mål | 29 ord: - inom ramen för audiovisuella studier planera, genomföra och på ett välstruktur… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 7 mål, engelska: 1 mål (diff 6) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | Stavfel och språkbruk | Dubblerat ord | `en` — …- formulera och muntligt framföra konstruktiv kritik på en en text av vetenskaplig karaktär    - vetenskapligt värdera oc… |
 <!-- analys:end -->
 
 # ABQ2B4
@@ -51,7 +50,7 @@ Efter godkänd kurs ska studenten kunna:
   - identifiera, reflektera över och förebygga forskningsetiska problem i den egna  
 studien
 
-  - formulera och muntligt framföra konstruktiv kritik på en en text av vetenskaplig karaktär
+  - formulera och muntligt framföra konstruktiv kritik på en text av vetenskaplig karaktär
 
   - vetenskapligt värdera och reflektera kring det egna arbetet utifrån kommentarer som förs fram av opponent och seminarieledare
 

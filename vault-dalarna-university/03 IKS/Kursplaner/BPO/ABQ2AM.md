@@ -10,19 +10,17 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: c857d7b683150f85
+scrape_hash: 9bbd7927dee24ed6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABQ2AM
 up: "[[Bildproduktion]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 5 mål, engelska: 6 mål (diff 1) |
-> | Stavfel och språkbruk | Felstavning (en) | `inludes` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `managment` (en) |
 <!-- analys:end -->
 
 # ABQ2AM
@@ -101,11 +99,11 @@ On completion of the course, students will be able to:
 
   - do basic troubleshooting of a program
 
-  - use basic version managment.
+  - use basic version management.
 
 ### Course Content
 
-The course provides an introduction to creative coding for students with a background in media production. The course begins with basic programming exercises in a development environment that is adapted for non-programmers and audiovisual design. The course includes basic techniques for programming through creation and the course provides an orientation in various code libraries for audiovisual creative coding and programming languages. The programming environments can be parts of a larger ecosystem of tools for audiovisual creation, where creative coding can extend and reshape the tools. The course ends with a specialisation and deepening in techniques and programming languages through a creative project. The course also inludes basic version control and code sharing.
+The course provides an introduction to creative coding for students with a background in media production. The course begins with basic programming exercises in a development environment that is adapted for non-programmers and audiovisual design. The course includes basic techniques for programming through creation and the course provides an orientation in various code libraries for audiovisual creative coding and programming languages. The programming environments can be parts of a larger ecosystem of tools for audiovisual creation, where creative coding can extend and reshape the tools. The course ends with a specialisation and deepening in techniques and programming languages through a creative project. The course also includes basic version control and code sharing.
 
 ### Assessment
 

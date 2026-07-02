@@ -10,7 +10,7 @@ amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 82b1b28385f9886e
+scrape_hash: eee57b8f5b5c8c35
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3KJ
 up: "[[Tyska]]"
 ---
@@ -82,11 +82,11 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 ### Learning Outcomes
 
-After completing the course, the student will be able to:
+After completing the course, students will be able to:
 
   - identify, explain, and use fundamental grammatical concepts in German grammar 
 
-  - analyze the function of the verb as the central element of the clause and account for its significance for clause structure 
+  - analyse the function of the verb as the central element of the clause and account for its significance for clause structure 
 
   - use digital and AI-based tools to investigate and explain linguistic structures in their own and others’ texts 
 
@@ -96,9 +96,9 @@ After completing the course, the student will be able to:
 
 ### Course Content
 
-The course addresses fundamental concepts in German grammar, with a particular focus on the function of the verb as the central element of the clause. The aim is to establish a foundation for identifying, analyzing, and using grammatical structures, as well as to develop an informed understanding of how language is structured.
+The course addresses fundamental concepts in German grammar, with a particular focus on the function of the verb as the central element of the clause. The aim is to establish a foundation for identifying, analysing, and using grammatical structures, as well as to develop an informed understanding of how language is structured.
 
-Through theoretical instruction and practical application exercises, the ability to identify, analyze, and use grammatical structures is trained, with the goal of strengthening accurate and conscious language use. The course also introduces digital and AI-based tools to support grammatical analysis and language learning, with an emphasis on reflective and critical use. In addition, the course includes components designed to support reflection on the student’s own learning process and the development of strategies for continued grammar learning
+Through theoretical instruction and practical application exercises, students practise their ability to identify, analyse, and use grammatical structures with the aim to strengthen accurate and conscious language use. The course also introduces digital and AI-based tools to support grammatical analysis and language learning, with a focus on reflective and critical use. In addition, the course includes components designed to support reflection on the students’ own learning process and the development of strategies for continued grammar learning
 
 ### Assessment
 
@@ -113,6 +113,13 @@ The course is assessed continuously through:
 The grading scale used for the final course grade is U–VG.
 
 To achieve the grade of VG for the whole course, students must achieve VG in at least 4.5 credits.
+
+Grades are reported as follows:  
+• Basic Grammar - 1.5 Credits | U–VG  
+• German Grammar I - 3 Credits | U–VG  
+• German Grammar II - 3 Credits | U–VG
+
+ 
 
 Grades are reported as follows:
 

@@ -10,18 +10,17 @@ amne_kod: "SPA"
 institution: "ISLL"
 tags: [kursplan, SPA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: f4e0f26a7409bf42
+scrape_hash: f17ba37b7a04070b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3KU
 up: "[[Spanska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Spanska I` → `SP1014` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
-> | Stavfel och språkbruk | Felstavning (en) | `assigments` (en) |
 <!-- analys:end -->
 
 # GSP3KU
@@ -95,22 +94,29 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 ### Learning Outcomes
 
-Upon completion of the course, students shall be able to:
+Upon completion of the course, students will be able to:
 
-  - demonstrate good knowledge of the grammatical variation in Spanish in terms of the different Spanish-speaking areas
+  - demonstrate good knowledge of the grammatical variation in Spanish in the different Spanish-speaking areas
+
   - both orally and in writing reflect on the course literature in grammatically and lexically correct Spanish
+
   - demonstrate variety and coherence in their own written texts
+
   - present and defend their views in writing in accurate, varied and well-argued Spanish based on different grammatical areas
-  - show good knowledge and understanding of the structural differences between
-Spanish and Swedish.
+
+  - show good knowledge and understanding of the structural differences between Spanish and Swedish.
 
 ### Course Content
 
-The course includes further studies of grammar following Spanish I. Great emphasis is placed on the students‘ awareness of language in terms of correctness and linguistic variation in their own text production. During the course, the students are expected to develop a critically reflective attitude to both the content of the course literature and their own texts. The contrastive analysis of structural differences between Spanish and Swedish is an important feature. The course also includes exercises in oral presentation and defence of different perspectives and points of view in terms of chosen grammatical areas.
+The course includes further study of the grammar studied in Spanish I. Much emphasis is placed on the students´ awareness of language in terms of  linguistic correctness and variation in their own text production. During the course, students are expected to develop a critically reflective attitude to both the content of the course literature and their own texts. The contrastive analysis of structural differences between Spanish and Swedish is an important feature. The course also includes exercises in oral presentation and defence of different perspectives and points of view in terms of chosen grammatical areas.
 
 ### Assessment
 
-Continuous examination through written assigments and oral presentations, as well as active and prepared participation in seminars and written exams.
+- Continuous examination in seminars
+
+  - Written online examination
+
+  - Written assignments
 
 ### Grades
 

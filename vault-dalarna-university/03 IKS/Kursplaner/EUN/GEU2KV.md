@@ -8,22 +8,20 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Entreprenörskap och innovationsteknik"
 amne_kod: "EUN"
 institution: "IKS"
-tags: [kursplan, EUN, IKS, vilande]
-scrape_hash: f24c7a6f7cfd9e41
+tags: [kursplan, EUN, IKS, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: 3a9728ee0020862e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2KV
 up: "[[Entreprenörskap och innovationsteknik]]"
-cssclasses: [vilande]
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Reflektionsprotokoll, U-G. För betyget Väl godkänd på kursen krävs betyget Väl Godkänd på … |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig tentamen 3,5 hp (examinerar mål 1, 2) Individuell skriftlig inlämningsuppgift samt aktivt deltagande vid semin… |
-> | Stavfel och språkbruk | Felstavning (en) | `opportunties` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `willll` (en) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Den som antagits till och registrerats på kursen har rätt att erhålla undervisning och/eller handledning under den tid s… |
 <!-- analys:end -->
 
@@ -96,7 +94,7 @@ Den som antagits till och registrerats på kursen har rätt att erhålla undervi
 
 ### Learning Outcomes
 
-After completing the course, students willll be able to:
+After completing the course, students will be able to:
 
   - Explain basic concepts and models for growth (1)
 
@@ -106,7 +104,7 @@ After completing the course, students willll be able to:
 
   - Compare various corporate growth patterns and growth processes (4)
 
-  - Analyse the opportunties different companies have to contribute to regional development  
+  - Analyse the opportunities different companies have to contribute to regional development  
 and growth (5)
 
 ### Course Content

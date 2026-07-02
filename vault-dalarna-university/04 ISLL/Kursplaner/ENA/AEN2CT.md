@@ -10,7 +10,7 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 97fb1dbbce764ce6
+scrape_hash: 26556ff331cc3ece
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2CT
 up: "[[Engelska]]"
 ---
@@ -97,7 +97,7 @@ Upon completion of the course, students will be able to:
 
 ### Course Content
 
-The course provides a broad overview of the various academic disciplines that define the field of intercultural literature studies. Theories of hermeneutics, gender theory, postcolonialism, translation science and ecocriticism are explored with the aim of contextualising intercultural literature studies and providing different perspectives on the subject‘s academic identity.
+The course introduces terms and concepts that are used in research on cultural encounters. A selection of relevant theoretical approaches within the field of intercultural literature studies is explored and applied to relevant literary works.
 
 ### Assessment
 
@@ -105,11 +105,18 @@ The course provides a broad overview of the various academic disciplines that de
 
   - Written assignments
 
+  - Oral presentation
+
 ### Grades
 
 The grading scale used for the final course grade is A–F.
 
-The final grade for the course is based on an overall assessment by the examiner.
+The grading scale used for the final course grade is A–F.
+
+Grades are reported as follows:   
+• Introduction to Intercultural Literature Studies - 7.5 Credits | A–F 
+
+ 
 
 Grades are reported as follows:
 

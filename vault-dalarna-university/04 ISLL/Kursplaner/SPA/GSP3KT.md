@@ -10,7 +10,7 @@ amne_kod: "SPA"
 institution: "ISLL"
 tags: [kursplan, SPA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 9d8b749b0c688a68
+scrape_hash: 47559b79ec87a246
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3KT
 up: "[[Spanska]]"
 ---
@@ -76,6 +76,11 @@ på korrekt och varierad spanska.
 
 Som betygsskala på hel kurs används U–VG.
 
+
+Spanska II: Från inbördeskriget till nutiden: Litteratur, film och samhälle i Spanien   
+- 6 hp | U–VG
+ 
+
 Betyg rapporteras enligt följande:
 
   - Spanska II: Från inbördeskriget till nutiden: Litteratur, film och samhälle i Spanien - 6 hp | U–VG
@@ -96,20 +101,16 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 ### Learning Outcomes
 
-The goal of the course is that students will develop both their
-knowledge of Spanish literature and film in relation to Spanish society, as well as their
-ability to analyse literature and think critically.  
-Upon completion of the course, students shall be able to:
+The aim of the course is for students to develop their knowledge of both Spanish literature and film in relation to Spanish society, as well as their ability to analyse literature and think critically.  
+Upon completion of the course, the student will be able to:
 
-  - present and defend their text interpretations orally and in writing in
-adequate Spanish based on various literary texts
-  - place the literary text within a historical and cultural context with
-the help of film and other materials
-  - demonstrate the ability to interpret texts with a certain critical
-distance at a level that meets with basic literary requirements
-  - demonstrate both a good understanding of some central literary concepts
-as well as an ability to, with the help of these, analyze Spanish literature in
-a well-argued way.
+  - present and defend their text interpretations orally and in writing in good Spanish based on various literary texts
+
+  - place the literary text within a historical and cultural context with the help of film and other materials
+
+  - demonstrate the ability to interpret texts with a certain critical distance at a level that meets basic literary requirements
+
+  - demonstrate both a good understanding of some central literary concepts as well as an ability to, with the help of these, analyse Spanish literature in a well-argued way.
 
 ### Course Content
 
@@ -123,12 +124,17 @@ defend their text analyses orally in correct and varied Spanish.
 
 ### Assessment
 
-The course is examined through written assignments, oral presentations
-and active participation in seminars and forum discussions.
+- Continuous assessment in seminars  
+- Written online exam  
+- Written assignments  
+- Oral reports
 
 ### Grades
 
 The grading scale used for the final course grade is U–VG.
+
+Spanish II: From the Civil War to the Present: Literature, Film  
+and Society in Spain 6 Credits | U–VG  
 
 Grades are reported as follows:
 

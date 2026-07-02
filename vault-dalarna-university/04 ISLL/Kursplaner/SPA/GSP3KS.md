@@ -10,13 +10,13 @@ amne_kod: "SPA"
 institution: "ISLL"
 tags: [kursplan, SPA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: e46e2f2ab9db113d
+scrape_hash: 7f782a3ef0c480a8
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3KS
 up: "[[Spanska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 12 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 14 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -32,6 +32,8 @@ up: "[[Spanska]]"
 > | Omfång på lärandemål | Långt mål | 30 ord: - visa förmåga att ställa en relevant forskningsfråga inom ett avgränsat problem… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 34 mål, engelska: 1 mål (diff 33) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning (en) | `fto` (en) |
+> | Stavfel och språkbruk | Felstavning (en) | `urther` (en) |
 <!-- analys:end -->
 
 # GSP3KS
@@ -331,61 +333,76 @@ On completion of the module, students will, in Spanish, be able to:
   - in the form of a constructive response, analyse and discuss the academic work of others by pointing out both the merits and the shortcomings of that work 
   - produce their own shorter academic text in language that is close to being correct.
 
-3.Linguistic Variation in the Spanish Speaking World, 6 Credits
+3.Linguistic Variation in the Spanish-Speaking World, 6 Credits
 
-The objective of the module is for students to develop both basic knowledge of Spanish linguistics including the areas of language development from a diachronic perspective and dialectology and an awareness of their own learning.  
+The objective of the module is for students to develop both basic knowledge of Spanish linguistics including the areas of language development from a diachronic perspective and dialectology, as well as an awareness of their own learning.  
 On completion of the module, students will be able to:
- 
- 
-  - demonstrate basic knowledge of the historical development of the Spanish language towards a modern standard language 
-  - demonstrate an understanding of the dialectal variation in the Spanish-speaking world based on an analysis of grammatical, phonetic and semantic differences 
+
+  - demonstrate basic knowledge of the historical development of  Spanish towards a modern standard language
+
+  - demonstrate an understanding of the dialectal variation in the Spanish-speaking world based on an analysis of grammatical, phonetic and semantic differences
+
   - demonstrate basic knowledge of the development of the Spanish lexicon resulting from its contact with other languages and cultures.
 
-4.Literature, Film and Society in Spain (Civil War - Today), 6 Credits
+4.Literature, Film and Society in Spain (From the Civil War to the present day), 6 Credits
 
 The objective of the module is that students develop both good knowledge of Spanish literature and film in relation to Spanish society and an ability to analyse literature and think critically.   
 On completion of the module, students will be able to:
- 
- 
-  - present and defend their text interpretations orally and in writing in adequate Spanish based on various literary texts 
-  - place literary texts within a historical and cultural context with the help of film and other materials 
-  - demonstrate the ability to interpret texts with a certain critical distance at a level that meets with basic literary requirements 
+
+  - present and defend their text interpretations orally and in writing in good Spanish based on various literary texts
+
+  - place literary texts within a historical and cultural context with the help of film and other materials
+
+  - demonstrate the ability to interpret texts with a certain critical distance at a level that meets basic literary requirements
+
   - demonstrate a good understanding of some central literary concepts and, with the help of these, analyse Spanish literature in a well-argued way.
 
-5.Literature, Film and Society in Latin America (1900 - Today), 6 Credits
+5.Literature, Film and Society in Latin America (from 1900 to the present day), 6 Credits
 
 The objective of the module is that students develop both good knowledge of Latin American literature and film in relation to Latin American society and an ability to analyse literature and think critically.  
 On completion of the module, students will be able to:
- 
- 
-  - present and defend their text interpretations orally and in writing in adequate Spanish based on various literary texts 
-  - place literary texts within a historical and cultural context with the help of film and other materials 
-  - demonstrate the ability to interpret texts with a certain critical distance at a level that meets with basic literary requirements 
+
+  - present and defend their text interpretations orally and in writing in adequate Spanish based on various literary texts
+
+  - place literary texts within a historical and cultural context with the help of film and other materials
+
+  - demonstrate the ability to interpret texts with a certain critical distance at a level that meets basic literary requirements
+
   - demonstrate a good understanding of some central literary concepts and, with the help of these, analyse Latin American literature in a well-argued way.
 
 6.Language Learning and Teaching II A, 6 Credits
 
 On completion of the module, students will be able to:
- 
- 
-  - demonstrate knowledge of pupils’ views and experiences of their own language learning and reflect on how language teaching should be designed to benefit pupils’ language development based on theories and research on the learning of a foreign language 
-  - demonstrate knowledge of assessment in language teaching based on the school’s governing documents and theories about assessment 
-  - demonstrate knowledge of the background to the school’s governing documents with focus on European cooperation and the Common European Framework of Reference for Languages (CEFR) 
-  - discuss and reflect on the interplay between internal and external factors that are tied to the pupil, the teacher and the actual teaching situation, and on how these can be addressed through choices in content and relevant working methods in language teaching 
-  - analyse and critically review teaching materials for teaching Spanish as a foreign language from a didactic perspective and in relation to the school’s governing documents 
+
+  - demonstrate knowledge of pupils’ views and experiences of their own language learning and reflect on how language teaching should be designed to benefit pupils’ language development based on theories and research on the learning of a foreign language
+
+  - demonstrate knowledge of assessment in language teaching based on the school’s governing documents and theories about assessment
+
+  - demonstrate knowledge of the background to the school’s governing documents with a focus on European cooperation and the Common European Framework of Reference for Languages (CEFR)
+
+  - discuss and reflect on the interplay between internal and external factors that are tied to the pupil, the teacher and the actual teaching situation, and on how these can be addressed through choices in content and relevant working methods in language teaching
+
+  - analyse and critically review teaching materials for teaching Spanish as a foreign language from a didactic perspective and in relation to the school’s governing documents
+
   - demonstrate knowledge of different forms of information and communication technologies and how they can be used in language teaching to develop the content of the subject and teaching methods as well as pupils’ learning, and apply these in their own language learning.
+
+  - demonstrate an ability to plan, conduct and evaluate language teaching based on language didactic theories and the school’s governing documents.
 
 7.Language Learning and Teaching II B, 6 Credits
 
-The purpose of the module is that students further deepen their theoretical knowledge of language didactics and also develop skills to independently make professional choices regarding planning and implementation of language teaching in primary and/or secondary school. The module also introduces students to scholarly work and enables them to practise the ability to plan a language didactic investigation.  
+The purpose of the module is for students fto urther deepen their theoretical knowledge of language didactics and also develop skills to independently make professional choices regarding the planning and implementation of language teaching in primary and/or secondary school. The module also introduces students to scholarly work and enables them to practise the ability to plan a language didactic investigation.  
 On completion of the module, students will be able to:
- 
- 
-  - demonstrate the ability to independently select relevant content and working methods in language teaching in relation to pupils’ different backgrounds and needs as well as in relation to the school’s governing documents and relevant research 
-  - demonstrate in-depth knowledge of the Common European Framework of Reference for Languages (CEFR) and an ability to make relevant assessments of pupils’ language proficiency in relation to CEFR and to the school’s governing documents 
-  - demonstrate both in-depth knowledge of the use of ICT in language teaching, the importance of ICT development for the content and working methods of language teaching, as well as the ability to apply ICT in teaching based on relevant language didactic research 
-  - demonstrate knowledge of central language didactics research areas and research methods 
-  - demonstrate the ability to pose a relevant research question within a defined problem area associated with language teaching in primary and secondary schools as well as develop a method for investigating the issue 
+
+  - demonstrate the ability to independently select relevant content and working methods in language teaching in relation to pupils’ different backgrounds and needs as well as in relation to the school’s governing documents and relevant research
+
+  - demonstrate in-depth knowledge of the Common European Framework of Reference for Languages (CEFR) and an ability to make relevant assessments of pupils’ language proficiency in relation to CEFR and to the school’s governing documents
+
+  - demonstrate both in-depth knowledge of the use of ICT in language teaching, and the importance of ICT development for the content and working methods of language teaching, as well as the ability to apply ICT in teaching based on relevant language didactic research
+
+  - demonstrate knowledge of central language didactics research areas and research methods
+
+  - demonstrate the ability to pose a relevant research question within a defined area associated with language teaching in primary and secondary schools and also develop a method for investigating the issue
+
   - demonstrate the ability to prepare, lead and evaluate a discussion on selected parts of the course literature.
 
 ### Course Content
@@ -394,17 +411,14 @@ The course consists of three obligatory modules:
 Module 1. Written Proficiency and Grammar, 6 credits  
 Module 2. Academic Writing, 6 credits  
 Module 3. Linguistic Variation in the Spanish-Speaking World, 6 credits
- 
 
 Students then choose one of the following two modules:  
 Module 4. Literature, Film and Society in Spain, 6 credits  
 Module 5. Literature, Film and Society in Latin America, 6 credits
- 
 
 In addition, students must choose one of the two modules that focus on language learning and teaching:  
-Module 5. Language Learning and Teaching II A, 6 credits  
-Module 6. Language Learning and Teaching II B, 6 credits
- 
+Module 6. Language Learning and Teaching II A, 6 credits  
+Module 7. Language Learning and Teaching II B, 6 credits
 
 Students who are studying **Spanish as their first subject** AND students who have studied **a subject other than language as their first subject** take module 6, Language Learning and Teaching II A.  
 Students who have studied **another language as their first subject** take module 7, Language Learning and Teaching II B.  
@@ -413,22 +427,22 @@ Students who have studied **another language as their first subject** take modul
 
 1.Written Proficiency and Grammar, 6 Credits
 
-The module includes further studies of grammar following Spanish I. Great emphasis is placed on students’ awareness of language in terms of correctness and linguistic variation in their own text production. In the module, students are expected to develop a critically reflective attitude to both the content of the module’s literature and their own texts. The contrastive analysis of structural differences between Spanish and Swedish is an important feature, as are basic problems regarding grammar teaching in the subject of Spanish. The module also includes exercises in oral presentation and the defence of different perspectives and points of view relating to selected grammatical areas.
+The module includes further studies of grammar following Spanish I. Much focus is on students’ awareness of language in terms of correctness and linguistic variation in their own text production. In the module, students are expected to develop a critically reflective attitude to both the content of the module’s literature and their own texts. The contrastive analysis of structural differences between Spanish and Swedish is an important feature, as are basic problems regarding grammar teaching in the subject of Spanish. The module also includes exercises in oral presentation and the defence of different perspectives and points of view relating to selected grammatical areas.
 2.Academic Writing, 6 Credits
 
-Students reflect on different methods in linguistics or literary studies. These methods are used in research related to language didactics. In the module, students practise academic writing in Spanish with focus on the formulation of questions, critical thinking, methodology, theory and argumentation. They write a short academic text in Spanish and critically examine another academic text.
-3.Linguistic Variation in the Spanish Speaking World, 6 Credits
+Students reflect on different methods in linguistics or literary studies. These methods are used in research related to language didactics. In the module, students practise academic writing in Spanish with a focus on the formulation of questions, critical thinking, methodology, theory and argumentation. They write a short academic text in Spanish and critically examine another academic text.
+3.Linguistic Variation in the Spanish-Speaking World, 6 Credits
 
-This module includes the study of basic concepts and terminology in modern linguistics and is intended to convey a better understanding of the historical development of the Spanish language, language functions and dialectal variants. Spanish is addressed from its historical development into a standard language, which includes discussions about the importance of language contact and cultural influence. The emphasis of the module is on Spanish dialectology through the study of grammatical, phonetic and semantic differences between the major dialect regions of the Spanish-speaking world. Furthermore, the Spanish dialectal variants are discussed based on the importance they have in different socio-cultural contexts in Spain and Spanish America. Spanish language use and variation are also discussed from a language didactic perspective.
-4.Literature, Film and Society in Spain (Civil War - Today), 6 Credits
+This module includes the study of basic concepts and terminology in modern linguistics and is intended to convey a better understanding of the historical development of  Spanish, language functions and dialectal variants. Spanish is addressed from its historical development into a standard language, which includes discussions about the importance of language contact and cultural influence. The emphasis of the module is on Spanish dialectology through the study of grammatical, phonetic and semantic differences between the major dialect regions of the Spanish-speaking world. Furthermore, the Spanish dialectal variants are discussed based on the importance they have in different socio-cultural contexts in Spain and Spanish America. Spanish language use and variation are also discussed from a language didactic perspective.
+4.Literature, Film and Society in Spain (From the Civil War to the present day), 6 Credits
 
 This module covers a selection of fictional works and films representing different periods in Spanish literature and culture from the 1900s and 2000s. The study of literary works also includes other material that deals with texts from a historical, socio-political and cultural perspective. In the module, a number of literary concepts are studied. The texts are also used as a starting point for discussions about Spanish culture and history in which students practise their ability to present, argue for and defend their text analyses orally in correct and varied Spanish.
-5.Literature, Film and Society in Latin America (1900 - Today), 6 Credits
+5.Literature, Film and Society in Latin America (from 1900 to the present day), 6 Credits
 
 This module covers a selection of fictional works and films representing different periods in Latin American literature and culture from the 1900s and 2000s. The study of literature also includes other material that deals with texts from a historical, socio-political and cultural perspective. In the module, a number of literary concepts are studied. The texts are also used as a starting point for discussions about Latin American culture and history in which students practise their ability to present, argue for and defend their text analyses orally in correct and varied Spanish.
 6.Language Learning and Teaching II A, 6 Credits
 
-This module contains studies of different aspects of language learning where discussion and reflection on didactic issues are central. Pupils’ linguistic awareness and how they perceive their situation as language learners are addressed. The module invites reflection on and discussion about the awareness of language learning, the relationship between strategies and language development, and the way this knowledge can be used in language teaching. Different aspects of assessment and grading in languages form another important feature of the module. The Common European Framework of Reference (CEFR) is treated and put in relation to the Swedish school curricula for modern languages. The module also includes both studies of how digital tools can be used in language teaching and also the review of other types of teaching materials. The content of the module connects with the other studies in the subject of Spanish and to the students’ future professional role.
+This module contains studies of different aspects of language learning where discussion and reflection on didactic issues are central. Pupils’ linguistic awareness and the way they perceive their situation as language learners are addressed. The module invites reflection on and discussion about the awareness of language learning, the relationship between strategies and language development, and the way this knowledge can be used in language teaching. Different aspects of assessment and grading in languages form another important feature of the module. The Common European Framework of Reference (CEFR) is treated and put in relation to the Swedish school curricula for modern languages. The module also includes both studies of how digital tools can be used in language teaching and also the review of other types of teaching materials. The content of the module connects with the other studies in the subject of Spanish and with the students’ future professional role.
 
 7.Language Learning and Teaching II B, 6 Credits
 
@@ -436,60 +450,17 @@ This module involves an in-depth study of language didactic theories and researc
 
 ### Assessment
 
-**Module 1:**
- 
- 
-  - Active and prepared participation in seminars 
-  - Written assignments 
-  - Oral presentations 
-  - Written exams
- 
+The grading scale used for the final course grade is U–VG.  
+To achieve the grade of VG for the whole course, students require VG in at least 24 credits, including the module _Written Proficiency and Grammar_ and their chosen language learning and teaching module.  
 
-**Module 2:**
- 
- 
-  - Active participation in seminars 
-  - Written assignments
- 
-
-**Module 3:**
- 
- 
-  - Active participation in seminars and forum discussions 
-  - Written assignments 
-  - Oral presentations
- 
-
-**Module 4:**
- 
- 
-  - Active participation in seminars and forum discussions 
-  - Written assignments 
-  - Oral presentations
- 
-
-**Module 5:**
- 
- 
-  - Active participation in seminars and forum discussions 
-  - Written assignments 
-  - Oral presentations
- 
-
-**Module 6:**
- 
- 
-  - Active participation in seminars and forum discussions 
-  - Written reflective texts 
-  - Oral presentations
- 
-
-**Module 7:**
- 
- 
-  - Active participation in seminars and forum discussions 
-  - Written reflective texts 
-  - Oral presentations
+Reporting of grades:  
+· Written Proficiency and Grammar - 6 credits  
+· Academic Writing - 6 credits  
+· Linguistic Variation in the Spanish-Speaking World - 6 credits  
+· Literature, Film and Society in Spain (Civil War –present day) - 6 credits  
+· Literature, Film and Society in Latin America (1900 – present day) - 6 credits  
+· Language Learning and Teaching II A - 6 credits  
+· Language Learning and Teaching II B - 6 credits
 
 ### Grades
 

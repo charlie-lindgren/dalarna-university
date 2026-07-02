@@ -10,10 +10,18 @@ amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: f1deeb2600319894
+scrape_hash: c014bd4c5b3abb53
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT3KM
 up: "[[Italienska]]"
 ---
+
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Stavfel och språkbruk | Felstavning (en) | `continuos` (en) |
+<!-- analys:end -->
 
 # GIT3KM
 
@@ -90,34 +98,42 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 ### Learning Outcomes
 
-On completion of the course, students shall be able to:
- 
- 
-  - use the most common phonetic terms to describe and analyze Italian pronunciation 
-  - explain and reflect upon the main features of Italian pronunciation from a contrastive perspective 
-  - understand standard spoken Italian in authentic situations 
-  - discuss and express opinions about different subjects from an intercultural perspective by using everyday Italian and demonstrating adequate pronunciation 
-  - plan and give a brief oral presentation in Italian.
+On completion of the course, students will be able to:
+
+  - use the most common phonetic terms to describe and analyse Italian pronunciation
+
+  - explain and reflect upon the main features of Italian pronunciation from a contrastive perspective
+
+  - understand standard spoken Italian in authentic situations
+
+  - discuss and express opinions about different subjects from an intercultural perspective by using everyday Italian and demonstrating adequate pronunciation
+
+  - plan and give a brief oral presentation in Italian
 
 ### Course Content
 
-The course contains a review of Italian pronunciation and main phonetical features with application in practical pronunciation exercises. The course also enables students to gain a basic knowledge so that they can develop their communicative skills in standard spoken Italian. Current topics in Italian culture, debate and everyday life are discussed from an intercultural perspective. Students are taught to plan and conduct oral presentations.
+The course contains a review of Italian pronunciation and main phonetical features with application in practical pronunciation exercises. The course enables students to gain a basic knowledge so that they can develop their communicative skills in standard spoken Italian. Current topics in Italian culture, debate and everyday life are discussed from an intercultural perspective. Students are taught to plan and conduct oral presentations.
 
 ### Assessment
 
-The course is assessed on a continuous basis through active participation in seminars, oral presentations, as well as a written examination in phonetics and an oral examination in pronunciation.
+- Continuos examination in seminars
+
+  - Oral presentations
+
+  - Written online exam
+
+  - Oral exam
 
 ### Grades
 
 The grading scale used for the final course grade is U–VG.
 
-To achieve the grade VG for the entire course, the grade VG is required in all modules.
+The grading scale used for the final course grade is U–VG. To achieve the grade VG for the entire course , students must achieve VG in all modules.
 
-Grade reporting:
-
-Module 1: Phonetics – 1.5 credits  
-Module 2: Pronunciation – 2.5 credits  
-Module 3: Oral communication – 3.5 credits
+Grades are reported as follows:   
+• Phonetics - 1.5 Credits | U–VG   
+• Pronunciation - 2.5 Credits | U–VG  
+ • Oral communication - 3.5 Credits | U–VG   
 
 Grades are reported as follows:
 

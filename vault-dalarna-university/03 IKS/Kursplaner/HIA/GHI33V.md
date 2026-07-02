@@ -8,14 +8,14 @@ huvudomrade: "Historia 1"
 amne: "Historia"
 amne_kod: "HIA"
 institution: "IKS"
-tags: [kursplan, HIA, IKS]
-scrape_hash: 304b9f7b643322e1
+tags: [kursplan, HIA, IKS, forskarutbildning]
+scrape_hash: 050644aa289eef1e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI33V
 up: "[[Historia]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -24,7 +24,6 @@ up: "[[Historia]]"
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 17 mål, engelska: 2 mål (diff 15) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
 > | Stavfel och språkbruk | Felstavning | `delkurseninnehåller` (sv) |
-> | Stavfel och språkbruk | Felstavning | `godkäng` (sv) |
 <!-- analys:end -->
 
 # GHI33V
@@ -86,7 +85,7 @@ Efter godkänd delkurs ska studenten kunna:
 
 4.Världshistoria II. Globalhistoria från ca år 1500 till nutid, 7,5 högskolepoäng
 
-Efter godkäng delkurs ska studenten kunna:
+Efter godkänd delkurs ska studenten kunna:
 
   - identifiera och redogöra för världs- samt globalhistoriens historiografiska utveckling och debatt vad gäller tiden ca. år 1500 till nutid
 
@@ -108,7 +107,7 @@ Kursen består av fyra delkurser.
 
 1.Introduktion till historievetenskapen, 7,5 högskolepoäng
 
-Delkurseninnehåller en grundläggande introduktion till historiedidaktik, historisk teoribildning och forskningsmetodik. Skilda historiesyner och bland annat källkritisk metod behandlas och används för att granska olika texter samt skolans kurs- och ämnesplaner. Människors, samhällens och skolans användning av historia diskuteras. I delkursen ingår också individuellt författande av en mindre uppsats baserad på primärt källmaterial.
+Delkursen innehåller en grundläggande introduktion till historiedidaktik, historisk teoribildning och forskningsmetodik. Skilda historiesyner och bland annat källkritisk metod behandlas och används för att granska olika texter samt skolans kurs- och ämnesplaner. Människors, samhällens och skolans användning av historia diskuteras. I delkursen ingår också individuellt författande av en mindre uppsats baserad på primärt källmaterial.
 
 2.Svensk och nordisk historia, 7,5 högskolepoäng
 

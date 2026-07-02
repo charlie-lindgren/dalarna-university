@@ -9,13 +9,13 @@ amne: "Historia"
 amne_kod: "HIA"
 institution: "IKS"
 tags: [kursplan, HIA, IKS]
-scrape_hash: 2c21aa644cb6eda5
+scrape_hash: 01521d3be5b4081b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI35A
 up: "[[Historia]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 10 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -26,9 +26,6 @@ up: "[[Historia]]"
 > | Omfång på lärandemål | Långt mål | 26 ord: - diskutera och analysera hur lärare, med stöd i historiedidaktisk teori, kan om… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 15 mål, engelska: 2 mål (diff 13) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning | `analyseratmänniskors` (sv) |
-> | Stavfel och språkbruk | Felstavning | `medförintelsen` (sv) |
-> | Stavfel och språkbruk | Felstavning | `människorsagerande` (sv) |
 <!-- analys:end -->
 
 # GHI35A
@@ -114,7 +111,7 @@ Delkursen behandlar de nationella minoriteternas samhällshistoria i Sverige. Fo
 
 3.Förintelsen: Hjältar, bödlar och åskådare, 7,5 högskolepoäng
 
-I delkursen diskuteras och problematiseras människorsagerande i samband med och inför Förintelsen. Delkursen behandlar också hur forskare förstått och analyseratmänniskors olika agerande som bödlar, hjältar eller åskådare i samband medFörintelsen. I delkursen belyses och diskuteras hur en förståelse om detta är relevant även idag.
+I delkursen diskuteras och problematiseras människors agerande i samband med och inför Förintelsen. Delkursen behandlar också hur forskare förstått och analyserat människors olika agerande som bödlar, hjältar eller åskådare i samband med Förintelsen. I delkursen belyses och diskuteras hur en förståelse om detta är relevant även idag.
 
 4.Historiedidaktik III: Att undervisa i historia, 7,5 högskolepoäng
 

@@ -8,19 +8,18 @@ huvudomrade: "Bildproduktion 1"
 amne: "Bildproduktion"
 amne_kod: "BPO"
 institution: "IKS"
-tags: [kursplan, BPO, IKS]
-scrape_hash: 261be14837de3ea5
+tags: [kursplan, BPO, IKS, forskarutbildning]
+scrape_hash: 38395c7819edb779
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ38W
 up: "[[Bildproduktion]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | Stavfel och språkbruk | Felstavning | `höguppupplöst` (sv) |
 <!-- analys:end -->
 
 # GBQ38W
@@ -40,7 +39,7 @@ up: "[[Bildproduktion]]"
 
 Efter godkänd kurs ska studenten kunna:
 
-  - hantera arbetsflöde och filer för filmprojekt med höguppupplöst kvalitet och komplexa produktionstrukturer med hjälp av Media Composer
+  - hantera arbetsflöde och filer för filmprojekt med högupplöst kvalitet och komplexa produktionstrukturer med hjälp av Media Composer
 
   - redigera ett audiovisuellt material till färdig film och lösa problem i redigering som rör berättande, filmestetik och teknisk kvalitet i ljud och bild
 

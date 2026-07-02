@@ -10,19 +10,17 @@ amne_kod: "HIA"
 institution: "IKS"
 tags: [kursplan, HIA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: fc6e9e13ec33b097
+scrape_hash: cf7dd196fa572b4d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI29Q
 up: "[[Historia]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Bloom-taxonomi | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,2,0,0,0,0] |
-> | Stavfel och språkbruk | Felstavning (en) | `consultaion` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `situatin` (en) |
 <!-- analys:end -->
 
 # AHI29Q
@@ -88,13 +86,13 @@ Upon completion of the course, students will be able to:
 
   - identify and define either a chosen theme from the field of history studies or a question from the subject of history
 
-  - systematically compile an report the current research situatin relating to the chosen theme or question
+  - systematically compile an report the current research situation relating to the chosen theme or question
 
   - critically discuss theories and methods used in studies of the chosen theme or question.
 
 ### Course Content
 
-In the course, students will conduct an in-depth study of a theme from the field of history studies or a specific question from the subject of history in consultaion with their teacher.
+In the course, students will conduct an in-depth study of a theme from the field of history studies or a specific question from the subject of history in consultation with their teacher.
 
 ### Assessment
 

@@ -10,7 +10,7 @@ amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: e335cdb3296d2abf
+scrape_hash: 842bb037c3ac57a2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT3KP
 up: "[[Italienska]]"
 ---
@@ -20,7 +20,7 @@ up: "[[Italienska]]"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning (en) | `indentify` (en) |
+> | Stavfel och språkbruk | Felstavning (en) | `examinationin` (en) |
 <!-- analys:end -->
 
 # GIT3KP
@@ -91,33 +91,43 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 ### Learning Outcomes
 
-On completion of the course, students shall be able to: 
- 
- 
-  - speak Italian effortlessly and reasonably correctly with regard to pronunciation, grammar, and vocabulary 
-  - indentify and characterise different regional variants and registers in authentic spoken Italian 
-  - understand and use the main linguistic and pragmatic structures necessary in formal situations 
-  - apply idiomatic expressions and an adequate language register in longer presentations 
-  - problematise and discuss Italian cultural and social conditions from different perspectives, for example environmental, gender and ethnicity issues 
+On completion of the course, students will be able to: 
+
+  - speak Italian effortlessly and reasonably correctly with regard to pronunciation, grammar, and vocabulary
+
+  - identify and characterise different regional variants and registers in authentic spoken Italian
+
+  - understand and use the main linguistic and pragmatic structures necessary in formal situations
+
+  - apply idiomatic expressions and an adequate language register in longer presentations
+
+  - problematise and discuss Italian cultural and societal conditions from different perspectives, for example based on issues relating to the environment, gender and ethnicity
+
   - independently seek and screen information in relevant texts and media documents.
 
 ### Course Content
 
-The course develops the students‘ listening comprehension and communicative competences in Italian under interactive forms. In addition, the course allows for a deeper understanding of Italian cultural and social issues through the reading and discussion of texts with diverse content (fact-oriented, fiction, etc.).
+The course develops the students’ listening comprehension and communicative competences in Italian through interactive forms. In addition, the course allows for a deeper understanding of Italian cultural and societal issues through the reading and discussion of texts with diverse content (fact-oriented, fiction, etc.).
 
 ### Assessment
 
-The course is examined on a continuous basis through active participation in seminars and oral presentations, as well as a final oral examination.
+- Continuous examinationin seminars
+
+  - Oral presentations
+
+  - Oral examination
 
 ### Grades
 
 The grading scale used for the final course grade is U–VG.
 
-To achieve the grade of VG for the whole course, VG is required in both modules.
+The grading scale used for the final course grade is U–VG.
 
-Reporting of grades:  
-Module 1: Oral proficiency- 4 cr  
-Module 2: Cultural kwonledge- 3.5 cr
+For students to achieve VG for the whole course, they require a VG in both modules.
+
+Grades are reported as follows:  
+• Oral proficiency - 4 Credits | U–VG  
+• Cultural knowledge - 3.5 Credits | U–VG
 
 Grades are reported as follows:
 

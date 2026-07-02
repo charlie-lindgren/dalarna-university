@@ -9,18 +9,17 @@ amne: "Filosofi"
 amne_kod: "FIA"
 institution: "IKS"
 tags: [kursplan, FIA, IKS]
-scrape_hash: 30239d94321b41dc
+scrape_hash: c78446b6c0ecdd4a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFI3BT
 up: "[[Filosofi]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (3 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning (en) | `througout` (en) |
 <!-- analys:end -->
 
 # GFI3BT
@@ -88,7 +87,7 @@ critically discuss the relationship between arguments and perspectives within he
 
 ### Course Content
 
-The course begins with a historical account of the objects, domains and dimensions of hermeneutics from antiquity to today. Subsequently, the conditions for the practice and assessment of interpretive approaches within the human sciences are analyzed in terms of e.g. intention, convention and context; empathy and experience; suspicion and power. The relationship between meaning assignment and evidence for meaning as well as between legitimate perspectives and rational argument is problematized througout the course.
+The course begins with a historical account of the objects, domains and dimensions of hermeneutics from antiquity to today. Subsequently, the conditions for the practice and assessment of interpretive approaches within the human sciences are analyzed in terms of e.g. intention, convention and context; empathy and experience; suspicion and power. The relationship between meaning assignment and evidence for meaning as well as between legitimate perspectives and rational argument is problematized throughout the course.
 
 ### Assessment
 

@@ -9,22 +9,19 @@ amne: "Kulturgeografi"
 amne_kod: "KGA"
 institution: "IKS"
 tags: [kursplan, KGA, IKS]
-scrape_hash: 0a06bd4b56f5e564
+scrape_hash: 964d8046b387d069
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKG27R
 up: "[[Kulturgeografi]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används A–F. Modul 1: Seminarier - 2,5 hp (A-F) Modul 2: Exkursion - 1 hp (U-G) Modul3: PM - 4 hp (A-F)… |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Aktivt deltagande i seminarier, ett individuellt PM.… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
-> | Stavfel och språkbruk | Felstavning (en) | `compulsotry` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `curent` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `theoretica` (en) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Maximalt fem examinationstillfällen. Ersätter KG3018.… |
 <!-- analys:end -->
 
@@ -87,13 +84,17 @@ Ersätter KG3018.
 ### Learning Outcomes
 
 On completion of this course, students will be able to:
- 
- 
-  - give an overview of the field of study in terms of current heritage research;  
-  - analyze the role of heritage in the global experience economy, and its significance in industrial restructuring and regional development;  
-  - analyze the economic, social and cultural consequences of how heritage tourism is managed;  
-  - present issues relating to sustainability in heritage based tourism products and services; 
-  - critically assess different interpretations of heritage and relate these to curent theoretica and ideological perspectives; 
+
+  - give an overview of the field of study in terms of current heritage research; 
+
+  - analyze the role of heritage in the global experience economy, and its significance in industrial restructuring and regional development; 
+
+  - analyze the economic, social and cultural consequences of how heritage tourism is managed; 
+
+  - present issues relating to sustainability in heritage based tourism products and services;
+
+  - critically assess different interpretations of heritage and relate these to current theoretical and ideological perspectives;
+
   - demonstrate an understanding of landscape analysis and methods for interpretation.
 
 ### Course Content
@@ -103,7 +104,7 @@ Furthermore, heritage as a basis for developing sustainable tourism products wil
 
 ### Assessment
 
-The course is examined through continuous assessment in compulsotry seminars (2.5 credits), fieldwork/excursion (1 credit) and a final term-paper (4 credits).
+The course is examined through continuous assessment in compulsory seminars (2.5 credits), fieldwork/excursion (1 credit) and a final term-paper (4 credits).
 
 ### Forms of Study
 

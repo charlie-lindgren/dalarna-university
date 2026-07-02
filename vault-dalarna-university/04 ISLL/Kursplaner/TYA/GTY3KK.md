@@ -10,7 +10,7 @@ amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 0090f2d1d730dbfb
+scrape_hash: 6ceee5b1c09d7d3b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3KK
 up: "[[Tyska]]"
 ---
@@ -76,9 +76,9 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 ### Learning Outcomes
 
-After completing the course, the student will be able to:
+After completing the course, students will be able to:
 
-  - produce coherent, grammatically correct, and stylistically appropriate texts in German and adapt them to different text types and communicative contexts
+  - produce coherent, correct, and stylistically appropriate texts in German and adapt them to different text types and communicative contexts
 
   - use writing as a process through planning, drafting, revising, and editing
 
@@ -86,11 +86,11 @@ After completing the course, the student will be able to:
 
   - use digital and Gen-AI-based tools as support in the writing process in a reflective and responsible manner
 
-  - analyze and compare their own and AI-generated texts with regard to quality, style, correctness, and communicative function
+  - analyse and compare their own and AI-generated texts with regard to quality, style, correctness, and communicative function
 
 ### Course Content
 
-The course focuses on written production in German. Emphasis is placed on developing the ability to plan, formulate, revise, and edit texts with regard to grammatical accuracy, idiomatic language use, and adaptation to different text types and communicative contexts. As part of this work, digital and AI-based tools are introduced as support in the writing process. Students are given the opportunity to explore and analyze how such tools influence text production, linguistic variation, and style. Particular emphasis is placed on the reflective and critical use of AI, including discussions of its possibilities, limitations, and risks. The course also includes reflective components aimed at developing awareness of the writing process.
+The course focuses on written production in German. Focus is on developing the ability to plan, formulate, revise, and edit texts with regard to grammatical accuracy, idiomatic language use, and adaptation to different text types and communicative contexts. As part of this work, digital and AI-based tools are introduced as support in the writing process. Students are given the opportunity to explore and analyse how such tools affects text production, linguistic variation, and style. Particular emphasis is placed on the reflective and critical use of AI, including discussions of its possibilities, limitations, and risks. The course also includes reflective components aimed at developing awareness of the writing process.
 
 ### Assessment
 
@@ -99,6 +99,11 @@ The course focuses on written production in German. Emphasis is placed on develo
 ### Grades
 
 The grading scale used for the final course grade is U–VG.
+
+The grading scale used for the final course grade is U–VG.  
+
+Grades are reported as follows:  
+• Writing and AI - 5 Credits | U–VG
 
 Grades are reported as follows:
 

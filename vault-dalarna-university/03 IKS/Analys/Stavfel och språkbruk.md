@@ -8,65 +8,17 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (193 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (145 rader)</span></a>
 
-> [!example]- 193 fynd — klicka för att expandera
+> [!example]- 145 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
-> | [AB1019](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1019) | <a class="no-graph" href="03-IKS/Kursplaner/ABA/AB1019">sida</a> | ABA | 2013-02-21 | — | Felstavning | `arbetsträtt` (sv) |
-> | [AB1019](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1019) | <a class="no-graph" href="03-IKS/Kursplaner/ABA/AB1019">sida</a> | ABA | 2013-02-21 | — | Felstavning | `förläsningar` (sv) |
-> | [AB1019](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1019) | <a class="no-graph" href="03-IKS/Kursplaner/ABA/AB1019">sida</a> | ABA | 2013-02-21 | — | Felstavning (en) | `municpality` (en) |
-> | [AB1022](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1022) | <a class="no-graph" href="03-IKS/Kursplaner/ABA/AB1022">sida</a> | ABA | 2013-06-13 | — | Felstavning | `därmellen` (sv) |
-> | [AB1029](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1029) | <a class="no-graph" href="03-IKS/Kursplaner/ABA/AB1029">sida</a> | ABA | 2015-09-15 | — | Felstavning (en) | `abilith` (en) |
-> | [AB3001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB3001) | <a class="no-graph" href="03-IKS/Kursplaner/ABA/AB3001">sida</a> | ABA | 2009-11-26 | — | Felstavning | `kommunförb` (sv) |
-> | [ABQ2AM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABQ2AM) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/ABQ2AM">sida</a> | BPO | 2024-06-11 | — | Felstavning (en) | `inludes` (en) |
-> | [ABQ2AM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABQ2AM) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/ABQ2AM">sida</a> | BPO | 2024-06-11 | — | Felstavning (en) | `managment` (en) |
-> | [ABQ2B4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABQ2B4) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/ABQ2B4">sida</a> | BPO | 2024-06-24 | — | Dubblerat ord | `en` — …- formulera och muntligt framföra konstruktiv kritik på en en text av vetenskaplig karaktär    - vetenskapligt värdera oc… |
+> | [AB1022](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1022) | <a class="no-graph" href="03-IKS/Kursplaner/ABA/AB1022">sida</a> | ABA | 2013-06-13 | — | Felstavning | `däremellen` (sv) |
 > | [BQ1079](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BQ1079) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/BQ1079">sida</a> | BPO | 2014-03-18 | — | Felstavning (en) | `devolop` (en) |
-> | [BQ1079](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BQ1079) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/BQ1079">sida</a> | BPO | 2014-03-18 | — | Felstavning (en) | `strucuring` (en) |
-> | [BQ2018](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BQ2018) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/BQ2018">sida</a> | BPO | 2011-10-13 | 2018-12-10 | Felstavning | `lärarare` (sv) |
-> | [GBQ29D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ29D) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ29D">sida</a> | BPO | 2019-05-03 | — | Felstavning (en) | `undergradaute` (en) |
-> | [GBQ29E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ29E) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ29E">sida</a> | BPO | 2019-05-03 | — | Felstavning (en) | `undergradaute` (en) |
-> | [GBQ2WH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2WH) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ2WH">sida</a> | BPO | 2022-05-25 | — | Felstavning (en) | `tbt` (en) |
 > | [GBQ2WK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2WK) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ2WK">sida</a> | BPO | 2022-05-25 | — | Felstavning | `berätttarelement` (sv) |
-> | [GBQ38W](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ38W) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ38W">sida</a> | BPO | 2023-12-18 | — | Felstavning | `höguppupplöst` (sv) |
-> | [GBQ3FG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3FG) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ3FG">sida</a> | BPO | 2025-02-27 | — | Felstavning (en) | `excercises` (en) |
-> | [EU1027](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EU1027) | <a class="no-graph" href="03-IKS/Kursplaner/EUN/EU1027">sida</a> | EUN | 2013-11-14 | — | Felstavning | `grundäggande` (sv) |
-> | [EU1033](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EU1033) | <a class="no-graph" href="03-IKS/Kursplaner/EUN/EU1033">sida</a> | EUN | 2015-02-26 | — | Felstavning (en) | `itssocial` (en) |
-> | [EU1034](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EU1034) | <a class="no-graph" href="03-IKS/Kursplaner/EUN/EU1034">sida</a> | EUN | 2015-06-11 | — | Felstavning | `förhandlingprocesser` (sv) |
-> | [GEU2KV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2KV) | <a class="no-graph" href="03-IKS/Kursplaner/EUN/GEU2KV">sida</a> | EUN | 2020-11-26 | — | Felstavning (en) | `opportunties` (en) |
-> | [GEU2KV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2KV) | <a class="no-graph" href="03-IKS/Kursplaner/EUN/GEU2KV">sida</a> | EUN | 2020-11-26 | — | Felstavning (en) | `willll` (en) |
-> | [AFI273](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFI273) | <a class="no-graph" href="03-IKS/Kursplaner/FIA/AFI273">sida</a> | FIA | 2021-09-10 | 2023-03-06 | Felstavning (en) | `contignency` (en) |
-> | [FI1023](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FI1023) | <a class="no-graph" href="03-IKS/Kursplaner/FIA/FI1023">sida</a> | FIA | 2006-10-19 | 2018-07-01 | Felstavning (en) | `philosohical` (en) |
-> | [FI1024](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FI1024) | <a class="no-graph" href="03-IKS/Kursplaner/FIA/FI1024">sida</a> | FIA | 2006-10-19 | 2020-07-06 | Felstavning (en) | `etichs` (en) |
-> | [FI1039](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FI1039) | <a class="no-graph" href="03-IKS/Kursplaner/FIA/FI1039">sida</a> | FIA | 2011-05-30 | 2020-07-03 | Dubblerat ord | `have` — …urthermore, on completion of the course, the student should have have the ability to :       - be reflective in relation to probl… |
-> | [FI1039](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FI1039) | <a class="no-graph" href="03-IKS/Kursplaner/FIA/FI1039">sida</a> | FIA | 2011-05-30 | 2020-07-03 | Felstavning (en) | `asessment` (en) |
-> | [FI1039](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FI1039) | <a class="no-graph" href="03-IKS/Kursplaner/FIA/FI1039">sida</a> | FIA | 2011-05-30 | 2020-07-03 | Felstavning (en) | `developement` (en) |
-> | [GFI3BT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFI3BT) | <a class="no-graph" href="03-IKS/Kursplaner/FIA/GFI3BT">sida</a> | FIA | 2024-05-24 | — | Felstavning (en) | `througout` (en) |
-> | [GFI3BU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFI3BU) | <a class="no-graph" href="03-IKS/Kursplaner/FIA/GFI3BU">sida</a> | FIA | 2024-05-24 | — | Felstavning (en) | `througout` (en) |
-> | [AHI272](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI272) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/AHI272">sida</a> | HIA | 2021-09-07 | — | Felstavning (en) | `poitical` (en) |
-> | [AHI29Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI29Q) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/AHI29Q">sida</a> | HIA | 2023-10-05 | — | Felstavning (en) | `consultaion` (en) |
-> | [AHI29Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI29Q) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/AHI29Q">sida</a> | HIA | 2023-10-05 | — | Felstavning (en) | `situatin` (en) |
-> | [AS2005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS2005) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/AS2005">sida</a> | HIA | 2018-02-13 | — | Felstavning (en) | `takenup` (en) |
-> | [AS3017](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS3017) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/AS3017">sida</a> | HIA | 2017-09-26 | — | Felstavning | `literära` (sv) |
-> | [AS3020](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS3020) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/AS3020">sida</a> | HIA | 2017-09-26 | — | Felstavning (en) | `outlineof` (en) |
-> | [AS3022](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS3022) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/AS3022">sida</a> | HIA | 2018-02-13 | 2023-03-06 | Felstavning (en) | `teh` (en) |
-> | [GHI29Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI29Y) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI29Y">sida</a> | HIA | 2019-06-17 | — | Felstavning | `innhållet` (sv) |
-> | [GHI33T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI33T) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI33T">sida</a> | HIA | 2023-03-08 | 2023-05-25 | Felstavning | `problemförmuleringsförmåga` (sv) |
+> | [GBQ3FG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3FG) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ3FG">sida</a> | BPO | 2025-02-27 | — | Felstavning (en) | `excersises` (en) |
 > | [GHI33V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI33V) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI33V">sida</a> | HIA | 2023-03-15 | — | Felstavning | `delkurseninnehåller` (sv) |
-> | [GHI33V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI33V) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI33V">sida</a> | HIA | 2023-03-15 | — | Felstavning | `godkäng` (sv) |
-> | [GHI35A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI35A) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI35A">sida</a> | HIA | 2023-06-14 | — | Felstavning | `analyseratmänniskors` (sv) |
-> | [GHI35A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI35A) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI35A">sida</a> | HIA | 2023-06-14 | — | Felstavning | `medförintelsen` (sv) |
-> | [GHI35A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI35A) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI35A">sida</a> | HIA | 2023-06-14 | — | Felstavning | `människorsagerande` (sv) |
-> | [GHI362](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI362) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI362">sida</a> | HIA | 2023-09-06 | 2023-09-13 | Felstavning | `självstänigt` (sv) |
-> | [HI1008](https://www.du.se/sv/utbildning/kurser/kursplan/?code=HI1008) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/HI1008">sida</a> | HIA | 2011-11-25 | 2014-08-01 | Felstavning (en) | `criterions` (en) |
-> | [HI2012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=HI2012) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/HI2012">sida</a> | HIA | 2015-02-05 | — | Felstavning | `sjävvalt` (sv) |
-> | [HI2016](https://www.du.se/sv/utbildning/kurser/kursplan/?code=HI2016) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/HI2016">sida</a> | HIA | 2016-05-18 | 2018-09-13 | Felstavning | `sjävvalt` (sv) |
-> | [HI3019](https://www.du.se/sv/utbildning/kurser/kursplan/?code=HI3019) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/HI3019">sida</a> | HIA | 2015-09-17 | — | Felstavning | `självständg` (sv) |
-> | [AKG27R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKG27R) | <a class="no-graph" href="03-IKS/Kursplaner/KGA/AKG27R">sida</a> | KGA | 2022-02-16 | — | Felstavning (en) | `compulsotry` (en) |
-> | [AKG27R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKG27R) | <a class="no-graph" href="03-IKS/Kursplaner/KGA/AKG27R">sida</a> | KGA | 2022-02-16 | — | Felstavning (en) | `curent` (en) |
-> | [AKG27R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKG27R) | <a class="no-graph" href="03-IKS/Kursplaner/KGA/AKG27R">sida</a> | KGA | 2022-02-16 | — | Felstavning (en) | `theoretica` (en) |
 > | [GKG3AT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG3AT) | <a class="no-graph" href="03-IKS/Kursplaner/KGA/GKG3AT">sida</a> | KGA | 2024-03-04 | — | Felstavning | `tilllämpas` (sv) |
 > | [GKG3AT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG3AT) | <a class="no-graph" href="03-IKS/Kursplaner/KGA/GKG3AT">sida</a> | KGA | 2024-03-04 | — | Felstavning (en) | `writtten` (en) |
 > | [GKG3KE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG3KE) | <a class="no-graph" href="03-IKS/Kursplaner/KGA/GKG3KE">sida</a> | KGA | 2026-05-25 | — | Felstavning (en) | `dat` (en) |

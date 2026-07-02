@@ -10,13 +10,13 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 4351336a4b5a37e6
+scrape_hash: 43139310776cbae2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ29E
 up: "[[Bildproduktion]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -24,7 +24,6 @@ up: "[[Bildproduktion]]"
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom aktivt deltagande i seminarier, handledarmöten samt genom genomförandet av ett projekt i grupp d… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | Stavfel och språkbruk | Felstavning (en) | `undergradaute` (en) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter BQ2046.… |
 <!-- analys:end -->
 
@@ -94,4 +93,4 @@ The Swedish grades U–VG.
 
 ### Prerequisites
 
-- 135 credits of which 90 credits within Moving Images, including the course Moving Images: Theory and Method, 7,5 credits Undergradaute level 2, or equivalent knowledge
+- 135 credits of which 90 credits within Moving Images, including the course Moving Images: Theory and Method, 7,5 credits Undergraduate level 2, or equivalent knowledge

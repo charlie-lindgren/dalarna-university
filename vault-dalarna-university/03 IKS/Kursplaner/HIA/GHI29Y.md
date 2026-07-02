@@ -10,13 +10,13 @@ amne_kod: "HIA"
 institution: "IKS"
 tags: [kursplan, HIA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: d94888be9a016698
+scrape_hash: 176a83891d75b3fe
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI29Y
 up: "[[Historia]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 10 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 9 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -28,7 +28,6 @@ up: "[[Historia]]"
 > | Omfång på lärandemål | Långt mål | 26 ord: - diskutera och analysera olika elevers möjligheter till historiskt tänkande, de… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 12 mål, engelska: 2 mål (diff 10) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning | `innhållet` (sv) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: För nätbaserad kurs krävs att den studerande har möjlighet att kommunicera med ljud och bild via en dator eller motsvara… |
 <!-- analys:end -->
 
@@ -99,7 +98,7 @@ Kursen består av fyra delkurser:
 Delkursen behandlar frågor rörande samspelet mellan kultur, och i synnerhet populärkultur, samt samhällsförändringar under industrialisering och modernisering under perioden ca 1800-2000. Kulturens roll och funktion vad gäller norm- och värderingsförändringar samt formandet av identitet behandlas. Delkursen fokuserar bland annat på ungdomars och ungdomsgruppers konsumtion av samt aktiva deltagande i formandet av olika kulturella uttrycksformer och så kallade subkulturer.
 2.Utbildningshistoria, 7,5 högskolepoäng
 
-Delkursen introducerar det utbildningshistoriska forskningsfältet och låter därutöver studenten fördjupa sig genom läsning av någon valbar litteratur inom området. Innhållet rör i båda fallen framförallt svensk utbildningshistoria från tidigmodern tid fram till idag.  
+Delkursen introducerar det utbildningshistoriska forskningsfältet och låter därutöver studenten fördjupa sig genom läsning av någon valbar litteratur inom området. Innehållet rör i båda fallen framförallt svensk utbildningshistoria från tidigmodern tid fram till idag.  
 
 3.Förintelsen: Hjältar, bödlar och åskådare, 7,5 högskolepoäng
 

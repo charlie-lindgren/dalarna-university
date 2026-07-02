@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (646 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (645 rader)</span></a>
 
-> [!example]- 646 fynd — klicka för att expandera
+> [!example]- 645 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -110,8 +110,7 @@ status: första pass
 > | [GBQ2UD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2UD) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ2UD">sida</a> | BPO | 2022-02-07 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [GBQ2UN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2UN) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ2UN">sida</a> | BPO | 2022-02-24 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
 > | [GBQ2WG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2WG) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ2WG">sida</a> | BPO | 2022-05-25 | — | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
-> | [GBQ2WH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2WH) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ2WH">sida</a> | BPO | 2022-05-25 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 1 mål (diff 4) |
-> | [GBQ2WH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2WH) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ2WH">sida</a> | BPO | 2022-05-25 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | [GBQ2WH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2WH) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ2WH">sida</a> | BPO | 2022-05-25 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
 > | [GBQ2WJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2WJ) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ2WJ">sida</a> | BPO | 2022-05-25 | — | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
 > | [GBQ2WK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2WK) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ2WK">sida</a> | BPO | 2022-05-25 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [GBQ2XC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2XC) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ2XC">sida</a> | BPO | 2022-08-22 | — | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |

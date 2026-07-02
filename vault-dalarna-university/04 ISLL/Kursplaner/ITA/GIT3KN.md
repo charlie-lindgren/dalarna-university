@@ -10,10 +10,18 @@ amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 571ff3e4f69acaba
+scrape_hash: 59721e57dad5d404
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT3KN
 up: "[[Italienska]]"
 ---
+
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Stavfel och språkbruk | Felstavning (en) | `contunuous` (en) |
+<!-- analys:end -->
 
 # GIT3KN
 
@@ -79,7 +87,7 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 ### Learning Outcomes
 
-On completion of the course, students shall be able to:
+On completion of the course, students will be able to:
 
   - use, both orally and in writing, basic grammatical concepts to describe Italian language usage from several perspectives such as diachronic, diatopic, diaphasic and contrastive
 
@@ -93,22 +101,26 @@ On completion of the course, students shall be able to:
 
 ### Course Content
 
-The course contains a systematic review of the main structures of Italian grammar with a deepening vocabulary and application exercises of various kind. In addition, the course includes linguistic analysis in connection to written exercises and gives students the opportunity to produce and revise written texts of different types.
+The course contains a systematic review of the main structures of Italian grammar with an expanded vocabulary and application exercises of various kinds. In addition, the course includes linguistic analysis in connection with written exercises and gives students the opportunity to produce and revise written texts of different types.
 
 ### Assessment
 
-The course is examined through a written examination in grammar and written production, and on a continuous basis through active participation in seminars.
+- Contunuous examination in seminars
+
+  - Written online examination
 
 ### Grades
 
 The grading scale used for the final course grade is U–VG.
 
-To achieve the grade VG for the entire course, the grade VG is required in both modules.
+The grading scale used for the final course grade is U–VG.
 
-Grade reporting:
+To achieve the grade VG for the entire course, students must achieve a VG in both modules.
 
-Module 1: Grammar – 5 credits  
-Module 2: Written production – 2,5 credits
+Grades are reported as follows: 
+
+Grammar - 4 Credits | U–VG   
+Short essay  - 3.5 Credits | U–VG
 
 Grades are reported as follows:
 

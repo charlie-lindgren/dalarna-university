@@ -10,7 +10,7 @@ amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 97b21ff78a049e41
+scrape_hash: e499601fbcf064ae
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT3KL
 up: "[[Italienska]]"
 ---
@@ -104,9 +104,11 @@ The course comprises the study and analysis of selected fictional works that dep
 
 ### Assessment
 
-- Active participation in seminars
+- Continous examination  in seminars
 
-  - Written and oral assignments
+  - Written assignments
+
+  - Oral assignments
 
 ### Grades
 
@@ -114,11 +116,9 @@ The grading scale used for the final course grade is U–VG.
 
 To achieve the grade of VG for the whole course, students must achieve VG in both modules.
 
-  
-
-  - Active Participation in Seminars - 3 cr
-
-  - Written and oral assignments - 4.5 cr
+ Grades are reported as follows:  
+• Continuous examination in seminars - 3 Credits | U–VG  
+• Written and oral assignments - 4.5 Credits | U–VG 
 
 Grades are reported as follows:
 
