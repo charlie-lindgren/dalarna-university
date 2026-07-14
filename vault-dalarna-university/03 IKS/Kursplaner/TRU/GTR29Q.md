@@ -15,7 +15,7 @@ up: "[[Turismvetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -23,7 +23,6 @@ up: "[[Turismvetenskap]]"
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig inlämningsuppgift (5 hp) Skriftlig tentamen (5 hp) Grupparbete (5 hp)… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna;… |
 > | Omfång på lärandemål | Långt mål | 27 ord: - Diskutera och visa förståelse för de tre dimensionerna ekologisk, social och e… |
-> | Stavfel och språkbruk | Felstavning | `förhållningssät` (sv) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter TR1028.… |
 <!-- analys:end -->
 
