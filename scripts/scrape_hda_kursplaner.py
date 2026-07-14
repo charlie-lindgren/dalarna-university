@@ -660,6 +660,11 @@ def html_to_markdown(element) -> str:
     _walk(element, parts)
     text = "".join(parts)
     text = re.sub(r"\n{3,}", "\n\n", text)
+    # Slå ihop angränsande fetstilsmarkörer (``**X****Y**``) som uppstår när
+    # du.se:s HTML har intilliggande/nästlade ``<strong>``. Utan detta bryts
+    # ordet mitt itu (``förhållningssät****t``) och stavningskontrollen
+    # flaggar en falsk felstavning.
+    text = re.sub(r"\*\*\*\*", "", text)
     return text.strip()
 
 
