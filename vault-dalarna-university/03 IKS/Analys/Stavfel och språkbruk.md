@@ -25,7 +25,7 @@ status: första pass
 > | [LP2012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=LP2012) | <a class="no-graph" href="03-IKS/Kursplaner/LPU/LP2012">sida</a> | LPU | 2017-09-01 | — | Felstavning (en) | `intiate` (en) | initiate |
 > | [LP2013](https://www.du.se/sv/utbildning/kurser/kursplan/?code=LP2013) | <a class="no-graph" href="03-IKS/Kursplaner/LPU/LP2013">sida</a> | LPU | 2017-09-01 | — | Felstavning (en) | `litterature` (en) | literature |
 > | [NA2008](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NA2008) | <a class="no-graph" href="03-IKS/Kursplaner/NAA/NA2008">sida</a> | NAA | 2013-02-01 | — | Felstavning | `kalandermånader` (sv) | kalendermånader |
-> | [NA3011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NA3011) | <a class="no-graph" href="03-IKS/Kursplaner/NAA/NA3011">sida</a> | NAA | 2013-02-01 | — | Felstavning | `\btobbit\b` → Tobit | Tobit |
+> | [NA3011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NA3011) | <a class="no-graph" href="03-IKS/Kursplaner/NAA/NA3011">sida</a> | NAA | 2013-02-01 | — | Felstavning | `tobbit` | Tobit |
 > | [NA3011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NA3011) | <a class="no-graph" href="03-IKS/Kursplaner/NAA/NA3011">sida</a> | NAA | 2013-02-01 | — | Felstavning (en) | `tobbit` (en) | Tobit |
 > | [GPE3AJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPE3AJ) | <a class="no-graph" href="03-IKS/Kursplaner/PEA/GPE3AJ">sida</a> | PEA | 2024-02-13 | — | Felstavning | `kollegialtlärande` (sv) | kollegialt lärande |
 > | [PE1020](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1020) | <a class="no-graph" href="03-IKS/Kursplaner/PEA/PE1020">sida</a> | PEA | 2007-01-10 | 2014-01-24 | Felstavning (en) | `gryndsyn` (en) | grundsyn |

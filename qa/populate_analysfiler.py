@@ -592,7 +592,8 @@ def build_callout(
         url = plan_url_for(subj, code)
         # Escape `##` so Quartz doesn't render it as a heading/tag link inside
         # the table cell — the excerpt quotes raw kursplan markdown verbatim.
-        cell_detail = detail.replace("##", r"\##")
+        shown = display_detail(detail) if has_sugg else detail
+        cell_detail = shown.replace("##", r"\##")
         faststalld, reviderad, slug = meta_map.get(code, (None, None, None))
         # `no-graph` håller länken utanför grafvyn (annars skulle varje analyshubb
         # få en edge till varenda problematisk plan och tangla grafen).
@@ -787,7 +788,8 @@ def build_xlsx(
     for (code, subj, problem, detail), sugg in zip(rows, suggestions):
         url = plan_url_for(subj, code)
         faststalld, reviderad, _slug = meta_map.get(code, (None, None, None))
-        values = [code, subj, faststalld or "", reviderad or "", problem, detail]
+        shown = display_detail(detail) if has_sugg else detail
+        values = [code, subj, faststalld or "", reviderad or "", problem, shown]
         if has_sugg:
             values.append(sugg)
         values.append(url)
