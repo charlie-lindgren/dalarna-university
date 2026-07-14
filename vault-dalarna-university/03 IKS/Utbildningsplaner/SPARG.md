@@ -10,7 +10,7 @@ up: "IKS"
 ---
 
 <!-- analys:start -->
-> [!warning]- 11 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+> [!warning]- 10 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -24,7 +24,6 @@ up: "IKS"
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Komplexa arbetsorganisationer` (7,5 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Komplexa sociala processer i arbetslivet` (7,5 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Vetenskap och metod` (7,5 hp) |
-> | Stavfel och språkbruk | Felstavning | `enström` (sv) |
 <!-- analys:end -->
 
 # SPARG

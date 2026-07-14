@@ -10,7 +10,7 @@ up: "IKS"
 ---
 
 <!-- analys:start -->
-> [!warning]- 10 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+> [!warning]- 9 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -23,7 +23,6 @@ up: "IKS"
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Vår tids musik och musikliv` (7,5 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Företagsekonomi för musikbranschen` (7,5 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Musikbranschen` (7,5 hp) |
-> | Stavfel och språkbruk | Felstavning | `påbyggbar` (sv) |
 <!-- analys:end -->
 
 # KMLJG

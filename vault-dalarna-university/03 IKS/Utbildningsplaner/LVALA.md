@@ -10,7 +10,7 @@ up: "IKS"
 ---
 
 <!-- analys:start -->
-> [!warning]- 17 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+> [!warning]- 13 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -27,10 +27,6 @@ up: "IKS"
 > | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Didaktik och bedömning` ≠ kursplanens namn `Didaktik och bedömning - VAL` (kurskod `GPG33F`) |
 > | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Utveckling, lärande och ledarskap` ≠ kursplanens namn `Utveckling, lärande och ledarskap - VAL` (kurskod `GPG33D`) |
 > | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Sociala relationer, skolans historiska utveckling och samhällsuppdrag` ≠ kursplanens namn `Sociala relationer, skolans historiska utveckling och samhällsuppdrag - VAL` (kurskod `GPG33E`) |
-> | Stavfel och språkbruk | Felstavning | `fändrik` (sv) |
-> | Stavfel och språkbruk | Felstavning | `grundlärar` (sv) |
-> | Stavfel och språkbruk | Felstavning | `umeå` (sv) |
-> | Stavfel och språkbruk | Felstavning | `ämneslärar` (sv) |
 <!-- analys:end -->
 
 # LVALA

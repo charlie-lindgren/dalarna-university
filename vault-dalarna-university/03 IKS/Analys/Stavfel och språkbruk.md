@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (36 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (22 rader)</span></a>
 
-> [!example]- 36 fynd — klicka för att expandera
+> [!example]- 22 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -34,22 +34,8 @@ status: första pass
 > | [PE2005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE2005) | <a class="no-graph" href="03-IKS/Kursplaner/PEA/PE2005">sida</a> | PEA | 2007-01-10 | 2013-03-06 | Felstavning (en) | `gryndsyn` (en) |
 > | [APG276](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG276) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/APG276">sida</a> | PGA | 2021-10-06 | — | Felstavning (en) | `credtis` (en) |
 > | [GPG2SC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2SC) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG2SC">sida</a> | PGA | 2021-12-03 | — | Felstavning | `samhällorienterande` (sv) |
-> | [RV1001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1001) | <a class="no-graph" href="03-IKS/Kursplaner/RVA/RV1001">sida</a> | RVA | 2007-01-10 | — | Felstavning | `glavå` (sv) |
-> | [RV1026](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1026) | <a class="no-graph" href="03-IKS/Kursplaner/RVA/RV1026">sida</a> | RVA | 2007-05-30 | — | Felstavning | `glavå` (sv) |
 > | [GTR29Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR29Q) | <a class="no-graph" href="03-IKS/Kursplaner/TRU/GTR29Q">sida</a> | TRU | 2019-05-22 | — | Felstavning | `förhållningssät` (sv) |
 > | [TR1028](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR1028) | <a class="no-graph" href="03-IKS/Kursplaner/TRU/TR1028">sida</a> | TRU | 2015-12-07 | — | Felstavning | `förhållningssät` (sv) |
-> | [HAFSA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=HAFSA) | <a class="no-graph" href="03-IKS/Utbildningsplaner/HAFSA">sida</a> | Utbildningsplaner | 2014-11-20 | — | Felstavning | `västafrika` (sv) |
-> | [KAPSG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KAPSG) | <a class="no-graph" href="03-IKS/Utbildningsplaner/KAPSG">sida</a> | Utbildningsplaner | 2023-01-30 | — | Felstavning | `jörgensen` (sv) |
-> | [KFPPG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFPPG) | <a class="no-graph" href="03-IKS/Utbildningsplaner/KFPPG">sida</a> | Utbildningsplaner | 2025-01-15 | — | Felstavning | `göran` (sv) |
-> | [KFTKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFTKG) | <a class="no-graph" href="03-IKS/Utbildningsplaner/KFTKG">sida</a> | Utbildningsplaner | 2021-03-23 | 2023-07-05 | Felstavning | `åsa` (sv) |
-> | [KMLJG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KMLJG) | <a class="no-graph" href="03-IKS/Utbildningsplaner/KMLJG">sida</a> | Utbildningsplaner | 2020-10-20 | 2023-07-05 | Felstavning | `påbyggbar` (sv) |
-> | [KMPTG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KMPTG) | <a class="no-graph" href="03-IKS/Utbildningsplaner/KMPTG">sida</a> | Utbildningsplaner | 2025-01-15 | — | Felstavning | `thorbjörn` (sv) |
-> | [LVALA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LVALA) | <a class="no-graph" href="03-IKS/Utbildningsplaner/LVALA">sida</a> | Utbildningsplaner | 2025-06-17 | — | Felstavning | `fändrik` (sv) |
-> | [LVALA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LVALA) | <a class="no-graph" href="03-IKS/Utbildningsplaner/LVALA">sida</a> | Utbildningsplaner | 2025-06-17 | — | Felstavning | `grundlärar` (sv) |
-> | [LVALA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LVALA) | <a class="no-graph" href="03-IKS/Utbildningsplaner/LVALA">sida</a> | Utbildningsplaner | 2025-06-17 | — | Felstavning | `umeå` (sv) |
-> | [LVALA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LVALA) | <a class="no-graph" href="03-IKS/Utbildningsplaner/LVALA">sida</a> | Utbildningsplaner | 2025-06-17 | — | Felstavning | `ämneslärar` (sv) |
-> | [SPARG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SPARG) | <a class="no-graph" href="03-IKS/Utbildningsplaner/SPARG">sida</a> | Utbildningsplaner | 2025-04-16 | — | Felstavning | `enström` (sv) |
-> | [SSHVG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SSHVG) | <a class="no-graph" href="03-IKS/Utbildningsplaner/SSHVG">sida</a> | Utbildningsplaner | 2021-06-16 | — | Felstavning | `möjliggörandet` (sv) |
 
 ## Syfte
 

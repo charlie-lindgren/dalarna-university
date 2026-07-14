@@ -10,7 +10,7 @@ up: "IKS"
 ---
 
 <!-- analys:start -->
-> [!warning]- 15 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+> [!warning]- 14 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -28,7 +28,6 @@ up: "IKS"
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Inriktning statsvetenskap III` (30 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Samhällsvetenskapliga metoder II inriktning statsvetenskap` (7,5 hp) |
 > | Programkurser olänkade | Kursraden ser avbruten/feltrycklig ut | `Valbar termin (med möjlighet till internationellt utbyte eller läsning av valfri temakurs/kurser om` (30 hp) |
-> | Stavfel och språkbruk | Felstavning | `möjliggörandet` (sv) |
 <!-- analys:end -->
 
 # SSHVG

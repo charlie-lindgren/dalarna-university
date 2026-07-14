@@ -292,6 +292,9 @@ SV_IGNORE = {
     "europarådets","ternström","postpartumvård","hälso",
     "levnadsvaneförändring","levnadsvaneförändringar","engström",
     "ätandeproblem",
+    # QC 2026-07-15 — IKS: egennamn, orter och giltiga sammansättningar (ej stavfel)
+    "glavå","västafrika","jörgensen","göran","åsa","påbyggbar","thorbjörn",
+    "fändrik","umeå","enström","möjliggörandet","grundlärar","ämneslärar",
 }
 HAS_SV = re.compile(r"[åäöÅÄÖ]")
 

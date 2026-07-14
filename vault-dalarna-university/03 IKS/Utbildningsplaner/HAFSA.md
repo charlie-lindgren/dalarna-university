@@ -10,7 +10,7 @@ up: "IKS"
 ---
 
 <!-- analys:start -->
-> [!warning]- 14 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+> [!warning]- 13 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -27,7 +27,6 @@ up: "IKS"
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Afrikas horn` (7 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Fred och konflikt i Afrika: Internationell institutionell lag` (7 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Västafrika sedan 1800-talet` (7 hp) |
-> | Stavfel och språkbruk | Felstavning | `västafrika` (sv) |
 <!-- analys:end -->
 
 # HAFSA

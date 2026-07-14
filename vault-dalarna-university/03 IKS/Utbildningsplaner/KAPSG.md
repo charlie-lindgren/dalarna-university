@@ -10,7 +10,7 @@ up: "IKS"
 ---
 
 <!-- analys:start -->
-> [!warning]- 10 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+> [!warning]- 9 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -23,7 +23,6 @@ up: "IKS"
 > | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Audiovisuell performance` → `GLP236` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
 > | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Kommunikationsteorier` → `GLP2MS` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
 > | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Arbetsplatsförlagd utbildning i medieproduktion` → `GLP2QD` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
-> | Stavfel och språkbruk | Felstavning | `jörgensen` (sv) |
 <!-- analys:end -->
 
 # KAPSG

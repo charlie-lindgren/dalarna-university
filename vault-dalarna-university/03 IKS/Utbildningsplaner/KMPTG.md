@@ -10,12 +10,11 @@ up: "IKS"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Introduktion till medieproduktion` → `GLP2FH` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
-> | Stavfel och språkbruk | Felstavning | `thorbjörn` (sv) |
 <!-- analys:end -->
 
 # KMPTG
