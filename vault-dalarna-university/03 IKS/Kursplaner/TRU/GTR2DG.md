@@ -9,21 +9,19 @@ amne: "Turismvetenskap"
 amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
-scrape_hash: e1ca197670517f09
+scrape_hash: d2520ca7234235aa
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2DG
 up: "[[Turismvetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används A–F. Slutbetyget på kursen sätts av examinator och är en sammanvägd bedömning av resultaten på a… |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig salstentamen (Lärandemål 1, 2, 3, 4, 5 ) (2,5 hp) Skriftliga och muntliga inlämningsuppgifter (Lärandemål 2, 3… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna… |
-> | Stavfel och språkbruk | Dubblerat ord | `the` — …earch. The course is organised into two parts. In part one, the The course introduces students to quantitative research. The co… |
-> | Stavfel och språkbruk | Felstavning | `enkätsstudie` (sv) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter TR2004.… |
 <!-- analys:end -->
 
@@ -51,13 +49,17 @@ Efter avslutad kurs ska studenten kunna
 **Färdighet och förmåga**
 
   - Formulera forskningsfrågor och härleda hypoteser som lämpar sig för en enkätstudie (2)
+
   - Planera och genomföra en enkätstudie (3)
+
   - Genomföra en deskriptiv dataanalys (4)
+
   - Genomföra en inferentiell dataanalys (5)
 
 **Värderingsförmåga och förhållningssätt**
 
-  - Visa förståelse för etiska aspekter vid genomförande av en enkätsstudie (6)
+  - Visa förståelse för etiska aspekter vid genomförande av en enkätstudie (6)
+
   - Kritiskt bedöma forskningsresultatets kvalité i studier med en kvantitativ forskningsansats (7)
 
 ## Innehåll
@@ -116,7 +118,7 @@ Upon completion of the course, students will be able to:
 
 ### Course Content
 
-The course introduces students to quantitative research. The course is organised into two parts. In part one, the The course introduces students to quantitative research. The course is organised into two parts. In part one, the quantitative research paradigm is highlighted along with issues related to research ethics and research quality. Thereafter, emphasis is on survey research design as one of the most common quantitative research strategies. More concretely, typical steps in survey research design are presented and applied. In the second part of the course, various methods of data analysis are presented. The course includes exercises in descriptive and inferential statistical analysis using real world survey data. An important aspect of the course is to engage students in the identification of potential sources of bias related to survey design.
+The course introduces students to quantitative research. The course is organised into two parts. In part one, the course introduces students to quantitative research. The course is organised into two parts. In part one, the quantitative research paradigm is highlighted along with issues related to research ethics and research quality. Thereafter, emphasis is on survey research design as one of the most common quantitative research strategies. More concretely, typical steps in survey research design are presented and applied. In the second part of the course, various methods of data analysis are presented. The course includes exercises in descriptive and inferential statistical analysis using real world survey data. An important aspect of the course is to engage students in the identification of potential sources of bias related to survey design.
 
 ### Assessment
 

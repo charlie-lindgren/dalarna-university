@@ -10,18 +10,10 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: f1b40793f4b64545
+scrape_hash: ee01e26b2005f782
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2AA
 up: "[[Pedagogiskt arbete]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning | `lärarskicklighetetens` (sv) |
-<!-- analys:end -->
 
 # APG2AA
 
@@ -56,7 +48,7 @@ Efter godkänd kurs ska studenten kunna:
 
   - Relationen mellan lärarskicklighet, undervisning och lärande.
 
-  - Lärarskicklighetetens betydelse för barns och elevers mål- och resultatuppfyllelse.
+  - Lärarskicklighetens betydelse för barns och elevers mål- och resultatuppfyllelse.
 
   - Framgångsfaktorer för att utveckla och fördjupa lärarskicklighet.
 

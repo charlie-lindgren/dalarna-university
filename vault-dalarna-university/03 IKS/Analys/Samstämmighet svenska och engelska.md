@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (645 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (643 rader)</span></a>
 
-> [!example]- 645 fynd — klicka för att expandera
+> [!example]- 643 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -485,8 +485,6 @@ status: första pass
 > | [GPG2RS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2RS) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG2RS">sida</a> | PGA | 2021-10-08 | — | Paritetsskillnad | Svenska: 16 mål, engelska: 15 mål (diff 1) |
 > | [GPG2S7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2S7) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG2S7">sida</a> | PGA | 2021-11-24 | — | Paritetsskillnad | Svenska: 13 mål, engelska: 12 mål (diff 1) |
 > | [GPG2S8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2S8) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG2S8">sida</a> | PGA | 2021-11-24 | — | Paritetsskillnad | Svenska: 16 mål, engelska: 15 mål (diff 1) |
-> | [GPG2SC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2SC) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG2SC">sida</a> | PGA | 2021-12-03 | — | Paritetsskillnad | Svenska: 27 mål, engelska: 1 mål (diff 26) |
-> | [GPG2SC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2SC) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG2SC">sida</a> | PGA | 2021-12-03 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
 > | [GPG2VW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2VW) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG2VW">sida</a> | PGA | 2022-03-15 | — | Paritetsskillnad | Svenska: 13 mål, engelska: 12 mål (diff 1) |
 > | [GPG2WR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2WR) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG2WR">sida</a> | PGA | 2022-06-13 | — | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
 > | [GPG2YG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2YG) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG2YG">sida</a> | PGA | 2022-11-16 | — | Paritetsskillnad | Svenska: 8 mål, engelska: 3 mål (diff 5) |
@@ -524,7 +522,7 @@ status: första pass
 > | [GPG3CJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CJ) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG3CJ">sida</a> | PGA | 2024-06-11 | — | Paritetsskillnad | Svenska: 11 mål, engelska: 2 mål (diff 9) |
 > | [GPG3CJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CJ) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG3CJ">sida</a> | PGA | 2024-06-11 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
 > | [GPG3CK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CK) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG3CK">sida</a> | PGA | 2024-06-11 | — | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
-> | [GPG3CL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CL) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG3CL">sida</a> | PGA | 2024-06-11 | — | Paritetsskillnad | Svenska: 27 mål, engelska: 2 mål (diff 25) |
+> | [GPG3CL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CL) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG3CL">sida</a> | PGA | 2024-06-11 | — | Paritetsskillnad | Svenska: 26 mål, engelska: 2 mål (diff 24) |
 > | [GPG3CL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CL) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG3CL">sida</a> | PGA | 2024-06-11 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
 > | [GPG3CN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CN) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG3CN">sida</a> | PGA | 2024-09-05 | — | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
 > | [GPG3EU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3EU) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG3EU">sida</a> | PGA | 2025-02-05 | — | Paritetsskillnad | Svenska: 15 mål, engelska: 2 mål (diff 13) |

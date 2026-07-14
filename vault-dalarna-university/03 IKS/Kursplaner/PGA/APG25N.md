@@ -8,8 +8,8 @@ huvudomrade: "Pedagogiskt arbete 1"
 amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
-tags: [kursplan, PGA, IKS]
-scrape_hash: 3e75bc5d95793653
+tags: [kursplan, PGA, IKS, forskarutbildning]
+scrape_hash: b2e6d48175d83c50
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG25N
 up: "[[Pedagogiskt arbete]]"
 ---
@@ -20,9 +20,9 @@ up: "[[Pedagogiskt arbete]]"
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom skriftliga inlämningsuppgifter samt muntliga redovisningar vid seminarier.… |
-> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande utvecklar fördjupad kunskap om hur vetenskap och beprövad erfarenhet kan … |
+> | Omfång på lärandemål | Långt mål | 27 ord: - med stöd av olika verksamhetsnära metodansatser skriftligt och muntligt analys… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
-> | Stavfel och språkbruk | Felstavning | `tillvägagångsätt` (sv) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen kan ingå som valbar kurs i magisterprogrammet i pedagogiskt arbete vid Högskolan Dalarna.… |
 <!-- analys:end -->
 
@@ -41,29 +41,20 @@ up: "[[Pedagogiskt arbete]]"
 
 ## Lärandemål
 
-Kursens
-övergripande mål är att den studerande utvecklar fördjupad kunskap om hur vetenskap och beprövad erfarenhet kan
-relateras till förskolans och skolans undervisnings- och handledningsverksamheter.
+Kursens övergripande mål är att den studerande utvecklar fördjupad kunskap om hur vetenskap och beprövad erfarenhet kan relateras till förskolans och skolans undervisnings- och handledningsverksamheter.
 
   
+Efter avslutad kurs ska den studerande kunna :  
 
-Efter avslutad
-kurs ska den studerande kunna :  
+  - visa kunskap om innebörd hos och relation mellan begreppen vetenskap, beprövad erfarenhet, undervisning och lärande med stöd av relevanta modeller och teorier
 
-  - visa kunskap
-om innebörd hos och relation mellan begreppen vetenskap, beprövad erfarenhet,
-undervisning och lärande med stöd av relevanta modeller
-och teorier
   - redogöra för och diskutera handledningsperspektiv utifrån centrala delar av lärares profession
-  - visa
-kunskap om handledning för blivande lärare i förskola, grundskola och
-gymnasium i olika skolsituationer
-  - kritiskt analysera och argumentera för olika tillvägagångsätt och olika parters
-roller i handledningssamtal med studenter om händelser som kan inträffa under
-verksamhetsförlagd utbildning
-  - med stöd av olika verksamhetsnära metodansatser skriftligt och
-muntligt analysera och redovisa ett utvecklingsarbete med fokus på vägledning
-av studenter eller kollegor i förskole- och lärarutbildning.
+
+  - visa kunskap om handledning för blivande lärare i förskola, grundskola och gymnasium i olika skolsituationer
+
+  - kritiskt analysera och argumentera för olika tillvägagångssätt och olika parters roller i handledningssamtal med studenter om händelser som kan inträffa under verksamhetsförlagd utbildning
+
+  - med stöd av olika verksamhetsnära metodansatser skriftligt och muntligt analysera och redovisa ett utvecklingsarbete med fokus på vägledning av studenter eller kollegor i förskole- och lärarutbildning.
 
 ## Innehåll
 

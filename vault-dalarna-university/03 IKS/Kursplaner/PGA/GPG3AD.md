@@ -8,20 +8,11 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
-tags: [kursplan, PGA, IKS, stray]
-
-scrape_hash: 886566502d3b8072
+tags: [kursplan, PGA, IKS]
+scrape_hash: 708d01d62581acbd
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3AD
 up: "[[Pedagogiskt arbete]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Dubblerat ord | `as` — …ment on the way to the subject teaching profession, as well as as support for being able to make conscious didactic choices d… |
-<!-- analys:end -->
 
 # GPG3AD
 
@@ -106,7 +97,7 @@ Upon completion of the course, students will be able to:
 
 ### Course Content
 
-In the course, the student meets didactic questions and challenges linked to their own teaching in the subject. These questions are highlighted and ventilated, partly in conversations with supervisors at the school, partly during seminars arranged by the university. Here, these teaching questions are specified and analyzed with the help of both general and subject didactic theory formation as well as the school‘s governing documents. The student‘s own documentation and experience from their work-based studies are used as a basis for reflection on their own development on the way to the subject teaching profession, as well as as support for being able to make conscious didactic choices during future work-based courses.
+In the course, the student meets didactic questions and challenges linked to their own teaching in the subject. These questions are highlighted and ventilated, partly in conversations with supervisors at the school, partly during seminars arranged by the university. Here, these teaching questions are specified and analyzed with the help of both general and subject didactic theory formation as well as the school‘s governing documents. The student‘s own documentation and experience from their work-based studies are used as a basis for reflection on their own development on the way to the subject teaching profession, as well as support for being able to make conscious didactic choices during future work-based courses.
 
 ### Assessment
 

@@ -9,21 +9,19 @@ amne: "Turismvetenskap"
 amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
-scrape_hash: 135a6831e3b8638b
+scrape_hash: b3d26aa5f8915b7c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR22D
 up: "[[Turismvetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används A–F. Det slutliga betyget fastställs av examinator genom vägning av resultaten, baserat på resul… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig uppgift. (Mål 2, 3, 4, 5, 6, 7, 8) (4,5 hp) Aktivt deltagande i seminarier och uppgift som redovisas skriftlig… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig uppgift. (Mål 2, 3, 4, 5, 6, 7, 8) (4,5 hp)… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
-> | Stavfel och språkbruk | Felstavning | `samhållsvetenskap` (sv) |
-> | Stavfel och språkbruk | Felstavning | `värderigsförmåga` (sv) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Antalet examinationstillfällen är högst 5 av varje modul.… |
 <!-- analys:end -->
 
@@ -43,38 +41,36 @@ up: "[[Turismvetenskap]]"
 ## Lärandemål
 
 Efter avslutad kurs ska studenten kunna:
- 
 
 Kunskap och förståelse
- 
- 
-  - Identifiera relevant teoretisk kunskap och utvärdera eller tillämpa denna kunskap i ett sammanhang. (1) 
-  - Visa förståelse för grundläggande principer för kvalitativa och kvantitativa metoder och hur de används. (2) 
-  - Visa grundläggande kunskaper om etiska principer inom samhällsvetenskap (3) 
+
+  - Identifiera relevant teoretisk kunskap och utvärdera eller tillämpa denna kunskap i ett sammanhang. (1)
+
+  - Visa förståelse för grundläggande principer för kvalitativa och kvantitativa metoder och hur de används. (2)
+
+  - Visa grundläggande kunskaper om etiska principer inom samhällsvetenskap (3)
+
   - Visa förståelse för och koppla samman teorier och modeller. (4)
- 
 
 Färdigheter och förmågor
- 
- 
-  - Söka, samla och utvärdera akademisk litteratur. (5) 
-  - Använda analytiska färdigheter för att kunna kontrastera akademiska och icke-akademiska datakällor. (6) 
-  - Visa färdigheter i akademiskt skrivande såsom skrivkonventioner och praxis. (7)
- 
 
-Värderigsförmåga och förhållningssätt
- 
- 
+  - Söka, samla och utvärdera akademisk litteratur. (5)
+
+  - Använda analytiska färdigheter för att kunna kontrastera akademiska och icke-akademiska datakällor. (6)
+
+  - Visa färdigheter i akademiskt skrivande såsom skrivkonventioner och praxis. (7)
+
+Värderingsförmåga och förhållningssätt
+
   - Integrera olika källor till akademisk kunskap genom ett reflekterat akademiskt skrivande. (8)
 
 ## Innehåll
 
-Kursen introducerar studenterna till grundläggande forskningsförmågor. Med hjälp av teoretiska ramverk och begrepp inom samhållsvetenskap introducerar kursen studenterna till kritisk läsning, skrivning och tänkande. Den teoretiska grunden inom tvärvetenskaplig samhällsvetenskap erbjuder studenterna möjlighet att utveckla sin analytiska och utvärderande förmåga som behövs för att kunna koppla samman idéer, teorier och begreppsramar. Kursen ska involvera studenter i problemlösning och låta dem förstå relationerna mellan begrepp, teorier och praktiska situationer. Kursen behandlar kritiska litteraturreferat och litteraturgenomgångar samt kvalitativa och kvantitativa data och sekundära källor.
+Kursen introducerar studenterna till grundläggande forskningsförmågor. Med hjälp av teoretiska ramverk och begrepp inom samhällsvetenskap introducerar kursen studenterna till kritisk läsning, skrivning och tänkande. Den teoretiska grunden inom tvärvetenskaplig samhällsvetenskap erbjuder studenterna möjlighet att utveckla sin analytiska och utvärderande förmåga som behövs för att kunna koppla samman idéer, teorier och begreppsramar. Kursen ska involvera studenter i problemlösning och låta dem förstå relationerna mellan begrepp, teorier och praktiska situationer. Kursen behandlar kritiska litteraturreferat och litteraturgenomgångar samt kvalitativa och kvantitativa data och sekundära källor.
 
 ## Examinationsformer
 
-Skriftlig uppgift. (Mål 2, 3, 4, 5, 6, 7, 8) (4,5 hp)  
-Aktivt deltagande i seminarier och uppgift som redovisas skriftligt och muntligt. (Mål 1, 4, 5, 6) (3 hp)
+Skriftlig uppgift. (Mål 2, 3, 4, 5, 6, 7, 8) (4,5 hp)
 
 ## Arbetsformer
 

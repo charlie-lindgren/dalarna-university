@@ -10,19 +10,18 @@ amne_kod: "MPR"
 institution: "IKS"
 tags: [kursplan, MPR, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 675f1b92365c96e3
+scrape_hash: c7e03cb769ab3201
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3F2
 up: "[[Medieproduktion]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
-> | Stavfel och språkbruk | Felstavning (en) | `incuding` (en) |
 <!-- analys:end -->
 
 # GMN3F2
@@ -104,4 +103,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- 75 credits in the main field of study, Media Production, incuding Alternative forms of design 7.5 credits and Scientific Theory and Method 7.5 credits
+- 75 credits in the main field of study, Media Production, including Alternative forms of design 7.5 credits and Scientific Theory and Method 7.5 credits

@@ -9,21 +9,19 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 96b670b4ec6ac05c
+scrape_hash: 4de7779c751d6b02
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2C6
 up: "[[Pedagogiskt arbete]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Omfång på lärandemål | Långt mål | 27 ord: - utifrån relevanta teorier analysera och problematisera bedömningspraktiker i å… |
 > | Omfång på lärandemål | Långt mål | 30 ord: - identifiera, jämföra och problematisera olika metoder för att dokumentera och … |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | Stavfel och språkbruk | Felstavning (en) | `credtis` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `whithin` (en) |
 <!-- analys:end -->
 
 # APG2C6
@@ -107,4 +105,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- Thematic Course whithin Social Science, Science and Technology for Teachers in Pre-school Class and Primary School 30 credits, Development and Learning in Preschool Class and Primary School Years 1-3 (including 7,5 credits school-based education) 15 credtis and English for Primary School Teachers years F-3 15 credits
+- Thematic Course within Social Science, Science and Technology for Teachers in Pre-school Class and Primary School 30 credits, Development and Learning in Preschool Class and Primary School Years 1-3 (including 7,5 credits school-based education) 15 credits and English for Primary School Teachers years F-3 15 credits

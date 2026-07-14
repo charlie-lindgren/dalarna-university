@@ -8,24 +8,23 @@ huvudomrade: "Personal och arbetsliv 1"
 amne: "Personal och arbetsliv"
 amne_kod: "PEE"
 institution: "IKS"
-tags: [kursplan, PEE, IKS, vilande]
-scrape_hash: ecad3ed386aafb54
+tags: [kursplan, PEE, IKS, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: f609f7006e1460f8
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2R6
 up: "[[Personal och arbetsliv]]"
-cssclasses: [vilande]
 ---
 
 <!-- analys:start -->
-> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För betyget väl godkänd på kursen krävs betyget VG på både skriftlig tentamen samt skriftl… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig tentamen, 3,5 hp Skriftlig inlämningsuppgift, 4 hp… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig tentamen, 3,5 hp… |
 > | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Organisation - roller och intressenter` → `GPA356` (nedlagd 2026-02-11); förkunskap nämner nedlagd kurs |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att utveckla studentens ämneskunskap om organisationsförändringar som innefattar personalned… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | Stavfel och språkbruk | Felstavning | `tillvägagångsätt` (sv) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GPA2JY.… |
 <!-- analys:end -->
 
@@ -66,19 +65,11 @@ Efter avslutad kurs ska studenten kunna:
 
 ## Innehåll
 
-Kursen fokuserar på kompetensförsörjning med avseende på
-förändrings- och omställningsprocesser som innefattar personalneddragningar och
-relevant övergripande lagstiftning som gäller vid dessa situationer. I kursen
-behandlas tillvägagångsätt för att hantera omstruktureringar och
-personalneddragning. Kursen ger också tillfälle till kritisk reflektion över
-olika perspektiv vid dessa situationer. Kursen fokuserar specifikt på
-grundläggande värderingar och synsätt med avseende på personalinriktat arbete
-samt PA-funktionens roll och ansvar i dessa frågor.
+Kursen fokuserar på kompetensförsörjning med avseende på förändrings- och omställningsprocesser som innefattar personalneddragningar och relevant övergripande lagstiftning som gäller vid dessa situationer. I kursen behandlas tillvägagångssätt för att hantera omstruktureringar och personalneddragning. Kursen ger också tillfälle till kritisk reflektion över olika perspektiv vid dessa situationer. Kursen fokuserar specifikt på grundläggande värderingar och synsätt med avseende på personalinriktat arbete samt PA-funktionens roll och ansvar i dessa frågor.
 
 ## Examinationsformer
 
-Skriftlig tentamen, 3,5 hp  
-Skriftlig inlämningsuppgift, 4 hp
+Skriftlig tentamen, 3,5 hp
 
 ## Arbetsformer
 
@@ -92,9 +83,7 @@ För betyget
 väl godkänd på kursen krävs betyget VG på
 både skriftlig tentamen samt skriftlig inlämningsuppgift.
 
-Betygsrapportering:  
-Modul 1: Skriftlig tentamen - 3,5 hp  
-Modul 2: Skriftlig inlämningsuppgift - 4 hp
+Betygsrapportering:
 
 ## Förkunskapskrav
 

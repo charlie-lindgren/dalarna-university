@@ -9,19 +9,10 @@ amne: "Kulturgeografi"
 amne_kod: "KGA"
 institution: "IKS"
 tags: [kursplan, KGA, IKS]
-scrape_hash: 772ea3a268f89e07
+scrape_hash: efe293d4f2af7218
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG3AT
 up: "[[Kulturgeografi]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning | `tilllämpas` (sv) |
-> | Stavfel och språkbruk | Felstavning (en) | `writtten` (en) |
-<!-- analys:end -->
 
 # GKG3AT
 
@@ -52,7 +43,7 @@ Efter godkänd kurs ska studenten kunna:
 
 ## Innehåll
 
-Kursen behandlar avancerad datahantering och analys inom geografiska informationsystem, GIS. Under kursen introduceras och tilllämpas utvalda geostatistiska metoder för rumsligt analys. Arbetet utförs i både raster- och vektormiljö. Därtill introduceras avancerade designprinciper för skapandet av tematiska kartor.
+Kursen behandlar avancerad datahantering och analys inom geografiska informationsystem, GIS. Under kursen introduceras och tillämpas utvalda geostatistiska metoder för rumsligt analys. Arbetet utförs i både raster- och vektormiljö. Därtill introduceras avancerade designprinciper för skapandet av tematiska kartor.
 
 ## Examinationsformer
 
@@ -100,7 +91,7 @@ The course covers advanced data management and analysis within geographic inform
 
 ### Assessment
 
-- writtten assignments
+- written assignments
 
   - active participation in seminars
 

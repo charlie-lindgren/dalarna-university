@@ -10,19 +10,10 @@ amne_kod: "KGA"
 institution: "IKS"
 tags: [kursplan, KGA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 381611c277ba70b1
+scrape_hash: 1a1f2b2095c8f759
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG3KE
 up: "[[Kulturgeografi]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning (en) | `dat` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `writtten` (en) |
-<!-- analys:end -->
 
 # GKG3KE
 
@@ -92,7 +83,7 @@ On completion of the course, students will be able to:
 
   - obtain, process and use geographic data in a GIS environment 
 
-  - describe selected GIS-based analysis methods for geographic dat
+  - describe selected GIS-based analysis methods for geographic data
 
   - apply selected GIS-based analysis methods to geographic data
 
@@ -104,7 +95,7 @@ The course introduce basic theoretical and practical knowledge in Geographic Inf
 
 ### Assessment
 
-- Writtten assignment
+- Written assignment
 
   - Oral presentation
 

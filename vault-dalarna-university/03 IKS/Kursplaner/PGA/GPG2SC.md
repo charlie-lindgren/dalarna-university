@@ -10,28 +10,24 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 1a5550ec7caa6885
+scrape_hash: 3ff1fe2cf50294b8
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2SC
 up: "[[Pedagogiskt arbete]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 13 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 9 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att erhålla Väl godkänd krävs Väl godkänd på minst 23,5 hp av kursens 30 hp.… |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Delkurs 1: inlämningsuppgifter samt muntlig presentation och diskussion av seminarieuppgifter Delkurs 2: inlämningsuppgi… |
-> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': -… |
-> | Omfång på lärandemål | För många mål | 27 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': \### Delkurser… |
+> | Omfång på lärandemål | För många mål | 26 lärandemål (maximum rekommenderat: 12 för 30 hp) |
 > | Omfång på lärandemål | Långt mål | 29 ord: - redogöra för naturlandskapets förändringar och för människors utnyttjande av r… |
 > | Omfång på lärandemål | Långt mål | 27 ord: - visa kunskaper om mytens och andra berättelsers identitetsskapande funktion i … |
 > | Omfång på lärandemål | Långt mål | 29 ord: - reflektera över hur digitala verktyg och digitala miljöer kan användas i under… |
-> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 27 mål, engelska: 1 mål (diff 26) |
-> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
 > | Stavfel och språkbruk | Felstavning | `samhällorienterande` (sv) |
-> | Stavfel och språkbruk | Felstavning (en) | `sociaty` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `understandingn` (en) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Nätbaserad kurs innehåller en obligatorisk campusträff om max tre dagar. I kursen ingår två-tre fältdagar vid en grundsk… |
 <!-- analys:end -->
 
@@ -49,10 +45,6 @@ up: "[[Pedagogiskt arbete]]"
 - **Fastställd:** Fastställd 2021-12-03 . Kursplanen gäller fr.o.m. 2022-02-21.
 
 ## Lärandemål
-
--
-
- 
 
 ### Delkurser
 
@@ -214,8 +206,6 @@ terminer.
 
 ### Learning Outcomes
 
-*
-
 ### Modules
 
 1.The Individual and Society from the Perspective of Childhood and Adolescence, 6.5 Credits
@@ -254,13 +244,13 @@ After completing the module, students will be able to:
 
   - problematise historical processes of change with a starting point in Swedish and Nordic history as based on different explanatory models and perspectives,
 
-  - show knowledge and understandingn of how history is created and used in different times and contexts,
+  - show knowledge and understanding of how history is created and used in different times and contexts,
 
   - interpret and evaluate historical sources,
 
   - reflect on didactic choices in teaching as based on pupils’ experiences, the content of the module and the syllabus of the school subject.  
 
-4.The Individual, Sociaty and the Construction of Religion and the Conception of Life, 6.5 Credits
+4.The Individual, Society and the Construction of Religion and the Conception of Life, 6.5 Credits
 
 After completing the module, students will be able to:
 
@@ -292,19 +282,9 @@ After completing the module, students will be able to:
 
 ### Course Content
 
-*
-
 ### Modules
 
-1.The Individual and Society from the Perspective of Childhood and Adolescence, 6.5 Credits2.The Individual, Society and Interaction with the Physical Environment, 6.5 Credits3.The Individual and Society in a Historical Perspective, 6.5 Credits4.The Individual, Sociaty and the Construction of Religion and the Conception of Life, 6.5 Credits5.Teaching the Social Sciences from an Interdisciplinary Perspective, 4 Credits
-
-### Assessment
-
-*
-
-### Forms of Study
-
-*
+1.The Individual and Society from the Perspective of Childhood and Adolescence, 6.5 Credits2.The Individual, Society and Interaction with the Physical Environment, 6.5 Credits3.The Individual and Society in a Historical Perspective, 6.5 Credits4.The Individual, Society and the Construction of Religion and the Conception of Life, 6.5 Credits5.Teaching the Social Sciences from an Interdisciplinary Perspective, 4 Credits
 
 ### Grades
 

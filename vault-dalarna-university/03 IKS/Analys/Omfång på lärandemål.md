@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (435 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (436 rader)</span></a>
 
-> [!example]- 435 fynd — klicka för att expandera
+> [!example]- 436 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -216,6 +216,7 @@ status: första pass
 > | [APG24E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG24E) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/APG24E">sida</a> | PGA | 2020-02-24 | 2020-06-23 | Långt mål | 28 ord: - visa fördjupad kunskap om och använda sig av centrala vetenskapsteoretiska beg… |
 > | [APG24S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG24S) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/APG24S">sida</a> | PGA | 2020-02-25 | — | Långt mål | 29 ord: - visa kunskaper om olika modeller för och teorier om utvärdering och skolutveck… |
 > | [APG24S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG24S) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/APG24S">sida</a> | PGA | 2020-02-25 | — | Långt mål | 33 ord: - visa förmåga att kritiskt och självständigt tillämpa och reflektera över relev… |
+> | [APG25N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG25N) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/APG25N">sida</a> | PGA | 2020-04-23 | — | Långt mål | 27 ord: - med stöd av olika verksamhetsnära metodansatser skriftligt och muntligt analys… |
 > | [APG275](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG275) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/APG275">sida</a> | PGA | 2021-10-06 | — | Långt mål | 27 ord: - på egen hand och tillsammans med andra planera, genomföra, utvärdera och utvec… |
 > | [APG27T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG27T) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/APG27T">sida</a> | PGA | 2022-02-25 | — | Långt mål | 34 ord: - visa fördjupad kunskap om och förmåga att systematiskt analysera och organiser… |
 > | [APG27Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG27Z) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/APG27Z">sida</a> | PGA | 2022-06-13 | — | För många mål | 12 lärandemål (maximum rekommenderat: 10 för 15 hp) |
@@ -299,7 +300,7 @@ status: första pass
 > | [GPG2S8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2S8) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG2S8">sida</a> | PGA | 2021-11-24 | — | Långt mål | 31 ord: - visa förmåga till etiskt och medvetet förhållningssätt vid muntlig och skriftl… |
 > | [GPG2S9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2S9) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG2S9">sida</a> | PGA | 2021-12-03 | — | Långt mål | 28 ord: - visa förmåga att utifrån kursens teorier analysera, problematisera och kommuni… |
 > | [GPG2S9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2S9) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG2S9">sida</a> | PGA | 2021-12-03 | — | Långt mål | 28 ord: - visa förmåga att utifrån ovanstående teorier och erfarenheter i den egna under… |
-> | [GPG2SC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2SC) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG2SC">sida</a> | PGA | 2021-12-03 | — | För många mål | 27 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | [GPG2SC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2SC) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG2SC">sida</a> | PGA | 2021-12-03 | — | För många mål | 26 lärandemål (maximum rekommenderat: 12 för 30 hp) |
 > | [GPG2SC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2SC) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG2SC">sida</a> | PGA | 2021-12-03 | — | Långt mål | 29 ord: - redogöra för naturlandskapets förändringar och för människors utnyttjande av r… |
 > | [GPG2SC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2SC) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG2SC">sida</a> | PGA | 2021-12-03 | — | Långt mål | 27 ord: - visa kunskaper om mytens och andra berättelsers identitetsskapande funktion i … |
 > | [GPG2SC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2SC) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG2SC">sida</a> | PGA | 2021-12-03 | — | Långt mål | 29 ord: - reflektera över hur digitala verktyg och digitala miljöer kan användas i under… |
@@ -356,7 +357,7 @@ status: första pass
 > | [GPG3CH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CH) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG3CH">sida</a> | PGA | 2024-06-11 | — | Långt mål | 26 ord: - självständigt och med stöd av verksamma lärare planera, genomföra, diskutera o… |
 > | [GPG3CJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CJ) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG3CJ">sida</a> | PGA | 2024-06-11 | — | För många mål | 11 lärandemål (maximum rekommenderat: 10 för 15 hp) |
 > | [GPG3CJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CJ) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG3CJ">sida</a> | PGA | 2024-06-11 | — | Långt mål | 26 ord: - självständigt och med stöd av verksamma lärare planera, genomföra, diskutera o… |
-> | [GPG3CL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CL) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG3CL">sida</a> | PGA | 2024-06-11 | — | För många mål | 27 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | [GPG3CL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CL) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG3CL">sida</a> | PGA | 2024-06-11 | — | För många mål | 26 lärandemål (maximum rekommenderat: 12 för 30 hp) |
 > | [GPG3CL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CL) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG3CL">sida</a> | PGA | 2024-06-11 | — | Långt mål | 29 ord: - redogöra för naturlandskapets förändringar och för människors utnyttjande av r… |
 > | [GPG3CL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CL) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG3CL">sida</a> | PGA | 2024-06-11 | — | Långt mål | 27 ord: - med utgångspunkt i praktikens didaktiska villkor och utifrån ett hållbarhetspe… |
 > | [GPG3EU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3EU) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG3EU">sida</a> | PGA | 2025-02-05 | — | För många mål | 15 lärandemål (maximum rekommenderat: 10 för 15 hp) |

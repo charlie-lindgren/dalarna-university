@@ -10,18 +10,10 @@ amne_kod: "KGA"
 institution: "IKS"
 tags: [kursplan, KGA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 44d8f96ff0f9fedb
+scrape_hash: 5656248e4453c9f5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG3KF
 up: "[[Kulturgeografi]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning (en) | `writtten` (en) |
-<!-- analys:end -->
 
 # GKG3KF
 
@@ -99,7 +91,7 @@ The course covers advanced theoretical and practical knowledge in Geographic Inf
 
 ### Assessment
 
-- writtten assignments
+- written assignments
 
   - active participation in seminars
 

@@ -10,20 +10,19 @@ amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 462d966d42e6ff73
+scrape_hash: 215c8ecb5492ec1b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK27Q
 up: "[[Religionsvetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Modul 1: Seminarier, muntliga och skriftliga redovisningar, 7,5 hp… |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker i form av aktivt deltagande vid seminarier samt skriftliga inlämningsuppgifter.… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
-> | Stavfel och språkbruk | Felstavning (en) | `tha` (en) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: För nätbaserad kurs krävs att studenten kan kommunicera med ljud och bild via en dator eller motsvarande utrustning.… |
 <!-- analys:end -->
 
@@ -108,7 +107,7 @@ On completion of the course, students will be able to:
 
 ### Course Content
 
-The course deals with four ancient cultures which, from a historical perspective, illustrate that gender as well as other aspects of identity are processes tha also link to societal structures and power. As a demarcation, the focus is on gender, while class and ethnicity are also covered. In addition, women‘s gender and other aspects of identity in particular will be addressed.  
+The course deals with four ancient cultures which, from a historical perspective, illustrate that gender as well as other aspects of identity are processes that also link to societal structures and power. As a demarcation, the focus is on gender, while class and ethnicity are also covered. In addition, women‘s gender and other aspects of identity in particular will be addressed.  
 The cultures studied are ancient Mesopotamia, ancient Canaan (pre-biblical and early biblical times), early Christianity and early Islam. In addition to literature about women‘s history relating to these cultures, the course includes theoretical literature on gender and intersectionality, which ís applied to the historical material in various ways.
 
 ### Assessment

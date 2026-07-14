@@ -9,18 +9,17 @@ amne: "Religionsvetenskap"
 amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
-scrape_hash: f969a19332060fd7
+scrape_hash: fb7eaea44e37c50e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK3B4
 up: "[[Religionsvetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
-> | Stavfel och språkbruk | Felstavning | `ämesteoretiska` (sv) |
 <!-- analys:end -->
 
 # GRK3B4
@@ -42,7 +41,7 @@ Efter godkänd kurs ska studenten kunna:
 
   - analysera egna kontextualiserade etnografiska erfarenheter och upplevelser ur ämnesteoretiska och religionsdidaktiska perspektiv
 
-  - diskutera och reflektera över tillämpningen av levd religion i religionsundervisningen i grund- eller gymnasieskolan ur ämesteoretiska och religionsdidaktiska perspektiv
+  - diskutera och reflektera över tillämpningen av levd religion i religionsundervisningen i grund- eller gymnasieskolan ur ämnesteoretiska och religionsdidaktiska perspektiv
 
   - reflektera över det egna lärandets betydelse för religionskunskapslärarens profession
 

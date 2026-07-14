@@ -9,19 +9,18 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 6544ed67423585f1
+scrape_hash: de240e413000d030
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CK
 up: "[[Pedagogiskt arbete]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska studenten kunna… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
-> | Stavfel och språkbruk | Felstavning | `inlämninguppgift` (sv) |
 <!-- analys:end -->
 
 # GPG3CK
@@ -65,7 +64,7 @@ Kursen tar sin utgångspunkt i frågeställningarna V_ad är skola?_ och _Varfö
 
   - Individuell muntlig tentamen
 
-  - Individuell skriftlig inlämninguppgift
+  - Individuell skriftlig inlämningsuppgift
 
 ## Betyg
 

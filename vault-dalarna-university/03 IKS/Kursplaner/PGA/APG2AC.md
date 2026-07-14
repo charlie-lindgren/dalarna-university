@@ -10,19 +10,10 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 940d83516e708115
+scrape_hash: 43146138ffa03590
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2AC
 up: "[[Pedagogiskt arbete]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning (en) | `aanalyze` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `nalyze` (en) |
-<!-- analys:end -->
 
 # APG2AC
 
@@ -81,9 +72,9 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 Upon completion of the course, students will be able to:
 
-  - aanalyze their own pedagogical leadership based on policy documents and relevant research
+  - analyze their own pedagogical leadership based on policy documents and relevant research
 
-  - nalyze the conditions for leading and organizing the development of their own preschool‘s quality based on local circumstances
+  - analyze the conditions for leading and organizing the development of their own preschool‘s quality based on local circumstances
 
   - investigate how different managerial functions can be clarified and organized to create favorable conditions for sustainable pedagogical development.
 

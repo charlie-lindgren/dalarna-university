@@ -8,20 +8,19 @@ huvudomrade: "Statsvetenskap 1"
 amne: "Statsvetenskap"
 amne_kod: "SKA"
 institution: "IKS"
-tags: [kursplan, SKA, IKS]
-scrape_hash: e65a9b6815c3a7c3
+tags: [kursplan, SKA, IKS, forskarutbildning]
+scrape_hash: c12e17e976ba8923
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASK22M
 up: "[[Statsvetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Muntlig och skriftlig redovisning av examensarbete samt granskning av annan students examensarbete.… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs… |
-> | Stavfel och språkbruk | Felstavning (en) | `reviewscrutiny` (en) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ingår i Magisterprogram: Demokrati, medborgarskap och förändring. Handledning ges endast under angiven kursperiod… |
 <!-- analys:end -->
 
@@ -114,7 +113,7 @@ In this course, students shall plan, complete and defend a degree project in the
 
 ### Assessment
 
-Oral and written presentation of a degree project and reviewscrutiny of another student’s degree project.
+Oral and written presentation of a degree project, as well as critical scrutiny of another student’s degree project.
 
 ### Forms of Study
 

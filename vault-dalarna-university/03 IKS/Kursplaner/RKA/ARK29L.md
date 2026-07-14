@@ -8,19 +8,11 @@ huvudomrade: "Religionsvetenskap 1"
 amne: "Religionsvetenskap"
 amne_kod: "RKA"
 institution: "IKS"
-tags: [kursplan, RKA, IKS]
-scrape_hash: f36bf25ce66f637c
+tags: [kursplan, RKA, IKS, forskarutbildning]
+scrape_hash: 98feceb9365dff5a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29L
 up: "[[Religionsvetenskap]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning | `markonivå` (sv) |
-<!-- analys:end -->
 
 # ARK29L
 
@@ -41,7 +33,7 @@ Efter godkänd kurs ska studenten kunna:
 
   - tillämpa religionssociologiska teorier och begrepp i relation till barn och unga i slutna religiösa miljöer
 
-  - utifrån mikro-, meso- och markonivå diskutera synen på barn och unga i slutna religiösa miljöer
+  - utifrån mikro-, meso- och makronivå diskutera synen på barn och unga i slutna religiösa miljöer
 
   - kritiskt reflektera över och argumentera för relevansen av skilda religionssociologiska perspektiv i relation till barn och unga i slutna religiösa miljöer
 

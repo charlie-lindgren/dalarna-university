@@ -9,19 +9,18 @@ amne: "Turismvetenskap"
 amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
-scrape_hash: ee286d2e3552b748
+scrape_hash: 6dff955cf405669b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2DP
 up: "[[Turismvetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används A–F. Aktivt deltagande i seminarierna G/U Slutbetyget på kursen sätts efter en samlad bedömning … |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Aktivt deltagande till seminarierna: 2.5 poäng Skriftliga inlämningsuppgifter: 5 poäng… |
-> | Stavfel och språkbruk | Felstavning | `värderingsfömåga` (sv) |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används A–F. Aktivt deltagande i seminarierna G/U… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Aktivt deltagande till seminarierna: 2.5 poäng… |
 > | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
 <!-- analys:end -->
 
@@ -42,25 +41,23 @@ up: "[[Turismvetenskap]]"
 
 _Kunskap och förståelse_  
 Studenten skall efter avslutad kurs kunna:
- 
- 
+
   - Beskriva fördelar och begränsningar av kvalitativ forskning
- 
 
 _Färdighet och förmåga_  
 Efter genomgången kurs ska studenten kunna:
- 
- 
-  - Samla in, analysera och tolka data enligt en kvalitativ forskningsstrategi 
-  - Utveckla en kvalitativ forskningsplan 
-  - Rapportera om datainsamling och analys som genomförts med kvalitativa metoder 
- 
 
-_Värderingsfömåga och förhållningssätt_  
+  - Samla in, analysera och tolka data enligt en kvalitativ forskningsstrategi
+
+  - Utveckla en kvalitativ forskningsplan
+
+  - Rapportera om datainsamling och analys som genomförts med kvalitativa metoder 
+
+_Värderingsförmåga och förhållningssätt_  
 Efter genomgången kurs skall studenten kunna
- 
- 
-  - Kritiskt utvärdera och reflektera över kvalitativa forskningsmetoder, deras bidrag till olika kunskapsområden och för samhället 
+
+  - Kritiskt utvärdera och reflektera över kvalitativa forskningsmetoder, deras bidrag till olika kunskapsområden och för samhället
+
   - Visa medvetenhet om etiska aspekter av forskning
 
 ## Innehåll
@@ -69,8 +66,7 @@ Syftet med kursen är att bekanta studenterna med kvalitativa forskningsundersö
 
 ## Examinationsformer
 
-Aktivt deltagande till seminarierna: 2.5 poäng  
-Skriftliga inlämningsuppgifter: 5 poäng
+Aktivt deltagande till seminarierna: 2.5 poäng
 
 ## Arbetsformer
 
@@ -81,8 +77,7 @@ Föreläsningar, seminarier, workshops och skriftliga uppgifter.
 Som betygsskala används A–F.
 
 
-Aktivt deltagande i seminarierna G/U  
-Slutbetyget på kursen sätts efter en samlad bedömning av examinator.
+Aktivt deltagande i seminarierna G/U
 
 ## Förkunskapskrav
 

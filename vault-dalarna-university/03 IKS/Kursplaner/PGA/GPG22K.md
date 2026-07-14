@@ -9,20 +9,19 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 627f024442651a6b
+scrape_hash: eeab249cf89e9673
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG22K
 up: "[[Pedagogiskt arbete]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom aktivt deltagande vid seminarier samt genom en vetenskaplig uppsats som den studerande skriver s… |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande ska kunna genomföra en självständig vetenskaplig undersökning med anknytn… |
 > | Omfång på lärandemål | Långt mål | 33 ord: - visa förmåga att, med högt ställda krav på skriftlig och muntlig kommunikation… |
-> | Stavfel och språkbruk | Felstavning (en) | `conciderations` (en) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ingår i programmet Kompletterande pedagogisk utbildning. Kursen motsvarar PG2066. Kursen avslutas med en obligato… |
 <!-- analys:end -->
 
@@ -102,16 +101,25 @@ eller motsvarande.
 
 ### Learning Outcomes
 
-The course‘s overall objective is that the student should be able to carry out an independent scientific study related to a teaching subject for which the education is intended. The student is expected to contribute to knowledge development within a defined educational field.  
+The course‘s overall objective is that the student should be able to carry out an independent scientific study related to a teaching subject for which the education is intended. The student is expected to contribute to knowledge development within a defined educational field.
+  
+
 After completing the course, students shall be able to:
 
   - demonstrate in-depth knowledge within a defined educational field and insight into current research and development work within the field,
+
   - formulate an educational problem with related research questions,
+
   - demonstrate ability to independently collect, systematize, problematize and evaluate empirical material as well as critically review own and others research results,
+
   - conduct independent scientific work with research connection, relevant methodology and argumentation based on scientific basis,
-  - make research-ethical conciderations,
+
+  - make research-ethical considerations,
+
   - demonstrate the ability to present and argue for their own research results, with high demands on written and oral communication skills, and to relate to scientific criticism in a factual and constructive manner,
+
   - demonstrate ability to analyze, value and discuss the scientific work of others by pointing out in terms of clear constructive response both benefits as well as shortcomings,
+
   - contribute to knowledge development within a defined educational field of relevance to the profession.
 
 ### Grades

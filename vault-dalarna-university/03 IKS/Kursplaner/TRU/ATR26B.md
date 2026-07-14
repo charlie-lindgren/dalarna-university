@@ -9,13 +9,13 @@ amne: "Turismvetenskap"
 amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
-scrape_hash: 12d97e4dbb75cb6e
+scrape_hash: 18f837b24ac09f98
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATR26B
 up: "[[Turismvetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -23,7 +23,6 @@ up: "[[Turismvetenskap]]"
 > | Bloom-taxonomi | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [4,1,1,0,0,0] |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftliga inlämningsuppgifter 5 hp Seminarier 2,5 hp… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
-> | Stavfel och språkbruk | Felstavning | `hållbarbetsmål` (sv) |
 > | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
 <!-- analys:end -->
 
@@ -58,7 +57,7 @@ Efter avslutad kurs ska studenten kunna:
 
 ## Innehåll
 
-Kursen utforskar hur olika aktörer förhåller sig till katastrofer utlösta av miljömässiga-, sociala- och ekonomiska kriser. Frågor rörande osäkerhet och risk i turismsystemet introduceras, liksom användning och tillämpning av resiliensmodeller och verktyg. Vidare diskuteras hållbarhet och resiliens utifrån FNs globala hållbarbetsmål utifrån tankar kring framtida hållbar planering och utveckling. Slutningen fokuserar kursen på hur vi, som individer, utvecklar personlig resiliens inför kriser.
+Kursen utforskar hur olika aktörer förhåller sig till katastrofer utlösta av miljömässiga-, sociala- och ekonomiska kriser. Frågor rörande osäkerhet och risk i turismsystemet introduceras, liksom användning och tillämpning av resiliensmodeller och verktyg. Vidare diskuteras hållbarhet och resiliens utifrån FNs globala hållbarhetsmål utifrån tankar kring framtida hållbar planering och utveckling. Slutningen fokuserar kursen på hur vi, som individer, utvecklar personlig resiliens inför kriser.
 
 ## Examinationsformer
 

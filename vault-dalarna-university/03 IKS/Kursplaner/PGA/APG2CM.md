@@ -8,21 +8,20 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
-tags: [kursplan, PGA, IKS]
-scrape_hash: a0d72e5b6c20ef0f
+tags: [kursplan, PGA, IKS, forskarutbildning]
+scrape_hash: cd50b62d8af9767a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG2CM
 up: "[[Pedagogiskt arbete]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Omfång på lärandemål | Långt mål | 34 ord: - utifrån en nyanserad kunskap om de övergripande ramverken kritiskt reflektera … |
 > | Omfång på lärandemål | Långt mål | 29 ord: - analysera och värdera egen och andras undervisnings genomförande och föreslå m… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | Stavfel och språkbruk | Felstavning | `undervisningensmål` (sv) |
 <!-- analys:end -->
 
 # APG2CM
@@ -59,7 +58,7 @@ Efter godkänd kurs ska studenten kunna:
 Kursen behandlar innebörden av god undervisning på grundval av vetenskap och  
 beprövad erfarenhet, med utgångspunkt i en bredd av vetenskapliga områden. Kunskap om god undervisning sätts i relation till utveckling av undervisningsskicklighet i termer av att kunna omsätta undervisning i det sammanhang där läraren är verksam.  
 Undervisningsskicklighet i denna bemärkelse fokuserar lärarens roll och agerande i  
-planering, genomförande och uppföljning av undervisningen i relation till undervisningensmål. I skärningen mellan god undervisning och undervisningsskicklighet finns kursens kärna. Kursen rör sig mellan olika nivåer av teori och praktisk undervisning för att bredda lärarens förmåga att utveckla både undervisningen och den pedagogiska skickligheten.
+planering, genomförande och uppföljning av undervisningen i relation till undervisningens mål. I skärningen mellan god undervisning och undervisningsskicklighet finns kursens kärna. Kursen rör sig mellan olika nivåer av teori och praktisk undervisning för att bredda lärarens förmåga att utveckla både undervisningen och den pedagogiska skickligheten.
 
 Kursen är organiserad i två moduler som med fördel kan läsas parallellt tidsmässigt. Kursen är indelad i två moduler: 1) Undervisningsskicklighet i teori (4,5 hp) samt 2)  
 Undervisningsskicklighet i praktik (3 hp).

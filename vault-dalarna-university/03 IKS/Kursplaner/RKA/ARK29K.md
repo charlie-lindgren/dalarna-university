@@ -9,18 +9,10 @@ amne: "Religionsvetenskap"
 amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
-scrape_hash: a182661cf1f33224
+scrape_hash: 116617c208e24cd5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29K
 up: "[[Religionsvetenskap]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning (en) | `cpecialisation` (en) |
-<!-- analys:end -->
 
 # ARK29K
 
@@ -103,7 +95,7 @@ Upon completion of the course, students will be able to:
 
 ### Course Content
 
-This course deals with experiences of invisible presence in religious, spiritual, and popular cultural contexts; experiences that are sometimes described as mystical or supernatural, but which can also be interpreted in more secular terms. The course deals with presence experiences in different contexts, such as charismatic Christianity, Buddhism, esoteric practice, psychedelic rituals, lucid dreaming, and unexpected events in a secular context. By integrating evolutionary psychology, clinical psychology, cultural psychology and sociological theories, the course explores the nature of presence experiences. In addition, the qualitative and quantitative research methods used to study such phenomena are discussed. In addition to the cpecialisation in religious studies that the course provides, different cultural perspectives on mental health are also examined, as the interpretation of extraordinary experiences often challenges the school medical understanding of, for example, hallucinations and psychoses.
+This course deals with experiences of invisible presence in religious, spiritual, and popular cultural contexts; experiences that are sometimes described as mystical or supernatural, but which can also be interpreted in more secular terms. The course deals with presence experiences in different contexts, such as charismatic Christianity, Buddhism, esoteric practice, psychedelic rituals, lucid dreaming, and unexpected events in a secular context. By integrating evolutionary psychology, clinical psychology, cultural psychology and sociological theories, the course explores the nature of presence experiences. In addition, the qualitative and quantitative research methods used to study such phenomena are discussed. In addition to the specialisation in religious studies that the course provides, different cultural perspectives on mental health are also examined, as the interpretation of extraordinary experiences often challenges the school medical understanding of, for example, hallucinations and psychoses.
 
 ### Assessment
 

@@ -10,18 +10,10 @@ amne_kod: "LPU"
 institution: "IKS"
 tags: [kursplan, LPU, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 8c5453b2f543fe4c
+scrape_hash: cffee0d7eb0859fb
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP3AH
 up: "[[Ljud- och musikproduktion]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning (en) | `excercises` (en) |
-<!-- analys:end -->
 
 # GLP3AH
 
@@ -114,7 +106,7 @@ The course consists of three modules. The first deals with the sound and convent
 
   - Written assignments
 
-  - Practical music excercises
+  - Practical music exercises
 
 ### Grades
 

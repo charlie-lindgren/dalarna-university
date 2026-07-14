@@ -9,13 +9,13 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: a39735ea9ecafd58
+scrape_hash: a7bb7c0eaffa270b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=APG24E
 up: "[[Pedagogiskt arbete]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 9 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -25,8 +25,6 @@ up: "[[Pedagogiskt arbete]]"
 > | Omfång på lärandemål | Långt mål | 28 ord: - visa fördjupad kunskap om och använda sig av centrala vetenskapsteoretiska beg… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 7 mål, engelska: 1 mål (diff 6) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning | `inlämingsuppgifter` (sv) |
-> | Stavfel och språkbruk | Felstavning (en) | `credtis` (en) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen motsvarar PG3036 och PG3060.… |
 <!-- analys:end -->
 
@@ -65,7 +63,7 @@ I kursen behandlas vetenskapsteori samt kvalitativa och kvantitativa forskningsm
 
 ## Examinationsformer
 
-Kursen examineras dels i form av muntliga redoviningar individuellt och i grupp, dels genom individuella skriftliga inlämingsuppgifter.
+Kursen examineras dels i form av muntliga redoviningar individuellt och i grupp, dels genom individuella skriftliga inlämningsuppgifter.
 
 ## Arbetsformer
 
@@ -113,4 +111,4 @@ The Swedish grades U–VG.
 
 ### Prerequisites
 
-- Development and Learning for Teachers in Secondary School (incl 7.5 credits placement) or Development and Learning for Teachers in Upper Secondary School (incl 7.5 credtis placement) and The History and Civic Mission of the School System - Secondary and Upper Secondary School, 15 credits
+- Development and Learning for Teachers in Secondary School (incl 7.5 credits placement) or Development and Learning for Teachers in Upper Secondary School (incl 7.5 credits placement) and The History and Civic Mission of the School System - Secondary and Upper Secondary School, 15 credits

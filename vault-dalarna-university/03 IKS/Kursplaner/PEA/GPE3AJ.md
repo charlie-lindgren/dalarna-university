@@ -8,11 +8,11 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Pedagogik"
 amne_kod: "PEA"
 institution: "IKS"
-tags: [kursplan, PEA, IKS, vilande]
-scrape_hash: b641df755dba8c99
+tags: [kursplan, PEA, IKS, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: 1636cbf03c3eb9ee
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPE3AJ
 up: "[[Pedagogik]]"
-cssclasses: [vilande]
 ---
 
 <!-- analys:start -->
@@ -48,7 +48,7 @@ Efter godkänd kurs ska studenten kunna:
 
   - visa grundläggande kunskaper om förutsättningar och villkor för ett kollegialtlärande,
 
-  - leda, planera och genomföra mindre utvecklingsprojekt i syfte att utveckla kollegialtlärande i den egna verksamheten,
+  - leda, planera och genomföra mindre utvecklingsprojekt i syfte att utveckla kollegialt lärande i den egna verksamheten,
 
   - reflektera över den egna ledarrollen i relation till värdegrundsfrågor i förskola/skola.
 

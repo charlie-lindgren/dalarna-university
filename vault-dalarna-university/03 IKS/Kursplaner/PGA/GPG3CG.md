@@ -8,14 +8,14 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
-tags: [kursplan, PGA, IKS]
-scrape_hash: 213184543ed9c886
+tags: [kursplan, PGA, IKS, forskarutbildning]
+scrape_hash: 6b560991e8ccb3d3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CG
 up: "[[Pedagogiskt arbete]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -24,7 +24,6 @@ up: "[[Pedagogiskt arbete]]"
 > | Omfång på lärandemål | Långt mål | 27 ord: - argumentera, vetenskapligt i tal och skrift, för val av innehåll och arbetsfor… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 13 mål, engelska: 2 mål (diff 11) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning (en) | `perspecitves` (en) |
 <!-- analys:end -->
 
 # GPG3CG
@@ -142,13 +141,13 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 ### Modules
 
-1.Interdisciplinary perspecitves of children’s development and learning, 7.5 Credits2.Placement - development and learning, 7.5 Credits
+1.Interdisciplinary perspectives of children’s development and learning, 7.5 Credits2.Placement - development and learning, 7.5 Credits
 
 ### Course Content
 
 ### Modules
 
-1.Interdisciplinary perspecitves of children’s development and learning, 7.5 Credits2.Placement - development and learning, 7.5 Credits
+1.Interdisciplinary perspectives of children’s development and learning, 7.5 Credits2.Placement - development and learning, 7.5 Credits
 
 ### Grades
 

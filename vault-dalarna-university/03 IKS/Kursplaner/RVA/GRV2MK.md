@@ -10,13 +10,13 @@ amne_kod: "RVA"
 institution: "IKS"
 tags: [kursplan, RVA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: d68d9fa5594a32b2
+scrape_hash: ad4f99d7823da7fe
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRV2MK
 up: "[[Rättsvetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -24,7 +24,6 @@ up: "[[Rättsvetenskap]]"
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Aktivt deltagande vid seminarier samt reflektiva protokoll.… |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål och syfte är att studenten ska kunna hantera vanligtvis förekommande frågeställningar inom rätt… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
-> | Stavfel och språkbruk | Felstavning | `innhåller` (sv) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ersätter GRV2CE.… |
 <!-- analys:end -->
 
@@ -64,13 +63,18 @@ Efter avslutad kurs skall studenten kunna:
 
 ## Innehåll
 
-I kursen behandlas rättsregler som är av central betydelse för småföretag. Kursen innhåller i huvudsak följande rättsområden:
+I kursen behandlas rättsregler som är av central betydelse för småföretag. Kursen innehåller i huvudsak följande rättsområden:
 
   - Avtalsrätt
+
   - Köprätt
+
   - Associationsrätt
+
   - Arbetsrätt
+
   - Immaterialrätt
+
   - Skadeståndsrätt
 
 ## Examinationsformer

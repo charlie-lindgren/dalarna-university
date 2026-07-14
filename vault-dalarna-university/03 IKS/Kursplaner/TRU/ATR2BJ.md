@@ -8,19 +8,18 @@ huvudomrade: "Turismvetenskap 1"
 amne: "Turismvetenskap"
 amne_kod: "TRU"
 institution: "IKS"
-tags: [kursplan, TRU, IKS]
-scrape_hash: 894eafea61f042da
+tags: [kursplan, TRU, IKS, forskarutbildning]
+scrape_hash: d7304497d1d79ecd
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATR2BJ
 up: "[[Turismvetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Omfång på lärandemål | Långt mål | 27 ord: - kritiskt reflektera över hur kunskap som förvärvats i kursen bidrar till breda… |
-> | Stavfel och språkbruk | Felstavning (en) | `leaisure` (en) |
 <!-- analys:end -->
 
 # ATR2BJ
@@ -106,7 +105,7 @@ On completion of the course, students will be able to:
 
 ### Course Content
 
-This course enables students to develop skills and knowledge to identify and analyse real-world issues in tourism, hospitality or leaisure that organisations and destinations are facing. Through critical analysis of the issue and in close collaboration with the organisation and the academic mentor, students develop transferable skills, and are able to connect existing knowledge in the field of studies to the development and discussion of feasible solutions.  With an iterative process of critical analysis, reflection, and collaboration with the organisation, the course builds a link between the theory and the practice of tourism. Students are given a high degree of freedom to interact with stakeholders to identify specific issues to work with, knowledge sources, and the means to address them. The project is self-directed but supported through the guidance of both Dalarna University staff and a responsible person within the chosen organisation. Students reflect on the theoretical underpinnings and sources of knowledge as well as on its links to sustainability debates and tourism as a field of knowledge and practice.
+This course enables students to develop skills and knowledge to identify and analyse real-world issues in tourism, hospitality or leisure that organisations and destinations are facing. Through critical analysis of the issue and in close collaboration with the organisation and the academic mentor, students develop transferable skills, and are able to connect existing knowledge in the field of studies to the development and discussion of feasible solutions.  With an iterative process of critical analysis, reflection, and collaboration with the organisation, the course builds a link between the theory and the practice of tourism. Students are given a high degree of freedom to interact with stakeholders to identify specific issues to work with, knowledge sources, and the means to address them. The project is self-directed but supported through the guidance of both Dalarna University staff and a responsible person within the chosen organisation. Students reflect on the theoretical underpinnings and sources of knowledge as well as on its links to sustainability debates and tourism as a field of knowledge and practice.
 
 ### Assessment
 

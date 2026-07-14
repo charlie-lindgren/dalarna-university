@@ -9,24 +9,22 @@ amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS]
-scrape_hash: 52ef10fed80bb2f3
+scrape_hash: 0bd050e734efe691
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3CL
 up: "[[Pedagogiskt arbete]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': -… |
-> | Omfång på lärandemål | För många mål | 27 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': \### Delkurser… |
+> | Omfång på lärandemål | För många mål | 26 lärandemål (maximum rekommenderat: 12 för 30 hp) |
 > | Omfång på lärandemål | Långt mål | 29 ord: - redogöra för naturlandskapets förändringar och för människors utnyttjande av r… |
 > | Omfång på lärandemål | Långt mål | 27 ord: - med utgångspunkt i praktikens didaktiska villkor och utifrån ett hållbarhetspe… |
-> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 27 mål, engelska: 2 mål (diff 25) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 26 mål, engelska: 2 mål (diff 24) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning | `samhällorienterande` (sv) |
-> | Stavfel och språkbruk | Felstavning (en) | `sociaty` (en) |
 <!-- analys:end -->
 
 # GPG3CL
@@ -43,10 +41,6 @@ up: "[[Pedagogiskt arbete]]"
 - **Fastställd:** Fastställd 2024-06-11 . Kursplanen gäller fr.o.m. 2024-07-15.
 
 ## Lärandemål
-
--
-
- 
 
 ### Delkurser
 
@@ -124,7 +118,7 @@ Efter godkänd delkurs ska studenten kunna:
 
 ## Innehåll
 
-Kursen består av fem ämnesdidaktiska delkurser. I kursen får den studerande möta ett historiskt, geografiskt, religionsvetenskapligt och samhällsvetenskapligt perspektiv på relationen mellanmänniska och samhälle. I den samhällorienterande delkursen behandlas och problematiseras aspekter av ämnesövergripande undervisning.
+Kursen består av fem ämnesdidaktiska delkurser. I kursen får den studerande möta ett historiskt, geografiskt, religionsvetenskapligt och samhällsvetenskapligt perspektiv på relationen mellanmänniska och samhälle. I den samhällsorienterande delkursen behandlas och problematiseras aspekter av ämnesövergripande undervisning.
 
 ### Delkurser
 
@@ -198,13 +192,13 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 ### Modules
 
-1.The Individual and Society from the Perspective of Childhood and Adolescence, 6.5 Credits2.The Individual, Society and Interaction with the Physical Environment, 6.5 Credits3.The Individual and Society in a Historical Perspective, 6.5 Credits4.The Individual, Sociaty and the Construction of Religion and the Conception of Life, 6.5 Credits5.Teaching the Social Sciences from an Interdisciplinary Perspective, 4 Credits
+1.The Individual and Society from the Perspective of Childhood and Adolescence, 6.5 Credits2.The Individual, Society and Interaction with the Physical Environment, 6.5 Credits3.The Individual and Society in a Historical Perspective, 6.5 Credits4.The Individual, Society and the Construction of Religion and the Conception of Life, 6.5 Credits5.Teaching the Social Sciences from an Interdisciplinary Perspective, 4 Credits
 
 ### Course Content
 
 ### Modules
 
-1.The Individual and Society from the Perspective of Childhood and Adolescence, 6.5 Credits2.The Individual, Society and Interaction with the Physical Environment, 6.5 Credits3.The Individual and Society in a Historical Perspective, 6.5 Credits4.The Individual, Sociaty and the Construction of Religion and the Conception of Life, 6.5 Credits5.Teaching the Social Sciences from an Interdisciplinary Perspective, 4 Credits
+1.The Individual and Society from the Perspective of Childhood and Adolescence, 6.5 Credits2.The Individual, Society and Interaction with the Physical Environment, 6.5 Credits3.The Individual and Society in a Historical Perspective, 6.5 Credits4.The Individual, Society and the Construction of Religion and the Conception of Life, 6.5 Credits5.Teaching the Social Sciences from an Interdisciplinary Perspective, 4 Credits
 
 ### Grades
 

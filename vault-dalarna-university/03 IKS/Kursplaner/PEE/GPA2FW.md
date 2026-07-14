@@ -9,13 +9,13 @@ amne: "Personal och arbetsliv"
 amne_kod: "PEE"
 institution: "IKS"
 tags: [kursplan, PEE, IKS]
-scrape_hash: 8747cb2a1d776168
+scrape_hash: 28187d7c75ddbdd4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2FW
 up: "[[Personal och arbetsliv]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -24,7 +24,6 @@ up: "[[Personal och arbetsliv]]"
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande syfte är att den studerande ska erhålla en grundläggande förståelse för hur personalekonomi och för… |
 > | Omfång på lärandemål | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
-> | Stavfel och språkbruk | Felstavning (en) | `managemet` (en) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter PA1046.… |
 <!-- analys:end -->
 
@@ -116,4 +115,4 @@ The Swedish grades U–VG.
 
 - 90 credits in Human Resource Management
   - including
-  - Managemet Accounting for HR Professionals 7.5 credits, First Cycle
+  - Management Accounting for HR Professionals 7.5 credits, First Cycle

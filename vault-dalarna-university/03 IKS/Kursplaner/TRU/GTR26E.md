@@ -9,21 +9,20 @@ amne: "Turismvetenskap"
 amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
-scrape_hash: c272d917e02a46d1
+scrape_hash: fd4d4394024559e1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR26E
 up: "[[Turismvetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används A–F. Slutbetyg sätts efter en samlad bedömning av examinator.… |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: 1) Individuellt skriftligt arbete, 1,5 hp 2) Inlämningsuppgift, 3 hp 3) Redovisning av grupparbete, poster presentation … |
 > | Frasningskonsistens | Avviker från referensformen | Efter slutförd kurs ska studenten kunna:… |
-> | Stavfel och språkbruk | Felstavning | `erätter` (sv) |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Erätter TR1035.… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter TR1035.… |
 <!-- analys:end -->
 
 # GTR26E
@@ -79,7 +78,7 @@ Slutbetyg sätts efter en samlad bedömning av examinator.
 
 ## Övrigt
 
-Erätter TR1035.
+Ersätter TR1035.
 
 ## English Version
 

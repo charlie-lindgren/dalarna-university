@@ -9,13 +9,13 @@ amne: "Turismvetenskap"
 amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
-scrape_hash: cf56f338bea839d9
+scrape_hash: dd2a7930756e6b46
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR29Q
 up: "[[Turismvetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -24,8 +24,6 @@ up: "[[Turismvetenskap]]"
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna;… |
 > | Omfång på lärandemål | Långt mål | 27 ord: - Diskutera och visa förståelse för de tre dimensionerna ekologisk, social och e… |
 > | Stavfel och språkbruk | Felstavning | `förhållningssät` (sv) |
-> | Stavfel och språkbruk | Felstavning (en) | `assignement` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `implmented` (en) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter TR1028.… |
 <!-- analys:end -->
 
@@ -118,7 +116,7 @@ After completion of the course the students shall be able to:
 
   - Explain different types of tourism development and the way in which these affect the industry and the local community. (3) 
 
-  - Describe the steps that are involved and the considerations that need to be made when a tourism plan is being implmented. (4) 
+  - Describe the steps that are involved and the considerations that need to be made when a tourism plan is being implemented. (4) 
 
   - Describe the political economy of tourism development and its relation to the environment and sustainability. (5) 
 
@@ -146,7 +144,7 @@ The course uses various teaching methods including case studies, role playing an
 
 ### Assessment
 
-Written assignement (5 credits)  
+Written assignment (5 credits)  
 Written examination (5 credits)  
 Group work (5 credits)
 

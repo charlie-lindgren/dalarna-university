@@ -10,19 +10,18 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 726173290d9ee337
+scrape_hash: 696dd9a154257c10
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3FT
 up: "[[Pedagogiskt arbete]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Omfång på lärandemål | Långt mål | 27 ord: - självständigt och tillsammans med andra planera, genomföra, utvärdera och utve… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
-> | Stavfel och språkbruk | Felstavning (en) | `addmitted` (en) |
 <!-- analys:end -->
 
 # GPG3FT
@@ -104,4 +103,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- Addmitted to Professional Qualification Course för Teachers and Pre-School Teachers and Placement Studies 1, 7.5 credits
+- Admitted to Professional Qualification Course för Teachers and Pre-School Teachers and Placement Studies 1, 7.5 credits

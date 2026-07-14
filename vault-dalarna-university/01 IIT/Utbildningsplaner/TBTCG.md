@@ -4,7 +4,7 @@ programnamn: "Byggingenjörsprogram"
 institution: "IIT"
 faststalld: "Fastställd av prefekt för institutionen för information och teknik 2023-02-14 . Gäller fr.o.m.  HT 2023."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: 715d484e842163d4
+scrape_hash: 7f2e6774bd261bb5
 url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TBTCG
 up: "IIT"
 ---
@@ -102,6 +102,7 @@ Utbildningen avslutas med ett examensarbete på 15 högskolepoäng. Genom examen
 - [[GBY2J2|Husbyggnadsprojekt I – Små byggnader och bostadsområden]], 15 hp
 - [[GBY2VR|Hållbar utveckling]], 5 hp
 - [[IE1076|Industriell ekonomi]], 5 hp
+- [[GBY2MB|Projektmetodik]], 5 hp
 - [[BY1054|Vägteknik]], 7,5 hp
 
 **Åk2**

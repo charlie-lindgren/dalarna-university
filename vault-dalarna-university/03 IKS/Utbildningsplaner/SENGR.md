@@ -4,13 +4,13 @@ programnamn: "Ekonomprogrammet"
 institution: "IKS"
 faststalld: "Fastställd av prefekt för institutionen för kultur och samhälle 2023-02-24 . Gäller fr.o.m.  VT 2023."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: dbdd42c949da3f9a
+scrape_hash: ef683ce53dc1e6dd
 url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SENGR
 up: "IKS"
 ---
 
 <!-- analys:start -->
-> [!warning]- 7 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+> [!warning]- 5 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -19,8 +19,6 @@ up: "IKS"
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Mikroekonomi fortsättningskurs` (7,5 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Makroekonomi fortsättning` (7,5 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Samhällsekonomisk utvärdering av offentliga projekt` (7,5 hp) |
-> | Stavfel och språkbruk | Felstavning | `utgångpunkt` (sv) |
-> | Stavfel och språkbruk | Felstavning | `väldfärdsanalys` (sv) |
 <!-- analys:end -->
 
 # SENGR
@@ -98,11 +96,11 @@ Färdighet och förmåga
 Värderingsförmåga och förhållningssätt  
 - visa förmåga att göra bedömningar inom det ekonomiska området med hänsyn till relevanta vetenskapliga, samhälleliga och etiska aspekter, såsom hållbar utveckling, internationalisering, jämställdhet och mångfald.
 
-   
+  
 Specifika mål för inriktning nationalekonomi
 
 - ha fördjupat sina kunskaper och färdigheter inom det nationalekonomiska området med tonvikt på  
-tillämpad mikroekonomi och väldfärdsanalys, och    
+tillämpad mikroekonomi och välfärdsanalys, och    
 - visa förmåga att kunna arbeta med kvalificerade analytiska uppgifter både inom privat och offentlig sektor.
 
 Specifika mål för inriktning företagsekonomi
@@ -124,7 +122,7 @@ Programmets andra år innehåller grundkurser i nationalekonomi och fortsättni
 
 Programmets tredje år ger en fördjupning inom valt huvudområde. För den som väljer huvudområdet nationalekonomi läses under femte terminen fortsättningskurser i mikro- och makroekonomi, tillämpad matematik och ekonometri. För den som väljer huvudområdet företagsekonomi och vill bli revisor rekommenderas under femte terminen fördjupning i koncernredovisning, obeståndsrätt och beskattningsrätt. 
 
-Programmets avslutande sjätte termin innebär en successiv fördjupning av de teoretiska och metodologiska kunskaperna inom det valda huvudområdet. Inom det nationalekonomiska huvudområdet sker den teoretiska och metodologiska fördjupningen inom området mikroekonomi, samhällsekonomiska lönsamhetsberäkningar och examensarbete för kandidatexamen som t.ex. kan ta sin utgångpunkt i ett aktuellt samhällsekonomiskt problem. Inom det företagsekonomiska huvudområdet sker den teoretiska och metodologiska fördjupningen genom en tematisk kurs med fokus på aktuell och relevant forskning och forskningsfrågor inom företagsekonomi, en metodkurs och examensarbete för kandidatexamen. 
+Programmets avslutande sjätte termin innebär en successiv fördjupning av de teoretiska och metodologiska kunskaperna inom det valda huvudområdet. Inom det nationalekonomiska huvudområdet sker den teoretiska och metodologiska fördjupningen inom området mikroekonomi, samhällsekonomiska lönsamhetsberäkningar och examensarbete för kandidatexamen som t.ex. kan ta sin utgångspunkt i ett aktuellt samhällsekonomiskt problem. Inom det företagsekonomiska huvudområdet sker den teoretiska och metodologiska fördjupningen genom en tematisk kurs med fokus på aktuell och relevant forskning och forskningsfrågor inom företagsekonomi, en metodkurs och examensarbete för kandidatexamen. 
 
 Studenter som vill ha en filosofie kandidatexamen i nationalekonomi istället för en ekonomie kandidatexamen ges andra året möjlighet att fritt välja kurser istället för att läsa fortsättningskurser i företagsekonomi. Studenter som vill ha en filosofie kandidatexamen i företagsekonomi istället för en ekonomie kandidat i företagsekonomi ges andra året möjlighet att fritt välja kurser istället för att läsa de nationalekonomiska kurserna internationell ekonomi och finansiella marknader och penningpolitik. Valfriheten för filosofie kandidatexamen i företagsekonomi omfattar även 30 högskolepoäng termin fem. Detta innebär en möjlighet till studier av valfria kurser i företagsekonomi, nationalekonomi eller i andra ämnen, på Högskolan dalarna eller vid andra lärosäten inom Sverige eller utomlands. 
 

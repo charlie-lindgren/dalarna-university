@@ -10,20 +10,19 @@ amne_kod: "SKA"
 institution: "IKS"
 tags: [kursplan, SKA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: aadb4e1df0e502c5
+scrape_hash: b3327402896251f5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASK22L
 up: "[[Statsvetenskap]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Bloom-taxonomi | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [6,0,2,0,0,0] |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Muntliga redovisningar, skriftliga inlämningsuppgifter och aktivt deltagande i seminarier.… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
-> | Stavfel och språkbruk | Felstavning (en) | `formes` (en) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen ingår i Magisterprogram: Demokrati, medborgarskap och förändring.… |
 <!-- analys:end -->
 
@@ -117,7 +116,7 @@ Kursen ingår i Magisterprogram: Demokrati, medborgarskap och förändring.
 
 After completing this course, students shall be able to:
 
-  - demonstrate in depth knowledge in the comparative method and its three main formes:; case studies, focused comparisons, and large-N studies
+  - demonstrate in depth knowledge in the comparative method and its three main forms: case studies, focused comparisons, and large-N studies
 
   - demonstrate in depth understanding off how the choice of research method is connected to problem formulation and analytical frameworks
 
