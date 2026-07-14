@@ -510,6 +510,23 @@ def suggestion_for(detail: str) -> str:
     return CORRECTIONS.get(token, "")
 
 
+# Kända felstavningar visas som "`mönster` → rättning". När Förslag-kolumnen finns
+# är pilen/rättningen redundant → visa bara det (regex-rensade) ordet i Detalj.
+_KNOWN_TYPO_DISPLAY_RE = re.compile(r"^`([^`]+)`\s*→\s*.+?(\s*\(en\))?\s*$")
+
+
+def display_detail(detail: str) -> str:
+    """Rensa detaljfältet för visning bredvid Förslag-kolumnen: kända felstavningar
+    visas bara som det felstavade ordet (utan ``\\b``-markörer och ``→ rättning``),
+    eftersom rättningen står i Förslag. Övriga detaljer lämnas orörda."""
+    m = _KNOWN_TYPO_DISPLAY_RE.match(detail)
+    if not m:
+        return detail
+    token = m.group(1).replace(r"\b", "")
+    lang = m.group(2) or ""
+    return f"`{token}`{lang}"
+
+
 # ─────────────────────────────────────────────────────────────────────────────
 # Callout-byggare
 # ─────────────────────────────────────────────────────────────────────────────
