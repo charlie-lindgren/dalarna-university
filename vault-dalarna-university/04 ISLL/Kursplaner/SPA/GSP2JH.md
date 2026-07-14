@@ -235,24 +235,24 @@ roll i språkundervisningen.
 deltagande i seminarier, skriftliga prov samt en nätbaserad skriftlig
 sluttentamen.  
 
-****Delkurs 2**** examineras genom aktivt deltagande i seminarier
+Delkurs 2 examineras genom aktivt deltagande i seminarier
 och forumdiskussioner, skriftliga reflekterande inlämningsuppgifter samt muntliga
 presentationer.  
 
-****Delkurs 3**** examineras genom aktivt deltagande i seminarier,
+Delkurs 3 examineras genom aktivt deltagande i seminarier,
 muntliga inlämningsuppgifter samt en skriftlig nätbaserad tentamen.  
 
-****Delkurs 4**** examineras genom aktivt deltagande
+Delkurs 4 examineras genom aktivt deltagande
 i seminarier, skriftliga inlämningsuppgifter samt
 skriftliga prov.  
 
-****Delkurs 5**** examineras genom aktivt deltagande i seminarier
+Delkurs 5 examineras genom aktivt deltagande i seminarier
 och forumdiskussioner, skriftliga reflekterande texter samt muntliga presentationer.  
 
-****Delkurs 6**** examineras genom aktivt deltagande i seminarier
+Delkurs 6 examineras genom aktivt deltagande i seminarier
 och forumdiskussioner samt skriftliga och muntliga inlämningsuppgifter.  
 
-****Delkurs 7**** examineras genom aktivt deltagande i seminarier
+Delkurs 7 examineras genom aktivt deltagande i seminarier
 och forumdiskussioner, skriftliga inlämningsuppgifter samt muntliga
 redovisningar.
 

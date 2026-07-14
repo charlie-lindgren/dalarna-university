@@ -128,7 +128,7 @@ Programmet avslutas med ett examensarbete. Examensarbetet kan utföras i vid uni
 **Samtliga kurser är på avancerad nivå och tillhör huvudområdet Solenergiteknik.**
 
 
-****Termin 1****
+Termin 1
 
 - [[AEG2B6|Solstrålning och solgeometri]], 5 hp
 - [[EG3007|Solvärme]], 7,5 hp
@@ -136,7 +136,7 @@ Programmet avslutas med ett examensarbete. Examensarbetet kan utföras i vid uni
 - [[AEG233|Solel]], 7,5 hp
 - [[AEG22R|Tillämpad solenergiteknik]], 7,5 hp
 
-****Termin 2****
+Termin 2
 
 - [[EG3009|Design av solvärmesystem]], 7,5 hp
 - Design av PV hybrid system, 7,5 hp

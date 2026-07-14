@@ -219,7 +219,7 @@ Den verksamhetsförlagda utbildningen har en progression där den studerande fö
 - Ämne 2 med didaktisk inriktning III, 30 hp
 - Examensarbete i ämne 1 eller 2, 30 hp
 
-****Ämneskombinationer****
+Ämneskombinationer
 
 
 **I enlighet med Förordning (2021:1335) om utbildning till lärare och förskollärare, 4 kap, kan samtliga ämnen vid Högskolan Dalarna, inom ramen för en ämneslärarexamen inriktning gymnasieskolan, kombineras fritt med varandra med undantag för följande begränsningar:**

@@ -181,17 +181,17 @@ Den verksamhetsförlagda utbildningen omfattar 30 högskolepoäng och är förla
 ## 3. Programmets kurser
 
 - Programmets kurser utgörs av utbildningsvetenskaplig kärna, 60 högskolepoäng
-****Termin 1 (för helfartsstudier) alternativt År 1 (för halvfartsstudier)****
+Termin 1 (för helfartsstudier) alternativt År 1 (för halvfartsstudier)
 
 - <a class="no-graph" href="GPG3EU">Didaktik och läroplansteori</a>, 15 hp
 - <a class="no-graph" href="GPG2RH">Undervisning och ledarskap – KPU</a>, 15 hp
 
-****Termin 2 (för helfartsstudier) alternativt År 2 (för halvfartsstudier)****
+Termin 2 (för helfartsstudier) alternativt År 2 (för halvfartsstudier)
 
 - <a class="no-graph" href="GPG2S7">Kunskap, lärande och bedömning – KPU</a>, 15 hp
 - <a class="no-graph" href="GPG2S8">Ämnesdidaktik och specialpedagogik – KPU</a>, 15 hp
 
-****Termin 3 (för helfartsstudier) alternativt År 3 (för halvfartsstudier)****
+Termin 3 (för helfartsstudier) alternativt År 3 (för halvfartsstudier)
 
 - <a class="no-graph" href="APG282">Examensarbete för ämneslärare</a>, 15 hp
 - <a class="no-graph" href="APG27Z">Professionellt lärarskap och skolutveckling – KPU</a>, 15 hp

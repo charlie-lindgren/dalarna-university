@@ -142,7 +142,7 @@ I inriktningskurserna avspeglas assisterande teknik genom exempel och tillämpni
 **Samtliga kurser ges på grundnivå och är obligatoriska för att examen ska utfärdas med programnamn.**
 
 
-****År 1****
+År 1
 
 - [[GMT338|3D-CAD – grundkurs]], 7,5 hp
 - [[GMT3HZ|Assisterande produkter]], 12 hp
@@ -152,7 +152,7 @@ I inriktningskurserna avspeglas assisterande teknik genom exempel och tillämpni
 - <a class="no-graph" href="GVV3JJ">Människokroppen och funktionsnedsättningar</a>, 15hp
 - <a class="no-graph" href="GVV3JK">Mätmetoder för tillämpningar inom assisterande teknik</a>, 7,5 hp
 
-****År 2****
+År 2
 
 - [[GMA2ZS|Analys i en variabel]], 7,5 hp
 - [[GMT3JV|Assisterande robotik]], 7,5 hp
@@ -163,7 +163,7 @@ I inriktningskurserna avspeglas assisterande teknik genom exempel och tillämpni
 - [[GMT3JU|Smarta hem och e-hälsoteknik]], 7,5 hp
 - [[GMT3JT|Tillämpning av regelverk för assisterande produkter]], 7,5 hp
 
-****År 3****
+År 3
 
 - [[GMT3K5|Examensarbete i assisterande teknik med inriktning mot maskinteknik]], 15 hp
 - Finita elementmetoden i praktiken, 7,5 hp

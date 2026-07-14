@@ -138,7 +138,7 @@ Inom programmet ges internationella och globala perspektiv genom kurslitterature
 
 ## 3. Programmets kurser
 
-****Pedagogiskt arbete****
+Pedagogiskt arbete
 
 
 **Inom grundlärarutbildningen vid Högskolan Dalarna svarar ämnet pedagogiskt arbete för kurserna inom den utbildningsvetenskapliga kärnan som krävs för grundlärarexamen. Pedagogiskt arbete som ämne fokuserar den pedagogiska yrkesverksamhetens praktik och teori. Ämnet är således mångvetenskapligt och integrerar teorier och metoder från olika forskningsfält där den pedagogiska yrkesverksamheten står i centrum.**

@@ -61,7 +61,7 @@ Efter avslutad kurs ska studenten kunna;
   - Redogöra för användandet av olika verktyg vid destinationsutveckling och planering. (7)
  
 
-**Värderingsförmåga och förhållningssät****t**
+**Värderingsförmåga och förhållningssätt**
  
  
   - Kritiskt utvärdera olika aspekter av turismutveckling och dess relation till ekonomi, miljö och lokalsamhället. (8) 

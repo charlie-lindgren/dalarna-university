@@ -433,17 +433,17 @@ Examen avsedd för undervisning i grundskolans årskurs 1-7, grundskolans årsku
 - [[GPG33D|Utveckling, lärande och ledarskap]], 7,5 hp
 - [[GPG33E|Sociala relationer, skolans historiska utveckling och samhällsuppdrag]], 7,5 hp
 
-**- Individuellt anpassad kurs utifrån studentens behov enligt individuell studieplan******
+**- Individuellt anpassad kurs utifrån studentens behov enligt individuell studieplan**
 
 
 ***För student som har ett självständigt arbete inom ramen för ämnesstudierna krävs ej denna kurs.**
 
 - En valideringskurs inom verksamhetsförlagd utbildning erbjuds (Verksamhetsförlagd utbildning – VAL, 7,5 hp) som, om den godkänns, ligger till grund för validering av kurserna Verksamhetsförlagd utbildning 1-3, totalt, 30 hp
 
-*****Kurser för studenter som antas med minst åtta och ett halvt års lärarerfarenhet enligt SFS 2011:689 §17.**
+*Kurser för studenter som antas med minst åtta och ett halvt års lärarerfarenhet enligt SFS 2011:689 §17.**
 
 
-******För student som uppfyller kravet på självständigt arbete inom ramen för ämnesstudier.**
+**För student som uppfyller kravet på självständigt arbete inom ramen för ämnesstudier.**
 
 
 ## 4. Examensbenämning
