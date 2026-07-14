@@ -290,6 +290,164 @@ def parse_rapport(path: Path) -> list[tuple[str, str, str, str]]:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
+# Rättningsförslag
+# ─────────────────────────────────────────────────────────────────────────────
+# Kurerad uppslagstabell: felstavat ord (gemener) → föreslagen rättning. Fyller
+# kolumnen "Förslag" i stavningsanalyserna. Nyupptäckta ord som saknas här ger
+# en tom cell (inget förslag), precis som önskat. Kända felstavningar
+# (``check_known_typos``) bär redan sin rättning i detaljfältet (``… → …``);
+# ``suggestion_for`` plockar upp den automatiskt, så de behöver inte listas här.
+CORRECTIONS: dict[str, str] = {
+    # ── IKS ──────────────────────────────────────────────────────────────────
+    "däremellen": "däremellan",
+    "devolop": "develop",
+    "berätttarelement": "berättarelement",
+    "excersises": "exercises",
+    "delkurseninnehåller": "delkursen innehåller",
+    "thise": "this",
+    "evaulate": "evaluate",
+    "evaulates": "evaluates",
+    "intiate": "initiate",
+    "litterature": "literature",
+    "kalandermånader": "kalendermånader",
+    "kollegialtlärande": "kollegialt lärande",
+    "gryndsyn": "grundsyn",
+    "rättsäkerhet": "rättssäkerhet",
+    "credtis": "credits",
+    "samhällorienterande": "samhällsorienterande",
+    "tobbit": "Tobit",
+    # ── ISLL — engelska ────────────────────────────────────────────────────────
+    "proficiencythrough": "proficiency through",
+    "assesment": "assessment",
+    "assessement": "assessment",
+    "diffrent": "different",
+    "stilistic": "stylistic",
+    "accademic": "academic",
+    "htat": "that",
+    "selction": "selection",
+    "criticially": "critically",
+    "oligatory": "obligatory",
+    "obilgatory": "obligatory",
+    "ttheir": "their",
+    "froming": "forming",
+    "analye": "analyse",
+    "anlyses": "analyses",
+    "knowlege": "knowledge",
+    "coomprising": "comprising",
+    "beteen": "between",
+    "devlopment": "development",
+    "intepreted": "interpreted",
+    "literarature": "literature",
+    "indepently": "independently",
+    "amd": "and",
+    "percieving": "perceiving",
+    "orbally": "orally",
+    "defens": "defence",
+    "ehtics": "ethics",
+    "teachning": "teaching",
+    "indentify": "identify",
+    "particicpation": "participation",
+    "themself": "themselves",
+    "continuos": "continuous",
+    "contunuous": "continuous",
+    "examinationin": "examination in",
+    "andcultural": "and cultural",
+    "opprtunity": "opportunity",
+    "sritten": "written",
+    "writtem": "written",
+    "witten": "written",
+    "featuers": "features",
+    "textsabout": "texts about",
+    "tha": "that",
+    "thsi": "this",
+    "prinicipe": "principle",
+    "credis": "credits",
+    "creits": "credits",
+    "formualte": "formulate",
+    "sccholarly": "scholarly",
+    "schlarly": "scholarly",
+    "theseis": "thesis",
+    "fto": "to",
+    "urther": "further",
+    "assigments": "assignments",
+    "assingments": "assignments",
+    "realtion": "relation",
+    "communciation": "communication",
+    "pracitse": "practise",
+    "refelction": "reflection",
+    "affrican": "African",
+    "centrual": "central",
+    "dealrs": "deals",
+    "dourse": "course",
+    "egarding": "regarding",
+    "prespectives": "perspectives",
+    "relatec": "related",
+    "researchj": "research",
+    "teorritoriality": "territoriality",
+    "edcuation": "education",
+    "additon": "addition",
+    "brign": "bring",
+    "othe": "other",
+    "rmedia": "media",
+    # ── ISLL — svenska ──────────────────────────────────────────────────────────
+    "inlämmningsuppgifter": "inlämningsuppgifter",
+    "nlämningsuppgifter": "inlämningsuppgifter",
+    "förseminarieupgifter": "förseminarieuppgifter",
+    "bedöming": "bedömning",
+    "föväntas": "förväntas",
+    "ideströmningar": "idéströmningar",
+    "franskpråkig": "franskspråkig",
+    "tyskpråkig": "tyskspråkig",
+    "godänd": "godkänd",
+    "språkfärdiget": "språkfärdighet",
+    "gundläggande": "grundläggande",
+    "forsätter": "fortsätter",
+    "literära": "litterära",
+    "läsförståesle": "läsförståelse",
+    "jämörs": "jämförs",
+    "framställing": "framställning",
+    "tillfredställande": "tillfredsställande",
+    "näbaserade": "nätbaserade",
+    "änvänder": "använder",
+    "användingen": "användningen",
+    "skriftspråksanvänding": "skriftspråksanvändning",
+    "tiilämpa": "tillämpa",
+    "tilllämpa": "tillämpa",
+    "sjävständighet": "självständighet",
+    "samhällssyttringar": "samhällsyttringar",
+    "samhällssyttring": "samhällsyttring",
+    "ämnesdidaktiskområde": "ämnesdidaktiskt område",
+    "ochspanskspråkiga": "och spanskspråkiga",
+    "ochförhållningssätt": "och förhållningssätt",
+    "förtjänstersåväl": "förtjänster såväl",
+    "ställdakrav": "ställda krav",
+    "tidsramargenomföra": "tidsramar genomföra",
+    "vilarpå": "vilar på",
+}
+
+# Rättning inbäddad i detaljfältet av ``check_known_typos``: "`mönster` → rättning".
+_KNOWN_TYPO_RE = re.compile(r"^`[^`]+`\s*→\s*(.+?)(?:\s*\(en\))?\s*$")
+# Första backticks-omslutna ordet i ett detaljfält (hunspell/dubblettfynd).
+_FIRST_TOKEN_RE = re.compile(r"`([^`]+)`")
+
+
+def suggestion_for(detail: str) -> str:
+    """Härled ett rättningsförslag ur ett detaljfält, eller "" om inget känt.
+
+    Två källor: (1) kända felstavningar bär redan "→ rättning" i detaljen; den
+    plockas upp direkt. (2) Övriga fynd (hunspell) slås upp mot ``CORRECTIONS``
+    på det flaggade ordet. Saknas ordet ges inget förslag."""
+    m = _KNOWN_TYPO_RE.match(detail)
+    if m:
+        return m.group(1).strip()
+    m = _FIRST_TOKEN_RE.search(detail)
+    if not m:
+        return ""
+    token = m.group(1).strip().strip("\\b").lower()
+    return CORRECTIONS.get(token, "")
+
+
+# ─────────────────────────────────────────────────────────────────────────────
 # Callout-byggare
 # ─────────────────────────────────────────────────────────────────────────────
 
@@ -330,6 +488,15 @@ def build_callout(
         href = f"{inst_slug}/Analys/{xlsx_slug}"
     else:
         href = xlsx_slug
+    # Kolumnen "Förslag" visas bara när minst en rad har en känd rättning, så att
+    # icke-stavningsanalyser (betygsskalor, Bloom …) behåller sin ursprungslayout.
+    suggestions = [suggestion_for(detail) for _c, _s, _p, detail in rows]
+    has_sugg = any(suggestions)
+    head_cols = "Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj"
+    sep_cols = " | ".join(["---"] * 7)
+    if has_sugg:
+        head_cols += " | Förslag"
+        sep_cols += " | ---"
     lines = [
         f'<a class="download-xlsx" href="{href}" download>'
         f'{DOWNLOAD_ICON_SVG}'
@@ -338,10 +505,10 @@ def build_callout(
         "",
         f"> [!example]- {n} fynd — klicka för att expandera",
         ">",
-        "> | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |",
-        "> | --- | --- | --- | --- | --- | --- | --- |",
+        f"> | {head_cols} |",
+        f"> | {sep_cols} |",
     ]
-    for code, subj, problem, detail in rows:
+    for (code, subj, problem, detail), sugg in zip(rows, suggestions):
         url = plan_url_for(subj, code)
         # Escape `##` so Quartz doesn't render it as a heading/tag link inside
         # the table cell — the excerpt quotes raw kursplan markdown verbatim.
@@ -350,10 +517,13 @@ def build_callout(
         # `no-graph` håller länken utanför grafvyn (annars skulle varje analyshubb
         # få en edge till varenda problematisk plan och tangla grafen).
         sida = f'<a class="no-graph" href="{slug}">sida</a>' if slug else "—"
-        lines.append(
+        row = (
             f"> | [{code}]({url}) | {sida} | {subj} | "
             f"{faststalld or '—'} | {reviderad or '—'} | {problem} | {cell_detail} |"
         )
+        if has_sugg:
+            row += f" {sugg or '—'} |"
+        lines.append(row)
     return lines
 
 
@@ -517,7 +687,16 @@ def build_xlsx(
     ws = wb.active
     ws.title = sheet_title[:31]  # Excel max sheet title length
 
-    headers = ["Kursplan", "Ämne", "Fastställd", "Reviderad", "Problem", "Detalj", "Länk"]
+    # Speglar sidtabellen: "Förslag" tas bara med när någon rad har en rättning.
+    suggestions = [suggestion_for(detail) for _c, _s, _p, detail in rows]
+    has_sugg = any(suggestions)
+    headers = ["Kursplan", "Ämne", "Fastställd", "Reviderad", "Problem", "Detalj"]
+    widths = [12, 8, 12, 12, 28, 70]
+    if has_sugg:
+        headers.append("Förslag")
+        widths.append(28)
+    headers.append("Länk")
+    widths.append(70)
     ws.append(headers)
     for cell in ws[1]:
         cell.font = HEADER_FONT
@@ -525,10 +704,14 @@ def build_xlsx(
         cell.alignment = Alignment(horizontal="left", vertical="center")
 
     link_col = len(headers)  # "Länk" is the last column
-    for code, subj, problem, detail in rows:
+    for (code, subj, problem, detail), sugg in zip(rows, suggestions):
         url = plan_url_for(subj, code)
         faststalld, reviderad, _slug = meta_map.get(code, (None, None, None))
-        ws.append([code, subj, faststalld or "", reviderad or "", problem, detail, url])
+        values = [code, subj, faststalld or "", reviderad or "", problem, detail]
+        if has_sugg:
+            values.append(sugg)
+        values.append(url)
+        ws.append(values)
         row_idx = ws.max_row
         kod_cell = ws.cell(row=row_idx, column=1)
         kod_cell.hyperlink = url
@@ -537,7 +720,6 @@ def build_xlsx(
         link_cell.hyperlink = url
         link_cell.font = LINK_FONT
 
-    widths = [12, 8, 12, 12, 28, 70, 70]
     for i, w in enumerate(widths, start=1):
         ws.column_dimensions[get_column_letter(i)].width = w
 
