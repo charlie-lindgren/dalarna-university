@@ -276,7 +276,7 @@ SV_IGNORE = {
     "låneord","europeiskspråkiga","främmandespråksforskning","läsintryck",
     "lärsituation","lärsituationer","läsmiljöns","högstadie",
     "skalnivå","flerspårsmaterial","fördjupningskod","användar","efterfråge",
-    "studieförb","longterm","shortterm","tobbit","lärarlagsarbete",
+    "studieförb","longterm","shortterm","lärarlagsarbete",
     "lärstrategier","rättsäkerhetsproblematiken","lärarprofessionsspecifika",
     "obestånds",
     # Utbildningsplaner — fältspecifika sammansättningar + egennamn
@@ -509,6 +509,8 @@ EN_IGNORE = {
     "postproduction","explainer","naprapath","educare","evolvement","subtasks",
     "iatrogenic","empathic","geodemographic","interorganizational",
     "systematicity","semantical","recognises","cerqual",
+    # QC 2026-07-15 — IKS: giltiga facktermer/jargong (ej stavfel)
+    "djing","learnings",
 }
 
 
