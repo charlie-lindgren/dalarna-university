@@ -417,6 +417,7 @@ CORRECTIONS: dict[str, str] = {
     "samhällssyttringar": "samhällsyttringar",
     "samhällssyttring": "samhällsyttring",
     "ämnesdidaktiskområde": "ämnesdidaktiskt område",
+    "samtidafrågor": "samtida frågor",
     "ochspanskspråkiga": "och spanskspråkiga",
     "ochförhållningssätt": "och förhållningssätt",
     "förtjänstersåväl": "förtjänster såväl",
@@ -506,7 +507,10 @@ def suggestion_for(detail: str) -> str:
     m = _FIRST_TOKEN_RE.search(detail)
     if not m:
         return ""
-    token = m.group(1).strip().strip("\\b").lower()
+    # Detaljen kommer från hunspell/dubblettfynd → ordet är en ren token utan
+    # regex-markörer (``\b`` finns bara i kända-felstavningsmönster, som fångas
+    # av arrow-grenen ovan). Ingen ``\b``-strippning behövs här.
+    token = m.group(1).strip().lower()
     return CORRECTIONS.get(token, "")
 
 

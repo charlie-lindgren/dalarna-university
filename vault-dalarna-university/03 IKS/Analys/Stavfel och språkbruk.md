@@ -16,7 +16,7 @@ status: första pass
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [AB1022](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1022) | <a class="no-graph" href="03-IKS/Kursplaner/ABA/AB1022">sida</a> | ABA | 2013-06-13 | — | Felstavning | `däremellen` (sv) | däremellan |
 > | [BQ1079](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BQ1079) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/BQ1079">sida</a> | BPO | 2014-03-18 | — | Felstavning (en) | `devolop` (en) | develop |
-> | [GBQ2WK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2WK) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ2WK">sida</a> | BPO | 2022-05-25 | — | Felstavning | `berätttarelement` (sv) | — |
+> | [GBQ2WK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2WK) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ2WK">sida</a> | BPO | 2022-05-25 | — | Felstavning | `berätttarelement` (sv) | berättarelement |
 > | [GBQ3FG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3FG) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ3FG">sida</a> | BPO | 2025-02-27 | — | Felstavning (en) | `excersises` (en) | exercises |
 > | [GHI33V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI33V) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI33V">sida</a> | HIA | 2023-03-15 | — | Felstavning | `delkurseninnehåller` (sv) | delkursen innehåller |
 > | [KG1025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=KG1025) | <a class="no-graph" href="03-IKS/Kursplaner/KGA/KG1025">sida</a> | KGA | 2010-04-20 | 2012-10-18 | Felstavning (en) | `thise` (en) | this |
