@@ -129,11 +129,13 @@ KNOWN_TYPOS = {
     r"avstämmning": "avstämning",
     r"jämviktsystem": "jämviktssystem",
     r"solcellsanläggingar": "solcellsanläggningar",
+    r"\btobbit\b": "Tobit",  # Tobitmodellen (efter James Tobin) — dubbel-b är felstavning
 }
 
 KNOWN_TYPOS_EN = {
     r"indicies": "indices",
     r"rythm": "rhythm",
+    r"\btobbit\b": "Tobit",  # the Tobit model (after James Tobin) — double-b is a typo
 }
 
 
