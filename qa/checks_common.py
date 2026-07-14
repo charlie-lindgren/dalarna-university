@@ -297,6 +297,15 @@ SV_IGNORE = {
     # QC 2026-07-15 — IKS: egennamn, orter och giltiga sammansättningar (ej stavfel)
     "glavå","västafrika","jörgensen","göran","åsa","påbyggbar","thorbjörn",
     "fändrik","umeå","enström","möjliggörandet","grundlärar","ämneslärar",
+    # Svenska orter/kommuner — förhandsifyllda så de aldrig flaggas som misstänkt
+    # typo (alltid giltiga; kan inte maskera ett verkligt stavfel). Dalarnas egna
+    # campusorter (Falun, Borlänge) samt vanliga lärosätesorter.
+    "falun","faluns","borlänge","borlänges","mora","avesta","ludvika",
+    "hedemora","rättvik","leksand","säter","orsa","malung","vansbro","gagnef",
+    "stockholm","stockholms","uppsala","uppsalas","lund","lunds","västerås",
+    "karlstad","karlstads","sundsvall","luleå","kalmar","växjö","skövde",
+    "trollhättan","östersund","visby","kristianstad","borås","helsingborg",
+    "eskilstuna","karlskrona","halmstad",
 }
 HAS_SV = re.compile(r"[åäöÅÄÖ]")
 
