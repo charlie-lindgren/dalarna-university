@@ -9,20 +9,18 @@ amne: "Franska"
 amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
-scrape_hash: 6b2b4853b9cad448
+scrape_hash: 1740d947f72c90c9
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR2A8
 up: "[[Franska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens mål är att den studerande utvecklar fördjupade kunskaper om talad franska och dess olika varianter vad gäller ut… |
 > | Omfång på lärandemål | Långt mål | 27 ord: - redogöra för de vanligaste problemen som svenska inlärare av franska har när d… |
-> | Stavfel och språkbruk | Felstavning (en) | `amd` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `percieving` (en) |
 <!-- analys:end -->
 
 # AFR2A8
@@ -102,7 +100,8 @@ Upon completion of the course, students will be able to:
 
 ### Course Content
 
-The course includes advanced studies in spoken French. In the course modern spoken French is looked at and analysed from a syntactic, phonetic and sociolinguistic perspective. The course also includes varied exercises in understanding spoken French as well as a review of common problems of Swedish students of French when it comes to percieving amd understanding spoken French.
+The course includes advanced studies in spoken French. In the course modern spoken French is looked at and analysed from a syntactic, phonetic and sociolinguistic perspective. The course also includes varied exercises in understanding spoken French as well as a review of common problems of Swedish students of French when it comes to perceiving  
+and understanding spoken French.
 
 ### Assessment
 

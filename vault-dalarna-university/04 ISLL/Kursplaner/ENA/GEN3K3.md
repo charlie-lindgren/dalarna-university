@@ -10,13 +10,13 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 15e9be18bca9e2af
+scrape_hash: 72f6e51199f42b36
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3K3
 up: "[[Engelska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -27,7 +27,6 @@ up: "[[Engelska]]"
 > | Omfång på lärandemål | Långt mål | 28 ord: - muntligt och skriftligt kommunicera sin egen såväl som andras tolkning av hist… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 14 mål, engelska: 1 mål (diff 13) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning (en) | `literarature` (en) |
 <!-- analys:end -->
 
 # GEN3K3
@@ -148,14 +147,18 @@ On completion of the module, students will be able to:
 
 2.The History of British and American Literature and Ideas, 15 Credits
 
- On completion of the module, students will be able to:
- 
- 
-  - demonstrate knowledge of the historical development of British and American literature from the perspective of the history of ideas 
-  - account for main features in the Anglo-Saxon world of literarature and history of ideas, from the Renaissance to Postmodernism, by associating representative literary works with corresponding trends in the history of ideas 
-  - explain and argue for similarities and differences in the historical development of British and American history of ideas and literary history 
-  - critically reflect, analyse and interpret literary texts from a historical and contextual perspective, with a certain degree of independence, both orally and in writing 
-  - orally and in writing communicate their own and others’ interpretations of trends in the history of ideas and in literary texts, showing inter-cultural understanding and ethical awareness 
+On completion of the module, students will be able to:
+
+  - demonstrate knowledge of the historical development of British and American literature from the perspective of the history of ideas
+
+  - account for main features in the Anglo-Saxon world of literature and history of ideas, from the Renaissance to Postmodernism, by associating representative literary works with corresponding trends in the history of ideas
+
+  - explain and argue for similarities and differences in the historical development of British and American history of ideas and literary history
+
+  - critically reflect, analyse and interpret literary texts from a historical and contextual perspective, with a certain degree of independence, both orally and in writing
+
+  - orally and in writing communicate their own and others’ interpretations of trends in the history of ideas and in literary texts, showing inter-cultural understanding and ethical awareness
+
   - write an academic essay.
 
 ### Course Content

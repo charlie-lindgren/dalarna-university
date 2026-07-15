@@ -9,18 +9,17 @@ amne: "Arabiska"
 amne_kod: "ARA"
 institution: "ISLL"
 tags: [kursplan, ARA, ISLL]
-scrape_hash: f307616985711559
+scrape_hash: 320992b3e2967d2d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR39K
 up: "[[Arabiska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska studenten på arabiska kunna:… |
-> | Stavfel och språkbruk | Felstavning (en) | `htat` (en) |
 <!-- analys:end -->
 
 # GAR39K
@@ -96,7 +95,7 @@ On completion of the course, students will, in Arabic, be able to:
 
   - analyse a number of Arabic young adult fictional works using relevant theoretical references
 
-  - independently choose a theme htat is relevant to young adult literature and discuss it in relation to an Arabic young adult novel.
+  - independently choose a theme that is relevant to young adult literature and discuss it in relation to an Arabic young adult novel.
 
 ### Course Content
 

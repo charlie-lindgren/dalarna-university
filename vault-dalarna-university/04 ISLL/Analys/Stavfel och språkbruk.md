@@ -8,48 +8,14 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (118 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (84 rader)</span></a>
 
-> [!example]- 118 fynd — klicka för att expandera
+> [!example]- 84 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj | Förslag |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [AR1025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR1025) | <a class="no-graph" href="04-ISLL/Kursplaner/ARA/AR1025">sida</a> | ARA | 2013-06-14 | 2017-10-03 | Felstavning (en) | `proficiencythrough` (en) | proficiency through |
-> | [AR2001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR2001) | <a class="no-graph" href="04-ISLL/Kursplaner/ARA/AR2001">sida</a> | ARA | 2011-11-29 | 2020-07-03 | Dubblerat ord | `the` — …resentations of varying length.  \### Assessment  Grades for the the _Grammar and Texts_ module are based on continuous assesmen… | — |
 > | [AR2001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR2001) | <a class="no-graph" href="04-ISLL/Kursplaner/ARA/AR2001">sida</a> | ARA | 2011-11-29 | 2020-07-03 | Felstavning (en) | `assesment` (en) | assessment |
-> | [AR2001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR2001) | <a class="no-graph" href="04-ISLL/Kursplaner/ARA/AR2001">sida</a> | ARA | 2011-11-29 | 2020-07-03 | Felstavning (en) | `diffrent` (en) | different |
-> | [AR2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR2009) | <a class="no-graph" href="04-ISLL/Kursplaner/ARA/AR2009">sida</a> | ARA | 2015-09-15 | 2017-10-03 | Felstavning (en) | `stilistic` (en) | stylistic |
 > | [AR2010](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR2010) | <a class="no-graph" href="04-ISLL/Kursplaner/ARA/AR2010">sida</a> | ARA | 2015-09-15 | 2017-10-03 | Felstavning | `inlämmningsuppgifter` (sv) | inlämningsuppgifter |
-> | [AR2012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR2012) | <a class="no-graph" href="04-ISLL/Kursplaner/ARA/AR2012">sida</a> | ARA | 2017-09-13 | — | Felstavning (en) | `accademic` (en) | academic |
-> | [GAR39K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR39K) | <a class="no-graph" href="04-ISLL/Kursplaner/ARA/GAR39K">sida</a> | ARA | 2023-12-19 | — | Felstavning (en) | `htat` (en) | that |
-> | [GAR39L](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR39L) | <a class="no-graph" href="04-ISLL/Kursplaner/ARA/GAR39L">sida</a> | ARA | 2023-12-19 | — | Felstavning (en) | `selction` (en) | selection |
-> | [AEN252](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN252) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/AEN252">sida</a> | ENA | 2020-03-11 | — | Felstavning (en) | `criticially` (en) | critically |
-> | [AEN252](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN252) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/AEN252">sida</a> | ENA | 2020-03-11 | — | Felstavning (en) | `oligatory` (en) | obligatory |
-> | [AEN25S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN25S) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/AEN25S">sida</a> | ENA | 2020-06-04 | — | Felstavning (en) | `ttheir` (en) | their |
-> | [AEN2BW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BW) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/AEN2BW">sida</a> | ENA | 2025-09-03 | — | Felstavning (en) | `froming` (en) | forming |
-> | [AEN2BZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BZ) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/AEN2BZ">sida</a> | ENA | 2025-09-03 | — | Felstavning | `ochspanskspråkiga` (sv) | och spanskspråkiga |
-> | [EN2028](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN2028) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/EN2028">sida</a> | ENA | 2012-05-21 | 2021-06-30 | Felstavning (en) | `analye` (en) | analyse |
-> | [EN2043](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN2043) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/EN2043">sida</a> | ENA | 2015-03-16 | — | Felstavning (en) | `knowlege` (en) | knowledge |
-> | [EN2046](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN2046) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/EN2046">sida</a> | ENA | 2016-02-05 | — | Felstavning | `ämnesdidaktiskområde` (sv) | ämnesdidaktiskt område |
-> | [EN3063](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3063) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/EN3063">sida</a> | ENA | 2013-11-14 | 2021-06-30 | Felstavning (en) | `coomprising` (en) | comprising |
-> | [EN3071](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EN3071) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/EN3071">sida</a> | ENA | 2015-03-12 | — | Felstavning | `samtidafrågor` (sv) | samtida frågor |
-> | [GEN33R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN33R) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/GEN33R">sida</a> | ENA | 2023-03-03 | — | Felstavning | `förseminarieupgifter` (sv) | förseminarieuppgifter |
-> | [GEN379](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN379) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/GEN379">sida</a> | ENA | 2023-11-28 | — | Felstavning (en) | `beteen` (en) | between |
-> | [GEN379](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN379) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/GEN379">sida</a> | ENA | 2023-11-28 | — | Felstavning (en) | `devlopment` (en) | development |
-> | [GEN3BQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3BQ) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/GEN3BQ">sida</a> | ENA | 2024-05-24 | — | Felstavning (en) | `intepreted` (en) | interpreted |
-> | [GEN3CM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3CM) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/GEN3CM">sida</a> | ENA | 2024-09-13 | — | Felstavning | `bedöming` (sv) | bedömning |
-> | [GEN3CM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3CM) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/GEN3CM">sida</a> | ENA | 2024-09-13 | — | Felstavning | `föväntas` (sv) | förväntas |
-> | [GEN3CM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3CM) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/GEN3CM">sida</a> | ENA | 2024-09-13 | — | Felstavning | `ideströmningar` (sv) | idéströmningar |
-> | [GEN3DG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DG) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/GEN3DG">sida</a> | ENA | 2025-01-13 | — | Felstavning (en) | `literarature` (en) | literature |
-> | [GEN3DJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DJ) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/GEN3DJ">sida</a> | ENA | 2025-01-13 | — | Felstavning (en) | `anlyses` (en) | analyses |
-> | [GEN3DK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DK) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/GEN3DK">sida</a> | ENA | 2025-01-13 | — | Felstavning (en) | `anlyses` (en) | analyses |
-> | [GEN3DK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DK) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/GEN3DK">sida</a> | ENA | 2025-01-13 | — | Felstavning (en) | `indepently` (en) | independently |
-> | [GEN3DK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DK) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/GEN3DK">sida</a> | ENA | 2025-01-13 | — | Felstavning (en) | `knowlege` (en) | knowledge |
-> | [GEN3K3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3K3) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/GEN3K3">sida</a> | ENA | 2026-04-27 | — | Felstavning (en) | `literarature` (en) | literature |
-> | [AFR29D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR29D) | <a class="no-graph" href="04-ISLL/Kursplaner/FRA/AFR29D">sida</a> | FRA | 2023-06-28 | 2023-12-08 | Felstavning | `franskpråkig` (sv) | franskspråkig |
-> | [AFR2A8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR2A8) | <a class="no-graph" href="04-ISLL/Kursplaner/FRA/AFR2A8">sida</a> | FRA | 2023-12-08 | — | Felstavning (en) | `amd` (en) | and |
-> | [AFR2A8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR2A8) | <a class="no-graph" href="04-ISLL/Kursplaner/FRA/AFR2A8">sida</a> | FRA | 2023-12-08 | — | Felstavning (en) | `percieving` (en) | perceiving |
-> | [GFR2A8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2A8) | <a class="no-graph" href="04-ISLL/Kursplaner/FRA/GFR2A8">sida</a> | FRA | 2019-06-17 | — | Dubblerat ord | `writing` — …y basic French grammar in their own text production such as writing writing simple texts or summarizing a newspaper article in good Fre… | — |
 > | [GFR2HZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2HZ) | <a class="no-graph" href="04-ISLL/Kursplaner/FRA/GFR2HZ">sida</a> | FRA | 2020-09-04 | — | Felstavning (en) | `orbally` (en) | orally |
 > | [GFR3BS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3BS) | <a class="no-graph" href="04-ISLL/Kursplaner/FRA/GFR3BS">sida</a> | FRA | 2024-05-24 | — | Felstavning (en) | `defens` (en) | defence |
 > | [GFR3BS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3BS) | <a class="no-graph" href="04-ISLL/Kursplaner/FRA/GFR3BS">sida</a> | FRA | 2024-05-24 | — | Felstavning (en) | `ehtics` (en) | ethics |

@@ -9,20 +9,19 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: 83ffd523c273b6dd
+scrape_hash: 97320142290f64be
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN25S
 up: "[[Engelska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG.… |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom fortlöpande bedömning av aktivt deltagande i seminarier, samt muntliga redovisningar och skriftli… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
-> | Stavfel och språkbruk | Felstavning (en) | `ttheir` (en) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter EN3015 och EN3066.… |
 <!-- analys:end -->
 
@@ -95,7 +94,7 @@ On completion of the course, students will be able to:
 
 ### Course Content
 
-The course thematises influential modern theories within the field of literary studies in English and focuses on the impact on and uses of those theories in the study of literature in English. The course reflects on theories that have shaped literary studies and contextualises these within traditions of thought and socio-historical developments. It also considers questions of literary reading and meaning-making, as well as of how identity and society in English-speaking contexts have been formulated and understood. This includes understanding the potential that has been ascribed to literature with regard to these matters. The course analyses how modern theories can inform the interpretation of literary works. This includes a nuanced reflection on questions that literary works address and that the theories bring into sharp relief, as well as a complex approach to the knowledge that literary works can provide. The course problematises various aspects relating to the disciplinary field of literary theory and literary studies in English, and it helps students develop ttheir ability to conduct literary reading at an advanced level.
+The course thematises influential modern theories within the field of literary studies in English and focuses on the impact on and uses of those theories in the study of literature in English. The course reflects on theories that have shaped literary studies and contextualises these within traditions of thought and socio-historical developments. It also considers questions of literary reading and meaning-making, as well as of how identity and society in English-speaking contexts have been formulated and understood. This includes understanding the potential that has been ascribed to literature with regard to these matters. The course analyses how modern theories can inform the interpretation of literary works. This includes a nuanced reflection on questions that literary works address and that the theories bring into sharp relief, as well as a complex approach to the knowledge that literary works can provide. The course problematises various aspects relating to the disciplinary field of literary theory and literary studies in English, and it helps students develop their ability to conduct literary reading at an advanced level.
 
 ### Assessment
 

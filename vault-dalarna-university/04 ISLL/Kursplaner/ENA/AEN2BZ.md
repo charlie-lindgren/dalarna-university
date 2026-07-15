@@ -8,20 +8,19 @@ huvudomrade: "Interkulturella litteraturstudier 1"
 amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
-tags: [kursplan, ENA, ISLL]
-scrape_hash: c86244e763ebefb7
+tags: [kursplan, ENA, ISLL, forskarutbildning]
+scrape_hash: 55f025afc03402d6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BZ
 up: "[[Engelska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | Omfång på lärandemål | Långt mål | 27 ord: - självständigt analysera ett urval litterära verk från olika epoker som fokuser… |
-> | Stavfel och språkbruk | Felstavning | `ochspanskspråkiga` (sv) |
 <!-- analys:end -->
 
 # AEN2BZ
@@ -51,7 +50,7 @@ Efter avslutad kurs ska den studerande kunna:
 
 ## Innehåll
 
-Kursen fokuserar på jämförande litteraturvetenskaplig analys av migrationstematur ett diakront perspektiv. Kursen speglar den engelsk-, fransk- ochspanskspråkiga världens litterära traditioner. Begreppet migration förstås här i en vid mening som inbegriper förflyttning över geografiska, språkliga och kulturella gränser av såväl människor som litterära verk, världsåskådningar samt sociokulturella och litterära idéer. Kursen riktar in sig på hur dessa gränsöverskridande rörelser bidrar till att omdefiniera individuella och kollektiva identiteter, men också litterära traditioner. Kursens komparativa upplägg syftar till att identifiera likheter och skillnader som framträder när engelsk-, fransk- och spanskspråkiga litterära traditioner studeras och omvärderas utifrån ett migrationsperspektiv. De valda litterära verken analyseras med hjälp av relevanta teoribildningar, såsom postkolonialism, postnationalism, transkulturalitet och kosmopolitanism.
+Kursen fokuserar på jämförande litteraturvetenskaplig analys av migrationstematur ett diakront perspektiv. Kursen speglar den engelsk-, fransk- och spanskspråkiga världens litterära traditioner. Begreppet migration förstås här i en vid mening som inbegriper förflyttning över geografiska, språkliga och kulturella gränser av såväl människor som litterära verk, världsåskådningar samt sociokulturella och litterära idéer. Kursen riktar in sig på hur dessa gränsöverskridande rörelser bidrar till att omdefiniera individuella och kollektiva identiteter, men också litterära traditioner. Kursens komparativa upplägg syftar till att identifiera likheter och skillnader som framträder när engelsk-, fransk- och spanskspråkiga litterära traditioner studeras och omvärderas utifrån ett migrationsperspektiv. De valda litterära verken analyseras med hjälp av relevanta teoribildningar, såsom postkolonialism, postnationalism, transkulturalitet och kosmopolitanism.
 
 ## Examinationsformer
 

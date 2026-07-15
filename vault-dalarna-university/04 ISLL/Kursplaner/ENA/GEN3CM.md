@@ -9,13 +9,13 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: d8dfb4dafaa2ae6a
+scrape_hash: 674bf2c5a04f3d77
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3CM
 up: "[[Engelska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 16 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 13 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -32,9 +32,6 @@ up: "[[Engelska]]"
 > | Omfång på lärandemål | Långt mål | 30 ord: - visa förmåga att ställa en relevant forskningsfråga inom ett avgränsat problem… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 26 mål, engelska: 1 mål (diff 25) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning | `bedöming` (sv) |
-> | Stavfel och språkbruk | Felstavning | `föväntas` (sv) |
-> | Stavfel och språkbruk | Felstavning | `ideströmningar` (sv) |
 <!-- analys:end -->
 
 # GEN3CM
@@ -125,17 +122,17 @@ De studerande som har läst **ett annat språk som första ämne** läser delkur
 
 1.Brittisk och amerikansk litteratur- och idéhistoria, 12 högskolepoäng
 
-Delkursen innehåller studier av brittisk och amerikansk idé- och litteraturhistoria från renässansen till postmodernismen. Den historiska utvecklingen studeras genom att idéhistoriska studier varvas med närläsning av ett urval representativa litterära texter. På så vis läggs större vikt på de studerandes egen förståelse av de litterära texternas betydelse och funktion än på översiktliga kunskaper om historiska skeenden. Speciellt uppmärksammas den samtida synen på och till viss del omvärderingen av historiska anglosaxiska ideströmningar. Genom litteraturstudier belyses aspekter som kolonialism, imperialism, makt, kön, ras och klass. Delkursen består av två moduler:  
+Delkursen innehåller studier av brittisk och amerikansk idé- och litteraturhistoria från renässansen till postmodernismen. Den historiska utvecklingen studeras genom att idéhistoriska studier varvas med närläsning av ett urval representativa litterära texter. På så vis läggs större vikt på de studerandes egen förståelse av de litterära texternas betydelse och funktion än på översiktliga kunskaper om historiska skeenden. Speciellt uppmärksammas den samtida synen på och till viss del omvärderingen av historiska anglosaxiska idéströmningar. Genom litteraturstudier belyses aspekter som kolonialism, imperialism, makt, kön, ras och klass. Delkursen består av två moduler:  
 Modul 1 behandlar brittisk och amerikansk litteratur- och idéhistoria från renässansen till postmodernismen.  
 Modul 2 består av författandet av en akademisk uppsats på 3500 ord, inklusive uppsatshandledning och ett oppositionsseminarium.
 
 2.Introduktion till engelsk lingvistik för lärarstuderande, 12 högskolepoäng
 
-Delkursen ger en översikt av engelsk lingvistik. Lärandemålen uppnås genom studiet av teori och metod inom ett urval av centrala områden inom engelsk lingvistik, vilket inbegriper morfologi, syntax, semantik, pragmatik och sociolingvistik. Olika typer av autentiska data på engelska analyseras för att möjliggöra en djupare förståelse av teori och metod, samt för att ge möjligheter att öva sig i tillämpningen av språkvetenskaplig terminologi. Mot slutet av kursen föväntas de studerande kunna utföra en begränsad självständig språkvetenskaplig undersökning inom ett område av engelsk lingvistik.
+Delkursen ger en översikt av engelsk lingvistik. Lärandemålen uppnås genom studiet av teori och metod inom ett urval av centrala områden inom engelsk lingvistik, vilket inbegriper morfologi, syntax, semantik, pragmatik och sociolingvistik. Olika typer av autentiska data på engelska analyseras för att möjliggöra en djupare förståelse av teori och metod, samt för att ge möjligheter att öva sig i tillämpningen av språkvetenskaplig terminologi. Mot slutet av kursen förväntas de studerande kunna utföra en begränsad självständig språkvetenskaplig undersökning inom ett område av engelsk lingvistik.
 
 3.Språkdidaktik II A, 6 högskolepoäng
 
-Delkursen innehåller studier av olika aspekter av språklärande varvid diskussion och reflektion kring de didaktiska frågorna står i centrum. Ett inslag är elevers språkliga medvetande och hur de uppfattar sin situation som språkinlärare uttryckt i projektet _Strategier vid inlärning av moderna språk (STRIMS)._ Projektet är utgångspunkt för reflektion och diskussion om medvetenhet vid språkinlärning, kopplingen mellan strategier och språkutveckling och hur dessa kunskaper kan användas i språkundervisningen. Olika aspekter av bedöming och betygsättning i språk utgör ett annat viktigt inslag i delkursen. Den gemensamma europeiska referensramen (GERS) behandlas och sätts i relation till svenska skolans kurs- och ämnesplaner i engelska. I delkursen ingår också studier av hur informationsteknik kan användas i språkundervisning liksom att granska andra typer av undervisningsmaterial. Genom dessa olika teman i delkursen kan de studerande koppla de olika delkursernas innehåll till det framtida yrket och den konkreta undervisningssituationen liksom till de krav som ställs på språklärare i deras uppdrag i skolan.
+Delkursen innehåller studier av olika aspekter av språklärande varvid diskussion och reflektion kring de didaktiska frågorna står i centrum. Ett inslag är elevers språkliga medvetande och hur de uppfattar sin situation som språkinlärare uttryckt i projektet _Strategier vid inlärning av moderna språk (STRIMS)._ Projektet är utgångspunkt för reflektion och diskussion om medvetenhet vid språkinlärning, kopplingen mellan strategier och språkutveckling och hur dessa kunskaper kan användas i språkundervisningen. Olika aspekter av bedömning och betygsättning i språk utgör ett annat viktigt inslag i delkursen. Den gemensamma europeiska referensramen (GERS) behandlas och sätts i relation till svenska skolans kurs- och ämnesplaner i engelska. I delkursen ingår också studier av hur informationsteknik kan användas i språkundervisning liksom att granska andra typer av undervisningsmaterial. Genom dessa olika teman i delkursen kan de studerande koppla de olika delkursernas innehåll till det framtida yrket och den konkreta undervisningssituationen liksom till de krav som ställs på språklärare i deras uppdrag i skolan.
 
 4.Språkdidaktik II B, 6 högskolepoäng
 

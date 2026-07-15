@@ -9,13 +9,13 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: ae0d3671db744f62
+scrape_hash: 8985b91ec62ffb45
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DG
 up: "[[Engelska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -26,7 +26,6 @@ up: "[[Engelska]]"
 > | Omfång på lärandemål | Långt mål | 28 ord: - muntligt och skriftligt kommunicera sin egen såväl som andras tolkning av hist… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 14 mål, engelska: 1 mål (diff 13) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning (en) | `literarature` (en) |
 <!-- analys:end -->
 
 # GEN3DG
@@ -172,7 +171,7 @@ On completion of the module, students will be able to:
 
   - demonstrate knowledge of the historical development of British and American literature from the perspective of the history of ideas
 
-  - account for main features in the Anglo-Saxon world of literarature and history of ideas, from the Renaissance to Postmodernism, by associating representative literary works with corresponding trends in the history of ideas
+  - account for main features in the Anglo-Saxon world of literature and history of ideas, from the Renaissance to Postmodernism, by associating representative literary works with corresponding trends in the history of ideas
 
   - explain and argue for similarities and differences in the historical development of British and American history of ideas and literary history
 

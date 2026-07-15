@@ -9,18 +9,17 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: 18a1cde1957d2fae
+scrape_hash: 4a263d61ebd2fa36
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN33R
 up: "[[Engelska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska studenten kunna:… |
-> | Stavfel och språkbruk | Felstavning | `förseminarieupgifter` (sv) |
 <!-- analys:end -->
 
 # GEN33R
@@ -67,7 +66,7 @@ Slutbetyg på kursen sätts efter en samlad bedömning av examinator.
 
 Betyg rapporteras enligt följande:
 
-  - Seminarier, förseminarieupgifter, skriftlig uppsats - 7,5 hp | A–F
+  - Seminarier, förseminarieuppgifter, skriftlig uppsats - 7,5 hp | A–F
 
 ## Förkunskapskrav
 

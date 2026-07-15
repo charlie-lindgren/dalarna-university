@@ -8,21 +8,20 @@ huvudomrade: "Franska 1"
 amne: "Franska"
 amne_kod: "FRA"
 institution: "ISLL"
-tags: [kursplan, FRA, ISLL]
-scrape_hash: 91e8eb8df8c4893a
+tags: [kursplan, FRA, ISLL, forskarutbildning]
+scrape_hash: 52951d3ee20c2b97
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2A8
 up: "[[Franska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betygetVG på hela kursen krävs VG på minst 4 hp. Betygsrapportering: Modul 1: B… |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Fortlöpande examination genom skriftliga inlämningsuppgifter samt skriftligt slutprov.… |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen syftar till att utveckla förmågan att kommunicera skriftligt på franska.… |
-> | Stavfel och språkbruk | Dubblerat ord | `writing` — …y basic French grammar in their own text production such as writing writing simple texts or summarizing a newspaper article in good Fre… |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter FR1050.… |
 <!-- analys:end -->
 
@@ -100,7 +99,7 @@ On completion of the course, students shall be able to:
 
   - describe and apply the most common grammatical terms in various forms of linguistic analysis
 
-  - apply basic French grammar in their own text production such as writing writing simple texts or summarizing a newspaper article in good French
+  - apply basic French grammar in their own text production such as writing simple texts or summarizing a newspaper article in good French
 
   - use a basic vocabulary in French
 

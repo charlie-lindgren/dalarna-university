@@ -8,14 +8,14 @@ huvudomrade: "Engelska 1"
 amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
-tags: [kursplan, ENA, ISLL]
-scrape_hash: 0660738679795337
+tags: [kursplan, ENA, ISLL, forskarutbildning]
+scrape_hash: 16567513ce218dbe
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DK
 up: "[[Engelska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -24,9 +24,6 @@ up: "[[Engelska]]"
 > | Omfång på lärandemål | Långt mål | 27 ord: - inom givna tidsramar genomföra en självständig litteraturvetenskaplig studie m… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 13 mål, engelska: 1 mål (diff 12) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning (en) | `anlyses` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `indepently` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `knowlege` (en) |
 <!-- analys:end -->
 
 # GEN3DK
@@ -133,7 +130,7 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 ### Learning Outcomes
 
-The overall aim of the course is for students to acquire in-depth knowlege of literary studies in English. The course also aims for students to develop their written and oral skills, as well as to develop and apply literary and theoretical concepts to their analyses of literary texts.
+The overall aim of the course is for students to acquire in-depth knowledge of literary studies in English. The course also aims for students to develop their written and oral skills, as well as to develop and apply literary and theoretical concepts to their analyses of literary texts.
 
 ### Modules
 
@@ -169,7 +166,7 @@ On completion of the module, students will be able to:
 
   - demonstrate a familiarity with contemporary literary and cultural theory and concepts related to the _Bildungsroman_ as well as with relevant concepts in gender, ethnicity and ageing studies
 
-  - perform independent anlyses and interpretations of a selection of works pertaining to the contemporary _Bildungsroman_ in English in the light of these theories and concepts 
+  - perform independent analyses and interpretations of a selection of works pertaining to the contemporary _Bildungsroman_ in English in the light of these theories and concepts 
 
   - orally and in writing communicate and argue for their own interpretations of literary texts in clear and correct academic English
 
@@ -202,7 +199,7 @@ The aim of this module is to study the most recent developments in the _Bildung
 
   - Independently written essays
 
-  - Indepently written degree thesis
+  - Independently written degree thesis
 
   - Defence of degree thesis
 

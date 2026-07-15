@@ -8,20 +8,12 @@ huvudomrade: "Engelska 1"
 amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
-tags: [kursplan, ENA, ISLL, vilande]
-scrape_hash: 05e86af0b479ebd3
+tags: [kursplan, ENA, ISLL, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: a8eaaf642461b8ce
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3BQ
 up: "[[Engelska]]"
-cssclasses: [vilande]
 ---
-
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning (en) | `intepreted` (en) |
-<!-- analys:end -->
 
 # GEN3BQ
 
@@ -94,7 +86,7 @@ On completion of the course, students will be able to:
 
 ### Course Content
 
-The course consists of a thematic study of a selection of contemporary texts from the English-speaking world. It includes texts from various genres within popular literature that are analysed and intepreted using relevant concepts from literary studies. In addition, a range of literary theories will be discussed to enhance the critical analyses. The course concludes with the independent writing of a literary analysis essay that addresses one or more of the concepts and themes explored in the course.
+The course consists of a thematic study of a selection of contemporary texts from the English-speaking world. It includes texts from various genres within popular literature that are analysed and interpreted using relevant concepts from literary studies. In addition, a range of literary theories will be discussed to enhance the critical analyses. The course concludes with the independent writing of a literary analysis essay that addresses one or more of the concepts and themes explored in the course.
 
 ### Assessment
 

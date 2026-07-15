@@ -34,7 +34,7 @@ up: "ISLL"
 > som vanliga hyperlänkar i texten nedan.
 
 - **Programkod:** LG79A
-- **Programansvarig:** 
+- **Programansvarig:** Emil Johansson
 - **Fastställd:** Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024.
 - **Reviderad:** Reviderad 2024-02-14 . Revideringen är giltig fr.o.m. VT 2024.
 

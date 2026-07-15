@@ -10,18 +10,17 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 42409163e49f3dce
+scrape_hash: 2f376a474d8af659
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR29D
 up: "[[Franska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska den studerande kunna:… |
-> | Stavfel och språkbruk | Felstavning | `franskpråkig` (sv) |
 <!-- analys:end -->
 
 # AFR29D
@@ -78,7 +77,7 @@ Betyg rapporteras enligt följande:
 
 ## Förkunskapskrav
 
-- Kandidatexamen i språk eller litteraturvetenskap om minst 180 hp. 90 hp på avancerad nivå, varav 30 hp inom huvudområdet interkulturella litteraturstudier och 22,5 hp i franskpråkig litteratur.
+- Kandidatexamen i språk eller litteraturvetenskap om minst 180 hp. 90 hp på avancerad nivå, varav 30 hp inom huvudområdet interkulturella litteraturstudier och 22,5 hp i franskspråkig litteratur.
 
 ## Övrigt
 

@@ -8,20 +8,19 @@ huvudomrade: "Interkulturella litteraturstudier 1"
 amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
-tags: [kursplan, ENA, ISLL]
-scrape_hash: b393cf910c5b81f5
+tags: [kursplan, ENA, ISLL, forskarutbildning]
+scrape_hash: 346a9b077795284a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BW
 up: "[[Engelska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | Omfång på lärandemål | Långt mål | 28 ord: - redogöra för och kritiskt reflektera över politiska, kulturella och etiska frå… |
-> | Stavfel och språkbruk | Felstavning (en) | `froming` (en) |
 <!-- analys:end -->
 
 # AEN2BW
@@ -99,7 +98,7 @@ On completion of the course, students will be able to:
 
 ### Course Content
 
-The course examines key issues regarding politics in contemporary Africa, where politics is understood to be the assumptions and principles concerning power and status within a society. These key issues are studied through the reading and study of a selection of fictional works written in English or translated into English from other European languages or Arabic.Froming the basis of the study of the fiction are ethical, cultural and political questions that have motivated African writers. The course gives students tools for the analysis of the ideological construction of these texts and evaluates their relevance for an understanding of modern African societies. Themes explored include the formation of national, cultural and gender-based identities, the perception of Africa in the West and of the West in Africa, the implications of not writing in a native African language, and the global literary market and the conditions affecting production and consumption of African literature.
+The course examines key issues regarding politics in contemporary Africa, where politics is understood to be the assumptions and principles concerning power and status within a society. These key issues are studied through the reading and study of a selection of fictional works written in English or translated into English from other European languages or Arabic. Forming the basis of the study of the fiction are ethical, cultural and political questions that have motivated African writers. The course gives students tools for the analysis of the ideological construction of these texts and evaluates their relevance for an understanding of modern African societies. Themes explored include the formation of national, cultural and gender-based identities, the perception of Africa in the West and of the West in Africa, the implications of not writing in a native African language, and the global literary market and the conditions affecting production and consumption of African literature.
 
 ### Assessment
 

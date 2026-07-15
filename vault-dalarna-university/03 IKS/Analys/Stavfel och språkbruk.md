@@ -8,14 +8,12 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (2 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (0 rader)</span></a>
 
-> [!example]- 2 fynd — klicka för att expandera
+> [!example]- 0 fynd — klicka för att expandera
 >
-> | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj | Förslag |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [GBQ3FG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3FG) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ3FG">sida</a> | BPO | 2025-02-27 | — | Felstavning (en) | `excercises` (en) | exercises |
-> | [GPG2SC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2SC) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG2SC">sida</a> | PGA | 2021-12-03 | — | Felstavning | `samhällorienterande` (sv) | samhällsorienterande |
+> | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
+> | --- | --- | --- | --- | --- | --- | --- |
 
 ## Syfte
 

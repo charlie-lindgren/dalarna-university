@@ -9,18 +9,17 @@ amne: "Arabiska"
 amne_kod: "ARA"
 institution: "ISLL"
 tags: [kursplan, ARA, ISLL]
-scrape_hash: a16a4866519f4be3
+scrape_hash: f11eea84acc46c0a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAR39L
 up: "[[Arabiska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska studenten på arabiska kunna:… |
-> | Stavfel och språkbruk | Felstavning (en) | `selction` (en) |
 <!-- analys:end -->
 
 # GAR39L
@@ -92,7 +91,7 @@ On completion of the course, students will, in Arabic, be able to:
 
   - using relevant theoretical terms, analyse a selection of contemporary Arabic texts with a focus on social and political change
 
-  - discuss social aspects of Arabic literature and its role in a selction of Arabic-speaking countries.
+  - discuss social aspects of Arabic literature and its role in a selection of Arabic-speaking countries.
 
 ### Course Content
 

@@ -9,18 +9,10 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: 4083b3345edeb6ba
+scrape_hash: b98ccb8d82694ed9
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DJ
 up: "[[Engelska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning (en) | `anlyses` (en) |
-<!-- analys:end -->
 
 # GEN3DJ
 
@@ -89,7 +81,7 @@ On completion of the course, students will be able to:
 
   - demonstrate a familiarity with contemporary literary and cultural theory and concepts related to the _Bildungsroman_ as well as with relevant concepts in gender, ethnicity and ageing studies
 
-  - perform independent anlyses and interpretations of a selection of works pertaining to the contemporary _Bildungsroman_ in English in the light of these theories and concepts 
+  - perform independent analyses and interpretations of a selection of works pertaining to the contemporary _Bildungsroman_ in English in the light of these theories and concepts 
 
   - orally and in writing communicate and argue for their own interpretations of literary texts in clear and correct academic English
 

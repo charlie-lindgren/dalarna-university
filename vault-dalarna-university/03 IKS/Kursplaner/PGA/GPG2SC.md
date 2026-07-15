@@ -10,13 +10,13 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: d3fa0cec1190e7c8
+scrape_hash: cd18d30b185e0446
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2SC
 up: "[[Pedagogiskt arbete]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 9 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -27,7 +27,6 @@ up: "[[Pedagogiskt arbete]]"
 > | Omfång på lärandemål | Långt mål | 29 ord: - redogöra för naturlandskapets förändringar och för människors utnyttjande av r… |
 > | Omfång på lärandemål | Långt mål | 27 ord: - visa kunskaper om mytens och andra berättelsers identitetsskapande funktion i … |
 > | Omfång på lärandemål | Långt mål | 29 ord: - reflektera över hur digitala verktyg och digitala miljöer kan användas i under… |
-> | Stavfel och språkbruk | Felstavning | `samhällorienterande` (sv) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Nätbaserad kurs innehåller en obligatorisk campusträff om max tre dagar. I kursen ingår två-tre fältdagar vid en grundsk… |
 <!-- analys:end -->
 
@@ -150,11 +149,7 @@ Kursen fokuserar teorier om konstruktionen av religiösa och icke-religiösa liv
 
 5.Samhällsorienterande undervisning i ett ämnesövergripande perspektiv (Samhällsorienterade ämnen), 4 högskolepoäng
 
-Med utgångspunkt i såväl den praktiska verksamhetens
-villkor, som ämnesdidaktisk teori, riktas delkursens fokus mot en rad utmaningar
-och möjligheter förknippade med samhällsorienterande undervisning. Via litteratur, föreläsningar, praktiska övningar och studiebesök behandlas frågor om ämnesövergripande undervisning, bedömning, digitala verktyg och miljöer, samt närområdet och civilsamhället i den samhällsorienterande
-undervisningen. I delkursen behandlas
-även utbildning för hållbar utveckling i ett samhällsorienterande perspektiv samt frågor om jämställdhet, sexualitet och relationer i samhällorienterande undervisning.
+Med utgångspunkt i såväl den praktiska verksamhetens villkor, som ämnesdidaktisk teori, riktas delkursens fokus mot en rad utmaningar och möjligheter förknippade med samhällsorienterande undervisning. Via litteratur, föreläsningar, praktiska övningar och studiebesök behandlas frågor om ämnesövergripande undervisning, bedömning, digitala verktyg och miljöer, samt närområdet och civilsamhället i den samhällsorienterande undervisningen. I delkursen behandlas även utbildning för hållbar utveckling i ett samhällsorienterande perspektiv samt frågor om jämställdhet, sexualitet och relationer i samhällsorienterande undervisning.
 
 ## Examinationsformer
 
