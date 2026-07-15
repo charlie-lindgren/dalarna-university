@@ -9,6 +9,14 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSADA
 up: "IHV"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Personcentrerad vård av personer med demens` (7,5 hp) |
+<!-- analys:end -->
+
 # VSADA
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSADA)

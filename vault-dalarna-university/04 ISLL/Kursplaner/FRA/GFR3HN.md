@@ -14,6 +14,24 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3HN
 up: "[[Franska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 11 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande fördjupar sina kunskaper i det franska språket och om franskspråkig litte… |
+> | Omfång på lärandemål | För många mål | 46 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 26 ord: - med utgångspunkt i elevers kunskapsbehov och individuella förutsättningar för … |
+> | Omfång på lärandemål | Långt mål | 33 ord: - reflektera över elevers syn på och upplevelser av sitt språklärande samt disku… |
+> | Omfång på lärandemål | Långt mål | 35 ord: - diskutera och reflektera över samspelet mellan inre och yttre faktorer som är … |
+> | Omfång på lärandemål | Långt mål | 35 ord: - redogöra för olika former av digitala verktyg och diskutera hur de kan använda… |
+> | Omfång på lärandemål | Långt mål | 29 ord: - självständigt välja relevant innehåll och arbetssätt i planeringen av språkund… |
+> | Omfång på lärandemål | Långt mål | 32 ord: - redogöra för hur digitala verktyg kan användas i språkundervisningen och den d… |
+> | Omfång på lärandemål | Långt mål | 26 ord: - ställa en relevant forskningsfråga inom ett avgränsat problemområde som är kop… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 46 mål, engelska: 1 mål (diff 45) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+<!-- analys:end -->
+
 # GFR3HN
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3HN)

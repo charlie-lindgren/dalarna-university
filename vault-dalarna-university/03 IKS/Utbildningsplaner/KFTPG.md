@@ -9,6 +9,15 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFTPG
 up: "IKS"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Konceptutveckling inom medieproduktion` → `BQ2049` (nedlagd 2025-03-06) — plain-text-referens |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Digitalefterbearbetning av ljud och bild` (15 hp) |
+<!-- analys:end -->
+
 # KFTPG
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFTPG)

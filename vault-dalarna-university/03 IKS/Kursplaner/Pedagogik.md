@@ -8,6 +8,11 @@ up: "[[IKS]]"
 # Pedagogik
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Huvudområde: Ej huvudområde 1
+
+## Kurser (1 st)
+
+- [[PE1023]] — Behörighetsgivande högskolepedagogisk utbildning
 
 ## Vilande kursplaner (43 st)
 
