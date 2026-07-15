@@ -11,9 +11,9 @@ status: första pass
 Utbildningsplanens `## 3. Programmets kurser`-sektion ska helst lista varje kurs som en wikilänk till motsvarande kursplansfil (`[[KOD|Namn]], hp`). Analysen flaggar två typer av problem: **olänkade bullets** (där länken saknas helt) och **länkade bullets där programtexten avviker från kursplanens kanoniska namn** (vår skrapa hittar fortfarande rätt kurs via normalisering, men texten bör samordnas).
 ## Problematiska utbildningsplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Programkurser-olänkade.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (94 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Programkurser-olänkade.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (93 rader)</span></a>
 
-> [!example]- 94 fynd — klicka för att expandera
+> [!example]- 93 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -33,7 +33,6 @@ Utbildningsplanens `## 3. Programmets kurser`-sektion ska helst lista varje kurs
 > | [KFTPG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFTPG) | <a class="no-graph" href="03-IKS/Utbildningsplaner/KFTPG">sida</a> | Utbildningsplan | 2014-03-19 | 2021-03-23 | Kursnamnet finns varken aktivt eller nedlagt | `Digitalefterbearbetning av ljud och bild` (15 hp) |
 > | [KLJMG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KLJMG) | <a class="no-graph" href="03-IKS/Utbildningsplaner/KLJMG">sida</a> | Utbildningsplan | 2021-03-23 | 2023-07-05 | Kursnamnet finns varken aktivt eller nedlagt | `Konceptutveckling inom medieproduktion i Ljud- och musikproduktion` (7,5 hp) |
 > | [KLJMG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KLJMG) | <a class="no-graph" href="03-IKS/Utbildningsplaner/KLJMG">sida</a> | Utbildningsplan | 2021-03-23 | 2023-07-05 | Kursnamnet finns varken aktivt eller nedlagt | `Arbetsplatsförlagd utbildning för medieproduktion` (15 hp) |
-> | [KLJMG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KLJMG) | <a class="no-graph" href="03-IKS/Utbildningsplaner/KLJMG">sida</a> | Utbildningsplan | 2021-03-23 | 2023-07-05 | Programtext avviker från kursplanens namn | Programtext `Produktionsprocesser och -villkor inom musikproduktion` ≠ kursplanens namn `Produktionsprocesser och - villkor inom musikproduktion` (kurskod `LP1072`) |
 > | [KMLJG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KMLJG) | <a class="no-graph" href="03-IKS/Utbildningsplaner/KMLJG">sida</a> | Utbildningsplan | 2020-10-20 | 2023-07-05 | Kursnamnet finns varken aktivt eller nedlagt | `Audioteknologi I` (7,5 hp) |
 > | [KMLJG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KMLJG) | <a class="no-graph" href="03-IKS/Utbildningsplaner/KMLJG">sida</a> | Utbildningsplan | 2020-10-20 | 2023-07-05 | Kursnamnet finns varken aktivt eller nedlagt | `Audioteknologi II` (7,5 hp) |
 > | [KMLJG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KMLJG) | <a class="no-graph" href="03-IKS/Utbildningsplaner/KMLJG">sida</a> | Utbildningsplan | 2020-10-20 | 2023-07-05 | Kursnamnet finns varken aktivt eller nedlagt | `Introduktion till Musik- och ljuddesign` (7,5 hp) |

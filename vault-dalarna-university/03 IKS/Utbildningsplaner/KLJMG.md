@@ -10,7 +10,7 @@ up: "IKS"
 ---
 
 <!-- analys:start -->
-> [!warning]- 11 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+> [!warning]- 10 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -24,7 +24,6 @@ up: "IKS"
 > | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Produktionsprocesser och -villkor inom musikproduktion` → `LP1072` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Konceptutveckling inom medieproduktion i Ljud- och musikproduktion` (7,5 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Arbetsplatsförlagd utbildning för medieproduktion` (15 hp) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Produktionsprocesser och -villkor inom musikproduktion` ≠ kursplanens namn `Produktionsprocesser och - villkor inom musikproduktion` (kurskod `LP1072`) |
 <!-- analys:end -->
 
 # KLJMG

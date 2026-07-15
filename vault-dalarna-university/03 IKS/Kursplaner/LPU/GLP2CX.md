@@ -16,13 +16,14 @@ up: "[[Ljud- och musikproduktion]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget _Väl godkänd_ på hela kursen, krävs betyget _Väl godkänd_ på modul 3 oc… |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Modul 1 och 2 examineras genom skriftlig hemtentamen och praktiska inlämningsuppgifter. Modul 3 examineras genom en gest… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Audioteknologi 1` → `GLP2JZ` (nedlagd 2026-06-25); förkunskap nämner nedlagd kurs |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Motsvarar LP1042, delkurs 2. Ersätter LP1073.… |
 <!-- analys:end -->

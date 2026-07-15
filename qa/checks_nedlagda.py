@@ -28,6 +28,12 @@ NEDLAGDA_DIR = REPO_ROOT / "qa" / "nedlagda-kursplaner"
 VAULT = REPO_ROOT / "vault-dalarna-university"
 INST_DIRS = ["01 IIT", "02 IHV", "03 IKS", "04 ISLL"]
 
+# Nedlagda kursplaner ligger kvar i vaulten men bär ``draft: true`` (satt av
+# identify_ej_aktiv.py). De "aktiva" indexen nedan ska bara innehålla levande
+# kurser — annars maskerar en nedlagd kurs sig som aktiv och en genuin
+# nedlagd-referens filtreras felaktigt bort som falsk positiv.
+_DRAFT_LINE_RE = re.compile(r"^draft:\s*true\s*$", re.MULTILINE)
+
 
 # Aggressiv namnnormalisering — speglar matcharen i
 # ``scripts/scrape_hda_utbildningsplaner.py``. Vi duplicerar den medvetet
@@ -144,7 +150,10 @@ def _load_active_code_to_name() -> dict[str, str]:
             end = head.find("\n---", 3)
             if end < 0:
                 continue
-            m = name_re.search(head[3:end])
+            fm = head[3:end]
+            if _DRAFT_LINE_RE.search(fm):
+                continue  # nedlagd/opublicerad — hör inte hemma i det aktiva indexet
+            m = name_re.search(fm)
             if m:
                 mapping[path.stem.upper()] = m.group(1).strip()
     _ACTIVE_CODE_TO_NAME = mapping
@@ -180,7 +189,10 @@ def _load_active_titles() -> set[str]:
             end = head.find("\n---", 3)
             if end < 0:
                 continue
-            m = name_re.search(head[3:end])
+            fm = head[3:end]
+            if _DRAFT_LINE_RE.search(fm):
+                continue  # nedlagd/opublicerad — hör inte hemma i det aktiva indexet
+            m = name_re.search(fm)
             if m:
                 titles.add(_aggressive(m.group(1)))
     _ACTIVE_TITLES = titles
