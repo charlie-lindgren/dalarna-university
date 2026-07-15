@@ -7,9 +7,10 @@ up: "[[IKS]]"
 
 # Turismvetenskap
 
-> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Huvudområde: Turismvetenskap 1
 
-## Kurser (24 st)
+## Kurser (25 st)
 
 - [[ATR25Z]] — Mot en mer hållbar och robust turismnäring I
 - [[ATR26B]] — Mot en mer hållbar och robust turismnäring 2
@@ -31,12 +32,13 @@ up: "[[IKS]]"
 - [[GTR3AU]] — Turismmarknadsföring
 - [[GTR3D7]] — Kungliga Djurgården – Platsen och besöksnäringen
 - [[TR1031]] — Kulturellt Medvetande inom Turism- och Servicenäringen
+- [[TR1033]] — Turism och samhälle
 - [[TR2005]] — Examensarbete för kandidatexamen i Turismvetenskap
 - [[TR3008]] — Examensarbete för Magisterexamen i turismvetenskap
 - [[TR3009]] — Evenemangsturism - planering, marknadsföring, utvärdering
 - [[TR3010]] — Teori och forskningsmetoder
 
-## Vilande kursplaner (21 st)
+## Vilande kursplaner (20 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -55,7 +57,6 @@ up: "[[IKS]]"
 - [[TR1028]] — Hållbar planering och utveckling av destinationer
 - [[TR1029]] — Ledning av tjänsteföretag inom turism
 - [[TR1030]] — Introduktion till turism och destinationsutveckling
-- [[TR1033]] — Turism och samhälle
 - [[TR1034]] — Verksamhetsförlagt projektarbete i Turismvetenskap
 - [[TR1035]] — Internationella evenemang och festivaler
 - [[TR1036]] — Turismteori och praxis

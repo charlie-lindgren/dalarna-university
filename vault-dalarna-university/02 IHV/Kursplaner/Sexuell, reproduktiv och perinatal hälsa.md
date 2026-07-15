@@ -7,7 +7,8 @@ up: "[[IHV]]"
 
 # Sexuell, reproduktiv och perinatal hälsa
 
-> Forskarutbildningsämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
+> Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
+> Huvudområde: Sexuell, reproduktiv och perinatal hälsa 1
 
 ## Kurser (23 st)
 

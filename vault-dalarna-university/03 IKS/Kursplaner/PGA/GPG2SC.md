@@ -15,6 +15,22 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2SC
 up: "[[Pedagogiskt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 9 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att erhålla Väl godkänd krävs Väl godkänd på minst 23,5 hp av kursens 30 hp.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Delkurs 1: inlämningsuppgifter samt muntlig presentation och diskussion av seminarieuppgifter Delkurs 2: inlämningsuppgi… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': \### Delkurser… |
+> | Omfång på lärandemål | För många mål | 26 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 29 ord: - redogöra för naturlandskapets förändringar och för människors utnyttjande av r… |
+> | Omfång på lärandemål | Långt mål | 27 ord: - visa kunskaper om mytens och andra berättelsers identitetsskapande funktion i … |
+> | Omfång på lärandemål | Långt mål | 29 ord: - reflektera över hur digitala verktyg och digitala miljöer kan användas i under… |
+> | Stavfel och språkbruk | Felstavning | `samhällorienterande` (sv) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Nätbaserad kurs innehåller en obligatorisk campusträff om max tre dagar. I kursen ingår två-tre fältdagar vid en grundsk… |
+<!-- analys:end -->
+
 # GPG2SC
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2SC)

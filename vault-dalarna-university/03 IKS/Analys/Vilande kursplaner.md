@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (413 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (412 rader)</span></a>
 
-> [!example]- 413 fynd — klicka för att expandera
+> [!example]- 412 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Institution | Fastställd | Reviderad | Problem |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -19,7 +19,6 @@ status: första pass
 > | [RV1003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1003) | <a class="no-graph" href="03-IKS/Kursplaner/RVA/RV1003">sida</a> | RVA | IKS | 2007-01-10 | — | Ingen aktiv kursomgång |
 > | [RV1004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1004) | <a class="no-graph" href="03-IKS/Kursplaner/RVA/RV1004">sida</a> | RVA | IKS | 2007-01-10 | — | Ingen aktiv kursomgång |
 > | [RV1009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1009) | <a class="no-graph" href="03-IKS/Kursplaner/RVA/RV1009">sida</a> | RVA | IKS | 2007-01-10 | — | Ingen aktiv kursomgång |
-> | [PE1023](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1023) | <a class="no-graph" href="03-IKS/Kursplaner/PEA/PE1023">sida</a> | PEA | IKS | 2007-03-22 | — | Ingen aktiv kursomgång |
 > | [RV1015](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1015) | <a class="no-graph" href="03-IKS/Kursplaner/RVA/RV1015">sida</a> | RVA | IKS | 2007-04-04 | — | Ingen aktiv kursomgång |
 > | [RV1026](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1026) | <a class="no-graph" href="03-IKS/Kursplaner/RVA/RV1026">sida</a> | RVA | IKS | 2007-05-30 | — | Ingen aktiv kursomgång |
 > | [RV1034](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1034) | <a class="no-graph" href="03-IKS/Kursplaner/RVA/RV1034">sida</a> | RVA | IKS | 2007-10-03 | — | Ingen aktiv kursomgång |

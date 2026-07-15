@@ -7,7 +7,8 @@ up: "[[IHV]]"
 
 # Fysioterapi
 
-> Forskarutbildningsämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
+> Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
+> Huvudområde: Fysioterapi 1
 
 ## Kurser (3 st)
 

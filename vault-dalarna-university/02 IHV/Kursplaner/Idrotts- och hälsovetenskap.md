@@ -7,9 +7,10 @@ up: "[[IHV]]"
 
 # Idrotts- och hälsovetenskap
 
-> Forskarutbildningsämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
+> Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
+> Huvudområde: Ej huvudområde 1
 
-## Kurser (43 st)
+## Kurser (44 st)
 
 - [[AIH237]] — Examensarbete i idrott och hälsa för ämneslärarexamen inriktning grundskolans årskurs 7-9
 - [[AIH24T]] — Examensarbete i idrott och hälsa för ämneslärarexamen inriktning gymnasieskolan
@@ -54,8 +55,9 @@ up: "[[IHV]]"
 - [[GIH3GH]] — Åldersanpassad träning
 - [[GIH3GJ]] — Tillämpad motorisk färdighetsträning
 - [[GIH3GK]] — Idrottsmedicin
+- [[IH1082]] — Journalistik och skriftlig PR inom idrottsområdet
 
-## Vilande kursplaner (113 st)
+## Vilande kursplaner (112 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -151,7 +153,6 @@ up: "[[IHV]]"
 - [[IH1026]] — Idrottsmedicin för idrottare
 - [[IH1029]] — Idrott och hälsa på 2000-talet
 - [[IH1062]] — Fysisk aktivitet och hälsobefrämjande personlig träning II
-- [[IH1082]] — Journalistik och skriftlig PR inom idrottsområdet
 - [[IH1095]] — Innovation och entreprenörskap inom idrott och hälsa - idé- och konceptvärdering
 - [[IH1096]] — Innovation och entreprenörskap inom idrott och hälsa - affärsmodell
 - [[IH1097]] — Innovation och entreprenörskap inom idrott och hälsa - nätverk och partnerskap

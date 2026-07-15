@@ -7,9 +7,9 @@ up: "[[ISLL]]"
 
 # Tyska
 
-> Forskarutbildningsämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
+> Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (27 st)
+## Kurser (30 st)
 
 - [[ATY255]] — Examensarbete i tyska för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 - [[ATY256]] — Examensarbete i tyska för ämneslärarexamen, inriktning gymnasieskolan
@@ -30,16 +30,19 @@ up: "[[ISLL]]"
 - [[GTY3JA]] — Tyska III: Introduktion till tysk språkvetenskap
 - [[GTY3JB]] — Tyska III med didaktisk inriktning
 - [[TY1038]] — Tyska: Språkdidaktik I
+- [[TY1050]] — Tyska: Skriftlig språkfärdighet II
 - [[TY1066]] — Tyska, Språkdidaktik II
 - [[TY1067]] — Tyska grundläggande kurs I
 - [[TY1068]] — Tyska grundläggande kurs II
 - [[TY1070]] — Tyska grundläggande kurs III
+- [[TY1071]] — Tyska grundläggande kurs IV
 - [[TY2004]] — Tyska: Tyskspråkig litteratur och litteraturvetenskap
 - [[TY2007]] — Tyska: Examensarbete
 - [[TY3010]] — Tyska: Magisterexamensarbete
 - [[TY3015]] — Tyska: Intertextualitet och intermedialitet i teori och praktik
+- [[TY3016]] — Tyska: Former och villkor för dramer och prosatexter
 
-## Vilande kursplaner (21 st)
+## Vilande kursplaner (18 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -56,11 +59,8 @@ up: "[[ISLL]]"
 - [[GTY3KJ]] — Tyska I: Tysk grammatik
 - [[GTY3KK]] — Tyska I: Skrivande och AI
 - [[TY1049]] — Tyskspråkig litteratur och litteraturhistoria
-- [[TY1050]] — Tyska: Skriftlig språkfärdighet II
 - [[TY1069]] — Tyska: Språk- och kulturhistoria med akademiskt skrivande
-- [[TY1071]] — Tyska grundläggande kurs IV
 - [[TY1073]] — Tyska: Muntlig språkfärdighet och kulturkunskap II
 - [[TY2008]] — Tyska: Den moderna tyskspråkiga lingvistikens utveckling
 - [[TY3012]] — Tyska: Språkvetenskapens historia
 - [[TY3013]] — Tyska: Modern kvinnolitteratur
-- [[TY3016]] — Tyska: Former och villkor för dramer och prosatexter
