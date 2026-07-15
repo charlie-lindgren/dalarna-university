@@ -10,18 +10,10 @@ amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 543ebaa22b2cb04f
+scrape_hash: 06dcade9dba13d53
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT3KR
 up: "[[Italienska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning (en) | `andcultural` (en) |
-<!-- analys:end -->
 
 # GIT3KR
 
@@ -89,7 +81,7 @@ On completion of the course, the student will be able to:
 
   - analyse, present and discuss, in spoken Italian, the contents of a selection of representative literary works, and identify their typical time features
 
-  - reflect upon the chosen literary works and place them both in a literary andcultural context, as well as in a broader comparative European perspective
+  - reflect upon the chosen literary works and place them both in a literary and cultural context, as well as in a broader comparative European perspective
 
 ### Course Content
 

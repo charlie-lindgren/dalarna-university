@@ -10,18 +10,10 @@ amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: c014bd4c5b3abb53
+scrape_hash: ada219dda927b616
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT3KM
 up: "[[Italienska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning (en) | `continuos` (en) |
-<!-- analys:end -->
 
 # GIT3KM
 
@@ -116,7 +108,7 @@ The course contains a review of Italian pronunciation and main phonetical featur
 
 ### Assessment
 
-- Continuos examination in seminars
+- Continuous examination in seminars
 
   - Oral presentations
 

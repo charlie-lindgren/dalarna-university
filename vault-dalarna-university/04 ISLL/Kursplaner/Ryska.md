@@ -7,8 +7,7 @@ up: "[[ISLL]]"
 
 # Ryska
 
-> Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
-> Huvudområde: Ryska 1
+> Forskarutbildningsämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
 ## Kurser (19 st)
 

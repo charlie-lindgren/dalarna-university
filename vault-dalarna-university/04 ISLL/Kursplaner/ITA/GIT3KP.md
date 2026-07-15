@@ -10,18 +10,10 @@ amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 842bb037c3ac57a2
+scrape_hash: 254a9d7d2619260a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT3KP
 up: "[[Italienska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning (en) | `examinationin` (en) |
-<!-- analys:end -->
 
 # GIT3KP
 
@@ -111,7 +103,7 @@ The course develops the students’ listening comprehension and communicative co
 
 ### Assessment
 
-- Continuous examinationin seminars
+- Continuous examination in seminars
 
   - Oral presentations
 

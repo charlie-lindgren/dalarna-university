@@ -9,24 +9,10 @@ amne: "Franska"
 amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
-scrape_hash: e00b49d45f24ae30
+scrape_hash: bbe3e38820146a47
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3BS
 up: "[[Franska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande fördjupar såväl sina kunskaper i franska och sin teoretiska medvetenhet i… |
-> | Omfång på lärandemål | För många mål | 18 lärandemål (maximum rekommenderat: 12 för 30 hp) |
-> | Omfång på lärandemål | Långt mål | 27 ord: - visa förmåga att i skriftlig och muntlig form presentera och argumentera för e… |
-> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 18 mål, engelska: 1 mål (diff 17) |
-> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning (en) | `defens` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `ehtics` (en) |
-<!-- analys:end -->
 
 # GFR3BS
 
@@ -196,7 +182,7 @@ On completion of the course, students will, in French, be able to:
 
   - demonstrate a critical approach to chosen sources
 
-  - discuss choices with regard for research ehtics
+  - discuss choices with regard for research ethics
 
   - demonstrate the ability to present and argue in writing and orally for their own results and to relate to scientific criticism in a professional and constructive way
 
@@ -258,7 +244,7 @@ In the course, a selection of fictional works are discussed in relation to the h
 
   - Execution of a scientific essay
 
-  - Defens of their own essay and opposition on a fellow students essay
+  - Defence of their own essay and opposition on a fellow students essay
 
 **Module 2**
 

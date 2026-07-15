@@ -9,22 +9,10 @@ amne: "Italienska"
 amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL]
-scrape_hash: fc95ee5b1be3cced
+scrape_hash: 585b8a61c109f209
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2A3
 up: "[[Italienska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på båda modulerna. Betygsrapportering: Modul… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras fortlöpande genom bedömning av aktivt deltagande under seminarier och muntliga redovisningar i grupp o… |
-> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
-> | Stavfel och språkbruk | Felstavning (en) | `indentify` (en) |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter IT1023.… |
-<!-- analys:end -->
 
 # GIT2A3
 
@@ -92,7 +80,7 @@ On completion of the course, students shall be able to:
 
   - speak Italian effortlessly and reasonably correctly with regard to pronunciation, grammar, and vocabulary
 
-  - indentify and characterise different regional variants and registers in authentic spoken Italian
+  - identify and characterise different regional variants and registers in authentic spoken Italian
 
   - understand and use the main linguistic and pragmatic structures necessary in formal situations
 

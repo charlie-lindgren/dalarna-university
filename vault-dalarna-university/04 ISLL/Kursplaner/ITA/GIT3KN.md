@@ -10,18 +10,10 @@ amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 59721e57dad5d404
+scrape_hash: f3e6675ef8457b2a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT3KN
 up: "[[Italienska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning (en) | `contunuous` (en) |
-<!-- analys:end -->
 
 # GIT3KN
 
@@ -105,7 +97,7 @@ The course contains a systematic review of the main structures of Italian gramma
 
 ### Assessment
 
-- Contunuous examination in seminars
+- Continuous examination in seminars
 
   - Written online examination
 

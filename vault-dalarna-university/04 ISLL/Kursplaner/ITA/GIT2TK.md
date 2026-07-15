@@ -10,23 +10,10 @@ amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: d25ffe6b6f1c60a4
+scrape_hash: 5e7ca22af4f717b1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TK
 up: "[[Italienska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på modul 2 och 3. Betygsrapportering: Modul … |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras fortlöpande genom bedömning av aktivt deltagande under seminarier, muntliga redovisningar, skriftliga … |
-> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten på italienska kunna:… |
-> | Omfång på lärandemål | För få mål | 2 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
-> | Stavfel och språkbruk | Felstavning (en) | `themself` (en) |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Undervisningen är nätbaserad och sker med stöd av en lärplattform och digitala verktyg. Det kräver att studenten har til… |
-<!-- analys:end -->
 
 # GIT2TK
 
@@ -90,10 +77,10 @@ Ersätter GIT2KF.
 ### Learning Outcomes
 
 On completion of the course, students shall, in Italian, be able to:
- 
- 
-  - describe and discuss the main features of Italian geography, history, culture, society and government 
-  - describe and discuss how the Italian islands distinguish themself in terms of geography, history, culture and society compared to other regions.
+
+  - describe and discuss the main features of Italian geography, history, culture, society and government
+
+  - describe and discuss how the Italian islands distinguish themselves in terms of geography, history, culture and society compared to other regions.
 
 ### Course Content
 

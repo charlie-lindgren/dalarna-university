@@ -9,21 +9,10 @@ amne: "Italienska"
 amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL]
-scrape_hash: e748d9d53389c068
+scrape_hash: 259b75aa924e85bd
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2Y8
 up: "[[Italienska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Frasningskonsistens | Avviker från referensformen | Efter… |
-> | Omfång på lärandemål | För få mål | 2 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
-> | Stavfel och språkbruk | Felstavning | `nlämningsuppgifter` (sv) |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen överlappar följande kurser och kan inte tas med i en examen tillsammans med någon av dessa: Tidigare kurskoder fö… |
-<!-- analys:end -->
 
 # GIT2Y8
 
@@ -74,13 +63,14 @@ samspel med de andra kursdeltagarna. Undervisning sker på italienska.
 
 Som betygsskala används U–VG.
 
-För att få betyget VG på hela kursen krävs VG på betygsmodulerna _Skriftlig tentamen_ och _Skriftliga i__nlämningsuppgifter_.
+För att få betyget VG på hela kursen krävs VG på betygsmodulerna Skriftlig tentamen och Skriftliga inlämningsuppgifter.
   
 Betygsrapportering:
 
-  - 
-Aktivt deltagande i seminarier och muntliga redovisningar - 2,5 hp
+  - Aktivt deltagande i seminarier och muntliga redovisningar - 2,5 hp
+
   - Skriftlig tentamen - 3 hp
+
   - Skriftliga inlämningsuppgifter - 2 hp
 
 ## Förkunskapskrav

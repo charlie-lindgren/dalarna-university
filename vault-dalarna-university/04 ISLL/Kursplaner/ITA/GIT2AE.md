@@ -9,22 +9,10 @@ amne: "Italienska"
 amne_kod: "ITA"
 institution: "ISLL"
 tags: [kursplan, ITA, ISLL]
-scrape_hash: 3bcc63cb8899f92c
+scrape_hash: 51d8c9dee2df0569
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2AE
 up: "[[Italienska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på modul 2. Betygsrapportering: Modul 1: Akt… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras fortlöpande genom bedömning av aktivt deltagande under seminarier och ett skriftligt slutprov.… |
-> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten på italienska kunna:… |
-> | Stavfel och språkbruk | Felstavning (en) | `particicpation` (en) |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Undervisningen är nätbaserad och sker med stöd av en lärplattform och digitala verktyg. Det kräver att studenten har til… |
-<!-- analys:end -->
 
 # GIT2AE
 
@@ -113,8 +101,7 @@ The course introduces selected texts from different eras that highlights the var
 
 ### Assessment
 
-The course is examined continuously through
-assessment of active particicpation in seminars and a final written exam.
+The course is examined continuously through assessment of active participation in seminars and a final written exam.
 
 ### Forms of Study
 

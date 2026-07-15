@@ -7,8 +7,7 @@ up: "[[ISLL]]"
 
 # Svenska som andraspråk
 
-> Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
-> Huvudområde: Ej huvudområde 1
+> Forskarutbildningsämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
 ## Kurser (37 st)
 

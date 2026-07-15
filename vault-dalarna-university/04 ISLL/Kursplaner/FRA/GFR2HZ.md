@@ -9,22 +9,10 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 0b012e3477f83ff0
+scrape_hash: 5b15feaad9c47647
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2HZ
 up: "[[Franska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på modul 1 och 2. Betygsrapportering: Modul … |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras fortlöpande genom den muntliga prestationen på seminarier, skriftliga inlämningsuppgifter och inspelni… |
-> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
-> | Stavfel och språkbruk | Felstavning (en) | `orbally` (en) |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Godkänd kurs ger behörighet till fortsatta studier inom huvudområdet franska vid Högskolan Dalarna. Ersätter FR1082.… |
-<!-- analys:end -->
 
 # GFR2HZ
 
@@ -88,7 +76,7 @@ Ersätter FR1082.
 
 After completing the course, students shall be able to: 
 
-  - interact orbally and in writing in both prepared and spontaneous situations in French
+  - interact orally and in writing in both prepared and spontaneous situations in French
 
   - apply basic skills in French grammar in grammatical analyses and in this way demonstrate proficiency in the structure of French
 

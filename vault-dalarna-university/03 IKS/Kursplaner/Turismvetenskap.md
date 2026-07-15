@@ -7,8 +7,7 @@ up: "[[IKS]]"
 
 # Turismvetenskap
 
-> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
-> Huvudområde: Turismvetenskap 1
+> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
 ## Kurser (25 st)
 

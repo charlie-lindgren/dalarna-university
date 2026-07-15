@@ -10,26 +10,10 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: ed50339cdb8bfdc9
+scrape_hash: 3ba06e14cbd83bd7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3DL
 up: "[[Franska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 9 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att de studerande utvecklar goda kunskaper i och om det franska språket samt om franskspråki… |
-> | Omfång på lärandemål | För många mål | 78 lärandemål (maximum rekommenderat: 15 för 90 hp) |
-> | Omfång på lärandemål | Långt mål | 33 ord: - reflektera över elevers syn på och upplevelser av sitt språklärande samt disku… |
-> | Omfång på lärandemål | Långt mål | 35 ord: - diskutera och reflektera över samspelet mellan inre och yttre faktorer som är … |
-> | Omfång på lärandemål | Långt mål | 26 ord: - visa förmåga att i skriftlig och muntlig form presentera och argumentera för e… |
-> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 78 mål, engelska: 1 mål (diff 77) |
-> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning (en) | `ehtics` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `teachning` (en) |
-<!-- analys:end -->
 
 # GFR3DL
 
@@ -498,7 +482,7 @@ On completion of the module, students will be able to:
 
   - reflect on the use of literary texts in language teaching.
 
-5.Language Learning and Teachning I, 6 Credits
+5.Language Learning and Teaching I, 6 Credits
 
 This module aims to give students an introduction to language didactics. The module provides a theoretical basis and complements the content of the other modules in preparation for students’ future professional role as langauge teacher.  
 On completion of the module, students will be able to:
@@ -637,7 +621,7 @@ On completion of the course, students will, in French, be able to:
 
   - demonstrate a critical approach to chosen sources
 
-  - discuss choices with regard for research ehtics
+  - discuss choices with regard for research ethics
 
   - demonstrate the ability to present and argue in writing and orally for their own results and to relate to scientific criticism in a professional and constructive way
 
@@ -661,7 +645,7 @@ This module includes a study of the history, geography and society of France and
 4.French Literature I : From 1900 to the Present Day, 5.5 Credits
 
 This module includes an orientation in literary history of the literature from the French-speaking world from the 20th and 21st centuries. A selection of literary works is studied from the perspective of literature, linguistics and social history. The literature is also discussed based on its didactic potential in language teaching.
-5.Language Learning and Teachning I, 6 Credits
+5.Language Learning and Teaching I, 6 Credits
 
 This module constitutes an introduction to language didactics and to the central questions concerning the content and design of language teaching in relation to pupils’ different conditions for language learning and the school’s governing documents. The role and development of foreign languages in Swedish schools is treated in a historical retrospective. Central elements are a basic study of theories about language learning and discussions about language didactic issues. By also studying current governing documents in the form of curricula and syllabuses for modern languages, the relationship between the theories and the content of the school subject is treated. In this way, the content of the other modules is linked to the future profession and the concrete teaching situation as well as to the demands placed on the language teacher at school.
 6.Written Language Proficiency II, 7.5 Credits
@@ -720,7 +704,7 @@ Grades are reported as follows:
   - Culture and Society; Written Presentation - 3.5 Credits | U–G
   - French Literature I; Oral presentation - 1.5 Credits | U–G
   - French Literature I; Written presentation - 4 Credits | U–G
-  - Language Learning and Teachning I - 6 Credits | U–G
+  - Language Learning and Teaching I - 6 Credits | U–G
   - Written Language Proficiency II; Written Language Proficiency - 4 Credits | U–G
   - Written Language Proficiency II; Grammar - 3.5 Credits | U–G
   - Introduction to Linguistics and Academic Writing; Concepts and Theories in Linguistics - 2.5 Credits | U–G

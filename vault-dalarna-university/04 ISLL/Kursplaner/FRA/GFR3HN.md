@@ -9,29 +9,10 @@ amne: "Franska"
 amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
-scrape_hash: bfa9268bd060bb26
+scrape_hash: 89ec195d111f79bb
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3HN
 up: "[[Franska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 12 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande fördjupar sina kunskaper i det franska språket och om franskspråkig litte… |
-> | Omfång på lärandemål | För många mål | 46 lärandemål (maximum rekommenderat: 12 för 30 hp) |
-> | Omfång på lärandemål | Långt mål | 26 ord: - med utgångspunkt i elevers kunskapsbehov och individuella förutsättningar för … |
-> | Omfång på lärandemål | Långt mål | 33 ord: - reflektera över elevers syn på och upplevelser av sitt språklärande samt disku… |
-> | Omfång på lärandemål | Långt mål | 35 ord: - diskutera och reflektera över samspelet mellan inre och yttre faktorer som är … |
-> | Omfång på lärandemål | Långt mål | 35 ord: - redogöra för olika former av digitala verktyg och diskutera hur de kan använda… |
-> | Omfång på lärandemål | Långt mål | 29 ord: - självständigt välja relevant innehåll och arbetssätt i planeringen av språkund… |
-> | Omfång på lärandemål | Långt mål | 32 ord: - redogöra för hur digitala verktyg kan användas i språkundervisningen och den d… |
-> | Omfång på lärandemål | Långt mål | 26 ord: - ställa en relevant forskningsfråga inom ett avgränsat problemområde som är kop… |
-> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 46 mål, engelska: 1 mål (diff 45) |
-> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning | `godänd` (sv) |
-<!-- analys:end -->
 
 # GFR3HN
 
@@ -136,7 +117,7 @@ Efter godkänd delkurs ska den studerande kunna:
 6.Språkdidaktik 1B, 7,5 högskolepoäng
 
 Syftet med delkursen är att den studerande befäster och fördjupar sina språkdidaktiska kunskaper och färdigheter samt utvecklar förtrogenhet med språkundervisning i grund- och gymnasieskolan. Delkursen ska även leda till ökad medvetenhet om elevers generella och specifika förutsättningar för språklärande. Ytterligare ett mål är att den studerande utvecklar sin förmåga att relatera sina övriga språkstudier till ett yrkesprofessionellt perspektiv som språklärare.  
-Efter godänd delkurs ska den studerande kunna:
+Efter godkänd delkurs ska den studerande kunna:
 
   - med utgångspunkt i elevers kunskapsbehov och individuella förutsättningar för lärande diskutera innehåll och arbetssätt för undervisningen med hänsyn till målgrupp, skolans styrdokument och relevant forskning
 
@@ -181,10 +162,6 @@ Efter godkänd delkurs ska den studerande kunna:
 ## Innehåll
 
 Kursen består av fyra obligatoriska delkurser:  
-Delkurs 1. Skriftlig språkfärdighet II, 7,5 hp  
-Delkurs 2. Introduktion till lingvistik och akademiskt skrivande, 5 hp  
-Delkurs 3. Muntlig franska, 5 hp  
-Delkurs 4. Franskspråkig litteratur II: Fram till 1900, 5 hp
 
 De studerande läser sedan en av de fyra didaktiska delkurserna:  
 Delkurs 5. Språkdidaktik 1A, 7,5 hp  
