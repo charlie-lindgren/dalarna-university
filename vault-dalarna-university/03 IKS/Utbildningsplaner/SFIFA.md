@@ -9,14 +9,6 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SFIFA
 up: "IKS"
 ---
 
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Studier i Internationell Human Resource Management` (15 hp) |
-<!-- analys:end -->
-
 # SFIFA
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SFIFA)

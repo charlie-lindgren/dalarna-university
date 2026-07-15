@@ -7,10 +7,9 @@ up: "[[IKS]]"
 
 # Nationalekonomi
 
-> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
-> Huvudområde: Nationalekonomi 1
+> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (22 st)
+## Kurser (20 st)
 
 - [[ANA235]] — Ledarskapets ekonomi
 - [[GNA3B8]] — Makroekonomi, introduktion
@@ -19,7 +18,6 @@ up: "[[IKS]]"
 - [[GNA3D9]] — Statistik för ekonomer
 - [[GNA3DA]] — Finansiell ekonomi
 - [[GNA3FN]] — Mikroekonomi, introduktion
-- [[NA1028]] — Samhällsekonomi för god hälsa, distans
 - [[NA1029]] — Tillämpad matematik för nationalekonomer
 - [[NA1031]] — Ekonometri, introduktion
 - [[NA1033]] — Mikroekonomi, fortsättningskurs
@@ -30,12 +28,11 @@ up: "[[IKS]]"
 - [[NA2009]] — Samhällsekonomisk utvärdering av offentliga projekt (Cost-Benefit Analysis)
 - [[NA3001]] — Tillämpad mikroekonomi
 - [[NA3005]] — Mikroekonomi, avancerad
-- [[NA3007]] — Välfärdsekonomisk analys av samhälleliga projekt
 - [[NA3008]] — Matematik för ekonomisk statisk analys
 - [[NA3010]] — Examensarbete för magisterexamen i nationalekonomi
 - [[NA3011]] — Ekonometri
 
-## Vilande kursplaner (12 st)
+## Vilande kursplaner (14 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -47,7 +44,9 @@ up: "[[IKS]]"
 - [[NA1025]] — Makroekonomi, introduktion - Distans
 - [[NA1026]] — Finansiella marknader och penningpolitik - Distans
 - [[NA1027]] — Internationell ekonomi - Distans
+- [[NA1028]] — Samhällsekonomi för god hälsa, distans
 - [[NA1030]] — Internationell ekonomi
 - [[NA1032]] — Makroekonomi, introduktion
 - [[NA1035]] — Mikroekonomi, introduktion
 - [[NA1039]] — Tjänstenäringars ekonomi
+- [[NA3007]] — Välfärdsekonomisk analys av samhälleliga projekt

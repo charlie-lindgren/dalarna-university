@@ -9,15 +9,6 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TATPG
 up: "IIT"
 ---
 
-<!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Produktutveckling` → `MT2016` (nedlagd 2021-11-30) — plain-text-referens |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Finita elementmetoden i praktiken` (7,5 hp) — sannolikt avses `Finita element metoden i praktiken` (kurskod `GMT2QF`) |
-<!-- analys:end -->
-
 # TATPG
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TATPG)
@@ -142,7 +133,7 @@ I inriktningskurserna avspeglas assisterande teknik genom exempel och tillämpni
 **Samtliga kurser ges på grundnivå och är obligatoriska för att examen ska utfärdas med programnamn.**
 
 
-År 1
+****År 1****
 
 - [[GMT338|3D-CAD – grundkurs]], 7,5 hp
 - [[GMT3HZ|Assisterande produkter]], 12 hp
@@ -152,7 +143,7 @@ I inriktningskurserna avspeglas assisterande teknik genom exempel och tillämpni
 - <a class="no-graph" href="GVV3JJ">Människokroppen och funktionsnedsättningar</a>, 15hp
 - <a class="no-graph" href="GVV3JK">Mätmetoder för tillämpningar inom assisterande teknik</a>, 7,5 hp
 
-År 2
+****År 2****
 
 - [[GMA2ZS|Analys i en variabel]], 7,5 hp
 - [[GMT3JV|Assisterande robotik]], 7,5 hp
@@ -163,7 +154,7 @@ I inriktningskurserna avspeglas assisterande teknik genom exempel och tillämpni
 - [[GMT3JU|Smarta hem och e-hälsoteknik]], 7,5 hp
 - [[GMT3JT|Tillämpning av regelverk för assisterande produkter]], 7,5 hp
 
-År 3
+****År 3****
 
 - [[GMT3K5|Examensarbete i assisterande teknik med inriktning mot maskinteknik]], 15 hp
 - Finita elementmetoden i praktiken, 7,5 hp

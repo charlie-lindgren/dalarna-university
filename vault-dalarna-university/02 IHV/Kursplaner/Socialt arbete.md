@@ -7,8 +7,7 @@ up: "[[IHV]]"
 
 # Socialt arbete
 
-> Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
-> Huvudområde: Socialt arbete 1
+> Forskarutbildningsämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 
 ## Kurser (26 st)
 

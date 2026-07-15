@@ -7,10 +7,9 @@ up: "[[IKS]]"
 
 # Bildproduktion
 
-> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
-> Huvudområde: Bildproduktion 1
+> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (13 st)
+## Kurser (12 st)
 
 - [[ABQ2AZ]] — Audiovisuella produktionsprocesser
 - [[ABQ2B2]] — Audiovisuella studier: Kunskapsproduktion genom gestaltning
@@ -24,9 +23,8 @@ up: "[[IKS]]"
 - [[GBQ36E]] — Arbetsplatsförlagd bildproduktion
 - [[GBQ38V]] — Introduktion till redigering av rörliga bilder med Media Composer
 - [[GBQ38W]] — Fördjupning i redigering av rörliga bilder med Media Composer
-- [[GBQ3A8]] — Kreativt skrivande
 
-## Vilande kursplaner (49 st)
+## Vilande kursplaner (50 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -74,6 +72,7 @@ up: "[[IKS]]"
 - [[GBQ3A5]] — Grunderna i filmproduktion
 - [[GBQ3A6]] — Konceptutveckling för korta filmer
 - [[GBQ3A7]] — Star Wars: Film, myter och världar
+- [[GBQ3A8]] — Kreativt skrivande
 - [[GBQ3A9]] — Introduktion till att skriva filmadaption
 - [[GBQ3AA]] — Filmhistoria: En introduktion
 - [[GBQ3AV]] — Content för sociala medier

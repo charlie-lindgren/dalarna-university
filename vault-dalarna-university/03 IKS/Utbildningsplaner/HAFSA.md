@@ -9,26 +9,6 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=HAFSA
 up: "IKS"
 ---
 
-<!-- analys:start -->
-> [!warning]- 13 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Magisterprojektets planering` (1 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Den vidareutvecklade uppsatsplanen` (1 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Magisterexamensarbete i Afrikanska studier` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Bistånd och utveckling i Afrika söder om Sahara` (7 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Egypten och medierna` (7 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Egyptisk–sudanesiska relationer: Vattenresursernas geopolitik` (7 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Den nordafrikanska novellen` (7 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Islam och muslimska samhällen i Afrika` (7 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Språk och nationalitet i afrikanska flerspråkliga länder` (7 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Södra Afrikas moderna historia` (7 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Afrikas horn` (7 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Fred och konflikt i Afrika: Internationell institutionell lag` (7 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Västafrika sedan 1800-talet` (7 hp) |
-<!-- analys:end -->
-
 # HAFSA
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=HAFSA)
@@ -101,7 +81,7 @@ Genom hela programmet sker en progression kunskapsmässigt från den första ter
 
 ## 3. Programmets kurser
 
-3.1 Obligatoriska kurser
+****3.1 Obligatoriska kurser****
 
 - [[AS3022|Afrikanska samhällen i förändring]], 12 hp
 
@@ -131,7 +111,7 @@ Genom hela programmet sker en progression kunskapsmässigt från den första ter
 **ett avgränsat område med anknytning till Afrikanska studier. Studien presenteras i form av en självständigt författad magisteruppsats om 10,000 till 15,000 ord. I kursen ingår även att skriftligt presentera och försvara egna resultat och argument såväl som analysera andras arbeten.**
 
 
-3.2 Valbara kurser
+****3.2 Valbara kurser****
 
 - Bistånd och utveckling i Afrika söder om Sahara, 7 hp
 - [[AS3017|Litteratur och politik i det samtida Afrika]], 7 hp

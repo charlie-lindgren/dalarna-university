@@ -10,20 +10,10 @@ amne_kod: "PEA"
 institution: "IKS"
 tags: [kursplan, PEA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 1636cbf03c3eb9ee
+scrape_hash: 091f1e8803d8ae14
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPE3AJ
 up: "[[Pedagogik]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande ska utveckla grundläggande kunskaper, färdigheter och förhållningssätt i … |
-> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
-> | Stavfel och språkbruk | Felstavning | `kollegialtlärande` (sv) |
-<!-- analys:end -->
 
 # GPE3AJ
 
@@ -46,7 +36,7 @@ Efter godkänd kurs ska studenten kunna:
 
   - visa god kunskap om förskolans och skolans uppdrag,
 
-  - visa grundläggande kunskaper om förutsättningar och villkor för ett kollegialtlärande,
+  - visa grundläggande kunskaper om förutsättningar och villkor för ett kollegialt lärande,
 
   - leda, planera och genomföra mindre utvecklingsprojekt i syfte att utveckla kollegialt lärande i den egna verksamheten,
 

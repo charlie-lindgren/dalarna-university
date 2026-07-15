@@ -10,18 +10,10 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 15f09067884b207e
+scrape_hash: 86097b06fbc7f134
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3FG
 up: "[[Bildproduktion]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning (en) | `excersises` (en) |
-<!-- analys:end -->
 
 # GBQ3FG
 
@@ -103,7 +95,7 @@ The course treats the conventions that influence the design of narratives and st
 
 ### Assessment
 
-- Writing excersises
+- Writing excercises
 
   - Written assignments
 

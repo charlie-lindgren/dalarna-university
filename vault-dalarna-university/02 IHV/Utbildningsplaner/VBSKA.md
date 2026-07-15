@@ -9,16 +9,6 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VBSKA
 up: "IHV"
 ---
 
-<!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Gynekologisk och postpartumvård, verksamhetsförlagd utbildning` → `VÅ3086` (nedlagd 2017-04-07) — plain-text-referens |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Gravididet, förlossning och postpartumvård 1` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Gravididet, förlossning och postpartumvård 2` (6 hp) |
-<!-- analys:end -->
-
 # VBSKA
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VBSKA)

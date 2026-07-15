@@ -7,8 +7,7 @@ up: "[[ISLL]]"
 
 # Franska
 
-> Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
-> Huvudområde: Franska 1
+> Forskarutbildningsämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
 ## Kurser (28 st)
 

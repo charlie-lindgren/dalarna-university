@@ -107,14 +107,14 @@ Institutionen som ansvarar för programmet samarbetar med andra lärosäten nati
 **Gemensamma kurser**
 
 
-År 1
+****År 1****
 
 - [[AJP23P|Interkulturella litteraturstudier: Akademiskt skrivande]], 7,5 hp
 - [[AJP23N|Introduktion till interkulturella litteraturstudier]], 7,5 hp
 - [[AJP25X|Interkulturella litteraturstudier: Litteratur och genus - teori och kritik]], 7,5 hp
 - [[AJP264|Migrationslitteratur i dåtid och nutid]], 7,5 hp
 
-År 2
+****År 2****
 
 - Valbara eller valfria litteraturvetenskapligt inriktade kurser, 30 hp
 
@@ -124,57 +124,57 @@ Institutionen som ansvarar för programmet samarbetar med andra lärosäten nati
 **Allmän inriktning**
 
 
-År 1
+****År 1****
 
 - Valbara och valfria litteraturvetenskapligt inriktade kurser, 30 hp
 
-År 2
+****År 2****
 
 - [[AJP2A9|Interkulturella litteraturstudier: Masterexamensarbete]], 30 hp
 
 **Inriktning engelskspråkig litteratur**
 
 
-År 1
+****År 1****
 
 - [[AEN29A|Konflikt och kreativitet i engelskspråkig litteratur]], 7,5 hp
 - [[AEN252|Migration, klimat och ångest i engelskspråkig litteratur]], 7,5 hp
 - [[EN3062|Världslitteratur på engelska]], 7,5 hp
 - [[AEN299|Litteratur, censur och cancelkultur på engelska]], 7,5 hp
 
-År 2
+****År 2****
 
 - [[AEN29C|Interkulturella litteraturstudier: Masterexamensarbete med inriktning engelska]], 30 hp
 
 **Inriktning franskspråkig litteratur**
 
 
-År 1
+****År 1****
 
 - [[AFR236|Den fransktalande världen: Litteratur, kultur och översättning]], 7,5 hp
 - [[AFR27P|Franskspråkig chanson i original och översättning]], 7,5 hp
 - [[AFR26Q|Franskspråkig litteraturkritik]], 7,5 hp
 - Valbar eller valfri kurs inom franskspråkig litteratur, 7,5 hp
 
-År 2
+****År 2****
 
 - [[AFR29D|Interkulturella litteraturstudier: Masterexamensarbete med inriktning franska]], 30 hp
 
 **Inriktning tyskspråkig litteratur**
 
 
-År 1
+****År 1****
 
 - [[TY3016|Tyska: Former och villkor för dramer och prosatexter]], 7,5 hp
 - [[TY3015|Tyska: Intertextualitet och intermedialitet i teori och praktik]], 7,5 hp
 - [[TY3013|Tyska: Modern kvinnolitteratur]], 7,5 hp
 - Valbar eller valfri kurs inom tyskspråkig litteratur, 7,5 hp
 
-År 2
+****År 2****
 
 - [[ATY29E|Interkulturella litteraturstudier: Masterexamensarbete med inriktning tyska]], 30 hp
 
-Valbara kurser inom programmet:
+****Valbara kurser inom programmet:****
 
 - [[AJP23Q|Världslitteraturer: Asien och Europa]], 7,5 hp
 - [[AJP23R|Världslitteraturer: Nord- och Sydamerika]], 7,5 hp

@@ -4,30 +4,10 @@ programnamn: "Vidareutbildning av lärare som saknar lärarexamen"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2025-06-17 . Gäller fr.o.m.  HT 2025."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: abe68182520c3f72
+scrape_hash: ff0d72b47b94bc6e
 url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LVALA
 up: "IKS"
 ---
-
-<!-- analys:start -->
-> [!warning]- 13 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Skolans samhällsuppdrag` ≠ kursplanens namn `Skolans samhällsuppdrag - VAL` (kurskod `GPG2Z7`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Didaktik och ledarskap` ≠ kursplanens namn `Didaktik och ledarskap - VAL` (kurskod `GPG3BE`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Utveckling och lärande` ≠ kursplanens namn `Utveckling och lärande - VAL` (kurskod `GPG2Z4`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Sociala relationer och konflikthantering` ≠ kursplanens namn `Sociala relationer och konflikthantering - VAL` (kurskod `GPG2Z6`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Vetenskapsteori och utbildningsvetenskaplig forskning` ≠ kursplanens namn `Vetenskapsteori och utbildningsvetenskaplig forskning - VAL` (kurskod `APG28M`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Utvärdering och utvecklingsarbete` ≠ kursplanens namn `Utvärdering och utvecklingsarbete - VAL` (kurskod `GPG3FU`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Självständigt arbete` ≠ kursplanens namn `Självständigt arbete - VAL` (kurskod `GPG3FV`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Verksamhetsförlagd utbildning 1` ≠ kursplanens namn `Verksamhetsförlagd utbildning 1 - VAL` (kurskod `GPG3FS`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Verksamhetsförlagd utbildning 2` ≠ kursplanens namn `Verksamhetsförlagd utbildning 2 - VAL` (kurskod `GPG3FT`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Verksamhetsförlagd utbildning 3` ≠ kursplanens namn `Verksamhetsförlagd utbildning 3 - VAL` (kurskod `APG2BK`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Didaktik och bedömning` ≠ kursplanens namn `Didaktik och bedömning - VAL` (kurskod `GPG33F`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Utveckling, lärande och ledarskap` ≠ kursplanens namn `Utveckling, lärande och ledarskap - VAL` (kurskod `GPG33D`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Sociala relationer, skolans historiska utveckling och samhällsuppdrag` ≠ kursplanens namn `Sociala relationer, skolans historiska utveckling och samhällsuppdrag - VAL` (kurskod `GPG33E`) |
-<!-- analys:end -->
 
 # LVALA
 
@@ -440,7 +420,7 @@ Examen avsedd för undervisning i grundskolans årskurs 1-7, grundskolans årsku
 
 - En valideringskurs inom verksamhetsförlagd utbildning erbjuds (Verksamhetsförlagd utbildning – VAL, 7,5 hp) som, om den godkänns, ligger till grund för validering av kurserna Verksamhetsförlagd utbildning 1-3, totalt, 30 hp
 
-*Kurser för studenter som antas med minst åtta och ett halvt års lärarerfarenhet enligt SFS 2011:689 §17.**
+*****Kurser för studenter som antas med minst åtta och ett halvt års lärarerfarenhet enligt SFS 2011:689 §17.**
 
 
 **För student som uppfyller kravet på självständigt arbete inom ramen för ämnesstudier.**

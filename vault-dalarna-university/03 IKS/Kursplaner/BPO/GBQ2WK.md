@@ -10,22 +10,10 @@ amne_kod: "BPO"
 institution: "IKS"
 tags: [kursplan, BPO, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: badccfa288064a66
+scrape_hash: ff3d13689824a514
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2WK
 up: "[[Bildproduktion]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på samtliga moduler Betygsrapportering: Modu… |
-> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
-> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
-> | Stavfel och språkbruk | Felstavning | `berätttarelement` (sv) |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GBQ2AZ.… |
-<!-- analys:end -->
 
 # GBQ2WK
 
@@ -45,10 +33,15 @@ up: "[[Bildproduktion]]"
 Efter avslutad kurs ska studenten kunna:
 
   - redogöra för och reflektera över ljusets roll som berättarelement inom produktion av reklam- och informationsfilm
-  - redogöra för och motivera användningen av specifika ljussättningstekniker som berätttarelement både vid inspelning och vid efterbearbetning
+
+  - redogöra för och motivera användningen av specifika ljussättningstekniker som berättarelement både vid inspelning och vid efterbearbetning
+
   - genomföra ljussättning för filminspelning och tillämpa ljussättningstekniker för att förstärka berättandet och för att skapa genrespecik stämning
+
   - självständigt och strategiskt genomföra en färgkorrigering till en filmsekvens med hjälp av efterbearbetningsverktyg för att förstärka berättandet och för att skapa genrespecifik stämning
+
   - granska och diskutera andras produktioner utifrån ljussättning och färgkorrigering med stöd av relevant litteratur
+
   - samarbeta i samband med ljussättning och färgkorrigeringsarbete.
 
 ## Innehåll

@@ -9,14 +9,6 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TSETA
 up: "IIT"
 ---
 
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Design av PV hybrid system` (7,5 hp) — sannolikt avses `Design av PV- och hybridsystem` (kurskod `AEG26X`) |
-<!-- analys:end -->
-
 # TSETA
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TSETA)
@@ -128,7 +120,7 @@ Programmet avslutas med ett examensarbete. Examensarbetet kan utföras i vid uni
 **Samtliga kurser är på avancerad nivå och tillhör huvudområdet Solenergiteknik.**
 
 
-Termin 1
+****Termin 1****
 
 - [[AEG2B6|Solstrålning och solgeometri]], 5 hp
 - [[EG3007|Solvärme]], 7,5 hp
@@ -136,7 +128,7 @@ Termin 1
 - [[AEG233|Solel]], 7,5 hp
 - [[AEG22R|Tillämpad solenergiteknik]], 7,5 hp
 
-Termin 2
+****Termin 2****
 
 - [[EG3009|Design av solvärmesystem]], 7,5 hp
 - Design av PV hybrid system, 7,5 hp

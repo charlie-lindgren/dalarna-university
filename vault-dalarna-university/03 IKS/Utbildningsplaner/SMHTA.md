@@ -95,7 +95,7 @@ Under den fjärde terminen skriver studenterna ett examensarbete i turismvetensk
 
 ## 3. Programmets kurser
 
-Läsår 1
+****Läsår 1****
 
 
 **Termin 1**
@@ -111,7 +111,7 @@ Läsår 1
 - [[ATR2BJ|Projektarbete i Turismvetenskap]], 15 hp
 - [[TR3008|Examensarbete för Magisterexamen i Turismvetenskap]], 15 hp
 
-Läsår 2
+****Läsår 2****
 
 
 **Termin 3**

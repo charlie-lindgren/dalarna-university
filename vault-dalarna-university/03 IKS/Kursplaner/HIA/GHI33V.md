@@ -9,22 +9,10 @@ amne: "Historia"
 amne_kod: "HIA"
 institution: "IKS"
 tags: [kursplan, HIA, IKS, forskarutbildning]
-scrape_hash: 050644aa289eef1e
+scrape_hash: 928e175af55d86b6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI33V
 up: "[[Historia]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Målet med kursen är att den studerande utvecklar insikter och kunskaper om för historieämnet grundläggande vetenskapliga… |
-> | Omfång på lärandemål | För många mål | 17 lärandemål (maximum rekommenderat: 12 för 30 hp) |
-> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 17 mål, engelska: 2 mål (diff 15) |
-> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning | `delkurseninnehåller` (sv) |
-<!-- analys:end -->
 
 # GHI33V
 
@@ -115,7 +103,7 @@ Delkursen behandlar centrala förändringsprocesser i Sverige och Nordens politi
 
 3.Världshistoria I. Från fornhistoria till ca år 1500, 7,5 högskolepoäng
 
-Delkurseninnehåller en översikt rörande världs- samt globalhistoriska perspektiv, tillika långa utvecklingslinjer vad gäller avgörande förändringsprocesser i fråga om människans äldre historia, från bofast jordbrukare, via utvecklingen av samhällen och statsbildningar till imperier (i Asien, Afrika, Europa och Amerika) från forntid och ca 1500.
+Delkursen innehåller en översikt rörande världs- samt globalhistoriska perspektiv, tillika långa utvecklingslinjer vad gäller avgörande förändringsprocesser i fråga om människans äldre historia, från bofast jordbrukare, via utvecklingen av samhällen och statsbildningar till imperier (i Asien, Afrika, Europa och Amerika) från forntid och ca 1500.
 
 4.Världshistoria II. Globalhistoria från ca år 1500 till nutid, 7,5 högskolepoäng
 

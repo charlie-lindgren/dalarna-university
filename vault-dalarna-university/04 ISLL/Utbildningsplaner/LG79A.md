@@ -9,19 +9,6 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LG79A
 up: "ISLL"
 ---
 
-<!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Didaktik och ledarskap för ämneslärare` → `PG1020` (nedlagd 2018-07-02) — plain-text-referens |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Utveckling och lärande - ämneslärare` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Utveckling och lärande för ämneslärare inriktning åk 7-9` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Sociala relationer, konflikter och makt - ämneslärare` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Utvärdering och utvecklingsarbete för ämneslärare` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Verksamhetsförlagd utbildning - ämneslärare` (15 hp) |
-<!-- analys:end -->
-
 # LG79A
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LG79A)
@@ -214,7 +201,7 @@ Den verksamhetsförlagda utbildningen har en progression där den studerande fö
 - Ämne 2 med didaktisk inriktning II, 30 hp
 - Examensarbete i ämne 1 eller 2, 30 hp
 
-Ämneskombinationer
+****Ämneskombinationer****
 
 
 **I enlighet med Förordningen (2021:1335) om utbildning till lärare och förskollärare, 4 kap, kan samtliga ämnen vid Högskolan Dalarna, inom ramen för en 7-9-examen, kombineras fritt med varandra med undantag för följande begränsningar:**

@@ -9,21 +9,6 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LLL6A
 up: "ISLL"
 ---
 
-<!-- analys:start -->
-> [!warning]- 8 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Didaktik och ledarskap i grundskolans åk 4–6` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Examensarbete för grundlärarexamen inriktning 4–6 – del 1` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Examensarbete för grundlärarexamen inriktning 4–6 – del 2` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Utvärdering och utvecklingsarbete i grundskolans åk 4–6` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Engelska för grundlärare åk 4-6 1a` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Engelska för grundlärare åk 4-6 1b` (15 hp) |
-> | Programkurser olänkade | Kursraden ser avbruten/feltrycklig ut | `Sociala relationer, konflikter och makt i grundskolan åk 4–6,` (15 hp) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Samhällsorienterande ämnen, åk 4–6` ≠ kursplanens namn `Samhällsorienterande ämnen, årskurs 4-6` (kurskod `GPG2SC`) |
-<!-- analys:end -->
-
 # LLL6A
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LLL6A)
@@ -145,7 +130,7 @@ Inom programmets kurser ges internationella och globala perspektiv via litteratu
 
 ## 3. Programmets kurser
 
-Pedagogiskt arbete
+****Pedagogiskt arbete****
 
 
 **Inom grundlärarutbildningen vid Högskolan Dalarna svarar ämnet pedagogiskt arbete för kurserna inom den utbildningsvetenskapliga kärnan som krävs för grundlärarexamen. Pedagogiskt arbete som ämne fokuserar den pedagogiska yrkesverksamhetens praktik och teori. Ämnet är således mångvetenskapligt och integrerar teorier och metoder från olika forskningsfält där den pedagogiska yrkesverksamheten står i centrum.**

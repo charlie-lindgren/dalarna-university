@@ -7,10 +7,9 @@ up: "[[ISLL]]"
 
 # Svenska som andraspråk
 
-> Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
-> Huvudområde: Ej huvudområde 1
+> Forskarutbildningsämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (37 st)
+## Kurser (36 st)
 
 - [[ASS257]] — Examensarbete i svenska som andraspråk för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 - [[ASS258]] — Examensarbete i svenska som andraspråk för ämneslärarexamen, inriktning gymnasieskolan
@@ -38,7 +37,6 @@ up: "[[ISLL]]"
 - [[GSS3HB]] — Modersmål med didaktisk inriktning
 - [[GSS3HC]] — Introduktion till modersmålsundervisning och studiehandledning på modersmålet
 - [[GSS3HD]] — Språkdidaktik med fokus på modersmål och flerspråkighet
-- [[GSS3HE]] — Sociolingvistiska perspektiv på modersmålsundervisning
 - [[GSS3HF]] — Flerspråkiga perspektiv på skriftspråksutveckling
 - [[GSS3HG]] — Svenska som andraspråk III med didaktisk inriktning för gymnasieskolan
 - [[GSS3HH]] — Lärande genom fiktionstext i gymnasieskolan
@@ -50,7 +48,7 @@ up: "[[ISLL]]"
 - [[SS3008]] — Flerspråkiga röster i svensk skönlitteratur
 - [[SS3011]] — Svenska som andraspråk: Examensarbete för magisterexamen
 
-## Vilande kursplaner (26 st)
+## Vilande kursplaner (27 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -72,6 +70,7 @@ up: "[[ISLL]]"
 - [[GSS3BN]] — Svenska som andraspråk II med didaktisk inriktning
 - [[GSS3C6]] — Lärande genom fiktionstext i gymnasieskolan
 - [[GSS3C7]] — Svenska som andraspråk III med didaktisk inriktning för gymnasieskolan
+- [[GSS3HE]] — Sociolingvistiska perspektiv på modersmålsundervisning
 - [[GSS3K2]] — Litteraturdidaktik för ämneslärare i svenska som andraspråk på gymnasial nivå
 - [[SS1085]] — Svenska som andraspråk för lärare åk 7-9, 45 hp (1-45). Ingår i Lärarlyftet II
 - [[SS2009]] — Svenska som andraspråk III - Andraspråksforskning

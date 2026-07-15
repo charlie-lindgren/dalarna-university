@@ -8,9 +8,8 @@ up: "[[IKS]]"
 # Pedagogik
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
-> Huvudområde: Ej huvudområde 1
 
-## Vilande kursplaner (44 st)
+## Vilande kursplaner (43 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -21,7 +20,6 @@ up: "[[IKS]]"
 - [[PE1018]] — En förskola och skola för alla - inriktning specialpedagogik
 - [[PE1020]] — Att bemöta barn med funktionsnedsättning - inriktning specialpedagogik
 - [[PE1021]] — Utvecklingsplaner, åtgärdsprogram och utvärdering
-- [[PE1023]] — Behörighetsgivande högskolepedagogisk utbildning
 - [[PE1032]] — Pedagogiskt ledarskap i skolan
 - [[PE1039]] — Den lekande människan
 - [[PE1050]] — Specialpedagogisk grundsyn i ledarskap och utvecklingsarbete
