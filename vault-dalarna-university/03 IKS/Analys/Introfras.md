@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Introfras.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (240 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Introfras.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (239 rader)</span></a>
 
-> [!example]- 240 fynd — klicka för att expandera
+> [!example]- 239 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -128,7 +128,6 @@ status: första pass
 > | [PE1018](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1018) | <a class="no-graph" href="03-IKS/Kursplaner/PEA/PE1018">sida</a> | PEA | 2007-01-10 | 2014-01-24 | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande skall utveckla sina kunskaper i bemötandet av barn och elever i behov av … |
 > | [PE1020](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1020) | <a class="no-graph" href="03-IKS/Kursplaner/PEA/PE1020">sida</a> | PEA | 2007-01-10 | 2014-01-24 | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande skall utveckla sina kunskaper i bemötandet av barn och elever i behov av … |
 > | [PE1021](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1021) | <a class="no-graph" href="03-IKS/Kursplaner/PEA/PE1021">sida</a> | PEA | 2007-01-10 | 2013-03-06 | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande skall utveckla sina kunskaper i att dokumentera och upprätta utvecklingsp… |
-> | [PE1023](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1023) | <a class="no-graph" href="03-IKS/Kursplaner/PEA/PE1023">sida</a> | PEA | 2007-03-22 | — | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Den behörighetsgivande högskolepedagogiska utbildningens övergripande mål är… |
 > | [PE1039](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1039) | <a class="no-graph" href="03-IKS/Kursplaner/PEA/PE1039">sida</a> | PEA | 2008-09-16 | 2013-03-06 | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med denna kurs är att de studerande efter avslutad kurs skall förstå den centrala betydelse som l… |
 > | [PE1050](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1050) | <a class="no-graph" href="03-IKS/Kursplaner/PEA/PE1050">sida</a> | PEA | 2010-10-29 | 2013-03-06 | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet är att utveckla deltagarnas kunskaper och färdigheter för att möta barn och elever i behov av sär… |
 > | [PE1052](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE1052) | <a class="no-graph" href="03-IKS/Kursplaner/PEA/PE1052">sida</a> | PEA | 2010-12-07 | 2013-03-06 | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet är att de studerande ska ha kunskaper om och förståelse för de regelsystem som gäller för svensk … |

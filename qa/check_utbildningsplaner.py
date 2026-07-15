@@ -28,6 +28,7 @@ from checks_common import (
     check_hunspell_en,
     check_hunspell_sv,
     check_known_typos,
+    is_draft,
     is_hub,
 )
 from checks_nedlagda import (
@@ -46,7 +47,10 @@ def load_files() -> list[Path]:
     for inst in INST_DIRS:
         utb = VAULT / inst / "Utbildningsplaner"
         if utb.exists():
-            files.extend(p for p in utb.rglob("*.md") if not is_hub(p))
+            files.extend(
+                p for p in utb.rglob("*.md")
+                if not is_hub(p) and not is_draft(p)
+            )
     return sorted(files)
 
 

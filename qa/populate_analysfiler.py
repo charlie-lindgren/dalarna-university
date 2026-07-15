@@ -303,6 +303,7 @@ CORRECTIONS: dict[str, str] = {
     "devolop": "develop",
     "berätttarelement": "berättarelement",
     "excersises": "exercises",
+    "excercises": "exercises",
     "delkurseninnehåller": "delkursen innehåller",
     "thise": "this",
     "evaulate": "evaluate",

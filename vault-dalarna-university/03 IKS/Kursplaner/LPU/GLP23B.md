@@ -16,18 +16,6 @@ up: "[[Ljud- och musikproduktion]]"
 draft: true
 ---
 
-<!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. En förutsättning för betyget _Väl godkänd_ är att de examinerande uppgifterna lämnas in in… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom en egen redigering av inspelat material, en praktisk tentamen i form av en enklare produktionsup… |
-> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
-> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter LP1084. Kursen kan inte användas i en examen samtidigt som någon av kurserna LP1017, LP1047 och LP1050.… |
-<!-- analys:end -->
-
 # GLP23B
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP23B)

@@ -40,6 +40,7 @@ from checks_common import (
     check_known_typos,
     course_code,
     extract_section,
+    is_draft,
     is_hub,
     strip_frontmatter,
     subject,
@@ -55,7 +56,10 @@ def load_files() -> list[Path]:
     for inst in INST_DIRS:
         kp = VAULT / inst / "Kursplaner"
         if kp.exists():
-            files.extend(p for p in kp.rglob("*.md") if not is_hub(p))
+            files.extend(
+                p for p in kp.rglob("*.md")
+                if not is_hub(p) and not is_draft(p)
+            )
     return sorted(files)
 
 

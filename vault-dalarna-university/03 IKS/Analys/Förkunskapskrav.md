@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Förkunskapskrav.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (37 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Förkunskapskrav.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (33 rader)</span></a>
 
-> [!example]- 37 fynd — klicka för att expandera
+> [!example]- 33 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj | Förslag |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -24,10 +24,6 @@ status: första pass
 > | [KG1016](https://www.du.se/sv/utbildning/kurser/kursplan/?code=KG1016) | <a class="no-graph" href="03-IKS/Kursplaner/KGA/KG1016">sida</a> | KGA | 2009-02-24 | — | Refererar bekräftat nedlagd kurs | `Tourism and Destination Development – An Introduction` | `TR1009` (nedlagd 2019-04-02); förkunskap nämner nedlagd kurs |
 > | [KG1022](https://www.du.se/sv/utbildning/kurser/kursplan/?code=KG1022) | <a class="no-graph" href="03-IKS/Kursplaner/KGA/KG1022">sida</a> | KGA | 2010-02-23 | 2012-11-28 | Refererar bekräftat nedlagd kurs | `Nordisk turism` | `KG1026` (nedlagd 2019-04-02); förkunskap nämner nedlagd kurs |
 > | [KG1027](https://www.du.se/sv/utbildning/kurser/kursplan/?code=KG1027) | <a class="no-graph" href="03-IKS/Kursplaner/KGA/KG1027">sida</a> | KGA | 2010-09-07 | — | Refererar bekräftat nedlagd kurs | `Introduktion till Javaprogrammering` | `IK1046` (nedlagd 2020-06-11); förkunskap nämner nedlagd kurs |
-> | [GLP29S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP29S) | <a class="no-graph" href="03-IKS/Kursplaner/LPU/GLP29S">sida</a> | LPU | 2019-06-17 | — | Refererar bekräftat nedlagd kurs | `Radioproduktion` | `LP1061` (nedlagd 2021-10-28); förkunskap nämner nedlagd kurs |
-> | [GLP2KH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2KH) | <a class="no-graph" href="03-IKS/Kursplaner/LPU/GLP2KH">sida</a> | LPU | 2020-11-06 | — | Refererar bekräftat nedlagd kurs | `Radioproduktion` | `LP1061` (nedlagd 2021-10-28); förkunskap nämner nedlagd kurs |
-> | [LP1054](https://www.du.se/sv/utbildning/kurser/kursplan/?code=LP1054) | <a class="no-graph" href="03-IKS/Kursplaner/LPU/LP1054">sida</a> | LPU | 2014-12-01 | — | Refererar bekräftat nedlagd kurs | `Audiovisuell representation I` | `LP1017` (nedlagd 2020-05-12); förkunskap nämner nedlagd kurs |
-> | [LP1054](https://www.du.se/sv/utbildning/kurser/kursplan/?code=LP1054) | <a class="no-graph" href="03-IKS/Kursplaner/LPU/LP1054">sida</a> | LPU | 2014-12-01 | — | Refererar bekräftat nedlagd kurs | `Audiovisuell representation II` | `LP1020` (nedlagd 2020-05-12); förkunskap nämner nedlagd kurs |
 > | [GMN3EJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3EJ) | <a class="no-graph" href="03-IKS/Kursplaner/MPR/GMN3EJ">sida</a> | MPR | 2025-07-02 | — | Refererar bekräftat nedlagd kurs | `Audioteknologi` | `LP1027` (nedlagd 2021-02-22); förkunskap nämner nedlagd kurs |
 > | [GMN3F2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3F2) | <a class="no-graph" href="03-IKS/Kursplaner/MPR/GMN3F2">sida</a> | MPR | 2025-02-24 | — | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` | `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
 > | [GPA2P7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2P7) | <a class="no-graph" href="03-IKS/Kursplaner/PEE/GPA2P7">sida</a> | PEE | 2021-03-11 | — | Refererar bekräftat nedlagd kurs | `Samhällsvetenskaplig metod och vetenskapsteori I` | `GPA32R` (nedlagd 2026-02-11); förkunskap nämner nedlagd kurs |

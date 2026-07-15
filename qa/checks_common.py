@@ -93,6 +93,28 @@ def is_hub(path: Path) -> bool:
     return bool(m) and "MOC" in (t.strip() for t in m.group(1).split(","))
 
 
+_DRAFT_RE = re.compile(r"^draft:\s*true\s*$", re.MULTILINE)
+
+
+def is_draft(path: Path) -> bool:
+    """True för opublicerade planer (``draft: true`` i frontmatter).
+
+    Nedlagda kursplaner ligger kvar i vaulten men markeras ``draft: true`` —
+    de renderas inte på Quartz-sajten och saknar därmed en levande sida. En
+    kvalitetsgranskning av dem ger bara fynd som pekar på länkar som inte finns
+    (t.ex. ``intiate``/``litterature`` i sedan länge nedlagda LPU-kurser), så de
+    hoppas över helt. Vilande kurser är *inte* draft och granskas fortfarande."""
+    try:
+        head = path.read_text(encoding="utf-8")[:600]
+    except OSError:
+        return False
+    if not head.startswith("---"):
+        return False
+    end = head.find("\n---", 3)
+    fm = head if end == -1 else head[:end]
+    return bool(_DRAFT_RE.search(fm))
+
+
 # ─────────────────────────────────────────────────────────────────────────────
 # Check 1 — Dubblerade ord
 # ─────────────────────────────────────────────────────────────────────────────

@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Bloom-taxonomi.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (67 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Bloom-taxonomi.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (66 rader)</span></a>
 
-> [!example]- 67 fynd — klicka för att expandera
+> [!example]- 66 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -41,7 +41,6 @@ status: första pass
 > | [AS3024](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS3024) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/AS3024">sida</a> | HIA | 2018-02-13 | 2023-03-06 | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [3,0,0,0,0,0] |
 > | [KG2001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=KG2001) | <a class="no-graph" href="03-IKS/Kursplaner/KGA/KG2001">sida</a> | KGA | 2007-05-30 | 2011-12-22 | Okänt ledande verb | 7 av 16 bullets har okänt ledande verb |
 > | [KG3011](https://www.du.se/sv/utbildning/kurser/kursplan/?code=KG3011) | <a class="no-graph" href="03-IKS/Kursplaner/KGA/KG3011">sida</a> | KGA | 2009-09-02 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [3,0,3,0,0,0] |
-> | [GLP234](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP234) | <a class="no-graph" href="03-IKS/Kursplaner/LPU/GLP234">sida</a> | LPU | 2018-05-21 | — | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [0,0,0,0,1,2] |
 > | [GLP2MU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2MU) | <a class="no-graph" href="03-IKS/Kursplaner/LPU/GLP2MU">sida</a> | LPU | 2021-03-02 | — | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [0,1,0,0,0,2] |
 > | [GLP2QX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2QX) | <a class="no-graph" href="03-IKS/Kursplaner/LPU/GLP2QX">sida</a> | LPU | 2021-08-20 | — | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [0,1,0,0,0,2] |
 > | [LP1071](https://www.du.se/sv/utbildning/kurser/kursplan/?code=LP1071) | <a class="no-graph" href="03-IKS/Kursplaner/LPU/LP1071">sida</a> | LPU | 2015-12-10 | 2020-07-02 | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [0,0,0,0,1,2] |
