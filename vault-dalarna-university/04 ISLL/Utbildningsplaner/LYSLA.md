@@ -9,16 +9,6 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LYSLA
 up: "ISLL"
 ---
 
-<!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Undervisning och ledarskap` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Ämnesdidaktik och specialpedagogik` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Professionellt lärarskap och skolutveckling` (15 hp) |
-<!-- analys:end -->
-
 # LYSLA
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LYSLA)

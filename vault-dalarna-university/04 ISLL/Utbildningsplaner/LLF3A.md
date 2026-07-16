@@ -9,18 +9,6 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LLF3A
 up: "ISLL"
 ---
 
-<!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Text, kommunikation och lärande i en mångkulturell skola` → `GSV22L` (nedlagd 2024-10-11) — plain-text-referens |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Didaktik och ledarskap i förskoleklass och grundskolans åk 1–3` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Utvärdering och utvecklingsarbete i förskoleklass och grundskolans åk 1–3` (15 hp) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Vetenskapsteori och utbildningsvetenskaplig forskning för grundlärare F -3` ≠ kursplanens namn `Vetenskapsteori och utbildningsvetenskaplig forskning för grundlärare F-3` (kurskod `APG244`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Engelska för grundlärare åk F-3` ≠ kursplanens namn `Engelska för grundlärare F-3` (kurskod `GEN2BJ`) |
-<!-- analys:end -->
-
 # LLF3A
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LLF3A)
