@@ -7,7 +7,7 @@ up: "[[IKS]]"
 
 # Arbetsvetenskap
 
-> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
 ## Kurser (11 st)
 

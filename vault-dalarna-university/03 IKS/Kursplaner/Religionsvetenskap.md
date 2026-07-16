@@ -7,8 +7,7 @@ up: "[[IKS]]"
 
 # Religionsvetenskap
 
-> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
-> Huvudområde: Religionsvetenskap 1
+> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
 ## Kurser (26 st)
 

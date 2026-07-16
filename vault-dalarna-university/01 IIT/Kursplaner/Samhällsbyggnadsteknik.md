@@ -8,7 +8,6 @@ up: "[[IIT]]"
 # Samhällsbyggnadsteknik
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
-> Huvudområde: Samhällsbyggnadsteknik 1
 
 ## Kurser (13 st)
 
