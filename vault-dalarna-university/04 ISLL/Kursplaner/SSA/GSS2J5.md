@@ -10,27 +10,10 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: dc16ed6e0ca8bf1a
+scrape_hash: 9c98ee3a16b4854a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2J5
 up: "[[Svenska som andraspråk]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 10 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på fyra moduler. Betygsrapportering: Modul 1… |
-> | Bloom-taxonomi | Okänt ledande verb | 4 av 32 bullets har okänt ledande verb |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Delkurs 1-3 samt delkurs 5 examineras kontinuerligt genom aktivt deltagande på seminarier samt genom skriftliga inlämnin… |
-> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande utvecklar kunskaper och färdigheter för att kunna kommunicera… |
-> | Omfång på lärandemål | För många mål | 32 lärandemål (maximum rekommenderat: 15 för 67.5 hp) |
-> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 32 mål, engelska: 1 mål (diff 31) |
-> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning (en) | `amd` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `pracitse` (en) |
-> | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
-<!-- analys:end -->
 
 # GSS2J5
 
@@ -401,10 +384,10 @@ This module provides an overview of the basics of Swedish vocabulary, and elemen
 This module deals with the basic structure, vocabulary, pronunciation, morphology and syntax of Swedish. In productive and perceptive assignments as well as in interactive classroom activities, students work on their Swedish grammar and communication skills. The module introduces communication in society and professional life using exercises. Students practise how to write different types of simple texts in Swedish. Students also take part in oral presentations and conversation exercises in groups.
 3.Swedish Language Proficiency III (CEFR B1), 7.5 Credits
 
-This module provides both in-depth knowledge about the structure of Swedish and an increase in vocabulary, with a focus on themes concerning Swedish society, laws and rules, geography, history, traditions and politics. Students extend their Swedish communication skills in listening, reading, speaking and writing in productive and perceptive exercises. They pracitse how to express opinions and talk about their experiences in Swedish in individual presentations and group discussions.
+This module provides both in-depth knowledge about the structure of Swedish and an increase in vocabulary, with a focus on themes concerning Swedish society, laws and rules, geography, history, traditions and politics. Students extend their Swedish communication skills in listening, reading, speaking and writing in productive and perceptive exercises. They practise how to express opinions and talk about their experiences in Swedish in individual presentations and group discussions.
 4.Communication: Swedish Professional Life I (CEFR B1), 7.5 Credits
 
-The focus of this module is on developing the language skills and cultural competence needed in professional life in Sweden. Different themes connected to professional life form the basis for learning in this module. Students practise their oral and written communication skills and listening comprehension skills and will also read amd discuss texts related to professional life.
+The focus of this module is on developing the language skills and cultural competence needed in professional life in Sweden. Different themes connected to professional life form the basis for learning in this module. Students practise their oral and written communication skills and listening comprehension skills and will also read and discuss texts related to professional life.
 5.Swedish Language Proficiency IV (CEFR B2), 7.5 Credits
 
 This module focuses on the development of in-depth knowledge in Swedish. By reading, listening, writing and talking about different societal themes, students increase their ability to understand and actively use Swedish.

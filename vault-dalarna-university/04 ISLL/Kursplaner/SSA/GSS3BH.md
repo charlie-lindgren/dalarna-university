@@ -9,18 +9,10 @@ amne: "Svenska som andraspråk"
 amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
-scrape_hash: f582f8d91516df56
+scrape_hash: d89fb9e9ff7bb721
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3BH
 up: "[[Svenska som andraspråk]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning (en) | `writtem` (en) |
-<!-- analys:end -->
 
 # GSS3BH
 
@@ -116,7 +108,7 @@ The course deals with the basic structures of Swedish and has a communicative a
 
   - Individual written assignments
 
-  - Supervised writtem individual exam at a location or online
+  - Supervised written individual exam at a location or online
 
 ### Grades
 

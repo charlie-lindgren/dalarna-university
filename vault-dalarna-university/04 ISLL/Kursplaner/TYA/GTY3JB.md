@@ -9,22 +9,10 @@ amne: "Tyska"
 amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
-scrape_hash: e4d24573ac86d8e8
+scrape_hash: 57da10becc4683ff
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3JB
 up: "[[Tyska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens mål är att studenten fördjupar såväl sina språkfärdigheter i tyska språket som sina teoretiska kunskaper inom ty… |
-> | Omfång på lärandemål | För många mål | 15 lärandemål (maximum rekommenderat: 12 för 30 hp) |
-> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 15 mål, engelska: 1 mål (diff 14) |
-> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning | `sjävständighet` (sv) |
-<!-- analys:end -->
 
 # GTY3JB
 
@@ -41,7 +29,7 @@ up: "[[Tyska]]"
 
 ## Lärandemål
 
-Kursens mål är att studenten fördjupar såväl sina språkfärdigheter i tyska språket som sina teoretiska kunskaper inom tysk språk- och litteraturvetenskap och sin förmåga att arbeta vetenskapligt. Ett övergripande mål är också att studenten ytterligare utvecklar sjävständighet i studierna samt förmågan att reflektera över det egna och andras lärande.
+Kursens mål är att studenten fördjupar såväl sina språkfärdigheter i tyska språket som sina teoretiska kunskaper inom tysk språk- och litteraturvetenskap och sin förmåga att arbeta vetenskapligt. Ett övergripande mål är också att studenten ytterligare utvecklar självständighet i studierna samt förmågan att reflektera över det egna och andras lärande.
 
 ### Delkurser
 

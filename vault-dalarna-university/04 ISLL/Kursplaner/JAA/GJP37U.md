@@ -9,20 +9,10 @@ amne: "Japanska"
 amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
-scrape_hash: 48505a93b02914b7
+scrape_hash: 3c180595168aee92
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP37U
 up: "[[Japanska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs skall den studerande kunna:… |
-> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Japanska II` → `JP1007` (nedlagd 2009-12-01); förkunskap nämner nedlagd kurs |
-> | Stavfel och språkbruk | Felstavning (en) | `sritten` (en) |
-<!-- analys:end -->
 
 # GJP37U
 
@@ -97,7 +87,7 @@ On successful completion of the course, students will be able to:
 
 ### Course Content
 
-In this course, students read and discuss a number of short stories sritten in contemporary Japanese. Simple analytical exercises provide an introduction to and practice in certain literary methods. By reading and reflecting on a number of academic articles about the authors who are covered in the course, students broaden their knowledge of the authors‘ lives and works.
+In this course, students read and discuss a number of short stories written in contemporary Japanese. Simple analytical exercises provide an introduction to and practice in certain literary methods. By reading and reflecting on a number of academic articles about the authors who are covered in the course, students broaden their knowledge of the authors‘ lives and works.
 
 ### Assessment
 

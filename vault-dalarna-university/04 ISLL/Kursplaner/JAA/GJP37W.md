@@ -9,20 +9,10 @@ amne: "Japanska"
 amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
-scrape_hash: 2d281997d233fb27
+scrape_hash: c5b1cc15c5eb2c84
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP37W
 up: "[[Japanska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska studenten på japanska kunna:… |
-> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Japanska III` → `JP1012` (nedlagd 2009-12-01); förkunskap nämner nedlagd kurs |
-> | Stavfel och språkbruk | Felstavning (en) | `featuers` (en) |
-<!-- analys:end -->
 
 # GJP37W
 
@@ -93,7 +83,7 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 On successful completion of the course, students will be able to:
 
-  - give an account of the outline of the main featuers in the history and development of Japanese haiku
+  - give an account of the outline of the main features in the history and development of Japanese haiku
 
   - explain and problematise the main concepts of haiku poetry
 

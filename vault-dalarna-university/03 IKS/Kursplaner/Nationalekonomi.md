@@ -7,8 +7,7 @@ up: "[[IKS]]"
 
 # Nationalekonomi
 
-> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
-> Huvudområde: Nationalekonomi 1
+> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
 ## Kurser (22 st)
 

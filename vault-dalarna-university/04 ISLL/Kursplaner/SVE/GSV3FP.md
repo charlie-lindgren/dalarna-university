@@ -10,21 +10,10 @@ amne_kod: "SVE"
 institution: "ISLL"
 tags: [kursplan, SVE, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 62dfc0f4e6cade36
+scrape_hash: b3b1a1313654ef46
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3FP
 up: "[[Svenska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Omfång på lärandemål | Långt mål | 35 ord: - förklara samt redogöra för betydelsen av ordförråd och språkförståelse i eleve… |
-> | Omfång på lärandemål | Långt mål | 27 ord: - beskriva och problematisera särskilda utmaningar i läs- och skrivinlärning och… |
-> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
-> | Stavfel och språkbruk | Felstavning (en) | `edcuation` (en) |
-<!-- analys:end -->
 
 # GSV3FP
 
@@ -107,4 +96,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- Degree of Bachelor of Arts in Pre-School Education or Degree of Master of Arts in Primary Edcuation – Pre-School and School Years 1-3 or Degree of Master of Arts in Primary Education – School Years 4-6 or equivalent older degree, as well as employment at a school and in a professional capacity.
+- Degree of Bachelor of Arts in Pre-School Education or Degree of Master of Arts in Primary Education – Pre-School and School Years 1-3 or Degree of Master of Arts in Primary Education – School Years 4-6 or equivalent older degree, as well as employment at a school and in a professional capacity.

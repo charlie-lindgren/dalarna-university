@@ -9,22 +9,10 @@ amne: "Ryska"
 amne_kod: "RYA"
 institution: "ISLL"
 tags: [kursplan, RYA, ISLL]
-scrape_hash: 704f02507dbef8e9
+scrape_hash: 99860faa305c37a4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY2LE
 up: "[[Ryska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på modul 1. Betygsrapportering: Modul 1: Sem… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras fortlöpande genom bedömning av aktivt deltagande i seminarier samt genom en essä.… |
-> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
-> | Stavfel och språkbruk | Felstavning (en) | `sccholarly` (en) |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GRY2LB.… |
-<!-- analys:end -->
 
 # GRY2LE
 
@@ -97,7 +85,7 @@ On completion of the course, students will be able to:
 
 ### Course Content
 
-The course deals with Russian folklore, its most important genres, characters and motifs and the development of these over time. Students read a selection of texts in translation which are discussed from a sccholarly perspective. The course includes the study of the relationship between folklore and modern popular culture, as well as traditional rituals and the reflection of these in contemporary Russian culture and everyday life. The course also deals with the relationship between Slavic pagan beliefs and the Christian faith. In addition the course introduces the scholarly traditions relating to Slavic folklore.
+The course deals with Russian folklore, its most important genres, characters and motifs and the development of these over time. Students read a selection of texts in translation which are discussed from a scholarly perspective. The course includes the study of the relationship between folklore and modern popular culture, as well as traditional rituals and the reflection of these in contemporary Russian culture and everyday life. The course also deals with the relationship between Slavic pagan beliefs and the Christian faith. In addition the course introduces the scholarly traditions relating to Slavic folklore.
 
 ### Assessment
 

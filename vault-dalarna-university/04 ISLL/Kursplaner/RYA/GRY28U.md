@@ -9,23 +9,10 @@ amne: "Ryska"
 amne_kod: "RYA"
 institution: "ISLL"
 tags: [kursplan, RYA, ISLL]
-scrape_hash: 2daa708b6122cb7a
+scrape_hash: 524a07440cd55710
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY28U
 up: "[[Ryska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på modul 1. Betygsrapportering: Modul 1: Sem… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras fortlöpande genom bedömning av aktivt deltagande på seminarier samt genom en kortare vetenskaplig upps… |
-> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
-> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Ryska II` → `RY1012` (nedlagd 2014-10-07); förkunskap nämner nedlagd kurs |
-> | Stavfel och språkbruk | Felstavning (en) | `formualte` (en) |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter RY2005.… |
-<!-- analys:end -->
 
 # GRY28U
 
@@ -94,7 +81,7 @@ On completion of the course, students shall be able to:
 
   - describe the ideological and literary debate during this time period and discuss how it is reflected in literary works
 
-  - formualte, independently, an issue for a short scientific essay
+  - formulate, independently, an issue for a short scientific essay
 
   - use theories and methods in a delimited scientific study
 

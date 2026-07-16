@@ -10,19 +10,10 @@ amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 789c0c34af57da84
+scrape_hash: 54145587c153694d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY29E
 up: "[[Tyska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska den studerande kunna:… |
-> | Stavfel och språkbruk | Felstavning | `tyskpråkig` (sv) |
-<!-- analys:end -->
 
 # ATY29E
 
@@ -78,7 +69,7 @@ Betyg rapporteras enligt följande:
 
 ## Förkunskapskrav
 
-- Kandidatexamen i språk eller litteraturvetenskap om minst 180 hp. 90 hp på avancerad nivå, varav 30 hp inom huvudområdet interkulturella litteraturstudier samt 22,5 hp i tyskpråkig litteratur.
+- Kandidatexamen i språk eller litteraturvetenskap om minst 180 hp. 90 hp på avancerad nivå, varav 30 hp inom huvudområdet interkulturella litteraturstudier samt 22,5 hp i tyskspråkig litteratur.
 
 ## Övrigt
 

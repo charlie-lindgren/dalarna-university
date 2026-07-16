@@ -9,23 +9,10 @@ amne: "Ryska"
 amne_kod: "RYA"
 institution: "ISLL"
 tags: [kursplan, RYA, ISLL]
-scrape_hash: 9aedd76bd58c795a
+scrape_hash: ab9a2fea7268e53a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY2B4
 up: "[[Ryska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på bägge modulerna. Betygsrapportering: Modu… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras fortlöpande genom bedömning av aktivt deltagande på seminarier samt genom en kortare vetenskaplig upps… |
-> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
-> | Stavfel och språkbruk | Felstavning (en) | `assessement` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `obilgatory` (en) |
-> | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
-<!-- analys:end -->
 
 # GRY2B4
 
@@ -101,11 +88,11 @@ The course provides an introduction to Russian literature from 1917 to 1991. Dur
 
 ### Assessment
 
-The course is examined continuously through assessement of active participation in seminars and through a short scientific paper.
+The course is examined continuously through assessment of active participation in seminars and through a short scientific paper.
 
 ### Forms of Study
 
-Obilgatory seminars and individual supervision. Swedish is the language of instruction.
+Obligatory seminars and individual supervision. Swedish is the language of instruction.
 
 ### Grades
 

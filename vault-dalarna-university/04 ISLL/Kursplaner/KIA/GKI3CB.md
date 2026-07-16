@@ -8,19 +8,11 @@ huvudomrade: "Kinesiska 1"
 amne: "Kinesiska"
 amne_kod: "KIA"
 institution: "ISLL"
-tags: [kursplan, KIA, ISLL]
-scrape_hash: ed1a2809bb272fe6
+tags: [kursplan, KIA, ISLL, forskarutbildning]
+scrape_hash: 3dc692ddf20b5dae
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI3CB
 up: "[[Kinesiska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Dubblerat ord | `and` — …cate unhindered in Chinese on a variety of topics    - read and and understand short authentic Chinese texts    - compose short… |
-<!-- analys:end -->
 
 # GKI3CB
 
@@ -100,7 +92,7 @@ On completion of the course, students will be able to:
 
   - communicate unhindered in Chinese on a variety of topics
 
-  - read and and understand short authentic Chinese texts
+  - read and understand short authentic Chinese texts
 
   - compose short essays in Chinese on different topics and provide arguments in support of their opinions
 

@@ -7,8 +7,7 @@ up: "[[IKS]]"
 
 # Personal och arbetsliv
 
-> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
-> Huvudområde: Personal och arbetsliv 1
+> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
 ## Kurser (7 st)
 

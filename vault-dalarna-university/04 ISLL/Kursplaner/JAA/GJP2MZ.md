@@ -9,23 +9,10 @@ amne: "Japanska"
 amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL]
-scrape_hash: bc632d1636eda919
+scrape_hash: d32837898b7a0021
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP2MZ
 up: "[[Japanska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att erhålla betyget VG på hela kursen krävs VG på alla moduler. Betygsrapportering: Mo… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras fortlöpande genom skriftliga inlämningsuppgifter, datoriserade prov online, inspelningsuppgifter, bedö… |
-> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
-> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Japanska I` → `JP1001` (nedlagd 2009-12-01); förkunskap nämner nedlagd kurs |
-> | Stavfel och språkbruk | Felstavning (en) | `opprtunity` (en) |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen vänder sig till den som har kunskaper i japanska motsvarande JLPT nivå N5. Detta innebär att man kan läsa och skr… |
-<!-- analys:end -->
 
 # GJP2MZ
 
@@ -128,7 +115,7 @@ Upon completion of the course, students will be able to:
 ### Course Content
 
 The course includes exercises in the formulation of long sentences and the use of more nuanced language. This includes potential and volitional forms, some basic conjunctions, some conditional forms, expressions for offering and receiving and some presumptive expressions. Using both prepared and unprepared practical activities, students will apply their knowledge of Japanese grammar and phonetics and increase their vocabulary.  
-Students will analyse different types of texts and use them as the subjects of discussion. The course also includes exercises in writing longer texts. Students will practise their use of kanji characters by writing by hand and reading texts that are written with a fairly large number of kanji. Students will practise their ability to use dictionaries in conjunction with these reading and writing exercises. The course also provides opprtunity for students to learn about basic Japanese linguistics by way of group and individual analytical tasks.
+Students will analyse different types of texts and use them as the subjects of discussion. The course also includes exercises in writing longer texts. Students will practise their use of kanji characters by writing by hand and reading texts that are written with a fairly large number of kanji. Students will practise their ability to use dictionaries in conjunction with these reading and writing exercises. The course also provides opportunity for students to learn about basic Japanese linguistics by way of group and individual analytical tasks.
 
 ### Assessment
 

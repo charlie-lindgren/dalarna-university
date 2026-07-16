@@ -8,28 +8,12 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Tyska"
 amne_kod: "TYA"
 institution: "ISLL"
-tags: [kursplan, TYA, ISLL, vilande]
-scrape_hash: fe3e0523b8c2750f
+tags: [kursplan, TYA, ISLL, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: 2adcdb045f5a0d7c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2N5
 up: "[[Tyska]]"
-cssclasses: [vilande]
 ---
-
-<!-- analys:start -->
-> [!warning]- 9 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på minst 22,5 hp. Betygsrapportering: Modul … |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: **Delkurs 1, 2, 4 och 5** examineras genom aktivt deltagande i seminarier, muntliga presentationer och skriftliga inlämn… |
-> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens mål är att den studerande fördjupar såväl sina språkfärdigheter i tyska språket som sina teoretiska kunskaper in… |
-> | Omfång på lärandemål | För många mål | 22 lärandemål (maximum rekommenderat: 12 för 30 hp) |
-> | Omfång på lärandemål | Långt mål | 30 ord: - sammanställa en korpus genom ett urval av digital text som producerats i en in… |
-> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 22 mål, engelska: 1 mål (diff 21) |
-> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning | `sjävständighet` (sv) |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter TY2010.… |
-<!-- analys:end -->
 
 # GTY2N5
 
@@ -46,7 +30,7 @@ cssclasses: [vilande]
 
 ## Lärandemål
 
-Kursens mål är att den studerande fördjupar såväl sina språkfärdigheter i tyska språket som sina teoretiska kunskaper inom tysk språk- och litteraturvetenskap och sin förmåga att arbeta vetenskapligt. Ett övergripande mål är också att den studerande ytterligare utvecklar sjävständighet i studierna samt förmågan att reflektera över det egna och andras lärande.
+Kursens mål är att den studerande fördjupar såväl sina språkfärdigheter i tyska språket som sina teoretiska kunskaper inom tysk språk- och litteraturvetenskap och sin förmåga att arbeta vetenskapligt. Ett övergripande mål är också att den studerande ytterligare utvecklar självständighet i studierna samt förmågan att reflektera över det egna och andras lärande.
 
 ### Delkurser
 

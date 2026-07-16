@@ -10,24 +10,10 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 7777c248b334fde7
+scrape_hash: 682c6902cf685a9e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2L2
 up: "[[Svenska som andraspråk]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få VG på hela kursen krävs VG på minst 22,5 hp. Betygsrapportering: Delkurs 1, mod… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: **Delkurs 1** examineras kontinuerligt genom aktivt deltagande på seminarierna, skriftliga inlämningsuppgifter samt en m… |
-> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att ge grundläggande kunskaper i arabisk grammatik och litteratur med didaktiskt fokus.… |
-> | Omfång på lärandemål | För många mål | 24 lärandemål (maximum rekommenderat: 12 för 30 hp) |
-> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 24 mål, engelska: 1 mål (diff 23) |
-> | Stavfel och språkbruk | Felstavning | `jämörs` (sv) |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Om den nätbaserade kursen läses som första ämne inom ämneslärarprogrammet krävs närvaro i Falun vid terminsstart under m… |
-<!-- analys:end -->
 
 # GSS2L2
 
@@ -141,13 +127,7 @@ fokus på textutbudet och den bild som böckerna förmedlar av arabiskt respekti
 svenskt samhällsliv.
 2.Arabisk grammatik och text 1, 7,5 högskolepoäng
 
-Under delkursen behandlas de grundläggande grammatiska begreppen, dessa används 
-sedan för skriftliga och muntliga analyser av enklare skönlitterära texter. 
-Studenten använder basgrammatiken för att skriva kortare, grammatiskt korrekta 
-texter samt genomföra muntliga redovisningar om förberedda ämnen. Det egna inlärande samt olika sätt att studera grammatisk analys diskuteras
-bland annat från ett svenskspråkigt perspektiv. Enklare 
-grammatiska strukturer jämörs mellan arabiska och svenska och hur detta 
-påverkar en lärsituation lyfts fram.   
+Under delkursen behandlas de grundläggande grammatiska begreppen, dessa används sedan för skriftliga och muntliga analyser av enklare skönlitterära texter. Studenten använder basgrammatiken för att skriva kortare, grammatiskt korrekta texter samt genomföra muntliga redovisningar om förberedda ämnen. Det egna inlärande samt olika sätt att studera grammatisk analys diskuteras bland annat från ett svenskspråkigt perspektiv. Enklare grammatiska strukturer jämförs mellan arabiska och svenska och hur detta påverkar en lärsituation lyfts fram.   
 
 3.Arabisk grammatik och text 2, 7,5 högskolepoäng
 
@@ -174,10 +154,7 @@ lärande.
 
 ## Examinationsformer
 
-**Delkurs 1** examineras kontinuerligt genom aktivt deltagande på seminarierna, skriftliga inlämningsuppgifter samt en muntlig presentation. Delkursen avslutas med en skriftlig hemtentamen.  
-**Delkurs 2** examineras kontinuerligt genom aktivt deltagande på seminarierna samt genom skriftliga inlämningsuppgifter. Delkursen avslutas med en muntlig och en skriftlig tentamen.  
-**Delkurs 3** examineras kontinuerligt genom aktivt deltagande på seminarierna samt genom skriftliga inlämningsuppgifter. Delkursen avslutas med en muntlig och en skriftlig tentamen.  
-**Delkurs 4** examineras kontinuerligt genom aktivt deltagande på seminarierna samt genom skriftliga inlämningsuppgifter. Delkursen avslutas med en muntlig och en skriftlig tentamen.
+**Delkurs 1** examineras kontinuerligt genom aktivt deltagande på seminarierna, skriftliga inlämningsuppgifter samt en muntlig presentation. Delkursen avslutas med en skriftlig hemtentamen.
 
 ## Arbetsformer
 

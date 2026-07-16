@@ -8,24 +8,11 @@ huvudomrade: "Interkulturella litteraturstudier 1 Tyska 2"
 amne: "Tyska"
 amne_kod: "TYA"
 institution: "ISLL"
-tags: [kursplan, TYA, ISLL]
-scrape_hash: 35059d3b56b537ee
+tags: [kursplan, TYA, ISLL, forskarutbildning]
+scrape_hash: d9ee5e75e651ea42
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY2B8
 up: "[[Tyska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Tyskspråkig litteratur och litteraturvetenskap` → `TY2003` (nedlagd 2011-02-10); förkunskap nämner nedlagd kurs |
-> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Den moderna tyskspråkiga lingvistikens utveckling` → `TYC002` (nedlagd 2008-09-18); förkunskap nämner nedlagd kurs |
-> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Examensarbete` → `EN2004` (nedlagd 2011-02-01); förkunskap nämner nedlagd kurs |
-> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen syftar till att studenten ska förvärva väsentligt fördjupade insikter i teorier kring genus och identitet och hur… |
-> | Stavfel och språkbruk | Felstavning (en) | `additon` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `schlarly` (en) |
-<!-- analys:end -->
 
 # ATY2B8
 
@@ -102,13 +89,13 @@ On completion of the course, students will be able to:
 
   - provide constructive criticism on other students’ written work
 
-  - orally and in writing, reflect on and critically evaluate schlarly articles
+  - orally and in writing, reflect on and critically evaluate scholarly articles
 
   - express themselves orally and in writing with a great deal of linguistic certainty and with great linguistic variety.
 
 ### Course Content
 
-The course focuses on issues related to the literary construction of gender and identity, with a particular focus on sexuality, diversity, (post)migration and social sustainability. The purpose is to raise awareness about and theorise the connection between different literary texts and their context. Their social relevance is also discussed. In additon, intercultural aspects are also touched on as part of the literary identity construction.
+The course focuses on issues related to the literary construction of gender and identity, with a particular focus on sexuality, diversity, (post)migration and social sustainability. The purpose is to raise awareness about and theorise the connection between different literary texts and their context. Their social relevance is also discussed. In addition, intercultural aspects are also touched on as part of the literary identity construction.
 
 ### Assessment
 

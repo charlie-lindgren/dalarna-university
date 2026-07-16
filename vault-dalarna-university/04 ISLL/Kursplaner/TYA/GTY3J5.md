@@ -9,19 +9,10 @@ amne: "Tyska"
 amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
-scrape_hash: 5246532cf0bf2c43
+scrape_hash: d04dde4e17d08f47
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3J5
 up: "[[Tyska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Tyska` → `TYC001` (nedlagd 2008-09-18); förkunskap nämner nedlagd kurs |
-> | Stavfel och språkbruk | Felstavning | `tilllämpa` (sv) |
-<!-- analys:end -->
 
 # GTY3J5
 
@@ -44,7 +35,7 @@ Efter godkänd kurs ska studenten kunna:
 
   - kontrastera viktiga skillnader mellan svensk och tysk syntax
 
-  - tilllämpa de fördjupade grammatiska kunskaperna i en skrivprocess
+  - tillämpa de fördjupade grammatiska kunskaperna i en skrivprocess
 
   - identifiera och analysera en väl avgränsad forskningsfråga
 

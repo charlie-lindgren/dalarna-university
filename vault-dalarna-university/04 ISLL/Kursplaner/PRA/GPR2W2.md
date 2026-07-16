@@ -8,21 +8,11 @@ huvudomrade: "Portugisiska 1"
 amne: "Portugisiska"
 amne_kod: "PRA"
 institution: "ISLL"
-tags: [kursplan, PRA, ISLL]
-scrape_hash: e39f63cfa93a8c18
+tags: [kursplan, PRA, ISLL, forskarutbildning]
+scrape_hash: fff7c03764e1fe72
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR2W2
 up: "[[Portugisiska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
-> | Stavfel och språkbruk | Dubblerat ord | `languages` — …cific context and to analyse the dynamics between different languages languages and linguistic varieties from a societal perspective. In th… |
-> | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
-<!-- analys:end -->
 
 # GPR2W2
 
@@ -90,7 +80,7 @@ On completion of the course, students will be able to:
 
 ### Course Content
 
-In the course students will study different perspectives within contemporary research on languages, using concrete studies from Portuguese-speaking contexts, with a special focus on sociolinguistic perspectives. The course deals with theoretical perspectives on the relationship between language, linguistic forms, attitudes, identities and social position. Furthermore, language policy and aspects of language ideology in terms of Portuguese in different societal contexts are discussed. Students have the opportunity to immerse themselves in a specific context and to analyse the dynamics between different languages languages and linguistic varieties from a societal perspective. In the course students also review the work of their peers.
+In the course students will study different perspectives within contemporary research on languages, using concrete studies from Portuguese-speaking contexts, with a special focus on sociolinguistic perspectives. The course deals with theoretical perspectives on the relationship between language, linguistic forms, attitudes, identities and social position. Furthermore, language policy and aspects of language ideology in terms of Portuguese in different societal contexts are discussed. Students have the opportunity to immerse themselves in a specific context and to analyse the dynamics between different languages and linguistic varieties from a societal perspective. In the course students also review the work of their peers.
 
 ### Assessment
 

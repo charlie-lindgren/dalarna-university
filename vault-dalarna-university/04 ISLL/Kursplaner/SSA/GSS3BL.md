@@ -9,23 +9,10 @@ amne: "Svenska som andraspråk"
 amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
-scrape_hash: 905f5752588dbfc0
+scrape_hash: de1bac75e2de562e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3BL
 up: "[[Svenska som andraspråk]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens mål är indelade per delkurs.… |
-> | Omfång på lärandemål | För många mål | 15 lärandemål (maximum rekommenderat: 10 för 15 hp) |
-> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 15 mål, engelska: 1 mål (diff 14) |
-> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning | `tillfredställande` (sv) |
-> | Stavfel och språkbruk | Felstavning (en) | `witten` (en) |
-<!-- analys:end -->
 
 # GSS3BL
 
@@ -72,7 +59,7 @@ Efter godkänd delkurs ska studenten kunna:
 
   - redogöra för och argumentera för sina ståndpunkter med relevanta och underbyggda argument i tal och skrift
 
-  - tillämpa svenskans betonings- och kvantitetssystem på ett tillfredställande sätt samt använda svenskans fonem och assimilationer på ett tydligt sätt
+  - tillämpa svenskans betonings- och kvantitetssystem på ett tillfredsställande sätt samt använda svenskans fonem och assimilationer på ett tydligt sätt
 
   - läsa och analysera skönlitteratur från olika tider och olika delar av världen
 
@@ -189,7 +176,7 @@ In this module, students read and discuss both fiction and non-fiction. They 
 
 2.Basic Swedish B2.2, 7.5 Credits
 
-This module includes in-depth work with fiction and non-fiction text that students read and analyse. They write texts in several genres. They reflect on the language and content of their texts and the texts of others, and they learn how to adopt a source-critical perspective to evaluate different sources. Students gain more practice in oral and witten argumentation on their different standpoints.
+This module includes in-depth work with fiction and non-fiction text that students read and analyse. They write texts in several genres. They reflect on the language and content of their texts and the texts of others, and they learn how to adopt a source-critical perspective to evaluate different sources. Students gain more practice in oral and written argumentation on their different standpoints.
 
 ### Assessment
 

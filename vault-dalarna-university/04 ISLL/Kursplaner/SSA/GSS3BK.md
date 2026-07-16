@@ -9,19 +9,10 @@ amne: "Svenska som andraspråk"
 amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL]
-scrape_hash: e84080a6ee54d9f2
+scrape_hash: a350a3f50bb6d8ca
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3BK
 up: "[[Svenska som andraspråk]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Stavfel och språkbruk | Felstavning | `framställing` (sv) |
-> | Stavfel och språkbruk | Felstavning (en) | `refelction` (en) |
-<!-- analys:end -->
 
 # GSS3BK
 
@@ -71,7 +62,7 @@ För att få betyget Väl Godkänd på hela kursen krävs Väl Godkänd på båd
 Betyg rapporteras enligt följande:
 
   - Uttal, prosodi och muntlig framställning - 3,5 hp | U–VG
-  - Grammatik och skriftlig framställing - 4 hp | U–VG
+  - Grammatik och skriftlig framställning - 4 hp | U–VG
 
 ## Förkunskapskrav
 
@@ -105,7 +96,7 @@ On completion of the course, students will be able to:
 
 ### Course Content
 
-The course has a communicative and certain level of linguistic focus. During the course, students complete a piece of work with a focus on Swedish grammar, vocabulary, and pronunciation. Students study and analyse various types of texts and audiovisual material. In oral exercises, students practise their argumentation and other forms of oral interaction. The course includes specialised work in individual oral presentations and the production of different types of texts. There is joint refelction on Swedish culture and society as well as on other cultures and societies that students are familiar with.
+The course has a communicative and certain level of linguistic focus. During the course, students complete a piece of work with a focus on Swedish grammar, vocabulary, and pronunciation. Students study and analyse various types of texts and audiovisual material. In oral exercises, students practise their argumentation and other forms of oral interaction. The course includes specialised work in individual oral presentations and the production of different types of texts. There is joint reflection on Swedish culture and society as well as on other cultures and societies that students are familiar with.
 
 ### Assessment
 

@@ -10,20 +10,10 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: bd38af628798621a
+scrape_hash: da53ce83673b9455
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS39U
 up: "[[Svenska som andraspråk]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska den studerande kunna:… |
-> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
-> | Stavfel och språkbruk | Felstavning | `ochförhållningssätt` (sv) |
-<!-- analys:end -->
 
 # GSS39U
 
@@ -54,7 +44,7 @@ Efter godkänd kurs ska den studerande kunna:
 
 ## Innehåll
 
-I denna kurs behandlas faktorer på samhälls- och utbildningsnivå som påverkar vuxna andraspråkselevers lärande, identitet och utveckling i ett svenskt skolsammanhang. Särskilt uppmärksammas och diskuteras hur pedagogisk verksamhet kan organiseras i språkligt och kulturellt homogena såväl som heterogena lärandemiljöer samt hur språkideologier, normer, hierarkier, värderingar ochförhållningssätt i skola och samhälle påverkar elevers villkor för språk-, kunskaps- och identitetsutveckling.   
+I denna kurs behandlas faktorer på samhälls- och utbildningsnivå som påverkar vuxna andraspråkselevers lärande, identitet och utveckling i ett svenskt skolsammanhang. Särskilt uppmärksammas och diskuteras hur pedagogisk verksamhet kan organiseras i språkligt och kulturellt homogena såväl som heterogena lärandemiljöer samt hur språkideologier, normer, hierarkier, värderingar och förhållningssätt i skola och samhälle påverkar elevers villkor för språk-, kunskaps- och identitetsutveckling.   
 I kursen belyses och diskuteras frågor om identitet, interkulturalitet och lärande av ett andraspråk med fokus på elever inom vuxenutbildningen. I kursen introduceras och diskuteras ett språk- och kunskapsutvecklande arbetssätt och ett interkulturellt förhållningssätt inom vilka elevens flerspråkighet och erfarenheter används som resurser för lärande i klassrummet. Dessa pedagogiska förhållningssätt diskuteras i relation till kartläggning, bedömning och måluppfyllelse.
 
 ## Examinationsformer

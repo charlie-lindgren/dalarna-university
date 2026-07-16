@@ -8,21 +8,11 @@ huvudomrade: "Ryska 1"
 amne: "Ryska"
 amne_kod: "RYA"
 institution: "ISLL"
-tags: [kursplan, RYA, ISLL]
-scrape_hash: 1188ebf70665e75f
+tags: [kursplan, RYA, ISLL, forskarutbildning]
+scrape_hash: 160082c6c9dbd7a0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY38S
 up: "[[Ryska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska studenten kunna:… |
-> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Ryska I` → `RY1004` (nedlagd 2014-10-07); förkunskap nämner nedlagd kurs |
-> | Stavfel och språkbruk | Felstavning | `läsförståesle` (sv) |
-<!-- analys:end -->
 
 # GRY38S
 
@@ -69,7 +59,7 @@ För att få betyget VG på hela kursen krävs VG på 5 hp.
 
 Betyg rapporteras enligt följande:
 
-  - Läsförståesle - 2,5 hp | U–VG
+  - Läsförståelse - 2,5 hp | U–VG
   - Grundläggande muntlig språkfärdighet 2 - 2,5 hp | U–VG
   - Grundläggande skriftlig språkfärdighet 2 - 2,5 hp | U–VG
 

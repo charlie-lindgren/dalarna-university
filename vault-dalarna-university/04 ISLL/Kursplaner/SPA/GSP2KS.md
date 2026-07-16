@@ -10,23 +10,10 @@ amne_kod: "SPA"
 institution: "ISLL"
 tags: [kursplan, SPA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: f8ee66c1bd1a0567
+scrape_hash: e274882f9dc40167
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP2KS
 up: "[[Spanska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG.… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom ett självständigt skriftligt examensarbete skrivet på spanska där ventilering och opposition på … |
-> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande på spanska kunna:… |
-> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Spanska II` → `SP1001` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
-> | Stavfel och språkbruk | Felstavning (en) | `theseis` (en) |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter SP2020.… |
-<!-- analys:end -->
 
 # GSP2KS
 
@@ -98,11 +85,16 @@ Ersätter SP2020.
 On completion of the course, students will, in Spanish, be able to:
 
   - identify and formulate a problem
+
   - independently search for, collect, evaluate, critically interpret and analyse relevant information
+
   - within given time frames carry out an independent linguistic study that meets with the requirements of scientific value, research connection, relevant method or theory connection, and argumentation based on well-conducted language analyses
+
   - in writing as well as orally defend their results with high demands on linguistic communication skills
+
   - analyse, evaluate and discuss the scientific work of others by, in the form of a clear and constructive response, pointing out its strengths and weaknesses
-  - apply the principles of research ethics that are relevant to their degree theseis.
+
+  - apply the principles of research ethics that are relevant to their degree thesis.
 
 ### Course Content
 

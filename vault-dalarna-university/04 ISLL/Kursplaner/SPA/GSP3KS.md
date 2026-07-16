@@ -10,31 +10,10 @@ amne_kod: "SPA"
 institution: "ISLL"
 tags: [kursplan, SPA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 7f782a3ef0c480a8
+scrape_hash: 2cf04dfbbf517c29
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3KS
 up: "[[Spanska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 14 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens… |
-> | Omfång på lärandemål | För många mål | 34 lärandemål (maximum rekommenderat: 12 för 30 hp) |
-> | Omfång på lärandemål | Långt mål | 33 ord: - visa förtrogenhet med uppbyggnaden av vetenskapliga texter, vilket innefattar … |
-> | Omfång på lärandemål | Långt mål | 35 ord: - visa kunskap om elevers syn på och upplevelser av sitt språklärande samt refle… |
-> | Omfång på lärandemål | Långt mål | 35 ord: - diskutera och reflektera över samspelet mellan inre och yttre faktorer som är … |
-> | Omfång på lärandemål | Långt mål | 36 ord: - visa kunskap om olika former av informations- och kommunikationsteknik och hur… |
-> | Omfång på lärandemål | Långt mål | 29 ord: - visa förmåga att självständigt välja relevant innehåll och arbetssätt i språku… |
-> | Omfång på lärandemål | Långt mål | 29 ord: - visa fördjupade kunskaper om den gemensamma europeiska referensramen för språk… |
-> | Omfång på lärandemål | Långt mål | 30 ord: - visa fördjupade kunskaper om användningen av IKT i språkundervisningen, IKT-ut… |
-> | Omfång på lärandemål | Långt mål | 30 ord: - visa förmåga att ställa en relevant forskningsfråga inom ett avgränsat problem… |
-> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 34 mål, engelska: 1 mål (diff 33) |
-> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
-> | Stavfel och språkbruk | Felstavning (en) | `fto` (en) |
-> | Stavfel och språkbruk | Felstavning (en) | `urther` (en) |
-<!-- analys:end -->
 
 # GSP3KS
 
@@ -390,7 +369,7 @@ On completion of the module, students will be able to:
 
 7.Language Learning and Teaching II B, 6 Credits
 
-The purpose of the module is for students fto urther deepen their theoretical knowledge of language didactics and also develop skills to independently make professional choices regarding the planning and implementation of language teaching in primary and/or secondary school. The module also introduces students to scholarly work and enables them to practise the ability to plan a language didactic investigation.  
+The purpose of the module is for students to further deepen their theoretical knowledge of language didactics and also develop skills to independently make professional choices regarding the planning and implementation of language teaching in primary and/or secondary school. The module also introduces students to scholarly work and enables them to practise the ability to plan a language didactic investigation.  
 On completion of the module, students will be able to:
 
   - demonstrate the ability to independently select relevant content and working methods in language teaching in relation to pupils’ different backgrounds and needs as well as in relation to the school’s governing documents and relevant research

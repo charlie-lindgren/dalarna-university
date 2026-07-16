@@ -10,22 +10,10 @@ amne_kod: "KIA"
 institution: "ISLL"
 tags: [kursplan, KIA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 40c8738f8658ab80
+scrape_hash: 0a8911a77569e8df
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2PY
 up: "[[Kinesiska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Betygsrapportering: Modul 1: Tala och lyssna - 7,5 hp Modul 2: Läsa och skriva - 7,5 hp… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen består av två moduler som bedöms separat. De två modulerna bedöms både muntligt och skriftligt samt i form av ett… |
-> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen syftar till att hjälpa studenterna att befästa de kunskaper de tillgodogjort sig på kurserna på lägre nivå i kine… |
-> | Stavfel och språkbruk | Felstavning | `forsätter` (sv) |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter KI1042.… |
-<!-- analys:end -->
 
 # GKI2PY
 
@@ -42,13 +30,16 @@ up: "[[Kinesiska]]"
 
 ## Lärandemål
 
-Kursen syftar till att hjälpa studenterna att befästa de kunskaper de tillgodogjort sig på kurserna på lägre nivå i kinesiska och forsätter att utveckla deras förmåga att höra, tala, läsa och skriva kinesiska. Efter avslutad kurs ska studenterna kunna:
- 
- 
-  - kommunicera obesvärat och säkert i autentiska sammanhang 
-  - uttrycka sina tankar om vardagliga ämnen och använda viss enkel fackterminologi inom olika ämnen 
-  - förstå relativt komplicerade kinesiska meningar och textavsnitt 
-  - skriva korta uppsatser användande kinesiska tecken 
+Kursen syftar till att hjälpa studenterna att befästa de kunskaper de tillgodogjort sig på kurserna på lägre nivå i kinesiska och fortsätter att utveckla deras förmåga att höra, tala, läsa och skriva kinesiska. Efter avslutad kurs ska studenterna kunna:
+
+  - kommunicera obesvärat och säkert i autentiska sammanhang
+
+  - uttrycka sina tankar om vardagliga ämnen och använda viss enkel fackterminologi inom olika ämnen
+
+  - förstå relativt komplicerade kinesiska meningar och textavsnitt
+
+  - skriva korta uppsatser användande kinesiska tecken
+
   - läsa och studera delvis förenklade autentiska texter på kinesiska.
 
 ## Innehåll

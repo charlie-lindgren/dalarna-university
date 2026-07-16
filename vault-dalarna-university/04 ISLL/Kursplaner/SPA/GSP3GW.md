@@ -8,25 +8,11 @@ huvudomrade: "Spanska 1"
 amne: "Spanska"
 amne_kod: "SPA"
 institution: "ISLL"
-tags: [kursplan, SPA, ISLL]
-scrape_hash: 61ac70075fb411a0
+tags: [kursplan, SPA, ISLL, forskarutbildning]
+scrape_hash: 8b8930948a746a7a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3GW
 up: "[[Spanska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande på spanska kunna:… |
-> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Spanska II` → `SP1001` (nedlagd 2020-05-05); förkunskap nämner nedlagd kurs |
-> | Stavfel och språkbruk | Felstavning | `förtjänstersåväl` (sv) |
-> | Stavfel och språkbruk | Felstavning | `ställdakrav` (sv) |
-> | Stavfel och språkbruk | Felstavning | `tidsramargenomföra` (sv) |
-> | Stavfel och språkbruk | Felstavning | `vilarpå` (sv) |
-> | Stavfel och språkbruk | Felstavning (en) | `theseis` (en) |
-<!-- analys:end -->
 
 # GSP3GW
 
@@ -49,11 +35,11 @@ Efter avslutad kurs ska den studerande på spanska kunna:
 
   - självständigt söka, samla, värdera samt kritiskt tolka och analysera relevant information
 
-  - inom givna tidsramargenomföra en självständig språkvetenskaplig studie med krav på vetenskapligt värde,forskningsanknytning, relevant metod och teorianknytning samt argumentation som vilarpå väl genomförda språkanalyser
+  - inom givna tidsramar genomföra en självständig språkvetenskaplig studie med krav på vetenskapligt värde,forskningsanknytning, relevant metod och teorianknytning samt argumentation som vilar på väl genomförda språkanalyser
 
-  - skriftligt såväl som muntligt försvara egna resultat med högt ställdakrav på språklig kommunikationsförmåga
+  - skriftligt såväl som muntligt försvara egna resultat med högt ställda krav på språklig kommunikationsförmåga
 
-  - analysera, värdera och diskutera andras vetenskapligaarbeten genom att, i form av tydlig konstruktiv respons, peka på förtjänstersåväl som tillkortakommanden
+  - analysera, värdera och diskutera andras vetenskapligaarbeten genom att, i form av tydlig konstruktiv respons, peka på förtjänster såväl som tillkortakommanden
 
   - tillämpa de forskningsetiska principer som är aktuella för det egna examensarbetet.
 
@@ -112,7 +98,7 @@ On completion of the course, students will, in Spanish, be able to:
 
   - analyse, evaluate and discuss the scientific work of others by, in the form of a clear and constructive response, pointing out its strengths and weaknesses
 
-  - apply the principles of research ethics that are relevant to their degree theseis.
+  - apply the principles of research ethics that are relevant to their degree thesis.
 
 ### Course Content
 

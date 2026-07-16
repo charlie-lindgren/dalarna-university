@@ -8,22 +8,11 @@ huvudomrade: "Portugisiska 1"
 amne: "Portugisiska"
 amne_kod: "PRA"
 institution: "ISLL"
-tags: [kursplan, PRA, ISLL]
-scrape_hash: f0917d5e7e8b3185
+tags: [kursplan, PRA, ISLL, forskarutbildning]
+scrape_hash: d83880be1d149815
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR3GN
 up: "[[Portugisiska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': -… |
-> | Omfång på lärandemål | Långt mål | 27 ord: - reflektera över det portugisiska språkets geografiska spridning i världen och … |
-> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 11 mål, engelska: 10 mål (diff 1) |
-> | Stavfel och språkbruk | Felstavning (en) | `tha` (en) |
-<!-- analys:end -->
 
 # GPR3GN
 
@@ -187,7 +176,7 @@ This module includes basic studies in general and Portuguese phonetics and pron
 
 3.Portuguese-Speaking Cultures, 7.5 Credits
 
-This module uses film and a selection of texts to illustrate and highlight various aspects of culture and society in multilingual and multicultural regions where the Portuguese language has official status. The material is studied and analysed with a focus on cultural encounters and the construction of identities, particularly in contemporary historical and socio-cultural contexts. Socio-cultural aspects are discussed to give students a good foundation tha will help them understand Portuguese-speaking environments from a transcultural perspective.
+This module uses film and a selection of texts to illustrate and highlight various aspects of culture and society in multilingual and multicultural regions where the Portuguese language has official status. The material is studied and analysed with a focus on cultural encounters and the construction of identities, particularly in contemporary historical and socio-cultural contexts. Socio-cultural aspects are discussed to give students a good foundation that will help them understand Portuguese-speaking environments from a transcultural perspective.
 
 ### Assessment
 

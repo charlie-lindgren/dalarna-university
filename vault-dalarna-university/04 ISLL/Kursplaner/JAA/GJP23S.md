@@ -8,22 +8,11 @@ huvudomrade: "Japanska 1"
 amne: "Japanska"
 amne_kod: "JAA"
 institution: "ISLL"
-tags: [kursplan, JAA, ISLL]
-scrape_hash: 67d7ffc01c1d8342
+tags: [kursplan, JAA, ISLL, forskarutbildning]
+scrape_hash: 023951cefc75cfdf
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GJP23S
 up: "[[Japanska]]"
 ---
-
-<!-- analys:start -->
-> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras fortlöpande genom den muntliga prestationen på seminarier, skriftliga inlämningsuppgifter, datoriserad… |
-> | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten på japanska kunna:… |
-> | Stavfel och språkbruk | Felstavning | `språkfärdiget` (sv) |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter JP1042.… |
-<!-- analys:end -->
 
 # GJP23S
 
@@ -56,7 +45,7 @@ Efter avslutad kurs ska studenten på japanska kunna:
 
 Kursen består av två moduler vilka i hög grad integreras med varandra:
 
-  - Muntlig Språkfärdiget (7,5 hp): Med olika praktiska övningar befäster och utvecklar studenterna sin förmåga till meningsfull kommunikation om vardagliga ämnen på japanska. De arbetar individuellt och i grupp med muntliga övningar för att träna upp snabbhet och säkerhet i användandet av språket. Genom studiet av olika satsmönster och uttryck vidareutvecklar de sin kunskap om japanskans grammatik.
+  - Muntlig Språkfärdighet (7,5 hp): Med olika praktiska övningar befäster och utvecklar studenterna sin förmåga till meningsfull kommunikation om vardagliga ämnen på japanska. De arbetar individuellt och i grupp med muntliga övningar för att träna upp snabbhet och säkerhet i användandet av språket. Genom studiet av olika satsmönster och uttryck vidareutvecklar de sin kunskap om japanskans grammatik.
 
   - Skriftlig språkfärdighet (7,5 hp): Med hjälp av skriv- och läsövningar bygger studenterna vidare på sina grundläggande kunskaper om den skriftliga japanskan och vidareutvecklar sin kännedom om de ideografiska tecknen. Genom att återberätta och uttrycka enkla synpunkter på innehållet i de lästa texterna tränar studenterna även sin muntliga förmåga.
 

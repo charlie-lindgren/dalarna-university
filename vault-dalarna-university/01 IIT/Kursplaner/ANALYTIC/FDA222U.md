@@ -10,7 +10,7 @@ institution: "IIT"
 tags: [kursplan, ANALYTIC, IIT, forskarutbildning, vilande]
 scrape_hash: f7fd89ad8aeed090
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=FDA222U
-up: "[[Forskarämne Data Analytics]]"
+up: "[[Data Analytics]]"
 cssclasses: [vilande]
 ---
 
