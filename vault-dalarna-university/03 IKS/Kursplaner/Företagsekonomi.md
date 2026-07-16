@@ -7,7 +7,8 @@ up: "[[IKS]]"
 
 # Företagsekonomi
 
-> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Huvudområde: Företagsekonomi 1
 
 ## Kurser (31 st)
 

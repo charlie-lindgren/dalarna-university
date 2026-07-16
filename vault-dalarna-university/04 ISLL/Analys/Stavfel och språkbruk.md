@@ -8,15 +8,12 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (3 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (0 rader)</span></a>
 
-> [!example]- 3 fynd — klicka för att expandera
+> [!example]- 0 fynd — klicka för att expandera
 >
-> | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj | Förslag |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [AR2001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR2001) | <a class="no-graph" href="04-ISLL/Kursplaner/ARA/AR2001">sida</a> | ARA | 2011-11-29 | 2020-07-03 | Felstavning (en) | `assesment` (en) | assessment |
-> | [AR2010](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AR2010) | <a class="no-graph" href="04-ISLL/Kursplaner/ARA/AR2010">sida</a> | ARA | 2015-09-15 | 2017-10-03 | Felstavning | `inlämmningsuppgifter` (sv) | inlämningsuppgifter |
-> | [PR2004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PR2004) | <a class="no-graph" href="04-ISLL/Kursplaner/PRA/PR2004">sida</a> | PRA | 2013-06-14 | 2016-04-14 | Felstavning (en) | `priniciple` (en) | — |
+> | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
+> | --- | --- | --- | --- | --- | --- | --- |
 
 ## Syfte
 

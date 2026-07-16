@@ -7,7 +7,8 @@ up: "[[ISLL]]"
 
 # Japanska
 
-> Forskarutbildningsämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
+> Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
+> Huvudområde: Interkulturella litteraturstudier 1
 
 ## Kurser (17 st)
 
