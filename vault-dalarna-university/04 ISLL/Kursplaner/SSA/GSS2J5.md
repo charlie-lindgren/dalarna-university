@@ -15,6 +15,21 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2J5
 up: "[[Svenska som andraspråk]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på fyra moduler. Betygsrapportering: Modul 1… |
+> | Bloom-taxonomi | Okänt ledande verb | 4 av 32 bullets har okänt ledande verb |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Delkurs 1-3 samt delkurs 5 examineras kontinuerligt genom aktivt deltagande på seminarier samt genom skriftliga inlämnin… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande utvecklar kunskaper och färdigheter för att kunna kommunicera… |
+> | Omfång på lärandemål | För många mål | 32 lärandemål (maximum rekommenderat: 15 för 67.5 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 32 mål, engelska: 1 mål (diff 31) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
+<!-- analys:end -->
+
 # GSS2J5
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2J5)

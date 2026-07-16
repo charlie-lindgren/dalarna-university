@@ -7,7 +7,7 @@ up: "[[IKS]]"
 
 # Historia
 
-> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
 ## Kurser (24 st)
 

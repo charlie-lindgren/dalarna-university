@@ -15,6 +15,21 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2N5
 up: "[[Tyska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på minst 22,5 hp. Betygsrapportering: Modul … |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: **Delkurs 1, 2, 4 och 5** examineras genom aktivt deltagande i seminarier, muntliga presentationer och skriftliga inlämn… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens mål är att den studerande fördjupar såväl sina språkfärdigheter i tyska språket som sina teoretiska kunskaper in… |
+> | Omfång på lärandemål | För många mål | 22 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 30 ord: - sammanställa en korpus genom ett urval av digital text som producerats i en in… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 22 mål, engelska: 1 mål (diff 21) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter TY2010.… |
+<!-- analys:end -->
+
 # GTY2N5
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2N5)

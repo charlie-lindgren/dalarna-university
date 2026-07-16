@@ -15,6 +15,25 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3KS
 up: "[[Spanska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 12 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens… |
+> | Omfång på lärandemål | För många mål | 34 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Omfång på lärandemål | Långt mål | 33 ord: - visa förtrogenhet med uppbyggnaden av vetenskapliga texter, vilket innefattar … |
+> | Omfång på lärandemål | Långt mål | 35 ord: - visa kunskap om elevers syn på och upplevelser av sitt språklärande samt refle… |
+> | Omfång på lärandemål | Långt mål | 35 ord: - diskutera och reflektera över samspelet mellan inre och yttre faktorer som är … |
+> | Omfång på lärandemål | Långt mål | 36 ord: - visa kunskap om olika former av informations- och kommunikationsteknik och hur… |
+> | Omfång på lärandemål | Långt mål | 29 ord: - visa förmåga att självständigt välja relevant innehåll och arbetssätt i språku… |
+> | Omfång på lärandemål | Långt mål | 29 ord: - visa fördjupade kunskaper om den gemensamma europeiska referensramen för språk… |
+> | Omfång på lärandemål | Långt mål | 30 ord: - visa fördjupade kunskaper om användningen av IKT i språkundervisningen, IKT-ut… |
+> | Omfång på lärandemål | Långt mål | 30 ord: - visa förmåga att ställa en relevant forskningsfråga inom ett avgränsat problem… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 34 mål, engelska: 1 mål (diff 33) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+<!-- analys:end -->
+
 # GSP3KS
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3KS)

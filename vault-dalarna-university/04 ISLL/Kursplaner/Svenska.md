@@ -7,7 +7,8 @@ up: "[[ISLL]]"
 
 # Svenska
 
-> Forskarutbildningsämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
+> Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
+> Huvudområde: Svenska språket 1
 
 ## Kurser (10 st)
 

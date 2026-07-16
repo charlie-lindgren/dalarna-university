@@ -15,6 +15,19 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2L2
 up: "[[Svenska som andraspråk]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få VG på hela kursen krävs VG på minst 22,5 hp. Betygsrapportering: Delkurs 1, mod… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: **Delkurs 1** examineras kontinuerligt genom aktivt deltagande på seminarierna, skriftliga inlämningsuppgifter samt en m… |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att ge grundläggande kunskaper i arabisk grammatik och litteratur med didaktiskt fokus.… |
+> | Omfång på lärandemål | För många mål | 24 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 24 mål, engelska: 1 mål (diff 23) |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Om den nätbaserade kursen läses som första ämne inom ämneslärarprogrammet krävs närvaro i Falun vid terminsstart under m… |
+<!-- analys:end -->
+
 # GSS2L2
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2L2)
