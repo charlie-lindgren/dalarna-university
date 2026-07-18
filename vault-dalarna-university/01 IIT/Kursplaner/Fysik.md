@@ -8,7 +8,6 @@ up: "[[IIT]]"
 # Fysik
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
-> Huvudområde: Ej huvudområde 1
 
 ## Kurser (5 st)
 

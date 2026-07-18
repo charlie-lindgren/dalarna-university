@@ -9,15 +9,6 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SEPFG
 up: "IKS"
 ---
 
-<!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Entreprenörskap - entreprenörskapets villkor och särart` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Förhandlings  försäljnings  och dialogkonst` (7,5 hp) |
-<!-- analys:end -->
-
 # SEPFG
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SEPFG)

@@ -7,8 +7,7 @@ up: "[[IKS]]"
 
 # Bildproduktion
 
-> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
-> Huvudområde: Bildproduktion 1
+> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
 ## Kurser (13 st)
 
