@@ -9,6 +9,18 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=L7I9A
 up: "IKS"
 ---
 
+<!-- analys:start -->
+> [!warning]- 5 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Sociala relationer, konflikter och makt för ämneslärare årskurs 7–9 - AIL` (7,5 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Utvärdering och utvecklingsarbete för ämneslärare årskurs 7–9 – AIL` (7,5 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Verksamhetsförlagd utbildning 3 för ämneslärare årskurs 7–9 - AIL` (15 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Vetenskapsteori och utbildningsvetenskaplig forskning för ämneslärare årskurs 7–9 - AIL` (7,5 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `_Examensarbete i matematik för ämneslärarexamen inriktning grundskolans årskurs 7–9` (15 hp) |
+<!-- analys:end -->
+
 # L7I9A
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=L7I9A)

@@ -8,6 +8,7 @@ up: "[[IIT]]"
 # Matematikdidaktik
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
+> Huvudområde: Ej huvudområde 1
 
 ## Kurser (26 st)
 
