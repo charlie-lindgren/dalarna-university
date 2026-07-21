@@ -14,8 +14,8 @@ up: "IIT"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Programkurser olänkade | Kurs finns aktivt men scrapern länkade inte | `Datakommunikation I` (7,5 hp) — sannolikt avses `Datakommunikation 1` (kurskod `GDT2JM`) |
 > | Programkurser olänkade | Programtext avviker från kursplanens namn | `Data Storage & Management Technologies` (7,5 hp) — sannolikt avses `Data Storage and Management Technologies` (kurskod `GIK2NV`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Datakommunikation I` ≠ kursplanens namn `Datakommunikation 1` (kurskod `GDT2JM`) |
 > | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `System- och verksamhetsutveckling` ≠ kursplanens namn `System och verksamhetsutveckling` (kurskod `GIK2XZ`) |
 > | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Webbaserade geografiska informationssystem` ≠ kursplanens namn `Webbaserade geografiska informationssystem (GIS)` (kurskod `GIK2JX`) |
 <!-- analys:end -->
@@ -106,7 +106,7 @@ Programmets upplägg ger behörighet till vidareutbildning på magister- och mas
 
 - [[GIK2UK|Data- och informationshantering]], 15 hp
 - [[GIK2AL|Databassystem]], 7,5 hp
-- Datakommunikation I, 7,5 hp
+- [[GDT2JM|Datakommunikation I]], 7,5 hp
 - [[GIK34Y|Forskningsmetodik]], 7,5 hp
 - [[GIK2BD|IT-projekthantering]], 7,5 hp
 - [[GIK299|Objektorienterad programmering]], 7,5 hp

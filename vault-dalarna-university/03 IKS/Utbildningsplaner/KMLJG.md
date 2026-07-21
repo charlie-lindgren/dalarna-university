@@ -14,8 +14,8 @@ up: "IKS"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Audioteknologi I` → `GLP2JZ` (nedlagd 2026-06-25) — plain-text-referens |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Audioteknologi II` → `LP1080` (nedlagd 2026-06-25) — plain-text-referens |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Audioteknologi I` → `GLP29R` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Audioteknologi II` → `LP1080` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
 > | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Ljudteori` → `GLP2FP` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
 > | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Inspelning i studio` → `GLP2QU` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Introduktion till Musik- och ljuddesign` (7,5 hp) |
@@ -117,8 +117,8 @@ Majoriteten av programmets kurser bygger på grundläggande behörighet medan n�
 
 **Läsår 1, helfart (100%) och läsår 1-2, halvfart (50%)**
 
-- Audioteknologi I, 7,5 hp
-- Audioteknologi II, 7,5 hp
+- [[GLP29R|Audioteknologi I]], 7,5 hp
+- [[LP1080|Audioteknologi II]], 7,5 hp
 - Introduktion till Musik- och ljuddesign, 7,5 hp
 - Ljudskapande och ljudsyntes, 7,5 hp
 - [[GLP2FP|Ljudteori]], 7,5 hp
