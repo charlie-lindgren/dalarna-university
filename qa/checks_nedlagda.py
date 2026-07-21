@@ -625,32 +625,44 @@ def check_olänkade_kursreferenser(files: list[Path]) -> list[dict]:
                 "okand-kurs":          "olänkad-okand-kurs",
             }[kind]
             detail = f"`{bullet['name']}` ({bullet['hp']})"
-            # Vid "okand-kurs": föreslå sannolik kurskandidat om vi har en
-            # manuellt curerad mappning. Om kandidaten kan lösas till en aktiv
-            # kurskod omklassas fyndet till "programtext-skiljer-kursnamn" —
-            # kursen finns men heter annorlunda i utbildningsplanen.
-            if kind == "okand-kurs":
-                agg_name = _aggressive(bullet["name"])
+            agg_name = _aggressive(bullet["name"])
+            # Föreslå sannolik kurskandidat när vi kan peka ut en. Tre fall:
+            #   * "scraper-miss" — namnet *är* en aktiv kurs, så kandidaten är
+            #     given; förslaget säger vilken kod raden borde ha länkat till.
+            #   * "okand-kurs" / "trunkerad-rad" — en manuellt curerad mappning
+            #     (programspecifik före global) pekar ut kursen. Trunkerade rader
+            #     tas med eftersom det hängande skiljetecknet ofta *är* felet.
+            # Om kandidaten kan lösas till en aktiv kurskod omklassas fyndet till
+            # "programtext-skiljer-kursnamn" — kursen finns men heter annorlunda
+            # i utbildningsplanen.
+            suggestion: str | None = None
+            if kind == "scraper-miss":
+                suggestion = bullet["name"]
+            elif kind in ("okand-kurs", "trunkerad-rad"):
                 suggestion = _KANDIDAT_MATCHNINGAR_PROG.get(
                     (prog_code.upper(), agg_name)
                 ) or _KANDIDAT_MATCHNINGAR.get(agg_name)
-                if suggestion:
-                    code_to_name = _load_active_code_to_name()
-                    vilande = _load_vilande_codes()
-                    # Flera kurskoder kan bära samma kursnamn (en vilande äldre
-                    # variant + en aktiv). Föreslå alltid den aktiva.
-                    by_agg: dict[str, str] = {}
-                    for code, name in code_to_name.items():
-                        key = _aggressive(name)
-                        prev = by_agg.get(key)
-                        if prev is None or (prev in vilande and code not in vilande):
-                            by_agg[key] = code
-                    sugg_code = by_agg.get(_aggressive(suggestion))
-                    if sugg_code:
-                        detail += (
-                            f" — sannolikt avses `{suggestion}` "
-                            f"(kurskod `{sugg_code}`)"
-                        )
+            if suggestion:
+                code_to_name = _load_active_code_to_name()
+                vilande = _load_vilande_codes()
+                # Flera kurskoder kan bära samma kursnamn (en vilande äldre
+                # variant + en aktiv). Föreslå alltid den aktiva.
+                by_agg: dict[str, str] = {}
+                for code, name in code_to_name.items():
+                    key = _aggressive(name)
+                    prev = by_agg.get(key)
+                    if prev is None or (prev in vilande and code not in vilande):
+                        by_agg[key] = code
+                sugg_code = by_agg.get(_aggressive(suggestion))
+                if sugg_code:
+                    # Vid scraper-miss är kandidaten kursplanens egen titel —
+                    # visa den kanoniska formen, inte programtexten igen.
+                    sugg_name = code_to_name[sugg_code]
+                    detail += (
+                        f" — sannolikt avses `{sugg_name}` "
+                        f"(kurskod `{sugg_code}`)"
+                    )
+                    if kind != "scraper-miss":
                         check_label = "programtext-skiljer-kursnamn"
             findings.append({
                 "check": check_label,
