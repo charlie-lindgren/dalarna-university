@@ -177,6 +177,15 @@ _ELLIPSIS_DASH_RE = re.compile(r"(?<=\w)[-–—](?=\s)")
 _DASH_WS_RE = re.compile(r"\s*[-–—]\s*")
 _SLASH_WS_RE = re.compile(r"\s*/\s*")
 _MULTI_WS_RE = re.compile(r"\s+")
+# Kursnivåer skrivs omväxlande med romerska och arabiska siffror — DSVPG listar
+# ``Datakommunikation I`` medan kursplanen heter ``Datakommunikation 1``. Ett
+# *ensamt* romerskt tal sist i namnet (eller sist före en kolon-underrubrik)
+# normaliseras till arabisk siffra. Begränsat till I–VI: bokstaven "i" är också
+# svensk preposition, så mönstret kräver ordgräns *och* radslut/kolon för att
+# inte träffa "Kommunikation i samhället". Speglar ``_ROMAN_TAIL_RE`` i
+# qa/checks_nedlagda.py.
+_ROMAN_TAIL_RE = re.compile(r"\b(?<![-/])(i{1,3}|iv|vi?)(?=\s*(?::|$))")
+_ROMAN_TO_ARABIC = {"i": "1", "ii": "2", "iii": "3", "iv": "4", "v": "5", "vi": "6"}
 
 
 def _normalize_aggressive(name: str) -> str:
@@ -185,9 +194,17 @@ def _normalize_aggressive(name: str) -> str:
     Lowercase, drop ``åk``/``årskurs`` tokens before a grade range, strip
     Swedish elliptic-compound hyphens (``System- och X`` ≡ ``System och X``),
     collapse whitespace around dashes (``F -3`` → ``F-3``) and around slashes
-    (``CAM / CNC`` → ``CAM/CNC``), unify dash variants. Used in addition to
-    the strict index key so programme bullets phrased slightly differently
-    than the kursplan title still match.
+    (``CAM / CNC`` → ``CAM/CNC``), unify dash variants, jämställ romerska och
+    arabiska nivåsiffror (``Audioteknologi I`` ≡ ``Audioteknologi 1``). Used in
+    addition to the strict index key so programme bullets phrased slightly
+    differently than the kursplan title still match.
+
+    **Bara en uppslagsnyckel.** Returvärdet används aldrig som text i vaulten —
+    kursnamnet som skrivs ut kommer från ``_normalize_course_name`` och
+    återger du.se ordagrant. Att länken hittar rätt kurskod tar alltså inte
+    bort kvalitetsfyndet: programtexten står kvar som den är skriven, och
+    ``check_programtext_skiljer_kursnamn`` rapporterar avvikelsen mot
+    kursplanens kanoniska namn.
     """
     n = name.strip().lower()
     n = _SOFT_HYPHEN_RE.sub("", n)
@@ -198,6 +215,7 @@ def _normalize_aggressive(name: str) -> str:
     n = _DASH_WS_RE.sub("-", n)
     n = _SLASH_WS_RE.sub("/", n)
     n = _MULTI_WS_RE.sub(" ", n)
+    n = _ROMAN_TAIL_RE.sub(lambda m: _ROMAN_TO_ARABIC[m.group(1)], n)
     return n.strip()
 
 
