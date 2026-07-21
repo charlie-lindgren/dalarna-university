@@ -65,6 +65,19 @@ _DASH_WS_RE = re.compile(r"\s*[-–—]\s*")
 # bägge former hashas till samma nyckel.
 _SLASH_WS_RE = re.compile(r"\s*/\s*")
 _MULTI_WS_RE = re.compile(r"\s+")
+# Kursnivåer skrivs omväxlande med romerska och arabiska siffror — "Audioteknologi
+# I" i utbildningsplanen mot "Audioteknologi 1" i kursplanen, "Datakommunikation
+# I" mot "Datakommunikation 1". Ett *ensamt* romerskt tal sist i namnet (eller
+# sist före en kolon-underrubrik) normaliseras till arabisk siffra så att
+# formerna hashas lika. Begränsat till I–VI: bokstaven "i" är också svensk
+# preposition, så mönstret kräver ordgräns *och* radslut/kolon för att inte
+# träffa "Kommunikation i samhället".
+_ROMAN_TAIL_RE = re.compile(r"\b(?<![-/])(i{1,3}|iv|vi?)(?=\s*(?::|$))")
+_ROMAN_TO_ARABIC = {"i": "1", "ii": "2", "iii": "3", "iv": "4", "v": "5", "vi": "6"}
+# Utbildningsplanernas kurslistor bär ibland ett hängande skiljetecken från
+# du.se-exporten — LLL6A skriver "… åk 4–6,, 15 hp", vilket ger kursnamnet ett
+# efterföljande kommatecken. Strippas före jämförelse.
+_TRAILING_PUNCT_RE = re.compile(r"[\s,;.:–—-]+$")
 
 
 def _aggressive(name: str) -> str:
@@ -77,6 +90,8 @@ def _aggressive(name: str) -> str:
     n = _DASH_WS_RE.sub("-", n)
     n = _SLASH_WS_RE.sub("/", n)
     n = _MULTI_WS_RE.sub(" ", n)
+    n = _TRAILING_PUNCT_RE.sub("", n)
+    n = _ROMAN_TAIL_RE.sub(lambda m: _ROMAN_TO_ARABIC[m.group(1)], n)
     return n.strip()
 
 
@@ -92,11 +107,29 @@ class NedlagdaIndex:
     namnkollision (samma kursnamn på flera koder) lagras den senast nedlagda
     kursen — det är den variant utbildningsplaner mest sannolikt refererar
     till.
+
+    ``by_suffix`` speglar ``by_name`` men med kursplanens ämnes-prefix
+    avskalat: arkivet skriver ``Afrikanska studier: Södra Afrikas moderna
+    historia`` medan HAFSA:s kurslista bara skriver ``Södra Afrikas moderna
+    historia``. Samma kortform som ``_normalize_for_display_compare`` redan
+    accepterar för aktiva kurser.
     """
 
     def __init__(self, by_code: dict[str, dict], by_name: dict[str, str]) -> None:
         self.by_code = by_code
         self.by_name = by_name
+        self.by_suffix: dict[str, str] = {}
+        for agg_name, code in by_name.items():
+            m = _SUBJECT_PREFIX_RE.match(agg_name)
+            if not m:
+                continue
+            suffix = agg_name[m.end():].strip()
+            # Bara entydiga suffix duger — bär två ämnen samma kursnamn
+            # (``Franska: Examensarbete`` vs ``Italienska: Examensarbete``) går
+            # det inte att avgöra vilket som åsyftas, så nyckeln tas bort.
+            if suffix and suffix not in self.by_name:
+                self.by_suffix[suffix] = "" if suffix in self.by_suffix else code
+        self.by_suffix = {k: v for k, v in self.by_suffix.items() if v}
 
     def lookup_code(self, code: str) -> dict | None:
         return self.by_code.get(code.upper())
@@ -104,6 +137,9 @@ class NedlagdaIndex:
     def lookup_name(self, name: str) -> dict | None:
         agg = _aggressive(name)
         code = self.by_name.get(agg)
+        if not code:
+            # Programtexten utelämnar ofta kursplanens ämnes-prefix.
+            code = self.by_suffix.get(agg)
         if not code:
             # Sista utväg — kolla mot kolon-prefix (programmets bullets bär
             # ibland en undertitel som kursplanens namn saknar).
@@ -402,6 +438,17 @@ _BULLET_EXKLUDERAD_RAW = {
     "programansvarig. Ett antal valfria kurser om",
     # Praktik/intern­ship — ingår i programmet men är inte en kursplan.
     "Solenergiteknikpraktik (7,5 eller",
+    # Rubrikrader för 30 hp-block i SSHVG: raden namnger en *inriktning* och
+    # kurserna som ingår listas som egna bullets direkt under den. Ingen
+    # kursplan motsvarar rubriken.
+    "Inriktning sociologi II",
+    "Inriktning sociologi III",
+    "Inriktning statsvetenskap II",
+    "Inriktning statsvetenskap III",
+    # Utbytes-/mobilitetsplatshållare — en termin utomlands, ingen kursplan.
+    "Turismstudier utomlands",
+    "Valbar termin (med möjlighet till internationellt utbyte eller läsning "
+    "av valfri temakurs/kurser om",
 }
 _BULLET_EXKLUDERAD = {_aggressive(s) for s in _BULLET_EXKLUDERAD_RAW}
 
@@ -420,10 +467,9 @@ _PLACEHOLDER_BULLET_RE = re.compile(
 # slås sedan upp i vaulten för att hämta kurskoden. Mappningen är medvetet
 # konservativ: bara fall där vi är tämligen säkra på vad som åsyftas.
 #
-# Mappningen är global (nyckeln är bara programtexten, inte programkoden), så
-# tvetydiga texter som pekar mot olika kurser i olika program — t.ex.
-# "Utveckling och lärande - ämneslärare", som betyder åk 7-9-kursen i LP79A men
-# gymnasiekursen i LPGYA — lämnas medvetet utan förslag.
+# ``_KANDIDAT_MATCHNINGAR_RAW`` är global — nyckeln är bara programtexten. Texter
+# som betyder olika kurser i olika program hör i stället hemma i
+# ``_KANDIDAT_MATCHNINGAR_PROG_RAW`` nedan, som nycklas på (programkod, text).
 _KANDIDAT_MATCHNINGAR_RAW: dict[str, str] = {
     # ── IIT ──────────────────────────────────────────────────────────────────
     "Logik och matematik":                    "Logik och matematik för datavetenskap",
@@ -480,9 +526,36 @@ _KANDIDAT_MATCHNINGAR_RAW: dict[str, str] = {
     # ── ISLL ─────────────────────────────────────────────────────────────────
     "Kärnområden i tillämpad engelsk lingvistik": "Kärnområden inom tillämpad engelsk lingvistik",
     "Svenska som andraspråk i ett utvecklingsperspektiv - vetenskapsteoretiska förklaringsmodeller och metodologiska perspektiv": "Svenska som andraspråk i ett utvecklingsperspektiv - förklaringsmodeller och metodologiska perspektiv",
+    # Hängande kommatecken i du.se-exporten (``… åk 4–6,, 15 hp``) — namnet
+    # normaliseras redan, men kursplanens VFU-parentes måste överbryggas här.
+    "Sociala relationer, konflikter och makt i grundskolan åk 4–6": "Sociala relationer, konflikter och makt i grundskolan åk 4-6 (varav 7,5 hp VFU)",
+    "Vetenskapsteori och utbildningsvetenskaplig forskning för ämneslärare årskurs 7–9": "Vetenskapsteori och utbildningsvetenskaplig forskning för ämneslärare",
 }
 _KANDIDAT_MATCHNINGAR: dict[str, str] = {
     _aggressive(k): v for k, v in _KANDIDAT_MATCHNINGAR_RAW.items()
+}
+
+# Programspecifika kandidat-matchningar: (programkod, programtext) → kursnamn.
+# Samma text kan syfta på olika kurser i olika program, typiskt i lärar-
+# programmen där en generisk rad ("… - ämneslärare") betyder åk 7-9-varianten i
+# ett program och gymnasievarianten i ett annat. Slås upp före den globala
+# tabellen.
+_KANDIDAT_MATCHNINGAR_PROG_RAW: dict[tuple[str, str], str] = {
+    # Ämneslärare åk 7-9 — LP79A listar dessutom kursen två gånger, både under
+    # det generiska och det fullständiga namnet.
+    ("LP79A", "Utveckling och lärande - ämneslärare"): "Utveckling och lärande för ämneslärare inriktning åk 7-9 (varav 7,5 hp VFU)",
+    ("LG79A", "Utveckling och lärande - ämneslärare"): "Utveckling och lärande för ämneslärare inriktning åk 7-9 (varav 7,5 hp VFU)",
+    ("LP79A", "Verksamhetsförlagd utbildning - ämneslärare"): "Verksamhetsförlagd utbildning i grundskolan årskurs 7-9",
+    ("LG79A", "Verksamhetsförlagd utbildning - ämneslärare"): "Verksamhetsförlagd utbildning i grundskolan årskurs 7-9",
+    # Ämneslärare gymnasieskolan
+    ("LPGYA", "Utveckling och lärande - ämneslärare"): "Utveckling och lärande för ämneslärare inriktning gymnasieskolan (varav 7,5 hp VFU)",
+    ("LGGYA", "Utveckling och lärande - ämneslärare"): "Utveckling och lärande för ämneslärare inriktning gymnasieskolan (varav 7,5 hp VFU)",
+    ("LPGYA", "Verksamhetsförlagd utbildning - ämneslärare"): "Verksamhetsförlagd utbildning i gymnasieskolan",
+    ("LGGYA", "Verksamhetsförlagd utbildning - ämneslärare"): "Verksamhetsförlagd utbildning i gymnasieskolan",
+}
+_KANDIDAT_MATCHNINGAR_PROG: dict[tuple[str, str], str] = {
+    (p.upper(), _aggressive(k)): v
+    for (p, k), v in _KANDIDAT_MATCHNINGAR_PROG_RAW.items()
 }
 
 
@@ -557,7 +630,10 @@ def check_olänkade_kursreferenser(files: list[Path]) -> list[dict]:
             # kurskod omklassas fyndet till "programtext-skiljer-kursnamn" —
             # kursen finns men heter annorlunda i utbildningsplanen.
             if kind == "okand-kurs":
-                suggestion = _KANDIDAT_MATCHNINGAR.get(_aggressive(bullet["name"]))
+                agg_name = _aggressive(bullet["name"])
+                suggestion = _KANDIDAT_MATCHNINGAR_PROG.get(
+                    (prog_code.upper(), agg_name)
+                ) or _KANDIDAT_MATCHNINGAR.get(agg_name)
                 if suggestion:
                     code_to_name = _load_active_code_to_name()
                     vilande = _load_vilande_codes()
