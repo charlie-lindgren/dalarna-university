@@ -85,7 +85,15 @@ def main():
     args = sys.argv[1:]
 
     if "--latest2" in args or not args:
-        rapporter = sorted(RAPPORT_DIR.glob("rapport-*.md"))
+        # Sortera på mtime, inte filnamn. Namnsortering antar att varje fil
+        # heter ``rapport-ÅÅÅÅ-MM-DD-hhmm.md``, men mappen samlar även
+        # ad hoc-rapporter (``rapport-test.md``) — och "test" sorterar efter
+        # "2026", så en gammal testfil skulle plockas som "senaste" och ge en
+        # helt missvisande diff. populate_analysfiler.py väljer redan på mtime;
+        # samma regel här gör verktygen konsekventa.
+        rapporter = sorted(
+            RAPPORT_DIR.glob("rapport-*.md"), key=lambda p: p.stat().st_mtime
+        )
         if len(rapporter) < 2:
             print("Fel: Färre än 2 rapporter hittades i qa/rapporter/.", file=sys.stderr)
             sys.exit(1)

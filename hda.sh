@@ -315,10 +315,14 @@ run_diff() {
     echo -e "${BOLD}Jämför kursplan-rapporter${RESET}"
     echo ""
 
+    # -tr = sortera på ändringstid, äldst först (så sista posten är den
+    # nyaste). Namnsortering skulle anta att alla filer heter
+    # rapport-ÅÅÅÅ-MM-DD-hhmm.md; en ad hoc-rapport som rapport-test.md
+    # sorterar efter "2026" och skulle presenteras som den senaste.
     RAPPORTER=()
     while IFS= read -r f; do
         RAPPORTER+=("$f")
-    done < <(ls -1 "${RAPPORT_DIR}"/rapport-*.md 2>/dev/null | sort)
+    done < <(ls -1tr "${RAPPORT_DIR}"/rapport-*.md 2>/dev/null)
     COUNT=${#RAPPORTER[@]}
 
     if (( COUNT < 2 )); then
