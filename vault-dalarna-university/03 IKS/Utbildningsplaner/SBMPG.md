@@ -14,8 +14,8 @@ up: "IKS"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Makroekonomi introduktion` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Mikroekonomi introduktion` (7,5 hp) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Makroekonomi introduktion` (7,5 hp) — sannolikt avses `Makroekonomi, introduktion` (kurskod `GNA3B8`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Mikroekonomi introduktion` (7,5 hp) — sannolikt avses `Mikroekonomi, introduktion` (kurskod `GNA3FN`) |
 <!-- analys:end -->
 
 # SBMPG

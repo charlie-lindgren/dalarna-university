@@ -14,7 +14,7 @@ up: "IKS"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Studier i Internationell Human Resource Management` (15 hp) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Studier i Internationell Human Resource Management` (15 hp) — sannolikt avses `Studier i International Human Resource Management` (kurskod `FÖ3040`) |
 <!-- analys:end -->
 
 # SFIFA

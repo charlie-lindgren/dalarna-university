@@ -14,9 +14,9 @@ up: "ISLL"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Undervisning och ledarskap` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Ämnesdidaktik och specialpedagogik` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Professionellt lärarskap och skolutveckling` (15 hp) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Undervisning och ledarskap` (15 hp) — sannolikt avses `Undervisning och ledarskap (varav 10 hp VFU)` (kurskod `GPG2QP`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Ämnesdidaktik och specialpedagogik` (15 hp) — sannolikt avses `Ämnesdidaktik och specialpedagogik (varav 10 hp VFU)` (kurskod `GPG2RS`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Professionellt lärarskap och skolutveckling` (15 hp) — sannolikt avses `Professionellt lärarskap och skolutveckling (varav 10 hp VFU)` (kurskod `GPG3EV`) |
 <!-- analys:end -->
 
 # LYSLA

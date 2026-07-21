@@ -14,7 +14,7 @@ up: "IHV"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Strategier för implementering av förbättringsarbete i hälso-sjukvård` (7,5 hp) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Strategier för implementering av förbättringsarbete i hälso-sjukvård` (7,5 hp) — sannolikt avses `Strategier för implementering av förbättringsarbete i hälso- och sjukvård` (kurskod `ASR2CG`) |
 <!-- analys:end -->
 
 # VGSEA

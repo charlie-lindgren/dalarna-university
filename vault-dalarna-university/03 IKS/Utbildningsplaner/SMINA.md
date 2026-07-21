@@ -15,7 +15,7 @@ up: "IKS"
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Avancerad mikroteori` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Samhällsekonomisk utvärdering av offentliga projekt` (7,5 hp) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Samhällsekonomisk utvärdering av offentliga projekt` (7,5 hp) — sannolikt avses `Samhällsekonomisk utvärdering av offentliga projekt (Cost-Benefit Analysis)` (kurskod `NA2009`) |
 <!-- analys:end -->
 
 # SMINA

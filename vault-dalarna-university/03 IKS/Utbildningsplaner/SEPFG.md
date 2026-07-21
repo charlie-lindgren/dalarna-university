@@ -14,8 +14,8 @@ up: "IKS"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Entreprenörskap - entreprenörskapets villkor och särart` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Förhandlings  försäljnings  och dialogkonst` (7,5 hp) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Entreprenörskap - entreprenörskapets villkor och särart` (7,5 hp) — sannolikt avses `Entreprenörskap - villkor och särart` (kurskod `EU1027`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Förhandlings  försäljnings  och dialogkonst` (7,5 hp) — sannolikt avses `Försäljnings-, förhandling- och dialogkonst` (kurskod `EU1034`) |
 <!-- analys:end -->
 
 # SEPFG

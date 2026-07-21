@@ -26,8 +26,8 @@ up: "IKS"
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Fördjupningskurs i sociologisk teori` (7,5 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Samhällsvetenskapliga metoder II` (7,5 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Inriktning statsvetenskap III` (30 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Samhällsvetenskapliga metoder II inriktning statsvetenskap` (7,5 hp) |
 > | Programkurser olänkade | Kursraden ser avbruten/feltrycklig ut | `Valbar termin (med möjlighet till internationellt utbyte eller läsning av valfri temakurs/kurser om` (30 hp) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Samhällsvetenskapliga metoder II inriktning statsvetenskap` (7,5 hp) — sannolikt avses `Samhällsvetenskapliga metoder II - inriktning statsvetenskap` (kurskod `GSK2PV`) |
 <!-- analys:end -->
 
 # SSHVG

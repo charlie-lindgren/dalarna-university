@@ -14,7 +14,7 @@ up: "IHV"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Media och kommunikation inom idrott` (7,5hp) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Media och kommunikation inom idrott` (7,5hp) — sannolikt avses `Medier och kommunikation inom idrott` (kurskod `GIH3GF`) |
 <!-- analys:end -->
 
 # VIDRG

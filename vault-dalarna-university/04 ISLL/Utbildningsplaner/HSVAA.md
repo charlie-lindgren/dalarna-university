@@ -14,7 +14,7 @@ up: "ISLL"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Svenska som andraspråk i ett utvecklingsperspektiv - vetenskapsteoretiska förklaringsmodeller och metodologiska perspektiv` (7,5 hp) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Svenska som andraspråk i ett utvecklingsperspektiv - vetenskapsteoretiska förklaringsmodeller och metodologiska perspektiv` (7,5 hp) — sannolikt avses `Svenska som andraspråk i ett utvecklingsperspektiv - förklaringsmodeller och metodologiska perspektiv` (kurskod `SS3003`) |
 <!-- analys:end -->
 
 # HSVAA

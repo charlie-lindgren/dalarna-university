@@ -492,6 +492,29 @@ CORRECTIONS: dict[str, str] = {
 
 # Rättning inbäddad i detaljfältet av ``check_known_typos``: "`mönster` → rättning".
 _KNOWN_TYPO_RE = re.compile(r"^`[^`]+`\s*→\s*(.+?)(?:\s*\(en\))?\s*$")
+# Programkurs-analysen bär sitt förslag inbäddat i detaljfältet, i två former:
+#   okänd kurs med kurerad kandidat:
+#     `Programtext` (7,5 hp) — sannolikt avses `Kursnamn` (kurskod `KOD`)
+#   länkad bullet vars alias skiljer sig från kursplanens namn:
+#     Programtext `X` ≠ kursplanens namn `Y` (kurskod `KOD`)
+# I bägge fallen är vänsterledet problemet och högerledet förslaget — de delas
+# upp i kolumnerna Detalj/Förslag så att rader utan förslag syns direkt.
+_PROGRAM_KANDIDAT_RE = re.compile(
+    r"^(?P<detail>.+?)\s+—\s+sannolikt avses\s+(?P<sugg>`[^`]+`\s*\(kurskod\s*`[^`]+`\))\s*$"
+)
+_PROGRAM_AVVIKELSE_RE = re.compile(
+    r"^Programtext\s+(?P<detail>`[^`]+`)\s+≠\s+kursplanens namn\s+"
+    r"(?P<sugg>`[^`]+`\s*\(kurskod\s*`[^`]+`\))\s*$"
+)
+
+
+def _program_split(detail: str) -> tuple[str, str] | None:
+    """Dela ett programkurs-detaljfält i (problem, förslag), eller None."""
+    for pattern in (_PROGRAM_KANDIDAT_RE, _PROGRAM_AVVIKELSE_RE):
+        m = pattern.match(detail)
+        if m:
+            return m.group("detail").strip(), m.group("sugg").strip()
+    return None
 # Första backticks-omslutna ordet i ett detaljfält (hunspell/dubblettfynd).
 _FIRST_TOKEN_RE = re.compile(r"`([^`]+)`")
 
@@ -499,9 +522,13 @@ _FIRST_TOKEN_RE = re.compile(r"`([^`]+)`")
 def suggestion_for(detail: str) -> str:
     """Härled ett rättningsförslag ur ett detaljfält, eller "" om inget känt.
 
-    Två källor: (1) kända felstavningar bär redan "→ rättning" i detaljen; den
-    plockas upp direkt. (2) Övriga fynd (hunspell) slås upp mot ``CORRECTIONS``
-    på det flaggade ordet. Saknas ordet ges inget förslag."""
+    Tre källor: (1) kända felstavningar bär redan "→ rättning" i detaljen; den
+    plockas upp direkt. (2) Programkurs-fynd bär sin kandidatkurs i detaljen.
+    (3) Övriga fynd (hunspell) slås upp mot ``CORRECTIONS`` på det flaggade
+    ordet. Saknas ordet ges inget förslag."""
+    split = _program_split(detail)
+    if split:
+        return split[1]
     m = _KNOWN_TYPO_RE.match(detail)
     if m:
         return m.group(1).strip()
@@ -523,7 +550,12 @@ _KNOWN_TYPO_DISPLAY_RE = re.compile(r"^`([^`]+)`\s*→\s*.+?(\s*\(en\))?\s*$")
 def display_detail(detail: str) -> str:
     """Rensa detaljfältet för visning bredvid Förslag-kolumnen: kända felstavningar
     visas bara som det felstavade ordet (utan ``\\b``-markörer och ``→ rättning``),
-    eftersom rättningen står i Förslag. Övriga detaljer lämnas orörda."""
+    eftersom rättningen står i Förslag. Programkurs-fynd visas bara som
+    programtexten, eftersom kandidatkursen står i Förslag. Övriga detaljer
+    lämnas orörda."""
+    split = _program_split(detail)
+    if split:
+        return split[0]
     m = _KNOWN_TYPO_DISPLAY_RE.match(detail)
     if not m:
         return detail

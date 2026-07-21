@@ -15,8 +15,8 @@ up: "ISLL"
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Text, kommunikation och lärande i en mångkulturell skola` → `GSV22L` (nedlagd 2024-10-11) — plain-text-referens |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Didaktik och ledarskap i förskoleklass och grundskolans åk 1–3` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Utvärdering och utvecklingsarbete i förskoleklass och grundskolans åk 1–3` (15 hp) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Didaktik och ledarskap i förskoleklass och grundskolans åk 1–3` (15 hp) — sannolikt avses `Didaktik och ledarskap i förskoleklass och grundskolans årskurs 1-3 (inkl 7,5 hp VFU)` (kurskod `GPG3CH`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Utvärdering och utvecklingsarbete i förskoleklass och grundskolans åk 1–3` (15 hp) — sannolikt avses `Utvärdering och utvecklingsarbete i förskoleklass och grundskolans åk 1-3 (varav 7,5 hp VFU)` (kurskod `APG275`) |
 > | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Vetenskapsteori och utbildningsvetenskaplig forskning för grundlärare F -3` ≠ kursplanens namn `Vetenskapsteori och utbildningsvetenskaplig forskning för grundlärare F-3` (kurskod `APG244`) |
 > | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Engelska för grundlärare åk F-3` ≠ kursplanens namn `Engelska för grundlärare F-3` (kurskod `GEN2BJ`) |
 <!-- analys:end -->

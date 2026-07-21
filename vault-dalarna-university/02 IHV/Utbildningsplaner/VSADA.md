@@ -14,7 +14,7 @@ up: "IHV"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Personcentrerad vård av personer med demens` (7,5 hp) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Personcentrerad vård av personer med demens` (7,5 hp) — sannolikt avses `Personcentrerad vård för personer med demens` (kurskod `VÅ3127`) |
 <!-- analys:end -->
 
 # VSADA

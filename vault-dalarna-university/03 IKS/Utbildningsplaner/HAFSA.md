@@ -14,19 +14,19 @@ up: "IKS"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Magisterprojektets planering` (1 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Den vidareutvecklade uppsatsplanen` (1 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Magisterexamensarbete i Afrikanska studier` (15 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Bistånd och utveckling i Afrika söder om Sahara` (7 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Egypten och medierna` (7 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Egyptisk–sudanesiska relationer: Vattenresursernas geopolitik` (7 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Den nordafrikanska novellen` (7 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Islam och muslimska samhällen i Afrika` (7 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Språk och nationalitet i afrikanska flerspråkliga länder` (7 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Södra Afrikas moderna historia` (7 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Afrikas horn` (7 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Fred och konflikt i Afrika: Internationell institutionell lag` (7 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Västafrika sedan 1800-talet` (7 hp) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Magisterprojektets planering` (1 hp) — sannolikt avses `Afrikanska studier: Forskningsprojektets planering` (kurskod `AS3024`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Den vidareutvecklade uppsatsplanen` (1 hp) — sannolikt avses `Afrikanska studier: Den vidareutvecklade forskningsplanen` (kurskod `AS3020`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Islam och muslimska samhällen i Afrika` (7 hp) — sannolikt avses `Afrikanska studier: Islam och islamiska samhällen i Afrika` (kurskod `AS3008`) |
 <!-- analys:end -->
 
 # HAFSA

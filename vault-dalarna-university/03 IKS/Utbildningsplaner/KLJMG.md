@@ -22,8 +22,8 @@ up: "IKS"
 > | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Audioteknologi 2` → `LP1080` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
 > | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Vetenskaplig uppsats i Ljud- och musikproduktion` → `LP1065` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
 > | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Produktionsprocesser och -villkor inom musikproduktion` → `LP1072` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Konceptutveckling inom medieproduktion i Ljud- och musikproduktion` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Arbetsplatsförlagd utbildning för medieproduktion` (15 hp) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Konceptutveckling inom medieproduktion i Ljud- och musikproduktion` (7,5 hp) — sannolikt avses `Konceptutveckling inom medieproduktion för Ljud- och musikproduktion` (kurskod `GLP2NK`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Arbetsplatsförlagd utbildning för medieproduktion` (15 hp) — sannolikt avses `Arbetsplatsförlagd utbildning i medieproduktion` (kurskod `GLP32S`) |
 <!-- analys:end -->
 
 # KLJMG

@@ -14,7 +14,7 @@ up: "ISLL"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Kärnområden i tillämpad engelsk lingvistik` (7,5 hp) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Kärnområden i tillämpad engelsk lingvistik` (7,5 hp) — sannolikt avses `Kärnområden inom tillämpad engelsk lingvistik` (kurskod `EN3076`) |
 <!-- analys:end -->
 
 # HTESA

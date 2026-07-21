@@ -121,6 +121,35 @@ class NedlagdaIndex:
 _INDEX_CACHE: NedlagdaIndex | None = None
 _ACTIVE_TITLES: set[str] | None = None
 _ACTIVE_CODE_TO_NAME: dict[str, str] | None = None
+_VILANDE_CODES: set[str] | None = None
+
+_VILANDE_FM_RE = re.compile(r"^(?:tags|cssclasses):.*\bvilande\b", re.M)
+
+
+def _load_vilande_codes() -> set[str]:
+    """Kurskoder vars kursplan är taggad ``vilande`` (kursen ges inte just nu).
+
+    Används för att välja rätt kod när flera kursplaner delar samma kursnamn —
+    en aktiv kod är alltid ett bättre förslag än en vilande."""
+    global _VILANDE_CODES
+    if _VILANDE_CODES is not None:
+        return _VILANDE_CODES
+    codes: set[str] = set()
+    for inst in INST_DIRS:
+        kp = VAULT / inst / "Kursplaner"
+        if not kp.exists():
+            continue
+        for path in kp.rglob("*.md"):
+            if "MOC" in path.name:
+                continue
+            try:
+                head = path.read_text(encoding="utf-8")[:1500]
+            except OSError:
+                continue
+            if head.startswith("---") and _VILANDE_FM_RE.search(head):
+                codes.add(path.stem.upper())
+    _VILANDE_CODES = codes
+    return codes
 
 
 def _load_active_code_to_name() -> dict[str, str]:
@@ -390,7 +419,13 @@ _PLACEHOLDER_BULLET_RE = re.compile(
 # Format: ``"programtext"`` → ``"kanoniskt kursnamn"``. Den föreslagna kursen
 # slås sedan upp i vaulten för att hämta kurskoden. Mappningen är medvetet
 # konservativ: bara fall där vi är tämligen säkra på vad som åsyftas.
+#
+# Mappningen är global (nyckeln är bara programtexten, inte programkoden), så
+# tvetydiga texter som pekar mot olika kurser i olika program — t.ex.
+# "Utveckling och lärande - ämneslärare", som betyder åk 7-9-kursen i LP79A men
+# gymnasiekursen i LPGYA — lämnas medvetet utan förslag.
 _KANDIDAT_MATCHNINGAR_RAW: dict[str, str] = {
+    # ── IIT ──────────────────────────────────────────────────────────────────
     "Logik och matematik":                    "Logik och matematik för datavetenskap",
     "Datakommunikation I":                    "Datakommunikation 1",
     "Data Storage & Management Technologies": "Data Storage and Management Technologies",
@@ -402,6 +437,49 @@ _KANDIDAT_MATCHNINGAR_RAW: dict[str, str] = {
     "Examensarbete för högskoleexamen inom maskinteknik": "Examensarbete för högskoleexamen i maskinteknik",
     "Additiv tillverkning":                               "Additiv tillverkning (3D printing)",
     "Fysisk planering III – genomförande och planeringsjuridik": "Fysisk planering III - genomförande och juridisk fördjupning",
+    # ── IHV ──────────────────────────────────────────────────────────────────
+    "Gravididet, förlossning och postpartumvård 1": "Graviditet, förlossning och postpartumvård I",
+    "Gravididet, förlossning och postpartumvård 2": "Graviditet, förlossning och postpartumvård II",
+    "Strategier för implementering av förbättringsarbete i hälso-sjukvård": "Strategier för implementering av förbättringsarbete i hälso- och sjukvård",
+    "Media och kommunikation inom idrott":     "Medier och kommunikation inom idrott",
+    "Personcentrerad vård av personer med demens": "Personcentrerad vård för personer med demens",
+    # ── IKS ──────────────────────────────────────────────────────────────────
+    "Digitalefterbearbetning av ljud och bild": "Digital efterbearbetning av ljud och bild",
+    "Konceptutveckling inom medieproduktion i Ljud- och musikproduktion": "Konceptutveckling inom medieproduktion för Ljud- och musikproduktion",
+    "Arbetsplatsförlagd utbildning för medieproduktion": "Arbetsplatsförlagd utbildning i medieproduktion",
+    "Makroekonomi introduktion":               "Makroekonomi, introduktion",
+    "Mikroekonomi introduktion":               "Mikroekonomi, introduktion",
+    "Makroekonomi fortsättning":               "Makroekonomi, fortsättning",
+    "Mikroekonomi fortsättningskurs":          "Mikroekonomi, fortsättningskurs",
+    "Samhällsekonomisk utvärdering av offentliga projekt": "Samhällsekonomisk utvärdering av offentliga projekt (Cost-Benefit Analysis)",
+    "Samhällsvetenskapliga metoder II inriktning statsvetenskap": "Samhällsvetenskapliga metoder II - inriktning statsvetenskap",
+    "Studier i Internationell Human Resource Management": "Studier i International Human Resource Management",
+    "Personalarbete med praktik":              "Personalarbete - med praktik",
+    "Entreprenörskap - entreprenörskapets villkor och särart": "Entreprenörskap - villkor och särart",
+    "Förhandlings  försäljnings  och dialogkonst": "Försäljnings-, förhandling- och dialogkonst",
+    "Magisterprojektets planering":            "Afrikanska studier: Forskningsprojektets planering",
+    "Den vidareutvecklade uppsatsplanen":      "Afrikanska studier: Den vidareutvecklade forskningsplanen",
+    "Islam och muslimska samhällen i Afrika":  "Afrikanska studier: Islam och islamiska samhällen i Afrika",
+    # ── Lärarutbildning (IKS + ISLL delar programkurser) ──────────────────────
+    "Didaktik och ledarskap för ämneslärare inriktning gymnasieskolan": "Didaktik och ledarskap för ämneslärare inriktning gymnasieskolan (inkl 7,5 hp VFU)",
+    "Didaktik och ledarskap i förskoleklass och grundskolans åk 1–3": "Didaktik och ledarskap i förskoleklass och grundskolans årskurs 1-3 (inkl 7,5 hp VFU)",
+    "Didaktik och ledarskap i grundskolans åk 4–6": "Didaktik och ledarskap i grundskolans årskurs 4-6 (inkl 7,5 hp VFU)",
+    "Utvärdering och utvecklingsarbete i förskoleklass och grundskolans åk 1–3": "Utvärdering och utvecklingsarbete i förskoleklass och grundskolans åk 1-3 (varav 7,5 hp VFU)",
+    "Utvärdering och utvecklingsarbete i grundskolans åk 4–6": "Utvärdering och utvecklingsarbete i grundskolans åk 4-6, (varav 7,5 hp VFU)",
+    "Utvärdering och utvecklingsarbete för ämneslärare": "Utvärdering och utvecklingsarbete i grundskolans åk 7-9 och gymnasieskolan",
+    "Sociala relationer, konflikter och makt - ämneslärare": "Sociala relationer, konflikter och makt i grundskolan åk 7-9 och gymnasieskolan",
+    "Utveckling och lärande för ämneslärare inriktning åk 7-9": "Utveckling och lärande för ämneslärare inriktning åk 7-9 (varav 7,5 hp VFU)",
+    "Examensarbete för grundlärarexamen inriktning 4–6 – del 1": "Examensarbete för grundlärarexamen inriktning 4-6 del 1",
+    "Examensarbete för grundlärarexamen inriktning 4–6 – del 2": "Examensarbete för grundlärarexamen inriktning 4-6 del 2",
+    "Engelska för grundlärare åk 4-6 1A":      "Engelska för grundlärare åk 4-6, 1A",
+    "Engelska för grundlärare åk 4-6 1B":      "Engelska för grundlärare åk 4-6, 1B",
+    "_Examensarbete i matematik för ämneslärarexamen inriktning grundskolans årskurs 7–9": "Examensarbete i matematik för ämneslärarexamen inriktning grundskolans årskurs 7-9",
+    "Undervisning och ledarskap":              "Undervisning och ledarskap (varav 10 hp VFU)",
+    "Ämnesdidaktik och specialpedagogik":      "Ämnesdidaktik och specialpedagogik (varav 10 hp VFU)",
+    "Professionellt lärarskap och skolutveckling": "Professionellt lärarskap och skolutveckling (varav 10 hp VFU)",
+    # ── ISLL ─────────────────────────────────────────────────────────────────
+    "Kärnområden i tillämpad engelsk lingvistik": "Kärnområden inom tillämpad engelsk lingvistik",
+    "Svenska som andraspråk i ett utvecklingsperspektiv - vetenskapsteoretiska förklaringsmodeller och metodologiska perspektiv": "Svenska som andraspråk i ett utvecklingsperspektiv - förklaringsmodeller och metodologiska perspektiv",
 }
 _KANDIDAT_MATCHNINGAR: dict[str, str] = {
     _aggressive(k): v for k, v in _KANDIDAT_MATCHNINGAR_RAW.items()
@@ -482,7 +560,15 @@ def check_olänkade_kursreferenser(files: list[Path]) -> list[dict]:
                 suggestion = _KANDIDAT_MATCHNINGAR.get(_aggressive(bullet["name"]))
                 if suggestion:
                     code_to_name = _load_active_code_to_name()
-                    by_agg = {_aggressive(v): k for k, v in code_to_name.items()}
+                    vilande = _load_vilande_codes()
+                    # Flera kurskoder kan bära samma kursnamn (en vilande äldre
+                    # variant + en aktiv). Föreslå alltid den aktiva.
+                    by_agg: dict[str, str] = {}
+                    for code, name in code_to_name.items():
+                        key = _aggressive(name)
+                        prev = by_agg.get(key)
+                        if prev is None or (prev in vilande and code not in vilande):
+                            by_agg[key] = code
                     sugg_code = by_agg.get(_aggressive(suggestion))
                     if sugg_code:
                         detail += (

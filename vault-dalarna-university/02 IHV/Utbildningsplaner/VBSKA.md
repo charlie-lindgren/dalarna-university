@@ -15,8 +15,8 @@ up: "IHV"
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Gynekologisk och postpartumvård, verksamhetsförlagd utbildning` → `VÅ3086` (nedlagd 2017-04-07) — plain-text-referens |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Gravididet, förlossning och postpartumvård 1` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Gravididet, förlossning och postpartumvård 2` (6 hp) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Gravididet, förlossning och postpartumvård 1` (7,5 hp) — sannolikt avses `Graviditet, förlossning och postpartumvård I` (kurskod `ASR29T`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Gravididet, förlossning och postpartumvård 2` (6 hp) — sannolikt avses `Graviditet, förlossning och postpartumvård II` (kurskod `ASR2AD`) |
 <!-- analys:end -->
 
 # VBSKA
