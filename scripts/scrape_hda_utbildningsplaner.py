@@ -109,6 +109,7 @@ def build_kursplan_index() -> dict[str, tuple[str, str]]:
         code = md_file.stem
         institution = None
         kursnamn = None
+        vilande = False
         try:
             text = md_file.read_text(encoding="utf-8")
             for line in text.split("\n"):
@@ -116,16 +117,18 @@ def build_kursplan_index() -> dict[str, tuple[str, str]]:
                     institution = line.split(":", 1)[1].strip().strip('"')
                 elif line.startswith("kursnamn:"):
                     kursnamn = line.split(":", 1)[1].strip().strip('"')
+                elif line.startswith(("tags:", "cssclasses:")) and "vilande" in line:
+                    vilande = True
                 if institution and kursnamn:
                     break
         except Exception:
             continue
         if kursnamn and institution:
             key = kursnamn.lower()
-            index[key] = (code, institution)
+            _put(index, code_vilande, key, code, institution, vilande)
             agg = _normalize_aggressive(kursnamn)
             if agg != key:
-                index.setdefault(agg, (code, institution))
+                _put(index, code_vilande, agg, code, institution, vilande)
             if ":" in kursnamn:
                 suffix = kursnamn.split(":", 1)[1].strip().lower()
                 if suffix and len(suffix) >= 8:
