@@ -109,7 +109,6 @@ def build_kursplan_index() -> dict[str, tuple[str, str]]:
         code = md_file.stem
         institution = None
         kursnamn = None
-        vilande = False
         try:
             text = md_file.read_text(encoding="utf-8")
             for line in text.split("\n"):
@@ -117,18 +116,21 @@ def build_kursplan_index() -> dict[str, tuple[str, str]]:
                     institution = line.split(":", 1)[1].strip().strip('"')
                 elif line.startswith("kursnamn:"):
                     kursnamn = line.split(":", 1)[1].strip().strip('"')
-                elif line.startswith(("tags:", "cssclasses:")) and "vilande" in line:
-                    vilande = True
                 if institution and kursnamn:
                     break
         except Exception:
             continue
         if kursnamn and institution:
             key = kursnamn.lower()
-            _put(index, code_vilande, key, code, institution, vilande)
+            index[key] = (code, institution)
             agg = _normalize_aggressive(kursnamn)
             if agg != key:
-                _put(index, code_vilande, agg, code, institution, vilande)
+                index.setdefault(agg, (code, institution))
+            # Sifferformsvariant som *extra* nyckel — se _roman_normalized.
+            # setdefault: den får aldrig knuffa undan en befintlig träff.
+            roman = _roman_normalized(agg)
+            if roman != agg:
+                index.setdefault(roman, (code, institution))
             if ":" in kursnamn:
                 suffix = kursnamn.split(":", 1)[1].strip().lower()
                 if suffix and len(suffix) >= 8:
@@ -141,6 +143,30 @@ def build_kursplan_index() -> dict[str, tuple[str, str]]:
             continue
         index[suffix] = max(hits, key=lambda h: h[0])
     return index
+
+
+# Kursnivåer skrivs omväxlande med romerska och arabiska siffror — DSVPG listar
+# ``Datakommunikation I`` medan kursplanen heter ``Datakommunikation 1``, KMLJG
+# ``Audioteknologi I`` mot ``Audioteknologi 1``. Ett *ensamt* romerskt tal sist i
+# namnet (eller sist före en kolon-underrubrik) normaliseras till arabisk siffra.
+# Begränsat till I–VI: bokstaven "i" är också svensk preposition, så mönstret
+# kräver ordgräns *och* radslut/kolon för att inte träffa "Kommunikation i
+# samhället". Speglar ``_ROMAN_TAIL_RE`` i qa/checks_nedlagda.py.
+_ROMAN_TAIL_RE = re.compile(r"\b(?<![-/])(i{1,3}|iv|vi?)(?=\s*(?::|$))")
+_ROMAN_TO_ARABIC = {"i": "1", "ii": "2", "iii": "3", "iv": "4", "v": "5", "vi": "6"}
+
+
+def _roman_normalized(name: str) -> str:
+    """Siffernormaliserad variant av en redan aggressivt normaliserad nyckel.
+
+    Registreras och slås upp *separat* från ``_normalize_aggressive`` i stället
+    för att bakas in i den. Skälet är att flera kursplaner kan dela kursnamn
+    (en vilande äldre version + den som ges); att ändra den aggressiva nyckeln
+    skulle flytta befintliga träffar mellan sådana dubbletter och kasta om ett
+    hundratal redan korrekta länkar. Som egen nyckel med lägst prioritet kan den
+    bara tillföra träffar där inget annat matchade.
+    """
+    return _ROMAN_TAIL_RE.sub(lambda m: _ROMAN_TO_ARABIC[m.group(1)], name)
 
 
 def _normalize_course_name(raw: str) -> str:
@@ -180,15 +206,6 @@ _ELLIPSIS_DASH_RE = re.compile(r"(?<=\w)[-–—](?=\s)")
 _DASH_WS_RE = re.compile(r"\s*[-–—]\s*")
 _SLASH_WS_RE = re.compile(r"\s*/\s*")
 _MULTI_WS_RE = re.compile(r"\s+")
-# Kursnivåer skrivs omväxlande med romerska och arabiska siffror — DSVPG listar
-# ``Datakommunikation I`` medan kursplanen heter ``Datakommunikation 1``. Ett
-# *ensamt* romerskt tal sist i namnet (eller sist före en kolon-underrubrik)
-# normaliseras till arabisk siffra. Begränsat till I–VI: bokstaven "i" är också
-# svensk preposition, så mönstret kräver ordgräns *och* radslut/kolon för att
-# inte träffa "Kommunikation i samhället". Speglar ``_ROMAN_TAIL_RE`` i
-# qa/checks_nedlagda.py.
-_ROMAN_TAIL_RE = re.compile(r"\b(?<![-/])(i{1,3}|iv|vi?)(?=\s*(?::|$))")
-_ROMAN_TO_ARABIC = {"i": "1", "ii": "2", "iii": "3", "iv": "4", "v": "5", "vi": "6"}
 
 
 def _normalize_aggressive(name: str) -> str:
@@ -197,10 +214,11 @@ def _normalize_aggressive(name: str) -> str:
     Lowercase, drop ``åk``/``årskurs`` tokens before a grade range, strip
     Swedish elliptic-compound hyphens (``System- och X`` ≡ ``System och X``),
     collapse whitespace around dashes (``F -3`` → ``F-3``) and around slashes
-    (``CAM / CNC`` → ``CAM/CNC``), unify dash variants, jämställ romerska och
-    arabiska nivåsiffror (``Audioteknologi I`` ≡ ``Audioteknologi 1``). Used in
-    addition to the strict index key so programme bullets phrased slightly
-    differently than the kursplan title still match.
+    (``CAM / CNC`` → ``CAM/CNC``), unify dash variants. Used in addition to
+    the strict index key so programme bullets phrased slightly differently
+    than the kursplan title still match. Romerska/arabiska nivåsiffror hanteras
+    inte här utan av ``_roman_normalized``, som egen nyckel med lägre
+    prioritet.
 
     **Bara en uppslagsnyckel.** Returvärdet används aldrig som text i vaulten —
     kursnamnet som skrivs ut kommer från ``_normalize_course_name`` och
@@ -218,7 +236,6 @@ def _normalize_aggressive(name: str) -> str:
     n = _DASH_WS_RE.sub("-", n)
     n = _SLASH_WS_RE.sub("/", n)
     n = _MULTI_WS_RE.sub(" ", n)
-    n = _ROMAN_TAIL_RE.sub(lambda m: _ROMAN_TO_ARABIC[m.group(1)], n)
     return n.strip()
 
 
@@ -343,6 +360,12 @@ def _lookup_course(raw_name: str, kursplan_index: dict) -> tuple[str, str] | Non
     aggressive = _normalize_aggressive(clean)
     if aggressive in kursplan_index:
         return kursplan_index[aggressive]
+    # 4b. Romersk/arabisk nivåsiffra: ``Datakommunikation I`` ≡
+    #     ``Datakommunikation 1``. Sist bland namnvarianterna så att den bara
+    #     fyller luckor och aldrig flyttar en befintlig träff.
+    roman = _roman_normalized(aggressive)
+    if roman != aggressive and roman in kursplan_index:
+        return kursplan_index[roman]
     # 5. Colon-prefix: programme bullets often append a descriptive subtitle
     #    ("Svenska 1 för grundlärare F-3: Barns språkutveckling, ...") that the
     #    kursplan title does not carry. Try the prefix part.
