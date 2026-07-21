@@ -16,7 +16,7 @@ up: "[[Franska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -24,6 +24,7 @@ up: "[[Franska]]"
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras kontinuerligt genom aktivt deltagande vid seminarier, muntliga redovisningar och skriftliga inlämnings… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande på franska kunna:… |
 > | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Franskspråkig litteratur I` → `FR1029` (nedlagd 2019-06-04); förkunskap nämner nedlagd kurs |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Kultur och samhälle I` → `GFR2AC` (nedlagd 2025-10-28); förkunskap nämner nedlagd kurs |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 5 mål, engelska: 4 mål (diff 1) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GFR2JC.… |
 <!-- analys:end -->

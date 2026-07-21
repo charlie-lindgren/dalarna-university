@@ -15,13 +15,15 @@ up: "[[Italienska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på båda modulerna. Betygsrapportering: Modul… |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras fortlöpande genom bedömning av aktivt deltagande under seminarier och muntliga redovisningar i grupp o… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Fonetik och muntlig språkfärdighet` → `IT1030` (nedlagd 2023-12-21); förkunskap nämner nedlagd kurs |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Grammatik och skriftlig språkfärdighet` → `IT1031` (nedlagd 2023-12-21); förkunskap nämner nedlagd kurs |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter IT1023.… |
 <!-- analys:end -->
 

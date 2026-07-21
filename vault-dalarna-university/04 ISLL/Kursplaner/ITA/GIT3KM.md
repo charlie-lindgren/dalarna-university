@@ -15,6 +15,14 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT3KM
 up: "[[Italienska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Nybörjarkurs II` → `IT1018` (nedlagd 2019-06-04); förkunskap nämner nedlagd kurs |
+<!-- analys:end -->
+
 # GIT3KM
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT3KM)

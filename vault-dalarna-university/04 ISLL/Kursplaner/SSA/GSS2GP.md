@@ -16,12 +16,14 @@ up: "[[Svenska som andraspråk]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få VG på hela kursen krävs VG på minst 22,5 hp. Betygsrapportering: Delkurs 1, mod… |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: **Delkurs 1** examineras kontinuerligt genom aktivt deltagande på seminarier samt genom skriftliga inlämningsuppgifter. … |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Arabiska I med didaktisk inriktning` → `GSS28D` (nedlagd 2026-02-16); förkunskap nämner nedlagd kurs |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Arabiska II med didaktisk inriktning` → `GSS2BM` (nedlagd 2026-02-16); förkunskap nämner nedlagd kurs |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande fördjupar sina didaktiska kunskaper i arabiska som modersmål.… |
 > | Omfång på lärandemål | För många mål | 21 lärandemål (maximum rekommenderat: 12 för 30 hp) |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 21 mål, engelska: 1 mål (diff 20) |

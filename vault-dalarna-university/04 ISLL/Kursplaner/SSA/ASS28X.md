@@ -15,11 +15,13 @@ up: "[[Svenska som andraspråk]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska den studerande kunna:… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Arabiska I med didaktisk inriktning` → `GSS28D` (nedlagd 2026-02-16); förkunskap nämner nedlagd kurs |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Arabiska II med didaktisk inriktning` → `GSS2BM` (nedlagd 2026-02-16); förkunskap nämner nedlagd kurs |
 > | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` → `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
 > | Omfång på lärandemål | Långt mål | 31 ord: - inom givna ramar genomföra en självständig studie med krav på vetenskapligt vä… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |

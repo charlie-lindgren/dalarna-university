@@ -57,4 +57,9 @@ Träffar mot **nedlagda kursplaner** rapporteras separat i [[Nedlagda kursrefere
 3. **Alternativ-bullet** är legitim — programmet låter studenten välja mellan kurser. Ingen åtgärd om bullet är välformulerad.
 4. **Trunkerad kursrad** är typiskt en parsefel — antingen i scrapern eller i den ursprungliga du.se-texten. Granska den rapporterade raden.
 5. **Programtext skiljer från kursnamn** kräver att programansvarig uppdaterar kurslistan i utbildningsplanen så att texten matchar kursplanens officiella namn. Vanligaste orsaken är svensk ellipsis (`X- och Y` istället för `X och Y`).
-6. **Förslagskolumnen är ett underlag, inte ett beslut.** Kontrollera kurskoden mot du.se innan programtexten rättas — särskilt när flera kurser delar snarlika namn (t.ex. `… åk 7-9` vs `… gymnasieskolan`). Rader utan förslag behöver utredas manuellt med programansvarig; när svaret är känt kan mappningen kompletteras så att förslaget dyker upp automatiskt vid nästa körning.
+6. **Förslagskolumnen är ett underlag, inte ett beslut.** Kontrollera kurskoden mot du.se innan programtexten rättas — särskilt när flera kurser delar snarlika namn (t.ex. `… åk 7-9` vs `… gymnasieskolan`). Programspecifika fall ligger i `_KANDIDAT_MATCHNINGAR_PROG_RAW`, nycklade på (programkod, text), just för att samma rad kan betyda olika kurser i olika program.
+7. **Rader utan förslag är oftast inte namnfel.** Tre återkommande orsaker, som alla kräver dialog med programansvarig snarare än en texträttning:
+    - *Kursplanen är ännu inte fastställd* — nya program hinner före sina kurser. SPARG (fastställd 2025-04-16) har hela år 1 länkat och år 2–3 helt olänkat.
+    - *Kursen publicerades aldrig som egen kursplan* — temakurserna i HAFSA och kurserna i KMLJG finns varken aktivt eller i nedlagda-arkivet.
+    - *Raden är en delkurs, inte en kurs* — SSHVG:s sociologirader är innehåll i 30 hp-kurserna [[GSO2XU]] och [[GSO2XV]], inte egna kursplaner.
+8. **Rena rubrikrader filtreras bort.** Rader som `Inriktning sociologi II, 30 hp` namnger ett block vars ingående kurser listas som egna bullets under det; de ligger i `_BULLET_EXKLUDERAD` och rapporteras inte alls.

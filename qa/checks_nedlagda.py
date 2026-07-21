@@ -127,6 +127,10 @@ class NedlagdaIndex:
             # Bara entydiga suffix duger — bär två ämnen samma kursnamn
             # (``Franska: Examensarbete`` vs ``Italienska: Examensarbete``) går
             # det inte att avgöra vilket som åsyftas, så nyckeln tas bort.
+            # Korta/generiska suffix (``del 1``, ``ekonomi``) skulle kunna träffa
+            # nästan vad som helst och tas inte med alls.
+            if len(suffix) < 12 or " " not in suffix:
+                continue
             if suffix and suffix not in self.by_name:
                 self.by_suffix[suffix] = "" if suffix in self.by_suffix else code
         self.by_suffix = {k: v for k, v in self.by_suffix.items() if v}
@@ -134,12 +138,25 @@ class NedlagdaIndex:
     def lookup_code(self, code: str) -> dict | None:
         return self.by_code.get(code.upper())
 
-    def lookup_name(self, name: str) -> dict | None:
+    def lookup_name(self, name: str, subject: str | None = None) -> dict | None:
+        """Slå upp en nedlagd kursplan på kursnamn.
+
+        ``subject`` är anroparens ämneskod (``RYA``, ``TYA``, …) när den är
+        känd. Den gäller bara suffix-uppslaget: ``Grundläggande kurs 1`` är
+        entydigt i arkivet (``Franska: Grundläggande kurs I``) men en *rysk*
+        kursplan som nämner frasen menar sin egen ryska kurs, inte den
+        franska. Utan ämneskod (utbildningsplanernas kurslistor) tillåts
+        suffix-träffen som förut."""
         agg = _aggressive(name)
         code = self.by_name.get(agg)
         if not code:
             # Programtexten utelämnar ofta kursplanens ämnes-prefix.
-            code = self.by_suffix.get(agg)
+            cand = self.by_suffix.get(agg)
+            if cand and subject:
+                cand_subj = self.by_code.get(cand, {}).get("amneskod", "")
+                if cand_subj.upper() != subject.upper():
+                    cand = None
+            code = cand
         if not code:
             # Sista utväg — kolla mot kolon-prefix (programmets bullets bär
             # ibland en undertitel som kursplanens namn saknar).
@@ -473,7 +490,6 @@ _PLACEHOLDER_BULLET_RE = re.compile(
 _KANDIDAT_MATCHNINGAR_RAW: dict[str, str] = {
     # ── IIT ──────────────────────────────────────────────────────────────────
     "Logik och matematik":                    "Logik och matematik för datavetenskap",
-    "Datakommunikation I":                    "Datakommunikation 1",
     "Data Storage & Management Technologies": "Data Storage and Management Technologies",
     "Finita elementmetoden i praktiken":      "Finita element metoden i praktiken",
     "Finita elementmetoden":                  "Finita element metoden i praktiken",
@@ -937,7 +953,7 @@ def check_nedlagda_prereqs_kurs(files: list[Path]) -> list[dict]:
                 # den aktiva versionen som åsyftas.
                 if _aggressive(cand) in active_titles:
                     break
-                hit = index.lookup_name(cand)
+                hit = index.lookup_name(cand, subject=path.parent.name)
                 if not hit or hit["code"] in seen_codes:
                     continue
                 seen_codes.add(hit["code"])

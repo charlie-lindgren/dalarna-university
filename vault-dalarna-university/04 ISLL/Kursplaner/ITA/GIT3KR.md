@@ -15,6 +15,15 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT3KR
 up: "[[Italienska]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Fonetik och muntlig språkfärdighet` → `IT1030` (nedlagd 2023-12-21); förkunskap nämner nedlagd kurs |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Grammatik och skriftlig språkfärdighet` → `IT1031` (nedlagd 2023-12-21); förkunskap nämner nedlagd kurs |
+<!-- analys:end -->
+
 # GIT3KR
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT3KR)

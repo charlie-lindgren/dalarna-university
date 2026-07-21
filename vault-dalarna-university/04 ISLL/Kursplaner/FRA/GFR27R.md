@@ -16,13 +16,14 @@ up: "[[Franska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på modul 2. Betygsrapportering: Modul 1: Mun… |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras fortlöpande genom aktivt deltagande i seminarier, muntliga redovisningar, skriftliga inlämningsuppgift… |
 > | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Franskspråkig litteratur I` → `FR1029` (nedlagd 2019-06-04); förkunskap nämner nedlagd kurs |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Kultur och samhälle I` → `GFR2AC` (nedlagd 2025-10-28); förkunskap nämner nedlagd kurs |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen syftar till att studenten vidareutvecklar sina kunskaper om fransk litteratur och fördjupar förmågan till litterä… |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GFR27C och FR1094.… |
 <!-- analys:end -->

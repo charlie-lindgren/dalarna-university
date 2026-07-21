@@ -17,7 +17,7 @@ up: "IKS"
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Sociala relationer, konflikter och makt för ämneslärare årskurs 7–9 - AIL` (7,5 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Utvärdering och utvecklingsarbete för ämneslärare årskurs 7–9 – AIL` (7,5 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Verksamhetsförlagd utbildning 3 för ämneslärare årskurs 7–9 - AIL` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Vetenskapsteori och utbildningsvetenskaplig forskning för ämneslärare årskurs 7–9 - AIL` (7,5 hp) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Vetenskapsteori och utbildningsvetenskaplig forskning för ämneslärare årskurs 7–9 - AIL` (7,5 hp) — sannolikt avses `Vetenskapsteori och utbildningsvetenskaplig forskning för ämneslärare` (kurskod `APG24E`) |
 > | Programkurser olänkade | Programtext avviker från kursplanens namn | `_Examensarbete i matematik för ämneslärarexamen inriktning grundskolans årskurs 7–9` (15 hp) — sannolikt avses `Examensarbete i matematik för ämneslärarexamen inriktning grundskolans årskurs 7-9` (kurskod `AMD239`) |
 <!-- analys:end -->
 

@@ -669,7 +669,9 @@ def check_forkunskap_okand_kurs(files: list[Path]) -> list[dict]:
                 if title in reported:
                     continue
                 # Bekräftat nedlagd → låt den hårda checken hantera fyndet.
-                if nedlagda_index is not None and nedlagda_index.lookup_name(title):
+                if nedlagda_index is not None and nedlagda_index.lookup_name(
+                    title, subject=subject(p)
+                ):
                     continue
                 reported.add(title)
                 findings.append({

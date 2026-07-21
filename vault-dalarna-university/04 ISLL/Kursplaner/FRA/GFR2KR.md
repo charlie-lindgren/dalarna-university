@@ -16,7 +16,7 @@ up: "[[Franska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 9 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -24,6 +24,8 @@ up: "[[Franska]]"
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom författande av ett vetenskapligt examensarbete, försvarande av texten samt opponering av en anna… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Franskspråkig litteratur II` → `FR1072` (nedlagd 2019-06-04); förkunskap nämner nedlagd kurs |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Introduktion till lingvistik` → `FR1089` (nedlagd 2019-06-04); förkunskap nämner nedlagd kurs |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Kultur och samhälle II` → `GFR27P` (nedlagd 2025-10-28); förkunskap nämner nedlagd kurs |
 > | Omfång på lärandemål | Långt mål | 26 ord: - samla in relevant språkvetenskapligt eller litterärt material på franska för e… |
 > | Omfång på lärandemål | Långt mål | 30 ord: - författa ett skriftligt teoretiskt arbete, på god franska där studenten använd… |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GFR2AS.… |

@@ -15,11 +15,12 @@ up: "[[Tyska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Tyska` → `TYC001` (nedlagd 2008-09-18); förkunskap nämner nedlagd kurs |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Tysk grammatik` → `GTY2GM` (nedlagd 2025-10-06); förkunskap nämner nedlagd kurs |
 <!-- analys:end -->
 
 # GTY3J6

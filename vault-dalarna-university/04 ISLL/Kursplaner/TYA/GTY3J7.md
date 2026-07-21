@@ -19,7 +19,7 @@ up: "[[Tyska]]"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Tyska` → `TYC001` (nedlagd 2008-09-18); förkunskap nämner nedlagd kurs |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Muntlig språkfärdighet med fonetik och kulturkunskap I` → `TY1072` (nedlagd 2025-10-06); förkunskap nämner nedlagd kurs |
 <!-- analys:end -->
 
 # GTY3J7

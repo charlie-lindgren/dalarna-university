@@ -16,7 +16,7 @@ up: "[[Franska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -24,6 +24,7 @@ up: "[[Franska]]"
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Fortlöpande examination sker genom bedömning av aktivt deltagande i seminarier samt skriftliga inlämningsuppgifter. Kurs… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Franskspråkig litteratur I` → `FR1029` (nedlagd 2019-06-04); förkunskap nämner nedlagd kurs |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Kultur och samhälle I` → `GFR2AC` (nedlagd 2025-10-28); förkunskap nämner nedlagd kurs |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GFR26T, GFR249 och GFR248.… |
 <!-- analys:end -->
 

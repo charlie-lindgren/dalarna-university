@@ -10,7 +10,7 @@ up: "IKS"
 ---
 
 <!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+> [!warning]- 5 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -18,7 +18,6 @@ up: "IKS"
 > | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Kvalitativa forskningsmetoder` → `SB3002` (nedlagd 2013-01-15) — plain-text-referens |
 > | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Projektarbete` → `BTA009` (nedlagd 2008-05-22) — plain-text-referens |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Festival och Event Management` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Turismstudier utomlands` (30 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Kvantitativa forskningsmetoder` (7,5 hp) |
 <!-- analys:end -->
 

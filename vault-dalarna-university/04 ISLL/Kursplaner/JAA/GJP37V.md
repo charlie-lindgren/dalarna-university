@@ -15,11 +15,12 @@ up: "[[Japanska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska den studerande kunna:… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Översättningens praktik` → `AJP27X` (nedlagd 2025-09-26); förkunskap nämner nedlagd kurs |
 <!-- analys:end -->
 
 # GJP37V

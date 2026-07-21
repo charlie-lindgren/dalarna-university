@@ -14,10 +14,10 @@ up: "IKS"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Audioteknologi I` → `GLP2JZ` (nedlagd 2026-06-25) — plain-text-referens |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Audioteknologi II` → `LP1080` (nedlagd 2026-06-25) — plain-text-referens |
 > | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Ljudteori` → `GLP2FP` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
 > | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Inspelning i studio` → `GLP2QU` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Audioteknologi I` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Audioteknologi II` (7,5 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Introduktion till Musik- och ljuddesign` (7,5 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Ljudskapande och ljudsyntes` (7,5 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Vår tids musik och musikliv` (7,5 hp) |

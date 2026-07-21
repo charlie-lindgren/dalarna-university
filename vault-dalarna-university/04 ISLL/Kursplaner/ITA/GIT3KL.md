@@ -16,10 +16,11 @@ up: "[[Italienska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Nybörjarkurs II` → `IT1018` (nedlagd 2019-06-04); förkunskap nämner nedlagd kurs |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att studenten tillägnar sig kunskaper om barn- och ungdomsskildringar i italiensk skönlitter… |
 <!-- analys:end -->
 

@@ -14,8 +14,8 @@ up: "ISLL"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Programkurser olänkade | Kursraden ser avbruten/feltrycklig ut | `Sociala relationer, konflikter och makt i grundskolan åk 4–6,` (15 hp) |
 > | Programkurser olänkade | Programtext avviker från kursplanens namn | `Didaktik och ledarskap i grundskolans åk 4–6` (15 hp) — sannolikt avses `Didaktik och ledarskap i grundskolans årskurs 4-6 (inkl 7,5 hp VFU)` (kurskod `GPG3CJ`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Sociala relationer, konflikter och makt i grundskolan åk 4–6,` (15 hp) — sannolikt avses `Sociala relationer, konflikter och makt i grundskolan åk 4-6 (varav 7,5 hp VFU)` (kurskod `GPG2LZ`) |
 > | Programkurser olänkade | Programtext avviker från kursplanens namn | `Examensarbete för grundlärarexamen inriktning 4–6 – del 1` (15 hp) — sannolikt avses `Examensarbete för grundlärarexamen inriktning 4-6 del 1` (kurskod `GPG2E7`) |
 > | Programkurser olänkade | Programtext avviker från kursplanens namn | `Examensarbete för grundlärarexamen inriktning 4–6 – del 2` (15 hp) — sannolikt avses `Examensarbete för grundlärarexamen inriktning 4-6 del 2` (kurskod `APG247`) |
 > | Programkurser olänkade | Programtext avviker från kursplanens namn | `Utvärdering och utvecklingsarbete i grundskolans åk 4–6` (15 hp) — sannolikt avses `Utvärdering och utvecklingsarbete i grundskolans åk 4-6, (varav 7,5 hp VFU)` (kurskod `APG276`) |

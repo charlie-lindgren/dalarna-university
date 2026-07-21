@@ -16,13 +16,14 @@ up: "[[Italienska]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på modul 2 och 3. Betygsrapportering: Modul … |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras fortlöpande genom bedömning av aktivt deltagande under seminarier, muntliga redovisningar, skriftliga … |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten på italienska kunna:… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Nybörjarkurs II` → `IT1018` (nedlagd 2019-06-04); förkunskap nämner nedlagd kurs |
 > | Omfång på lärandemål | För få mål | 2 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Undervisningen är nätbaserad och sker med stöd av en lärplattform och digitala verktyg. Det kräver att studenten har til… |
 <!-- analys:end -->

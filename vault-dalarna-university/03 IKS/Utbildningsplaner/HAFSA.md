@@ -14,13 +14,13 @@ up: "IKS"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Södra Afrikas moderna historia` → `HI3013` (nedlagd 2017-10-31) — plain-text-referens |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Magisterexamensarbete i Afrikanska studier` (15 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Bistånd och utveckling i Afrika söder om Sahara` (7 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Egypten och medierna` (7 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Egyptisk–sudanesiska relationer: Vattenresursernas geopolitik` (7 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Den nordafrikanska novellen` (7 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Språk och nationalitet i afrikanska flerspråkliga länder` (7 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Södra Afrikas moderna historia` (7 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Afrikas horn` (7 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Fred och konflikt i Afrika: Internationell institutionell lag` (7 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Västafrika sedan 1800-talet` (7 hp) |

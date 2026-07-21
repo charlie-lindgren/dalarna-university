@@ -8,15 +8,14 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Förkunskapskrav.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (10 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Förkunskapskrav.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (9 rader)</span></a>
 
-> [!example]- 10 fynd — klicka för att expandera
+> [!example]- 9 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj | Förslag |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [GIH37R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37R) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH37R">sida</a> | IDA | 2023-12-05 | — | Refererar troligen nedlagd kurs | Refererad kurs hittas ej i vaulten (troligen nedlagd): 'Idrott och hälsa 1 med didaktisk inriktning' | — |
 > | [GIH37R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37R) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH37R">sida</a> | IDA | 2023-12-05 | — | Refererar bekräftat nedlagd kurs | `Idrott` | `IDB009` (nedlagd 2005-08-01); förkunskap nämner nedlagd kurs |
-> | [IH2001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH2001) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/IH2001">sida</a> | IDA | 2011-01-26 | — | Refererar troligen nedlagd kurs | Refererad kurs hittas ej i vaulten (troligen nedlagd): 'Idrott 2' | — |
 > | [GSA2AF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2AF) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA2AF">sida</a> | SAA | 2019-08-29 | 2023-09-13 | Refererar bekräftat nedlagd kurs | `Organisation` | `FEB021` (nedlagd 2008-03-18); förkunskap nämner nedlagd kurs |
 > | [GSA2BV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2BV) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA2BV">sida</a> | SAA | 2019-10-29 | 2023-01-19 | Refererar bekräftat nedlagd kurs | `Organisation` | `FEB021` (nedlagd 2008-03-18); förkunskap nämner nedlagd kurs |
 > | [GSA2E4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2E4) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA2E4">sida</a> | SAA | 2020-02-13 | — | Refererar bekräftat nedlagd kurs | `Organisation` | `FEB021` (nedlagd 2008-03-18); förkunskap nämner nedlagd kurs |
