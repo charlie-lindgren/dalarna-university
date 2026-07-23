@@ -36,12 +36,12 @@ Sektionen *Programmets kurser* i en utbildningsplan listar de kurser som ingår 
 
 ## Metod
 
-`qa/check_utbildningsplaner.py` parsar varje utbildningsplans `## 3. Programmets kurser`-sektion och plockar ut kursbullets i tre former: `[[CODE|Namn]]`-wikilänk, `<a class="no-graph" href="CODE">…</a>` (korsinstitutionell länk) och oklassad text (kursnamn utan kursplankodsmatchning). Varje träff slås upp mot QA-cachen i `qa/nedlagda-kursplaner/` — antingen via kurskod (för länkar) eller via namnnormalisering (för plain-text-bullets). En träff betyder att den listade kursen har `status=discontinued` på du.se och därför inte längre kan läsas.
+Varje utbildningsplans kurslista (sektionen *Programmets kurser*) gås igenom kurs för kurs. Varje kurs — oavsett om den anges som länk eller som ren text — slås upp mot förteckningen över kurser som du.se har markerat som nedlagda. En träff betyder att kursen inte längre kan läsas men fortfarande listas i programmet.
 
 ## Datakälla
 
-- Samtliga utbildningsplaner i `0X {INST}/Utbildningsplaner/`.
-- QA-cache av nedlagda kursplaner: `qa/nedlagda-kursplaner/` (skrapas via menyval 7 i `hda.sh`).
+- Samtliga utbildningsplaner vid Högskolan Dalarna.
+- Förteckningen över nedlagda kurser på du.se.
 
 ## Rekommendationer
 

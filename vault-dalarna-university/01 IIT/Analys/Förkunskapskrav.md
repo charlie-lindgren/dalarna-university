@@ -42,25 +42,25 @@ status: första pass
 
 ## Syfte
 
-Sektionen *Förkunskapskrav* (på du.se ibland rubricerad *Behörighet* — orden behandlas som synonymer i analysen) beskriver vilka tidigare studier eller motsvarande meriter som krävs för antagning till kursen. Den är central både för antagningsbeslut och för studenter som planerar sin studiegång — saknas eller är ofullständig sektion leder det till otydlighet och ojämn praxis mellan ämnen. Syftet med analysen är att kartlägga **var sektionen saknas helt, var den endast finns på engelska, samt var förkunskapsformuleringen refererar nedlagda kurser** — dels troligt nedlagda (kursnamn saknas i nuvarande katalog) och dels bekräftat nedlagda (kursen finns i QA-cachen av nedlagda kursplaner).
+Sektionen *Förkunskapskrav* (på du.se ibland rubricerad *Behörighet* — orden behandlas som synonymer i analysen) beskriver vilka tidigare studier eller motsvarande meriter som krävs för antagning till kursen. Den är central både för antagningsbeslut och för studenter som planerar sin studiegång — saknas eller är ofullständig sektion leder det till otydlighet och ojämn praxis mellan ämnen. Syftet med analysen är att kartlägga **var sektionen saknas helt, var den endast finns på engelska, samt var förkunskapsformuleringen refererar nedlagda kurser** — dels troligt nedlagda (kursnamn saknas i nuvarande katalog) och dels bekräftat nedlagda (kursen är registrerad som nedlagd på du.se).
 
 ## Metod
 
-Den svenska sektionen läses oavsett om källsidan rubricerar den *Förkunskapskrav* eller *Behörighet* — scrapern (`scripts/scrape_hda_kursplaner.py`) normaliserar bägge rubrikvarianter till `## Förkunskapskrav` i de lokala kursplansfilerna. Den engelska motsvarigheten är `### Prerequisites` (eller alternativa rubriker som *Entry Requirements* / *Admission Requirements*) under `## English Version`. Fyra mönster flaggas:
+Den svenska sektionen läses oavsett om källsidan på du.se rubricerar den *Förkunskapskrav* eller *Behörighet* — orden behandlas som samma sektion. Den engelska motsvarigheten är *Prerequisites* (ibland *Entry Requirements* eller *Admission Requirements*) under kursplanens engelska version. Fyra mönster flaggas:
 
 1. **Sektion saknas** — varken svensk eller engelsk variant finns i kursplanen.
 2. **Endast engelsk variant** — `### Prerequisites` har innehåll men `## Förkunskapskrav` saknas eller är tom. Detta är typiskt tecken på en lucka i den svenska källsidan på du.se.
 3. **Refererar troligen nedlagd kurs** — bulletten nämner en specifik kurs (mönstret *"kursen X, N hp"* eller bulletten börjar med *"X, N hp"*) men kursnamnet X finns inte bland HDa:s nuvarande kursplaner (aktiva eller vilande). Sannolik indikation på att förkunskapsformuleringen är inaktuell och behöver revideras till nuvarande kursnamn. Endast bullets som nämner ``hp`` granskas — gymnasiekurser som *Engelska 6* eller *Matematik 2b* saknar hp och hoppas över per design.
-4. **Refererar bekräftat nedlagd kurs** — namnet matchar en post i QA-cachen `qa/nedlagda-kursplaner/`, dvs. en kursplan som du.se markerat som `status=discontinued`. Detta är ett auktoritativt signal: kursen finns kvar i Dalarnas historiska katalog men erbjuds inte längre, och referensen i förkunskapskravet pekar därför mot en kurs studenten inte kan läsa. Aktivt vault-namn ges företräde om både aktiv och nedlagd version delar namn — den nedlagda flaggas bara om ingen aktiv kurs heter samma sak.
+4. **Refererar bekräftat nedlagd kurs** — namnet matchar en kurs som du.se har markerat som nedlagd. Detta är en säker signal: kursen finns kvar i Dalarnas historiska katalog men erbjuds inte längre, och referensen i förkunskapskravet pekar därför mot en kurs studenten inte kan läsa. Om både en aktiv och en nedlagd kurs har samma namn ges den aktiva företräde — den nedlagda flaggas bara om ingen aktiv kurs heter samma sak.
 
 ## Datakälla
 
 - Samtliga kursplaner från du.se vid Högskolan Dalarna.
-- Svensk sektion `## Förkunskapskrav` (normaliserad från du.se-rubriken *Behörighet* när så förekommer) och engelsk subsektion `### Prerequisites` (motsvarande normalisering på engelska).
-- QA-cache av nedlagda kursplaner: `qa/nedlagda-kursplaner/` (skrapas via menyval 7 i `hda.sh`).
+- Svensk sektion *Förkunskapskrav* (även när du.se rubricerar den *Behörighet*) och engelsk motsvarighet *Prerequisites*.
+- Förteckningen över nedlagda kurser på du.se.
 
 ## Rekommendationer
 
 1. **Fyll i saknade svenska sektioner** — särskilt prioriterat när engelsk variant redan finns, eftersom innehållet då bara behöver översättas tillbaka.
-2. **Uppdatera inaktuella kursreferenser** — när en bullet refererar en kurs som inte längre finns i HDa-katalogen, byt till kursens nuvarande namn eller den ersättande kursen. Kontrollera samtidigt om kraven fortfarande är pedagogiskt relevanta för dagens upplägg. Bekräftat nedlagda referenser (där QA-cachen ger kurskod + nedlagd-datum) prioriteras före troligen-nedlagda — de förra är auktoritativa, de senare bygger på saknad i vaulten.
+2. **Uppdatera inaktuella kursreferenser** — när en förkunskapsrad refererar en kurs som inte längre finns i Dalarnas katalog, byt till kursens nuvarande namn eller den ersättande kursen. Kontrollera samtidigt om kraven fortfarande är pedagogiskt relevanta för dagens upplägg. Bekräftat nedlagda referenser (kursen är registrerad som nedlagd på du.se, med kurskod och datum) prioriteras före troligen-nedlagda — de förra är säkra, de senare bygger på att kursnamnet inte längre går att hitta i katalogen.
 3. **Lyft frågan i berörda kvalitetsutskott** — bör institutionerna ha gemensamma minimikrav på hur förkunskapskrav formuleras (t.ex. alltid med hp + ämne, eller alltid med exempel på godkänd förkunskap)?

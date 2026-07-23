@@ -651,4 +651,4 @@ Listan ska användas som diskussionsunderlag. Slutbedömningen kräver att en gr
 
 1. **Granska varje flaggad kursplan** med båda språkversionerna parallellt.
 2. **Synkronisera punkterna** vid nästa revision om innehållet faktiskt är detsamma.
-3. **Om sak-innehållet skiljer sig:** välj en kanonisk version och uppdatera den andra. Dokumentera vilken version som var ledande.
+3. **Om sak-innehållet skiljer sig:** välj en version som ska gälla och uppdatera den andra. Dokumentera vilken version som var ledande.

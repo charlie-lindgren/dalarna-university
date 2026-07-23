@@ -308,7 +308,7 @@ Sektionen `## Övrigt` extraheras från den svenska sidan. Två mönster flaggas
 1. **Sektion saknas** — ingen `## Övrigt` finns i kursplanen.
 2. **Saknar standardfras om pedagogiskt stöd** — sektionen finns men innehåller inte ankarfrasen *"pedagogiskt stöd från Högskolan Dalarna"*. Den fullständiga standardfrasen lyder ungefär: *"Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Högskolan Dalarna på grund av funktionsnedsättning, har examinator rätt att anpassa examinationen. Examinator avgör utifrån kursplanens mål om examinationen kan anpassas i enlighet med beslutet/rekommendationen."*
 
-Analysen flaggar både kursplaner där frasen helt saknas och kursplaner med avvikande formuleringar — eventuella legitima varianter (t.ex. nyare formuleringar antagna av institutionen) bör i så fall normaliseras gemensamt över alla institutioner.
+Analysen flaggar både kursplaner där frasen helt saknas och kursplaner med avvikande formuleringar — eventuella legitima varianter (t.ex. nyare formuleringar antagna av institutionen) bör i så fall harmoniseras gemensamt över alla institutioner.
 
 ## Datakälla
 

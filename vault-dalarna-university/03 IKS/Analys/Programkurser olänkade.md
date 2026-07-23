@@ -6,12 +6,6 @@ status: första pass
 
 # Programkurser olänkade
 
-## Bakgrund
-
-Utbildningsplanens `## 3. Programmets kurser`-sektion ska helst lista varje kurs som en wikilänk till motsvarande kursplansfil (`[[KOD|Namn]], hp`). Analysen flaggar två typer av problem: **olänkade bullets** (där länken saknas helt) och **länkade bullets där programtexten avviker från kursplanens kanoniska namn** (vår skrapa hittar fortfarande rätt kurs via normalisering, men texten bör samordnas).
-
-Tabellen delar upp fyndet i två kolumner: **Detalj** är kursnamnet så som utbildningsplanen skriver det, **Förslag** är den kurs vi bedömer att raden syftar på (med kurskod). Rader med `—` i Förslag saknar ännu en kandidat — antingen för att kursen verkligen inte finns i HDa:s katalog, eller för att programtexten är för tvetydig för att peka ut en enskild kurs. Förslagen kommer från en handkurerad mappning i [qa/checks_nedlagda.py](../../qa/checks_nedlagda.py) (`_KANDIDAT_MATCHNINGAR_RAW`) och kan fyllas på efter hand.
-
 ## Problematiska utbildningsplaner
 
 <a class="download-xlsx" href="03-IKS/Analys/Programkurser-olänkade.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (84 rader)</span></a>
@@ -107,38 +101,38 @@ Tabellen delar upp fyndet i två kolumner: **Detalj** är kursnamnet så som utb
 
 ## Syfte
 
-Att skilja **kvalitetsproblem på programsidan** (okända kursnamn, trunkerade rader) från **brister i vår skrapa** (aktiv kurs hittades inte och länkades inte) samt från **legitima alternativbullets** (val mellan flera kurser) — så att rätt åtgärd kan vidtas.
+En utbildningsplans kurslista (sektionen *Programmets kurser*) bör namnge varje kurs exakt som den heter i kursplanen och länka till den, så att listan går att lita på och navigera. Analysen flaggar två slags avvikelser: kurser vars namn i programtexten inte går att koppla ihop med någon kursplan, och kurser där programtexten syftar på rätt kurs men skriver namnet annorlunda än kursplanens officiella namn. Syftet är att skilja verkliga innehållsfel i utbildningsplanen från rena namnvarianter, så att rätt åtgärd kan vidtas.
+
+Tabellens kolumn **Detalj** visar kursnamnet så som utbildningsplanen skriver det, och **Förslag** den kurs vi bedömer att raden syftar på (med kurskod). Ett `—` i Förslag betyder att ingen kandidat kunnat pekas ut — antingen för att kursen inte finns i Dalarnas katalog, eller för att programtexten är för tvetydig för att peka ut en enskild kurs.
 
 ## Metod
 
-`qa/check_utbildningsplaner.py` parsar varje utbildningsplans `## 3. Programmets kurser`-sektion och plockar ut alla kursbullets via `scan_programme_bullets` i [qa/checks_nedlagda.py](../../qa/checks_nedlagda.py). För varje bullet som saknar wikilänk eller no-graph-anchor klassas namnet enligt:
+Varje utbildningsplans kurslista (sektionen *Programmets kurser*) gås igenom kurs för kurs. Rader som antingen saknar länk till sin kursplan eller vars programtext skiljer sig från kursplanens officiella namn klassas:
 
 | Kategori | Indikator |
 |----------|-----------|
-| **Okänd kursreferens i program** | Namnet matchar varken aktiv kursplan eller nedlagda-arkivet |
-| **Aktiv kurs olänkad (scraper-miss)** | Namnet matchar en aktiv kursplan i vaulten (vår skrapa borde ha länkat) |
-| **Alternativ-bullet (val mellan kurser)** | Innehåller `eller`, `alternativt`, `valbar` eller ` / ` |
-| **Trunkerad kursrad** | Oavslutad parentes eller hängande `eller`/`och`/`,` på radslutet |
-| **Programtext skiljer från kursnamn** | Bulleten *är* länkad men alias-texten skiljer sig från kursplanens `kursnamn:` (t.ex. `System- och verksamhetsutveckling` vs `System och verksamhetsutveckling`) |
+| **Okänd kursreferens i program** | Namnet matchar varken en aktiv kursplan eller arkivet över nedlagda kurser |
+| **Alternativ-rad (val mellan kurser)** | Raden erbjuder ett val — innehåller *eller*, *alternativt* eller *valbar* |
+| **Trunkerad kursrad** | Oavslutad parentes eller ett hängande *eller*/*och*/*,* i radslutet |
+| **Programtext skiljer från kursnamn** | Kursen är länkad, men programtextens namn skiljer sig från kursplanens officiella (t.ex. *System- och verksamhetsutveckling* vs *System och verksamhetsutveckling*) |
 
-Träffar mot **nedlagda kursplaner** rapporteras separat i [[Nedlagda kursreferenser]] och dyker inte upp här.
+Kurser som matchar en **nedlagd kursplan** rapporteras separat i [[Nedlagda kursreferenser]] och tas inte upp här.
 
 ## Datakälla
 
-- Samtliga utbildningsplaner i `0X {INST}/Utbildningsplaner/`.
-- Aktiva titlar och kurskoder från vaultens `Kursplaner/`-träd.
-- QA-cache av nedlagda kursplaner: `qa/nedlagda-kursplaner/`.
+- Samtliga utbildningsplaner vid Högskolan Dalarna.
+- Aktiva kursnamn och kurskoder från kursplanerna.
+- Förteckningen över nedlagda kurser på du.se.
 
 ## Rekommendationer
 
-1. **Okänd kursreferens i program** är ett innehållsfel i utbildningsplanen — kursnamnet stämmer inte mot HDa:s katalog. Möjliga orsaker: stavfel, kursen aldrig publicerad på du.se, eller felaktig benämning. Lyft till programansvarig.
-2. **Aktiv kurs olänkad** är ett scraper-fel hos oss; raden ska komma in som en wikilänk vid nästa skrapning. Granska `scripts/scrape_hda_utbildningsplaner.py` om kategorin växer.
-3. **Alternativ-bullet** är legitim — programmet låter studenten välja mellan kurser. Ingen åtgärd om bullet är välformulerad.
-4. **Trunkerad kursrad** är typiskt en parsefel — antingen i scrapern eller i den ursprungliga du.se-texten. Granska den rapporterade raden.
-5. **Programtext skiljer från kursnamn** kräver att programansvarig uppdaterar kurslistan i utbildningsplanen så att texten matchar kursplanens officiella namn. Vanligaste orsaken är svensk ellipsis (`X- och Y` istället för `X och Y`).
-6. **Förslagskolumnen är ett underlag, inte ett beslut.** Kontrollera kurskoden mot du.se innan programtexten rättas — särskilt när flera kurser delar snarlika namn (t.ex. `… åk 7-9` vs `… gymnasieskolan`). Programspecifika fall ligger i `_KANDIDAT_MATCHNINGAR_PROG_RAW`, nycklade på (programkod, text), just för att samma rad kan betyda olika kurser i olika program.
-7. **Rader utan förslag är oftast inte namnfel.** Tre återkommande orsaker, som alla kräver dialog med programansvarig snarare än en texträttning:
+1. **Okänd kursreferens i program** är ett innehållsfel i utbildningsplanen — kursnamnet stämmer inte mot Dalarnas katalog. Möjliga orsaker: stavfel, kursen aldrig publicerad på du.se, eller felaktig benämning. Lyft till programansvarig.
+2. **Alternativ-rad** är legitim — programmet låter studenten välja mellan kurser. Ingen åtgärd behövs om raden är välformulerad.
+3. **Trunkerad kursrad** är oftast en avbruten mening i den ursprungliga programtexten. Granska den rapporterade raden mot du.se.
+4. **Programtext skiljer från kursnamn** kräver att programansvarig uppdaterar kurslistan i utbildningsplanen så att texten matchar kursplanens officiella namn. Vanligaste orsaken är att programtexten drar ihop två namn (*X- och Y* istället för *X och Y*).
+5. **Förslagskolumnen är ett underlag, inte ett beslut.** Kontrollera kurskoden mot du.se innan programtexten rättas — särskilt när flera kurser delar snarlika namn (t.ex. *… åk 7–9* vs *… gymnasieskolan*).
+6. **Rader utan förslag är oftast inte namnfel.** Tre återkommande orsaker, som alla kräver dialog med programansvarig snarare än en texträttning:
     - *Kursplanen är ännu inte fastställd* — nya program hinner före sina kurser. SPARG (fastställd 2025-04-16) har hela år 1 länkat och år 2–3 helt olänkat.
-    - *Kursen publicerades aldrig som egen kursplan* — temakurserna i HAFSA och kurserna i KMLJG finns varken aktivt eller i nedlagda-arkivet.
+    - *Kursen publicerades aldrig som egen kursplan* — temakurserna i HAFSA och kurserna i KMLJG finns varken aktivt eller bland de nedlagda kurserna.
     - *Raden är en delkurs, inte en kurs* — SSHVG:s sociologirader är innehåll i 30 hp-kurserna [[GSO2XU]] och [[GSO2XV]], inte egna kursplaner.
-8. **Rena rubrikrader filtreras bort.** Rader som `Inriktning sociologi II, 30 hp` namnger ett block vars ingående kurser listas som egna bullets under det; de ligger i `_BULLET_EXKLUDERAD` och rapporteras inte alls.
+7. **Rena rubrikrader tas inte upp.** Rader som *Inriktning sociologi II, 30 hp* namnger ett block vars ingående kurser listas som egna rader under det, och rapporteras därför inte.
