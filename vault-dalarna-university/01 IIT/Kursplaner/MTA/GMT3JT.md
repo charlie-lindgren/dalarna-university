@@ -10,7 +10,7 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: e4729e96ceedabb1
+scrape_hash: f7743521d70d10a5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JT
 up: "[[Maskinteknik]]"
 ---
@@ -81,17 +81,17 @@ On completion of the course, students will be able to:
 
   - apply the EU Medical Device Regulation to assistive products
 
-  - account for clinical investigations of assistive products in accordance with the EU Medical Device Regulation
+  - account for clinical investigations of assistive products and technical medical products in accordance with the EU Medical Device Regulation
 
   - plan, conduct, and document clinical evaluations of assistive products in accordance with the EU Medical Device Regulation
 
 ### Course Content
 
-The course addresses regulations, laws, directives, and standards for assistive products. In addition, the application of regulatory frameworks is practiced, with an emphasis on the conduct of clinical evaluations.
+The course addresses regulations, laws, directives, and standards for assistive products. In addition, applications of the regulatory frameworks are practised, with an emphasis on the implementation of clinical evaluations.
 
 ### Assessment
 
-- Written exam with individual assessment
+- Written invigilated exam with individual assessment
 
   - Oral exam with individual assessment
 

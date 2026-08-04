@@ -10,10 +10,19 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 7a834a0170a4a75f
+scrape_hash: 9fa4e367c2820de6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JR
 up: "[[Maskinteknik]]"
 ---
+
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Stavfel och språkbruk | Felstavning (en) | `mechanicsthe` (en) |
+> | Stavfel och språkbruk | Felstavning (en) | `vapours` (en) |
+<!-- analys:end -->
 
 # GMT3JR
 
@@ -83,29 +92,29 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 Upon completion of the course, the student shall be able to:
 
-  - explain the basic laws and concepts of thermodynamics,
+  - explain the basic laws and concepts of thermodynamics
 
-  - formulate and solve thermodynamic problems for simple real material and processes,
+  - formulate and solve thermodynamic problems for standard materials and processes
 
-  - explain transport of heat through convection, conduction and radiation as well as be able to perform calculations for each,
+  - explain the phenomenon of the transport of heat through conduction, convection, and radiation, as well as be able to perform calculations for each
 
-  - apply theories and models from thermodynamics and fluid dynamics in a laboratory and reflect over their validity and restrictions,
+  - apply theories and models from thermodynamics and fluid dynamics [MB3.1]in a laboratory and reflect on their validity and limitations
 
-  - describe the function of different components and their practical use, mainly heat exchangers, heat pumps and cooling devices,
+  - describe the function of different components and their practical use for heat exchangers, heat pumps, and cooling devices
 
-  - perform energy technology related calculations on systems as well as on relevant components, this includes the heat factor on heat pumps, the pressure differences in pipe systems and heat transfer through walls.
+  - perform thermodynamic and fluid mechanics calculations on both systems and individual components in the field of energy engineering.
 
 ### Course Content
 
-The course covers: the basic laws and concepts of thermodynamic, state variables, first and second laws of thermodynamics, forms of energy and energy transformation, energy balances, ideal gas law, ideal and real gases, enthalpy, heat capacity and heat transfer.  
-
-Also covered in the course is: equilibrium conditions and modeling of phases and phase transitions, vapor and steam technology, heat transfer and heat exchangers, heat pumps and cooling machines, basics of fluid dynamics, measurement of pressure and flow, as well as calculation of pressure drop.
+The course covers the basic laws and concepts of thermodynamics; state variables; the first and second laws of thermodynamics forms of energy and energy conversions; thermodynamic cycles; energy balances; the general gas law; ideal and real gases; the concept of enthalpy; heat capacity; and heat transfer.  
+  
+Also covered in the course are equilibrium conditions and modelling of phases and phase transitions; the thermodynamics of vapours and steam technology; heat transfer and heat exchangers; heat pumps and cooling systems; the fundamentals of fluid mechanicsthe measurement of pressure and flow; and pressure drop calculations.
 
 ### Assessment
 
 - Laboratory work
 
-  - Written examination
+  - On-campus written examination
 
 ### Grades
 

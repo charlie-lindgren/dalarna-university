@@ -1,7 +1,7 @@
 ---
 kurskod: GIE3JS
 kursnamn: "Examensarbete för kandidatexamen i Industriell ekonomi"
-course_name: "Thesis for Bachelor´s degree in Industrial Engineering and Management"
+course_name: "Thesis for Bachelor’s Degree in Industrial Engineering and Management"
 hp: 15 högskolepoäng
 niva: "Grundnivå"
 huvudomrade: "Industriell ekonomi 1"
@@ -9,17 +9,25 @@ amne: "Industriell ekonomi"
 amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
-scrape_hash: 4c4c0fd0c1a2131f
+scrape_hash: 3ccaa96ba0e83077
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3JS
 up: "[[Industriell ekonomi]]"
 ---
+
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Stavfel och språkbruk | Felstavning (en) | `understandingwithin` (en) |
+<!-- analys:end -->
 
 # GIE3JS
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3JS)
 
 **Kursnamn:** Examensarbete för kandidatexamen i Industriell ekonomi
-**Course Name:** Thesis for Bachelor´s degree in Industrial Engineering and Management
+**Course Name:** Thesis for Bachelor’s Degree in Industrial Engineering and Management
 
 - **Poäng:** 15 högskolepoäng
 - **Nivå:** Grundnivå
@@ -107,45 +115,45 @@ On completion of the course, students will be able to:
 
 Knowledge and understanding
 
-  - demonstrate in-depth knowledge within a chosen area of Industrial Engineering and Management, including the scientific foundation of the field, central theories, and current research
+  - demonstrate knowledge and understandingwithin a chosen area of Industrial Engineering and Management, including its scientific foundation, central theories, and current research
 
-  - identify relevant scientific methods and describe their application within Industrial Engineering and Management
+  - identify relevant scientific methods and describe their application within the field of Industrial Engineering and Management
 
 Skills and abilities
 
-  - independently identify, formulate, and justify a relevant and delimited research problem within Industrial Engineering and Management
+  - independently identify, formulate, and justify a relevant and defined research question in the field of Industrial Engineering and Management
 
   - plan and conduct a scientific study within given time frames
 
-  - justify the choice of theoretical framework and methodological approach in relation to the purpose of the study
+  - justify their choice of theoretical framework and methodological approach in relation to the purpose of the study
 
-  - analyse empirical material in relation to the research problem and theoretical points of departure
+  - analyse empirical material in relation to the research question and theoretical points of departure
 
   - draw well-founded conclusions and discuss the results of the study in relation to previous research
 
-  - present and defend the work orally and in writing in a clear and structured manner
+  - present and defend their work orally and in writing in a clear and structured manner
 
 Judgement and approach
 
-  - critically review and constructively discuss other degree projects
+  - critically review, constructively discuss and reflect on other degree projects
 
-  - demonstrate an independent, critical, and reflective approach in the conduct of the study and make assessments with regard to scientific, societal, and ethical aspects
+  - demonstrate an independent, critical, and reflective approach in the conduct of the study and make assessments about scientific, societal, and ethical aspects.
 
 ### Course Content
 
-In this course, the student shall independently identify and delimit a research problem within Industrial Engineering and Management, and plan and conduct a study based on scientific principles. The work shall be grounded in relevant theories, models, and methods within the field.
+In this course, students will independently identify and define a research question within the field of Industrial Engineering and Management, and plan and conduct a study based on scientific principles. Their work must be grounded in relevant theories, models, and methods within the subject.
 
-Through supervision and seminars, the student is given the opportunity to discuss the formulation of the research problem, theoretical points of departure, methodological choices, and data collection. The student shall search for, collect, evaluate, and analyse relevant information and relate the results to previous research in the field.
+Through supervision and seminars, students will be given the opportunity to discuss the formulation of the research question, theoretical points of departure, choice of method, and data collection. Students must search for, collect, evaluate, and analyse relevant information and relate the results to previous research in the field.
 
-The final degree project shall consist of a scientifically structured written report in which the analysis, conclusions, and limitations of the study are presented and discussed. The work shall also be presented and defended orally at a seminar, which includes serving as an opponent on another degree project.
+The final degree project must comprise a scientifically structured report in which the analysis, conclusions, and limitations of the study are presented and discussed. The work must also be presented and defended orally at a seminar, which includes serving as a peer reviewer of another degree project.
 
 ### Assessment
 
-- written degree project
+- Written degree project
 
-  - oral presentation
+  - Oral presentation
 
-  - opposition
+  - Peer review
 
 ### Grades
 

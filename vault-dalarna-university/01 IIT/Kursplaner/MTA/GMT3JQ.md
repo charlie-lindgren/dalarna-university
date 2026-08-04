@@ -10,7 +10,7 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 774a2471efdd8ba0
+scrape_hash: 3800f16db71eaeae
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JQ
 up: "[[Maskinteknik]]"
 ---
@@ -78,21 +78,21 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 On completion of the course, students will be able to:
 
-  - Describe the fundamental building blocks of a mechatronic system.
+  - describe the fundamental building blocks of a mechatronic system
 
-  - Provide examples of product requirements (beyond purely functional ones) that are typical and important for mechatronic systems, and summarize at an overall level how these requirements influence product development.
+  - provide examples of product requirements that are typical and important for mechatronic systems, and summarise at an overall level how these requirements affect product development
 
-  - Analyze a problem and propose a mechatronic solution, both in terms of mechanical design and control systems.
+  - analyse a problem and propose a mechatronic solution, in terms of both mechanical and technical control perspectives
 
-  - Based on a given functional problem formulation, assess whether a mechatronic solution is suitable from technical, sustainability, and ethical perspectives.
+  - assess, based on a given functional problem formulation, whether a mechatronic solution is suitable in terms of technical, ethical and sustainable aspects.
 
 ### Course Content
 
-The course addresses mechatronic systems and their role in modern product development and automation. It covers the mechanical, electrical, and control components that constitute a mechatronic system. Through both theoretical lectures and practical applications, the course illustrates how different technologies interact to create efficient and sustainable automation solutions.
+The course addresses mechatronic systems and their role in modern product development and automation. It covers the mechanical, electrical, and technical control components that constitute a mechatronic system. Through both theoretical lectures and practical applications, the course illustrates how different technologies interact to create efficient and sustainable automation solutions.
 
 ### Assessment
 
-- Written exam
+- Written supervised exam, with individual assessment
 
   - Laboratories
 

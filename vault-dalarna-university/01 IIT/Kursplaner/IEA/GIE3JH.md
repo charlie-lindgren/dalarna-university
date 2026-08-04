@@ -8,9 +8,8 @@ huvudomrade: "Industriell ekonomi 1"
 amne: "Industriell ekonomi"
 amne_kod: "IEA"
 institution: "IIT"
-tags: [kursplan, IEA, IIT, stray]
-
-scrape_hash: fbf22ff7f727c7b8
+tags: [kursplan, IEA, IIT]
+scrape_hash: 59d1a08595423a6b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3JH
 up: "[[Industriell ekonomi]]"
 ---
@@ -106,31 +105,31 @@ On completion of the course, students will be able to:
 
 Knowledge and understanding
 
-  - Describe the fundamental components of the strategy process, including strategic analysis, strategy formulation and strategic planning
+  - describe the fundamental components of the strategy process, including analysis, formulation and planning
 
-  - Compare key strategic methods and analyse their relevance and applicability in different contexts
+  - compare key strategic methods and analyse their relevance and applicability in different contexts
 
-  - Describe and explain strategic aspects of business ecosystems, circular business models and circular ecosystems
+  - describe and explain strategic aspects of business ecosystems, circular business models and circular ecosystems
 
 Skills and abilities
 
-  - Apply structured methods to formulate and address strategic problems
+  - apply structured methods to formulate and address strategic problems
 
-  - Integrate economic, societal and environmental dimensions into strategic problem-solving
+  - integrate economic, societal and environmental dimensions into strategic problem-solving
 
-  - Select and apply strategic methods to develop a strategy and an overarching implementation plan (roadmap)
+  - select and apply strategic methods to develop a strategy and an overarching implementation plan (roadmap)
 
 Judgement and approach
 
-  - Compare alternative strategic proposals and assess their suitability for a specific context
+  - compare alternative strategies and assess their suitability for a specific context
 
-  - Justify and critically discuss the choice of strategic methods based on contextual conditions
+  - argue for and against specific strategic methods based on context
 
-  - Identify and evaluate trade-offs between customer value, profitability, societal benefit and sustainability
+  - identify and evaluate goal conflicts between customer value, profitability, societal benefit and sustainability
 
 ### Course Content
 
-The course addresses strategy and strategic management with a focus on key concepts, theories and models for analysis and strategic decision-making. The content includes various strategic contexts such as business ecosystems, business models, circular economy and circular ecosystems, as well as stakeholder analysis as a tool for identifying and analysing relevant actors.
+The course addresses strategy and strategic management with a focus on key concepts, theories and models for analysis and strategic decision-making. The content includes various strategic contexts such as business ecosystems, business models, circular economy and circular ecosystems, as well as stakeholder analysis as a tool for identifying and analysing relevant stakeholders.
 
 Furthermore, the course covers the different stages of the strategy process and the use of strategic models and tools to address challenges in strategic work. The course also includes practical elements in strategy formulation and strategic planning in practice-oriented contexts.
 

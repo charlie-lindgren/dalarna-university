@@ -10,7 +10,7 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 7f8b0ecdab7ce20c
+scrape_hash: 77f549bafa29a864
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JY
 up: "[[Maskinteknik]]"
 ---
@@ -87,21 +87,21 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 On completion of the course, students will be able to:
 
-  - Describe key concepts in the field of production engineering, including the areas of machining and additive manufacturing.
+  - describe key concepts in the field of production engineering, including the areas of machining and additive manufacturing
 
-  - Describe different techniques and material properties for materials used in additive manufacturing.
+  - describe the techniques and material properties for materials used in additive manufacturing
 
-  - Analyze and determine when additive manufacturing is the most appropriate production process from a technical, economic, and sustainability perspective.
+  - analyse and determine when additive manufacturing is the most appropriate production process from a technical, economic, and sustainability perspective
 
-  - Explain the most important design requirements for developing products using additive manufacturing.
+  - explain the most important design requirements for developing products using additive manufacturing
 
-  - Describe commonly used tool materials within the field of machining.
+  - describe commonly used tool materials within the field of machining
 
-  - Prepare (plan) machining operations for the manufacture of a product.
+  - prepare (plan) machining operations for the manufacture of a product
 
-  - Explain how cutting data influence tool wear and how this wear affects cutting forces, chip formation, and surface finish (surface quality).
+  - explain how cutting data influences the wear of tools and how this wear affects cutting forces, chip formation, and surface finish (surface quality)
 
-  - Discuss and reflect on the choice of cutting parameters in order to achieve high economic efficiency and quality in machining operations.
+  - discuss and reflect on the choice of cutting parameters to achieve high economic efficiency and quality in the field of machining operations
 
 ### Course Content
 
@@ -111,7 +111,7 @@ In the machining section, different tool materials and their applications are co
 
 ### Assessment
 
-- Written exam
+- Written supervised exam with individual assessment
 
   - Laboratories
 

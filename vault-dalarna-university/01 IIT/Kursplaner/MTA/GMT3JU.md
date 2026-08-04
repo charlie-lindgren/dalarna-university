@@ -1,7 +1,7 @@
 ---
 kurskod: GMT3JU
 kursnamn: "Smarta hem och e-hälsoteknik"
-course_name: "Smart Homes and e-health Technology"
+course_name: "Smart Homes and e-Health Technology"
 hp: 7,5 högskolepoäng
 niva: "Grundnivå"
 huvudomrade: "Assisterande teknik 1"
@@ -10,7 +10,7 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 3796ddbd8384e68c
+scrape_hash: f50e93326fb79f39
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JU
 up: "[[Maskinteknik]]"
 ---
@@ -20,7 +20,7 @@ up: "[[Maskinteknik]]"
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JU)
 
 **Kursnamn:** Smarta hem och e-hälsoteknik
-**Course Name:** Smart Homes and e-health Technology
+**Course Name:** Smart Homes and e-Health Technology
 
 - **Poäng:** 7,5 högskolepoäng
 - **Nivå:** Grundnivå
@@ -91,7 +91,7 @@ The course addresses theory, technology, and systems for smart homes and e-healt
 
 ### Assessment
 
-- Written exam
+- Written invigilated exam with individual assessment
 
   - Laboratory exercise
 

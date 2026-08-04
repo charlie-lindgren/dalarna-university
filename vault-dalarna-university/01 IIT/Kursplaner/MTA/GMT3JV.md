@@ -10,17 +10,18 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 118e244132372d52
+scrape_hash: 7ad06f00173c71c7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JV
 up: "[[Maskinteknik]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Bloom-taxonomi | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [1,0,0,0,1,1] |
+> | Stavfel och språkbruk | Felstavning (en) | `assessmen` (en) |
 <!-- analys:end -->
 
 # GMT3JV
@@ -91,11 +92,11 @@ On completion of the course, students will be able to:
 
 ### Course Content
 
-The course addresses various types of assistive robots, such as social robots, household robots, service robots, cobots, humanoids, and exoskeletons. The course includes both theoretical and practical components, as well as ethical aspects related to the development, use, and evaluation of assistive robots.
+The course addresses various types of assistive robots, such as social robots, household robots, service robots, cobots, humanoids, and exoskeletons. It includes both theoretical and practical components, as well as ethical aspects related to the development, use, and evaluation of assistive robots.
 
 ### Assessment
 
-- Verbal exam
+- Supervised oral exam in a group, with individual assessmen
 
   - Laboratory exercise
 

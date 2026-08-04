@@ -10,7 +10,7 @@ amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: fa559df73f5ddec0
+scrape_hash: 27ebcea67e080e00
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3JW
 up: "[[Industriell ekonomi]]"
 ---
@@ -79,25 +79,25 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 On completion of the course, students will be able to:
 
-  - account for basic concepts, models, and theoretical foundations within innovation, business planning, and entrepreneurship
+  - account for basic concepts, models, and theoretical foundations within the field of innovation, business planning, and entrepreneurship
 
-  - describe different forms of business organization and common types of resource acquisition for start-up companies
+  - describe different forms of business organisation and common types of resource acquisition for start-up companies
 
   - explain and distinguish between the roles of inventor, innovator, and entrepreneur
 
-  - apply user-centered design and innovation methods to develop innovations in assistive technology
+  - apply user-centred design and innovation methods to develop innovations within the field of assistive technology
 
   - conduct innovation and business plan assessments with consideration of regulatory, ethical, and sustainability aspects within the field of assistive technology.
 
 ### Course Content
 
-The course examines innovation, business planning, and entrepreneurship with a focus on assistive technology. It highlights user-centered design, innovation processes, and business development, taking into account regulatory and ethical aspects as well as sustainable development. The course addresses roles within innovation and business planning processes and the conditions under which they operate. In addition, the course covers different ways of financing companies in the idea and start-up phases, as well as developing strategies to attract capital and achieve profitable business operations within assistive technology.
+In the course, students examine innovation, business planning, and entrepreneurship with a focus on assistive technology. The course highlights user centred design, innovation processes, and business development, taking into account regulatory and ethical aspects as well as sustainable development. It addresses roles within innovation, as well as business-planning processes and the conditions under which they operate. In addition, the course covers different ways of financing companies that are in the idea and startup phases, as well as the development of strategies to attract capital and achieve profitable business operations within the field of assistive technology.
 
 ### Assessment
 
-- Written exam
+- Written supervised exam, with individual assessment
 
-  - Oral exam
+  - Oral exam, with individual assessment
 
 ### Grades
 

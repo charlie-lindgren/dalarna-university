@@ -8,12 +8,16 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (0 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (4 rader)</span></a>
 
-> [!example]- 0 fynd — klicka för att expandera
+> [!example]- 4 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
+> | [GIE3JS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3JS) | <a class="no-graph" href="01-IIT/Kursplaner/IEA/GIE3JS">sida</a> | IEA | 2026-03-30 | — | Felstavning (en) | `understandingwithin` (en) |
+> | [GMT3JR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JR) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/GMT3JR">sida</a> | MTA | 2026-03-30 | — | Felstavning (en) | `mechanicsthe` (en) |
+> | [GMT3JR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JR) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/GMT3JR">sida</a> | MTA | 2026-03-30 | — | Felstavning (en) | `vapours` (en) |
+> | [GMT3JV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JV) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/GMT3JV">sida</a> | MTA | 2026-04-01 | — | Felstavning (en) | `assessmen` (en) |
 
 ## Syfte
 

@@ -9,7 +9,7 @@ amne: "Industriell ekonomi"
 amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
-scrape_hash: 5c851ab49ea7b285
+scrape_hash: 9772d7a9ba00619d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3JG
 up: "[[Industriell ekonomi]]"
 ---
@@ -109,37 +109,37 @@ On completion of the course, students will be able to:
 
 Knowledge and understanding:
 
-  - Describe impact innovation and explain how it differs from customer-centred innovation logic
+  - describe impact innovation and explain how it differs from customer-centred innovation logic
 
-  - Describe and explain how sustainability, societal value and long-term systemic change are integrated into innovation processes
+  - describe and explain how sustainability, societal value and long-term systemic change are integrated into innovation processes
 
-  - Explain how functional analysis can be used to structure value-creating functions and identify unintended effects.
+  - explain how functional analysis can be used to structure value-creating functions, and identify unintended effects.
 
 Skills and abilities:
 
-  - Identify and formulate innovation problems based on user needs and societal challenges
+  - identify and formulate innovation problems based on user needs and societal challenges
 
-  - Develop and analyse business models that integrate sustainability and impact
+  - develop and analyse business models that integrate sustainability and impact
 
-  - Conduct a basic impact analysis of an innovation idea
+  - conduct a basic impact analysis of an innovation idea
 
-  - Design, test and evaluate solution concepts
+  - design, test and evaluate solution concepts
 
-  - Present innovation concepts in the form of a pitch, with a clear justification of value creation and impact.
+  - present innovation concepts in the form of a pitch, with a clear justification of value creation and impact.
 
 Judgement and approach:
 
-  - Critically assess innovation ideas in terms of sustainability, feasibility and societal benefit
+  - critically assess innovation ideas in terms of sustainability, feasibility and societal benefit
 
-  - Reflect on and justify methodological choices in the innovation process
+  - reflect on and justify methodological choices in the innovation process
 
-  - Identify and evaluate goal conflicts between customer value, costs, resource use and sustainability.
+  - identify and evaluate goal conflicts between customer value, costs, resource use and sustainability.
 
 ### Course Content
 
 The course addresses impact innovation as an approach to developing solutions that create both customer value and societal benefit. The content is characterised by fundamental theories, models and methods in innovation management, with a particular focus on sustainability, systems perspectives and long-term change.
 
-The course includes problem formulation and needs analysis related to societal challenges, business model development with a sustainability focus, and analysis of value-creating functions and impact. Furthermore, the course covers the development, testing and evaluation of innovation ideas, as well as communication of innovation concepts.
+The course includes problem formulation and needs analysis related to societal challenges, business model development with a sustainability focus, and analysis of value-creating functions and impact. Furthermore, the course covers the development, testing and evaluation of innovation ideas, as well as the communication of innovation concepts.
 
 ### Assessment
 
