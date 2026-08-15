@@ -9,10 +9,18 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: 84042130e96ed811
+scrape_hash: 463cce1b7ed3e706
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG3K9
 up: "[[Energiteknik]]"
 ---
+
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Stavfel och språkbruk | Felstavning (en) | `thebasic` (en) |
+<!-- analys:end -->
 
 # GEG3K9
 
@@ -80,25 +88,25 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 ### Learning Outcomes
 
-After completion of the course, the student shall be able to:
+After completion of the course, the students will be able to:
 
-  -  Explain basic principles of control engineering.
+  -  explain thebasic principles of control engineering
 
-  -  Describe the structure and application of control systems for electrical systems.
+  -  describe the structure and application of control systems for electrical systems
 
-  -  Identify key concepts and components of control systems and use them to describe control systems using process diagrams.
+  -  identify key concepts and components of control systems and use them to describe control systems using process diagrams
 
-  - Explain and characterize control-engineering processes with respect to static and dynamic properties.
+  - explain and characterise control-engineering processes with respect to static and dynamic properties.
 
-  - Explain the principles and characteristics of different types of controllers.
+  - explain the principles and characteristics of different types of controllers
 
-  -  Apply various methods for controller tuning.
+  - apply various methods for controller tuning
 
-  -  Independently analyze and solve practical problems in the control of electrical systems using mathematical methods.
+  - independently analyse and solve practical problems in the control of electrical systems independently using mathematical methods.
 
 ### Course Content
 
-The course deals with basic control and control systems. The course contains basic digital technology, components and parts of a programmable control system. Different methods are used to program control systems and the course deals with block diagrams, process models, and controllers, such as PID controllers. Furthermore, the settings of control parameters and practical problems in the regulation of electrical systems are treated. The course also includes a laboratory part in groups, which deals with the practical use of PID-control.
+The course deals with basic control and control systems. The course covers basic digital technology, components and parts of a programmable control system. Various methods are used to program control systems and the course deals with block diagrams, process models and controllers, such as PID controllers. Further, the settings of control parameters and practical problems in the regulation of electrical systems are treated. The course also includes a laboratory component in groups, which covers the practical use of PID-control.
 
 ### Assessment
 

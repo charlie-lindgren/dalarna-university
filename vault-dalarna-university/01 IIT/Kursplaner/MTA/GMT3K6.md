@@ -10,7 +10,7 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 2a2e8fe9886aacb8
+scrape_hash: 89b247d6028d617b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3K6
 up: "[[Maskinteknik]]"
 ---
@@ -83,7 +83,7 @@ On completion of the course, students will be able to:
 
   - explain basic scientific quality criteria
 
-  - explain ethical aspects of research
+  - explain the ethical aspects of research
 
   - plan a technical research project
 
@@ -93,7 +93,7 @@ On completion of the course, students will be able to:
 
 ### Course Content
 
-The course covers the fundamentals of research methodology for engineering students. Research processes and methods are examined, together with methods for data collection and data analysis. Ethical considerations and guidelines are also addressed, as well as the basics of scientific communication.
+The course covers the fundamentals of research methodology for future engineers. Research processes and methods are examined, together with methods for data collection and data analysis. Ethical considerations and guidelines, as well as the basics of scientific communication, are also addressed.
 
 ### Assessment
 

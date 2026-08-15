@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (412 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (410 rader)</span></a>
 
-> [!example]- 412 fynd — klicka för att expandera
+> [!example]- 410 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Institution | Fastställd | Reviderad | Problem |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -351,7 +351,6 @@ status: första pass
 > | [GHI32G](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI32G) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI32G">sida</a> | HIA | IKS | 2023-01-26 | — | Ingen aktiv kursomgång |
 > | [GPA32D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA32D) | <a class="no-graph" href="03-IKS/Kursplaner/PEE/GPA32D">sida</a> | PEE | IKS | 2023-01-26 | — | Ingen aktiv kursomgång |
 > | [GLP33C](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP33C) | <a class="no-graph" href="03-IKS/Kursplaner/LPU/GLP33C">sida</a> | LPU | IKS | 2023-02-24 | — | Ingen aktiv kursomgång |
-> | [GPG33E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG33E) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG33E">sida</a> | PGA | IKS | 2023-02-27 | — | Ingen aktiv kursomgång |
 > | [AS3001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS3001) | <a class="no-graph" href="03-IKS/Kursplaner/UVX/AS3001">sida</a> | UVX | IKS | 2014-12-10 | 2023-03-06 | Ingen aktiv kursomgång |
 > | [AS3002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS3002) | <a class="no-graph" href="03-IKS/Kursplaner/UVX/AS3002">sida</a> | UVX | IKS | 2014-12-10 | 2023-03-06 | Ingen aktiv kursomgång |
 > | [AS3003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AS3003) | <a class="no-graph" href="03-IKS/Kursplaner/UVX/AS3003">sida</a> | UVX | IKS | 2014-12-10 | 2023-03-06 | Ingen aktiv kursomgång |
@@ -400,7 +399,6 @@ status: första pass
 > | [GBQ3AW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ3AW) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ3AW">sida</a> | BPO | IKS | 2024-03-07 | — | Ingen aktiv kursomgång |
 > | [GTR3B6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR3B6) | <a class="no-graph" href="03-IKS/Kursplaner/TRU/GTR3B6">sida</a> | TRU | IKS | 2024-05-16 | — | Ingen aktiv kursomgång |
 > | [GNA3B7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA3B7) | <a class="no-graph" href="03-IKS/Kursplaner/NAA/GNA3B7">sida</a> | NAA | IKS | 2024-05-17 | — | Ingen aktiv kursomgång |
-> | [GRV3BF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRV3BF) | <a class="no-graph" href="03-IKS/Kursplaner/RVA/GRV3BF">sida</a> | RVA | IKS | 2024-05-20 | — | Ingen aktiv kursomgång |
 > | [GBP3BB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBP3BB) | <a class="no-graph" href="03-IKS/Kursplaner/BIL/GBP3BB">sida</a> | BIL | IKS | 2024-05-21 | — | Ingen aktiv kursomgång |
 > | [GBP3BC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBP3BC) | <a class="no-graph" href="03-IKS/Kursplaner/BIL/GBP3BC">sida</a> | BIL | IKS | 2024-05-21 | — | Ingen aktiv kursomgång |
 > | [GPG3BD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3BD) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG3BD">sida</a> | PGA | IKS | 2024-05-21 | — | Ingen aktiv kursomgång |

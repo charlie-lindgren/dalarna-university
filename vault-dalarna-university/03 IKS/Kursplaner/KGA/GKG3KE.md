@@ -1,7 +1,7 @@
 ---
 kurskod: GKG3KE
 kursnamn: "Geografiska Informationssystem (GIS): Introduktion till GIS-analyser"
-course_name: "Geographic Information Systems (GIS): Introduction to GIS-analysis"
+course_name: "Geographic Information Systems (GIS): Introduction to GIS Analysis"
 hp: 7,5 högskolepoäng
 niva: "Grundnivå"
 huvudomrade: "Kulturgeografi 1 Turismvetenskap 2"
@@ -10,7 +10,7 @@ amne_kod: "KGA"
 institution: "IKS"
 tags: [kursplan, KGA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 1a1f2b2095c8f759
+scrape_hash: 5dd3010e4acc5e9f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG3KE
 up: "[[Kulturgeografi]]"
 ---
@@ -20,7 +20,7 @@ up: "[[Kulturgeografi]]"
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG3KE)
 
 **Kursnamn:** Geografiska Informationssystem (GIS): Introduktion till GIS-analyser
-**Course Name:** Geographic Information Systems (GIS): Introduction to GIS-analysis
+**Course Name:** Geographic Information Systems (GIS): Introduction to GIS Analysis
 
 - **Poäng:** 7,5 högskolepoäng
 - **Nivå:** Grundnivå
@@ -91,7 +91,7 @@ On completion of the course, students will be able to:
 
 ### Course Content
 
-The course introduce basic theoretical and practical knowledge in Geographic Information Systems (GIS), with a focus on the analysis of geographic data. In the first module of the course, _GIS and its applications_, the use of GIS in selected fields of application is addressed, as well as the role of GIS in producing geographically based decision-support material. In the second module of the course, _GIS-based analysis methods_, the collection, processing and use of geographic data are addressed. In addition, selected GIS-based analysis methods for geographic data are introduced and applied, and the results of these analyses are interpreted and presented.
+The course introduces basic theoretical and practical knowledge in Geographic Information Systems (GIS), with a focus on the analysis of geographic data. In the first module of the course, _GIS and its applications_, the use of GIS in selected fields of application is addressed, as well as the role of GIS in producing geographically based material to support decision-makingdecision. In the second module of the course, _GIS-based analysis methods_, the collection, processing and use of geographic data are addressed. In addition, selected GIS-based analysis methods for geographic data are introduced and applied, and the results of these analyses are interpreted and presented.
 
 ### Assessment
 

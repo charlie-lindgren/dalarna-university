@@ -16,7 +16,7 @@ up: "IIT"
 **Programnamn:** Industriell ekonomi, högskoleprogram
 
 - **Programkod:** TEKHG
-- **Programansvarig:** Belén Casales Morici
+- **Programansvarig:** Anna-Lena Berglund
 - **Fastställd:** Fastställd av Utbildnings- och Forskningsnämnden 2024-11-13 . Gäller fr.o.m.  HT 2024.
 
 ## 1. Mål

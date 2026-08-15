@@ -10,7 +10,7 @@ amne_kod: "KGA"
 institution: "IKS"
 tags: [kursplan, KGA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 5656248e4453c9f5
+scrape_hash: c129645cd345670b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG3KF
 up: "[[Kulturgeografi]]"
 ---
@@ -79,21 +79,21 @@ On completion of the course, students will be able to:
 
   - integrate and manage various data formats and sources of geographic data
 
-  - explain selected geostatistical methods for spatial analysis
+  - explain selected geostatistical methods for the analysis of geographic data
 
-  - apply selected geostatistical methods for spatial analysis
+  - apply selected geostatistical methods for the analysis of geographic data
 
-  - interpret and evaluate results from spatial geostatistical analyses.
+  - interpret and evaluate results from geostatistical analyses of geographic data.
 
 ### Course Content
 
-The course covers advanced theoretical and practical knowledge in Geographic Information Systems (GIS), with a focus on geostatistical analysis of geographic data. In the first module of the course, _Geostatistical methods and data management_, advanced handling of geographic data is introduced, together with selected geostatistical methods for analysing geographic data. The work is conducted in both raster and vector environments. In the second module of the course, _Application of geostatistical methods_, selected geostatistical analysis methods are applied in work with geographic data within the framework of an independently designed project.
+The course covers advanced theoretical and practical knowledge in Geographic Information Systems (GIS), with a focus on geostatistical analysis of geographic data. In the first module of the course, _Geostatistical methods and data management_, advanced handling of geographic data is introduced, as well as selected geostatistical methods for analysing geographic data. The work is conducted in both raster and vector environments. In the second module of the course, _Application of geostatistical methods_, selected geostatistical methods of analysis  are applied in work with geographic data within the framework of an independently designed project.
 
 ### Assessment
 
-- written assignments
+- Written assignments
 
-  - active participation in seminars
+  - Oral presentation
 
 ### Grades
 

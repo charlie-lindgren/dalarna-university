@@ -8,11 +8,10 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Rättsvetenskap"
 amne_kod: "RVA"
 institution: "IKS"
-tags: [kursplan, RVA, IKS, vilande]
+tags: [kursplan, RVA, IKS]
 scrape_hash: 2add71d583527188
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRV3BF
 up: "[[Rättsvetenskap]]"
-cssclasses: [vilande]
 ---
 
 <!-- analys:start -->

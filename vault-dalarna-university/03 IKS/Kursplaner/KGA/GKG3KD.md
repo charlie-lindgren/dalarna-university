@@ -10,7 +10,7 @@ amne_kod: "KGA"
 institution: "IKS"
 tags: [kursplan, KGA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 293f12ed19b87e74
+scrape_hash: ec524d0e0bb3a121
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKG3KD
 up: "[[Kulturgeografi]]"
 ---
@@ -82,15 +82,15 @@ On completion of the course, students will be able to:
 
   - explain basic concepts relating to GIS
 
-  - obtain, process and use geographic data that is publicly available
+  - obtain, process and use geographic data in GIS environments
 
   - explain the basic principles of cartography
 
-  - produce thematic maps using GIS software
+  - produce maps using GIS software
 
 ### Course Content
 
-The course introduces basic theoretical and practical knowledge of Geographic Information Systems (GIS) with focus on production of thematic maps. In the course’s first module, _Cartography and thematic maps_, basic cartographic principles for the production of thematic maps are addressed. In the course’s second module, _GIS and thematic maps_, basic concepts in GIS are addressed, along with the handling of geographic data for the purpose of producing thematic maps. Geographic data are obtained from public databases and authorities, processed and visualized in GIS software, and used to produce thematic maps.
+The course introduces basic theoretical and practical knowledge of Geographic Information Systems (GIS) with a focus on the production of thematic maps. In the first module of the course, Cartography and thematic maps, basic cartographic principles for the production of thematic maps are addressed. In the second module of the course, GIS and thematic maps, basic concepts in GIS are addressed, along with the handling of geographic data for the purpose of producing thematic maps, where geographic data are obtained from public databases and authorities, processed and visualised in GIS software and used to produce thematic maps.
 
 ### Assessment
 
@@ -102,7 +102,7 @@ The course introduces basic theoretical and practical knowledge of Geographic In
 
 The grading scale used for the final course grade is U–VG.
 
-To receive the grade Pass with Distinction (VG), the student must receive the grade VG on both modules.
+To receive the grade Pass with Distinction (VG), students must receive the grade VG on both modules.
 
 Grades are reported as follows:
 

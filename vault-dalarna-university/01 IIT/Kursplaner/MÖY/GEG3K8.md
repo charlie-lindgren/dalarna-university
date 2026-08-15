@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: 6d2fe85cf0fb27c9
+scrape_hash: c3fc5957361007be
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEG3K8
 up: "[[Energiteknik]]"
 ---
@@ -84,22 +84,28 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 ### Learning Outcomes
 
 Upon completion of the course, students will be able to:
- 
- 
-  - explain the basic electrical laws for current and voltage. 
-  - describe and use measurement methods for direct current (DC) and alternating current (AC) circuits. 
-  - analyse and make calculations on DC and AC circuits. 
-  - explain the characteristics of electronic components in DC and AC circuits. 
-  - explain and use methods for sinusoidal alternating current. 
+
+  - explain the basic electrical laws for current and voltage.
+
+  - describe and use measurement methods for direct current (DC) and alternating current (AC) circuits.
+
+  - analyse and perform calculations on DC and AC circuits.
+
+  - explain the characteristics of electronic components in DC and AC circuits.
+
+  - explain and use methods for sinusoidal alternating current.
+
   - carry out investigations on DC and AC circuits both in the laboratory and in simulation programs.
 
 ### Course Content
 
-The first part of the course deals with Ohm’s law for electrical conductors, Kirchhoff’s laws for current and voltage in circuits, and basic measurement techniques for direct current circuits. Time dependent processes in direct current circuits are studied, and methods for the analysis of direct current and alternating current circuits are introduced. Further, alternating current and sinusoidal alternating current are treated. The function of various components in electrical circuits, such as resistors, capacitors, inductors and certain semiconductor elements, are covered. Methods of sinusoidal alternating current in electrical circuits are given in-depth coverage. Labs are an important feature of the course, and computer simulation is used to supplement physical labs.
+The first part of the course deals with Ohm’s law for electrical conductors; Kirchhoff’s laws for current and voltage in circuits; and basic measurement techniques for direct current circuits. Time-dependent processes in direct current circuits are studied, and methods for the analysis of direct current and alternating current circuits are introduced. Further, alternating current and sinusoidal alternating current are treated.
+
+The function of various components in electrical circuits, such as resistors, capacitors, inductors and certain semiconductor elements, is covered. Methods of sinusoidal alternating current in electrical circuits are also covered in depth. Labs are an important feature of the course, and computer simulation is used to supplement physical labs.
 
 ### Assessment
 
-- Examination
+- Written examination
 
   - Laboratory report
 

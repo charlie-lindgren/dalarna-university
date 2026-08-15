@@ -1,7 +1,7 @@
 ---
 kurskod: GMT3K5
 kursnamn: "Examensarbete i assisterande teknik med inriktning mot maskinteknik"
-course_name: "Degree Project in Assistive Technology Focusing Mechanical Engineering"
+course_name: "Degree Project in Assistive Technology with a Specialisation in Mechanical Engineering"
 hp: 15 högskolepoäng
 niva: "Grundnivå"
 huvudomrade: "Assisterande teknik 1"
@@ -10,7 +10,7 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: c1329d78e57d2851
+scrape_hash: 51e119d0b5de65c4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3K5
 up: "[[Maskinteknik]]"
 ---
@@ -20,7 +20,7 @@ up: "[[Maskinteknik]]"
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3K5)
 
 **Kursnamn:** Examensarbete i assisterande teknik med inriktning mot maskinteknik
-**Course Name:** Degree Project in Assistive Technology Focusing Mechanical Engineering
+**Course Name:** Degree Project in Assistive Technology with a Specialisation in Mechanical Engineering
 
 - **Poäng:** 15 högskolepoäng
 - **Nivå:** Grundnivå
@@ -80,7 +80,7 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 On completion of the course, students will be able to:
 
-  - identify, formulate, and justify a problem statement for an independent project in assistive technology within the field of mechanical engineering
+  - identify, formulate, and justify a problem statement for an independent project in assistive technology in the field of mechanical engineering
 
   - search for and use literature that addresses the problem statement from multiple perspectives
 
@@ -94,13 +94,13 @@ On completion of the course, students will be able to:
 
 ### Course Content
 
-In the course, the student applies their knowledge and skills to plan, justify, carry out, and present an independent project in assistive technology with a specialization in mechanical engineering. The work is presented both orally and in writing in the form of a written report. During the course, oral presentations, discussions, and critical reviews are conducted in a seminar format.
+In the course, students apply their knowledge and skills to plan, justify, carry out and present an independent project in assistive technology with a specialisation in mechanical engineering. The work is presented both orally and in writing in the form of a written report. During the course, there are oral presentations, discussions, and critical reviews in seminars.
 
 ### Assessment
 
-- Written exam
+- Written examination with individual assessment
 
-  - Verbal exam
+  - Oral examination with individual assessment
 
 ### Grades
 
@@ -112,4 +112,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- 60 credits within the main field of study Assistive Technology, 7.5 credits Research Methodology in either the Health or Technology Field and 60 credits Mechanical Engineering
+- 60 credits in the main field of study Assistive Technology, 7.5 credits in Research Methodology in the field of either Health or Technology and 60 credits in Mechanical Engineering

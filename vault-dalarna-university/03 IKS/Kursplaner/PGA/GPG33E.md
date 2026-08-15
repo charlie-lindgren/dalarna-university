@@ -8,11 +8,10 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Pedagogiskt arbete"
 amne_kod: "PGA"
 institution: "IKS"
-tags: [kursplan, PGA, IKS, vilande]
+tags: [kursplan, PGA, IKS]
 scrape_hash: 6c787cfcb32f3eb0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG33E
 up: "[[Pedagogiskt arbete]]"
-cssclasses: [vilande]
 ---
 
 <!-- analys:start -->

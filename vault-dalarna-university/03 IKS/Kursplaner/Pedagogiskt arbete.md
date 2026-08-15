@@ -10,7 +10,7 @@ up: "[[IKS]]"
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 > Huvudområde: Ej huvudområde 1
 
-## Kurser (77 st)
+## Kurser (78 st)
 
 - [[APG22X]] — Tematisk fördjupning inom ett utbildningsvetenskapligt område
 - [[APG244]] — Vetenskapsteori och utbildningsvetenskaplig forskning för grundlärare F-3
@@ -64,6 +64,7 @@ up: "[[IKS]]"
 - [[GPG329]] — Utveckling och lärande för ämneslärare inriktning gymnasieskolan (varav 7,5 hp VFU)
 - [[GPG32A]] — Skolväsendets historia och samhällsuppdrag - ämneslärare
 - [[GPG33D]] — Utveckling, lärande och ledarskap - VAL
+- [[GPG33E]] — Sociala relationer, skolans historiska utveckling och samhällsuppdrag - VAL
 - [[GPG33F]] — Didaktik och bedömning - VAL
 - [[GPG3AB]] — Introduktion till läraryrket för ämneslärare årskurs 7–9 - AIL
 - [[GPG3AC]] — Didaktik och ledarskap för ämneslärare årskurs 7–9 - AIL
@@ -90,7 +91,7 @@ up: "[[IKS]]"
 - [[PG3061]] — Att kritiskt granska utbildningsvetenskaplig forskning
 - [[PG3069]] — Utbildningsvetenskapliga ansatser - teoretisk och  metodologisk fördjupning
 
-## Vilande kursplaner (34 st)
+## Vilande kursplaner (33 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -111,7 +112,6 @@ up: "[[IKS]]"
 - [[GPG2SH]] — Lek i förskolan (varav 7,5 hp VFU)
 - [[GPG2TT]] — Omsorg, relationer och etik i förskolläraryrket
 - [[GPG2VW]] — Professionellt lärarskap och skolutveckling (varav 10 hp VFU)
-- [[GPG33E]] — Sociala relationer, skolans historiska utveckling och samhällsuppdrag - VAL
 - [[GPG36A]] — Didaktik och läroplansteori - KPU
 - [[GPG36B]] — Didaktik och läroplansteori
 - [[GPG3AF]] — Specialpedagogik och ett läraruppdrag i förändring för ämneslärare årskurs 7–9 - AIL

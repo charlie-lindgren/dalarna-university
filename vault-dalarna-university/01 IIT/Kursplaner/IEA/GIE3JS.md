@@ -9,7 +9,7 @@ amne: "Industriell ekonomi"
 amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
-scrape_hash: 3ccaa96ba0e83077
+scrape_hash: fce870b9768f975c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3JS
 up: "[[Industriell ekonomi]]"
 ---
@@ -161,7 +161,7 @@ The grading scale used for the final course grade is U–VG.
 
 Grades are reported as follows:
 
-  - Written report, oral presentation, and opposition - 15 Credits | U–VG
+  - Written and oral presentation of the degree project, and peer review - 15 Credits | U–VG
 
 ### Prerequisites
 
