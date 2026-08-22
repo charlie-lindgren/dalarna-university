@@ -9,7 +9,7 @@ amne: "Socialt arbete"
 amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
-scrape_hash: 9ec20688ef311c35
+scrape_hash: 5e31630497177a78
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DM
 up: "[[Socialt arbete]]"
 ---
@@ -589,4 +589,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- Social Work as a Profession 7,5 credits and Introduction to Scientific Work 7,5 credits
+- Social Work as a Profession 7.5 credits and Introduction to Scientific Work 7.5 credits

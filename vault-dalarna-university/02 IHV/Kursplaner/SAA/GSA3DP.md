@@ -9,7 +9,7 @@ amne: "Socialt arbete"
 amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV]
-scrape_hash: 2c168e7e235b01bf
+scrape_hash: 3404d0e9fe04a8e7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DP
 up: "[[Socialt arbete]]"
 ---
@@ -161,4 +161,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- Welfare Measures and User Perspective 15 credits, Support, Rehabilitation and Enablement in Social Work 7,5 credits and Social Law Part I 7,5 credits
+- Welfare Measures and User Perspective 15 credits, Support, Rehabilitation and Enablement in Social Work 7.5 credits and Social Law Part I 7.5 credits

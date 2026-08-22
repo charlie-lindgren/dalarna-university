@@ -10,7 +10,7 @@ amne_kod: "MTA"
 institution: "IIT"
 tags: [kursplan, MTA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 77f549bafa29a864
+scrape_hash: 0abe6dd442cb9fe3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JY
 up: "[[Maskinteknik]]"
 ---
@@ -87,7 +87,7 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 On completion of the course, students will be able to:
 
-  - describe key concepts in the field of production engineering, including the areas of machining and additive manufacturing
+  - describe key concepts in the field of production engineering, specifically the areas of machining and additive manufacturing
 
   - describe the techniques and material properties for materials used in additive manufacturing
 
@@ -105,9 +105,9 @@ On completion of the course, students will be able to:
 
 ### Course Content
 
-The course addresses two central manufacturing methods: machining and additive manufacturing. The additive manufacturing part discusses different techniques and the specific material properties that are relevant for the method. The course also focuses on design constraints and their significance for developing products through additive manufacturing, as well as an analysis of when the method is appropriate to apply, considering technical, economic, and sustainability-related factors.
+The course addresses two central manufacturing methods: machining[MB8.1] and additive manufacturing. The additive manufacturing component discusses different techniques and the specific material properties that are relevant for the method. The course also focuses on design constraints and their significance for developing products through additive manufacturing, as well as an analysis of when the method is appropriate to apply, considering technical, economic, and sustainability related factors.
 
-In the machining section, different tool materials and their applications are covered. Furthermore, knowledge is deepened regarding cutting forces, chip formation, and tool wear, and how these factors are influenced by the choice of cutting parameters. The course also highlights how cutting data can be optimized to improve machining economics.
+In the machining section, different tool materials and their applications are covered. Furthermore, knowledge is deepened regarding cutting forces, chip formation[MB9.1], and the wear of tools, and how these factors are influenced by the choice of cutting parameters[MB10.1]. The course also highlights how cutting data [MB11.1]can be optimised to improve machining economics.
 
 ### Assessment
 

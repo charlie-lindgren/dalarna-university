@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (177 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (176 rader)</span></a>
 
-> [!example]- 177 fynd — klicka för att expandera
+> [!example]- 176 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Institution | Fastställd | Reviderad | Problem |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -187,7 +187,6 @@ status: första pass
 > | [GTY3KJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3KJ) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/GTY3KJ">sida</a> | TYA | ISLL | 2026-06-16 | — | Ingen aktiv kursomgång |
 > | [GTY3KK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3KK) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/GTY3KK">sida</a> | TYA | ISLL | 2026-06-16 | — | Ingen aktiv kursomgång |
 > | [BSV22A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BSV22A) | <a class="no-graph" href="04-ISLL/Kursplaner/SVE/BSV22A">sida</a> | SVE | ISLL | 2026-06-18 | — | Ingen aktiv kursomgång |
-> | [GSV3KH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV3KH) | <a class="no-graph" href="04-ISLL/Kursplaner/SVE/GSV3KH">sida</a> | SVE | ISLL | 2026-06-18 | — | Ingen aktiv kursomgång |
 > | [GSS39R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS39R) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/GSS39R">sida</a> | SSA | ISLL | 2023-12-19 | 2026-06-24 | Ingen aktiv kursomgång |
 > | [GSS3C7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS3C7) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/GSS3C7">sida</a> | SSA | ISLL | 2024-06-19 | 2026-06-24 | Ingen aktiv kursomgång |
 > | [SS2009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SS2009) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/SS2009">sida</a> | SSA | ISLL | 2013-02-04 | 2026-06-24 | Ingen aktiv kursomgång |

@@ -10,7 +10,7 @@ up: "[[ISLL]]"
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 > Huvudområde: Svenska språket 1
 
-## Kurser (10 st)
+## Kurser (11 st)
 
 - [[ASV29Z]] — Examensarbete i svenska för ämneslärarexamen, inriktning gymnasieskolan
 - [[ASV2A2]] — Examensarbete i svenska för ämneslärarexamen, inriktning grundskolans årskurs 7–9
@@ -22,8 +22,9 @@ up: "[[ISLL]]"
 - [[GSV3DD]] — Svenska med didaktisk inriktning I
 - [[GSV3DE]] — Svenska med didaktisk inriktning II
 - [[GSV3DF]] — Svenska med didaktisk inriktning III för gymnasieskolan
+- [[GSV3KH]] — Läs- och skrivinlärning för förskollärare som undervisar i förskoleklass
 
-## Vilande kursplaner (8 st)
+## Vilande kursplaner (7 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -34,4 +35,3 @@ up: "[[ISLL]]"
 - [[GSV2BP]] — Svenska: Barn- och ungdomslitteratur i samhällsdialog
 - [[GSV3FP]] — Språk-, läs- och skrivutveckling i förskoleklass och årskurs 1–3 utifrån första- och andraspråksperspektiv
 - [[GSV3JE]] — Språk-, läs- och skrivutveckling i åldrarna 5–9 år
-- [[GSV3KH]] — Läs- och skrivinlärning för förskollärare som undervisar i förskoleklass

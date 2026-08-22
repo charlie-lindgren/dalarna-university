@@ -10,11 +10,9 @@ up: "[[IHV]]"
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 > Huvudområde: Omvårdnad 1
 
-## Kurser (37 st)
+## Kurser (35 st)
 
-- [[AVÅ27L]] — Vård och omsorg för personer med demens (fristående kurs)
 - [[AVÅ28G]] — Nutrition och ätande
-- [[AVÅ28H]] — Nutrition och ätande (fristående kurs)
 - [[AVÅ28J]] — Att vårda äldre personer, VFU
 - [[AVÅ28K]] — Personcentrerad vård vid multisjuklighet, psykisk ohälsa och demenssjukdom
 - [[AVÅ28L]] — Multisjuklighet, diagnostik och behandling för äldre ur ett omvårdnadsperspektiv
@@ -50,7 +48,7 @@ up: "[[IHV]]"
 - [[VÅ3132]] — Vård och omsorg för personer med demens
 - [[VÅ3133]] — Att vårda personer med demens, VFU
 
-## Vilande kursplaner (32 st)
+## Vilande kursplaner (34 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -60,8 +58,10 @@ up: "[[IHV]]"
 - [[AVÅ25L]] — Diabetesvård I
 - [[AVÅ27J]] — Personcentrerad vård för personer med demens (fristående kurs)
 - [[AVÅ27K]] — Demenssjukdomar, diagnostik och behandling ur ett omvårdnadsperspektiv (fristående kurs)
+- [[AVÅ27L]] — Vård och omsorg för personer med demens (fristående kurs)
 - [[AVÅ27S]] — Bedömning och rådgivning vid distanskontakter inom hälso- och sjukvården
 - [[AVÅ28C]] — Telefonrådgivning vid distanskontakter inom hälso- och sjukvården
+- [[AVÅ28H]] — Nutrition och ätande (fristående kurs)
 - [[GVÅ25T]] — Metoder och teorier vid symtom och tecken på hälsa/ohälsa II
 - [[GVÅ2GT]] — Personcentrerad vård med fördjupning inom omvårdnad
 - [[GVÅ2H6]] — Personcentrerad vård inom olika vårdsammanhang

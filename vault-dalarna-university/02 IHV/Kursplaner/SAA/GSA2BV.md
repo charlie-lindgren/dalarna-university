@@ -8,8 +8,8 @@ huvudomrade: "Socialt arbete 1"
 amne: "Socialt arbete"
 amne_kod: "SAA"
 institution: "IHV"
-tags: [kursplan, SAA, IHV]
-scrape_hash: e323ff06423e90fb
+tags: [kursplan, SAA, IHV, forskarutbildning]
+scrape_hash: d1268afc8bcff3a2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2BV
 up: "[[Socialt arbete]]"
 ---
@@ -224,4 +224,4 @@ The Swedish grades U–G.
 
 ### Prerequisites
 
-- Organisational Sociology, 15 credits, Social Exclusion Processes, 7,5 credits, Support, Rehabilitation and Enablement in Social Work, 7,5 credits, Perspectives on Violence, 7,5 credits, and Investigation in Social Work, 7,5 credits or Working Methods in Social Work, 7,5 credits
+- Organisational Sociology, 15 credits, Social Exclusion Processes, 7.5 credits, Support, Rehabilitation and Enablement in Social Work, 7.5 credits, Perspectives on Violence, 7.5 credits, and Investigation in Social Work, 7.5 credits or Working Methods in Social Work, 7.5 credits
