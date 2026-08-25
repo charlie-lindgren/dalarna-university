@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (238 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (239 rader)</span></a>
 
-> [!example]- 238 fynd — klicka för att expandera
+> [!example]- 239 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Institution | Fastställd | Reviderad | Problem |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -184,6 +184,7 @@ status: första pass
 > | [GIH2WT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2WT) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH2WT">sida</a> | IDA | IHV | 2022-06-16 | — | Ingen aktiv kursomgång |
 > | [GIH2WX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2WX) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH2WX">sida</a> | IDA | IHV | 2022-06-16 | — | Ingen aktiv kursomgång |
 > | [GIH2WY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2WY) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH2WY">sida</a> | IDA | IHV | 2022-06-16 | — | Ingen aktiv kursomgång |
+> | [GVÅ2WS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ2WS) | <a class="no-graph" href="02-IHV/Kursplaner/OMV/GVÅ2WS">sida</a> | OMV | IHV | 2022-06-16 | — | Ingen aktiv kursomgång |
 > | [ASR284](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR284) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR284">sida</a> | SRP | IHV | 2022-06-16 | — | Ingen aktiv kursomgång |
 > | [ASR285](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR285) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR285">sida</a> | SRP | IHV | 2022-06-16 | — | Ingen aktiv kursomgång |
 > | [ASR286](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR286) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR286">sida</a> | SRP | IHV | 2022-06-16 | — | Ingen aktiv kursomgång |

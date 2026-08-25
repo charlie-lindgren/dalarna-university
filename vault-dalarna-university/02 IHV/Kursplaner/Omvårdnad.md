@@ -10,7 +10,7 @@ up: "[[IHV]]"
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 > Huvudområde: Omvårdnad 1
 
-## Kurser (35 st)
+## Kurser (34 st)
 
 - [[AVÅ28G]] — Nutrition och ätande
 - [[AVÅ28J]] — Att vårda äldre personer, VFU
@@ -29,7 +29,6 @@ up: "[[IHV]]"
 - [[GVÅ2AP]] — Människa, hälsa och samhälle
 - [[GVÅ2N9]] — Metoder för evidensbaserad vård I
 - [[GVÅ2S3]] — Ledarskap och teamarbete
-- [[GVÅ2WS]] — Global hälsa
 - [[GVÅ36W]] — Examensarbete i omvårdnad
 - [[GVÅ37G]] — Sjuksköterskans profession och yrkesansvar
 - [[GVÅ37J]] — Omvårdnadsprocessen och kliniska färdigheter
@@ -48,7 +47,7 @@ up: "[[IHV]]"
 - [[VÅ3132]] — Vård och omsorg för personer med demens
 - [[VÅ3133]] — Att vårda personer med demens, VFU
 
-## Vilande kursplaner (34 st)
+## Vilande kursplaner (35 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -72,6 +71,7 @@ up: "[[IHV]]"
 - [[GVÅ2RU]] — Aktivitet och ätande vid demenssjukdom
 - [[GVÅ2RV]] — Demenssjukdomar, diagnostik och behandling ur ett omvårdnadsperspektiv
 - [[GVÅ2VZ]] — Palliativ och evidensbaserad omvårdnad för personer med demens
+- [[GVÅ2WS]] — Global hälsa
 - [[GVÅ2ZG]] — Personcentrerad vård med fördjupning inom omvårdnad
 - [[GVÅ2ZY]] — Metoder för evidensbaserad vård II
 - [[GVÅ35Q]] — Personcentrerad vård inom olika vårdsammanhang

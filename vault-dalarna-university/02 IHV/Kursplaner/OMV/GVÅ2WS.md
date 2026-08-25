@@ -8,10 +8,11 @@ huvudomrade: "Omvårdnad 1"
 amne: "Omvårdnad"
 amne_kod: "OMV"
 institution: "IHV"
-tags: [kursplan, OMV, IHV]
+tags: [kursplan, OMV, IHV, vilande]
 scrape_hash: af726a07178b6639
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ2WS
 up: "[[Omvårdnad]]"
+cssclasses: [vilande]
 ---
 
 # GVÅ2WS

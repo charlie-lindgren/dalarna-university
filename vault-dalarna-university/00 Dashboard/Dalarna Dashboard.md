@@ -10,7 +10,7 @@ cssclasses: [wide-page]
 
 <!-- scrape-date:start -->
 > [!info] Senaste större skrapning
-> Kurs- och utbildningsplanerna hämtades senast från du.se den **2026-08-21**.
+> Kurs- och utbildningsplanerna hämtades senast från du.se den **2026-08-25**.
 <!-- scrape-date:end -->
 
 ## Institutioner
