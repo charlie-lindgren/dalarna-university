@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (239 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (241 rader)</span></a>
 
-> [!example]- 239 fynd — klicka för att expandera
+> [!example]- 241 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Institution | Fastställd | Reviderad | Problem |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -141,6 +141,7 @@ status: första pass
 > | [ASR24V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR24V) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR24V">sida</a> | SRP | IHV | 2020-03-05 | 2020-06-23 | Ingen aktiv kursomgång |
 > | [ASR24W](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR24W) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR24W">sida</a> | SRP | IHV | 2020-03-05 | 2020-06-23 | Ingen aktiv kursomgång |
 > | [ASA24M](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA24M) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/ASA24M">sida</a> | SAA | IHV | 2020-02-19 | 2020-06-24 | Ingen aktiv kursomgång |
+> | [ASR25T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR25T) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR25T">sida</a> | SRP | IHV | 2020-06-17 | 2020-06-25 | Ingen aktiv kursomgång |
 > | [ASR25U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR25U) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR25U">sida</a> | SRP | IHV | 2020-06-17 | 2020-06-25 | Ingen aktiv kursomgång |
 > | [ASR25V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR25V) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR25V">sida</a> | SRP | IHV | 2020-06-17 | 2020-06-25 | Ingen aktiv kursomgång |
 > | [GVÅ2HM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ2HM) | <a class="no-graph" href="02-IHV/Kursplaner/OMV/GVÅ2HM">sida</a> | OMV | IHV | 2020-08-27 | 2020-09-10 | Ingen aktiv kursomgång |
@@ -201,6 +202,7 @@ status: första pass
 > | [GIH2ZE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZE) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH2ZE">sida</a> | IDA | IHV | 2022-12-12 | — | Ingen aktiv kursomgång |
 > | [GVÅ2ZG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ2ZG) | <a class="no-graph" href="02-IHV/Kursplaner/OMV/GVÅ2ZG">sida</a> | OMV | IHV | 2022-12-12 | — | Ingen aktiv kursomgång |
 > | [GVÅ2ZY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GVÅ2ZY) | <a class="no-graph" href="02-IHV/Kursplaner/OMV/GVÅ2ZY">sida</a> | OMV | IHV | 2022-12-12 | — | Ingen aktiv kursomgång |
+> | [GSR2ZH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSR2ZH) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/GSR2ZH">sida</a> | SRP | IHV | 2022-12-12 | — | Ingen aktiv kursomgång |
 > | [GIH334](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH334) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH334">sida</a> | IDA | IHV | 2023-02-07 | — | Ingen aktiv kursomgång |
 > | [GSA32Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA32Y) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA32Y">sida</a> | SAA | IHV | 2023-02-07 | — | Ingen aktiv kursomgång |
 > | [GIH33J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH33J) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH33J">sida</a> | IDA | IHV | 2023-02-23 | — | Ingen aktiv kursomgång |

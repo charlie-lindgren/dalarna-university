@@ -10,9 +10,8 @@ up: "[[IHV]]"
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 > Huvudområde: Sexuell, reproduktiv och perinatal hälsa 1
 
-## Kurser (23 st)
+## Kurser (21 st)
 
-- [[ASR25T]] — Hälso- och sjukvårdssystemforskning i låg-, medel- och höginkomstkontext
 - [[ASR296]] — Examensarbete i sexuell, reproduktiv och perinatal hälsa (fristående kurs)
 - [[ASR29S]] — Examensarbete i sexuell, reproduktiv och perinatal hälsa
 - [[ASR29T]] — Graviditet, förlossning och postpartumvård I
@@ -29,14 +28,13 @@ up: "[[IHV]]"
 - [[ASR2CK]] — Hälso- och sjukvårdssystemforskning i låg-, medel- och höginkomstkontext
 - [[ASR2CR]] — Graviditet, förlossning och postpartumperiod II
 - [[ASR2CS]] — Graviditet, förlossning och postpartumperiod I
-- [[GSR2ZH]] — Ungdomar och unga vuxnas sexuella och reproduktiva hälsa och rättigheter I
 - [[GSR3BZ]] — Global sexuell och reproduktiv hälsa samt rättigheter för ungdomar och unga vuxna
 - [[SR3008]] — Profession, teori och metod
 - [[SR3009]] — Sexuell och reproduktiv hälsa
 - [[SR3014]] — Förlossningsvård II, verksamhetsförlagd utbildning
 - [[SR3015]] — Mödrahälsovård och folkhälsa, verksamhetsförlagd utbildning
 
-## Vilande kursplaner (28 st)
+## Vilande kursplaner (30 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -46,6 +44,7 @@ up: "[[IHV]]"
 - [[ASR24X]] — Strategier för implementering av förbättringsarbete i hälso- och sjukvård
 - [[ASR25P]] — Graviditet, förlossning och postpartumvård I
 - [[ASR25Q]] — Graviditet, förlossning och postpartumvård II
+- [[ASR25T]] — Hälso- och sjukvårdssystemforskning i låg-, medel- och höginkomstkontext
 - [[ASR25U]] — Ledarskap och organisation inom hälso- och sjukvårdssystem
 - [[ASR25V]] — Examensarbete i sexuell, reproduktiv och perinatal hälsa
 - [[ASR26N]] — Konstruktiv länkning av utbildnings- och kursplaner, läraktiviteter och examinationsformer för lärare i högre utbildning
@@ -56,6 +55,7 @@ up: "[[IHV]]"
 - [[ASR29U]] — Graviditet, förlossning och postpartumvård II
 - [[GSR2A5]] — Ungdomar och unga vuxnas reproduktiva hälsa och rättigheter I
 - [[GSR2KZ]] — Människa, hälsa, hållbarhet i ett mångkulturellt samhälle
+- [[GSR2ZH]] — Ungdomar och unga vuxnas sexuella och reproduktiva hälsa och rättigheter I
 - [[GSR38B]] — Sexuell och reproduktiv hälsa samt rättigheter för ungdomar och unga vuxna i Ukraina
 - [[SR3001]] — Mödra- och barnhälsovård - evidens i praktiken
 - [[SR3002]] — Evidensbaserad praktik och forskning
