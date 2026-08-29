@@ -15,24 +15,26 @@ up: "[[ISLL]]"
 - [[GIT247]] — Italienska: Nybörjarkurs I
 - [[GIT26V]] — Italienska B: Grammatik och skriftlig produktion
 - [[GIT26W]] — Italienska B: Litteraturhistoria med textanalys
-- [[GIT2A3]] — Italienska B: Muntlig språkfärdighet och kulturkunskap
 - [[GIT2AE]] — Italienska B: Italienska förr och nu
 - [[GIT2GV]] — Italienska C: Äldre litteratur med textanalys
 - [[GIT2GW]] — Italienska C: Italiensk språkvetenskap
-- [[GIT2TE]] — Italienska A: Fonetik och muntlig språkfärdighet
 - [[GIT2TF]] — Italienska A: Grammatik och skriftlig språkfärdighet
 - [[GIT2TL]] — Italienska A: Kultur och samhälle, södra Italien
 - [[GIT2Y8]] — Italienska A: Kultur och samhälle
-- [[GIT2YE]] — Italienska A: Textanalys, barn- och ungdomsskildringar
 - [[GIT397]] — Italienska C: Examensarbete för kandidatexamen
+- [[GIT3KL]] — Italienska A: Textanalys, barn- och ungdomsskildringar
+- [[GIT3KM]] — Italienska A: Fonetik och muntlig språkfärdighet
+- [[GIT3KP]] — Italienska B: Muntlig språkfärdighet och kulturkunskap
 - [[IT1034]] — Italienska: Nybörjarkurs II
 
 ## Vilande kursplaner (21 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
+- [[GIT2A3]] — Italienska B: Muntlig språkfärdighet och kulturkunskap
 - [[GIT2T6]] — Italienska nobelpristagare i litteratur
 - [[GIT2TD]] — Italienska A: Italiensk affärskommunikation och -kultur
+- [[GIT2TE]] — Italienska A: Fonetik och muntlig språkfärdighet
 - [[GIT2TG]] — Italienska A: Kultur och samhälle, norra Italien
 - [[GIT2TH]] — Italienska A: Textanalys, en litterär resa i norra Italien
 - [[GIT2TJ]] — Italienska A: Textanalys, en litterär resa på de italienska öarna
@@ -46,9 +48,7 @@ up: "[[ISLL]]"
 - [[GIT2YB]] — Italienska A: Textanalys, det nya millenniets skönlitteratur
 - [[GIT2YC]] — Italienska A: Textanalys, 1900-talets skönlitteratur
 - [[GIT2YD]] — Italienska A: Textanalys, kvinnoskildringar
-- [[GIT3KL]] — Italienska A: Textanalys, barn- och ungdomsskildringar
-- [[GIT3KM]] — Italienska A: Fonetik och muntlig språkfärdighet
+- [[GIT2YE]] — Italienska A: Textanalys, barn- och ungdomsskildringar
 - [[GIT3KN]] — Italienska A: Grammatik och skriftlig språkfärdighet
-- [[GIT3KP]] — Italienska B: Muntlig språkfärdighet och kulturkunskap
 - [[GIT3KQ]] — Italienska B: Grammatik och skriftlig produktion
 - [[GIT3KR]] — Italienska B: Litteraturhistoria med textanalys

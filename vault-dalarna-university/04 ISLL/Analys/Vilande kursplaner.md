@@ -133,8 +133,10 @@ status: första pass
 > | [AJP2A9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP2A9) | <a class="no-graph" href="04-ISLL/Kursplaner/JAA/AJP2A9">sida</a> | JAA | ISLL | 2023-12-08 | — | Ingen aktiv kursomgång |
 > | [ATY29E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATY29E) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/ATY29E">sida</a> | TYA | ISLL | 2023-06-28 | 2023-12-08 | Ingen aktiv kursomgång |
 > | [TY3013](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TY3013) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/TY3013">sida</a> | TYA | ISLL | 2013-11-07 | 2023-12-08 | Ingen aktiv kursomgång |
+> | [GIT2A3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2A3) | <a class="no-graph" href="04-ISLL/Kursplaner/ITA/GIT2A3">sida</a> | ITA | ISLL | 2019-06-19 | 2023-12-18 | Ingen aktiv kursomgång |
 > | [GIT2T6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2T6) | <a class="no-graph" href="04-ISLL/Kursplaner/ITA/GIT2T6">sida</a> | ITA | ISLL | 2021-12-21 | 2023-12-18 | Ingen aktiv kursomgång |
 > | [GIT2TD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TD) | <a class="no-graph" href="04-ISLL/Kursplaner/ITA/GIT2TD">sida</a> | ITA | ISLL | 2021-12-21 | 2023-12-18 | Ingen aktiv kursomgång |
+> | [GIT2TE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TE) | <a class="no-graph" href="04-ISLL/Kursplaner/ITA/GIT2TE">sida</a> | ITA | ISLL | 2021-12-21 | 2023-12-18 | Ingen aktiv kursomgång |
 > | [GIT2TG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TG) | <a class="no-graph" href="04-ISLL/Kursplaner/ITA/GIT2TG">sida</a> | ITA | ISLL | 2021-12-21 | 2023-12-18 | Ingen aktiv kursomgång |
 > | [GIT2TH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TH) | <a class="no-graph" href="04-ISLL/Kursplaner/ITA/GIT2TH">sida</a> | ITA | ISLL | 2021-12-21 | 2023-12-18 | Ingen aktiv kursomgång |
 > | [GIT2TJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2TJ) | <a class="no-graph" href="04-ISLL/Kursplaner/ITA/GIT2TJ">sida</a> | ITA | ISLL | 2021-12-21 | 2023-12-18 | Ingen aktiv kursomgång |
@@ -148,6 +150,7 @@ status: första pass
 > | [GIT2YB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2YB) | <a class="no-graph" href="04-ISLL/Kursplaner/ITA/GIT2YB">sida</a> | ITA | ISLL | 2022-11-11 | 2023-12-18 | Ingen aktiv kursomgång |
 > | [GIT2YC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2YC) | <a class="no-graph" href="04-ISLL/Kursplaner/ITA/GIT2YC">sida</a> | ITA | ISLL | 2022-11-11 | 2023-12-18 | Ingen aktiv kursomgång |
 > | [GIT2YD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2YD) | <a class="no-graph" href="04-ISLL/Kursplaner/ITA/GIT2YD">sida</a> | ITA | ISLL | 2022-11-11 | 2023-12-18 | Ingen aktiv kursomgång |
+> | [GIT2YE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2YE) | <a class="no-graph" href="04-ISLL/Kursplaner/ITA/GIT2YE">sida</a> | ITA | ISLL | 2022-11-11 | 2023-12-18 | Ingen aktiv kursomgång |
 > | [GSP39N](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP39N) | <a class="no-graph" href="04-ISLL/Kursplaner/SPA/GSP39N">sida</a> | SPA | ISLL | 2023-12-19 | — | Ingen aktiv kursomgång |
 > | [GSS39S](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS39S) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/GSS39S">sida</a> | SSA | ISLL | 2023-12-19 | — | Ingen aktiv kursomgång |
 > | [GSS39T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS39T) | <a class="no-graph" href="04-ISLL/Kursplaner/SSA/GSS39T">sida</a> | SSA | ISLL | 2023-12-19 | — | Ingen aktiv kursomgång |
@@ -173,10 +176,7 @@ status: första pass
 > | [ASV2CQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASV2CQ) | <a class="no-graph" href="04-ISLL/Kursplaner/SVE/ASV2CQ">sida</a> | SVE | ISLL | 2026-05-13 | — | Ingen aktiv kursomgång |
 > | [AEN2CT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2CT) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/AEN2CT">sida</a> | ENA | ISLL | 2026-06-16 | — | Ingen aktiv kursomgång |
 > | [AEN2CU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2CU) | <a class="no-graph" href="04-ISLL/Kursplaner/ENA/AEN2CU">sida</a> | ENA | ISLL | 2026-06-16 | — | Ingen aktiv kursomgång |
-> | [GIT3KL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT3KL) | <a class="no-graph" href="04-ISLL/Kursplaner/ITA/GIT3KL">sida</a> | ITA | ISLL | 2026-06-16 | — | Ingen aktiv kursomgång |
-> | [GIT3KM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT3KM) | <a class="no-graph" href="04-ISLL/Kursplaner/ITA/GIT3KM">sida</a> | ITA | ISLL | 2026-06-16 | — | Ingen aktiv kursomgång |
 > | [GIT3KN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT3KN) | <a class="no-graph" href="04-ISLL/Kursplaner/ITA/GIT3KN">sida</a> | ITA | ISLL | 2026-06-16 | — | Ingen aktiv kursomgång |
-> | [GIT3KP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT3KP) | <a class="no-graph" href="04-ISLL/Kursplaner/ITA/GIT3KP">sida</a> | ITA | ISLL | 2026-06-16 | — | Ingen aktiv kursomgång |
 > | [GIT3KQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT3KQ) | <a class="no-graph" href="04-ISLL/Kursplaner/ITA/GIT3KQ">sida</a> | ITA | ISLL | 2026-06-16 | — | Ingen aktiv kursomgång |
 > | [GIT3KR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT3KR) | <a class="no-graph" href="04-ISLL/Kursplaner/ITA/GIT3KR">sida</a> | ITA | ISLL | 2026-06-16 | — | Ingen aktiv kursomgång |
 > | [GSP3KS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSP3KS) | <a class="no-graph" href="04-ISLL/Kursplaner/SPA/GSP3KS">sida</a> | SPA | ISLL | 2026-06-16 | — | Ingen aktiv kursomgång |

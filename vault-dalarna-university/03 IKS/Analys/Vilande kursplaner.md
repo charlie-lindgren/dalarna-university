@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (410 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (411 rader)</span></a>
 
-> [!example]- 410 fynd — klicka för att expandera
+> [!example]- 411 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Institution | Fastställd | Reviderad | Problem |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -81,6 +81,7 @@ status: första pass
 > | [PE2016](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE2016) | <a class="no-graph" href="03-IKS/Kursplaner/PEA/PE2016">sida</a> | PEA | IKS | 2010-10-07 | 2013-03-06 | Ingen aktiv kursomgång |
 > | [PE2017](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PE2017) | <a class="no-graph" href="03-IKS/Kursplaner/PEA/PE2017">sida</a> | PEA | IKS | 2012-09-20 | 2013-03-06 | Ingen aktiv kursomgång |
 > | [NA1027](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NA1027) | <a class="no-graph" href="03-IKS/Kursplaner/NAA/NA1027">sida</a> | NAA | IKS | 2009-10-19 | 2013-03-07 | Ingen aktiv kursomgång |
+> | [NA1028](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NA1028) | <a class="no-graph" href="03-IKS/Kursplaner/NAA/NA1028">sida</a> | NAA | IKS | 2009-10-19 | 2013-03-07 | Ingen aktiv kursomgång |
 > | [HI1014](https://www.du.se/sv/utbildning/kurser/kursplan/?code=HI1014) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/HI1014">sida</a> | HIA | IKS | 2013-03-11 | — | Ingen aktiv kursomgång |
 > | [PG2043](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PG2043) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/PG2043">sida</a> | PGA | IKS | 2012-10-09 | 2013-05-15 | Ingen aktiv kursomgång |
 > | [RV1045](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1045) | <a class="no-graph" href="03-IKS/Kursplaner/RVA/RV1045">sida</a> | RVA | IKS | 2013-05-23 | — | Ingen aktiv kursomgång |
