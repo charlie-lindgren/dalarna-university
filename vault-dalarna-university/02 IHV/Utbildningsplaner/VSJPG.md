@@ -9,6 +9,14 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSJPG
 up: "IHV"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Metoder för evidensbaserad vård II` → `GVÅ2ZY` (nedlagd 2026-09-04) — wikilink-länk till nedlagd kod |
+<!-- analys:end -->
+
 # VSJPG
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSJPG)

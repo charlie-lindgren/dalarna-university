@@ -9,6 +9,15 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SDUVA
 up: "IKS"
 ---
 
+<!-- analys:start -->
+> [!warning]- 2 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Marknadsföring av platser och destinationer` → `FÖ3035` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Evenemangsturism` (7,5 hp) |
+<!-- analys:end -->
+
 # SDUVA
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SDUVA)

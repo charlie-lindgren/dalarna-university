@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (252 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (254 rader)</span></a>
 
-> [!example]- 252 fynd — klicka för att expandera
+> [!example]- 254 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -97,6 +97,8 @@ status: första pass
 > | [GIH3D4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3D4) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH3D4">sida</a> | IDA | 2024-11-12 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [GIH3D5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3D5) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH3D5">sida</a> | IDA | 2024-11-12 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [GIH3D6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3D6) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH3D6">sida</a> | IDA | 2024-11-12 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [GIH3L2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3L2) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH3L2">sida</a> | IDA | 2026-09-02 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 1 mål (diff 4) |
+> | [GIH3L2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3L2) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH3L2">sida</a> | IDA | 2026-09-02 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
 > | [IH1001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1001) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/IH1001">sida</a> | IDA | 2011-01-26 | — | Paritetsskillnad | Svenska: 10 mål, engelska: 1 mål (diff 9) |
 > | [IH1001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1001) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/IH1001">sida</a> | IDA | 2011-01-26 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
 > | [IH1002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=IH1002) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/IH1002">sida</a> | IDA | 2011-01-26 | — | Paritetsskillnad | Svenska: 13 mål, engelska: 1 mål (diff 12) |

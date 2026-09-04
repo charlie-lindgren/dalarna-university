@@ -9,6 +9,26 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=HFRIG
 up: "IKS"
 ---
 
+<!-- analys:start -->
+> [!warning]- 13 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Introduktion till produktion av rörlig bild` → `GBQ2UB` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Den korta filmens berättarstruktur` → `GBQ2U8` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Tillämpad filmdesign 1` → `GBQ2U7` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Tillämpad filmdesign 2` → `GBQ2WH` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Ljudinspelning och ljudläggning inom filmdesign` → `GBQ2XD` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Ljussättning och färgkorrigering inom filmdesign` → `GBQ2AZ` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Projektplanering och användarperspektiv` → `GBQ2NH` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Informationsfilmsproduktion` → `GBQ2U4` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Audiovisuell information och etik` → `GBQ2WG` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Reklamfilmsproduktion` → `GBQ2WJ` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Vetenskapsteori och metod i Bildproduktion` → `GBQ2NM` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Kvalificerad filmdesign i transmedia` → `GBQ2U5` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Exponeringsprojekt i Bildproduktion` → `GBQ29E` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+<!-- analys:end -->
+
 # HFRIG
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=HFRIG)

@@ -9,6 +9,23 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SPARG
 up: "IKS"
 ---
 
+<!-- analys:start -->
+> [!warning]- 10 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Arbetsrätt i personalarbetets praktik` (15 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Grunder i personalekonomisk styrning` (15 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Arbetsmarknad i ett jämförande internationellt perspektiv` (7,5 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Arbetsmiljökunskap i ett jämförande internationellt perspektiv` (7,5 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Examensarbete inom arbetsvetenskap` (15 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Forskningsprocess och analysmetoder` (7,5 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Komplexa arbetsorganisationer` (7,5 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Komplexa sociala processer i arbetslivet` (7,5 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Vetenskap och metod` (7,5 hp) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Personalarbete med praktik` (15 hp) — sannolikt avses `Personalarbete - med praktik` (kurskod `GAB3HQ`) |
+<!-- analys:end -->
+
 # SPARG
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SPARG)

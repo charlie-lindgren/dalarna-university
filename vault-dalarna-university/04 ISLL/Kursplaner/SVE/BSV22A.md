@@ -7,8 +7,8 @@ niva: "Behörighetsgivande förutbildning"
 amne: "Svenska"
 amne_kod: "SVE"
 institution: "ISLL"
-tags: [kursplan, SVE, ISLL, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, SVE, ISLL, stray]
+
 scrape_hash: 32071d4a693b3470
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=BSV22A
 up: "[[Svenska]]"

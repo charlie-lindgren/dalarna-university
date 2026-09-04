@@ -9,6 +9,23 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KLJMG
 up: "IKS"
 ---
 
+<!-- analys:start -->
+> [!warning]- 10 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Introduktion till medieproduktion` → `GLP2FH` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Audioteknologi 1` → `GLP29R` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Ljudteori` → `GLP2FP` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Ljudskapande till rörliga bilder` → `GLP29S` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Inspelning i studio` → `GLP2QU` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Audioteknologi 2` → `LP1080` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Vetenskaplig uppsats i Ljud- och musikproduktion` → `LP1065` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Produktionsprocesser och -villkor inom musikproduktion` → `LP1072` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Konceptutveckling inom medieproduktion i Ljud- och musikproduktion` (7,5 hp) — sannolikt avses `Konceptutveckling inom medieproduktion för Ljud- och musikproduktion` (kurskod `GLP2NK`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Arbetsplatsförlagd utbildning för medieproduktion` (15 hp) — sannolikt avses `Arbetsplatsförlagd utbildning i medieproduktion` (kurskod `GLP32S`) |
+<!-- analys:end -->
+
 # KLJMG
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KLJMG)

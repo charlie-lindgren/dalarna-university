@@ -9,6 +9,14 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VIDRG
 up: "IHV"
 ---
 
+<!-- analys:start -->
+> [!warning]- 1 kvalitetsnotering i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Media och kommunikation inom idrott` (7,5hp) — sannolikt avses `Medier och kommunikation inom idrott` (kurskod `GIH3GF`) |
+<!-- analys:end -->
+
 # VIDRG
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VIDRG)

@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (116 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (114 rader)</span></a>
 
-> [!example]- 116 fynd — klicka för att expandera
+> [!example]- 114 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Institution | Fastställd | Reviderad | Problem |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -97,7 +97,6 @@ status: första pass
 > | [FEB222P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222P) | <a class="no-graph" href="01-IIT/Kursplaner/ENERGIBM/FEB222P">sida</a> | ENERGIBM | IIT | 2023-10-03 | — | Ingen aktiv kursomgång |
 > | [GET36T](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GET36T) | <a class="no-graph" href="01-IIT/Kursplaner/ETA/GET36T">sida</a> | ETA | IIT | 2023-10-03 | — | Ingen aktiv kursomgång |
 > | [GIK36R](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK36R) | <a class="no-graph" href="01-IIT/Kursplaner/IKA/GIK36R">sida</a> | IKA | IIT | 2023-10-03 | — | Ingen aktiv kursomgång |
-> | [FEB222Q](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222Q) | <a class="no-graph" href="01-IIT/Kursplaner/ENERGIBM/FEB222Q">sida</a> | ENERGIBM | IIT | 2023-10-31 | — | Ingen aktiv kursomgång |
 > | [GIK375](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK375) | <a class="no-graph" href="01-IIT/Kursplaner/IKA/GIK375">sida</a> | IKA | IIT | 2023-10-31 | — | Ingen aktiv kursomgång |
 > | [GIK376](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK376) | <a class="no-graph" href="01-IIT/Kursplaner/IKA/GIK376">sida</a> | IKA | IIT | 2023-10-31 | — | Ingen aktiv kursomgång |
 > | [GIK377](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK377) | <a class="no-graph" href="01-IIT/Kursplaner/IKA/GIK377">sida</a> | IKA | IIT | 2023-10-31 | — | Ingen aktiv kursomgång |
@@ -126,7 +125,6 @@ status: första pass
 > | [BMA229](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BMA229) | <a class="no-graph" href="01-IIT/Kursplaner/MAA/BMA229">sida</a> | MAA | IIT | 2026-05-25 | — | Ingen aktiv kursomgång |
 > | [GMT3K5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3K5) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/GMT3K5">sida</a> | MTA | IIT | 2026-05-25 | — | Ingen aktiv kursomgång |
 > | [GMT3K6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3K6) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/GMT3K6">sida</a> | MTA | IIT | 2026-05-25 | — | Ingen aktiv kursomgång |
-> | [GDV3KW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDV3KW) | <a class="no-graph" href="01-IIT/Kursplaner/DVE/GDV3KW">sida</a> | DVE | IIT | 2026-06-23 | — | Ingen aktiv kursomgång |
 > | [GDV3KX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDV3KX) | <a class="no-graph" href="01-IIT/Kursplaner/DVE/GDV3KX">sida</a> | DVE | IIT | 2026-06-23 | — | Ingen aktiv kursomgång |
 > | [GDV3KY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDV3KY) | <a class="no-graph" href="01-IIT/Kursplaner/DVE/GDV3KY">sida</a> | DVE | IIT | 2026-06-23 | — | Ingen aktiv kursomgång |
 > | [GDV3KZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDV3KZ) | <a class="no-graph" href="01-IIT/Kursplaner/DVE/GDV3KZ">sida</a> | DVE | IIT | 2026-06-23 | — | Ingen aktiv kursomgång |

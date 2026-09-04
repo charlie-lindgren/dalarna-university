@@ -9,6 +9,22 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFTPG
 up: "IKS"
 ---
 
+<!-- analys:start -->
+> [!warning]- 9 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Introduktion till produktion av rörlig bild` → `GBQ2UB` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Grunderna i filmproduktion` → `GBQ3A5` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `TV-nyheter och flerkameraproduktion` → `BQ1081` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Flerkameraproduktion, fördjupning` → `GBQ29D` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Kvalificerad filmproduktion` → `GBQ22U` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Vetenskapsteori och metod i Bildproduktion` → `GBQ2NM` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Konceptutveckling inom medieproduktion` → `BQ2049` (nedlagd 2025-03-06) — plain-text-referens |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Exponeringsprojekt i bildproduktion` → `GBQ29E` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Digitalefterbearbetning av ljud och bild` (15 hp) — sannolikt avses `Digital efterbearbetning av ljud och bild` (kurskod `GBQ2AY`) |
+<!-- analys:end -->
+
 # KFTPG
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFTPG)

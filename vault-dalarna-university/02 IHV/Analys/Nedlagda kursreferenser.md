@@ -8,14 +8,18 @@ status: första pass
 
 ## Problematiska utbildningsplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Nedlagda-kursreferenser.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (2 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Nedlagda-kursreferenser.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (6 rader)</span></a>
 
-> [!example]- 2 fynd — klicka för att expandera
+> [!example]- 6 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj | Förslag |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [VBSKA](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VBSKA) | <a class="no-graph" href="02-IHV/Utbildningsplaner/VBSKA">sida</a> | Utbildningsplan | 2019-09-10 | — | Programmet listar nedlagd kurs | `Gynekologisk och postpartumvård, verksamhetsförlagd utbildning` | `VÅ3086` (nedlagd 2017-04-07) — plain-text-referens |
+> | [VSJPG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSJPG) | <a class="no-graph" href="02-IHV/Utbildningsplaner/VSJPG">sida</a> | Utbildningsplan | 2023-11-07 | — | Programmet listar nedlagd kurs | `Metoder för evidensbaserad vård II` | `GVÅ2ZY` (nedlagd 2026-09-04) — wikilink-länk till nedlagd kod |
 > | [VSSKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSSKG) | <a class="no-graph" href="02-IHV/Utbildningsplaner/VSSKG">sida</a> | Utbildningsplan | 2018-12-04 | 2020-12-17 | Programmet listar nedlagd kurs | `Introduktion omvårdnad och etik - Huvudområde Omvårdnad` | `VÅ1061` (nedlagd 2025-06-03) — plain-text-referens |
+> | [VSSKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSSKG) | <a class="no-graph" href="02-IHV/Utbildningsplaner/VSSKG">sida</a> | Utbildningsplan | 2018-12-04 | 2020-12-17 | Programmet listar nedlagd kurs | `Människans grundläggande omvårdnadsbehov - Huvudområde Omvårdnad` | `GVÅ2RA` (nedlagd 2026-09-04) — wikilink-länk till nedlagd kod |
+> | [VSSKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSSKG) | <a class="no-graph" href="02-IHV/Utbildningsplaner/VSSKG">sida</a> | Utbildningsplan | 2018-12-04 | 2020-12-17 | Programmet listar nedlagd kurs | `Metoder för evidensbaserad vård II - Huvudområde Omvårdnad` | `GVÅ2ZY` (nedlagd 2026-09-04) — wikilink-länk till nedlagd kod |
+> | [VSSKG](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSSKG) | <a class="no-graph" href="02-IHV/Utbildningsplaner/VSSKG">sida</a> | Utbildningsplan | 2018-12-04 | 2020-12-17 | Programmet listar nedlagd kurs | `Personcentrerad vård med fördjupning inom omvårdnad - Huvudområde Omvårdnad` | `GVÅ2ZG` (nedlagd 2026-09-04) — wikilink-länk till nedlagd kod |
 
 ## Syfte
 

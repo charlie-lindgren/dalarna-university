@@ -7,9 +7,10 @@ up: "[[ISLL]]"
 
 # Arabiska
 
-> Forskarutbildningsämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
+> Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
+> Huvudområde: Arabiska 1
 
-## Kurser (12 st)
+## Kurser (13 st)
 
 - [[AAR29B]] — Interkulturella litteraturstudier: Magisterexamensarbete
 - [[AR2012]] — Arabiska: Kandidatexamensarbete
@@ -21,10 +22,11 @@ up: "[[ISLL]]"
 - [[GAR38L]] — Arabiska III
 - [[GAR38M]] — Arabiska IV
 - [[GAR38N]] — Arabiska V
+- [[GAR39K]] — Modern arabisk ungdomslitteratur
 - [[GAR39L]] — Modern arabisk litteratur: social och politisk förändring
 - [[GAR39M]] — Ekokritik och miljöaspekter i arabisk litteratur
 
-## Vilande kursplaner (15 st)
+## Vilande kursplaner (14 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -42,4 +44,3 @@ up: "[[ISLL]]"
 - [[AR2010]] — Arabiska: Avancerad grammatik
 - [[AR2011]] — Den arabiska akademiska kanon
 - [[GAR2SQ]] — Modern arabisk litteratur
-- [[GAR39K]] — Modern arabisk ungdomslitteratur

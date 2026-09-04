@@ -9,6 +9,24 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFTKG
 up: "IKS"
 ---
 
+<!-- analys:start -->
+> [!warning]- 11 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Manus för TV och film 1. Filmberättandets grundelement och gestaltning` → `GBQ27K` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Manus för TV och film 2. Dramaturgi, manusskrivande och genre` → `BQ1079` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Introduktion till produktion av rörlig bild för Manus för film och TV` → `GBQ2HC` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Grunderna i filmproduktion för Manus för film och TV` → `GBQ2HD` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Filmanalys och gestaltning` → `GBQ2UN` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Dokumentär metod för filmisk framställning` → `BQ1094` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Fakta, fiktion och flerkameraproduktion` → `GBQ2EB` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Manus för TV och film 3. Dialog i audiovisuella medier` → `GBQ2XC` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Manus för TV och film 4. TV-format och klassiskt berättande` → `BQ2058` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Vetenskapsteori och metod i Bildproduktion` → `GBQ2NM` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Kvalificerat filmmanusprojekt` → `GBQ2QB` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+<!-- analys:end -->
+
 # KFTKG
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KFTKG)
