@@ -7,8 +7,7 @@ up: "[[IKS]]"
 
 # Företagsekonomi
 
-> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
-> Huvudområde: Företagsekonomi 1
+> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
 ## Kurser (31 st)
 
@@ -44,17 +43,14 @@ up: "[[IKS]]"
 - [[GFÖ3JM]] — Ledning och marknadsföring i tjänsteföretag
 - [[GFÖ3JN]] — Sport Management III
 
-## Vilande kursplaner (10 st)
+## Vilande kursplaner (7 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
-- [[FÖ1041]] — Marknadsföring B
-- [[FÖ1042]] — Organisation B
+- [[AFÖ2CV]] — Organisationsteori och organisationsanalys
+- [[AFÖ2CW]] — Strategiskt management och hållbarhet
+- [[AFÖ2CY]] — Human Resource Management och organisatorisk prestation
 - [[FÖ2024]] — Human Resource Management
 - [[FÖ2032]] — Ledning och marknadsföring i tjänsteföretag
-- [[FÖ3035]] — Marknadsföring av platser och destinationer
 - [[GFÖ2B9]] — Ledarskap och organisationsbeteende
-- [[GFÖ2FF]] — Vetenskap och metod I
-- [[GFÖ2WN]] — Redovisning B
-- [[GFÖ35J]] — Turismmarknadsföring
 - [[GFÖ39A]] — Sport Management III

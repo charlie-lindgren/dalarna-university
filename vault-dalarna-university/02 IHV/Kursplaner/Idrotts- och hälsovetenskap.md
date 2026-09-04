@@ -7,10 +7,9 @@ up: "[[IHV]]"
 
 # Idrotts- och hälsovetenskap
 
-> Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
-> Huvudområde: Ej huvudområde 1
+> Forskarutbildningsämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 
-## Kurser (44 st)
+## Kurser (49 st)
 
 - [[AIH237]] — Examensarbete i idrott och hälsa för ämneslärarexamen inriktning grundskolans årskurs 7-9
 - [[AIH24T]] — Examensarbete i idrott och hälsa för ämneslärarexamen inriktning gymnasieskolan
@@ -46,18 +45,23 @@ up: "[[IHV]]"
 - [[GIH3FD]] — Träningslära
 - [[GIH3FF]] — Tillämpad Idrottsfysiologi
 - [[GIH3G4]] — Examensarbete för högskoleexamen i idrotts- och hälsovetenskap
+- [[GIH3G5]] — Idrottsvetenskaplig metod
+- [[GIH3G6]] — Idrottsvetenskaplig fördjupning
 - [[GIH3G7]] — Prestationsanalys och träningsplanering
+- [[GIH3G9]] — Entreprenörskap inom idrott och hälsa
 - [[GIH3GB]] — Introduktion till vetenskapligt skrivande och forskningsmetodik
+- [[GIH3GC]] — Idrottsnutrition
 - [[GIH3GD]] — Idrottspsykologi med praktisk tillämpning
 - [[GIH3GE]] — Idrottens organisation i samhället
 - [[GIH3GF]] — Medier och kommunikation inom idrott
 - [[GIH3GG]] — Idrottens funktionella anatomi och biomekanik
 - [[GIH3GH]] — Åldersanpassad träning
 - [[GIH3GJ]] — Tillämpad motorisk färdighetsträning
-- [[GIH3GK]] — Idrottsmedicin
-- [[IH1082]] — Journalistik och skriftlig PR inom idrottsområdet
+- [[GIH3JL]] — Tillämpad idrottsfysiologi
+- [[GIH3L2]] — Sportjournalistik och PR
+- [[GIH3L3]] — Idrottsmedicin
 
-## Vilande kursplaner (112 st)
+## Vilande kursplaner (109 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -126,13 +130,9 @@ up: "[[IHV]]"
 - [[GIH3F4]] — Idrottspsykologi med praktisk tillämpning
 - [[GIH3F5]] — Idrottens organisation i samhället
 - [[GIH3F8]] — Idrottens funktionella anatomi och biomekanik
-- [[GIH3G5]] — Idrottsvetenskaplig metod
-- [[GIH3G6]] — Idrottsvetenskaplig fördjupning
 - [[GIH3G8]] — Coachning och träningsprocesser i praktiken
-- [[GIH3G9]] — Entreprenörskap inom idrott och hälsa
 - [[GIH3GA]] — Examensarbete för kandidatexamen i idrotts- och hälsovetenskap
-- [[GIH3GC]] — Idrottsnutrition
-- [[GIH3JL]] — Tillämpad idrottsfysiologi
+- [[GIH3GK]] — Idrottsmedicin
 - [[IH1001]] — Idrott I
 - [[IH1002]] — Idrott II
 - [[IH1003]] — Rörelse, hälsa och lärande
@@ -153,6 +153,7 @@ up: "[[IHV]]"
 - [[IH1026]] — Idrottsmedicin för idrottare
 - [[IH1029]] — Idrott och hälsa på 2000-talet
 - [[IH1062]] — Fysisk aktivitet och hälsobefrämjande personlig träning II
+- [[IH1082]] — Journalistik och skriftlig PR inom idrottsområdet
 - [[IH1095]] — Innovation och entreprenörskap inom idrott och hälsa - idé- och konceptvärdering
 - [[IH1096]] — Innovation och entreprenörskap inom idrott och hälsa - affärsmodell
 - [[IH1097]] — Innovation och entreprenörskap inom idrott och hälsa - nätverk och partnerskap

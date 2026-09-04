@@ -7,12 +7,12 @@ up: "[[IKS]]"
 
 # Nationalekonomi
 
-> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
-> Huvudområde: Nationalekonomi 1
+> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (21 st)
+## Kurser (22 st)
 
 - [[ANA235]] — Ledarskapets ekonomi
+- [[GNA2RY]] — Statistik för ekonomer
 - [[GNA3B8]] — Makroekonomi, introduktion
 - [[GNA3B9]] — Internationell ekonomi
 - [[GNA3BA]] — Finansiella marknader och penningpolitik
@@ -34,12 +34,11 @@ up: "[[IKS]]"
 - [[NA3010]] — Examensarbete för magisterexamen i nationalekonomi
 - [[NA3011]] — Ekonometri
 
-## Vilande kursplaner (13 st)
+## Vilande kursplaner (12 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[GNA2NT]] — Finansiella marknader och penningpolitik
-- [[GNA2RY]] — Statistik för ekonomer
 - [[GNA3B7]] — Mikroekonomi, introduktion
 - [[NA1003]] — Finansiell ekonomi
 - [[NA1024]] — Mikroekonomi, introduktion - Distans

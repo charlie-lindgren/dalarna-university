@@ -7,15 +7,15 @@ up: "[[IKS]]"
 
 # Religionsvetenskap
 
-> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
-> Huvudområde: Religionsvetenskap 1
+> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (26 st)
+## Kurser (27 st)
 
 - [[ARK227]] — Mänskliga rättigheter och demokrati i Afrika söder om Sahara
 - [[ARK25B]] — Examensarbete i religionsvetenskap  för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 - [[ARK25C]] — Examensarbete i religionsvetenskap för ämneslärarexamen, inriktning gymnasieskolan
 - [[ARK262]] — Religion och våld i samtiden
+- [[ARK29H]] — Religionsvetenskaplig litteraturkurs
 - [[ARK29J]] — Religionsvetenskaplig vetenskapshistoria, teori och metod
 - [[ARK29K]] — Upplevelser av osynlig närvaro
 - [[ARK29L]] — Religionssociologiska perspektiv på barn och unga i slutna religiösa miljöer
@@ -39,13 +39,12 @@ up: "[[IKS]]"
 - [[RK2034]] — Mänskliga rättigheter som ideal: Historiska, filosofiska och politiska aspekter
 - [[RK2038]] — Kritik av mänskliga rättigheters normativa grund, tillämpning och universalisering
 
-## Vilande kursplaner (11 st)
+## Vilande kursplaner (10 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[ARK26T]] — Kabbala och judisk mystik från antiken till modern tid
 - [[ARK27Q]] — Kvinnor och gudinnor på gränsen till den äldsta förhistorien
-- [[ARK29H]] — Religionsvetenskaplig litteraturkurs
 - [[GRK2KL]] — Mänskliga rättigheter: Examensarbete för kandidatexamen
 - [[GRK2P4]] — Religionsvetenskap III med didaktisk inriktning för gymnasieskolan
 - [[GRK2R7]] — Religionsvetenskap III: Uppsats

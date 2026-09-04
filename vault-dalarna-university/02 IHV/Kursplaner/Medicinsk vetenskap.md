@@ -7,20 +7,21 @@ up: "[[IHV]]"
 
 # Medicinsk vetenskap
 
-> Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
-> Huvudområde: Ej huvudområde 1
+> Forskarutbildningsämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 
-## Kurser (7 st)
+## Kurser (9 st)
 
 - [[AMC28N]] — Evidensbaserat arbetssätt och forskningsmetodik inom fysioterapi
 - [[AMC2BG]] — Förskrivningsrätt för vissa läkemedel och förbrukningsartiklar
+- [[GMC2AH]] — Medicinsk baskurs - Anatomi och fysiologi
 - [[GMC32X]] — Vård och behandling vid blås- och tarmdysfunktion
 - [[GMC37E]] — Anatomi och fysiologi för sjuksköterskor II
 - [[GMC37F]] — Farmakologi, mikrobiologi och immunologi
 - [[GMC37T]] — Anatomi och fysiologi för sjuksköterskor I
 - [[MC1072]] — Anatomi och fysiologi I
+- [[MC2023]] — Kardiologi
 
-## Vilande kursplaner (19 st)
+## Vilande kursplaner (17 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -35,11 +36,9 @@ up: "[[IHV]]"
 - [[AMC2A7]] — Kardiologi: Arytmi
 - [[AMC2AE]] — Fysioterapi med fokus på smärta och hållbar utveckling
 - [[GMC22H]] — Anatomi och fysiologi II
-- [[GMC2AH]] — Medicinsk baskurs - Anatomi och fysiologi
 - [[GMC2M2]] — Anatomi och fysiologi II
 - [[MC1077]] — Mikrobiologi och farmakologi
 - [[MC1079]] — Farmakologi
 - [[MC2017]] — Psykiatri ur olika perspektiv I
 - [[MC2020]] — Akutsjukvård
-- [[MC2023]] — Kardiologi
 - [[MC3027]] — Förskrivningsrätt för vissa läkemedel och förbrukningsartiklar

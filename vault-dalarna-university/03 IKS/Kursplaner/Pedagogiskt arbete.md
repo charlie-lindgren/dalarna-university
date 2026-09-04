@@ -7,10 +7,9 @@ up: "[[IKS]]"
 
 # Pedagogiskt arbete
 
-> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
-> Huvudområde: Ej huvudområde 1
+> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (78 st)
+## Kurser (80 st)
 
 - [[APG22X]] — Tematisk fördjupning inom ett utbildningsvetenskapligt område
 - [[APG244]] — Vetenskapsteori och utbildningsvetenskaplig forskning för grundlärare F-3
@@ -70,6 +69,7 @@ up: "[[IKS]]"
 - [[GPG3AC]] — Didaktik och ledarskap för ämneslärare årskurs 7–9 - AIL
 - [[GPG3AD]] — Verksamhetsförlagd utbildning 1 för ämneslärare årskurs 7–9 - AIL
 - [[GPG3AE]] — Utveckling och lärande för ämneslärare årskurs 7-9 - AIL
+- [[GPG3AF]] — Specialpedagogik och ett läraruppdrag i förändring för ämneslärare årskurs 7–9 - AIL
 - [[GPG3BE]] — Didaktik och ledarskap - VAL
 - [[GPG3CF]] — Utveckling och lärande i förskoleklass och grundskolans åk 1-3 (varav 7,5 hp VFU)
 - [[GPG3CG]] — Utveckling och lärande i grundskolans åk 4-6 (varav 7,5 hp VFU)
@@ -89,9 +89,10 @@ up: "[[IKS]]"
 - [[PG3031]] — Utbildningsfilosofiska perspektiv
 - [[PG3041]] — Utbildningsvetenskapliga teorier
 - [[PG3061]] — Att kritiskt granska utbildningsvetenskaplig forskning
+- [[PG3065]] — Examensarbete för magisterexamen i pedagogiskt arbete
 - [[PG3069]] — Utbildningsvetenskapliga ansatser - teoretisk och  metodologisk fördjupning
 
-## Vilande kursplaner (33 st)
+## Vilande kursplaner (31 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -114,7 +115,6 @@ up: "[[IKS]]"
 - [[GPG2VW]] — Professionellt lärarskap och skolutveckling (varav 10 hp VFU)
 - [[GPG36A]] — Didaktik och läroplansteori - KPU
 - [[GPG36B]] — Didaktik och läroplansteori
-- [[GPG3AF]] — Specialpedagogik och ett läraruppdrag i förändring för ämneslärare årskurs 7–9 - AIL
 - [[GPG3AG]] — Verksamhetsförlagd utbildning 2 för ämneslärare årskurs 7–9 - AIL
 - [[GPG3BD]] — Introduktion till läraryrket
 - [[GPG3CN]] — Undervisning och lärande genom rollspel - inriktning pedagogiskt arbete
@@ -127,4 +127,3 @@ up: "[[IKS]]"
 - [[PG3024]] — Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare F-3
 - [[PG3025]] — Specialpedagogik, pedagogisk dokumentation och bedömning för grundlärare 4-6
 - [[PG3056]] — Perspektiv på pedagogisk praktik
-- [[PG3065]] — Examensarbete för magisterexamen i pedagogiskt arbete

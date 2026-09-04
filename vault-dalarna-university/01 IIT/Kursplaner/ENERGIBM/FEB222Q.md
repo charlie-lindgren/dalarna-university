@@ -7,11 +7,10 @@ niva: "Forskarnivå"
 amne: "Forskarämne Energisystem i byggd miljö"
 amne_kod: "ENERGIBM"
 institution: "IIT"
-tags: [kursplan, ENERGIBM, IIT, forskarutbildning, vilande]
+tags: [kursplan, ENERGIBM, IIT, forskarutbildning]
 scrape_hash: 1d9edcc8ce919888
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222Q
-up: "[[Forskarämne Energisystem i byggd miljö]]"
-cssclasses: [vilande]
+up: "[[Energisystem i byggd miljö]]"
 ---
 
 <!-- analys:start -->

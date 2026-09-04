@@ -9,18 +9,6 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SENGR
 up: "IKS"
 ---
 
-<!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Makroekonomi introduktion` (7,5 hp) — sannolikt avses `Makroekonomi, introduktion` (kurskod `GNA3B8`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Mikroekonomi introduktion` (7,5 hp) — sannolikt avses `Mikroekonomi, introduktion` (kurskod `GNA3FN`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Mikroekonomi fortsättningskurs` (7,5 hp) — sannolikt avses `Mikroekonomi, fortsättningskurs` (kurskod `NA1033`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Makroekonomi fortsättning` (7,5 hp) — sannolikt avses `Makroekonomi, fortsättning` (kurskod `NA1036`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Samhällsekonomisk utvärdering av offentliga projekt` (7,5 hp) — sannolikt avses `Samhällsekonomisk utvärdering av offentliga projekt (Cost-Benefit Analysis)` (kurskod `NA2009`) |
-<!-- analys:end -->
-
 # SENGR
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SENGR)

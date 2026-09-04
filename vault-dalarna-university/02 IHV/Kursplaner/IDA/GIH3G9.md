@@ -8,8 +8,8 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
-tags: [kursplan, IDA, IHV, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, IDA, IHV, stray]
+
 scrape_hash: e04ae02ba1f3373a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3G9
 up: "[[Idrotts- och hälsovetenskap]]"

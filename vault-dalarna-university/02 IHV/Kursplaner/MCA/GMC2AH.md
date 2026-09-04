@@ -8,8 +8,8 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Medicinsk vetenskap"
 amne_kod: "MCA"
 institution: "IHV"
-tags: [kursplan, MCA, IHV, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, MCA, IHV, stray]
+
 scrape_hash: 4fadfa0450c88748
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMC2AH
 up: "[[Medicinsk vetenskap]]"

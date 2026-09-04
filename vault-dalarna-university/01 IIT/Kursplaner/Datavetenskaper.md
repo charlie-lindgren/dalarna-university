@@ -8,13 +8,15 @@ up: "[[IIT]]"
 # Datavetenskaper
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
-> Huvudområde: Datavetenskaper 1
 
-## Vilande kursplaner (4 st)
+## Kurser (1 st)
+
+- [[GDV3KW]] — Relationsdatabaser
+
+## Vilande kursplaner (3 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
-- [[GDV3KW]] — Relationsdatabaser
 - [[GDV3KX]] — Programutvecklingsteknik
 - [[GDV3KY]] — Datasäkerhet och integritet
 - [[GDV3KZ]] — Projekt och agila arbetsmetoder

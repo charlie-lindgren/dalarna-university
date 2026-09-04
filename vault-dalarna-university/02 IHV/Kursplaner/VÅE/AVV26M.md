@@ -8,8 +8,8 @@ huvudomrade: "Socialt arbete 1 Vårdvetenskap 2"
 amne: "Vårdvetenskap"
 amne_kod: "VÅE"
 institution: "IHV"
-tags: [kursplan, VÅE, IHV, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, VÅE, IHV, stray]
+
 scrape_hash: a0d4b5e0f2387065
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AVV26M
 up: "[[Vårdvetenskap]]"

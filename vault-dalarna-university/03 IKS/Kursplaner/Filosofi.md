@@ -7,12 +7,10 @@ up: "[[IKS]]"
 
 # Filosofi
 
-> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
-> Huvudområde: Ej huvudområde 1
+> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (10 st)
+## Kurser (9 st)
 
-- [[AFI273]] — Humanvetenskapernas vetenskapsteori
 - [[FI1028]] — Filosofi: Filosofi I
 - [[FI1029]] — Filosofi: Filosofisk metod och kritiskt tänkande
 - [[FI1030]] — Filosofi: Filosofins historia
@@ -23,10 +21,11 @@ up: "[[IKS]]"
 - [[GFI293]] — Samhällsvetenskapernas vetenskapsteori
 - [[GFI3BT]] — Introduktion till hermeneutiken
 
-## Vilande kursplaner (12 st)
+## Vilande kursplaner (13 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
+- [[AFI273]] — Humanvetenskapernas vetenskapsteori
 - [[FI1023]] — Filosofi och vetenskapsteori
 - [[FI1024]] — Filosofi: Två teman inom filosofi
 - [[FI1026]] — Filosofi: Moralfilosofi

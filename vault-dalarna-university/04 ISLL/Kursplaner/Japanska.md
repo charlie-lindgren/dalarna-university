@@ -7,12 +7,10 @@ up: "[[ISLL]]"
 
 # Japanska
 
-> Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
-> Huvudområde: Interkulturella litteraturstudier 1
+> Forskarutbildningsämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (17 st)
+## Kurser (16 st)
 
-- [[AJP2AG]] — Japanska: Översättningens praktik
 - [[GJP23L]] — Japanska III: Att läsa manga
 - [[GJP23S]] — Japanska I: Språkfärdighet
 - [[GJP242]] — Japanska III: Språkfärdighet
@@ -30,7 +28,7 @@ up: "[[ISLL]]"
 - [[GJP3B3]] — Japanska: Kandidatexamensarbete
 - [[JP1050]] — Japanska I: Grundläggande språkfärdighet
 
-## Vilande kursplaner (18 st)
+## Vilande kursplaner (19 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -47,6 +45,7 @@ up: "[[ISLL]]"
 - [[AJP27B]] — Interkulturella litteraturstudier: Akademisk läsning
 - [[AJP287]] — Japanska: Interkulturell kommunikation
 - [[AJP2A9]] — Interkulturella litteraturstudier: Masterexamensarbete
+- [[AJP2AG]] — Japanska: Översättningens praktik
 - [[AJP2AH]] — Klassisk japanska
 - [[GJP243]] — Japanska IV: Språkfärdighet
 - [[JP1045]] — Att kommunicera på japanskt vis

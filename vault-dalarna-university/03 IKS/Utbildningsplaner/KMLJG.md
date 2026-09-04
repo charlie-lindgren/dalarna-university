@@ -9,22 +9,6 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KMLJG
 up: "IKS"
 ---
 
-<!-- analys:start -->
-> [!warning]- 9 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Audioteknologi I` → `GLP29R` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Audioteknologi II` → `LP1080` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Ljudteori` → `GLP2FP` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Inspelning i studio` → `GLP2QU` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Introduktion till Musik- och ljuddesign` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Ljudskapande och ljudsyntes` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Vår tids musik och musikliv` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Företagsekonomi för musikbranschen` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Musikbranschen` (7,5 hp) |
-<!-- analys:end -->
-
 # KMLJG
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=KMLJG)

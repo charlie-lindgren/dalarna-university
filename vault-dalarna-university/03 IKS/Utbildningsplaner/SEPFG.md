@@ -9,15 +9,6 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SEPFG
 up: "IKS"
 ---
 
-<!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Entreprenörskap - entreprenörskapets villkor och särart` (7,5 hp) — sannolikt avses `Entreprenörskap - villkor och särart` (kurskod `EU1027`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Förhandlings  försäljnings  och dialogkonst` (7,5 hp) — sannolikt avses `Försäljnings-, förhandling- och dialogkonst` (kurskod `EU1034`) |
-<!-- analys:end -->
-
 # SEPFG
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SEPFG)

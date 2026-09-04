@@ -7,14 +7,15 @@ up: "[[IKS]]"
 
 # Historia
 
-> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (24 st)
+## Kurser (26 st)
 
 - [[AHI23V]] — Examensarbete i historia för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 - [[AHI23W]] — Examensarbete i historia för ämneslärarexamen, inriktning gymnasieskolan
 - [[AHI272]] — Afrikanska studier: Litteratur och politik i det samtida Afrika
-- [[AHI29P]] — Examensarbete, magisterexamen i historia
+- [[AHI29Q]] — Historievetenskaplig litteraturkurs
+- [[AHI29R]] — Historievetenskapens teori och metod
 - [[AS2004]] — Afrikanska studier: Utbildning och förändring i afrikanska samhällen
 - [[AS2005]] — Afrikanska studier: Afrikanska samhällen i förändring
 - [[AS2006]] — Afrikanska studier: Religion och politik i afrikanska samhällen
@@ -34,16 +35,16 @@ up: "[[IKS]]"
 - [[GHI362]] — Historia III, med examensarbete för kandidatexamen
 - [[GHI374]] — Historia II med didaktisk inriktning för gymnasieskolan
 - [[GHI378]] — Historia II med didaktisk inriktning för grundskolans årskurs 7-9
+- [[GHI3CP]] — Undervisning och lärande genom rollspel – inriktning historiedidaktik
 - [[GHI3JX]] — Historia III med didaktisk inriktning för utökad behörighet mot gymnasieskolan
 
-## Vilande kursplaner (39 st)
+## Vilande kursplaner (37 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[AHI263]] — Afrikanska studier: Islam och islamiska samhällen i Afrika
 - [[AHI26P]] — Afrikanska studier: Islam och islamiska samhällen i Afrika
-- [[AHI29Q]] — Historievetenskaplig litteraturkurs
-- [[AHI29R]] — Historievetenskapens teori och metod
+- [[AHI29P]] — Examensarbete, magisterexamen i historia
 - [[AS3014]] — Afrikanska studier: Internationell hälsa med fokus på nutrition i ett genus- och ekonomiskt perspektiv
 - [[AS3015]] — Afrikanska studier: Mänskliga rättigheter och demokrati i Afrika söder om Sahara
 - [[AS3016]] — Afrikanska studier: Islam och islamiska samhällen i Afrika
@@ -59,7 +60,6 @@ up: "[[IKS]]"
 - [[GHI32G]] — Historia II med didaktisk inriktning
 - [[GHI37M]] — De nationella minoriteternas samhällshistoria
 - [[GHI38Q]] — Global miljöhistoria
-- [[GHI3CP]] — Undervisning och lärande genom rollspel – inriktning historiedidaktik
 - [[HI1004]] — Introduktion till svensk kultur och samhälle
 - [[HI1006]] — Globala rörelser för social rättvisa
 - [[HI1008]] — Historiedidaktik I

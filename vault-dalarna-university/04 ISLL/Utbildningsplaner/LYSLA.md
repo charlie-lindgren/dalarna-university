@@ -9,16 +9,6 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LYSLA
 up: "ISLL"
 ---
 
-<!-- analys:start -->
-> [!warning]- 3 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Undervisning och ledarskap` (15 hp) — sannolikt avses `Undervisning och ledarskap (varav 10 hp VFU)` (kurskod `GPG2QP`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Ämnesdidaktik och specialpedagogik` (15 hp) — sannolikt avses `Ämnesdidaktik och specialpedagogik (varav 10 hp VFU)` (kurskod `GPG2RS`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Professionellt lärarskap och skolutveckling` (15 hp) — sannolikt avses `Professionellt lärarskap och skolutveckling (varav 10 hp VFU)` (kurskod `GPG3EV`) |
-<!-- analys:end -->
-
 # LYSLA
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LYSLA)

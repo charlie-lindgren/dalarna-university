@@ -8,8 +8,8 @@ huvudomrade: "Fysioterapi 1"
 amne: "Fysioterapi"
 amne_kod: "FYS"
 institution: "IHV"
-tags: [kursplan, FYS, IHV, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, FYS, IHV, stray]
+
 scrape_hash: 6c43d71d818d4495
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFT2C8
 up: "[[Fysioterapi]]"

@@ -7,13 +7,13 @@ up: "[[IKS]]"
 
 # Medieproduktion
 
-> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
-> Huvudområde: Ej huvudområde 1
+> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (26 st)
+## Kurser (27 st)
 
 - [[GMN3DY]] — Introduktion till medieproduktion
 - [[GMN3DZ]] — Grunder i filmproduktion
+- [[GMN3E2]] — Dramaturgi, manusskrivande och medieproduktionens villkor
 - [[GMN3E3]] — Konceptutveckling
 - [[GMN3E4]] — Musikproduktion i studio
 - [[GMN3E9]] — Dialog och personregi för manusbundet berättande för olika medieplattformar
@@ -39,11 +39,10 @@ up: "[[IKS]]"
 - [[GMN3GY]] — Postproduktion
 - [[GMN3JF]] — Dramaturgi, manusskrivande och medieproduktionens villkor
 
-## Vilande kursplaner (6 st)
+## Vilande kursplaner (5 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
-- [[GMN3E2]] — Dramaturgi, manusskrivande och medieproduktionens villkor
 - [[GMN3EX]] — Alternativa gestaltningsformer
 - [[GMN3EY]] — Vetenskapsteori och metod i Medieproduktion
 - [[GMN3EZ]] — Kandidatexamensarbete i Medieproduktion

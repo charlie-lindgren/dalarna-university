@@ -7,17 +7,11 @@ up: "[[IHV]]"
 
 # Fysioterapi
 
-> Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
-> Huvudområde: Fysioterapi 1
+> Forskarutbildningsämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 
-## Kurser (3 st)
+## Kurser (4 st)
 
+- [[AFT2C8]] — Forskningsmetodik och projektplan inför examensarbete för magisterexamen i fysioterapi
 - [[AFT2C9]] — Examensarbete för magisterexamen i fysioterapi
 - [[AFT2CA]] — Fysioterapi med fokus på långvarig smärta och hållbar utveckling
 - [[AFT2CB]] — Fysisk aktivitet som prevention och behandling
-
-## Vilande kursplaner (1 st)
-
-> Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
-
-- [[AFT2C8]] — Forskningsmetodik och projektplan inför examensarbete för magisterexamen i fysioterapi
