@@ -8,8 +8,8 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Medieproduktion"
 amne_kod: "MPR"
 institution: "IKS"
-tags: [kursplan, MPR, IKS, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, MPR, IKS, stray]
+
 scrape_hash: a6fa18d16bdaa44e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3E2
 up: "[[Medieproduktion]]"

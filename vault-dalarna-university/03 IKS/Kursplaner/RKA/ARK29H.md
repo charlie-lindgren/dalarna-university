@@ -8,11 +8,10 @@ huvudomrade: "Religionsvetenskap 1"
 amne: "Religionsvetenskap"
 amne_kod: "RKA"
 institution: "IKS"
-tags: [kursplan, RKA, IKS, vilande]
+tags: [kursplan, RKA, IKS]
 scrape_hash: 2ff3b6bfbd5789e4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ARK29H
 up: "[[Religionsvetenskap]]"
-cssclasses: [vilande]
 ---
 
 <!-- analys:start -->

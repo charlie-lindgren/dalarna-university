@@ -8,8 +8,8 @@ huvudomrade: "Nationalekonomi 1"
 amne: "Nationalekonomi"
 amne_kod: "NAA"
 institution: "IKS"
-tags: [kursplan, NAA, IKS, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, NAA, IKS, stray]
+
 scrape_hash: a7da1f3f549b071d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA2RY
 up: "[[Nationalekonomi]]"
