@@ -7,7 +7,8 @@ up: "[[IKS]]"
 
 # Sociologi
 
-> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Huvudområde: Sociologi 1
 
 ## Kurser (12 st)
 

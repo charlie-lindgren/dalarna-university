@@ -16,11 +16,12 @@ cssclasses: [vilande]
 ---
 
 <!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Bloom-taxonomi | Okänt ledande verb | 3 av 9 bullets har okänt ledande verb |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Grunderna i filmproduktion` → `GBQ3A5` (nedlagd 2026-09-01); förkunskap nämner nedlagd kurs |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
 <!-- analys:end -->
 

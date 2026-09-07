@@ -8,6 +8,7 @@ up: "[[IIT]]"
 # Informatik
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
+> Huvudområde: Informatik 1 Mikrodataanalys 2
 
 ## Kurser (33 st)
 

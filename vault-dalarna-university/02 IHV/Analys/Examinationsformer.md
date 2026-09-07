@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Examinationsformer.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (176 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Examinationsformer.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (177 rader)</span></a>
 
-> [!example]- 176 fynd — klicka för att expandera
+> [!example]- 177 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -137,6 +137,7 @@ status: första pass
 > | [GSA2RE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2RE) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA2RE">sida</a> | SAA | 2021-09-07 | — | Saknar punktlista | Examinationsformer skrivet som löpande text: Seminarier, inlämningsuppgifter och skriftlig tentamen.… |
 > | [GSA2SD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2SD) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA2SD">sida</a> | SAA | 2021-12-08 | — | Saknar punktlista | Examinationsformer skrivet som löpande text: Aktivt deltagande i seminarier, skriftliga inlämningsuppgifter och individuell hemtentamen.… |
 > | [GSA2SE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2SE) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA2SE">sida</a> | SAA | 2021-12-08 | — | Saknar punktlista | Examinationsformer skrivet som löpande text: Aktivt deltagande i seminarier, skriftliga inlämningsuppgifter och individuell hemtentamen.… |
+> | [GSA3L5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L5) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L5">sida</a> | SAA | 2026-09-07 | — | Saknar punktlista | Examinationsformer skrivet som löpande text: Självständigt vetenskapligt arbete (examensarbete) Seminarium (opponent- och respondentskap)… |
 > | [SA1032](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SA1032) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/SA1032">sida</a> | SAA | 2014-10-14 | — | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom muntliga och skriftliga redovisningar.… |
 > | [SA1037](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SA1037) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/SA1037">sida</a> | SAA | 2015-03-11 | — | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom fyra reflektionsprotokoll och fem muntliga arbetsplatsuppgifter.… |
 > | [SA1040](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SA1040) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/SA1040">sida</a> | SAA | 2016-05-20 | — | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom skriftliga reflektionsprotokoll, litteraturseminarium, muntliga redovisningar av hemuppgifter sam… |

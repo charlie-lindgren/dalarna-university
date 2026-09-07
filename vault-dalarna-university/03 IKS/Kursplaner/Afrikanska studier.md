@@ -8,6 +8,7 @@ up: "[[IKS]]"
 # Afrikanska studier
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Huvudområde: Afrikanska studier 1
 
 ## Vilande kursplaner (19 st)
 

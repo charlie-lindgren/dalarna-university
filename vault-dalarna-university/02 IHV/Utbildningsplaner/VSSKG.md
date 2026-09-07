@@ -9,6 +9,17 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSSKG
 up: "IHV"
 ---
 
+<!-- analys:start -->
+> [!warning]- 4 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Introduktion omvårdnad och etik - Huvudområde Omvårdnad` → `VÅ1061` (nedlagd 2025-06-03) — plain-text-referens |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Människans grundläggande omvårdnadsbehov - Huvudområde Omvårdnad` → `GVÅ2RA` (nedlagd 2026-09-04) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Metoder för evidensbaserad vård II - Huvudområde Omvårdnad` → `GVÅ2ZY` (nedlagd 2026-09-04) — wikilink-länk till nedlagd kod |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Personcentrerad vård med fördjupning inom omvårdnad - Huvudområde Omvårdnad` → `GVÅ2ZG` (nedlagd 2026-09-04) — wikilink-länk till nedlagd kod |
+<!-- analys:end -->
+
 # VSSKG
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VSSKG)

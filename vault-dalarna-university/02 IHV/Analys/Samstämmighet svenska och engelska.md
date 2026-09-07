@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (254 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (260 rader)</span></a>
 
-> [!example]- 254 fynd — klicka för att expandera
+> [!example]- 260 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -226,6 +226,12 @@ status: första pass
 > | [GSA3FL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3FL) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3FL">sida</a> | SAA | 2025-03-24 | — | Paritetsskillnad | Svenska: 18 mål, engelska: 0 mål (diff 18) |
 > | [GSA3HA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3HA) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3HA">sida</a> | SAA | 2025-12-15 | — | Paritetsskillnad | Svenska: 12 mål, engelska: 1 mål (diff 11) |
 > | [GSA3HA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3HA) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3HA">sida</a> | SAA | 2025-12-15 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | [GSA3L4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L4) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L4">sida</a> | SAA | 2026-09-07 | — | Paritetsskillnad | Svenska: 14 mål, engelska: 0 mål (diff 14) |
+> | [GSA3L5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L5) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L5">sida</a> | SAA | 2026-09-07 | — | Paritetsskillnad | Svenska: 11 mål, engelska: 1 mål (diff 10) |
+> | [GSA3L5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L5) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L5">sida</a> | SAA | 2026-09-07 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | [GSA3L6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L6) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L6">sida</a> | SAA | 2026-09-07 | — | Paritetsskillnad | Svenska: 11 mål, engelska: 14 mål (diff 3) |
+> | [GSA3L6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L6) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L6">sida</a> | SAA | 2026-09-07 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (14 mål utan punktlista) |
+> | [GSA3L7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L7) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L7">sida</a> | SAA | 2026-09-07 | — | Paritetsskillnad | Svenska: 11 mål, engelska: 0 mål (diff 11) |
 > | [SA1032](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SA1032) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/SA1032">sida</a> | SAA | 2014-10-14 | — | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |
 > | [SA1037](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SA1037) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/SA1037">sida</a> | SAA | 2015-03-11 | — | Paritetsskillnad | Svenska: 10 mål, engelska: 1 mål (diff 9) |
 > | [SA1037](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SA1037) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/SA1037">sida</a> | SAA | 2015-03-11 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |

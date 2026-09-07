@@ -15,6 +15,21 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L7
 up: "[[Socialt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 8 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Omfång på lärandemål | För många mål | 11 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
+> | Omfång på lärandemål | Långt mål | 27 ord: - redogöra för och diskutera hur olika former av våld påverkar livsvillkor och s… |
+> | Omfång på lärandemål | Långt mål | 27 ord: - tillämpa centrala författningar av relevans för socialt arbete med personer ut… |
+> | Omfång på lärandemål | Långt mål | 30 ord: - utreda behov av och diskutera arbetsmetoder och stödinsatser i socialt arbete … |
+> | Omfång på lärandemål | Långt mål | 36 ord: - planera och genomföra en litteratursökning, samt pröva en metod för litteratur… |
+> | Omfång på lärandemål | Långt mål | 37 ord: - reflektera över hur könsnormer och värderingar påverkar socialt arbete med kvi… |
+> | Omfång på lärandemål | Långt mål | 37 ord: - reflektera över betydelsen av samverkan med andra professioner och organisatio… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 11 mål, engelska: 0 mål (diff 11) |
+<!-- analys:end -->
+
 # GSA3L7
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L7)

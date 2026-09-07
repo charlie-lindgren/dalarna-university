@@ -7,9 +7,10 @@ up: "[[IKS]]"
 
 # Bildproduktion
 
-> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Huvudområde: Bildproduktion 1
 
-## Kurser (14 st)
+## Kurser (47 st)
 
 - [[ABQ2AM]] — Kreativ kodning
 - [[ABQ2AZ]] — Audiovisuella produktionsprocesser
@@ -17,13 +18,46 @@ up: "[[IKS]]"
 - [[ABQ2B3]] — Introduktion till magisterexamensarbete i Audiovisuella studier
 - [[ABQ2B4]] — Magisterexamensarbete i Audiovisuella studier
 - [[AU3005]] — Vetenskaplig teori och metod i Audiovisuella studier
+- [[BQ1079]] — Manus för TV och film 2. Dramaturgi, manusskrivande och genre
+- [[BQ1081]] — TV-nyheter och flerkameraproduktion
+- [[BQ1094]] — Dokumentär metod för filmisk framställning
+- [[BQ2058]] — Manus för TV och film 4. TV-format och klassiskt berättande
+- [[GBQ22U]] — Kvalificerad filmproduktion
+- [[GBQ24C]] — Berätta med film om kulturarv och historia
+- [[GBQ27K]] — Manus för TV och film 1. Filmberättandets grundelement och gestaltning
+- [[GBQ29D]] — Flerkameraproduktion, fördjupning
+- [[GBQ29E]] — Exponeringsprojekt i bildproduktion
+- [[GBQ2AY]] — Digital efterbearbetning av ljud och bild
+- [[GBQ2AZ]] — Ljussättning och färgkorrigering inom filmdesign
+- [[GBQ2EB]] — Fakta, fiktion och flerkameraproduktion
+- [[GBQ2EC]] — Fortsätt berätta med film om kulturarv och historia
+- [[GBQ2HC]] — Introduktion till produktion av rörlig bild för Manus för film och TV
+- [[GBQ2HD]] — Grunderna i filmproduktion för Manus för film och TV
+- [[GBQ2NH]] — Projektplanering och användarperspektiv
 - [[GBQ2NJ]] — Konceptutveckling inom medieproduktion för Bildproduktion
+- [[GBQ2NM]] — Vetenskapsteori och metod i Bildproduktion
+- [[GBQ2NP]] — Kandidatexamensarbete i Bildproduktion
+- [[GBQ2QB]] — Kvalificerat filmmanusprojekt
 - [[GBQ2U2]] — Vetenskapsteori och metod i bildproduktion
+- [[GBQ2U4]] — Informationsfilmsproduktion
+- [[GBQ2U5]] — Kvalificerad filmdesign i transmedia
+- [[GBQ2U7]] — Tillämpad filmdesign 1
+- [[GBQ2U8]] — Den korta filmens berättarstruktur
 - [[GBQ2U9]] — Kandidatexamensarbete i Bildproduktion
+- [[GBQ2UB]] — Introduktion till produktion av rörlig bild
 - [[GBQ2UD]] — Exponeringsprojekt i bildproduktion
+- [[GBQ2UN]] — Filmanalys och gestaltning
+- [[GBQ2WG]] — Audiovisuell information och etik
+- [[GBQ2WH]] — Tillämpad filmdesign 2
+- [[GBQ2WJ]] — Reklamfilmsproduktion
+- [[GBQ2WK]] — Ljussättning och färgkorrigering inom filmdesign
+- [[GBQ2XC]] — Manus för TV och film 3. Dialog i audiovisuella medier
+- [[GBQ2XD]] — Ljudinspelning och ljudläggning inom filmdesign
 - [[GBQ36E]] — Arbetsplatsförlagd bildproduktion
 - [[GBQ38V]] — Introduktion till redigering av rörliga bilder med Media Composer
 - [[GBQ38W]] — Fördjupning i redigering av rörliga bilder med Media Composer
+- [[GBQ3A5]] — Grunderna i filmproduktion
+- [[GBQ3A6]] — Konceptutveckling för korta filmer
 - [[GBQ3FG]] — Kreativt skrivande
 
 ## Vilande kursplaner (15 st)

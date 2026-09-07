@@ -16,13 +16,14 @@ up: "[[Bildproduktion]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på minst 12 hp. Betygsrapportering: Modul 1:… |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examinationen sker genom skriftliga uppgifter, examinerande seminarier, en etnografisk övning samt en dokumentärfilmsövn… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Grunderna i filmproduktion` → `GBQ3A5` (nedlagd 2026-09-01); förkunskap nämner nedlagd kurs |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter BQ1076.… |
 <!-- analys:end -->

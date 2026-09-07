@@ -8,21 +8,17 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Bloom-taxonomi.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (66 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Bloom-taxonomi.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (62 rader)</span></a>
 
-> [!example]- 66 fynd — klicka för att expandera
+> [!example]- 62 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
 > | [AB1005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1005) | <a class="no-graph" href="03-IKS/Kursplaner/ABA/AB1005">sida</a> | ABA | 2010-04-20 | 2012-02-27 | Okänt ledande verb | 3 av 5 bullets har okänt ledande verb |
 > | [AB1006](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1006) | <a class="no-graph" href="03-IKS/Kursplaner/ABA/AB1006">sida</a> | ABA | 2010-04-20 | 2012-02-27 | Okänt ledande verb | 9 av 10 bullets har okänt ledande verb |
 > | [AB1009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1009) | <a class="no-graph" href="03-IKS/Kursplaner/ABA/AB1009">sida</a> | ABA | 2010-04-20 | — | Okänt ledande verb | 5 av 5 bullets har okänt ledande verb |
-> | [AB1014](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1014) | <a class="no-graph" href="03-IKS/Kursplaner/ABA/AB1014">sida</a> | ABA | 2011-04-12 | — | Okänt ledande verb | 4 av 12 bullets har okänt ledande verb |
 > | [AB1029](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1029) | <a class="no-graph" href="03-IKS/Kursplaner/ABA/AB1029">sida</a> | ABA | 2015-09-15 | — | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [1,1,0,0,3,0] |
-> | [AB3001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB3001) | <a class="no-graph" href="03-IKS/Kursplaner/ABA/AB3001">sida</a> | ABA | 2009-11-26 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [3,1,0,0,0,0] |
 > | [ABQ2B2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABQ2B2) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/ABQ2B2">sida</a> | BPO | 2024-06-20 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,1,1,0,0,0] |
-> | [GBQ2NP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2NP) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ2NP">sida</a> | BPO | 2021-03-12 | — | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [0,0,1,0,1,1] |
-> | [GBQ2QB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2QB) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ2QB">sida</a> | BPO | 2021-05-26 | — | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [0,0,0,2,3,2] |
 > | [GBQ2U9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2U9) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ2U9">sida</a> | BPO | 2022-02-04 | — | Hög verbnivå för grundkurs | Grundkurs domineras av värdera/skapa; fördelning [0,0,1,0,1,1] |
 > | [GBQ36D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ36D) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ36D">sida</a> | BPO | 2023-09-08 | — | Okänt ledande verb | 3 av 9 bullets har okänt ledande verb |
 > | [FI1028](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FI1028) | <a class="no-graph" href="03-IKS/Kursplaner/FIA/FI1028">sida</a> | FIA | 2010-02-16 | 2014-07-01 | Okänt ledande verb | 5 av 10 bullets har okänt ledande verb |

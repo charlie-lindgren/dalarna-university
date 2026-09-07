@@ -7,10 +7,25 @@ up: "[[IKS]]"
 
 # Arbetsvetenskap
 
-> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (11 st)
+## Kurser (26 st)
 
+- [[AB1011]] — Kommunikation och ledarskap för tekniker
+- [[AB1014]] — Ledarskap för ökat resultat i företaget
+- [[AB1016]] — Arbetsmiljö - grundkurs
+- [[AB1019]] — Att vara chef i kommunal verksamhet
+- [[AB1022]] — Rekrytering - krav och kriterier
+- [[AB1024]] — Kreativitet - vägen till en bärande idé
+- [[AB1026]] — Personligt ledarskap
+- [[AB1028]] — Ledarskap för att motivera grupper
+- [[AB1032]] — Personligt ledarskap
+- [[AB1033]] — Bemöta, bedöma, berika: Ett normkritiskt perspektiv på genus och mångfald för utveckling och innovation i företag
+- [[AB3001]] — Lärande utvärdering/följeforskning av utvecklingsprojekt
+- [[GAB24E]] — Att vara ledare
+- [[GAB26D]] — Ny som chef
+- [[GAB2AJ]] — Att vara ledare
+- [[GAB2TR]] — Förståelse och förhållningssätt för främjande av utvecklingsprocesser
 - [[GAB3FZ]] — Hållbart arbetsliv, personalarbete och vetenskap
 - [[GAB3G2]] — Kompetensförsörjning
 - [[GAB3G3]] — Motivation och lärande

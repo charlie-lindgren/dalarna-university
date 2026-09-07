@@ -15,6 +15,20 @@ url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L6
 up: "[[Socialt arbete]]"
 ---
 
+<!-- analys:start -->
+> [!warning]- 7 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Organisation` → `FEB021` (nedlagd 2008-03-18); förkunskap nämner nedlagd kurs |
+> | Omfång på lärandemål | För många mål | 11 lärandemål (maximum rekommenderat: 10 för 15 hp) |
+> | Omfång på lärandemål | Långt mål | 28 ord: - redogöra för och diskutera mål och metoder inom det sociala arbetets uppdrag o… |
+> | Omfång på lärandemål | Långt mål | 28 ord: - problematisera och kritiskt diskutera maktrelationer och professionellt förhål… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 11 mål, engelska: 14 mål (diff 3) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (14 mål utan punktlista) |
+> | Stavfel och språkbruk | Felstavning | `bedömmande` (sv) |
+<!-- analys:end -->
+
 # GSA3L6
 
 [Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L6)

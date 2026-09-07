@@ -7,10 +7,12 @@ up: "[[IHV]]"
 
 # Omvårdnad
 
-> Forskarutbildningsämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
+> Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
+> Huvudområde: Omvårdnad 1
 
-## Kurser (34 st)
+## Kurser (41 st)
 
+- [[AVÅ25L]] — Diabetesvård I
 - [[AVÅ28G]] — Nutrition och ätande
 - [[AVÅ28J]] — Att vårda äldre personer, VFU
 - [[AVÅ28K]] — Personcentrerad vård vid multisjuklighet, psykisk ohälsa och demenssjukdom
@@ -27,7 +29,11 @@ up: "[[IHV]]"
 - [[AVÅ2CN]] — Handledning inom omvårdnad vid Verksamhetsförlagd utbildning (VFU)
 - [[GVÅ2AP]] — Människa, hälsa och samhälle
 - [[GVÅ2N9]] — Metoder för evidensbaserad vård I
+- [[GVÅ2RA]] — Människans grundläggande omvårdnadsbehov
 - [[GVÅ2S3]] — Ledarskap och teamarbete
+- [[GVÅ2ZG]] — Personcentrerad vård med fördjupning inom omvårdnad
+- [[GVÅ2ZY]] — Metoder för evidensbaserad vård II
+- [[GVÅ35Q]] — Personcentrerad vård inom olika vårdsammanhang
 - [[GVÅ36W]] — Examensarbete i omvårdnad
 - [[GVÅ37G]] — Sjuksköterskans profession och yrkesansvar
 - [[GVÅ37J]] — Omvårdnadsprocessen och kliniska färdigheter
@@ -41,6 +47,8 @@ up: "[[IHV]]"
 - [[GVÅ388]] — Personcentrerad vård med fördjupning inom omvårdnad
 - [[GVÅ389]] — Metoder och teorier vid symtom och tecken på hälsa/ohälsa I
 - [[GVÅ38A]] — Examensarbete i omvårdnad
+- [[VÅ1046]] — Kommunikation och samtalsmetodik
+- [[VÅ3098]] — Hälsa och omvårdnad av vuxna och äldre
 - [[VÅ3127]] — Personcentrerad vård för personer med demens
 - [[VÅ3131]] — Demenssjukdomar, diagnostik och behandling ur ett omvårdnadsperspektiv
 - [[VÅ3132]] — Vård och omsorg för personer med demens

@@ -7,11 +7,14 @@ up: "[[IKS]]"
 
 # Personal och arbetsliv
 
-> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Huvudområde: Personal och arbetsliv 1
 
-## Kurser (7 st)
+## Kurser (9 st)
 
 - [[GPA2FW]] — Personalekonomi och lön
+- [[GPA2KU]] — Implementering av hållbar strategisk styrning
+- [[GPA2LM]] — Personal och arbetsliv - en introduktion
 - [[GPA2NY]] — Strategiskt och internationellt personalarbete
 - [[GPA32E]] — Kollektiva lärprocesser och lärande organisation
 - [[PA2008]] — Examensarbete för kandidatexamen inom Personal och arbetsliv

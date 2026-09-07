@@ -16,10 +16,11 @@ cssclasses: [vilande]
 ---
 
 <!-- analys:start -->
-> [!warning]- 1 kvalitetsnotering i denna kursplan — klicka för att expandera
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `TV-nyheter och flerkameraproduktion` → `BQ1081` (nedlagd 2026-09-01); förkunskap nämner nedlagd kurs |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
 <!-- analys:end -->
 

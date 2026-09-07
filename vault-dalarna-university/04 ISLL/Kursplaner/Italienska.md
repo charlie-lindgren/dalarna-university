@@ -7,7 +7,8 @@ up: "[[ISLL]]"
 
 # Italienska
 
-> Forskarutbildningsämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
+> Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
+> Huvudområde: Italienska 1
 
 ## Kurser (14 st)
 

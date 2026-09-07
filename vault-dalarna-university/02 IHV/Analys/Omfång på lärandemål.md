@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (208 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (221 rader)</span></a>
 
-> [!example]- 208 fynd — klicka för att expandera
+> [!example]- 221 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -160,6 +160,19 @@ status: första pass
 > | [GSA3FK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3FK) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3FK">sida</a> | SAA | 2025-03-07 | — | Långt mål | 34 ord: - utifrån ett brukarperspektiv genomföra olika typer av utredningar inom socialt… |
 > | [GSA3FL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3FL) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3FL">sida</a> | SAA | 2025-03-24 | — | För många mål | 18 lärandemål (maximum rekommenderat: 10 för 15 hp) |
 > | [GSA3HA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3HA) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3HA">sida</a> | SAA | 2025-12-15 | — | För många mål | 12 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
+> | [GSA3L4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L4) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L4">sida</a> | SAA | 2026-09-07 | — | För många mål | 14 lärandemål (maximum rekommenderat: 10 för 15 hp) |
+> | [GSA3L5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L5) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L5">sida</a> | SAA | 2026-09-07 | — | För många mål | 11 lärandemål (maximum rekommenderat: 10 för 15 hp) |
+> | [GSA3L5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L5) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L5">sida</a> | SAA | 2026-09-07 | — | Långt mål | 30 ord: - utforma ett vetenskapligt arbete där arbetets olika delar presenteras i en log… |
+> | [GSA3L6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L6) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L6">sida</a> | SAA | 2026-09-07 | — | För många mål | 11 lärandemål (maximum rekommenderat: 10 för 15 hp) |
+> | [GSA3L6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L6) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L6">sida</a> | SAA | 2026-09-07 | — | Långt mål | 28 ord: - redogöra för och diskutera mål och metoder inom det sociala arbetets uppdrag o… |
+> | [GSA3L6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L6) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L6">sida</a> | SAA | 2026-09-07 | — | Långt mål | 28 ord: - problematisera och kritiskt diskutera maktrelationer och professionellt förhål… |
+> | [GSA3L7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L7) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L7">sida</a> | SAA | 2026-09-07 | — | För många mål | 11 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
+> | [GSA3L7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L7) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L7">sida</a> | SAA | 2026-09-07 | — | Långt mål | 27 ord: - redogöra för och diskutera hur olika former av våld påverkar livsvillkor och s… |
+> | [GSA3L7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L7) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L7">sida</a> | SAA | 2026-09-07 | — | Långt mål | 27 ord: - tillämpa centrala författningar av relevans för socialt arbete med personer ut… |
+> | [GSA3L7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L7) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L7">sida</a> | SAA | 2026-09-07 | — | Långt mål | 30 ord: - utreda behov av och diskutera arbetsmetoder och stödinsatser i socialt arbete … |
+> | [GSA3L7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L7) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L7">sida</a> | SAA | 2026-09-07 | — | Långt mål | 36 ord: - planera och genomföra en litteratursökning, samt pröva en metod för litteratur… |
+> | [GSA3L7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L7) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L7">sida</a> | SAA | 2026-09-07 | — | Långt mål | 37 ord: - reflektera över hur könsnormer och värderingar påverkar socialt arbete med kvi… |
+> | [GSA3L7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L7) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L7">sida</a> | SAA | 2026-09-07 | — | Långt mål | 37 ord: - reflektera över betydelsen av samverkan med andra professioner och organisatio… |
 > | [SA1045](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SA1045) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/SA1045">sida</a> | SAA | 2017-03-13 | — | För många mål | 11 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [SA1048](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SA1048) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/SA1048">sida</a> | SAA | 2017-11-30 | — | För många mål | 23 lärandemål (maximum rekommenderat: 10 för 15 hp) |
 > | [SA1048](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SA1048) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/SA1048">sida</a> | SAA | 2017-11-30 | — | Långt mål | 28 ord: - visa förmåga att på grundläggande nivå tillämpa metoder i socialt arbete inom … |

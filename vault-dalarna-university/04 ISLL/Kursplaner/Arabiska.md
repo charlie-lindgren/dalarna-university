@@ -7,7 +7,8 @@ up: "[[ISLL]]"
 
 # Arabiska
 
-> Forskarutbildningsämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
+> Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
+> Huvudområde: Arabiska 1
 
 ## Kurser (13 st)
 

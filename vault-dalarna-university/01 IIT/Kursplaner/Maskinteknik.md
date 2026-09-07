@@ -8,6 +8,7 @@ up: "[[IIT]]"
 # Maskinteknik
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
+> Huvudområde: Ej huvudområde 1
 
 ## Kurser (18 st)
 
@@ -36,7 +37,7 @@ up: "[[IIT]]"
 
 - [[GMT228]] — Produktutvecklingsmetoder
 - [[GMT25Z]] — Examensarbete Högskoleingenjör Maskinteknik
-- [[GMT2QF]] — Finita elementmetoden i praktiken
+- [[GMT2QF]] — Finita element metoden i praktiken
 - [[GMT2WL]] — 3D-printing översiktskurs
 - [[GMT3JQ]] — Mekatronik
 - [[GMT3JR]] — Termodynamik

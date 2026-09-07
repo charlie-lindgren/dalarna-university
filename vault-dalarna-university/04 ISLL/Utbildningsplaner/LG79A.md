@@ -9,6 +9,19 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LG79A
 up: "ISLL"
 ---
 
+<!-- analys:start -->
+> [!warning]- 6 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Didaktik och ledarskap för ämneslärare` → `PG1020` (nedlagd 2018-07-02) — plain-text-referens |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Utveckling och lärande - ämneslärare` (15 hp) — sannolikt avses `Utveckling och lärande för ämneslärare inriktning åk 7-9 (varav 7,5 hp VFU)` (kurskod `GPG328`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Utveckling och lärande för ämneslärare inriktning åk 7-9` (15 hp) — sannolikt avses `Utveckling och lärande för ämneslärare inriktning åk 7-9 (varav 7,5 hp VFU)` (kurskod `GPG328`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Sociala relationer, konflikter och makt - ämneslärare` (7,5 hp) — sannolikt avses `Sociala relationer, konflikter och makt i grundskolan åk 7-9 och gymnasieskolan` (kurskod `GPG2S9`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Utvärdering och utvecklingsarbete för ämneslärare` (7,5 hp) — sannolikt avses `Utvärdering och utvecklingsarbete i grundskolans åk 7-9 och gymnasieskolan` (kurskod `APG24S`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Verksamhetsförlagd utbildning - ämneslärare` (15 hp) — sannolikt avses `Verksamhetsförlagd utbildning i grundskolan årskurs 7-9` (kurskod `APG28S`) |
+<!-- analys:end -->
+
 # LG79A
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LG79A)

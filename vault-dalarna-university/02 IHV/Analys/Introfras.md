@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Introfras.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (83 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Introfras.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (84 rader)</span></a>
 
-> [!example]- 83 fynd — klicka för att expandera
+> [!example]- 84 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -58,6 +58,7 @@ status: första pass
 > | [GSA3DS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DS) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3DS">sida</a> | SAA | 2024-12-10 | — | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': **Modul 1. Campusförlagd utbildning, 5 högskolepoäng**… |
 > | [GSA3FL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3FL) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3FL">sida</a> | SAA | 2025-03-24 | — | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': **Modul 1. Campusförlagd utbildning, 4,5 högskolepoäng**… |
 > | [GSA3HA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3HA) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3HA">sida</a> | SAA | 2025-12-15 | — | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att den studerande ska tillägna sig kunskaper och färdigheter inom socialt arbete m… |
+> | [GSA3L4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L4) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L4">sida</a> | SAA | 2026-09-07 | — | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': **Modul 1. Campusförlagd utbildning, 10,5 högskolepoäng**… |
 > | [SA1037](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SA1037) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/SA1037">sida</a> | SAA | 2015-03-11 | — | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att studenten inhämtat kunskap om teoretisk grund och evidensbas för återfallsprevention sam… |
 > | [SA1040](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SA1040) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/SA1040">sida</a> | SAA | 2016-05-20 | — | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande ska tillägna sig kunskaper inom Motiverande samtal (MI) med inriktning på… |
 > | [SA1048](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SA1048) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/SA1048">sida</a> | SAA | 2017-11-30 | — | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att den studerande ska tillägna sig kunskaper om välfärdsinsatser på individ-, grup… |

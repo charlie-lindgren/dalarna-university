@@ -8,21 +8,18 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (420 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (414 rader)</span></a>
 
-> [!example]- 420 fynd — klicka för att expandera
+> [!example]- 414 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
 > | [AB1005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1005) | <a class="no-graph" href="03-IKS/Kursplaner/ABA/AB1005">sida</a> | ABA | 2010-04-20 | 2012-02-27 | Långt mål | 31 ord: - Sambandet mellan å ena sidan utfallet av förhandlingen för verksamheten, och å… |
 > | [AB1006](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1006) | <a class="no-graph" href="03-IKS/Kursplaner/ABA/AB1006">sida</a> | ABA | 2010-04-20 | 2012-02-27 | För många mål | 10 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
-> | [AB1014](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1014) | <a class="no-graph" href="03-IKS/Kursplaner/ABA/AB1014">sida</a> | ABA | 2011-04-12 | — | För många mål | 12 lärandemål (maximum rekommenderat: 10 för 10 hp) |
 > | [AB1025](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1025) | <a class="no-graph" href="03-IKS/Kursplaner/ABA/AB1025">sida</a> | ABA | 2014-12-11 | — | Långt mål | 28 ord: - värdera vikten av effektivt samarbete, samt motivera hur det kan främjas inom … |
 > | [AB1027](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1027) | <a class="no-graph" href="03-IKS/Kursplaner/ABA/AB1027">sida</a> | ABA | 2014-12-11 | — | Långt mål | 26 ord: - värdera och ta ställning till hur verksamhetens resultat är beroende av ledare… |
 > | [AB1029](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1029) | <a class="no-graph" href="03-IKS/Kursplaner/ABA/AB1029">sida</a> | ABA | 2015-09-15 | — | Långt mål | 31 ord: - värdera specifika typer av professionella samtal på arbetsplatsen (såsom svåra… |
 > | [AB1029](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB1029) | <a class="no-graph" href="03-IKS/Kursplaner/ABA/AB1029">sida</a> | ABA | 2015-09-15 | — | Långt mål | 27 ord: - sammanfatta och motivera en personlig värdegrundad syn på hur professionella s… |
-> | [AB3001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AB3001) | <a class="no-graph" href="03-IKS/Kursplaner/ABA/AB3001">sida</a> | ABA | 2009-11-26 | — | Långt mål | 33 ord: - visa god förmåga att kritiskt analysera den lärande utvärderingens/följeforskn… |
-> | [GAB24E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB24E) | <a class="no-graph" href="03-IKS/Kursplaner/ABA/GAB24E">sida</a> | ABA | 2018-09-13 | — | Långt mål | 26 ord: - övergripande kunna reflektera kring sin roll som processledare när det gäller … |
 > | [ABP253](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABP253) | <a class="no-graph" href="03-IKS/Kursplaner/BIL/ABP253">sida</a> | BIL | 2020-03-11 | — | Långt mål | 29 ord: - i skriftlig och muntlig form presentera och argumentera för studiens forskning… |
 > | [ABP254](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABP254) | <a class="no-graph" href="03-IKS/Kursplaner/BIL/ABP254">sida</a> | BIL | 2020-03-11 | — | Långt mål | 29 ord: - i skriftlig och muntlig form presentera och argumentera för studiens forskning… |
 > | [GBP32U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBP32U) | <a class="no-graph" href="03-IKS/Kursplaner/BIL/GBP32U">sida</a> | BIL | 2023-02-10 | — | För många mål | 17 lärandemål (maximum rekommenderat: 12 för 30 hp) |
@@ -30,9 +27,6 @@ status: första pass
 > | [GBP34H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBP34H) | <a class="no-graph" href="03-IKS/Kursplaner/BIL/GBP34H">sida</a> | BIL | 2023-05-03 | — | För många mål | 16 lärandemål (maximum rekommenderat: 12 för 30 hp) |
 > | [ABQ2B2](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABQ2B2) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/ABQ2B2">sida</a> | BPO | 2024-06-20 | — | För få mål | 3 lärandemål (minimum rekommenderat: 4 för 15 hp) |
 > | [ABQ2B4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABQ2B4) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/ABQ2B4">sida</a> | BPO | 2024-06-24 | — | Långt mål | 29 ord: - inom ramen för audiovisuella studier planera, genomföra och på ett välstruktur… |
-> | [BQ1079](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BQ1079) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/BQ1079">sida</a> | BPO | 2014-03-18 | — | För många mål | 12 lärandemål (maximum rekommenderat: 10 för 15 hp) |
-> | [GBQ2AY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2AY) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ2AY">sida</a> | BPO | 2019-09-11 | — | För många mål | 11 lärandemål (maximum rekommenderat: 10 för 15 hp) |
-> | [GBQ2U4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2U4) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ2U4">sida</a> | BPO | 2022-02-04 | — | Långt mål | 26 ord: - skriftligt analysera en informations- eller instruktionsfilm utifrån teori som… |
 > | [GBQ35K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ35K) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ35K">sida</a> | BPO | 2023-06-30 | — | Långt mål | 30 ord: - ta ställning till etiska och upphovsrättsliga frågor i samband med dokumentärf… |
 > | [GBQ38X](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ38X) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ38X">sida</a> | BPO | 2023-12-18 | — | Långt mål | 26 ord: - diskutera skillnaden mellan att berätta i skriven text och med film och vilka … |
 > | [FI1023](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FI1023) | <a class="no-graph" href="03-IKS/Kursplaner/FIA/FI1023">sida</a> | FIA | 2006-10-19 | 2018-07-01 | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |

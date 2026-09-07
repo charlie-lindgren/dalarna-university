@@ -8,6 +8,7 @@ up: "[[IIT]]"
 # Byggteknik
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
+> Huvudområde: Ej huvudområde 1
 
 ## Kurser (39 st)
 

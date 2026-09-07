@@ -9,6 +9,16 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SBMPG
 up: "IKS"
 ---
 
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Organisation B` → `FÖ1042` (nedlagd 2026-09-01) — wikilink-länk till nedlagd kod |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Makroekonomi introduktion` (7,5 hp) — sannolikt avses `Makroekonomi, introduktion` (kurskod `GNA3B8`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Mikroekonomi introduktion` (7,5 hp) — sannolikt avses `Mikroekonomi, introduktion` (kurskod `GNA3FN`) |
+<!-- analys:end -->
+
 # SBMPG
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SBMPG)

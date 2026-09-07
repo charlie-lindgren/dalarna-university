@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Förkunskapskrav.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (57 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Förkunskapskrav.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (61 rader)</span></a>
 
-> [!example]- 57 fynd — klicka för att expandera
+> [!example]- 61 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj | Förslag |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -18,6 +18,10 @@ status: första pass
 > | [ABP254](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABP254) | <a class="no-graph" href="03-IKS/Kursplaner/BIL/ABP254">sida</a> | BIL | 2020-03-11 | — | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` | `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
 > | [AU3005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AU3005) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/AU3005">sida</a> | BPO | 2014-09-19 | — | Refererar troligen nedlagd kurs | Refererad kurs hittas ej i vaulten (troligen nedlagd): 'Audiovisuella studier: Kunskapsproduktion och gestaltning' | — |
 > | [AU3005](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AU3005) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/AU3005">sida</a> | BPO | 2014-09-19 | — | Refererar bekräftat nedlagd kurs | `Kunskapsproduktion och gestaltning` | `AU3002` (nedlagd 2025-12-03); förkunskap nämner nedlagd kurs |
+> | [BQ2057](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BQ2057) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/BQ2057">sida</a> | BPO | 2017-03-22 | — | Refererar bekräftat nedlagd kurs | `Digital efterbearbetning av ljud och bild` | `GBQ2AY` (nedlagd 2026-09-01); förkunskap nämner nedlagd kurs |
+> | [GBQ2MT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ2MT) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ2MT">sida</a> | BPO | 2021-03-01 | — | Refererar bekräftat nedlagd kurs | `Grunderna i filmproduktion` | `GBQ3A5` (nedlagd 2026-09-01); förkunskap nämner nedlagd kurs |
+> | [GBQ36D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ36D) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ36D">sida</a> | BPO | 2023-09-08 | — | Refererar bekräftat nedlagd kurs | `Grunderna i filmproduktion` | `GBQ3A5` (nedlagd 2026-09-01); förkunskap nämner nedlagd kurs |
+> | [GBQ36K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ36K) | <a class="no-graph" href="03-IKS/Kursplaner/BPO/GBQ36K">sida</a> | BPO | 2023-09-12 | — | Refererar bekräftat nedlagd kurs | `TV-nyheter och flerkameraproduktion` | `BQ1081` (nedlagd 2026-09-01); förkunskap nämner nedlagd kurs |
 > | [AHI23V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI23V) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/AHI23V">sida</a> | HIA | 2020-01-30 | — | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` | `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
 > | [AHI23W](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI23W) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/AHI23W">sida</a> | HIA | 2020-01-30 | — | Refererar bekräftat nedlagd kurs | `Vetenskapsteori` | `GPG263` (nedlagd 2024-03-25); förkunskap nämner nedlagd kurs |
 > | [AHI263](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI263) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/AHI263">sida</a> | HIA | 2020-09-21 | — | Refererar bekräftat nedlagd kurs | `Religion och politik i afrikanska samhällen` | `HI3002` (nedlagd 2017-10-31); förkunskap nämner nedlagd kurs |

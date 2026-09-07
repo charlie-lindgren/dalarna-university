@@ -9,6 +9,21 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LLP6A
 up: "ISLL"
 ---
 
+<!-- analys:start -->
+> [!warning]- 8 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Didaktik och ledarskap i grundskolans åk 4–6` (15 hp) — sannolikt avses `Didaktik och ledarskap i grundskolans årskurs 4-6 (inkl 7,5 hp VFU)` (kurskod `GPG3CJ`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Sociala relationer, konflikter och makt i grundskolan åk 4–6,` (15 hp) — sannolikt avses `Sociala relationer, konflikter och makt i grundskolan åk 4-6 (varav 7,5 hp VFU)` (kurskod `GPG2LZ`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Examensarbete för grundlärarexamen inriktning 4–6 – del 1` (15 hp) — sannolikt avses `Examensarbete för grundlärarexamen inriktning 4-6 del 1` (kurskod `GPG2E7`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Examensarbete för grundlärarexamen inriktning 4–6 – del 2` (15 hp) — sannolikt avses `Examensarbete för grundlärarexamen inriktning 4-6 del 2` (kurskod `APG247`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Utvärdering och utvecklingsarbete i grundskolans åk 4–6` (15 hp) — sannolikt avses `Utvärdering och utvecklingsarbete i grundskolans åk 4-6, (varav 7,5 hp VFU)` (kurskod `APG276`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Engelska för grundlärare åk 4-6 1a` (15 hp) — sannolikt avses `Engelska för grundlärare åk 4-6, 1A` (kurskod `GEN2BK`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Engelska för grundlärare åk 4-6 1b` (15 hp) — sannolikt avses `Engelska för grundlärare åk 4-6, 1B` (kurskod `GEN2LD`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Samhällsorienterande ämnen, åk 4–6` ≠ kursplanens namn `Samhällsorienterande ämnen, årskurs 4-6` (kurskod `GPG2SC`) |
+<!-- analys:end -->
+
 # LLP6A
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LLP6A)

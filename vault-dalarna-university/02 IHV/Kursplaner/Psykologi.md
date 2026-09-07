@@ -8,6 +8,7 @@ up: "[[IHV]]"
 # Psykologi
 
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
+> Huvudområde: Ej huvudområde 1
 
 ## Vilande kursplaner (1 st)
 

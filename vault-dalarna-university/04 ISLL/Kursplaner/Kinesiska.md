@@ -7,7 +7,8 @@ up: "[[ISLL]]"
 
 # Kinesiska
 
-> Forskarutbildningsämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
+> Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
+> Huvudområde: Kinesiska 1
 
 ## Kurser (23 st)
 
