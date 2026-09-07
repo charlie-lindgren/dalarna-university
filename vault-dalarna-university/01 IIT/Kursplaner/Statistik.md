@@ -8,7 +8,6 @@ up: "[[IIT]]"
 # Statistik
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
-> Huvudområde: Mikrodataanalys 1
 
 ## Kurser (2 st)
 

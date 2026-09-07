@@ -7,8 +7,7 @@ up: "[[IHV]]"
 
 # Omvårdnad
 
-> Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
-> Huvudområde: Omvårdnad 1
+> Forskarutbildningsämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 
 ## Kurser (34 st)
 
@@ -47,14 +46,13 @@ up: "[[IHV]]"
 - [[VÅ3132]] — Vård och omsorg för personer med demens
 - [[VÅ3133]] — Att vårda personer med demens, VFU
 
-## Vilande kursplaner (35 st)
+## Vilande kursplaner (28 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[AVÅ22D]] — Personcentrerad omvårdnad och teamsamverkan I
 - [[AVÅ22Q]] — Personcentrerad omvårdnad och teamsamverkan II
 - [[AVÅ24F]] — Äldre personers levnadsvillkor
-- [[AVÅ25L]] — Diabetesvård I
 - [[AVÅ27J]] — Personcentrerad vård för personer med demens (fristående kurs)
 - [[AVÅ27K]] — Demenssjukdomar, diagnostik och behandling ur ett omvårdnadsperspektiv (fristående kurs)
 - [[AVÅ27L]] — Vård och omsorg för personer med demens (fristående kurs)
@@ -66,23 +64,17 @@ up: "[[IHV]]"
 - [[GVÅ2H6]] — Personcentrerad vård inom olika vårdsammanhang
 - [[GVÅ2HM]] — Personcentrerad vård inom psykiatrisk vård
 - [[GVÅ2R2]] — Personcentrerad vård för personer med demens
-- [[GVÅ2RA]] — Människans grundläggande omvårdnadsbehov
 - [[GVÅ2RT]] — Vård och omsorg för personer med demens
 - [[GVÅ2RU]] — Aktivitet och ätande vid demenssjukdom
 - [[GVÅ2RV]] — Demenssjukdomar, diagnostik och behandling ur ett omvårdnadsperspektiv
 - [[GVÅ2VZ]] — Palliativ och evidensbaserad omvårdnad för personer med demens
 - [[GVÅ2WS]] — Global hälsa
-- [[GVÅ2ZG]] — Personcentrerad vård med fördjupning inom omvårdnad
-- [[GVÅ2ZY]] — Metoder för evidensbaserad vård II
-- [[GVÅ35Q]] — Personcentrerad vård inom olika vårdsammanhang
 - [[GVÅ37H]] — Personcentrerad vård inom psykiatrisk vård
 - [[GVÅ382]] — Personcentrerad vård inom olika vårdsammanhang
 - [[GVÅ384]] — Personcentrerad vård inom somatisk vård
-- [[VÅ1046]] — Kommunikation och samtalsmetodik
 - [[VÅ1053]] — Metoder och teorier vid symtom och tecken på hälsa/ohälsa I
 - [[VÅ1055]] — Personcentrerad vård inom somatisk vård
 - [[VÅ1062]] — Personcentrerad vård inom somatisk vård
 - [[VÅ2017]] — Examensarbete  för kandidatexamen i omvårdnad
 - [[VÅ3094]] — Personcentrerad omvårdnad och teamsamverkan I
-- [[VÅ3098]] — Hälsa och omvårdnad av vuxna och äldre
 - [[VÅ3137]] — Socialgerontologi och etik

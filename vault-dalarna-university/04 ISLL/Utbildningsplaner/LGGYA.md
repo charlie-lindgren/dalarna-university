@@ -9,19 +9,6 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LGGYA
 up: "ISLL"
 ---
 
-<!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Didaktik och ledarskap för ämneslärare` → `PG1020` (nedlagd 2018-07-02) — plain-text-referens |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Didaktik och ledarskap för ämneslärare inriktning gymnasieskolan` (15 hp) — sannolikt avses `Didaktik och ledarskap för ämneslärare inriktning gymnasieskolan (inkl 7,5 hp VFU)` (kurskod `GPG3KB`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Utveckling och lärande - ämneslärare` (15 hp) — sannolikt avses `Utveckling och lärande för ämneslärare inriktning gymnasieskolan (varav 7,5 hp VFU)` (kurskod `GPG329`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Sociala relationer, konflikter och makt - ämneslärare` (7,5 hp) — sannolikt avses `Sociala relationer, konflikter och makt i grundskolan åk 7-9 och gymnasieskolan` (kurskod `GPG2S9`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Utvärdering och utvecklingsarbete för ämneslärare` (7,5 hp) — sannolikt avses `Utvärdering och utvecklingsarbete i grundskolans åk 7-9 och gymnasieskolan` (kurskod `APG24S`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Verksamhetsförlagd utbildning - ämneslärare` (15 hp) — sannolikt avses `Verksamhetsförlagd utbildning i gymnasieskolan` (kurskod `APG28R`) |
-<!-- analys:end -->
-
 # LGGYA
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LGGYA)

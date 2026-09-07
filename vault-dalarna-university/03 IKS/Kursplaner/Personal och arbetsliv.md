@@ -7,8 +7,7 @@ up: "[[IKS]]"
 
 # Personal och arbetsliv
 
-> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
-> Huvudområde: Personal och arbetsliv 1
+> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
 ## Kurser (7 st)
 
@@ -20,14 +19,12 @@ up: "[[IKS]]"
 - [[PA2010]] — Metod III - perspektiv, kunskapssyn och metodval
 - [[PA2011]] — Arbetsmiljö-människa, strategier och processer
 
-## Vilande kursplaner (11 st)
+## Vilande kursplaner (9 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[GPA2FL]] — Samspel i organisationen - gruppen
 - [[GPA2K3]] — Marknadsföring för personalvetare
-- [[GPA2KU]] — Implementering av hållbar strategisk styrning
-- [[GPA2LM]] — Personal och arbetsliv - en introduktion
 - [[GPA2LN]] — Ekonomi- och verksamhetsstyrning för personalvetare
 - [[GPA2P7]] — Samhällsvetenskaplig metod och vetenskapsteori II
 - [[GPA2R6]] — Kompetensförsörjning - avveckling och förändring

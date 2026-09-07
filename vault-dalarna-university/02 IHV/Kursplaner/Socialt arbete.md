@@ -7,8 +7,7 @@ up: "[[IHV]]"
 
 # Socialt arbete
 
-> Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
-> Huvudområde: Socialt arbete 1
+> Forskarutbildningsämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 
 ## Kurser (26 st)
 
@@ -39,7 +38,7 @@ up: "[[IHV]]"
 - [[SA1045]] — Socialt arbete som profession
 - [[SA3008]] — Examensarbete för magisterexamen i socialt arbete
 
-## Vilande kursplaner (22 st)
+## Vilande kursplaner (26 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -59,6 +58,10 @@ up: "[[IHV]]"
 - [[GSA3AS]] — Samsjuklighet - skadligt bruk eller beroende och samtidig psykisk ohälsa
 - [[GSA3DN]] — Försörjning, rehabilitering och aktivering i socialt arbete
 - [[GSA3DS]] — Organisation, grupp och samverkan
+- [[GSA3L4]] — Välfärdsinsatser och brukarperspektiv
+- [[GSA3L5]] — Examensarbete för socionomexamen
+- [[GSA3L6]] — Socialt arbete i praktik och teori
+- [[GSA3L7]] — Perspektiv på våld
 - [[SA1032]] — Grundkurs för verksamhetsförlagda utbildare i socialt arbete
 - [[SA1037]] — Återfallsprevention med KBT inriktning
 - [[SA1040]] — Motiverande samtalsmetodik

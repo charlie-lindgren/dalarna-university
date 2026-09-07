@@ -9,15 +9,6 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=DITMG
 up: "IIT"
 ---
 
-<!-- analys:start -->
-> [!warning]- 2 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Logik och matematik` (7,5hp) — sannolikt avses `Logik och matematik för datavetenskap` (kurskod `GMI23G`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `System- och verksamhetsutveckling` ≠ kursplanens namn `System och verksamhetsutveckling` (kurskod `GIK2XZ`) |
-<!-- analys:end -->
-
 # DITMG
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=DITMG)

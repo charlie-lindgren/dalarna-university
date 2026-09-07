@@ -8,7 +8,6 @@ up: "[[IIT]]"
 # Elektroteknik
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
-> Huvudområde: Ej huvudområde 1
 
 ## Vilande kursplaner (2 st)
 

@@ -8,7 +8,6 @@ up: "[[IIT]]"
 # Energiteknik
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
-> Huvudområde: Solenergiteknik 1
 
 ## Kurser (35 st)
 
@@ -43,7 +42,7 @@ up: "[[IIT]]"
 - [[GEG3BX]] — Elektriska maskiner
 - [[GEG3DT]] — Hållbara energisystem
 - [[GEG3DU]] — Kraftvärmesystem
-- [[GEG3DV]] — Förnybar Energiteknik
+- [[GEG3DV]] — Förnybar energiteknik
 - [[GEG3FM]] — Vetenskaplig metodik och kommunikation
 - [[GEG3K8]] — Ellära
 - [[GEG3K9]] — Styr- och reglerteknik

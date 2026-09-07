@@ -7,10 +7,9 @@ up: "[[ISLL]]"
 
 # Franska
 
-> Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
-> Huvudområde: Franska 1
+> Forskarutbildningsämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (28 st)
+## Kurser (27 st)
 
 - [[AFR236]] — Den fransktalande världen: Litteratur, kultur och översättning
 - [[AFR24A]] — Examensarbete i franska för ämneslärarexamen, inriktning grundskolans årskurs 7-9
@@ -19,7 +18,6 @@ up: "[[ISLL]]"
 - [[AFR26R]] — Franska IV: Språkvetenskap med fokus på språkinlärning
 - [[AFR27P]] — Franska IV: Franskspråkig chanson i original och översättning
 - [[AFR298]] — Franska: Sociala medier ur ett diskursanalytiskt perspektiv
-- [[AFR2A8]] — Franska IV: Talad franska; syntax, fonetik och perception
 - [[FR3022]] — Franska: Magisterexamensarbete
 - [[GFR2A7]] — Franska I: Muntlig språkfärdighet
 - [[GFR2A8]] — Franska: Skriftlig språkfärdighet I
@@ -41,12 +39,13 @@ up: "[[ISLL]]"
 - [[GFR3HM]] — Franska I med didaktisk inriktning
 - [[GFR3HN]] — Franska II med didaktisk inriktning
 
-## Vilande kursplaner (19 st)
+## Vilande kursplaner (20 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[AFR24Z]] — Franska: Argumentation och retorik
 - [[AFR29D]] — Interkulturella litteraturstudier: Masterexamensarbete med inriktning franska
+- [[AFR2A8]] — Franska IV: Talad franska; syntax, fonetik och perception
 - [[GFR27N]] — Franska: Skriftlig språkfärdighet II
 - [[GFR27Q]] — Franska II: Introduktion till lingvistik och akademiskt skrivande
 - [[GFR27R]] — Franskspråkig litteratur II: Fram till 1900

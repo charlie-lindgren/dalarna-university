@@ -7,7 +7,7 @@ up: "[[IKS]]"
 
 # Rättsvetenskap
 
-> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
+> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
 ## Kurser (10 st)
 

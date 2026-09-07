@@ -7,8 +7,7 @@ up: "[[IKS]]"
 
 # Statsvetenskap
 
-> Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
-> Huvudområde: Statsvetenskap 1
+> Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
 ## Kurser (22 st)
 

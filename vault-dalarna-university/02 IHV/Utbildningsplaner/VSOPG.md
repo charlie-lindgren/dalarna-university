@@ -138,7 +138,7 @@ Professionsseminarier innehåller föreläsning och seminarium om aktuell forskn
 
 **Termin 6**
 
-- [[GSA2BV|Socialt arbete i praktik och teori]], 15 högskolepoäng
+- [[GSA3L6|Socialt arbete i praktik och teori]], 15 högskolepoäng
 - [[GSA2AF|Examensarbete för socionomexamen]], 15 högskolepoäng
 
 **Termin 7**

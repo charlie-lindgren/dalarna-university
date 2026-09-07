@@ -9,22 +9,6 @@ url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SSHVG
 up: "IKS"
 ---
 
-<!-- analys:start -->
-> [!warning]- 9 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
->
-> | Område | Problem | Detalj |
-> | --- | --- | --- |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Samhällsekonomi` → `GSQ25R` (nedlagd 2025-12-08) — plain-text-referens |
-> | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Konformitet och avvikelse` → `SO1007` (nedlagd 2025-11-13) — plain-text-referens |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Examensarbete för högskoleexamen i Sociologi` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Makt och samhälle` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Samhällsvetenskapliga metoder I` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Examensarbete för kandidatexamen i sociologi` (15 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Fördjupningskurs i sociologisk teori` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Samhällsvetenskapliga metoder II` (7,5 hp) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | `Samhällsvetenskapliga metoder II inriktning statsvetenskap` (7,5 hp) — sannolikt avses `Samhällsvetenskapliga metoder II - inriktning statsvetenskap` (kurskod `GSK2PV`) |
-<!-- analys:end -->
-
 # SSHVG
 
 [Utbildningsplan på du.se →](https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SSHVG)

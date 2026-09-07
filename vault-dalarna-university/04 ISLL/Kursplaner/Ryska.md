@@ -7,10 +7,9 @@ up: "[[ISLL]]"
 
 # Ryska
 
-> Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
-> Huvudområde: Ryska 1
+> Forskarutbildningsämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (19 st)
+## Kurser (18 st)
 
 - [[GRY284]] — Det postsovjetiska ryska samhället
 - [[GRY285]] — Ryska II: Muntlig språkfärdighet
@@ -20,7 +19,6 @@ up: "[[ISLL]]"
 - [[GRY28J]] — Ryska II: Grammatik och skriftlig språkfärdighet
 - [[GRY28K]] — Ryska III: Muntlig språkfärdighet
 - [[GRY28L]] — Ryska III: Grammatik och skriftlig språkfärdighet
-- [[GRY28P]] — Ryska V: Ryska språkets historia: Från näverbrev till Twitter
 - [[GRY28U]] — Ryska III: Rysk litteratur mellan 1800 och 1917
 - [[GRY2B3]] — Ryska IV: Muntlig språkfärdighet
 - [[GRY2B4]] — Ryska IV: Rysk litteratur mellan 1917 och 1991
@@ -32,12 +30,13 @@ up: "[[ISLL]]"
 - [[GRY38S]] — Ryska I: Grundläggande kurs 2
 - [[GRY38T]] — Ryska I: Grundläggande kurs 1 och 2
 
-## Vilande kursplaner (8 st)
+## Vilande kursplaner (9 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[ARY23F]] — Ryska VI: Stalintidens ideologi och estetik
 - [[ARY25M]] — Ryska VI: Det virtuella Ryssland: politik, språk och nya medier
+- [[GRY28P]] — Ryska V: Ryska språkets historia: Från näverbrev till Twitter
 - [[GRY2BR]] — Ryska V: Samtida rysk litteratur och kultur
 - [[GRY2HL]] — Introduktion till rysk opera 1
 - [[GRY325]] — Introduktion till rysk opera 2
