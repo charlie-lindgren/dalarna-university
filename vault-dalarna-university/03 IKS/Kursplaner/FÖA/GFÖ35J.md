@@ -8,11 +8,12 @@ huvudomrade: "Företagsekonomi 1"
 amne: "Företagsekonomi"
 amne_kod: "FÖA"
 institution: "IKS"
-tags: [kursplan, FÖA, IKS, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, FÖA, IKS, stray, nedlagd]
+cssclasses: [nedlagd]
 scrape_hash: 7f97730d7ac58668
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ35J
 up: "[[Företagsekonomi]]"
+draft: true
 ---
 
 # GFÖ35J

@@ -8,11 +8,12 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Arbetsvetenskap"
 amne_kod: "ABA"
 institution: "IKS"
-tags: [kursplan, ABA, IKS, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, ABA, IKS, stray, nedlagd]
+cssclasses: [nedlagd]
 scrape_hash: 185e5136d159b7ef
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GAB26D
 up: "[[Arbetsvetenskap]]"
+draft: true
 ---
 
 <!-- analys:start -->

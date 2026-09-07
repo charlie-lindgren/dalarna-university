@@ -10,7 +10,7 @@ institution: "IIT"
 tags: [kursplan, ENERGIBM, IIT, forskarutbildning, vilande]
 scrape_hash: 8fc8d752c7224a2c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=FEB222L
-up: "[[Forskarämne Energisystem i byggd miljö]]"
+up: "[[Energisystem i byggd miljö]]"
 cssclasses: [vilande]
 ---
 

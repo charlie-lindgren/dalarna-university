@@ -8,11 +8,12 @@ huvudomrade: "Bildproduktion 1"
 amne: "Bildproduktion"
 amne_kod: "BPO"
 institution: "IKS"
-tags: [kursplan, BPO, IKS, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, BPO, IKS, stray, nedlagd]
+cssclasses: [nedlagd]
 scrape_hash: 1d0138f1aa90b3dc
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBQ22U
 up: "[[Bildproduktion]]"
+draft: true
 ---
 
 <!-- analys:start -->
