@@ -10,7 +10,7 @@ amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 751126e53c33b0cc
+scrape_hash: 7dd5199466071b1d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFÖ2CV
 up: "[[Företagsekonomi]]"
 ---
@@ -88,25 +88,17 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 On completion of the course, students will be able to:
 
-  - 
+  - explain key philosophy-of-science perspectives and compare major research paradigms within business administration
 
-explain key philosophy-of-science perspectives and compare major research paradigms within business administration
+  - account for central theoretical perspectives within organisation theory and critically discuss the implications of different assumptions for the study of organisations and management
 
-  - 
+  - independently apply and compare different theoretical perspectives in the analysis of an organisational situation, and critically discuss their respective strengths, limitations, and ethical implications
 
-account for central theoretical perspectives within organisation theory and critically discuss the implications of different assumptions for the study of organisations and management
-
-  - 
-
-independently apply and compare different theoretical perspectives in the analysis of an organisational situation, and critically discuss their respective strengths, limitations, and ethical implications
-
-  - 
-
-apply academic skills in presentation technique, academic writing, and critical thinking, as well as give and receive constructive feedback.
+  - apply academic skills in presentation technique, academic writing, and critical thinking, as well as give and receive constructive feedback.
 
 ### Course Content
 
-The first module of the course, _Philosophy of Science and Research Paradigms_, introduces central philosophical perspectives and research paradigms in business administration. The focus is on their underlying assumptions about knowledge and values, as well as on what these assumptions enable, constrain and imply for the study of organisations and management.
+The first module in the course, _Philosophy of Science and Research Paradigms_, introduces central philosophical perspectives and research paradigms in business administration. The focus is on their underlying assumptions about knowledge and values, as well as on what these assumptions enable, limit and imply for the study of organisations and management.
 
 The second module, _Organisation Theory and Organisational Analysis_, introduces central theoretical perspectives in organisation theory and the underlying assumptions on which they are based. The perspectives are applied and compared in the analysis of organisational situations using empirical material. Their strengths, limitations and ethical implications are critically discussed.
 

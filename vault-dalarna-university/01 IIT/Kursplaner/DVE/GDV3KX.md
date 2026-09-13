@@ -8,8 +8,8 @@ huvudomrade: "Datavetenskaper 1"
 amne: "Datavetenskaper"
 amne_kod: "DVE"
 institution: "IIT"
-tags: [kursplan, DVE, IIT, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, DVE, IIT, stray]
+
 scrape_hash: 6c48b32b66789293
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDV3KX
 up: "[[Datavetenskaper]]"

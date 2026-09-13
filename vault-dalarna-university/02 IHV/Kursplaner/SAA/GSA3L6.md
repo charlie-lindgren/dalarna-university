@@ -8,8 +8,8 @@ huvudomrade: "Socialt arbete 1"
 amne: "Socialt arbete"
 amne_kod: "SAA"
 institution: "IHV"
-tags: [kursplan, SAA, IHV, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, SAA, IHV, stray]
+
 scrape_hash: f6d4f00052264eea
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L6
 up: "[[Socialt arbete]]"

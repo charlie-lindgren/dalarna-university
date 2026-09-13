@@ -9,7 +9,7 @@ up: "[[ISLL]]"
 
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 
-## Kurser (29 st)
+## Kurser (31 st)
 
 - [[ATY255]] — Examensarbete i tyska för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 - [[ATY256]] — Examensarbete i tyska för ämneslärarexamen, inriktning gymnasieskolan
@@ -29,6 +29,8 @@ up: "[[ISLL]]"
 - [[GTY3J9]] — Tyska II med didaktisk inriktning
 - [[GTY3JA]] — Tyska III: Introduktion till tysk språkvetenskap
 - [[GTY3JB]] — Tyska III med didaktisk inriktning
+- [[GTY3KG]] — Tyska I med didaktisk inriktning
+- [[GTY3KK]] — Tyska I: Skrivande och AI
 - [[TY1038]] — Tyska: Språkdidaktik I
 - [[TY1050]] — Tyska: Skriftlig språkfärdighet II
 - [[TY1067]] — Tyska grundläggande kurs I
@@ -41,7 +43,7 @@ up: "[[ISLL]]"
 - [[TY3015]] — Tyska: Intertextualitet och intermedialitet i teori och praktik
 - [[TY3016]] — Tyska: Former och villkor för dramer och prosatexter
 
-## Vilande kursplaner (19 st)
+## Vilande kursplaner (17 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -54,9 +56,7 @@ up: "[[ISLL]]"
 - [[GTY2SV]] — Tyska: Tyskspråkig litteratur och litteraturdidaktik i teori och praktik
 - [[GTY32H]] — Tyska: Språkdidaktik II
 - [[GTY3CU]] — Tyska II med didaktisk inriktning
-- [[GTY3KG]] — Tyska I med didaktisk inriktning
 - [[GTY3KJ]] — Tyska I: Tysk grammatik
-- [[GTY3KK]] — Tyska I: Skrivande och AI
 - [[TY1049]] — Tyskspråkig litteratur och litteraturhistoria
 - [[TY1066]] — Tyska, Språkdidaktik II
 - [[TY1069]] — Tyska: Språk- och kulturhistoria med akademiskt skrivande

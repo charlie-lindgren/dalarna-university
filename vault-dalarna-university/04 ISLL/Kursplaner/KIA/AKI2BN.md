@@ -8,10 +8,11 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Kinesiska"
 amne_kod: "KIA"
 institution: "ISLL"
-tags: [kursplan, KIA, ISLL]
+tags: [kursplan, KIA, ISLL, vilande]
 scrape_hash: 2b5e830ee708a091
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKI2BN
 up: "[[Kinesiska]]"
+cssclasses: [vilande]
 ---
 
 <!-- analys:start -->

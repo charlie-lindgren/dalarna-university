@@ -10,7 +10,7 @@ amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 49699245f3e343d0
+scrape_hash: 5dd62acb9d58f604
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFÖ2CW
 up: "[[Företagsekonomi]]"
 ---
@@ -93,13 +93,13 @@ On completion of the course, students will be able to:
 
   - critically discuss trade-offs, conflicts and ethical dilemmas that may arise in organisational activities between different stakeholders
 
-  - analyse and assess organisations’ sustainability strategies in relation to organisational and institutional conditions.
+  - analyse and assess the sustainability strategies of organisations in relation to organisational and institutional conditions.
 
 ### Course Content
 
-The first module, _Strategic Perspectives and Sustainability_, addresses central perspectives on strategic management and sustainability in organisations. The focus is on strategic models, processes and perspectives for strategic analysis, sustainability and responsible value creation from economic, social and environmental dimensions. The module also addresses stakeholder relationships, trade-offs, conflicts and ethical dilemmas that may arise in organisations’ strategic work.
+The first module, _Strategic Perspectives and Sustainability_, addresses central perspectives on strategic management and sustainability in organisations. The focus is on strategic models, processes and perspectives for strategic analysis, sustainability and responsible value creation from economic, social and environmental dimensions. The module also addresses stakeholder relationships, trade-offs, conflicts and ethical dilemmas that may arise in the strategic work of organisations.
 
-The second module, _Analysis of Organisational Sustainability Strategies_, focuses on applying strategic perspectives and models to analyse and assess organisations’ sustainability strategies. Particular emphasis is placed on how organisational and institutional conditions influence organisations’ strategic choices and opportunities to pursue responsible and sustainable practices.
+The second module, _Analysis of Organisational Sustainability Strategies_, focuses on applying strategic perspectives and models to analyse and assess the sustainability strategies of organisations. Particular emphasis is placed on how organisational and institutional conditions influence the strategic choices and opportunities of organisations to pursue responsible and sustainable practices.
 
 ### Assessment
 
@@ -111,7 +111,7 @@ The second module, _Analysis of Organisational Sustainability Strategies_, focus
 
 The grading scale used for the final course grade is U–VG.
 
-To be awarded the grade Pass with Distinction (VG) for the course, students must achieve a Pass with Distinction (VG) in the second module.
+To be awarded the grade Pass with Distinction (VG) for the course, students must achieve a Pass with Distinction (VG) in both modules.
 
 Grades are reported as follows:
 

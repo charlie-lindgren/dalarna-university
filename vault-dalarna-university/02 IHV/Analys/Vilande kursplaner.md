@@ -194,6 +194,7 @@ status: första pass
 > | [GIH2ZD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZD) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH2ZD">sida</a> | IDA | IHV | 2022-12-12 | — | Ingen aktiv kursomgång |
 > | [GIH2ZE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH2ZE) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH2ZE">sida</a> | IDA | IHV | 2022-12-12 | — | Ingen aktiv kursomgång |
 > | [GSR2ZH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSR2ZH) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/GSR2ZH">sida</a> | SRP | IHV | 2022-12-12 | — | Ingen aktiv kursomgång |
+> | [GSA2BV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2BV) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA2BV">sida</a> | SAA | IHV | 2019-10-29 | 2023-01-19 | Ingen aktiv kursomgång |
 > | [GIH334](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH334) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH334">sida</a> | IDA | IHV | 2023-02-07 | — | Ingen aktiv kursomgång |
 > | [GSA32Y](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA32Y) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA32Y">sida</a> | SAA | IHV | 2023-02-07 | — | Ingen aktiv kursomgång |
 > | [GIH33J](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH33J) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH33J">sida</a> | IDA | IHV | 2023-02-23 | — | Ingen aktiv kursomgång |
@@ -209,6 +210,7 @@ status: första pass
 > | [GIH35V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35V) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH35V">sida</a> | IDA | IHV | 2023-08-30 | — | Ingen aktiv kursomgång |
 > | [GIH35Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35Z) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH35Z">sida</a> | IDA | IHV | 2023-08-30 | — | Ingen aktiv kursomgång |
 > | [AMC29F](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC29F) | <a class="no-graph" href="02-IHV/Kursplaner/MCA/AMC29F">sida</a> | MCA | IHV | 2023-08-30 | — | Ingen aktiv kursomgång |
+> | [GSA2AF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2AF) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA2AF">sida</a> | SAA | IHV | 2019-08-29 | 2023-09-13 | Ingen aktiv kursomgång |
 > | [ASR29U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29U) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR29U">sida</a> | SRP | IHV | 2023-10-03 | — | Ingen aktiv kursomgång |
 > | [GIH37B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37B) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH37B">sida</a> | IDA | IHV | 2023-11-07 | — | Ingen aktiv kursomgång |
 > | [GIH37C](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37C) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH37C">sida</a> | IDA | IHV | 2023-11-07 | — | Ingen aktiv kursomgång |
@@ -231,7 +233,9 @@ status: första pass
 > | [GIH3D4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3D4) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH3D4">sida</a> | IDA | IHV | 2024-11-12 | — | Ingen aktiv kursomgång |
 > | [GIH3D5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3D5) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH3D5">sida</a> | IDA | IHV | 2024-11-12 | — | Ingen aktiv kursomgång |
 > | [GIH3D6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3D6) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH3D6">sida</a> | IDA | IHV | 2024-11-12 | — | Ingen aktiv kursomgång |
+> | [GSA3DM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DM) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3DM">sida</a> | SAA | IHV | 2024-12-10 | — | Ingen aktiv kursomgång |
 > | [GSA3DN](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DN) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3DN">sida</a> | SAA | IHV | 2024-12-10 | — | Ingen aktiv kursomgång |
+> | [GSA3DR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DR) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3DR">sida</a> | SAA | IHV | 2024-12-10 | — | Ingen aktiv kursomgång |
 > | [GSA3DS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3DS) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3DS">sida</a> | SAA | IHV | 2024-12-10 | — | Ingen aktiv kursomgång |
 > | [GIH3F4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3F4) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH3F4">sida</a> | IDA | IHV | 2025-02-24 | — | Ingen aktiv kursomgång |
 > | [GIH3F5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3F5) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH3F5">sida</a> | IDA | IHV | 2025-02-24 | — | Ingen aktiv kursomgång |
@@ -240,10 +244,6 @@ status: första pass
 > | [GIH3GA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GA) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH3GA">sida</a> | IDA | IHV | 2025-06-09 | — | Ingen aktiv kursomgång |
 > | [GIH3GK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GK) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH3GK">sida</a> | IDA | IHV | 2025-06-09 | — | Ingen aktiv kursomgång |
 > | [GNV3GV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3GV) | <a class="no-graph" href="02-IHV/Kursplaner/NAV/GNV3GV">sida</a> | NAV | IHV | 2025-09-10 | — | Ingen aktiv kursomgång |
-> | [GSA3L4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L4) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L4">sida</a> | SAA | IHV | 2026-09-07 | — | Ingen aktiv kursomgång |
-> | [GSA3L5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L5) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L5">sida</a> | SAA | IHV | 2026-09-07 | — | Ingen aktiv kursomgång |
-> | [GSA3L6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L6) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L6">sida</a> | SAA | IHV | 2026-09-07 | — | Ingen aktiv kursomgång |
-> | [GSA3L7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L7) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L7">sida</a> | SAA | IHV | 2026-09-07 | — | Ingen aktiv kursomgång |
 
 ## Syfte
 
