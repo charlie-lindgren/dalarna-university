@@ -4,7 +4,7 @@ programnamn: "Magisterprogram i solenergiteknik"
 institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2015-10-07 . Gäller fr.o.m.  HT ."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: 91bc96c865ee3489
+scrape_hash: 196ec29381b24500
 url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TSETA
 up: "IIT"
 ---
@@ -148,7 +148,7 @@ Teknologie magisterexamen, huvudområde: Solenergiteknik (Degree of Master of Sc
 
 ## 5. Behörighetskrav
 
-- Högskoleingenjörsexamen, Civilingenjörsexamen eller Teknologie kandidatexamen med huvudområde inom elektroteknik, maskinteknik, energiteknik, teknisk fysik och Engelska 6
+- Högskoleingenjörsexamen, Civilingenjörsexamen eller Teknologie kandidatexamen med huvudområde inom elektroteknik, maskinteknik, energiteknik, teknisk fysik och Engelska 6/Engelska nivå 2
 
 ## 7. Övrigt
 

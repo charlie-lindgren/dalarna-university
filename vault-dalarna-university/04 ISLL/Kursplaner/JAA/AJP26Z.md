@@ -10,7 +10,7 @@ amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 8d8b7092d87f8fde
+scrape_hash: dd0ca7fc1b47e4c2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP26Z
 up: "[[Japanska]]"
 ---
@@ -67,7 +67,7 @@ Som betygsskala används A–F.
 
 ## Förkunskapskrav
 
-- Kandidatexamen motsvarande 180 hp inom humaniora, samhällsvetenskap eller utbildningsvetenskap och Engelska 6. Undantag för svenska kan ges.
+- Kandidatexamen motsvarande 180 hp inom humaniora, samhällsvetenskap eller utbildningsvetenskap och Engelska 6/Engelska nivå 2
 
 ## Övrigt
 
@@ -106,4 +106,4 @@ The Swedish grades A–F.
 
 ### Prerequisites
 
-- Bachelor Degree of 180 credits in the field of Humanities, Social Sciences or Education and English 6. Exemption from Swedish can be given.
+- Bachelor Degree of 180 credits in the field of Humanities, Social Sciences or Education and English 6/English level 2

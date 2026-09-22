@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Frasningskonsistens.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (252 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Frasningskonsistens.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (253 rader)</span></a>
 
-> [!example]- 252 fynd — klicka för att expandera
+> [!example]- 253 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -261,6 +261,7 @@ status: första pass
 > | [GTY2N4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2N4) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/GTY2N4">sida</a> | TYA | 2021-03-04 | — | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [GTY2SV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2SV) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/GTY2SV">sida</a> | TYA | 2021-12-16 | — | Avviker från referensformen | Efter avslutad kurs ska den studerande förutom ökad generell språkkompetens i tyska kunna:… |
 > | [GTY32H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY32H) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/GTY32H">sida</a> | TYA | 2023-01-27 | — | Avviker från referensformen | Efter godkänd kurs ska den studerande kunna:… |
+> | [GTY3L9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3L9) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/GTY3L9">sida</a> | TYA | 2026-09-15 | — | Avviker från referensformen | Efter godkänd kurs ska den studerande kunna:… |
 > | [TY1067](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TY1067) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/TY1067">sida</a> | TYA | 2015-03-06 | 2023-01-27 | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | [TY1068](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TY1068) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/TY1068">sida</a> | TYA | 2015-10-05 | — | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [TY1070](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TY1070) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/TY1070">sida</a> | TYA | 2016-11-01 | — | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |

@@ -10,7 +10,7 @@ amne_kod: "HIA"
 institution: "IKS"
 tags: [kursplan, HIA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 0de81214c6d5d099
+scrape_hash: 661a6dcba8b406e6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AHI26P
 up: "[[Historia]]"
 ---
@@ -69,7 +69,7 @@ Som betygsskala används A–F.
 
 ## Förkunskapskrav
 
-- Filosofie kandidatexamen motsvarande 180 hp inom humaniora, samhällsvetenskap eller utbildningsvetenskap och Engelska 6 samt kursen Afrikanska studier: Religion och politik i afrikanska samhällen, 9 hp på avancerad nivå. Undantag för svenska kan ges.
+- Filosofie kandidatexamen motsvarande 180 hp inom humaniora, samhällsvetenskap eller utbildningsvetenskap och Engelska 6/Engelska nivå 2 samt kursen Afrikanska studier: Religion och politik i afrikanska samhällen, 9 hp på avancerad nivå
 
 ## Övrigt
 
@@ -108,4 +108,4 @@ The Swedish grades A–F.
 
 ### Prerequisites
 
-- A Bachelor Degree of 180 credits in the field of Humanities, Social Sciences or Education and English 6 and the course African Studies: Religion and Politics in African Societies, 9 credits at Second cycle. Exemption from Swedish can be given.
+- A Bachelor Degree of 180 credits in the field of Humanities, Social Sciences or Education and English 6/English level 2 and the course African Studies: Religion and Politics in African Societies, 9 credits at Second cycle

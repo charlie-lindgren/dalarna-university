@@ -9,7 +9,7 @@ amne: "Statsvetenskap"
 amne_kod: "SKA"
 institution: "IKS"
 tags: [kursplan, SKA, IKS, forskarutbildning]
-scrape_hash: c12e17e976ba8923
+scrape_hash: 37a76d366840f26e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASK22M
 up: "[[Statsvetenskap]]"
 ---
@@ -85,7 +85,7 @@ Betygsrapportering:
 
 ## Förkunskapskrav
 
-- Minst 180 hp på grundnivå, varav 90 hp inom Statsvetenskap, Sociologi, Internationella Relationer, Mänskliga rättigheter eller Freds- och konfliktkunskap, varav minst 7,5 hp i forskningsmetod med inriktning samhällsvetenskap, samt Engelska 6. Dessutom minst 30 hp på avancerad nivå inom Statsvetenskap, Sociologi, Internationella Relationer, Mänskliga rättigheter eller Freds- och konfliktkunskap
+- Minst 180 hp på grundnivå, varav 90 hp inom Statsvetenskap, Sociologi, Internationella Relationer, Mänskliga rättigheter eller Freds- och konfliktkunskap, varav minst 7,5 hp i forskningsmetod med inriktning samhällsvetenskap, samt Engelska 6/Engelska nivå 2. Dessutom minst 30 hp på avancerad nivå inom Statsvetenskap, Sociologi, Internationella Relationer, Mänskliga rättigheter eller Freds- och konfliktkunskap
 
 ## Övrigt
 
@@ -129,4 +129,4 @@ Reporting of grades:
 
 ### Prerequisites
 
-- A minimum of 180 credits on first cycle, including 90 credits in Political Science, Sociology, International Relations, Human Rights or Peace and Conflict Studies, including a minimum of 7,5 credits research method with a focus on Social Science and English 6. In addition a minimum of 30 credits on second cycle in Political Science, Sociology, International Relations, Human Rights or Peace and Conflict Studies
+- A minimum of 180 credits on first cycle, including 90 credits in Political Science, Sociology, International Relations, Human Rights or Peace and Conflict Studies, including a minimum of 7,5 credits research method with a focus on Social Science and English 6/English level 2. In addition a minimum of 30 credits on second cycle in Political Science, Sociology, International Relations, Human Rights or Peace and Conflict Studies

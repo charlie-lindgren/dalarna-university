@@ -4,7 +4,7 @@ programnamn: "Magisterprogram i global sexuell och reproduktiv hälsa"
 institution: "IHV"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2021-03-04 . Gäller fr.o.m.  HT 2021."
 tags: [utbildningsplan, program, IHV]
-scrape_hash: 2646fe338fd0e00a
+scrape_hash: f5d57da583e5afbb
 url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=VGSEA
 up: "IHV"
 ---
@@ -100,7 +100,7 @@ Degree of Master of Science (60 hp), Main field of study: Sexual, Reproductive a
 
 ## 5. Behörighetskrav
 
-- Kandidatexamen om 180 hp i ett samhällsvetenskapligt/hälsovetenskapligt/ekonomiskt huvudområde och Engelska 6
+- Kandidatexamen om 180 hp i ett samhällsvetenskapligt/hälsovetenskapligt/ekonomiskt huvudområde och Engelska 6/Engelska nivå 2
 
 ## 6. Summary in English
 

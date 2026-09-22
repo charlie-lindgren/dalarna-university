@@ -9,7 +9,7 @@ amne: "Sexuell, reproduktiv och perinatal hälsa"
 amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV]
-scrape_hash: 20dd113283b1f266
+scrape_hash: 376da6ccbc6dcee3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2B9
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
@@ -58,7 +58,7 @@ Betyg rapporteras enligt följande:
 
 ## Förkunskapskrav
 
-- Sjuksköterskeexamen och Engelska 6
+- Sjuksköterskeexamen och Engelska 6/Engelska nivå 2
 
 ## Övrigt
 
@@ -99,4 +99,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- Degree of Bachelor of Science in Nursing and English 6
+- Degree of Bachelor of Science in Nursing and English 6/English level 2

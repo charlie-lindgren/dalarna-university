@@ -9,7 +9,7 @@ amne: "Turismvetenskap"
 amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
-scrape_hash: a85dca72b772a749
+scrape_hash: 2249b20dac719aac
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATR2AF
 up: "[[Turismvetenskap]]"
 ---
@@ -64,7 +64,7 @@ Betyg rapporteras enligt följande:
 
 ## Förkunskapskrav
 
-- Filosofie kandidatexamen med huvudområde inom samhällsvetenskapligt område samt Engelska 6
+- Filosofie kandidatexamen med huvudområde inom samhällsvetenskapligt område samt Engelska 6/Engelska nivå 2
 
 ## Övrigt
 
@@ -113,4 +113,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- Degree of Bachelor with a main field of study in the Social Sciences and English 6
+- Degree of Bachelor with a main field of study in the Social Sciences and English 6/English level 2

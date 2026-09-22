@@ -9,7 +9,7 @@ amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT]
-scrape_hash: 30724778ea014d1f
+scrape_hash: 2e35064b6c45e539
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2C5
 up: "[[Energiteknik]]"
 ---
@@ -60,7 +60,7 @@ Betyg rapporteras enligt följande:
 
 ## Förkunskapskrav
 
-- Högskoleingenjörsexamen, Civilingenjörsexamen eller Teknologie kandidatexamen med huvudområde inom elektroteknik, maskinteknik, energiteknik, teknisk fysik och Engelska 6
+- Högskoleingenjörsexamen, Civilingenjörsexamen eller Teknologie kandidatexamen med huvudområde inom elektroteknik, maskinteknik, energiteknik, teknisk fysik och Engelska 6/Engelska nivå 2
 
 ## Övrigt
 
@@ -105,4 +105,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- Degree of Bachelor of Science in Engineering, Degree of Master of Science in Engineering or Degree of Bachelor of Science with a main field of study in Electrical Engineering, Mechanical Engineering, Energy Engineering or Engineering Physics and English 6
+- Degree of Bachelor of Science in Engineering, Degree of Master of Science in Engineering or Degree of Bachelor of Science with a main field of study in Electrical Engineering, Mechanical Engineering, Energy Engineering or Engineering Physics and English 6/English level 2

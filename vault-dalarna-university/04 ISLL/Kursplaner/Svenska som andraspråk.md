@@ -10,7 +10,7 @@ up: "[[ISLL]]"
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 > Huvudområde: Ej huvudområde 1
 
-## Kurser (37 st)
+## Kurser (39 st)
 
 - [[ASS257]] — Examensarbete i svenska som andraspråk för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 - [[ASS258]] — Examensarbete i svenska som andraspråk för ämneslärarexamen, inriktning gymnasieskolan
@@ -47,10 +47,12 @@ up: "[[ISLL]]"
 - [[SS3002]] — Flerspråkighet som fenomen och företeelse - vetenskapsteoretiska förklaringsmodeller och metodologiska perspektiv
 - [[SS3003]] — Svenska som andraspråk i ett utvecklingsperspektiv - förklaringsmodeller och metodologiska perspektiv
 - [[SS3006]] — Flerspråkighet, identitet och kulturmöten i sociala sammanhang
+- [[SS3007]] — Flerspråkighet, interaktion och identitetsskapande i klassrum
 - [[SS3008]] — Flerspråkiga röster i svensk skönlitteratur
 - [[SS3011]] — Svenska som andraspråk: Examensarbete för magisterexamen
+- [[SS3014]] — Flerspråkighet i ett samhällsperspektiv
 
-## Vilande kursplaner (26 st)
+## Vilande kursplaner (24 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -76,7 +78,5 @@ up: "[[ISLL]]"
 - [[SS1085]] — Svenska som andraspråk för lärare åk 7-9, 45 hp (1-45). Ingår i Lärarlyftet II
 - [[SS2009]] — Svenska som andraspråk III - Andraspråksforskning
 - [[SS3004]] — Svenska som andraspråk i ett tvärspråkligt perspektiv
-- [[SS3007]] — Flerspråkighet, interaktion och identitetsskapande i klassrum
 - [[SS3009]] — Litteracitet och flerspråkighet
 - [[SS3010]] — Svensk fonologi i ett andraspråksperspektiv
-- [[SS3014]] — Flerspråkighet i ett samhällsperspektiv

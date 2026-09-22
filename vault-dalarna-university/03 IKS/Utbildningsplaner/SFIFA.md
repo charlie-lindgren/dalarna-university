@@ -4,7 +4,7 @@ programnamn: "Magisterprogram i företagsekonomi med ett internationellt fokus"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2017-09-14 . Gäller fr.o.m.  HT 2018."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: 68e4c7c528755911
+scrape_hash: f0df5dc000130786
 url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SFIFA
 up: "IKS"
 ---
@@ -159,7 +159,7 @@ Ekonomie magisterexamen, huvudområde: Företagsekonomi [Degree of Master of Sci
 
 ## 5. Behörighetskrav
 
-- Kandidatexamen med huvudområde inom samhällsvetenskapligt område eller tekniskt område minst 180 hp. Den sökandes totala utbildningsbakgrund måste innehålla minst 30 hp i företagsekonomiska kurser (t.ex. redovisning, marknadsföring, organisationsteori) varav minst 7,5 hp i forskningsmetod med inriktning samhällsvetenskap eller företagsekonomi och Engelska 6
+- Kandidatexamen med huvudområde inom samhällsvetenskapligt område eller tekniskt område minst 180 hp. Den sökandes totala utbildningsbakgrund måste innehålla minst 30 hp i företagsekonomiska kurser (t.ex. redovisning, marknadsföring, organisationsteori) varav minst 7,5 hp i forskningsmetod med inriktning samhällsvetenskap eller företagsekonomi och Engelska 6/Engelska nivå 2
 
 ## 7. Övrigt
 

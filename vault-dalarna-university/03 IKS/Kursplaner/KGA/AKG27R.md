@@ -9,7 +9,7 @@ amne: "Kulturgeografi"
 amne_kod: "KGA"
 institution: "IKS"
 tags: [kursplan, KGA, IKS]
-scrape_hash: 964d8046b387d069
+scrape_hash: 3644c696a64c78ba
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AKG27R
 up: "[[Kulturgeografi]]"
 ---
@@ -72,7 +72,7 @@ Modul3: PM - 4 hp (A-F)
 
 ## Förkunskapskrav
 
-- Filosofie Kandidatexamen med huvudområdet Företagsekonomi, Kulturgeografi, Turismvetenskap och Engelska 6
+- Filosofie Kandidatexamen med huvudområdet Företagsekonomi, Kulturgeografi, Turismvetenskap och Engelska 6/Engelska nivå 2
 
 ## Övrigt
 
@@ -118,4 +118,4 @@ Seminars (A-F), final term-paper (A-F) and fieldwork/excursion (U-G)
 
 ### Prerequisites
 
-- A Bachelors degree in either Human Geography, Business Administration and Management, Tourism Studies and English 6
+- A Bachelors degree in either Human Geography, Business Administration and Management, Tourism Studies and English 6/English level 2

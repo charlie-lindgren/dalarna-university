@@ -209,7 +209,6 @@ status: första pass
 > | [GIH35P](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35P) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH35P">sida</a> | IDA | IHV | 2023-08-30 | — | Ingen aktiv kursomgång |
 > | [GIH35V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35V) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH35V">sida</a> | IDA | IHV | 2023-08-30 | — | Ingen aktiv kursomgång |
 > | [GIH35Z](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH35Z) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH35Z">sida</a> | IDA | IHV | 2023-08-30 | — | Ingen aktiv kursomgång |
-> | [AMC29F](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMC29F) | <a class="no-graph" href="02-IHV/Kursplaner/MCA/AMC29F">sida</a> | MCA | IHV | 2023-08-30 | — | Ingen aktiv kursomgång |
 > | [GSA2AF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2AF) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA2AF">sida</a> | SAA | IHV | 2019-08-29 | 2023-09-13 | Ingen aktiv kursomgång |
 > | [ASR29U](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29U) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR29U">sida</a> | SRP | IHV | 2023-10-03 | — | Ingen aktiv kursomgång |
 > | [GIH37B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37B) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH37B">sida</a> | IDA | IHV | 2023-11-07 | — | Ingen aktiv kursomgång |
@@ -244,6 +243,7 @@ status: första pass
 > | [GIH3GA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GA) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH3GA">sida</a> | IDA | IHV | 2025-06-09 | — | Ingen aktiv kursomgång |
 > | [GIH3GK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH3GK) | <a class="no-graph" href="02-IHV/Kursplaner/IDA/GIH3GK">sida</a> | IDA | IHV | 2025-06-09 | — | Ingen aktiv kursomgång |
 > | [GNV3GV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3GV) | <a class="no-graph" href="02-IHV/Kursplaner/NAV/GNV3GV">sida</a> | NAV | IHV | 2025-09-10 | — | Ingen aktiv kursomgång |
+> | [AFT2C9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFT2C9) | <a class="no-graph" href="02-IHV/Kursplaner/FYS/AFT2C9">sida</a> | FYS | IHV | 2025-12-04 | — | Ingen aktiv kursomgång |
 
 ## Syfte
 

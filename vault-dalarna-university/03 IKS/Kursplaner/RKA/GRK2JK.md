@@ -9,7 +9,7 @@ amne: "Religionsvetenskap"
 amne_kod: "RKA"
 institution: "IKS"
 tags: [kursplan, RKA, IKS]
-scrape_hash: 70aceaacd785d527
+scrape_hash: a338d07168dd3dd9
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK2JK
 up: "[[Religionsvetenskap]]"
 ---
@@ -64,7 +64,7 @@ Som betygsskala används U–VG.
 
 ## Förkunskapskrav
 
-- 60 hp på grundnivå inom något av ämnena historia, religionsvetenskap, sociologi, statsvetenskap, internationella relationer och Engelska 6. Undantag för svenska kan ges.
+- 60 hp på grundnivå inom något av ämnena historia, religionsvetenskap, sociologi, statsvetenskap, internationella relationer och Engelska 6/Engelska nivå 2. (Undantag för kravet på svenska för dig med utländska betyg)
 
 ## Övrigt
 
@@ -99,4 +99,4 @@ The Swedish grades U–VG.
 
 ### Prerequisites
 
-- 60 credits within history, religious studies, sociology, political science or international relations, and English 6. Exemption from Swedish can be given.
+- 60 credits within history, religious studies, sociology, political science or international relations, and English 6/English level 2. (Exemption of the requirement in Swedish for those with foreign grades)

@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL, forskarutbildning]
-scrape_hash: 55f025afc03402d6
+scrape_hash: 8a559533aae57919
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BZ
 up: "[[Engelska]]"
 ---
@@ -70,7 +70,7 @@ Betyg rapporteras enligt följande:
 
 ## Förkunskapskrav
 
-- 90 hp, inklusive 30 hp på III-nivå (nivå G2F/C), inom ett av följande ämnen: engelska; franska; spanska; litteraturvetenskap eller Kandidatexamen motsvarande 180 hp inom litteraturvetenskap eller språk eller 15 hp i interkulturella litteraturstudier på avancerad nivå. Dessutom krävs Engelska 6. Undantag för svenska kan ges.
+- 90 hp, inklusive 30 hp på III-nivå (nivå G2F), inom ett av följande ämnen: engelska; franska; spanska; litteraturvetenskap eller Kandidatexamen motsvarande 180 hp inom litteraturvetenskap eller språk eller 15 hp i interkulturella litteraturstudier på avancerad nivå samt Engelska 6/Engelska nivå 2.
 
 ## Övrigt
 
@@ -116,4 +116,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- 90 credits, including 30 credits at level III (level G2F/C), in one of the following subjects: English; French; Spanish; Comparative Literature or a Bachelor‘s Degree equivalent to 180 credits in Comparative Literature or languages or 15 credits in Intercultural Literature Studies at Second cycle and English 6.Exemption from Swedish can be given.
+- 90 credits, including 30 credits at level III (level G2F), in one of the following subjects: English; French; Spanish; Comparative Literature or a Bachelor‘s Degree equivalent to 180 credits in Comparative Literature or languages or 15 credits in Intercultural Literature Studies at Second cycle and English 6/English level 2

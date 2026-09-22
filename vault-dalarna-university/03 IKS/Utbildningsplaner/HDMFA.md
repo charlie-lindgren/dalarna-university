@@ -4,7 +4,7 @@ programnamn: "Magisterprogram: Demokrati, medborgarskap och förändring"
 institution: "IKS"
 faststalld: "Fastställd av Områdesnämnden Samhällsvetenskap 2018-11-07 . Gäller fr.o.m.  HT 2019."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: 56a3f6fc0faa3c7d
+scrape_hash: 9a3907e5860be584
 url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=HDMFA
 up: "IKS"
 ---
@@ -96,7 +96,7 @@ Filosofie magisterexamen (60 hp), huvudområde: Statsvetenskap. (Degree of Maste
 
 ## 5. Behörighetskrav
 
-- Kandidatexamen med 180 hp, varav minst 90 hp i statsvetenskap, sociologi, internationella relationer, mänskliga rättigheter eller freds- och konfliktkunskap inklusive minst 7,5 hp i vetenskaplig metod inom området samhällsvetenskap och Engelska 6
+- Kandidatexamen med 180 hp, varav minst 90 hp i statsvetenskap, sociologi, internationella relationer, mänskliga rättigheter eller freds- och konfliktkunskap inklusive minst 7,5 hp i vetenskaplig metod inom området samhällsvetenskap och Engelska 6/Engelska nivå 2
 
 ## 7. Övrigt
 

@@ -38,7 +38,7 @@ tags: [MOC, institution, ISLL]
 - [[Spanska]] (28 kurser)
 - [[Svenska]] (18 kurser)
 - [[Svenska som andraspråk]] (63 kurser)
-- [[Tyska]] (48 kurser)
+- [[Tyska]] (50 kurser)
 
 ## Kvalitetsanalys
 

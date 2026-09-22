@@ -8,8 +8,8 @@ huvudomrade: "Turismvetenskap 1"
 amne: "Turismvetenskap"
 amne_kod: "TRU"
 institution: "IKS"
-tags: [kursplan, TRU, IKS]
-scrape_hash: 9f6d7ee40ed5b4f9
+tags: [kursplan, TRU, IKS, forskarutbildning]
+scrape_hash: 6e690da2df8cfa13
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATR2BB
 up: "[[Turismvetenskap]]"
 ---
@@ -91,23 +91,23 @@ Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Hö
 
 On completion of the course, students will be able to:
 
-  - independently, identify, problematise and formulate a research problem within the field of study
+  - justify and narrow down a research area in the field of tourism, including its research history, central research questions, and current research needs
 
-  - relate the identified problem to the existing body of knowledge in the field of study
+  - independently and critically organise, problematise, and reflect on previous research findings from both theoretical and tourism research perspectives
 
-  - demonstrate an in-depth understanding of existing knowledge on the topic
+  - formulate a relevant tourism research question along with associated research questions based on previous research
 
-  - select relevant research methods to the research design
+  - select and justify suitable research methods to collect, analyse, and interpret relevant data, as well as evaluate the validity and reliability of data sources and research instruments
 
-  - critically analyse and interpret collected data relating it to existing research in the field of study
+  - carry out a thorough and systematic analysis of data using appropriate methods and techniques, and critically interpret and contextualise the results
 
-  - critically reflect on the limitations of the research, ethical considerations and opportunities for further research
+  - critically reflect on the research process, research ethics, and opportunities for further research, and communicate the implications and contributions of the research
 
-  - academically present and discuss the research design and the results both orally and written, within a given time-frame.
+  - effectively present and discuss research design, methods, results, and implications using academic conventions, referencing and citation styles, while considering time and formal requirements.
 
 ### Course Content
 
-With this course students engage in the development of a research design which they carry out and present as a Master’s degree thesis. Students independently formulate the research question, relate it to existing knowledge, design and implement appropriate methods to collect and analyse data, and present the results. Students engage also to critically analyse and interpretation of the relating also to existing knowledge on the field. Students should be able to demonstrate an understanding of how to design and problematise a research topic as well as a good understanding of knowledge on the field of study.
+In the course, a qualified and independent scientific study is carried out based on a formulated problem in tourism science. The study and its results are presented in the form of a thesis. Emphasis is placed on independent work, where the formulation of one’s own research questions, the development of research design, and the implementation of appropriate methods to collect, analyze, and interpret data are done independently. The ability to contextualize one’s research within a broader academic discourse and to show a thorough understanding of the subject is demonstrated through critical analysis and interpretation of existing knowledge in the field of tourism science. Presentation and discussion of one’s own research design and results are carried out both in writing and orally to demonstrate subject mastery and the ability to effectively communicate complex ideas.
 
 ### Assessment
 

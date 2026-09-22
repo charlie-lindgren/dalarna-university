@@ -9,7 +9,7 @@ amne: "Mikrodataanalys"
 amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
-scrape_hash: 96c498a893a734e1
+scrape_hash: c026d383e08f49a3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI22Z
 up: "[[Mikrodataanalys]]"
 ---
@@ -71,7 +71,7 @@ Som betygsskala används U–G.
 
 ## Förkunskapskrav
 
-- Kandidatexamen 180 hp i ämnet statistik, nationalekonomi, företagsekonomi, datavetenskap, informationssystem eller informationshantering samt Engelska 6
+- Kandidatexamen 180 hp i ämnet statistik, nationalekonomi, företagsekonomi, datavetenskap, informationssystem eller informationshantering samt Engelska 6/Engelska nivå 2
 
 ## English Version
 
@@ -109,4 +109,4 @@ The Swedish grades U–G.
 
 ### Prerequisites
 
-- Bachelor’s degree in Statistics, Economics, Business Administration, Computer Science, Information Science or Informatics comprising at least 180 credits and English 6
+- Bachelor’s degree in Statistics, Economics, Business Administration, Computer Science, Information Science or Informatics comprising at least 180 credits and English 6/English level 2

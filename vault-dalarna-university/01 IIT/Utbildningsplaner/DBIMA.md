@@ -4,7 +4,7 @@ programnamn: "Business Intelligence: Magisterprogram"
 institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2018-10-11 . Gäller fr.o.m.  HT 2018."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: a630a02817236c92
+scrape_hash: dfccfc1932a0c246
 url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=ANA235
 up: "IIT"
 ---
@@ -95,7 +95,7 @@ Filosofie magisterexamen, huvudområde: Mikrodataanalys (Degree of Master of Sci
 
 ## 5. Behörighetskrav
 
-- Kandidatexamen 180 hp i ämnet statistik, nationalekonomi, företagsekonomi, datavetenskap, informationssystem eller informationshantering samt Engelska 6
+- Kandidatexamen 180 hp i ämnet statistik, nationalekonomi, företagsekonomi, datavetenskap, informationssystem eller informationshantering samt Engelska 6/Engelska nivå 2
 
 ## 6. Summary in English
 

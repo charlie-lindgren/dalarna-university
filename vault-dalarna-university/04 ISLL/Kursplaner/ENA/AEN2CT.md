@@ -10,7 +10,7 @@ amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 26556ff331cc3ece
+scrape_hash: fc7a22690c9c5322
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2CT
 up: "[[Engelska]]"
 ---
@@ -73,7 +73,7 @@ Betyg rapporteras enligt följande:
 
 ## Förkunskapskrav
 
-- Kandidatexamen 180 hp inom humaniora, samhällsvetenskap eller utbildningsvetenskap och Engelska 6
+- Kandidatexamen 180 hp inom humaniora, samhällsvetenskap eller utbildningsvetenskap och Engelska 6/Engelska nivå 2
 
 ## Övrigt
 
@@ -124,4 +124,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- Bachelor Degree of 180 credits in the field of Humanities, Social Sciences or Education and English 6
+- Bachelor Degree of 180 credits in the field of Humanities, Social Sciences or Education and English 6/English level 2

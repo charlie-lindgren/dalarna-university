@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Introfras.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (148 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Introfras.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (149 rader)</span></a>
 
-> [!example]- 148 fynd — klicka för att expandera
+> [!example]- 149 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -149,6 +149,7 @@ status: första pass
 > | [GTY3J9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3J9) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/GTY3J9">sida</a> | TYA | 2026-02-04 | — | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande fördjupar sina kunskaper i det tyska… |
 > | [GTY3JB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3JB) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/GTY3JB">sida</a> | TYA | 2026-02-04 | — | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens mål är att studenten fördjupar såväl sina språkfärdigheter i tyska språket som sina teoretiska kunskaper inom ty… |
 > | [GTY3KG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3KG) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/GTY3KG">sida</a> | TYA | 2026-06-16 | — | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens mål är att de studerande utvecklar grundläggande kunskaper i det tyska språket, om tyskspråkig kultur och litter… |
+> | [GTY3L8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3L8) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/GTY3L8">sida</a> | TYA | 2026-09-15 | — | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen syftar till att ge den studerande en introduktion till språkdidaktik. Kursen ger en teoretisk grund till språklär… |
 > | [TY1038](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TY1038) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/TY1038">sida</a> | TYA | 2011-10-10 | 2020-07-02 | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens mål är att de studerande utvecklar grundläggande kunskaper i språkdidaktik och att de förbereder sig för sin fra… |
 > | [TY1049](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TY1049) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/TY1049">sida</a> | TYA | 2012-05-21 | 2013-08-01 | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen syftar till att studenterna ska lära känna ett antal tyskspråkiga litterära verk från upplysningen och fram till … |
 > | [TY1050](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TY1050) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/TY1050">sida</a> | TYA | 2012-05-21 | 2019-12-20 | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursen syftar till att de studerande skall befästa och ytterligare förbättra förmågan att använda det tyska språket i sk… |

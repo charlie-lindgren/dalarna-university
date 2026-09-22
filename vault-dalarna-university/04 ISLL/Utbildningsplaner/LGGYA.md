@@ -4,7 +4,7 @@ programnamn: "Ämneslärarprogrammet inriktning gymnasieskolan"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, ISLL, tvärfakultet]
-scrape_hash: a02044eb94b7ad96
+scrape_hash: ea89a10c1e7ddfbe
 url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LGGYA
 up: "ISLL"
 ---
@@ -237,7 +237,7 @@ Den verksamhetsförlagda utbildningen har en progression där den studerande fö
 
 ## 5. Behörighet
 
-- Grundläggande behörighet samt Engelska 6, Samhällskunskap 1b alt 1a1+1a2 samt den särskilda behörighet som gäller för de undervisningsämnen som ingår i den valda utbildningen
+- Grundläggande behörighet samt Engelska 6/Engelska nivå 2, Samhällskunskap 1b eller 1a1+1a2/Samhällskunskap nivå 1b eller nivå 1a2 samt den särskilda behörighet som gäller för de undervisningsämnen som ingår i den valda utbildningen
 
 ## 7. Övrigt
 

@@ -10,7 +10,7 @@ amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: ed4a29d53bf273c7
+scrape_hash: feab909f16e63d09
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP23P
 up: "[[Japanska]]"
 ---
@@ -74,7 +74,7 @@ Modul 2: Seminarier och skriftliga inlämningsuppgifter - 3,5 hp
 
 ## Förkunskapskrav
 
-- Kandidatexamen motsvarande 180 hp inom humaniora, samhällsvetenskap eller utbildningsvetenskap och Engelska 6. Undantag för svenska kan ges.
+- Kandidatexamen motsvarande 180 hp inom humaniora, samhällsvetenskap eller utbildningsvetenskap och Engelska 6/Engelska nivå 2
 
 ## English Version
 
@@ -112,4 +112,4 @@ Module 2: Seminars and Written Assignments - 3.5 cr
 
 ### Prerequisites
 
-- Bachelor Degree of 180 credits in the field of Humanities, Social Sciences or Education and English 6. Exemption from Swedish can be given.
+- Bachelor Degree of 180 credits in the field of Humanities, Social Sciences or Education and English 6/English level 2

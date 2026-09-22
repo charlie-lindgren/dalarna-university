@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (234 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (238 rader)</span></a>
 
-> [!example]- 234 fynd — klicka för att expandera
+> [!example]- 238 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -232,6 +232,10 @@ status: första pass
 > | [GTY3JB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3JB) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/GTY3JB">sida</a> | TYA | 2026-02-04 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
 > | [GTY3KG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3KG) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/GTY3KG">sida</a> | TYA | 2026-06-16 | — | Paritetsskillnad | Svenska: 38 mål, engelska: 1 mål (diff 37) |
 > | [GTY3KG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3KG) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/GTY3KG">sida</a> | TYA | 2026-06-16 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | [GTY3L8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3L8) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/GTY3L8">sida</a> | TYA | 2026-09-15 | — | Paritetsskillnad | Svenska: 4 mål, engelska: 1 mål (diff 3) |
+> | [GTY3L8](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3L8) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/GTY3L8">sida</a> | TYA | 2026-09-15 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | [GTY3L9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3L9) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/GTY3L9">sida</a> | TYA | 2026-09-15 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 1 mål (diff 5) |
+> | [GTY3L9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3L9) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/GTY3L9">sida</a> | TYA | 2026-09-15 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
 > | [TY1038](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TY1038) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/TY1038">sida</a> | TYA | 2011-10-10 | 2020-07-02 | Paritetsskillnad | Svenska: 5 mål, engelska: 1 mål (diff 4) |
 > | [TY1038](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TY1038) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/TY1038">sida</a> | TYA | 2011-10-10 | 2020-07-02 | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
 > | [TY1049](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TY1049) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/TY1049">sida</a> | TYA | 2012-05-21 | 2013-08-01 | Paritetsskillnad | Svenska: 3 mål, engelska: 0 mål (diff 3) |

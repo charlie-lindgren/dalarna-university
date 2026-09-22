@@ -9,7 +9,7 @@ amne: "Byggteknik"
 amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
-scrape_hash: 2fe5bfd29014f915
+scrape_hash: a22ad11e9dbad7d5
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ABY22V
 up: "[[Byggteknik]]"
 ---
@@ -68,7 +68,7 @@ Inlämningsuppgift U-G.
 
 ## Förkunskapskrav
 
-- Ingenjörsexamen eller kandidatexamen inom bygg-, energi- eller samhällsbyggnadsteknik om minst 180 hp och Engelska 6
+- Ingenjörsexamen eller kandidatexamen inom bygg-, energi- eller samhällsbyggnadsteknik om minst 180 hp och Engelska 6/Engelska nivå 2
 
 ## English Version
 
@@ -103,4 +103,4 @@ Written assignment U-G.
 
 ### Prerequisites
 
-- Bachelor of Science degree from building-, energy technology or civil engineering related fields of at least 180 credits and English 6
+- Bachelor of Science degree from building-, energy technology or civil engineering related fields of at least 180 credits and English 6/English level 2

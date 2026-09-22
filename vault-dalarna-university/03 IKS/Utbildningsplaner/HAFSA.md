@@ -4,7 +4,7 @@ programnamn: "Magisterprogram i Afrikanska studier"
 institution: "IKS"
 faststalld: "Fastställd av Områdesnämnden Humaniora och språk 2014-11-20 . Gäller fr.o.m.  HT 2015."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: e42dc6b78dbd27ae
+scrape_hash: 047fb67b2671cf72
 url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=HAFSA
 up: "IKS"
 ---
@@ -155,7 +155,7 @@ Filosofie magisterexamen, huvudområde Afrikanska studier. (Degree of Master of 
 
 ## 5. Behörighetskrav
 
-- Kandidatexamen motsvarande 180 hp inom humaniora, samhällsvetenskap eller utbildningsvetenskap och Engelska 6. Undantag för svenska kan ges.
+- Kandidatexamen motsvarande 180 hp inom humaniora, samhällsvetenskap eller utbildningsvetenskap och Engelska 6/Engelska nivå 2
 
 ## 6. Summary in English
 

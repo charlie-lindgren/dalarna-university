@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: 844786d36a39728d
+scrape_hash: 4031c46c3feb9dfe
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BV
 up: "[[Engelska]]"
 ---
@@ -72,7 +72,7 @@ Betyg rapporteras enligt följande:
 
 ## Förkunskapskrav
 
-- Kandidatexamen 180 hp inom humaniora, samhällsvetenskap eller utbildningsvetenskap och Engelska 6
+- Kandidatexamen 180 hp inom humaniora, samhällsvetenskap eller utbildningsvetenskap och Engelska 6/Engelska nivå 2
 
 ## Övrigt
 
@@ -116,4 +116,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- Bachelor Degree of 180 credits in the field of Humanities, Social Sciences or Education and English 6
+- Bachelor Degree of 180 credits in the field of Humanities, Social Sciences or Education and English 6/English level 2

@@ -4,7 +4,7 @@ programnamn: "Magisterprogram i nationalekonomi"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2020-10-07 . Gäller fr.o.m.  HT 2020."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: 7b27bbaa6bcdc318
+scrape_hash: d8b4725725cfedb6
 url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SMINA
 up: "IKS"
 ---
@@ -110,7 +110,7 @@ Ekonomie magisterexamen, huvudområde: Nationalekonomi (Degree of Master of Scie
 
 ## 5. Behörighetskrav
 
-- Kandidatexamen i Nationalekonomi eller Matematik omfattande minst 180 hp eller ett ingenjörsprogram med kvantitativ eller matematisk inriktning och Engelska 6
+- Kandidatexamen i Nationalekonomi eller Matematik omfattande minst 180 hp eller ett ingenjörsprogram med kvantitativ eller matematisk inriktning och Engelska 6/Engelska nivå 2
 
 ## 7. Övrigt
 

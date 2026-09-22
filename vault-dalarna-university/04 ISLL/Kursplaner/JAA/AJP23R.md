@@ -10,7 +10,7 @@ amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: e8ed74bc08c5eb0e
+scrape_hash: 052394962e560210
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP23R
 up: "[[Japanska]]"
 ---
@@ -72,7 +72,7 @@ Modul 2: Seminarier - 2,5 hp
 
 ## Förkunskapskrav
 
-- Kandidatexamen motsvarande 180 hp inom litteraturvetenskap eller språk och Engelska 6 eller 15 hp i interkulturella litteraturstudier på avancerad nivå. Undantag för svenska kan ges.
+- Kandidatexamen motsvarande 180 hp inom litteraturvetenskap eller språk och Engelska 6/Engelska nivå 2 eller 15 hp i interkulturella litteraturstudier på avancerad nivå
 
 ## English Version
 
@@ -115,4 +115,4 @@ Module 2: Seminars - 2.5 cr
 
 ### Prerequisites
 
-- A Bachelor‘s Degree equivalent to 180 credits in comparative literature or languages, and English 6 or 15 credits in intercultural literature studies at second cycle. Exemption from Swedish can be given.
+- A Bachelor‘s Degree equivalent to 180 credits in comparative literature or languages, and English 6/English level 2 or 15 credits in intercultural literature studies at second cycle

@@ -4,7 +4,7 @@ programnamn: "Magisterprogram i destinationsutveckling"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2012-05-02 . Gäller fr.o.m.  2012-05-02."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: cf673602e64629e2
+scrape_hash: f824ef6bd8fb6352
 url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SDUVA
 up: "IKS"
 ---
@@ -98,7 +98,7 @@ Filosofie Magisterexamen, huvudområde: Turismvetenskap (Degree of Master of Sci
 
 ## 5. Behörighetskrav
 
-- Filosofie Kandidatexamen med huvudområdet Turismvetenskap, Företagsekonomi, Kulturgeografi, Nationalekonomi och Engelska 6
+- Filosofie Kandidatexamen med huvudområdet Turismvetenskap, Företagsekonomi, Kulturgeografi, Nationalekonomi och Engelska 6/Engelska nivå 2
 
 ## 6. Övrigt
 

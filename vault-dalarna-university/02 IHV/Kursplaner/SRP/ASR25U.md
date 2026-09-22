@@ -8,11 +8,11 @@ huvudomrade: "Sexuell, reproduktiv och perinatal hälsa 1"
 amne: "Sexuell, reproduktiv och perinatal hälsa"
 amne_kod: "SRP"
 institution: "IHV"
-tags: [kursplan, SRP, IHV, vilande]
-scrape_hash: 6d5ec3932bf6d18c
+tags: [kursplan, SRP, IHV, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: c3492c6fd377d16f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR25U
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
-cssclasses: [vilande]
 ---
 
 <!-- analys:start -->
@@ -76,7 +76,7 @@ Betygsrapportering
 
 ## Förkunskapskrav
 
-- Kandidatexamen om 180 hp i ett samhällsvetenskapligt/hälsovetenskapligt/ekonomiskt huvudområde och Engelska 6
+- Kandidatexamen om 180 hp i ett samhällsvetenskapligt/hälsovetenskapligt/ekonomiskt huvudområde och Engelska 6/Engelska nivå 2
 
 ## Övrigt
 
@@ -118,4 +118,4 @@ Number of credits:
 
 ### Prerequisites
 
-- A Bachelors degree 180 credits in a social sciences/health sciences/economics main field of study and English 6
+- A Bachelors degree 180 credits in a social sciences/health sciences/economics main field of study and English 6/English level 2

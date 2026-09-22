@@ -4,7 +4,7 @@ programnamn: "Masterprogram i interkulturella litteraturstudier"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för språk, litteratur och lärande 2023-09-11 . Gäller fr.o.m.  HT 2023."
 tags: [utbildningsplan, program, ISLL]
-scrape_hash: 3abf41b924b07539
+scrape_hash: 0e8219219d854c50
 url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=HMILA
 up: "ISLL"
 ---
@@ -196,7 +196,7 @@ Filosofie masterexamen, Huvudområde: Interkulturella litteraturstudier, Inriktn
 
 ## 5. Behörighetskrav
 
-- Kandidatexamen i språk eller litteraturvetenskap om minst 180 hp. Examensarbete/uppsats på G2E-nivå om minst 15 hp eller motsvarande. Examensarbetet/uppsatsen ska visa på relevant språklig och metodologisk kompetens för masterprogrammet. Engelska 6.
+- Kandidatexamen i språk eller litteraturvetenskap om minst 180 hp. Examensarbete/uppsats på G2E-nivå om minst 15 hp eller motsvarande. Examensarbetet/uppsatsen ska visa på relevant språklig och metodologisk kompetens för masterprogrammet. Engelska 6/Engelska nivå 2.
 
 ## 6. Summary in English
 

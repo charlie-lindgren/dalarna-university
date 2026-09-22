@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: 9cc484d0b49218dd
+scrape_hash: 4d10bcbcd085c99e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEN2BY
 up: "[[Engelska]]"
 ---
@@ -70,7 +70,7 @@ Betyg rapporteras enligt följande:
 
 ## Förkunskapskrav
 
-- Kandidatexamen 180 hp inom litteraturvetenskap eller språk och Engelska 6 eller 15 hp i interkulturella litteraturstudier på avancerad nivå
+- Kandidatexamen 180 hp inom litteraturvetenskap eller språk och Engelska 6/Engelska nivå 2 eller 15 hp i interkulturella litteraturstudier på avancerad nivå
 
 ## Övrigt
 
@@ -117,4 +117,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- Bachelor Degree of 180 credits in the field of Comparative Literature or Languages and English 6 or 15 credits in Intercultural Literature Studies at second cycle
+- Bachelor Degree of 180 credits in the field of Comparative Literature or Languages and English 6/English level 2 or 15 credits in Intercultural Literature Studies at second cycle

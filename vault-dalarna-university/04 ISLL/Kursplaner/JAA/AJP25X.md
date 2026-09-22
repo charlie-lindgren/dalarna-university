@@ -10,7 +10,7 @@ amne_kod: "JAA"
 institution: "ISLL"
 tags: [kursplan, JAA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 60e51df7a244d133
+scrape_hash: 0f6e927ac780666e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP25X
 up: "[[Japanska]]"
 ---
@@ -77,7 +77,7 @@ Som betygsskala används A–F.
 
 ## Förkunskapskrav
 
-- Kandidatexamen 180 hp och Engelska 6
+- Kandidatexamen 180 hp och Engelska 6/Engelska nivå 2
 
 ## English Version
 
@@ -113,4 +113,4 @@ The Swedish grades A–F.
 
 ### Prerequisites
 
-- A Bachelor degree of at least 180 credits and English 6
+- A Bachelor degree of at least 180 credits and English 6/English level 2

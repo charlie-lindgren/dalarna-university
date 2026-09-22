@@ -4,7 +4,7 @@ programnamn: "Magisterprogram i energieffektivt byggande"
 institution: "IIT"
 faststalld: "Fastställd av Områdesnämnden Teknik och naturvetenskap 2018-10-11 . Gäller fr.o.m.  VT 2019."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: bac4d84f3904afff
+scrape_hash: cbe5bf4b6894b753
 url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TMIEA
 up: "IIT"
 ---
@@ -134,7 +134,7 @@ Teknologie magisterexamen, huvudområde: Energiteknik (Degree of Master of Scien
 
 ## 5. Behörighetskrav
 
-- Ingenjörs- eller kandidatexamen inom bygg- eller energiområdet (t ex energi-, bygg-, maskin- och konstruktionsteknik eller arkitektur) om minst 180 hp och Engelska 6
+- Ingenjörs- eller kandidatexamen inom bygg- eller energiområdet (t ex energi-, bygg-, maskin- och konstruktionsteknik eller arkitektur) om minst 180 hp och Engelska 6/Engelska nivå 2
 
 ## 6. Summary in English
 

@@ -9,7 +9,7 @@ amne: "Mikrodataanalys"
 amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
-scrape_hash: 73478ece58c7f298
+scrape_hash: 51b670ca46d3bd2e
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI23A
 up: "[[Mikrodataanalys]]"
 ---
@@ -92,7 +92,7 @@ Slutbetyget på kursen baseras på en helhetsbedömning av examinatorn.
 
 ## Förkunskapskrav
 
-- Kandidatexamen 180 hp i ämnet statistik, nationalekonomi, företagsekonomi, datavetenskap, informationssystem eller informationshantering samt Engelska 6
+- Kandidatexamen 180 hp i ämnet statistik, nationalekonomi, företagsekonomi, datavetenskap, informationssystem eller informationshantering samt Engelska 6/Engelska nivå 2
 
 ## English Version
 
@@ -136,4 +136,4 @@ The final grade for the course is based on an overall assessment by the examine
 
 ### Prerequisites
 
-- Bachelor’s degree in Statistics, Economics, Business Administration, Computer Science, Information Science or Informatics comprising at least 180 credits and English 6
+- Bachelor’s degree in Statistics, Economics, Business Administration, Computer Science, Information Science or Informatics comprising at least 180 credits and English 6/English level 2

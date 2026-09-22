@@ -4,7 +4,7 @@ programnamn: "Masterprogram i hållbarhet och turism"
 institution: "IKS"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2024-09-18 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: 53003a36e4af0bc9
+scrape_hash: 1c5cffc42861c0ad
 url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SMHTA
 up: "IKS"
 ---
@@ -136,7 +136,7 @@ Filosofie masterexamen, huvudområde: Turismvetenskap.
 
 ## 5. Behörighet
 
-- Filosofie kandidatexamen med huvudområde inom samhällsvetenskapligt område samt Engelska 6
+- Filosofie kandidatexamen med huvudområde inom samhällsvetenskapligt område samt Engelska 6/Engelska nivå 2
 
 ## 7. Övrigt
 

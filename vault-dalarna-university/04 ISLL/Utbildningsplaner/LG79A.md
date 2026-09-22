@@ -4,7 +4,7 @@ programnamn: "Ämneslärarprogrammet inriktning grundskolans årskurs 7-9"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, ISLL, tvärfakultet]
-scrape_hash: 3044348929c22393
+scrape_hash: 78dafd256fa44618
 url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LG79A
 up: "ISLL"
 ---
@@ -232,7 +232,7 @@ Den verksamhetsförlagda utbildningen har en progression där den studerande fö
 
 ## 5. Behörighet
 
-- Grundläggande behörighet samt Engelska 6, Samhällskunskap 1b alt 1a1+1a2 samt den särskilda behörighet som gäller för de undervisningsämnen som ingår i den valda utbildningen
+- Grundläggande behörighet samt Engelska 6/Engelska nivå 2, Samhällskunskap 1b eller 1a1+1a2/Samhällskunskap nivå 1b eller nivå 1a2 samt den särskilda behörighet som gäller för de undervisningsämnen som ingår i den valda utbildningen
 
 ## 7. Övrigt
 

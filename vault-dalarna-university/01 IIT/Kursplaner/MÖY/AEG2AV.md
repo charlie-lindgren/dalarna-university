@@ -10,7 +10,7 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 84e961cb3ec881c7
+scrape_hash: f7d2bfacdb9bff35
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AV
 up: "[[Energiteknik]]"
 ---
@@ -62,7 +62,7 @@ Betyg rapporteras enligt följande:
 
 ## Förkunskapskrav
 
-- Högskoleingenjörsexamen eller Teknologie kandidatexamen med huvudområde inom elektroteknik, maskinteknik, energiteknik eller teknisk fysik och Engelska 6
+- Högskoleingenjörsexamen eller Teknologie kandidatexamen med huvudområde inom elektroteknik, maskinteknik, energiteknik eller teknisk fysik och Engelska 6/Engelska nivå 2
 
 ## Övrigt
 
@@ -106,4 +106,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- Bachelor of Science in Engineering or Bachelor of Science degree with the main field of study in mechanical engineering, electrical engineering, energy engineering or engineering physics and English 6
+- Bachelor of Science in Engineering or Bachelor of Science degree with the main field of study in Mechanical Engineering, Electrical Engineering, Energy Engineering or Engineering Physics and English 6/English level 2

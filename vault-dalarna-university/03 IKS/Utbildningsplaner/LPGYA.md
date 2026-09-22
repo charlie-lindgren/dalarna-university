@@ -4,7 +4,7 @@ programnamn: "Ämneslärarprogrammet inriktning gymnasieskolan"
 institution: "IKS"
 faststalld: "Fastställd av Områdesnämnden Utbildningsvetenskap 2017-12-19 . Gäller fr.o.m.  HT 2018."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: c659035b811ccafc
+scrape_hash: 4d850986f9081d9f
 url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LPGYA
 up: "IKS"
 ---
@@ -226,7 +226,7 @@ Den verksamhetsförlagda utbildningen har en progression där den studerande fö
 
 ## 5. Behörighetskrav
 
-- Grundläggande behörighet samt Engelska 6, Samhällskunskap 1b alt 1a1+1a2 samt den särskilda behörighet som gäller för de undervisningsämnen som ingår i den valda utbildningen
+- Grundläggande behörighet samt Engelska 6/Engelska nivå 2, Samhällskunskap 1b eller 1a1+1a2/Samhällskunskap nivå 1b eller nivå 1a2 samt den särskilda behörighet som gäller för de undervisningsämnen som ingår i den valda utbildningen
 
 ## 7. Övrigt
 

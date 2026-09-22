@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="04-ISLL/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (363 rader)</span></a>
+<a class="download-xlsx" href="04-ISLL/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (364 rader)</span></a>
 
-> [!example]- 363 fynd — klicka för att expandera
+> [!example]- 364 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -362,6 +362,7 @@ status: första pass
 > | [GTY3KG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3KG) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/GTY3KG">sida</a> | TYA | 2026-06-16 | — | Långt mål | 28 ord: - självständigt välja relevanta innehåll och arbetssätt i planeringen av språkun… |
 > | [GTY3KG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3KG) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/GTY3KG">sida</a> | TYA | 2026-06-16 | — | Långt mål | 33 ord: - redogöra för hur digitala verktyg kan användas i språkundervisningen, redogöra… |
 > | [GTY3KG](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3KG) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/GTY3KG">sida</a> | TYA | 2026-06-16 | — | Långt mål | 26 ord: - ställa en relevant forskningsfråga inom ett avgränsat problemområde som är kop… |
+> | [GTY3L9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY3L9) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/GTY3L9">sida</a> | TYA | 2026-09-15 | — | Långt mål | 35 ord: - diskutera och reflektera över samspelet mellan inre och yttre faktorer som är … |
 > | [TY1066](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TY1066) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/TY1066">sida</a> | TYA | 2013-11-04 | 2019-12-20 | Långt mål | 35 ord: - visa kunskap om elevers syn på och upplevelser av sitt språklärande samt refle… |
 > | [TY1066](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TY1066) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/TY1066">sida</a> | TYA | 2013-11-04 | 2019-12-20 | Långt mål | 35 ord: - diskutera och reflektera över samspelet mellan inre och yttre faktorer som är … |
 > | [TY1066](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TY1066) | <a class="no-graph" href="04-ISLL/Kursplaner/TYA/TY1066">sida</a> | TYA | 2013-11-04 | 2019-12-20 | Långt mål | 27 ord: - visa kunskap om olika former av informations- och kommunikationsteknik och hur… |

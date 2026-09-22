@@ -10,7 +10,7 @@ amne_kod: "MÖY"
 institution: "IIT"
 tags: [kursplan, MÖY, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 28d923342ee96661
+scrape_hash: e64ac2fef3459ad4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG22R
 up: "[[Energiteknik]]"
 ---
@@ -79,7 +79,7 @@ Det samlade betyget är baserat på betyget för de individuella inlämningsuppg
 
 ## Förkunskapskrav
 
-- Tekn. kandidat-, högskoleingenjörs- eller civilingenjörsexamen med huvudområde/inriktning inom elektroteknik, maskinteknik, energiteknik, teknisk fysik och Engelska 6
+- Tekn. kandidat-, högskoleingenjörs- eller civilingenjörsexamen med huvudområde/inriktning inom elektroteknik, maskinteknik, energiteknik, teknisk fysik och Engelska 6/Engelska nivå 2
 
 ## Övrigt
 
@@ -129,4 +129,4 @@ Oral presentations and group reports for the project, U-G.
 
 ### Prerequisites
 
-- B.A. in engineering (mechanical, electrical, energy) of at least 180 credits and English 6
+- B.A. in engineering (mechanical, electrical, energy) of at least 180 credits and English 6/English level 2

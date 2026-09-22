@@ -8,8 +8,8 @@ huvudomrade: "Statsvetenskap 1"
 amne: "Statsvetenskap"
 amne_kod: "SKA"
 institution: "IKS"
-tags: [kursplan, SKA, IKS]
-scrape_hash: db80f373fb5ffdc0
+tags: [kursplan, SKA, IKS, forskarutbildning]
+scrape_hash: 23b33531dad807c2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASK22K
 up: "[[Statsvetenskap]]"
 ---
@@ -81,7 +81,7 @@ Betygsrapportering:
 
 ## Förkunskapskrav
 
-- Minst 180 hp på grundnivå, varav 90 hp inom Statsvetenskap, Sociologi, Internationella Relationer, Mänskliga rättigheter eller Freds- och konfliktkunskap, varav minst 7,5 hp i forskningsmetod med inriktning samhällsvetenskap, samt Engelska 6
+- Minst 180 hp på grundnivå, varav 90 hp inom Statsvetenskap, Sociologi, Internationella Relationer, Mänskliga rättigheter eller Freds- och konfliktkunskap, varav minst 7,5 hp i forskningsmetod med inriktning samhällsvetenskap, samt Engelska 6/Engelska nivå 2
 
 ## Övrigt
 
@@ -124,4 +124,4 @@ Reporting of grades:
 
 ### Prerequisites
 
-- A minimum of 180 credits on first cycle, including 90 credits in Political Science, Sociology, International Relations, Human Rights or Peace and Conflict Studies, including a minimum of 7,5 credits research method with a focus on Social Science and English 6
+- A minimum of 180 credits on first cycle, including 90 credits in Political Science, Sociology, International Relations, Human Rights or Peace and Conflict Studies, including a minimum of 7,5 credits research method with a focus on Social Science and English 6/English level 2

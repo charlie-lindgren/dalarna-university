@@ -4,7 +4,7 @@ programnamn: "Masterprogram i solenergiteknik"
 institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2024-06-12 . Gäller fr.o.m.  HT 2025."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: c3a37f1f35860f04
+scrape_hash: a818146a2c29a860
 url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=TMSSA
 up: "IIT"
 ---
@@ -144,7 +144,7 @@ Teknologie masterexamen, huvudområde: Solenergiteknik (Degree of Master of Scie
 
 ## 5. Behörighet
 
-- Högskoleingenjörsexamen eller Teknologie kandidatexamen med huvudområde inom elektroteknik, maskinteknik, energiteknik eller teknisk fysik och Engelska 6
+- Högskoleingenjörsexamen eller Teknologie kandidatexamen med huvudområde inom elektroteknik, maskinteknik, energiteknik eller teknisk fysik och Engelska 6/Engelska nivå 2
 
 ## 6. Summary in English
 

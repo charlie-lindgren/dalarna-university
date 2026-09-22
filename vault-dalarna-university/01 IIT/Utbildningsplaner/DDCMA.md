@@ -4,7 +4,7 @@ programnamn: "Data Science: Masterprogram"
 institution: "IIT"
 faststalld: "Fastställd av Utbildnings- och Forskningsnämnden 2018-10-11 . Gäller fr.o.m.  HT 2018."
 tags: [utbildningsplan, program, IIT]
-scrape_hash: a6a2d451b891be4b
+scrape_hash: 405d7469497adc88
 url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=ANA235
 up: "IIT"
 ---
@@ -100,7 +100,7 @@ Filosofie Masterexamen, huvudområde: Mikrodataanalys (Degree of Master of Scien
 
 ## 5. Behörighetskrav
 
-- Kandidatexamen 180 hp i ämnet datavetenskap och Engelska 6
+- Kandidatexamen 180 hp i ämnet datavetenskap och Engelska 6/Engelska nivå 2
 
 ## 6. Summary in English
 
