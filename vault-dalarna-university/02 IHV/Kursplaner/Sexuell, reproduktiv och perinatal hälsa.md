@@ -10,7 +10,7 @@ up: "[[IHV]]"
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 > Huvudområde: Sexuell, reproduktiv och perinatal hälsa 1
 
-## Kurser (21 st)
+## Kurser (23 st)
 
 - [[ASR296]] — Examensarbete i sexuell, reproduktiv och perinatal hälsa (fristående kurs)
 - [[ASR29S]] — Examensarbete i sexuell, reproduktiv och perinatal hälsa
@@ -28,6 +28,8 @@ up: "[[IHV]]"
 - [[ASR2CK]] — Hälso- och sjukvårdssystemforskning i låg-, medel- och höginkomstkontext
 - [[ASR2CR]] — Graviditet, förlossning och postpartumperiod II
 - [[ASR2CS]] — Graviditet, förlossning och postpartumperiod I
+- [[ASR2D4]] — Förlossningsvård I, verksamhetsförlagd utbildning
+- [[ASR2D5]] — Förlossningsvård II, verksamhetsförlagd utbildning
 - [[GSR3BZ]] — Global sexuell och reproduktiv hälsa samt rättigheter för ungdomar och unga vuxna
 - [[SR3008]] — Profession, teori och metod
 - [[SR3009]] — Sexuell och reproduktiv hälsa

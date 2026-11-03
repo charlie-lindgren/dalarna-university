@@ -10,7 +10,7 @@ amne_kod: "MDI"
 institution: "IIT"
 tags: [kursplan, MDI, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 5c12eeea74927bc6
+scrape_hash: 7131be79e0954236
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2H3
 up: "[[Matematikdidaktik]]"
 ---
@@ -23,7 +23,7 @@ up: "[[Matematikdidaktik]]"
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom skriftlig salstentamen och två individuella inlämningsuppgifter samt muntliga redovisningar.… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (8 mål utan punktlista) |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Den studerande ska ha tillgång till relevant programvara t.ex. Excel. Kursen motsvarar GMD2EQ.… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Den studerande ska ha tillgång till relevant programvara t.ex. Excel. Kursen motsvarar GMD2EQ och överlappar ST1013, GMD… |
 <!-- analys:end -->
 
 # GMD2H3
@@ -38,7 +38,7 @@ up: "[[Matematikdidaktik]]"
 - **Kursen kan ingå i följande huvudområde(n):** Ej huvudområde 1
 - **Ämnestillhörighet:** Matematikdidaktik (MDI)
 - **Fastställd:** Fastställd 2020-06-08 . Kursplanen gäller fr.o.m. 2021-01-18.
-- **Reviderad:** Reviderad 2023-04-21 . Revideringen är giltig fr.o.m. 2023-04-21.
+- **Reviderad:** Reviderad 2026-10-15 . Revideringen är giltig fr.o.m. 2026-10-15.
 
 ## Lärandemål
 
@@ -97,7 +97,8 @@ Betygsrapportering:
 
 ## Övrigt
 
-Den studerande ska ha tillgång till relevant programvara t.ex. Excel. Kursen motsvarar GMD2EQ.
+Den studerande ska ha tillgång till relevant programvara t.ex. Excel.   
+Kursen motsvarar GMD2EQ och överlappar ST1013, GMD2MH, GNA3D9 och GNA2RY.
 
 ## English Version
 

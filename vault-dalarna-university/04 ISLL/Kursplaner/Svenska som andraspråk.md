@@ -10,11 +10,10 @@ up: "[[ISLL]]"
 > Ämne vid Institutionen för språk, litteratur och lärande, Högskolan Dalarna.
 > Huvudområde: Ej huvudområde 1
 
-## Kurser (39 st)
+## Kurser (38 st)
 
 - [[ASS257]] — Examensarbete i svenska som andraspråk för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 - [[ASS258]] — Examensarbete i svenska som andraspråk för ämneslärarexamen, inriktning gymnasieskolan
-- [[ASS26C]] — Sveriges nationella minoriteter – språk, kultur och identitet
 - [[ASS28X]] — Examensarbete i modersmål arabiska för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 - [[GSS2BY]] — Svenska språkets struktur i ett andraspråksperspektiv
 - [[GSS2BZ]] — Skriftspråksutveckling i ett flerspråkigt perspektiv
@@ -52,10 +51,11 @@ up: "[[ISLL]]"
 - [[SS3011]] — Svenska som andraspråk: Examensarbete för magisterexamen
 - [[SS3014]] — Flerspråkighet i ett samhällsperspektiv
 
-## Vilande kursplaner (24 st)
+## Vilande kursplaner (25 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
+- [[ASS26C]] — Sveriges nationella minoriteter – språk, kultur och identitet
 - [[GSS22M]] — Studiehandledning på modersmål
 - [[GSS22P]] — Den globala skolan - förskola och grundskola
 - [[GSS2G8]] — Svenska som andraspråk för lärare i åk 4-6, 30 hp (1-30 hp). Ingår i Lärarlyftet.

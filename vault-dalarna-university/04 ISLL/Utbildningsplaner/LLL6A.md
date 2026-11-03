@@ -21,7 +21,7 @@ up: "ISLL"
 > | Programkurser olänkade | Programtext avviker från kursplanens namn | `Utvärdering och utvecklingsarbete i grundskolans åk 4–6` (15 hp) — sannolikt avses `Utvärdering och utvecklingsarbete i grundskolans åk 4-6, (varav 7,5 hp VFU)` (kurskod `APG276`) |
 > | Programkurser olänkade | Programtext avviker från kursplanens namn | `Engelska för grundlärare åk 4-6 1a` (15 hp) — sannolikt avses `Engelska för grundlärare åk 4-6, 1A` (kurskod `GEN2BK`) |
 > | Programkurser olänkade | Programtext avviker från kursplanens namn | `Engelska för grundlärare åk 4-6 1b` (15 hp) — sannolikt avses `Engelska för grundlärare åk 4-6, 1B` (kurskod `GEN2LD`) |
-> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Samhällsorienterande ämnen, åk 4–6` ≠ kursplanens namn `Samhällsorienterande ämnen, årskurs 4-6` (kurskod `GPG2SC`) |
+> | Programkurser olänkade | Programtext avviker från kursplanens namn | Programtext `Samhällsorienterande ämnen, åk 4–6` ≠ kursplanens namn `Samhällsorienterande ämnen, årskurs 4-6` (kurskod `GHI3LQ`) |
 <!-- analys:end -->
 
 # LLL6A
@@ -200,7 +200,7 @@ Inom programmets kurser ges internationella och globala perspektiv via litteratu
 
 - <a class="no-graph" href="GBP32U">Bild för grundlärare, årskurs 4–6</a>, 30 hp
 - <a class="no-graph" href="GIH3AN">Idrott och hälsa I med didaktisk inriktning åk 4-6</a>, 30 hp
-- <a class="no-graph" href="GPG2SC">Samhällsorienterande ämnen, åk 4–6</a>, 30 hp
+- <a class="no-graph" href="GHI3LQ">Samhällsorienterande ämnen, åk 4–6</a>, 30 hp
 - <a class="no-graph" href="GNV367">Naturorienterande ämnen och teknik för grundlärare, åk 4–6</a>, 30 hp
 
 ## 4. Examensbenämning

@@ -8,9 +8,8 @@ huvudomrade: "Företagsekonomi 1"
 amne: "Företagsekonomi"
 amne_kod: "FÖA"
 institution: "IKS"
-tags: [kursplan, FÖA, IKS, stray, vilande]
-cssclasses: [vilande]
-scrape_hash: 5dd62acb9d58f604
+tags: [kursplan, FÖA, IKS]
+scrape_hash: e0f74f01664f212c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFÖ2CW
 up: "[[Företagsekonomi]]"
 ---
@@ -120,4 +119,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- Bachelor‘s degree with a main field of study in the Social Sciences 180 credits, including 22.5 credits in Business Administration, Human Resource Management or Work Science, and 7.5 credits in Social Science Research Methods, as well as English 6/English Level 2
+- Degree of Bachelor in a main field of study in the Social Sciences 180 credits, including 22.5 credits in Business Administration, Human Resource Management or Work Science, and 7.5 credits in Social Science Research Methods, as well as English 6/English Level 2

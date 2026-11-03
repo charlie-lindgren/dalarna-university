@@ -8,8 +8,8 @@ huvudomrade: "Interkulturella litteraturstudier 1"
 amne: "Franska"
 amne_kod: "FRA"
 institution: "ISLL"
-tags: [kursplan, FRA, ISLL, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, FRA, ISLL, stray]
+
 scrape_hash: 2f376a474d8af659
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AFR29D
 up: "[[Franska]]"

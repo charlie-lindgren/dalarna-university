@@ -8,8 +8,8 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Religionsvetenskap"
 amne_kod: "RKA"
 institution: "IKS"
-tags: [kursplan, RKA, IKS, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, RKA, IKS, stray]
+
 scrape_hash: 8e912da1a18b9711
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRK3CQ
 up: "[[Religionsvetenskap]]"

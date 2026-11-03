@@ -19,7 +19,7 @@ up: "[[Japanska]]"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Japanska III` → `JP1012` (nedlagd 2009-12-01); förkunskap nämner nedlagd kurs |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Japanska III` → `ÖÄ1001` (nedlagd 2010-02-16); förkunskap nämner nedlagd kurs |
 > | Omfång på lärandemål | Långt mål | 26 ord: - analysera och översätta olika typer av dokument från japanska till engelska oc… |
 <!-- analys:end -->
 

@@ -4,7 +4,7 @@ programnamn: "Ekonomprogrammet"
 institution: "IKS"
 faststalld: "Fastställd av prefekt för institutionen för kultur och samhälle 2023-02-24 . Gäller fr.o.m.  VT 2023."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: ef683ce53dc1e6dd
+scrape_hash: 1f2728b049766f8b
 url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=SENGR
 up: "IKS"
 ---
@@ -152,7 +152,7 @@ Studenter som väljer huvudområdet företagsekonomi och vill bli revisor rekomm
 - Makroekonomi introduktion, 7,5 hp
 - Mikroekonomi introduktion, 7,5 hp
 
-**Obligatoriska kurser för ekonomie kandidatexamen i företagsekonomi eller nationalekonomi**
+**_Obligatoriska kurser för ekonomie kandidatexamen i företagsekonomi eller nationalekonomi:_**
 
 - [[GNA2NT|Finansiella marknader och penningpolitik]], 7,5 hp
 - [[GNA3B9|Internationell ekonomi]], 7,5 hp

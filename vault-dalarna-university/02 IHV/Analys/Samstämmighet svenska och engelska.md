@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (260 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (263 rader)</span></a>
 
-> [!example]- 260 fynd — klicka för att expandera
+> [!example]- 263 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -245,6 +245,9 @@ status: första pass
 > | [ASR29V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29V) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR29V">sida</a> | SRP | 2023-10-03 | — | Paritetsskillnad | Svenska: 13 mål, engelska: 12 mål (diff 1) |
 > | [ASR2CR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CR) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR2CR">sida</a> | SRP | 2026-05-28 | — | Paritetsskillnad | Svenska: 8 mål, engelska: 5 mål (diff 3) |
 > | [ASR2CS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CS) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR2CS">sida</a> | SRP | 2026-05-28 | — | Paritetsskillnad | Svenska: 9 mål, engelska: 6 mål (diff 3) |
+> | [ASR2D4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2D4) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR2D4">sida</a> | SRP | 2026-10-12 | — | Paritetsskillnad | Svenska: 11 mål, engelska: 10 mål (diff 1) |
+> | [ASR2D5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2D5) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR2D5">sida</a> | SRP | 2026-10-12 | — | Paritetsskillnad | Svenska: 11 mål, engelska: 3 mål (diff 8) |
+> | [ASR2D5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2D5) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR2D5">sida</a> | SRP | 2026-10-12 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (3 mål utan punktlista) |
 > | [GSR2ZH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSR2ZH) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/GSR2ZH">sida</a> | SRP | 2022-12-12 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
 > | [SR3008](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SR3008) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/SR3008">sida</a> | SRP | 2016-10-12 | — | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
 > | [SR3009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SR3009) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/SR3009">sida</a> | SRP | 2016-10-12 | 2017-10-05 | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |

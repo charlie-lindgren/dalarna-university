@@ -9,8 +9,9 @@ up: "[[IKS]]"
 
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (26 st)
+## Kurser (27 st)
 
+- [[AAB2CX]] — Ledarskap för hållbar organisationsförändring
 - [[AB1011]] — Kommunikation och ledarskap för tekniker
 - [[AB1014]] — Ledarskap för ökat resultat i företaget
 - [[AB1016]] — Arbetsmiljö - grundkurs
@@ -38,11 +39,10 @@ up: "[[IKS]]"
 - [[GAB3HS]] — Ledarskapets roll och förutsättningar
 - [[GAB3HV]] — Hållbar utveckling i personalarbetets praktik
 
-## Vilande kursplaner (17 st)
+## Vilande kursplaner (16 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
-- [[AAB2CX]] — Ledarskap för hållbar organisationsförändring
 - [[AB1005]] — Professionell förhandling på arbetsplatsen
 - [[AB1006]] — Professionell kommunikation - med och i grupper
 - [[AB1009]] — Perspektiv på utvecklingsarbete i arbetslivet

@@ -40,7 +40,7 @@ up: "[[IKS]]"
 - [[GMN3GY]] — Postproduktion
 - [[GMN3JF]] — Dramaturgi, manusskrivande och medieproduktionens villkor
 
-## Vilande kursplaner (5 st)
+## Vilande kursplaner (6 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -49,3 +49,4 @@ up: "[[IKS]]"
 - [[GMN3EZ]] — Kandidatexamensarbete i Medieproduktion
 - [[GMN3F2]] — Exponeringsprojekt inom Medieproduktion
 - [[GMN3F3]] — Verksamhetsförlagd utbildning inom medieproduktion
+- [[GMN3LA]] — Postproduktion

@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (221 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (227 rader)</span></a>
 
-> [!example]- 221 fynd — klicka för att expandera
+> [!example]- 227 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -205,6 +205,12 @@ status: första pass
 > | [ASR2CE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CE) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR2CE">sida</a> | SRP | 2026-03-11 | — | Långt mål | 26 ord: - redogöra för centrala begrepp inom global sexuell och reproduktiv hälsa och rä… |
 > | [ASR2CS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CS) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR2CS">sida</a> | SRP | 2026-05-28 | — | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [ASR2CS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2CS) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR2CS">sida</a> | SRP | 2026-05-28 | — | Långt mål | 26 ord: - redogöra för och motivera metoder för att främja, undersöka och övervaka kvinn… |
+> | [ASR2D4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2D4) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR2D4">sida</a> | SRP | 2026-10-12 | — | För många mål | 11 lärandemål (maximum rekommenderat: 10 för 9 hp) |
+> | [ASR2D4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2D4) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR2D4">sida</a> | SRP | 2026-10-12 | — | Långt mål | 30 ord: - planera och anpassa vården i samråd med den födande och partner genom att främ… |
+> | [ASR2D4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2D4) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR2D4">sida</a> | SRP | 2026-10-12 | — | Långt mål | 33 ord: - identifiera och reflektera över betydelsen av ett professionellt förhållningss… |
+> | [ASR2D5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2D5) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR2D5">sida</a> | SRP | 2026-10-12 | — | För många mål | 11 lärandemål (maximum rekommenderat: 10 för 13.5 hp) |
+> | [ASR2D5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2D5) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR2D5">sida</a> | SRP | 2026-10-12 | — | Långt mål | 32 ord: - kritiskt reflektera över betydelsen av ett professionellt förhållningssätt och… |
+> | [ASR2D5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR2D5) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/ASR2D5">sida</a> | SRP | 2026-10-12 | — | Långt mål | 27 ord: - kritiskt reflektera över egna förmågor och utvecklingsbehov samt ta ansvar för… |
 > | [GSR38B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSR38B) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/GSR38B">sida</a> | SRP | 2023-12-05 | — | Långt mål | 33 ord: - uppvisa kunskap, förståelse och reflekterande färdigheter om sexuell och repro… |
 > | [SR3001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SR3001) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/SR3001">sida</a> | SRP | 2016-10-05 | — | Långt mål | 30 ord: - värdera olika strategier för ledarskap och interventioner som har potential at… |
 > | [SR3002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SR3002) | <a class="no-graph" href="02-IHV/Kursplaner/SRP/SR3002">sida</a> | SRP | 2016-10-05 | — | Långt mål | 27 ord: - analysera och kritiskt värdera styrkor och svagheter i forskningsprocessens ol… |

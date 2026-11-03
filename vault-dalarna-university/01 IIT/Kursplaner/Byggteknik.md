@@ -16,6 +16,7 @@ up: "[[IIT]]"
 - [[ABY22W]] — Byggnaders energiprestanda - simulering och analys
 - [[ABY27W]] — Introduktion till bioklimatisk design
 - [[ABY2BL]] — Hållbar samhällsplanering
+- [[BY1047]] — Bärkraftigt byggande och boende
 - [[BY1053]] — Arkitektur och byggande
 - [[BY1054]] — Vägteknik
 - [[BY1056]] — Byggfysik
@@ -43,7 +44,6 @@ up: "[[IIT]]"
 - [[GBY342]] — Bygg - CAD fortsättningskurs
 - [[GBY34M]] — Examensarbete inom byggteknik för högskoleexamen
 - [[GBY34N]] — Examensarbete i byggteknik för högskoleingenjörsexamen
-- [[GBY36S]] — En introduktion till byggprocessen
 - [[GBY37D]] — Byggstatik och hållfasthetslära
 - [[GBY38D]] — Geoteknik och konstruktionsteknik betong
 - [[GBY38E]] — Installationsteknik och dimensionering
@@ -56,7 +56,6 @@ up: "[[IIT]]"
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
-- [[BY1047]] — Bärkraftigt byggande och boende
 - [[BY1059]] — Praktisk byggteknik
 - [[BY1061]] — Installationsteknik och dimensionering
 - [[BY1065]] — BIM projekt och projektering
@@ -64,3 +63,4 @@ up: "[[IIT]]"
 - [[BY2022]] — Energiprojekt
 - [[BY3005]] — Hållbar samhällsplanering
 - [[GBY34B]] — Vägplanering
+- [[GBY36S]] — En introduktion till byggprocessen

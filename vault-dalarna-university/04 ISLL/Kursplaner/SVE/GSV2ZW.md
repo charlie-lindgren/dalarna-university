@@ -9,7 +9,7 @@ amne: "Svenska"
 amne_kod: "SVE"
 institution: "ISLL"
 tags: [kursplan, SVE, ISLL]
-scrape_hash: 9d287e7979207fdd
+scrape_hash: 6586bf8f4f4ea22c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSV2ZW
 up: "[[Svenska]]"
 ---
@@ -191,4 +191,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- Swedish 1 for Primary School Teachers F-3, 15 credits
+- Swedish 1 for Primary School Teachers Preschool to School Year 3, 15 credits

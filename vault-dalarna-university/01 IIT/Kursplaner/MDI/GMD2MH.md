@@ -9,7 +9,7 @@ amne: "Matematikdidaktik"
 amne_kod: "MDI"
 institution: "IIT"
 tags: [kursplan, MDI, IIT]
-scrape_hash: b02427cf12544f3f
+scrape_hash: f9f1b644d51c1204
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2MH
 up: "[[Matematikdidaktik]]"
 ---
@@ -24,7 +24,7 @@ up: "[[Matematikdidaktik]]"
 > | Omfång på lärandemål | För många mål | 10 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 10 mål, engelska: 8 mål (diff 2) |
 > | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (8 mål utan punktlista) |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Den studerande ska ha tillgång till relevant programvara t.ex. Excel. Kursen motsvarar GMD2H3.… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Den studerande ska ha tillgång till relevant programvara t.ex. Excel. Kursen motsvarar GMD2H3. Kursen överlappar ST1013,… |
 <!-- analys:end -->
 
 # GMD2MH
@@ -102,7 +102,9 @@ Betygsrapportering:
 
 ## Övrigt
 
-Den studerande ska ha tillgång till relevant programvara t.ex. Excel. Kursen motsvarar GMD2H3.
+Den studerande ska ha tillgång till relevant programvara t.ex. Excel. Kursen motsvarar GMD2H3.  
+  
+Kursen överlappar ST1013, GMD2H3, GNA3D9 och GNA2RY.
 
 ## English Version
 

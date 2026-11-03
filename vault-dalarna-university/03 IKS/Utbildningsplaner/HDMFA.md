@@ -4,7 +4,7 @@ programnamn: "Magisterprogram: Demokrati, medborgarskap och förändring"
 institution: "IKS"
 faststalld: "Fastställd av Områdesnämnden Samhällsvetenskap 2018-11-07 . Gäller fr.o.m.  HT 2019."
 tags: [utbildningsplan, program, IKS]
-scrape_hash: 9a3907e5860be584
+scrape_hash: 210247c29b5bfe80
 url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=HDMFA
 up: "IKS"
 ---
@@ -18,7 +18,7 @@ up: "IKS"
 - **Programkod:** HDMFA
 - **Programansvarig:** Thomas Sedelius
 - **Fastställd:** Fastställd av Områdesnämnden Samhällsvetenskap 2018-11-07 . Gäller fr.o.m.  HT 2019.
-- **Reviderad:** Reviderad 2023-06-02 . Revideringen är giltig fr.o.m. VT 2023.
+- **Reviderad:** Reviderad 2026-10-01 . Revideringen är giltig fr.o.m. HT 2026.
 
 ## 1. Programmets mål
 
@@ -92,7 +92,8 @@ Den första terminen består av fyra kurser á 7,5 hp som alla utgår ifrån tem
 
 ## 4. Examensbenämning
 
-Filosofie magisterexamen (60 hp), huvudområde: Statsvetenskap. (Degree of Master of Science (60 credits). Main Field of Study: Political Science.)
+Politices magisterexamen. Huvudområde: Statsvetenskap  
+Degree of Master of Science in Political Sciences. Main Field of Study: Political Science
 
 ## 5. Behörighetskrav
 
@@ -100,4 +101,4 @@ Filosofie magisterexamen (60 hp), huvudområde: Statsvetenskap. (Degree of Maste
 
 ## 7. Övrigt
 
-Programmet kommer att ges på engelska.
+Programmet kommer att ges på engelska. Den som avslutade sina studier med godkänt resultat senast 29 september 2026 erhöll en filosofie magisterexamen.

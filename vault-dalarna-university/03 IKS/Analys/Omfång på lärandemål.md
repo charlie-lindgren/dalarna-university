@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (414 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (426 rader)</span></a>
 
-> [!example]- 414 fynd — klicka för att expandera
+> [!example]- 426 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -89,6 +89,18 @@ status: första pass
 > | [GHI3JX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3JX) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3JX">sida</a> | HIA | 2026-03-19 | — | För många mål | 17 lärandemål (maximum rekommenderat: 12 för 30 hp) |
 > | [GHI3JX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3JX) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3JX">sida</a> | HIA | 2026-03-19 | — | Långt mål | 28 ord: - diskutera och analysera ungdomars roll och aktivitet i fråga om formandet av k… |
 > | [GHI3JX](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3JX) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3JX">sida</a> | HIA | 2026-03-19 | — | Långt mål | 26 ord: - diskutera och analysera hur lärare, med stöd i historiedidaktisk teori, kan om… |
+> | [GHI3LB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LB) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LB">sida</a> | HIA | 2026-10-02 | — | För många mål | 17 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | [GHI3LC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LC) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LC">sida</a> | HIA | 2026-10-02 | — | För många mål | 14 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | [GHI3LD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LD) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LD">sida</a> | HIA | 2026-10-02 | — | För många mål | 17 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | [GHI3LD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LD) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LD">sida</a> | HIA | 2026-10-02 | — | Långt mål | 26 ord: - diskutera hur lärare kan omsätta ett akademiskt ämnesinnehåll till ett undervi… |
+> | [GHI3LE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LE) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LE">sida</a> | HIA | 2026-10-02 | — | För många mål | 14 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | [GHI3LE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LE) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LE">sida</a> | HIA | 2026-10-02 | — | Långt mål | 26 ord: - diskutera hur lärare kan omsätta ett akademiskt ämnesinnehåll till ett undervi… |
+> | [GHI3LF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LF) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LF">sida</a> | HIA | 2026-10-02 | — | För många mål | 17 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | [GHI3LF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LF) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LF">sida</a> | HIA | 2026-10-02 | — | Långt mål | 28 ord: - diskutera och analysera ungdomars roll och aktivitet i fråga om formandet av k… |
+> | [GHI3LF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LF) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LF">sida</a> | HIA | 2026-10-02 | — | Långt mål | 26 ord: - diskutera och analysera hur lärare, med stöd i historiedidaktisk teori, kan om… |
+> | [GHI3LQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LQ) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LQ">sida</a> | HIA | 2026-11-02 | — | För många mål | 26 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | [GHI3LQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LQ) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LQ">sida</a> | HIA | 2026-11-02 | — | Långt mål | 29 ord: - redogöra för naturlandskapets förändringar och för människors utnyttjande av r… |
+> | [GHI3LQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LQ) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LQ">sida</a> | HIA | 2026-11-02 | — | Långt mål | 27 ord: - med utgångspunkt i praktikens didaktiska villkor och utifrån ett hållbarhetspe… |
 > | [HI1014](https://www.du.se/sv/utbildning/kurser/kursplan/?code=HI1014) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/HI1014">sida</a> | HIA | 2013-03-11 | — | För många mål | 16 lärandemål (maximum rekommenderat: 12 för 30 hp) |
 > | [HI1014](https://www.du.se/sv/utbildning/kurser/kursplan/?code=HI1014) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/HI1014">sida</a> | HIA | 2013-03-11 | — | Långt mål | 28 ord: - diskutera och redogöra för huvuddrag i natursyner från äldsta tid till idag, o… |
 > | [HI1015](https://www.du.se/sv/utbildning/kurser/kursplan/?code=HI1015) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/HI1015">sida</a> | HIA | 2013-03-11 | 2019-03-27 | För många mål | 18 lärandemål (maximum rekommenderat: 12 för 30 hp) |

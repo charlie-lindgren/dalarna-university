@@ -28,10 +28,10 @@ tags: [MOC, institution, IHV]
 - [[Kemi]] (1 kurser)
 - [[Medicinsk vetenskap]] (26 kurser)
 - [[Naturvetenskap]] (10 kurser)
-- [[Omvårdnad]] (69 kurser)
+- [[Omvårdnad]] (70 kurser)
 - [[Psykologi]] (1 kurser)
-- [[Sexuell, reproduktiv och perinatal hälsa]] (51 kurser)
-- [[Socialt arbete]] (52 kurser)
+- [[Sexuell, reproduktiv och perinatal hälsa]] (53 kurser)
+- [[Socialt arbete]] (53 kurser)
 - [[Vårdvetenskap]] (18 kurser)
 
 ## Forskarutbildningsämnen

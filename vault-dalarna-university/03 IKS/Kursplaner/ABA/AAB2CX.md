@@ -8,9 +8,8 @@ huvudomrade: "Företagsekonomi 1"
 amne: "Arbetsvetenskap"
 amne_kod: "ABA"
 institution: "IKS"
-tags: [kursplan, ABA, IKS, stray, vilande]
-cssclasses: [vilande]
-scrape_hash: 7baa30a243aa0da4
+tags: [kursplan, ABA, IKS]
+scrape_hash: 3f9c5ec621009095
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AAB2CX
 up: "[[Arbetsvetenskap]]"
 ---
@@ -120,4 +119,4 @@ Grades are reported as follows:
 
 ### Prerequisites
 
-- Bachelor‘s degree with a main field of study in the Social Sciences 180 credits, including 22.5 credits in Business Administration, Human Resource Management or Work Science, and 7.5 credits in Social Science Research Methods, as well as English 6/English Level 2
+- Degree of Bachelor in a main field of study in the Social Sciences 180 credits, including 22.5 credits in Business Administration, Human Resource Management or Work Science, and 7.5 credits in Social Science Research Methods, as well as English 6/English Level 2

@@ -54,7 +54,7 @@ up: "[[IHV]]"
 - [[VÅ3132]] — Vård och omsorg för personer med demens
 - [[VÅ3133]] — Att vårda personer med demens, VFU
 
-## Vilande kursplaner (28 st)
+## Vilande kursplaner (29 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -80,6 +80,7 @@ up: "[[IHV]]"
 - [[GVÅ37H]] — Personcentrerad vård inom psykiatrisk vård
 - [[GVÅ382]] — Personcentrerad vård inom olika vårdsammanhang
 - [[GVÅ384]] — Personcentrerad vård inom somatisk vård
+- [[GVÅ3LG]] — Demenssjukdomar – grundläggande förståelse och bemötande
 - [[VÅ1053]] — Metoder och teorier vid symtom och tecken på hälsa/ohälsa I
 - [[VÅ1055]] — Personcentrerad vård inom somatisk vård
 - [[VÅ1062]] — Personcentrerad vård inom somatisk vård

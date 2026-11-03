@@ -8,8 +8,8 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Maskinteknik"
 amne_kod: "MTA"
 institution: "IIT"
-tags: [kursplan, MTA, IIT, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, MTA, IIT, stray]
+
 scrape_hash: 89b247d6028d617b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3K6
 up: "[[Maskinteknik]]"

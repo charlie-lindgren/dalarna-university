@@ -8,10 +8,11 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Byggteknik"
 amne_kod: "BYA"
 institution: "IIT"
-tags: [kursplan, BYA, IIT]
+tags: [kursplan, BYA, IIT, vilande]
 scrape_hash: 202a159e1b9e26da
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY36S
 up: "[[Byggteknik]]"
+cssclasses: [vilande]
 ---
 
 <!-- analys:start -->

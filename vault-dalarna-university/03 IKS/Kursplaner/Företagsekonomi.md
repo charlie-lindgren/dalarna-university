@@ -10,13 +10,15 @@ up: "[[IKS]]"
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 > Huvudområde: Företagsekonomi 1
 
-## Kurser (37 st)
+## Kurser (39 st)
 
 - [[AFÖ26H]] — Examensarbete för magisterexamen i företagsekonomi
+- [[AFÖ2CV]] — Organisationsteori och organisationsanalys
+- [[AFÖ2CW]] — Strategiskt management och hållbarhet
+- [[AFÖ2CY]] — Human Resource Management och organisatorisk prestation
 - [[FÖ1041]] — Marknadsföring B
 - [[FÖ1042]] — Organisation B
 - [[FÖ2026]] — Organisationsförändring och ledarskap
-- [[FÖ3032]] — Redovisning och styrning av internationellt verksamma företag
 - [[FÖ3034]] — Knowledge Management
 - [[FÖ3035]] — Marknadsföring av platser och destinationer
 - [[FÖ3036]] — Internationell handel och marknadsföring
@@ -50,14 +52,15 @@ up: "[[IKS]]"
 - [[GFÖ3JM]] — Ledning och marknadsföring i tjänsteföretag
 - [[GFÖ3JN]] — Sport Management III
 
-## Vilande kursplaner (7 st)
+## Vilande kursplaner (8 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
-- [[AFÖ2CV]] — Organisationsteori och organisationsanalys
-- [[AFÖ2CW]] — Strategiskt management och hållbarhet
-- [[AFÖ2CY]] — Human Resource Management och organisatorisk prestation
+- [[AFÖ2CZ]] — Organisationsutveckling för hållbar förändring och transformation
+- [[AFÖ2D2]] — Forskningsmetodologi och forskningsdesign
+- [[AFÖ2D3]] — Examensarbete för magisterexamen i företagsekonomi: Inriktning mot hållbar organisationsutveckling
 - [[FÖ2024]] — Human Resource Management
 - [[FÖ2032]] — Ledning och marknadsföring i tjänsteföretag
+- [[FÖ3032]] — Redovisning och styrning av internationellt verksamma företag
 - [[GFÖ2B9]] — Ledarskap och organisationsbeteende
 - [[GFÖ39A]] — Sport Management III

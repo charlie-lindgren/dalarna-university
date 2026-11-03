@@ -131,12 +131,12 @@ Programmets första termin utgörs av teoretiska kurser där studenterna introdu
 **Termin 2:**
 
 - Gynekologisk och postpartumvård, verksamhetsförlagd utbildning, 9 hp
-- [[ASR29W|Förlossningsvård I, verksamhetsförlagd utbildning]], 9 hp
+- [[ASR2D4|Förlossningsvård I, verksamhetsförlagd utbildning]], 9 hp
 - [[ASR286|Examensarbete i sexuell, reproduktiv och perinatal hälsa]], 15 hp
 
 **Termin 3:**
 
-- [[SR3014|Förlossningsvård II, verksamhetsförlagd utbildning]], 13,5 hp
+- [[ASR2D5|Förlossningsvård II, verksamhetsförlagd utbildning]], 13,5 hp
 - [[SR3015|Mödrahälsovård och folkhälsa, verksamhetsförlagd utbildning]], 13,5 hp
 
 ## 4. Examensbenämning

@@ -20,7 +20,7 @@ up: "[[Japanska]]"
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Frasningskonsistens | Avviker från referensformen | Efter godkänd kurs ska studenterna kunna:… |
-> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Japanska III` → `JP1012` (nedlagd 2009-12-01); förkunskap nämner nedlagd kurs |
+> | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Japanska III` → `ÖÄ1001` (nedlagd 2010-02-16); förkunskap nämner nedlagd kurs |
 > | Omfång på lärandemål | För få mål | 3 lärandemål (minimum rekommenderat: 4 för 15 hp) |
 <!-- analys:end -->
 

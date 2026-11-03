@@ -8,8 +8,8 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
-tags: [kursplan, MÖY, IIT, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, MÖY, IIT, stray]
+
 scrape_hash: a89dd3abc68fe05c
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AW
 up: "[[Energiteknik]]"

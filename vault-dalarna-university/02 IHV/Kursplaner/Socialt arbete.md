@@ -10,15 +10,13 @@ up: "[[IHV]]"
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 > Huvudområde: Socialt arbete 1
 
-## Kurser (26 st)
+## Kurser (25 st)
 
 - [[ASA24K]] — Etik i socialt arbete
-- [[ASA24L]] — Barn och ungas olika utvecklingsnivåer
 - [[ASA266]] — Socialt arbete med personer med funktionsnedsättning
 - [[ASA26U]] — Forskningsdesign och forskningsmetod inom socialt arbete
 - [[ASA28A]] — Välfärdsteknik i vård och omsorg
 - [[ASA28Q]] — Äldre personers levnadsvillkor
-- [[ASA293]] — Internationellt socialt arbete: samtida debatter och praktiker
 - [[ASA2BA]] — Ledarskap och verksamhetsutveckling i socialt arbete
 - [[GSA27Y]] — Psykologiska perspektiv på socialt arbete
 - [[GSA2E3]] — Forskningsmetoder och vetenskaplighet i socialt arbete
@@ -26,7 +24,7 @@ up: "[[IHV]]"
 - [[GSA2RE]] — Socialpolitikens betydelse för socialt arbete
 - [[GSA2SD]] — Arbetsmetoder i socialt arbete
 - [[GSA2SE]] — Arbetsmetoder och utvärdering i socialt arbete
-- [[GSA352]] — Internationellt socialt arbete: samtida debatter och praktiker
+- [[GSA3AS]] — Samsjuklighet - skadligt bruk eller beroende och samtidig psykisk ohälsa
 - [[GSA3DP]] — Missbruk och beroende
 - [[GSA3DQ]] — Familjeperspektiv på socialt arbete
 - [[GSA3FK]] — Utredning i socialt arbete
@@ -36,17 +34,20 @@ up: "[[IHV]]"
 - [[GSA3L5]] — Examensarbete för socionomexamen
 - [[GSA3L6]] — Socialt arbete i praktik och teori
 - [[GSA3L7]] — Perspektiv på våld
+- [[SA1032]] — Grundkurs för verksamhetsförlagda utbildare i socialt arbete
 - [[SA1045]] — Socialt arbete som profession
 - [[SA3008]] — Examensarbete för magisterexamen i socialt arbete
 
-## Vilande kursplaner (26 st)
+## Vilande kursplaner (28 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[ASA24J]] — Ledarskap och verksamhetsutveckling i socialt arbete
+- [[ASA24L]] — Barn och ungas olika utvecklingsnivåer
 - [[ASA24M]] — Välfärdsteknik i vård och omsorg
 - [[ASA24N]] — Äldre personers levnadsvillkor
 - [[ASA27E]] — Socialt arbete i skolan - skolan som en arena för stöd och utveckling
+- [[ASA293]] — Internationellt socialt arbete: samtida debatter och praktiker
 - [[GSA24U]] — Perspektiv på våld
 - [[GSA24V]] — Familjeperspektiv på socialt arbete
 - [[GSA2AF]] — Examensarbete för socionomexamen
@@ -58,12 +59,12 @@ up: "[[IHV]]"
 - [[GSA2NC]] — Organisation, grupp och samverkan
 - [[GSA2XN]] — Missbruk och beroende
 - [[GSA32Y]] — Organisation, grupp och samverkan
-- [[GSA3AS]] — Samsjuklighet - skadligt bruk eller beroende och samtidig psykisk ohälsa
+- [[GSA352]] — Internationellt socialt arbete: samtida debatter och praktiker
 - [[GSA3DM]] — Välfärdsinsatser och brukarperspektiv
 - [[GSA3DN]] — Försörjning, rehabilitering och aktivering i socialt arbete
 - [[GSA3DR]] — Perspektiv på våld
 - [[GSA3DS]] — Organisation, grupp och samverkan
-- [[SA1032]] — Grundkurs för verksamhetsförlagda utbildare i socialt arbete
+- [[GSA3LH]] — Demenssjukdomar – förebyggande arbete, samverkan och myndighetsutövning
 - [[SA1037]] — Återfallsprevention med KBT inriktning
 - [[SA1040]] — Motiverande samtalsmetodik
 - [[SA1046]] — Mäns våld mot kvinnor i nära relationer

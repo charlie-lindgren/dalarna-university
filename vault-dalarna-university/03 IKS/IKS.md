@@ -8,7 +8,7 @@ tags: [MOC, institution, IKS]
 
 > Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Program (30 st)
+## Program (32 st)
 
 - <a class="no-graph" href="KAPSG">KAPSG</a> — Audiovisuell produktion för scen och event – kandidatprogram
 - <a class="no-graph" href="SBMPG">SBMPG</a> — Business Managementprogrammet - Kandidatprogram i företagsekonomi
@@ -24,6 +24,7 @@ tags: [MOC, institution, IKS]
 - <a class="no-graph" href="KAVPA">KAVPA</a> — Magisterprogram i Audiovisuella studier
 - <a class="no-graph" href="SDUVA">SDUVA</a> — Magisterprogram i destinationsutveckling
 - <a class="no-graph" href="SFIFA">SFIFA</a> — Magisterprogram i företagsekonomi med ett internationellt fokus
+- <a class="no-graph" href="SHOUA">SHOUA</a> — Magisterprogram i hållbar organisationsutveckling
 - <a class="no-graph" href="SMINA">SMINA</a> — Magisterprogram i nationalekonomi
 - <a class="no-graph" href="LPEDA">LPEDA</a> — Magisterprogram i pedagogiskt arbete
 - <a class="no-graph" href="HDMFA">HDMFA</a> — Magisterprogram: Demokrati, medborgarskap och förändring
@@ -31,6 +32,7 @@ tags: [MOC, institution, IKS]
 - <a class="no-graph" href="KMMPG">KMMPG</a> — Manus och medieproduktion
 - <a class="no-graph" href="SMHTA">SMHTA</a> — Masterprogram i hållbarhet och turism
 - <a class="no-graph" href="KMPTG">KMPTG</a> — Medieproduktionsprogrammet för TV och sociala medier
+- <a class="no-graph" href="KMKLG">KMKLG</a> — Musik- och ljuddesign
 - <a class="no-graph" href="KMLJG">KMLJG</a> — Musik- och ljuddesign
 - <a class="no-graph" href="KMUSG">KMUSG</a> — Musik- och ljudproduktionsprogrammet
 - <a class="no-graph" href="SPARG">SPARG</a> — Personal- och arbetslivsprogrammet
@@ -49,12 +51,12 @@ tags: [MOC, institution, IKS]
 - [[Bildproduktion]] (62 kurser)
 - [[Entreprenörskap och innovationsteknik]] (17 kurser)
 - [[Filosofi]] (22 kurser)
-- [[Företagsekonomi]] (44 kurser)
-- [[Historia]] (63 kurser)
+- [[Företagsekonomi]] (47 kurser)
+- [[Historia]] (69 kurser)
 - [[Industriell ekonomi]] (2 kurser)
 - [[Kulturgeografi]] (26 kurser)
 - [[Ljud- och musikproduktion]] (57 kurser)
-- [[Medieproduktion]] (32 kurser)
+- [[Medieproduktion]] (33 kurser)
 - [[Nationalekonomi]] (34 kurser)
 - [[Pedagogik]] (44 kurser)
 - [[Pedagogiskt arbete]] (111 kurser)
