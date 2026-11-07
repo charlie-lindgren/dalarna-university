@@ -83,6 +83,10 @@ Deploy is automatic via GitHub Actions on push to main.
 
 ## Course plan scraping
 
+**The scrapers never clean up text.** Plans enter the vault exactly as du.se shows them, double
+spaces and typos included. Change only fetch, parse and file-organisation logic. The quality
+analyses exist to find source-side problems, and cleaning would hide them.
+
 Scrape all course plans from du.se:
 
 ```bash
