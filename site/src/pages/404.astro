@@ -1,0 +1,40 @@
+---
+// The page GitHub Pages shows for an address that leads nowhere. Every old Quartz address has a
+// page of its own (scripts/redirects.ts), so this is for mistyped and broken links, and for the
+// old preview: an address under /next/ goes on to the same page at the main address.
+import "../styles/doc.css"
+import Page from "../layouts/Page.astro"
+import T from "../components/T.astro"
+import { base, link } from "../lib/site"
+const preview = JSON.stringify(`${base}/next/`)
+const main = JSON.stringify(`${base}/`)
+---
+
+<Page title="Sidan finns inte" titleEn="Page not found">
+  <script is:inline slot="head" set:html={`(function () {
+      var p = location.pathname, from = ${preview}
+      if (p.indexOf(from) === 0) location.replace(${main} + p.slice(from.length) + location.search + location.hash)
+    })()`} />
+  <main class="doc">
+    <article class="glass large sheet">
+      <h1><T sv="Sidan finns inte" en="Page not found" /></h1>
+      <div class="prose">
+        <p>
+          <T
+            sv="Adressen leder inte till någon sida här. Sök efter kursen eller programmet, eller bläddra bland institutionerna."
+            en="This address does not lead to a page here. Search for the course or programme, or browse the schools."
+          />
+        </p>
+        <p class="notfound-links">
+          <a class="pill" href={link("/")}><T k="menu.sok" /></a>
+          <a class="pill" href={link("/bladdra/")}><T k="menu.bladdra" /></a>
+        </p>
+      </div>
+    </article>
+  </main>
+</Page>
+
+<style>
+  .notfound-links { display: flex; gap: 8px; }
+  .notfound-links a { text-decoration: none; }
+</style>

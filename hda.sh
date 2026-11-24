@@ -35,7 +35,7 @@ print_header() {
 
 print_menu() {
     echo -e "  ${MAGENTA}${BOLD}Komplett pipeline${RESET}"
-    echo -e "    ${BOLD}1.${RESET}  ${BOLD}Kör allt${RESET} — skrapa + QC + bygg till public/"
+    echo -e "    ${BOLD}1.${RESET}  ${BOLD}Kör allt${RESET} — skrapa + QC + bygg till site/dist/"
     echo ""
     echo -e "  ${MAGENTA}${BOLD}Skrapa${RESET}"
     echo -e "    ${BOLD}2.${RESET}  Skrapa ALLA kursplaner (inkl. strö-/orphan-koder)"
@@ -194,29 +194,33 @@ run_scrape_pipeline() {
     echo -e "${GREEN}✓ Alla skrapa-steg klara${RESET}"
 }
 
-# ── steg: bygg Quartz-sajten ────────────────────────────────────────────────
-run_build_site() {
-    echo -e "${BOLD}Bygg Quartz-sajten${RESET}"
-    echo ""
-    if [[ ! -d node_modules ]]; then
-        echo -e "${YELLOW}node_modules saknas — kör npm ci först …${RESET}"
-        npm ci
+# ── steg: bygg sajten (site/, Astro) ────────────────────────────────────────
+# Sajtens beroenden installeras första gången.
+site_deps() {
+    if [[ ! -d site/node_modules ]]; then
+        echo -e "${YELLOW}site/node_modules saknas, kör npm ci i site/ först …${RESET}"
+        (cd site && npm ci)
     fi
-    echo -e "${YELLOW}Kör npx quartz build …${RESET}"
-    npx quartz build
-    echo -e "${GREEN}✓ Sajten byggd till public/${RESET}"
+}
+
+run_build_site() {
+    echo -e "${BOLD}Bygg sajten${RESET}"
+    echo ""
+    site_deps
+    echo -e "${YELLOW}Kör npm run build i site/ …${RESET}"
+    (cd site && npm run build)
+    echo -e "${GREEN}✓ Sajten byggd till site/dist/${RESET}"
 }
 
 # ── steg: bygg & förhandsvisa ───────────────────────────────────────────────
 run_serve_site() {
     echo -e "${BOLD}Bygg & förhandsvisa sajten${RESET}"
     echo ""
-    if [[ ! -d node_modules ]]; then
-        echo -e "${YELLOW}node_modules saknas — kör npm ci först …${RESET}"
-        npm ci
-    fi
-    echo -e "${YELLOW}Kör npx quartz build --serve (Ctrl-C för att avsluta) …${RESET}"
-    npx quartz build --serve
+    site_deps
+    echo -e "${YELLOW}Kör npm run build i site/ …${RESET}"
+    (cd site && npm run build) || return 1
+    echo -e "${YELLOW}Förhandsvisning på http://localhost:4321/dalarna-university/ (Ctrl-C för att avsluta) …${RESET}"
+    (cd site && npm run preview)
 }
 
 # ── steg: publicera sajten online ───────────────────────────────────────────
@@ -227,12 +231,9 @@ run_serve_site() {
 run_publish_site() {
     echo -e "${BOLD}Publicera sajten online${RESET}"
     echo ""
-    if [[ ! -d node_modules ]]; then
-        echo -e "${YELLOW}node_modules saknas — kör npm ci först …${RESET}"
-        npm ci
-    fi
-    echo -e "${YELLOW}Kontroll-bygge lokalt (npx quartz build) …${RESET}"
-    if ! npx quartz build; then
+    site_deps
+    echo -e "${YELLOW}Kontroll-bygge lokalt (npm run build i site/) …${RESET}"
+    if ! (cd site && npm run build && node scripts/check-links.mjs >/dev/null && node scripts/check-fidelity.ts >/dev/null); then
         echo -e "${RED}✗ Bygget misslyckades — inget publiceras. Åtgärda felen ovan först.${RESET}"
         return 1
     fi
@@ -405,7 +406,7 @@ run_full_pipeline() {
     echo "  • QA kursplaner (rapport)"
     echo "  • QA utbildningsplaner (rapport)"
     echo "  • Populera analysfilerna"
-    echo "  • Bygg Quartz-sajten till public/"
+    echo "  • Bygg sajten till site/dist/"
     echo ""
     prompt_apply_mode
     BATCH_APPLY_FLAG="$APPLY_FLAG"

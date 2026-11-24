@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "ASTRO_TELEMETRY_DISABLED=1 astro dev",
-    "build": "rm -rf public/pagefind && ASTRO_TELEMETRY_DISABLED=1 astro build && pagefind --site dist && rm -f dist/pagefind/pagefind-*ui* dist/pagefind/pagefind-highlight.js && cp -R dist/pagefind public/pagefind",
+    "build": "rm -rf public/pagefind && ASTRO_TELEMETRY_DISABLED=1 astro build && node scripts/redirects.ts && pagefind --site dist && rm -f dist/pagefind/pagefind-*ui* dist/pagefind/pagefind-highlight.js && cp -R dist/pagefind public/pagefind",
     "preview": "ASTRO_TELEMETRY_DISABLED=1 astro preview",
     "report": "node scripts/report.ts",
     "check:links": "node scripts/check-links.mjs",

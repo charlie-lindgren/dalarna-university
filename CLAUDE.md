@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repository is
 
-A Quartz 4 static site and Obsidian vault synthesizing the entire course and programme structure of Högskolan Dalarna (Dalarna University). It covers all four institutions (IIT, IHV, IKS, ISLL) with both course plans (kursplaner) and programme plans (utbildningsplaner).
+A static site (Astro, in `site/`) and Obsidian vault synthesizing the entire course and programme structure of Högskolan Dalarna (Dalarna University). It covers all four institutions (IIT, IHV, IKS, ISLL) with both course plans (kursplaner) and programme plans (utbildningsplaner).
 
 This is **not a software project** — it is a structured knowledge base for navigating the university's educational offerings.
 
@@ -23,10 +23,11 @@ vault-dalarna-university/   Obsidian vault — living knowledge base
   05 Analys/                (borttagen — analysfiler ligger nu under varje institution)
   0X {INST}/Analys/         Kvalitetsanalyser per institution (auto-populated)
   Templates/                Obsidian templates
-content -> vault-dalarna-university  Symlink for Quartz site build
-quartz/                     Quartz 4 static site engine
-quartz.config.ts            Site configuration
-quartz.layout.ts            Page layout configuration
+site/                       The public site (Astro): reads the vault, builds to site/dist/
+content -> vault-dalarna-university  Symlink for the old Quartz build (no longer deployed)
+quartz/                     Quartz 4, the old site engine (no longer deployed)
+quartz.config.ts            Old Quartz configuration
+quartz.layout.ts            Old Quartz layout
 qa/                         Quality-control pipeline (Python)
   check_kursplaner.py       Run all 11 checks against course plans
   check_utbildningsplaner.py Reduced check set for programme plans
@@ -69,17 +70,32 @@ Each file has an `up:` frontmatter key pointing to its parent hub.
 
 **Naming note:** hub pages are plain-named (`Svenska.md`, `IIT.md`, `IIT Analys.md`) — the historical " MOC" filename suffix was dropped because staff found the jargon confusing (see `qa/rename_drop_moc.py`). The internal `MOC` frontmatter tag is **kept** as plumbing: the graph colouring, the Explorer hub-first sort (`mocFirstSortFn`), and the QA loaders (`is_hub` in `checks_common.py`) all identify a hub by that tag, not by its name. The `#MOC` tag is filtered out of the on-page `TagList` so visitors never see it.
 
-## Quartz site
+## The site
 
-Build and preview:
+Build and preview, from `site/` (details in `site/README.md`):
 
 ```bash
 npm ci
-npx quartz build           # build to public/
-npx quartz build --serve   # local preview at localhost:8080
+npm run build              # build to site/dist/, with search index, redirects and sitemap
+npm run dev                # local preview at localhost:4321/dalarna-university/
+npm run check:links        # after a build: every internal link leads somewhere
+node scripts/check-fidelity.ts   # after a build: every plan's text equals the vault's
 ```
 
-Deploy is automatic via GitHub Actions on push to main.
+Deploy is automatic via GitHub Actions on push to main (`.github/workflows/deploy.yml`). The
+workflow builds `site/` and runs both checks; if any of them fails, nothing is deployed and the
+previous version stays online.
+
+The site replaced Quartz on 24 November 2026. Every address the Quartz site had still works:
+the build writes a redirect page at each one, and copies the Excel files to their old paths
+(`site/scripts/redirects.ts`). Old links to the `/next/` preview go on to the main address.
+`quartz/`, `quartz.config.ts`, `quartz.layout.ts` and the `content` symlink are no longer built
+or deployed; they stay in the repository until removed.
+
+The interface has a Swedish and an English mode. Plan text is never translated; the site's
+own words are in `site/src/lib/ui.ts`, and the quality checks and analysis notes in English are
+in `site/src/lib/checks.ts` and `site/src/translations/analys/` (run
+`node scripts/translations.ts` in `site/` after editing an analysis note's prose).
 
 ## Course plan scraping
 

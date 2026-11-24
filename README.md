@@ -1,6 +1,6 @@
 # Högskolan Dalarna — Utbildningsöversikt
 
-A Quartz 4 static site and Obsidian vault synthesizing the entire course and
+A static site (Astro, in `site/`) and Obsidian vault synthesizing the entire course and
 programme structure of Högskolan Dalarna (Dalarna University). It covers all
 four institutions (IIT, IHV, IKS, ISLL) with both course plans (kursplaner)
 and programme plans (utbildningsplaner), plus a per-institution quality
@@ -23,8 +23,9 @@ vault-dalarna-university/   Obsidian vault — living knowledge base
   03 IKS/                   Institutionen för kultur och samhälle
   04 ISLL/                  Institutionen för språk, litteratur och lärande
   Templates/                Obsidian templates
-content -> vault-dalarna-university   Symlink for Quartz site build
-quartz/                     Quartz 4 static site engine
+site/                       The public site (Astro): reads the vault, builds to site/dist/
+content -> vault-dalarna-university   Symlink for the old Quartz build (no longer deployed)
+quartz/                     Quartz 4, the old site engine (no longer deployed)
 qa/                         Quality-control pipeline (Python)
 scripts/                    Scrapers (course + programme plans)
 hda.sh                      Interactive menu for the full workflow
@@ -90,10 +91,10 @@ two sections: **Skrapa & bygg** and **Kvalitetsgranskning**.
 
 ### Phase 4 — Publish
 
-10. **Build the site** (menu `5`) or **Build + serve** (menu `6`)
-    - `5` produces `public/` for deploy (GitHub Actions takes over on push to
-      `main`).
-    - `6` starts a local preview at `localhost:8080`.
+10. **Publish** (menu `15`) or **Build + preview locally** (menu `16`)
+    - `15` builds and checks the site in `site/`, then commits and pushes; GitHub
+      Actions builds and deploys it on push to `main`.
+    - `16` builds the site and serves it at `localhost:4321/dalarna-university/`.
 
 ### Typical loop
 
@@ -151,15 +152,32 @@ Swedish/English parity. Programme-plan checks (4): duplicated words, known
 typos, hunspell sv/en. Hunspell requires `hunspell` plus `sv_SE`/`en_US`
 dictionaries; without them, run with `--skip-hunspell`.
 
-### Quartz site
+### The site
+
+Build and preview, from `site/` (details in `site/README.md`):
 
 ```bash
 npm ci
-npx quartz build              # build to public/
-npx quartz build --serve      # local preview at localhost:8080
+npm run build              # build to site/dist/, with search index, redirects and sitemap
+npm run dev                # local preview at localhost:4321/dalarna-university/
+npm run check:links        # after a build: every internal link leads somewhere
+node scripts/check-fidelity.ts   # after a build: every plan's text equals the vault's
 ```
 
-Deploy is automatic via GitHub Actions on push to `main`.
+Deploy is automatic via GitHub Actions on push to `main` (`.github/workflows/deploy.yml`). The
+workflow builds `site/` and runs both checks; if any of them fails, nothing is deployed and the
+previous version stays online.
+
+The site replaced Quartz on 24 November 2026. Every address the Quartz site had still works:
+the build writes a redirect page at each one, and copies the Excel files to their old paths
+(`site/scripts/redirects.ts`). Old links to the `/next/` preview go on to the main address.
+`quartz/`, `quartz.config.ts`, `quartz.layout.ts` and the `content` symlink are no longer built
+or deployed; they stay in the repository until removed.
+
+The interface has a Swedish and an English mode. Plan text is never translated; the site's
+own words are in `site/src/lib/ui.ts`, and the quality checks and analysis notes in English are
+in `site/src/lib/checks.ts` and `site/src/translations/analys/` (run
+`node scripts/translations.ts` in `site/` after editing an analysis note's prose).
 
 ## Information architecture
 

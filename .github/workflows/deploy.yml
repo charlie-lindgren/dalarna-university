@@ -1,4 +1,9 @@
-name: Deploy Quartz site to GitHub Pages
+name: Deploy site to GitHub Pages
+
+# The site in site/ (Astro), built from the vault and published at /dalarna-university/.
+# Every address of the old Quartz site still answers: the build writes a redirect page at
+# each one (site/scripts/redirects.ts). If the build fails, nothing is deployed and the
+# previous version stays online.
 
 on:
   push:
@@ -20,44 +25,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
-          node-version: 22
-      - name: Install Dependencies
-        run: npm ci
-      - name: Build Quartz
-        run: npx quartz build
-
-      # The new site (site/), published beside the live one as a preview at
-      # /dalarna-university/next/. Each of these steps is allowed to fail: a problem
-      # in the preview must never stop the live site from deploying.
-      - name: Set up Node for the preview
-        id: preview-node
-        continue-on-error: true
-        uses: actions/setup-node@v4
-        with:
           node-version: 26
-      - name: Build the preview
-        id: preview
-        if: steps.preview-node.outcome == 'success'
-        continue-on-error: true
+      - name: Build the site
         working-directory: site
-        env:
-          SITE_BASE: /dalarna-university/next
         run: |
           npm ci
           npm run build
-      - name: Add the preview to the published site
-        if: steps.preview.outcome == 'success'
-        continue-on-error: true
-        run: rm -rf public/next && cp -R site/dist public/next
-
+      # Either check failing stops the deploy: a broken link, or plan text that differs
+      # from the vault by a single word.
+      - name: Check the links
+        working-directory: site
+        run: node scripts/check-links.mjs
+      - name: Check the plan text against the vault
+        working-directory: site
+        run: node scripts/check-fidelity.ts
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: public
+          path: site/dist
 
   deploy:
     needs: build

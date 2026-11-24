@@ -4,8 +4,9 @@ A rebuild of the Högskolan Dalarna site on Astro. It reads the vault in
 `../vault-dalarna-university/` and writes a static site. It never writes to the vault, and it
 shows plan text exactly as scraped.
 
-Until cutover the live site is still Quartz. This one is published beside it as a preview at
-`/dalarna-university/next/`, by the same workflow (`.github/workflows/deploy.yml`).
+It is the live site at https://charlie-lindgren.github.io/dalarna-university/, deployed by
+`.github/workflows/deploy.yml` on every push to main. It replaced the Quartz site on
+24 November 2026.
 
 ## Commands
 
@@ -15,7 +16,7 @@ Run these from `site/`.
 |---|---|
 | `npm install` | Install dependencies (once) |
 | `npm run dev` | Local preview at `http://localhost:4321/dalarna-university/`. Runs in the background; stop it with `npx astro dev stop` |
-| `npm run build` | Build to `dist/` and index the plans for full-text search |
+| `npm run build` | Build to `dist/`, index the plans for full-text search, and write the redirects from the old addresses |
 | `npm run check:links` | After a build: every internal link must lead somewhere |
 | `node scripts/check-fidelity.ts` | After a build: every plan's text must equal the vault's, word for word |
 | `npm run report` | What the vault index contains: counts, and links that do not resolve |
@@ -55,6 +56,11 @@ A code that exists under two institutions carries the institution: `/kurs/GIE3HX
 Codes lose Å, Ä and Ö in addresses only: `FÖ1041` is at `/kurs/FO1041/`.
 
 The base path comes from `SITE_BASE` (default `/dalarna-university`).
+
+Old addresses keep working. `scripts/redirects.ts` runs as part of `npm run build` and writes a
+redirect page at every address the Quartz site had (notes, folder pages, tag pages, aliases),
+copies the Excel files to their old paths, and writes `sitemap.xml`. Links to the old `/next/`
+preview are sent on to the main address by the not-found page (`src/pages/404.astro`).
 
 ## Interface language
 
