@@ -2,6 +2,7 @@
 // On a wide window the three columns sit side by side and a choice only changes what the
 // next column shows. On a phone each column is a screen: a choice pushes the next one in,
 // and the browser's Back, the on-screen back button and a swipe all lead back out.
+import { credits, t as txt, uiLang } from "../lib/ui"
 import { loadCatalogue, type Entry } from "./catalogue"
 
 const el = <K extends keyof HTMLElementTagNameMap>(tag: K, className?: string, text?: string) => {
@@ -42,8 +43,8 @@ if (box) {
     const inst = currentTab().dataset.inst!.toLowerCase()
     return d <= 0 ? "" : d === 1 || !subject ? `#${inst}` : `#${inst}/${subject.dataset.slug}`
   }
-  // The graph view opens at the same place: the link to it carries the current address.
-  const graphLink = document.querySelector<HTMLAnchorElement>('[data-view-link="graf"]')
+  // Graf, from the menu, opens at the same place: its link carries the current address.
+  const graphLink = document.querySelector<HTMLAnchorElement>('.sitemenu a[data-menu="graf"]')
   const address = (hash: string) => {
     if (graphLink) graphLink.hash = hash
     return location.pathname + location.search + hash
@@ -54,24 +55,25 @@ if (box) {
   const render = () => {
     courses.replaceChildren()
     toggle.hidden = !subject
-    if (!subject) return void courses.append(el("p", "empty", "Välj ett ämne för att se dess kursplaner."))
-    if (!entries.length) return void courses.append(el("p", "empty", "Hämtar kursplaner…"))
+    const l = uiLang()
+    if (!subject) return void courses.append(el("p", "empty", txt("browse.pick", l)))
+    if (!entries.length) return void courses.append(el("p", "empty", txt("browse.loading", l)))
     const mine = entries
       .filter((e) => e.kind === "course" && e.subject === subject!.dataset.subject)
       .sort((a, b) => Number(a.vilande) - Number(b.vilande) || a.name.localeCompare(b.name, "sv"))
     const vilande = mine.filter((e) => e.vilande).length
     toggle.hidden = vilande === 0
-    toggle.textContent = `Vilande (${vilande})`
+    toggle.textContent = `${txt("vilande", l)} (${vilande})`
     const listed = showVilande ? mine : mine.filter((e) => !e.vilande)
-    if (!listed.length) return void courses.append(el("p", "empty", "Inga aktiva kursplaner i det här ämnet."))
+    if (!listed.length) return void courses.append(el("p", "empty", txt("browse.noActive", l)))
     for (const e of listed) {
       const a = el("a", "item")
       a.href = base + e.url
       const grow = el("span", "grow")
       grow.append(el("span", "t", e.name))
       const m = el("span", "m num")
-      if (e.vilande) m.append(el("span", "dot"), "Vilande")
-      else m.textContent = e.credits
+      if (e.vilande) m.append(el("span", "dot"), txt("vilande", l))
+      else m.textContent = credits(e.credits, l)
       a.append(el("span", "code num", e.code), grow, m)
       courses.append(a)
     }
@@ -80,7 +82,7 @@ if (box) {
   const selectSubject = (a: HTMLAnchorElement | null) => {
     subject = a
     drills.forEach((d) => (d === a ? d.setAttribute("aria-current", "true") : d.removeAttribute("aria-current")))
-    heading.textContent = a ? a.querySelector(".t")!.textContent : "Kursplaner"
+    heading.textContent = a ? a.querySelector(".t")!.textContent : txt("courses", uiLang())
     render()
   }
   const selectInst = (tab: HTMLButtonElement) => {
@@ -213,6 +215,8 @@ if (box) {
     else panes.forEach((p) => p.removeAttribute("inert"))
   }
   narrow.addEventListener("change", start)
+  // Another interface language: the column's heading and its rows are written again in it.
+  document.addEventListener("uichange", () => selectSubject(subject))
   start()
   loadCatalogue(box.dataset.catalogue!).then((all) => {
     entries = all

@@ -1,15 +1,11 @@
 // What the home page and the browser need from the vault: the four institutions with their
 // subjects and programmes, a few totals, and the compact catalogue the pages fetch.
-import { getVault, parentOf, codeSlug, INSTITUTIONS, INSTITUTION_NAMES, type Doc, type Inst } from "./vault"
+import { getVault, parentOf, codeSlug, INSTITUTIONS, type Doc, type Inst } from "./vault"
 
-export const sv = (n: number) => n.toLocaleString("sv-SE")
 const credits = (d: Doc) => String(d.fm.hp ?? "").replace(/\s*högskolepoäng/, " hp").trim()
 
 export interface InstitutionView {
   inst: Inst
-  name: string
-  /** The name without "Institutionen för", capitalised: "Information och teknik". */
-  short: string
   courses: number
   programmes: { code: string; title: string; url: string }[]
   subjects: { title: string; url: string; slug: string; count: number }[]
@@ -28,8 +24,6 @@ export function siteData() {
     const own = courses.filter((d) => d.inst === inst)
     return {
       inst,
-      name: INSTITUTION_NAMES[inst],
-      short: INSTITUTION_NAMES[inst].replace("Institutionen för ", "").replace(/^./, (c) => c.toUpperCase()),
       courses: own.length,
       programmes: mine
         .filter((d) => d.kind === "programme")
@@ -44,11 +38,16 @@ export function siteData() {
   })
 
   const [y, m, day] = (v.scrapeDate ?? "").split("-").map(Number)
+  const when = new Date(Date.UTC(y || 1970, (m || 1) - 1, day || 1))
   return {
     institutions,
     plans: plans.length,
     subjects: v.docs.filter((d) => d.kind === "subject").length,
-    scrapeDate: y ? new Date(Date.UTC(y, m - 1, day)).toLocaleDateString("sv-SE", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" }) : null,
+    /** When the plans were last fetched from du.se: "24 november 2026" and "24 November 2026". */
+    scrapeDate: {
+      sv: y ? when.toLocaleDateString("sv-SE", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" }) : "",
+      en: y ? when.toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" }) : "",
+    },
   }
 }
 

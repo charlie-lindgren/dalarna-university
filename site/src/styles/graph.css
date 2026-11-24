@@ -1,9 +1,9 @@
-/* Bläddra as a graph: one sheet filled by a canvas, with a few controls floating on it. */
+/* Graf: one sheet filled by a canvas, with a few controls floating on it. */
 .graphpage { max-width: none; padding: 16px 20px 20px; }
 .graphpage *, .graphpage *::before, .graphpage *::after { box-sizing: border-box; }
 .graphpage :is(h1, p) { margin: 0; }
-.graphpage .viewrow { display: flex; align-items: center; min-height: 30px; margin-bottom: 12px; }
-.graphpage .stage { position: relative; height: calc(100dvh - 130px); min-height: 420px; overflow: hidden;
+/* The sheet fills the window under the menu. */
+.graphpage .stage { position: relative; height: calc(100dvh - 88px); min-height: 420px; overflow: hidden;
   -webkit-backdrop-filter: none; backdrop-filter: none; }
 /* The canvas owns every gesture on it: drag pans, pinch and wheel zoom. */
 .graphpage canvas { position: absolute; inset: 0; width: 100%; height: 100%; touch-action: none; cursor: grab; outline: none; }
@@ -49,7 +49,7 @@
 
 @media (max-width: 700px) {
   .graphpage { padding: 12px 12px 0; }
-  .graphpage .stage { height: calc(100dvh - 200px - env(safe-area-inset-top, 0px) - env(safe-area-inset-bottom, 0px)); min-height: 360px; }
+  .graphpage .stage { height: calc(100dvh - 158px - env(safe-area-inset-top, 0px) - env(safe-area-inset-bottom, 0px)); min-height: 360px; }
   .graphpage .ghint { display: none; }
   .graphpage .gzoom { display: none; }
 }

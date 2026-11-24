@@ -1,7 +1,8 @@
 // A plan, shaped for its page: facts, sections, and quality notes placed on the section
 // they concern. A course plan has an English version, whose sections are paired with the
 // Swedish ones; a programme plan is Swedish only, with numbered sections.
-import { getVault, slugify, INSTITUTION_NAMES, type Doc, type Inst } from "./vault"
+import { getVault, slugify, type Doc, type Inst } from "./vault"
+import { t, type Key } from "./ui"
 import { renderMarkdown } from "./markdown"
 
 /** Swedish H2 and its English H3 counterpart, in reading order. */
@@ -65,9 +66,9 @@ export interface PlanView {
   title: string
   titleEn: string | null
   inst: Inst
-  instName: string
   status: Doc["status"]
-  facts: { label: string; value: string }[]
+  /** The label is the site's word (in both languages); the value is the plan's own text. */
+  facts: { label: string; labelEn: string; value: string }[]
   sourceUrl: string | null
   /** Anything else in the plan's lead block (a callout on five programmes), as HTML. */
   leadHtml: string | null
@@ -169,7 +170,9 @@ export async function planView(doc: Doc): Promise<PlanView> {
           { label: "Fastställd", value: fact("Fastställd") },
           { label: "Reviderad", value: fact("Reviderad") },
         ]
-  ).filter((f): f is { label: string; value: string } => Boolean(f.value))
+  )
+    .filter((f): f is { label: string; value: string } => Boolean(f.value))
+    .map((f) => ({ ...f, labelEn: t(`fact.${f.label}` as Key, "en") }))
 
   return {
     doc,
@@ -178,7 +181,6 @@ export async function planView(doc: Doc): Promise<PlanView> {
     title: doc.title,
     titleEn: fact("Course Name"),
     inst: doc.inst,
-    instName: INSTITUTION_NAMES[doc.inst],
     status: doc.status,
     facts,
     sourceUrl: doc.plan.sourceUrl,
@@ -193,5 +195,3 @@ export async function planView(doc: Doc): Promise<PlanView> {
       .sort((a, b) => a.title.localeCompare(b.title, "sv")),
   }
 }
-
-export const noteCount = (n: number) => `${n} ${n === 1 ? "kvalitetsnotering" : "kvalitetsnoteringar"}`

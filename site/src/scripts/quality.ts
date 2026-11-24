@@ -1,13 +1,16 @@
 // The quality dashboard. The heat table is the map; choosing a cell opens that check at
 // that institution: what it is for, what its notes concern, where they sit, and the plans.
 // The overview is embedded in the page; one check's notes are fetched when it is opened.
-import { cell, headline, percent, planWord, sentence, INSTS, type CheckDetail, type InstCode, type Overview, type Scope } from "../lib/quality-math"
+import { cell, cellLabel, headline, percent, planWord, sentence, INSTS, type CheckDetail, type Overview, type Scope } from "../lib/quality-math"
 import { heat } from "../lib/heat"
+import { instName, num, say, spoken, t as txt, uiLang } from "../lib/ui"
+import { checkName, problemName } from "../lib/checks"
 import { glide } from "./glide"
 import { segmented } from "./segmented"
 import { reduceMotion } from "./util"
 
-const sv = (n: number) => n.toLocaleString("sv-SE")
+/** A number, written as the interface language writes numbers. */
+const fmt = (n: number) => num(n, uiLang())
 const el = <K extends keyof HTMLElementTagNameMap>(tag: K, className?: string, text?: string) => {
   const node = document.createElement(tag)
   if (className) node.className = className
@@ -19,7 +22,6 @@ const CHEVRON = '<svg class="chev" viewBox="0 0 12 12" aria-hidden="true"><path 
 const root = document.querySelector<HTMLElement>("[data-q]")
 if (root) {
   const o: Overview = JSON.parse(document.getElementById("q-data")!.textContent!)
-  const names: Record<InstCode, string> = JSON.parse(root.dataset.names!)
   const base = root.dataset.base ?? ""
   const checkOf = (slug: string) => o.checks.find((c) => c.slug === slug)!
   const isScope = (s: string): s is Scope => s === "alla" || (INSTS as readonly string[]).includes(s)
@@ -28,7 +30,7 @@ if (root) {
   const anyCells = [...root.querySelectorAll<HTMLElement>("[data-any]")]
   const grid = [...root.querySelectorAll<HTMLElement>("tr[data-row]")].map((r) => [...r.querySelectorAll<HTMLAnchorElement>("a.cell")])
   const figures = root.querySelector<HTMLElement>("[data-q-figures]")!
-  const select = root.querySelector<HTMLSelectElement>("[data-q-check]")!
+  const title = root.querySelector<HTMLElement>("[data-q-title]")!
   const detail = root.querySelector<HTMLElement>("[data-q-detail]")!
   const scopeLine = root.querySelector<HTMLElement>("[data-q-scope]")!
   const sum = root.querySelector<HTMLElement>("[data-q-sum]")!
@@ -48,25 +50,22 @@ if (root) {
   let showAll = false
 
   // ── The heat table ──
-  const describe = (check: ReturnType<typeof checkOf> | null, scope: Scope) => {
-    const c = cell(o, check, scope, state.vilande)
-    return `${check?.area ?? "Minst en notering"}, ${scope === "alla" ? "alla institutioner" : scope}: ${percent(c.share)} %, ${c.hit} av ${c.of} ${planWord(check, state.vilande)}`
-  }
+  const describe = (check: ReturnType<typeof checkOf> | null, scope: Scope) => cellLabel(o, check, scope, state.vilande, uiLang())
   const paint = () => {
     for (const a of cells) {
       const check = checkOf(a.dataset.check!)
       const c = cell(o, check, a.dataset.scope as Scope, state.vilande)
       a.style.cssText = heat(c.share)
       a.querySelector(".n")!.textContent = percent(c.share)
-      a.setAttribute("aria-label", describe(check, a.dataset.scope as Scope))
+      spoken(a, describe(check, a.dataset.scope as Scope), uiLang())
     }
     for (const s of anyCells) {
       const c = cell(o, null, s.dataset.any as Scope, state.vilande)
       s.style.cssText = heat(c.share)
       s.querySelector(".n")!.textContent = percent(c.share)
-      s.setAttribute("aria-label", describe(null, s.dataset.any as Scope))
+      spoken(s, describe(null, s.dataset.any as Scope), uiLang())
     }
-    const [figure, rest] = headline(o, state.vilande)
+    const [figure, rest] = headline(o, state.vilande, uiLang())
     figures.replaceChildren(el("b", "", figure), rest)
   }
   const mark = () => {
@@ -77,7 +76,9 @@ if (root) {
     }
     root.querySelectorAll<HTMLElement>("[data-row]").forEach((r) => r.toggleAttribute("data-on", r.dataset.row === state.check))
     root.querySelectorAll<HTMLElement>("[data-col]").forEach((h) => h.toggleAttribute("data-on", h.dataset.col === state.scope))
-    select.value = state.check
+    title.textContent = checkName(checkOf(state.check).area, uiLang())
+    if (uiLang() === "en") title.lang = "en"
+    else title.removeAttribute("lang")
     seg.set(state.scope)
     basis.set(state.vilande ? "alla" : "aktiva")
   }
@@ -99,26 +100,28 @@ if (root) {
   const drawAbout = (d: CheckDetail) => {
     const a = d.about[state.scope === "alla" ? (INSTS.find((i) => d.about[i].purpose) ?? INSTS[0]) : state.scope]
     aboutBox.replaceChildren()
-    if (a.purpose) {
-      const purpose = el("div", "prose")
-      purpose.innerHTML = a.purpose
-      aboutBox.append(purpose)
+    // The analysis text in English where an up-to-date translation exists, else as written.
+    const en = uiLang() === "en"
+    const prose = (sv: string, english: string | null) => {
+      const box = el("div", "prose")
+      box.innerHTML = en && english ? english : sv
+      if (en && english) box.lang = "en"
+      return box
     }
+    if (a.purpose) aboutBox.append(prose(a.purpose, a.purposeEn))
     if (a.advice) {
       const advice = el("details", "disc advice")
       advice.open = adviceOpen
-      advice.innerHTML = `<summary>${CHEVRON}Rekommendationer</summary>`
-      const body = el("div", "prose")
-      body.innerHTML = a.advice
-      advice.append(body)
+      advice.innerHTML = `<summary>${CHEVRON}${txt("q.advice", uiLang())}</summary>`
+      advice.append(prose(a.advice, a.adviceEn))
       advice.addEventListener("toggle", () => (adviceOpen = advice.open))
       aboutBox.append(advice)
     }
     const more = el("p", "more")
     const pages = (state.scope === "alla" ? [...INSTS] : [state.scope]).filter((i) => d.about[i].url)
-    if (pages.length) more.append(state.scope === "alla" ? "Hela analysen per institution" : "")
+    if (pages.length) more.append(state.scope === "alla" ? txt("q.fullPer", uiLang()) : "")
     for (const i of pages) {
-      const a = el("a", "pill", state.scope === "alla" ? i : `Hela analysen för ${i}`)
+      const a = el("a", "pill", state.scope === "alla" ? i : say.fullFor(i, uiLang()))
       a.href = base + d.about[i].url
       more.append(a)
     }
@@ -131,10 +134,11 @@ if (root) {
     for (const [plan, problem] of d.notes) if (inScope(d, plan)) counts[problem]++
     const total = counts.reduce((a, b) => a + b, 0)
     if (!total) return
-    problemBox.append(el("h3", "", "Vad noteringarna gäller"))
+    const l = uiLang()
+    problemBox.append(el("h3", "", txt("q.what", l)))
     if (d.problems.length === 1) {
       const p = el("p", "one")
-      p.append("Alla noteringar gäller samma sak: ", el("b", "", d.problems[0]), ".")
+      p.append(txt("q.same", l), el("b", "", problemName(d.problems[0], l)), ".")
       return void problemBox.append(p)
     }
     const top = Math.max(...counts)
@@ -150,8 +154,8 @@ if (root) {
         const track = el("span", "track")
         const bar = el("i", "bar")
         bar.style.setProperty("--w", String(n / top))
-        track.append(bar, el("span", "val num", sv(n)))
-        b.append(el("span", "lab", label), track)
+        track.append(bar, el("span", "val num", fmt(n)))
+        b.append(el("span", "lab", problemName(label, l)), track)
         // Choosing a kind of note narrows the list below to the plans that have it.
         b.addEventListener("click", () => {
           state.problem = state.problem === i ? null : i
@@ -160,7 +164,7 @@ if (root) {
         })
         list.append(b)
       })
-    problemBox.append(list, el("p", "caption", state.problem === null ? "Välj en rad för att bara se de planerna nedan." : `Visar bara planer med ”${d.problems[state.problem]}”. Välj raden igen för att se alla.`))
+    problemBox.append(list, el("p", "caption", state.problem === null ? txt("q.pickRow", l) : say.onlyWith(problemName(d.problems[state.problem], l), l)))
   }
 
   const drawGroups = (d: CheckDetail) => {
@@ -176,12 +180,13 @@ if (root) {
     const rows = [...hits]
       .map(([g, plans]) => ({ g, group: o.groups[g], plans: [...plans], total: o.groups[g].plans[0] + (state.vilande ? o.groups[g].plans[1] : 0) }))
       .sort((a, b) => b.plans.length - a.plans.length || a.group.title.localeCompare(b.group.title, "sv"))
-    if (!rows.length) return void groupBox.append(el("p", "empty", "Inga noteringar här."))
+    const l = uiLang()
+    if (!rows.length) return void groupBox.append(el("p", "empty", txt("q.none", l)))
 
     const head = el("div", "grouphead")
     const legend = el("p", "legend")
-    legend.append(el("i", "sw a"), "Planer med notering", el("i", "sw r"), "Övriga planer")
-    head.append(el("h3", "", "Var noteringarna finns"), legend)
+    legend.append(el("i", "sw a"), txt("q.withNote", l), el("i", "sw r"), txt("q.others", l))
+    head.append(el("h3", "", txt("q.where", l)), legend)
     groupBox.append(head)
 
     const LIMIT = 12
@@ -195,7 +200,8 @@ if (root) {
       summary.innerHTML = CHEVRON
       const title = el("span", "gt")
       if (state.scope === "alla") title.append(el("span", "idot"))
-      title.append(el("span", "gname", r.group.title))
+      // A subject keeps its own name; the group of an institution's programme plans is the site's word.
+      title.append(el("span", "gname", r.group.kind === "programmes" ? txt("q.programmeGroup", l) : r.group.kind === "loose" ? txt("q.looseGroup", l) : r.group.title))
       // The dot alone would leave the institution to colour; the abbreviation says it.
       if (state.scope === "alla") title.append(el("span", "ginst", r.group.inst))
       // One bar per group: its length is the group's size, the filled part the plans with a note.
@@ -209,7 +215,7 @@ if (root) {
         rest.style.flex = String(r.total - r.plans.length)
         bar.append(rest)
       }
-      summary.append(title, bar, el("span", "gcount num", `${sv(r.plans.length)} av ${sv(r.total)}`))
+      summary.append(title, bar, el("span", "gcount num", say.of(r.plans.length, r.total, l)))
       const body = el("div", "plans")
       // The plans are only built when the group is opened: some groups hold a hundred.
       const fill = () => {
@@ -222,14 +228,14 @@ if (root) {
           a.append(el("span", "code num", code), el("span", "pn", name))
           if (vilande) {
             const st = el("span", "st")
-            st.append(el("span", "dot"), "Vilande")
+            st.append(el("span", "dot"), txt("vilande", l))
             a.append(st)
           }
           const notes = el("ul", "pnotes")
           for (const [plan, problem, html] of d.notes) {
             if (plan !== p || (state.problem !== null && problem !== state.problem)) continue
             const li = el("li")
-            if (multi) li.append(el("b", "", d.problems[problem]))
+            if (multi) li.append(el("b", "", problemName(d.problems[problem], uiLang())))
             const text = el("span")
             text.innerHTML = html // rendered from the vault at build time, like the plan pages
             li.append(text)
@@ -254,7 +260,7 @@ if (root) {
     }
     groupBox.append(list)
     if (!showAll && rows.length > LIMIT + 2) {
-      const more = el("button", "pill showall", `Visa alla ${rows.length}`)
+      const more = el("button", "pill showall", say.showAll(rows.length, l))
       more.type = "button"
       more.addEventListener("click", () => {
         showAll = true
@@ -267,15 +273,16 @@ if (root) {
   const draw = async () => {
     const check = checkOf(state.check)
     scopeLine.replaceChildren()
-    if (state.scope === "alla") scopeLine.textContent = "Alla institutioner"
+    const l = uiLang()
+    if (state.scope === "alla") scopeLine.textContent = txt("q.allSchools", l)
     else {
       scopeLine.dataset.inst = state.scope
-      scopeLine.append(el("span", "idot"), names[state.scope])
+      scopeLine.append(el("span", "idot"), instName(state.scope, l))
     }
     // The headline comes from the embedded overview, so it changes at once.
-    sum.textContent = sentence(cell(o, check, state.scope, state.vilande), check, state.vilande)
+    sum.textContent = sentence(cell(o, check, state.scope, state.vilande), check, state.vilande, l)
     const mine = ++drawing
-    if (!fetched.has(state.check)) groupBox.replaceChildren(el("p", "empty", "Hämtar noteringarna…"))
+    if (!fetched.has(state.check)) groupBox.replaceChildren(el("p", "empty", txt("q.loading", l)))
     const d = await load(state.check)
     if (mine !== drawing) return // the reader has already moved on
     drawAbout(d)
@@ -308,7 +315,12 @@ if (root) {
   }
 
   const seg = segmented(root.querySelector<HTMLElement>("[data-q-inst]")!, (value) => isScope(value) && choose({ scope: value }))
-  select.addEventListener("change", () => choose({ check: select.value }))
+  // Where the detail sits under the table, a way back up to it.
+  root.querySelector<HTMLButtonElement>("[data-q-totable]")?.addEventListener("click", (e) => {
+    const map = root.querySelector<HTMLElement>(".map")!
+    if (e.detail === 0 || reduceMotion()) map.scrollIntoView({ behavior: "instant", block: "start" })
+    else glide(map, () => {})
+  })
   const basis = segmented(root.querySelector<HTMLElement>("[data-q-basis]")!, (value) => choose({ vilande: value === "alla" }))
 
   for (const a of cells) {
@@ -351,10 +363,11 @@ if (root) {
       const check = c.dataset.check ? checkOf(c.dataset.check) : null
       const scope = (c.dataset.scope ?? c.dataset.any) as Scope
       const n = cell(o, check, scope, state.vilande)
+      const l = uiLang()
       tip.replaceChildren(
-        el("b", "num", `${sv(n.hit)} av ${sv(n.of)} ${planWord(check, state.vilande)}`),
-        el("span", "", `${check?.area ?? "Minst en notering"}, ${scope === "alla" ? "alla institutioner" : scope}`),
-        el("span", "num", `${sv(n.notes)} ${n.notes === 1 ? "notering" : "noteringar"}`),
+        el("b", "num", `${say.of(n.hit, n.of, l)} ${planWord(check, state.vilande, l)}`),
+        el("span", "", `${check ? checkName(check.area, l) : txt("q.any", l)}, ${scope === "alla" ? txt("q.allSchools", l).toLowerCase() : scope}`),
+        el("span", "num", say.notes(n.notes, l)),
       )
       const box = c.getBoundingClientRect()
       tip.style.left = `${Math.max(8, Math.min(box.left, innerWidth - tip.offsetWidth - 8))}px`
@@ -378,6 +391,14 @@ if (root) {
     if (scope) next.vilande = status === "med-vilande"
     return next
   }
+  // The page arrives in Swedish; in English the table's spoken labels and the headline are rewritten.
+  if (uiLang() === "en") paint()
   choose(fromAddress(), { silent: true })
   addEventListener("hashchange", () => choose(fromAddress(), { silent: true }))
+  // Another interface language: everything this script has written is written again in it.
+  document.addEventListener("uichange", () => {
+    paint()
+    mark()
+    draw()
+  })
 }

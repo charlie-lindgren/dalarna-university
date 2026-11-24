@@ -43,8 +43,10 @@ html { scroll-padding-top: 76px; }
 .plan .prose code { font: 0.92em ui-monospace, "SF Mono", Menlo, monospace; background: var(--fill); padding: 1px 5px; border-radius: 5px; }
 
 /* Disclosure: opens on the drawer curve, closes faster, content fades a beat behind */
+/* The row gets the box's corners by value: `inherit` would take them from the disclosure's
+   inner wrapper, which has none, so the hover fill showed square corners. */
 .plan .disc > summary { list-style: none; display: flex; align-items: center; gap: 10px; min-height: 44px; padding: 11px 16px;
-  cursor: pointer; font-size: 15px; font-weight: 500; border-radius: inherit; transition: transform 160ms var(--ease-out); }
+  cursor: pointer; font-size: 15px; font-weight: 500; border-radius: 14px; transition: transform 160ms var(--ease-out); }
 .plan .disc > summary::-webkit-details-marker { display: none; }
 .plan .disc > summary:active { transform: scale(0.985); }
 .plan .disc .chev { width: 11px; height: 11px; flex: none; color: var(--ink-3); rotate: -90deg; }

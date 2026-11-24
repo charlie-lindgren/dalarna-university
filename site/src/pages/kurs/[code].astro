@@ -17,13 +17,13 @@ const view = await planView(getVault().byFile.get(Astro.props.file)!)
 
 <Page title={`${view.code} ${view.title}`}>
   <!-- The view is settled before first paint: from the link (?lang=both), else the reader's
-       last choice, else Swedish. plan.css keys everything on this attribute. -->
+       last choice, else the interface language. plan.css keys everything on this attribute. -->
   <script is:inline slot="head">
     (function () {
       var ok = function (v) { return v === "sv" || v === "en" || v === "both" }
       var v = new URLSearchParams(location.search).get("lang")
       if (!ok(v)) { try { v = localStorage.getItem("plan-view") } catch (e) {} }
-      document.documentElement.dataset.view = ok(v) ? v : "sv"
+      document.documentElement.dataset.view = ok(v) ? v : document.documentElement.dataset.ui === "en" ? "en" : "sv"
     })()
   </script>
   <PlanPage view={view} />

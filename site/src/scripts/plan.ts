@@ -138,6 +138,15 @@ function views(root: HTMLElement) {
     })
   }
   addEventListener("resize", place)
+  // Another interface language: the switch's labels change width. And unless the reader has
+  // chosen a view of their own, the plan follows, showing its English version in an English
+  // interface.
+  document.addEventListener("uichange", () => {
+    place()
+    const own = store.get("plan-view") ?? new URLSearchParams(location.search).get("lang")
+    const follow: View = html.dataset.ui === "en" ? "en" : "sv"
+    if (!own && html.dataset.view !== follow) set(follow, false)
+  })
 }
 
 // ── Toolbar: glass once content scrolls under it ────────────────────

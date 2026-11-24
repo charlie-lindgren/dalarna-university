@@ -1,12 +1,16 @@
 ---
 // Every note that does not have a design of its own: the subject and institution lists and
 // the analysis notes. They sit in the same shell, on one sheet, with the note's own text set
-// as written. Plans, the home page, the browser and the dashboard have their own pages.
+// as written. Plans, the home page, the browser, the graph and the dashboard have their own pages.
 import "../styles/doc.css"
 import Page from "../layouts/Page.astro"
+import T from "../components/T.astro"
 import { getVault } from "../lib/vault"
 import { renderMarkdown, withoutH1 } from "../lib/markdown"
 import { link } from "../lib/site"
+import { attrs, instName, type Key } from "../lib/ui"
+import { CHECK_EN, PROBLEM_EN, checkName } from "../lib/checks"
+import { both, bilingualLabels, englishIntro, englishSection, sections, HEADING_EN } from "../lib/analysis-en"
 
 export function getStaticPaths() {
   return getVault()
@@ -19,105 +23,81 @@ export function getStaticPaths() {
 
 const vault = getVault()
 const doc = vault.byFile.get(Astro.props.file)!
-const isPlan = doc.plan !== null
 const inst = doc.inst?.toLowerCase()
 
-// Where the note sits, as places in the designed pages: the browser for plans and lists,
-// the dashboard for analysis notes.
-const trail: { label: string; href: string }[] =
+// Where the note sits, as places in the designed pages: the browser for the lists, the
+// dashboard for analysis notes.
+const trail: { k?: Key; text?: string; href: string }[] =
   doc.kind === "analysis"
-    ? [{ label: "Kvalitet", href: "/kvalitet/" }, { label: doc.inst!, href: `/kvalitet/#${inst}/${doc.url.split("/")[3]}` }]
+    ? [{ k: "menu.kvalitet", href: "/kvalitet/" }, { text: doc.inst!, href: `/kvalitet/#${inst}/${doc.url.split("/")[3]}` }]
     : doc.kind === "analysisHub"
-      ? [{ label: "Kvalitet", href: `/kvalitet/#${inst}` }]
+      ? [{ k: "menu.kvalitet", href: `/kvalitet/#${inst}` }]
       : doc.kind === "institution"
-        ? [{ label: "Bläddra", href: `/bladdra/#${inst}` }]
-        : [{ label: doc.inst!, href: `/bladdra/#${inst}` }]
-const section = doc.kind === "analysis" || doc.kind === "analysisHub" ? "kvalitet" : doc.kind === "programme" ? undefined : "bladdra"
-const heading = isPlan ? `${doc.code} ${doc.title}` : doc.title
+        ? [{ k: "menu.bladdra", href: `/bladdra/#${inst}` }]
+        : [{ text: doc.inst!, href: `/bladdra/#${inst}` }]
+const section = doc.kind === "analysis" || doc.kind === "analysisHub" ? "kvalitet" : "bladdra"
 
-const body = isPlan ? null : await renderMarkdown(withoutH1(doc.body), doc)
-const lead = doc.plan?.leadExtra ? await renderMarkdown(doc.plan.leadExtra, doc) : null
-const sv = doc.plan ? await renderMarkdown(doc.plan.sv, doc) : null
-const en = doc.plan?.en ? await renderMarkdown(doc.plan.en, doc) : null
-const facts = (doc.plan?.facts ?? []).filter((f) => !["Programnamn", "Programkod", "Kursnamn"].includes(f.label))
-const backlinks = doc.backlinks.map((f) => vault.byFile.get(f)!).filter((b) => b.kind !== "analysis" && b.kind !== "analysisHub").sort((a, b) => a.title.localeCompare(b.title, "sv"))
-const noteWord = (n: number) => `${n} ${n === 1 ? "kvalitetsnotering" : "kvalitetsnoteringar"}`
+// An analysis note and a school's overview of them are the site's own analysis, so in English
+// mode they read in English where a translation is up to date (lib/analysis-en.ts). Each
+// translated section is in the page twice, one shown at a time; the findings tables are in it
+// once, with English twins for their labels.
+const isAnalysis = doc.kind === "analysis"
+const isHub = doc.kind === "analysisHub"
+const twice = (sv: string, en: string) => `<div data-l="sv">${sv}</div><div data-l="en" lang="en">${en}</div>`
+async function analysisBody(): Promise<string> {
+  const out: string[] = []
+  for (const s of sections(doc.body)) {
+    if (!s.heading) {
+      if (!s.body) continue
+      const sv = await renderMarkdown(s.body, doc)
+      const en = isHub && doc.inst ? englishIntro(s.body, doc.inst) : null
+      out.push(en ? twice(sv, await renderMarkdown(en, doc)) : sv)
+      continue
+    }
+    const sv = await renderMarkdown(`## ${s.heading}\n\n${s.body}`, doc)
+    const headEn = HEADING_EN[s.heading]
+    const en = isAnalysis ? englishSection(doc.title, s.heading, s.body) : null
+    if (en && headEn) out.push(twice(sv, await renderMarkdown(`## ${headEn}\n\n${en}`, doc)))
+    else out.push(headEn ? sv.replace(`>${s.heading}</h2>`, `>${both(s.heading, headEn)}</h2>`) : sv)
+  }
+  return bilingualLabels(out.join("\n"), CHECK_EN, PROBLEM_EN)
+}
+const body = isAnalysis || isHub ? await analysisBody() : await renderMarkdown(withoutH1(doc.body), doc)
+const titleEn =
+  doc.kind === "institution" && doc.inst ? instName(doc.inst, "en")
+  : isAnalysis ? checkName(doc.title, "en")
+  : isHub && doc.inst ? `${doc.inst} analyses`
+  : undefined
+const backlinks = doc.backlinks
+  .map((f) => vault.byFile.get(f)!)
+  .filter((b) => b.kind !== "analysis" && b.kind !== "analysisHub")
+  .sort((a, b) => a.title.localeCompare(b.title, "sv"))
 ---
 
-<Page title={heading} current={section}>
+<Page title={doc.title} titleEn={titleEn} current={section}>
   <main class="doc">
     <div class="top">
-      <nav class="crumbs" aria-label="Brödsmulor">
+      <nav class="crumbs" {...attrs({ "aria-label": "crumbs.label" })}>
         {
-          trail.map((t, i) => (
+          trail.map((step, i) => (
             <>
               {i > 0 && <span class="sep" aria-hidden="true">›</span>}
-              <a href={link(t.href)}>{t.label}</a>
+              <a href={link(step.href)}>{step.k ? <T k={step.k} /> : step.text}</a>
             </>
           ))
         }
       </nav>
-      {
-        doc.plan?.sourceUrl && (
-          <a class="pill glass" href={doc.plan.sourceUrl} rel="noopener">
-            Öppna på du.se
-            <svg class="out" viewBox="0 0 12 12" aria-hidden="true"><path d="M4.5 2H2v8h8V7.5M7 2h3v3M10 2 5.5 6.5" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" /></svg>
-          </a>
-        )
-      }
     </div>
 
     <article class="glass large sheet">
-      <header>
-        {isPlan && <p class="code num">{doc.code}</p>}
-        <h1>{doc.title}</h1>
-        {doc.status !== "active" && isPlan && <p class="status"><span class="dot" />{doc.status === "vilande" ? "Vilande" : "Ej aktiv"}</p>}
-        {
-          facts.length > 0 && (
-            <dl class="meta">
-              {facts.map((f) => (
-                <div class:list={{ wide: f.value.length > 44 }}>
-                  <dt>{f.label}</dt>
-                  <dd>{f.value}</dd>
-                </div>
-              ))}
-            </dl>
-          )
-        }
-      </header>
-
-      {lead && <div class="prose" set:html={lead} />}
-      {
-        doc.findings.length > 0 && (
-          <details class="notes">
-            <summary><span class="dot" aria-hidden="true" />{noteWord(doc.findings.length)}</summary>
-            <table>
-              <thead><tr><th>Område</th><th>Problem</th><th>Detalj</th></tr></thead>
-              <tbody>
-                {doc.findings.map((f) => (
-                  <tr><td>{f.area}</td><td>{f.problem}</td><td>{f.detail}</td></tr>
-                ))}
-              </tbody>
-            </table>
-          </details>
-        )
-      }
-
-      {sv && <div class="prose" data-plan-text="sv" set:html={sv} />}
-      {
-        en && (
-          <section lang="en">
-            <h2>English Version</h2>
-            <div class="prose" data-plan-text="en" set:html={en} />
-          </section>
-        )
-      }
-      {body && <div class="prose" set:html={body} />}
+      {/* A school, a check and an overview go by their names in the interface language; any other note keeps its own. */}
+      <h1>{doc.kind === "institution" && doc.inst ? <T sv={instName(doc.inst, "sv")} en={instName(doc.inst, "en")} /> : titleEn ? <T sv={doc.title} en={titleEn} /> : doc.title}</h1>
+      <div class="prose" set:html={body} />
 
       {
         backlinks.length > 0 && (
           <aside class="backlinks">
-            <h2>Länkar hit</h2>
+            <h2><T k="doc.linksHere" /></h2>
             <ul>
               {backlinks.map((b) => (
                 <li><a href={link(b.url)}>{b.code && b.kind !== "subject" ? `${b.code} ${b.title}` : b.title}</a></li>

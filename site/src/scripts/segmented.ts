@@ -25,6 +25,8 @@ export function segmented(seg: HTMLElement, onChange: (value: string) => void) {
       onChange(b.dataset.value!)
     })
   addEventListener("resize", place)
+  // Another interface language changes how wide the labels are.
+  document.addEventListener("uichange", place)
   place()
   requestAnimationFrame(() => requestAnimationFrame(() => seg.classList.add("ready")))
   return { set }

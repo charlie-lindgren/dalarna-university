@@ -2,6 +2,7 @@
 // Where a plan sits: its institution, then its subject. Both lead into Bläddra, opened at
 // that place, which shows everything the old hub pages listed.
 import { link } from "../lib/site"
+import { attrs } from "../lib/ui"
 import { parentOf, type Doc } from "../lib/vault"
 interface Props {
   doc: Doc
@@ -11,7 +12,7 @@ for (let p = parentOf(Astro.props.doc); p && !trail.includes(p); p = parentOf(p)
 const place = (p: Doc) => `/bladdra/#${p.inst!.toLowerCase()}${p.kind === "subject" ? "/" + p.url.split("/")[2] : ""}`
 ---
 
-<nav class="crumbs" aria-label="Brödsmulor">
+<nav class="crumbs" {...attrs({ "aria-label": "crumbs.label" })}>
   {
     trail.map((p, i) => (
       <>

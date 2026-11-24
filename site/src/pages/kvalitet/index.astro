@@ -3,91 +3,95 @@
 // Left, a heat table: every check against every institution, shaded by the share of plans
 // with a note. Right, the chosen cell opened up: what the check is for, what its notes
 // concern, which subjects they sit in, and the plans themselves.
+//
+// The names of the checks, and everything quoted from the notes, are the vault's own words
+// and stay in Swedish in both interface languages.
 import "../../styles/quality.css"
 import Page from "../../layouts/Page.astro"
+import T from "../../components/T.astro"
 import { link } from "../../lib/site"
-import { getVault, INSTITUTION_NAMES } from "../../lib/vault"
+import { getVault } from "../../lib/vault"
 import { qualityOverview } from "../../lib/quality"
-import { cell, headline, percent, sentence, planWord, INSTS, type CheckSummary, type Scope } from "../../lib/quality-math"
+import { cell, cellLabel, headline, percent, sentence, INSTS, type CheckSummary, type Scope } from "../../lib/quality-math"
 import { heat } from "../../lib/heat"
+import { attrs, instName, say, type Key } from "../../lib/ui"
+import { checkName } from "../../lib/checks"
 
 const o = qualityOverview()
 const vault = getVault()
 const scopes: Scope[] = ["alla", ...INSTS]
 // The page opens counted on active plans; the script recounts when the reader asks for all.
 const VILANDE = false
-const [figure, rest] = headline(o, VILANDE)
 const first = o.checks[0]
+const [figureSv, restSv] = headline(o, VILANDE, "sv")
+const [figureEn, restEn] = headline(o, VILANDE, "en")
 // Without script a cell still leads somewhere useful: that institution's analysis of the check.
 const target = (check: CheckSummary, s: Scope) =>
   (s !== "alla" && vault.byUrl.get(`/kvalitet/${s.toLowerCase()}/${check.slug}/`)?.url) || null
-const label = (check: CheckSummary | null, s: Scope) => {
-  const c = cell(o, check, s, VILANDE)
-  return `${check?.area ?? "Minst en notering"}, ${s === "alla" ? "alla institutioner" : s}: ${percent(c.share)} %, ${c.hit} av ${c.of} ${planWord(check, VILANDE)}`
-}
+const schoolTitle = (s: Scope) => (s === "alla" ? {} : attrs({ title: [instName(s, "sv"), instName(s, "en")] }, { lang: true }))
 // Two blocks: checks run on course plans, and checks run only on programme plans. Each is
 // counted against its own kind of plan, which the block's label makes plain.
 const onProgrammes = (c: CheckSummary) => c.kinds.length === 1 && c.kinds[0] === "programme"
-const blocks = [
-  { label: "Kontroller av kursplaner", checks: o.checks.filter((c) => !onProgrammes(c)) },
-  { label: "Kontroller av utbildningsplaner", checks: o.checks.filter(onProgrammes) },
+const blocks: { label: Key; checks: CheckSummary[] }[] = [
+  { label: "q.block.course" as Key, checks: o.checks.filter((c) => !onProgrammes(c)) },
+  { label: "q.block.programme" as Key, checks: o.checks.filter(onProgrammes) },
 ].filter((b) => b.checks.length)
 ---
 
-<Page title="Kvalitet" current="kvalitet">
-  <main class="q" data-q data-base={link("")} data-detail={link("/kvalitet/data/")} data-names={JSON.stringify(INSTITUTION_NAMES)}>
+<Page title="Kvalitet" titleEn="Quality" current="kvalitet">
+  <main class="q" data-q data-base={link("")} data-detail={link("/kvalitet/data/")}>
     <article class="glass large sheet">
       <header class="intro">
-        <h1>Kvalitetsgranskning</h1>
-        <p class="lead">Varje kursplan och utbildningsplan prövas mot {o.checks.length} kontroller. Här syns hur stor andel av planerna som har fått en notering, var noteringarna finns och vad de gäller.</p>
-        <p class="figures" data-q-figures><b>{figure}</b>{rest}</p>
+        <h1><T k="q.h1" /></h1>
+        <p class="lead"><T sv={say.checksLead(o.checks.length, "sv")} en={say.checksLead(o.checks.length, "en")} /></p>
+        <p class="figures" data-q-figures><span data-l="sv"><b>{figureSv}</b>{restSv}</span><span data-l="en" lang="en"><b>{figureEn}</b>{restEn}</span></p>
       </header>
 
       <div class="split">
         <section class="map" aria-labelledby="q-map">
           <div class="maphead">
-            <h2 id="q-map">Andel planer med notering</h2>
-            <div class="seg" role="group" aria-label="Räkna på" data-q-basis>
+            <h2 id="q-map"><T k="q.map" /></h2>
+            <div class="seg" role="group" {...attrs({ "aria-label": "q.basis" }, { lang: true })} data-q-basis>
               <span class="thumb" aria-hidden="true"></span>
-              <button type="button" data-value="aktiva" aria-pressed="true">Aktiva planer</button>
-              <button type="button" data-value="alla" aria-pressed="false">Alla planer</button>
+              <button type="button" data-value="aktiva" aria-pressed="true"><T k="q.active" /></button>
+              <button type="button" data-value="alla" aria-pressed="false"><T k="q.allPlans" /></button>
             </div>
           </div>
-          <p class="legend" aria-hidden="true"><span>0 %</span><i class="ramp"></i><span>100 %</span></p>
+          <p class="legend" aria-hidden="true"><span><T sv="0 %" en="0%" /></span><i class="ramp"></i><span><T sv="100 %" en="100%" /></span></p>
 
           <table class="matrix" role="grid" aria-labelledby="q-map">
             <colgroup><col />{scopes.map(() => <col class="vcol" />)}</colgroup>
             <thead>
               <tr>
-                <th scope="col"><span class="sr">Kontroll</span></th>
+                <th scope="col"><span class="sr"><T k="q.check" /></span></th>
                 {scopes.map((s) => (
-                  <th scope="col" data-col={s} data-inst={s === "alla" ? undefined : s} title={s === "alla" ? undefined : INSTITUTION_NAMES[s]}>
-                    {s !== "alla" && <span class="idot" aria-hidden="true" />}{s === "alla" ? "Alla" : s}
+                  <th scope="col" data-col={s} data-inst={s === "alla" ? undefined : s} {...schoolTitle(s)}>
+                    {s !== "alla" && <span class="idot" aria-hidden="true" />}{s === "alla" ? <T k="all" /> : s}
                   </th>
                 ))}
               </tr>
             </thead>
             <tbody>
               <tr class="anyrow">
-                <th scope="row">Minst en notering</th>
+                <th scope="row"><T k="q.any" /></th>
                 {scopes.map((s) => {
                   const c = cell(o, null, s, VILANDE)
-                  return <td><span class="cell" data-any={s} style={heat(c.share)} aria-label={label(null, s)}><span class="n">{percent(c.share)}</span><i>&nbsp;%</i></span></td>
+                  return <td><span class="cell" data-any={s} style={heat(c.share)} aria-label={cellLabel(o, null, s, VILANDE, "sv")}><span class="n">{percent(c.share)}</span><i class="pct">%</i></span></td>
                 })}
               </tr>
               {
                 blocks.map((block) => (
                   <>
-                    <tr class="blockrow"><th scope="rowgroup" colspan={scopes.length + 1}>{block.label}</th></tr>
+                    <tr class="blockrow"><th scope="rowgroup" colspan={scopes.length + 1}><T k={block.label} /></th></tr>
                     {block.checks.map((check) => (
                       <tr data-row={check.slug} data-on={check === first ? "" : undefined}>
-                        <th scope="row" title={check.area}>{check.area}</th>
+                        <th scope="row" {...attrs({ title: [check.area, checkName(check.area, "en")] }, { lang: true })}><T sv={check.area} en={checkName(check.area, "en")} /></th>
                         {scopes.map((s) => {
                           const c = cell(o, check, s, VILANDE)
                           const on = check === first && s === "alla"
                           return (
                             <td aria-selected={on ? "true" : "false"}>
-                              <a class="cell" href={target(check, s) ? link(target(check, s)!) : `#${s.toLowerCase()}/${check.slug}`} data-check={check.slug} data-scope={s} tabindex={on ? 0 : -1} style={heat(c.share)} aria-label={label(check, s)}><span class="n">{percent(c.share)}</span><i>&nbsp;%</i></a>
+                              <a class="cell" href={target(check, s) ? link(target(check, s)!) : `#${s.toLowerCase()}/${check.slug}`} data-check={check.slug} data-scope={s} tabindex={on ? 0 : -1} style={heat(c.share)} aria-label={cellLabel(o, check, s, VILANDE, "sv")}><span class="n">{percent(c.share)}</span><i class="pct">%</i></a>
                             </td>
                           )
                         })}
@@ -98,31 +102,28 @@ const blocks = [
               }
             </tbody>
           </table>
-          <p class="caption">Andelen är planer med minst en notering, av de planer kontrollen gäller. Välj en ruta för att se vad som ligger bakom.</p>
+          <p class="caption"><T k="q.caption" /></p>
         </section>
 
-        <section class="detail" aria-labelledby="q-detail" data-q-detail>
-          <h2 class="sr" id="q-detail">Kontrollen i detalj</h2>
-          <div class="picker">
-            <label>
-              <span class="sr">Kontroll</span>
-              <select class="titlepick" data-q-check>
-                {o.checks.map((c) => <option value={c.slug}>{c.area}</option>)}
-              </select>
-            </label>
-            <div class="seg" role="group" aria-label="Institution" data-q-inst>
-              <span class="thumb" aria-hidden="true"></span>
-              <button type="button" data-value="alla" aria-pressed="true">Alla</button>
-              {INSTS.map((i) => <button type="button" data-value={i} aria-pressed="false" title={INSTITUTION_NAMES[i]}>{i}</button>)}
-            </div>
+        <section class="detail" aria-labelledby="q-title" data-q-detail>
+          <div class="dhead">
+            <h2 id="q-title" data-q-title><T sv={first.area} en={checkName(first.area, "en")} /></h2>
+            <button type="button" class="pill totable" data-q-totable>
+              <svg viewBox="0 0 12 12" aria-hidden="true"><path d="M6 10V2.5M2.5 6 6 2.5 9.5 6" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" /></svg><T k="q.toTable" />
+            </button>
           </div>
-          <p class="scope" data-q-scope>Alla institutioner</p>
-          <p class="sum" data-q-sum>{sentence(cell(o, first, "alla", VILANDE), first, VILANDE)}</p>
+          <div class="seg" role="group" {...attrs({ "aria-label": "q.school" }, { lang: true })} data-q-inst>
+            <span class="thumb" aria-hidden="true"></span>
+            <button type="button" data-value="alla" aria-pressed="true"><T k="all" /></button>
+            {INSTS.map((i) => <button type="button" data-value={i} aria-pressed="false" {...schoolTitle(i)}>{i}</button>)}
+          </div>
+          <p class="scope" data-q-scope><T k="q.allSchools" /></p>
+          <p class="sum" data-q-sum><T sv={sentence(cell(o, first, "alla", VILANDE), first, VILANDE, "sv")} en={sentence(cell(o, first, "alla", VILANDE), first, VILANDE, "en")} /></p>
           <div class="about" data-q-about></div>
           <div data-q-problems></div>
           <div data-q-groups>
             <noscript>
-              <p class="empty">Utan skript visas inte planerna här. Varje ruta i tabellen leder i stället till institutionens analys av kontrollen.</p>
+              <p class="empty"><T k="q.noscript" /></p>
             </noscript>
           </div>
         </section>

@@ -1,6 +1,8 @@
 ---
 // A list of quality notes. The state sits on a small dot, never on coloured text.
 import { link } from "../lib/site"
+import { checkName, problemName } from "../lib/checks"
+import T from "./T.astro"
 import type { Note } from "../lib/plan"
 interface Props {
   notes: Note[]
@@ -15,8 +17,8 @@ const { notes } = Astro.props
         <span class="dot" aria-hidden="true" />
         <div>
           <p class="note-head">
-            <a href={link(n.areaUrl)}>{n.area}</a>
-            <span class="note-problem">{n.problem}</span>
+            <a href={link(n.areaUrl)}><T sv={n.area} en={checkName(n.area, "en")} /></a>
+            <span class="note-problem"><T sv={n.problem} en={problemName(n.problem, "en")} /></span>
           </p>
           <p class="note-detail" set:html={n.detailHtml} />
         </div>

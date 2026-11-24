@@ -1,6 +1,9 @@
 // The numbers behind the quality dashboard, as plain data and plain functions, so the page
 // (at build time) and the script (in the browser) count in exactly the same way.
 
+import { LOCALE, num, say, t, type Lang } from "./ui"
+import { checkName } from "./checks"
+
 export const INSTS = ["IIT", "IHV", "IKS", "ISLL"] as const
 export type InstCode = (typeof INSTS)[number]
 export type Scope = InstCode | "alla"
@@ -12,8 +15,9 @@ export type Pair = [number, number]
 export interface Group {
   title: string
   inst: InstCode
-  /** A subject's course plans, or an institution's programme plans. */
-  kind: "subject" | "programmes"
+  /** A subject's course plans, an institution's programme plans, or its course plans that
+   *  belong to no subject in the vault. Only a subject's title is the vault's own word. */
+  kind: "subject" | "programmes" | "loose"
   plans: Pair
 }
 
@@ -41,7 +45,9 @@ export interface CheckDetail {
   plans: [string, string, number, 0 | 1, string][]
   /** [plan index, problem index, detail as HTML] */
   notes: [number, number, string][]
-  about: Record<InstCode, { purpose: string | null; advice: string | null; url: string | null }>
+  /** What the check is for and what to do, from the analysis notes; the English is null
+   *  where no up-to-date translation exists. */
+  about: Record<InstCode, { purpose: string | null; advice: string | null; purposeEn: string | null; adviceEn: string | null; url: string | null }>
 }
 
 const sum = (p: Pair, vilande: boolean) => p[0] + (vilande ? p[1] : 0)
@@ -68,26 +74,42 @@ export function cell(o: Overview, check: CheckSummary | null, scope: Scope, vila
   return { hit, of, notes, share: of ? hit / of : 0 }
 }
 
-const sv = (n: number) => n.toLocaleString("sv-SE")
 export const percent = (share: number) => (share > 0 && share < 0.005 ? "<1" : String(Math.round(share * 100)))
+/** "81 %" in Swedish, "81%" in English. */
+export const pct = (share: number, lang: Lang) => (lang === "en" ? `${percent(share)}%` : `${percent(share)} %`)
 
-/** "kursplaner", "utbildningsplaner" or "planer", by what a check is run on. With vilande plans
+/** What a check is run on: "kursplaner", "utbildningsplaner" or "planer". With vilande plans
  *  left out it says so: "aktiva kursplaner". (No programme plan is vilande, so those need no word.) */
-export const planWord = (check: CheckSummary | null, vilande: boolean) => {
-  const word = !check || check.kinds.length > 1 ? "planer" : check.kinds[0] === "course" ? "kursplaner" : "utbildningsplaner"
-  return !vilande && word !== "utbildningsplaner" ? `aktiva ${word}` : word
+export const planWord = (check: CheckSummary | null, vilande: boolean, lang: Lang) => {
+  const kind = !check || check.kinds.length > 1 ? "any" : check.kinds[0]
+  const word =
+    lang === "en"
+      ? { any: "syllabi", course: "course syllabi", programme: "programme syllabi" }[kind]
+      : { any: "planer", course: "kursplaner", programme: "utbildningsplaner" }[kind]
+  return !vilande && kind !== "programme" ? `${lang === "en" ? "active" : "aktiva"} ${word}` : word
 }
 
 /** The line under the page title: the figure, and the rest of its sentence. */
-export function headline(o: Overview, vilande: boolean): [string, string] {
+export function headline(o: Overview, vilande: boolean, lang: Lang): [string, string] {
   const c = cell(o, null, "alla", vilande)
-  const each = (c.notes / Math.max(1, c.of)).toLocaleString("sv-SE", { maximumFractionDigits: 1 })
-  return [`${percent(c.share)} %`, ` av ${vilande ? "alla planer, vilande inräknade," : "de aktiva planerna"} har minst en notering, i snitt ${each} per plan.`]
+  const each = (c.notes / Math.max(1, c.of)).toLocaleString(LOCALE[lang], { maximumFractionDigits: 1 })
+  return lang === "en"
+    ? [pct(c.share, lang), ` of ${vilande ? "all syllabi, dormant ones included," : "the active syllabi"} have at least one note, ${each} per syllabus on average.`]
+    : [pct(c.share, lang), ` av ${vilande ? "alla planer, vilande inräknade," : "de aktiva planerna"} har minst en notering, i snitt ${each} per plan.`]
 }
 
 /** "581 noteringar i 560 av 752 kursplaner (74 %)." */
-export function sentence(c: Cell, check: CheckSummary | null, vilande: boolean): string {
-  const what = planWord(check, vilande)
-  if (!c.hit) return `Inga noteringar bland ${sv(c.of)} ${what}.`
-  return `${sv(c.notes)} ${c.notes === 1 ? "notering" : "noteringar"} i ${sv(c.hit)} av ${sv(c.of)} ${what} (${percent(c.share)} %).`
+export function sentence(c: Cell, check: CheckSummary | null, vilande: boolean, lang: Lang): string {
+  const what = planWord(check, vilande, lang)
+  if (!c.hit) return lang === "en" ? `No notes among ${num(c.of, lang)} ${what}.` : `Inga noteringar bland ${num(c.of, lang)} ${what}.`
+  return lang === "en"
+    ? `${say.notes(c.notes, lang)} in ${say.of(c.hit, c.of, lang)} ${what} (${pct(c.share, lang)}).`
+    : `${say.notes(c.notes, lang)} i ${say.of(c.hit, c.of, lang)} ${what} (${pct(c.share, lang)}).`
+}
+
+/** What one cell of the table says, for a screen reader. `check` null is the "any note" row. */
+export function cellLabel(o: Overview, check: CheckSummary | null, scope: Scope, vilande: boolean, lang: Lang): string {
+  const c = cell(o, check, scope, vilande)
+  const where = scope === "alla" ? t("q.allSchools", lang).toLowerCase() : scope
+  return `${check ? checkName(check.area, lang) : t("q.any", lang)}, ${where}: ${pct(c.share, lang)}, ${say.of(c.hit, c.of, lang)} ${planWord(check, vilande, lang)}`
 }

@@ -2,6 +2,7 @@
 // file of detail per check that the page fetches when the reader opens that check.
 import { getVault, parentOf, slugify, INSTITUTIONS, type Doc, type Inst } from "./vault"
 import { renderMarkdown } from "./markdown"
+import { englishSection } from "./analysis-en"
 import type { CheckDetail, CheckSummary, Group, Overview, Pair, PlanKind } from "./quality-math"
 
 const pair = (): Pair => [0, 0]
@@ -27,7 +28,7 @@ function gather() {
       let g = programmes
       if (d.kind === "course") {
         const subject = parentOf(d)
-        g = (subject && bySubject.get(subject)) ?? (loose >= 0 ? loose : (loose = groups.push({ title: "Övriga kursplaner", inst, kind: "subject", plans: pair() }) - 1))
+        g = (subject && bySubject.get(subject)) ?? (loose >= 0 ? loose : (loose = groups.push({ title: "Övriga kursplaner", inst, kind: "loose", plans: pair() }) - 1))
       }
       groupOf.set(d, g)
       groups[g].plans[d.status === "active" ? 0 : 1]++
@@ -108,9 +109,14 @@ export async function checkDetail(slug: string): Promise<CheckDetail> {
     const page = v.byUrl.get(`/kvalitet/${inst.toLowerCase()}/${slug}/`)
     const purpose = page && section(page.body, "Syfte")
     const advice = page && section(page.body, "Rekommendationer")
+    // The English, where a translation of this very text exists (lib/analysis-en.ts).
+    const purposeEn = purpose && englishSection(page!.title, "Syfte", purpose)
+    const adviceEn = advice && englishSection(page!.title, "Rekommendationer", advice)
     about[inst] = {
       purpose: purpose ? await renderMarkdown(purpose, page!) : null,
       advice: advice ? await renderMarkdown(advice, page!) : null,
+      purposeEn: purposeEn ? await renderMarkdown(purposeEn, page!) : null,
+      adviceEn: adviceEn ? await renderMarkdown(adviceEn, page!) : null,
       url: page?.url ?? null,
     }
   }

@@ -7,5 +7,3 @@ export const base = import.meta.env.BASE_URL.replace(/\/$/, "")
 export function link(url: string): string {
   return base + url
 }
-
-export const SITE_NAME = "Högskolan Dalarna"

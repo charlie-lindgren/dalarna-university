@@ -1,0 +1,11 @@
+---
+// The interface language: Swedish or English. It changes what the site itself says (menus,
+// labels, counts). Plan text is not translated; a course plan has its own switch for that.
+// Which side is lit follows <html data-ui>, so it is right from the first paint.
+import { attrs } from "../lib/ui"
+---
+
+<div class="theme lang" role="group" {...attrs({ "aria-label": "lang.label" }, { lang: true })}>
+  <button type="button" data-ui-choice="sv" aria-pressed="false" aria-label="Svenska" lang="sv">SV</button>
+  <button type="button" data-ui-choice="en" aria-pressed="false" aria-label="English" lang="en">EN</button>
+</div>

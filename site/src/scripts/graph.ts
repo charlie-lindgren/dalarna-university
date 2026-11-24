@@ -1,4 +1,4 @@
-// Bläddra as a graph. The layout arrives ready-made (lib/graph.ts computes it when the site
+// Graf. The layout arrives ready-made (lib/graph.ts computes it when the site
 // is built); this draws it on a canvas and makes it something you can move around in:
 // zoom and pan, point at a node to see what it is and what it connects to, click to open it.
 import "d3-transition"
@@ -6,6 +6,7 @@ import { quadtree, type Quadtree } from "d3-quadtree"
 import { select } from "d3-selection"
 import { zoom, zoomIdentity, type ZoomTransform } from "d3-zoom"
 import { INSTITUTION_PALETTE, INSTITUTIONS, STRUCTURAL_GOLD } from "../lib/graph-colors"
+import { instShort, say, t as txt, uiLang } from "../lib/ui"
 import { reduceMotion } from "./util"
 
 interface N {
@@ -74,7 +75,9 @@ async function start(stage: HTMLElement) {
   // more lightly than the spokes of a flower until a programme is pointed at.
   const spokes = links.filter(([a, b]) => a.tier !== 3 && b.tier !== 3)
   const reads = links.filter(([a, b]) => a.tier === 3 || b.tier === 3)
-  const short = (n: N) => (n.tier === 1 ? n.title.replace("Institutionen för ", "").replace(/^./, (c) => c.toUpperCase()) : n.title)
+  /** What a node is called. The university and its schools go by their names in the
+   *  interface language; a subject or a plan keeps the name it has in the vault. */
+  const short = (n: N) => (n.tier === 0 ? txt("site.name", uiLang()) : n.tier === 1 ? instShort(INSTITUTIONS[n.inst], uiLang()) : n.title)
   // Hubs are drawn last, so they sit on top of the plans around them.
   const drawOrder = [...nodes].sort((a, b) => b.tier - a.tier)
   const subjectsBySize = nodes.filter((n) => n.tier === 2).sort((a, b) => b.reach - a.reach)
@@ -306,7 +309,7 @@ async function start(stage: HTMLElement) {
     // On a narrow screen the four full names cannot sit side by side, so the institutions
     // go by the abbreviations the legend uses.
     for (const n of hubs) label(n, W < 560 ? INSTITUTIONS[n.inst] : short(n), 14, 600, C.ink, strength(n))
-    label(home, home.title, 12, 600, C.ink, arrive)
+    label(home, short(home), 12, 600, C.ink, arrive)
     // A flower is named once it is large enough on screen to be worth naming.
     for (const n of subjectsBySize) if (n.reach * k >= 12) label(n, n.title, 12, 500, C.ink, strength(n))
     // Programmes are named once the view is close enough for their names to sit between the
@@ -374,11 +377,12 @@ async function start(stage: HTMLElement) {
     return n && Math.hypot(n.x - gx, n.y - gy) <= rad(n) + 6 / t.k ? n : null
   }
   const describe = (n: N): [string, string] => {
-    if (n.tier === 4) return [n.title, `Kursplan ${n.code}${n.vilande ? ", vilande" : ""}`]
-    if (n.tier === 3) return [n.title, n.lone ? `Utbildningsplan ${n.code}, läser kurser från andra institutioner` : `Utbildningsplan ${n.code}, ${n.near.length} av institutionens kursplaner`]
-    if (n.tier === 2) return [n.title, `Ämne, ${n.near.filter((m) => m.tier === 4).length} kursplaner`]
-    if (n.tier === 1) return [short(n), `${nodes.filter((m) => m.inst === n.inst && m.tier === 2).length} ämnen, ${nodes.filter((m) => m.inst === n.inst && m.tier === 4).length} kursplaner`]
-    return [n.title, "Till sökningen"]
+    const l = uiLang()
+    if (n.tier === 4) return [n.title, say.graphCourse(n.code, n.vilande, l)]
+    if (n.tier === 3) return [n.title, say.graphProgramme(n.code, n.lone ? null : n.near.length, l)]
+    if (n.tier === 2) return [n.title, say.graphSubject(n.near.filter((m) => m.tier === 4).length, l)]
+    if (n.tier === 1) return [short(n), say.graphSchool(nodes.filter((m) => m.inst === n.inst && m.tier === 2).length, nodes.filter((m) => m.inst === n.inst && m.tier === 4).length, l)]
+    return [short(n), txt("graph.toSearch", l)]
   }
   let timer = 0
   let warm = false
@@ -445,12 +449,12 @@ async function start(stage: HTMLElement) {
   })
 
   // ── Controls ──
-  const columns = document.querySelector<HTMLAnchorElement>('[data-view-link="kolumner"]')
+  const columns = document.querySelector<HTMLAnchorElement>('.sitemenu a[data-menu="bladdra"]')
   const onlyButtons = [...stage.querySelectorAll<HTMLButtonElement>("[data-only]")]
   const setOnly = (inst: number, animate: boolean) => {
     only = inst
     onlyButtons.forEach((b, i) => b.setAttribute("aria-pressed", String(i === inst)))
-    // The columns view opens at the same institution.
+    // Bläddra, from the menu, opens at the same institution.
     if (columns) columns.hash = inst >= 0 ? INSTITUTIONS[inst].toLowerCase() : ""
     touched = false
     go(inst >= 0 ? frame(nodes.filter((n) => n.inst === inst && shown(n))) : everything(), animate)
@@ -483,6 +487,11 @@ async function start(stage: HTMLElement) {
     schedule()
   }
   document.addEventListener("themechange", recolour)
+  // Another interface language: the names drawn on the canvas, and the card if one is open.
+  document.addEventListener("uichange", () => {
+    if (picked) pick(picked)
+    schedule()
+  })
   matchMedia("(prefers-color-scheme: dark)").addEventListener("change", recolour)
 
   // ── Start ──
@@ -493,7 +502,7 @@ async function start(stage: HTMLElement) {
   resize()
 
   setTimeout(() => (settled = true), 1800)
-  // An address can name a place (#iks, or #iks/historia from the columns view).
+  // An address can name a place (#iks, or #iks/historia when coming from Bläddra).
   const [instName, slug] = location.hash.slice(1).split("/")
   const inst = INSTITUTIONS.findIndex((i) => i.toLowerCase() === instName)
   if (inst >= 0) {

@@ -1,19 +1,27 @@
 ---
-// The designed shell: house tokens, the soft colour fields behind the glass, the menu, and
-// the stored appearance applied before first paint.
+// The shell every page sits in: house tokens, the soft colour fields behind the glass, the
+// menu, and the reader's own settings (appearance, interface language) applied before
+// first paint.
 import "../styles/base.css"
 import "../styles/site.css"
 import SiteBar, { type Section } from "../components/SiteBar.astro"
-import { base, link, SITE_NAME } from "../lib/site"
+import { base, link } from "../lib/site"
+import { t } from "../lib/ui"
 
 interface Props {
-  title: string
+  /** The page's own title, in Swedish. Leave out on the home page. */
+  title?: string
+  /** The same in English, where the title is the site's own words and not a plan's name. */
+  titleEn?: string
   /** Which menu item this page belongs under, if any. */
   current?: Section
   brand?: boolean
 }
-const { title, current, brand } = Astro.props
-const fullTitle = title === SITE_NAME ? title : `${title} · ${SITE_NAME}`
+const { title, titleEn, current, brand } = Astro.props
+const full = (lang: "sv" | "en") => {
+  const own = lang === "en" ? (titleEn ?? title) : title
+  return own ? `${own} · ${t("site.name", lang)}` : t("site.name", lang)
+}
 // Links the reader hovers are fetched ahead, so the next page is there when they click.
 // Prefetch only (not prerender), and never the downloads.
 const speculation = JSON.stringify({
@@ -22,11 +30,11 @@ const speculation = JSON.stringify({
 ---
 
 <!doctype html>
-<html lang="sv">
+<html lang="sv" data-en-title={full("en")}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content" />
-    <title>{fullTitle}</title>
+    <title>{full("sv")}</title>
     <link rel="icon" type="image/svg+xml" href={link("/favicon.svg")} />
     {base.endsWith("/next") && <meta name="robots" content="noindex" />}
     <!-- The browser's own chrome takes the page colour, per colour scheme. -->
@@ -40,7 +48,31 @@ const speculation = JSON.stringify({
           for (const m of document.querySelectorAll('meta[name="theme-color"]')) m.content = m.dataset[t]
         }
       } catch (e) {}
+      // The interface language: from the link (?ui=en), else the reader's last choice, else Swedish.
+      ;(function () {
+        var q = new URLSearchParams(location.search).get("ui")
+        var ui = q === "en" || q === "sv" ? q : null
+        try {
+          if (ui) localStorage.setItem("ui", ui)
+          else ui = localStorage.getItem("ui")
+        } catch (e) {}
+        document.documentElement.dataset.ui = ui === "en" ? "en" : "sv"
+      })()
+      // When the browser gives up on the fade between two pages (it may, at any time), the
+      // page is simply there. That is no error, so it is not left to be reported as one.
+      ;["pageswap", "pagereveal"].forEach(function (name) {
+        addEventListener(name, function (e) {
+          if (e.viewTransition) e.viewTransition.ready.catch(function () {})
+        })
+      })
     </script>
+    {/* The fade between pages is switched on here, in the page itself, and not in a stylesheet.
+        A stylesheet may have to be checked with the server again when a page arrives (its
+        cached copy has gone stale), and a browser that finds the rule missing at that moment
+        gives the fade up and reports an error. */}
+    <style is:inline>
+      @media (prefers-reduced-motion: no-preference) { @view-transition { navigation: auto; } }
+    </style>
     <script type="speculationrules" is:inline set:html={speculation} />
     <slot name="head" />
   </head>
@@ -48,6 +80,30 @@ const speculation = JSON.stringify({
     <div class="ambient" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
     <SiteBar current={current} brand={brand} />
     <slot />
+    <script is:inline>
+      // An attribute cannot hold two languages at once, so the ones that carry text
+      // (aria-label, placeholder, title, and the page's own title) are switched here: once
+      // right after the page is parsed, and again when the reader changes language.
+      window.applyUiLanguage = function (lang) {
+        var en = lang === "en"
+        var root = document.documentElement
+        document.querySelectorAll("[data-i18n]").forEach(function (el) {
+          el.getAttribute("data-i18n").split(" ").forEach(function (name) {
+            if (!el.hasAttribute("data-sv-" + name)) el.setAttribute("data-sv-" + name, el.getAttribute(name) || "")
+            el.setAttribute(name, el.getAttribute("data-" + (en ? "en" : "sv") + "-" + name) || "")
+          })
+          // A control with no Swedish text of its own takes its label's language with it,
+          // so a screen reader says the label right.
+          if (el.hasAttribute("data-i18n-lang")) {
+            if (en) el.setAttribute("lang", "en")
+            else el.removeAttribute("lang")
+          }
+        })
+        if (!root.hasAttribute("data-sv-title")) root.setAttribute("data-sv-title", document.title)
+        document.title = (en && root.getAttribute("data-en-title")) || root.getAttribute("data-sv-title")
+      }
+      if (document.documentElement.dataset.ui === "en") window.applyUiLanguage("en")
+    </script>
     <script>
       import "../scripts/site"
     </script>

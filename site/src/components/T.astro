@@ -1,0 +1,13 @@
+---
+// One piece of interface text in both languages. Both are in the page, and site.css shows
+// the one that matches <html data-ui>. Give a key from lib/ui.ts, or the two texts.
+import { t, type Key } from "../lib/ui"
+interface Props {
+  k?: Key
+  sv?: string
+  en?: string
+}
+const sv = Astro.props.k ? t(Astro.props.k, "sv") : (Astro.props.sv ?? "")
+const en = Astro.props.k ? t(Astro.props.k, "en") : (Astro.props.en ?? "")
+---
+{sv === en ? sv : <Fragment><span data-l="sv">{sv}</span><span data-l="en" lang="en">{en}</span></Fragment>}

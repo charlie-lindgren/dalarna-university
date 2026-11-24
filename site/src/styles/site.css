@@ -13,10 +13,20 @@ html { -webkit-tap-highlight-color: transparent; -webkit-text-size-adjust: 100%;
 
 .sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
 
+/* ── The interface in two languages: both are in the page, one shows ── */
+html:not([data-ui="en"]) [data-l="en"], html[data-ui="en"] [data-l="sv"] { display: none; }
+
 /* ── The bar across the top: name, menu, appearance. Full width, so nothing shifts between pages. ── */
 .sitebar { position: relative; z-index: 6; display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 12px; min-height: 34px;
   padding: calc(12px + env(safe-area-inset-top, 0px)) max(20px, env(safe-area-inset-right, 0px)) 0 max(20px, env(safe-area-inset-left, 0px)); }
-.sitebar-end { display: flex; justify-content: flex-end; }
+.sitebar-end { display: flex; justify-content: flex-end; align-items: center; gap: 8px; }
+/* The language switch is the appearance switch's sibling, with letters where that has icons.
+   Which side is lit follows <html data-ui>, so it is right before any script has run. */
+.lang button { width: auto; min-width: 31px; padding: 0 7px; font: 600 12px var(--font); letter-spacing: 0.02em; }
+html:not([data-ui="en"]) .lang [data-ui-choice="sv"], html[data-ui="en"] .lang [data-ui-choice="en"] { background: var(--seg-on); color: var(--ink);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), inset 0 0.5px 0 var(--rim-top); }
+/* Without script there is nothing to switch to. */
+html:not([data-ui]) .lang { display: none; }
 .sitebar .brand { font: 600 17px/1.2 var(--serif); letter-spacing: -0.012em; color: var(--ink); text-decoration: none; }
 
 /* The menu: a segmented control whose thumb marks where you are. */
@@ -32,6 +42,7 @@ html { -webkit-tap-highlight-color: transparent; -webkit-text-size-adjust: 100%;
 /* The label and icon ride above the thumb while it slides between pages. */
 .sitemenu a[data-menu="sok"] .mi { view-transition-name: menu-sok; }
 .sitemenu a[data-menu="bladdra"] .mi { view-transition-name: menu-bladdra; }
+.sitemenu a[data-menu="graf"] .mi { view-transition-name: menu-graf; }
 .sitemenu a[data-menu="kvalitet"] .mi { view-transition-name: menu-kvalitet; }
 
 /* On a phone the menu is a tab bar along the bottom, clear of the home indicator. */
@@ -39,7 +50,7 @@ html { -webkit-tap-highlight-color: transparent; -webkit-text-size-adjust: 100%;
   body { padding-bottom: calc(86px + env(safe-area-inset-bottom, 0px)); }
   .sitebar { grid-template-columns: 1fr auto; }
   .sitemenu { position: fixed; z-index: 20; left: max(12px, env(safe-area-inset-left, 0px)); right: max(12px, env(safe-area-inset-right, 0px));
-    bottom: calc(10px + env(safe-area-inset-bottom, 0px)); display: grid; grid-template-columns: repeat(3, 1fr); padding: 4px; border-radius: 24px;
+    bottom: calc(10px + env(safe-area-inset-bottom, 0px)); display: grid; grid-template-columns: repeat(4, 1fr); padding: 4px; border-radius: 24px;
     background: linear-gradient(180deg, var(--glass-top), var(--glass-bottom)); box-shadow: 0 0 0 0.5px var(--stroke), var(--sh-l);
     -webkit-backdrop-filter: blur(24px) saturate(180%); backdrop-filter: blur(24px) saturate(180%); }
   .sitemenu a { min-height: 50px; padding: 5px 4px 4px; border-radius: 20px; font-size: 11px; }
@@ -59,24 +70,10 @@ html { -webkit-tap-highlight-color: transparent; -webkit-text-size-adjust: 100%;
 @media (prefers-reduced-motion: reduce) { .sitemenu a:active { transform: none; } }
 @media (forced-colors: active) { .sitemenu a[aria-current="page"] { outline: 2px solid CanvasText; outline-offset: -2px; } }
 
-/* A second, smaller switch of the same kind: two views of one section (Bläddra: columns or graph). */
-.viewswitch { position: relative; isolation: isolate; display: inline-flex; padding: 2px; border-radius: 10px; background: var(--fill); }
-.viewswitch a { position: relative; padding: 5px 16px; border-radius: 8px; font: 500 13px var(--font); color: var(--ink-2); text-decoration: none;
-  transition: color 150ms ease, transform 160ms var(--ease-out); -webkit-user-select: none; user-select: none; }
-.viewswitch a[aria-current="page"] { color: var(--ink); }
-.viewswitch a:active { transform: scale(0.97); }
-.viewswitch .thumb { position: absolute; inset: 0; z-index: -1; border-radius: 8px; background: var(--seg-on);
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), inset 0 0.5px 0 var(--rim-top); view-transition-name: view-thumb; }
-.viewswitch a[data-view-link="kolumner"] .vl { view-transition-name: view-kolumner; }
-.viewswitch a[data-view-link="graf"] .vl { view-transition-name: view-graf; }
-@media (hover: hover) and (pointer: fine) { .viewswitch a:not([aria-current="page"]):hover { color: var(--ink); } }
-@media (prefers-reduced-motion: reduce) { .viewswitch a:active { transform: none; } }
-
-/* ── Page to page: the page fades and the menu's thumb slides to its new place ── */
-@media (prefers-reduced-motion: no-preference) {
-  @view-transition { navigation: auto; }
-}
-::view-transition-group(menu-thumb), ::view-transition-group(view-thumb) { animation-duration: 280ms; animation-timing-function: cubic-bezier(0.32, 0.72, 0, 1); }
+/* ── Page to page: the page fades and the menu's thumb slides to its new place ──
+   The rule that switches this on (@view-transition) is written into each page's head by
+   layouts/Page.astro, not here: see the note there. */
+::view-transition-group(menu-thumb) { animation-duration: 280ms; animation-timing-function: cubic-bezier(0.32, 0.72, 0, 1); }
 
 /* ── Small shared parts ── */
 /* The four institutions keep the hues they have in the graph. A dot always sits beside a name. */

@@ -2,6 +2,7 @@
 // Two sources answer. The catalogue (every code and name) answers at once. The full-text
 // index of the plans' own words (Pagefind, built with the site) answers a moment later and
 // is listed underneath.
+import { credits, say, t as txt, uiLang } from "../lib/ui"
 import { loadCatalogue, type Entry } from "./catalogue"
 
 interface TextHit {
@@ -92,16 +93,17 @@ if (box) {
     const q = input.value.trim()
     note.hidden = !q
     if (!q) return
-    const text = inText === null ? "" : inText === 0 ? "" : ` ${inText.toLocaleString("sv-SE")} ${inText === 1 ? "plan" : "planer"} nämner det i texten.`
+    const l = uiLang()
+    const text = inText ? say.inText(inText, l) : ""
     note.textContent = !index.length
-      ? "Hämtar katalogen…"
+      ? txt("search.loading", l)
       : found === 0 && !inText
         ? inText === null
-          ? "Söker i planernas text…"
-          : `Inget matchar ”${q}”. Prova en kurskod, till exempel GDT2JM, eller en del av ett namn.`
+          ? txt("search.searchingText", l)
+          : say.noMatch(q, l)
         : found === 0
-          ? `Ingen kod och inget namn matchar.${text}`
-          : (found > hits.length ? `Visar ${hits.length} av ${found.toLocaleString("sv-SE")} träffar på kod och namn.` : `${found} ${found === 1 ? "träff" : "träffar"} på kod och namn.`) + text
+          ? txt("search.noName", l) + text
+          : (found > hits.length ? say.showing(hits.length, found, l) : say.matches(found, l)) + text
   }
 
   const searchText = async (raw: string) => {
@@ -122,8 +124,9 @@ if (box) {
     if (data.length) {
       const group = el("div", "textgroup")
       group.setAttribute("role", "group")
-      group.setAttribute("aria-label", "I planernas text")
-      group.append(el("p", "grouplabel", "I planernas text"))
+      const l = uiLang()
+      group.setAttribute("aria-label", txt("search.inText", l))
+      group.append(el("p", "grouplabel", txt("search.inText", l)))
       data.forEach((d, i) => {
         const entry = byUrl.get(d.url.slice(base.length))
         const to = landing(d)
@@ -135,8 +138,8 @@ if (box) {
         const top = el("span", "line")
         top.append(el("span", "code num", entry?.code ?? ""), el("span", "name", entry?.name ?? d.meta.title ?? ""))
         const meta = el("span", "meta num")
-        if (entry?.vilande) meta.append(el("span", "dot"), "Vilande")
-        else meta.textContent = entry?.kind === "programme" ? "Program" : (entry?.credits ?? "")
+        if (entry?.vilande) meta.append(el("span", "dot"), txt("vilande", l))
+        else meta.textContent = entry?.kind === "programme" ? txt("programme", l) : credits(entry?.credits ?? "", l)
         top.append(meta)
         const quote = el("span", "quote")
         if (to.section) quote.append(el("span", "where", to.section))
@@ -187,6 +190,7 @@ if (box) {
       .sort((a, b) => a.r - b.r || Number(a.x.e.vilande) - Number(b.x.e.vilande) || ORDER[a.x.e.kind] - ORDER[b.x.e.kind] || a.x.e.name.localeCompare(b.x.e.name, "sv"))
     hits = matched.slice(0, LIMIT).map((f) => f.x)
     found = matched.length
+    const l = uiLang()
 
     hits.forEach((x, i) => {
       const a = el("a", "hit")
@@ -201,8 +205,8 @@ if (box) {
       else name.textContent = x.e.name
       a.append(name)
       const meta = el("span", "meta num")
-      if (x.e.vilande) meta.append(el("span", "dot"), "Vilande")
-      else meta.textContent = x.e.kind === "course" ? x.e.credits : x.e.kind === "programme" ? "Program" : "Ämne"
+      if (x.e.vilande) meta.append(el("span", "dot"), txt("vilande", l))
+      else meta.textContent = x.e.kind === "course" ? credits(x.e.credits, l) : txt(x.e.kind === "programme" ? "programme" : "subject", l)
       a.append(meta)
       point(a)
       list.append(a)
@@ -252,6 +256,8 @@ if (box) {
   // With a mouse and keyboard the field is ready at once. On a phone it waits for a tap, so
   // the keyboard does not cover the page unasked.
   if (matchMedia("(hover: hover) and (pointer: fine)").matches) input.focus({ preventScroll: true })
+  // Another interface language: what is listed is written again in it.
+  document.addEventListener("uichange", () => input.value && run())
   // Coming back with Back, the browser restores what was typed; show its results again.
   addEventListener("pageshow", () => input.value && run())
 }

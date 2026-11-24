@@ -4,83 +4,83 @@
 // columns are screens you push into and swipe back from.
 import "../../styles/browse.css"
 import Page from "../../layouts/Page.astro"
-import BrowseViews from "../../components/BrowseViews.astro"
+import T from "../../components/T.astro"
 import { link } from "../../lib/site"
-import { siteData, sv } from "../../lib/site-data"
+import { siteData } from "../../lib/site-data"
+import { attrs, instShort, num, say } from "../../lib/ui"
 const { institutions, plans, subjects, scrapeDate } = siteData()
 ---
 
-<Page title="Bläddra" current="bladdra">
+<Page title="Bläddra" titleEn="Browse" current="bladdra">
   <main class="browse">
-    <h1 class="sr">Bläddra bland kursplaner och program</h1>
-    <div class="viewrow"><BrowseViews current="kolumner" /></div>
+    <h1 class="sr"><T k="browse.h1" /></h1>
 
-  <div class="glass large browser" data-browser data-catalogue={link("/katalog.json")} data-base={link("")}>
-    <div class="cols">
-      <section class="pane p1" aria-label="Institutioner">
-        <header class="panehead"><h2>Institutioner</h2></header>
-        <div class="items" role="tablist" aria-orientation="vertical" aria-label="Institutioner">
+    <div class="glass large browser" data-browser data-catalogue={link("/katalog.json")} data-base={link("")}>
+      <div class="cols">
+        <section class="pane p1" {...attrs({ "aria-label": "schools" }, { lang: true })}>
+          <header class="panehead"><h2><T k="schools" /></h2></header>
+          <div class="items" role="tablist" aria-orientation="vertical" {...attrs({ "aria-label": "schools" }, { lang: true })}>
+            {
+              institutions.map((i, n) => (
+                <button type="button" class="item" role="tab" id={`tab-${i.inst}`} aria-controls={`panel-${i.inst}`} aria-selected={n === 0 ? "true" : "false"} tabindex={n === 0 ? 0 : -1} data-inst={i.inst}>
+                  <span class="idot" aria-hidden="true" />
+                  <span class="grow">
+                    <span class="t"><T sv={instShort(i.inst, "sv")} en={instShort(i.inst, "en")} /></span>
+                    <span class="m num"><T sv={say.holds(i.courses, i.programmes.length, "sv")} en={say.holds(i.courses, i.programmes.length, "en")} /></span>
+                  </span>
+                  <svg class="go" viewBox="0 0 8 14" aria-hidden="true"><path d="m1.5 1.5 5 5.5-5 5.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" /></svg>
+                </button>
+              ))
+            }
+          </div>
+        </section>
+
+        <section class="pane p2" {...attrs({ "aria-label": "browse.pane2" })}>
           {
             institutions.map((i, n) => (
-              <button type="button" class="item" role="tab" id={`tab-${i.inst}`} aria-controls={`panel-${i.inst}`} aria-selected={n === 0 ? "true" : "false"} tabindex={n === 0 ? 0 : -1} data-inst={i.inst}>
-                <span class="idot" aria-hidden="true" />
-                <span class="grow">
-                  <span class="t">{i.short}</span>
-                  <span class="m num">{sv(i.courses)} kursplaner, {i.programmes.length} program</span>
-                </span>
-                <svg class="go" viewBox="0 0 8 14" aria-hidden="true"><path d="m1.5 1.5 5 5.5-5 5.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" /></svg>
-              </button>
+              <div class="panel" role="tabpanel" id={`panel-${i.inst}`} aria-labelledby={`tab-${i.inst}`} hidden={n !== 0} data-inst={i.inst}>
+                <header class="panehead">
+                  <button type="button" class="back" data-back="0" {...attrs({ "aria-label": "browse.back.schools" }, { lang: true })}><svg viewBox="0 0 8 14" aria-hidden="true"><path d="M6.5 1.5 1.5 7l5 5.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" /></svg><T k="schools" /></button>
+                  <h2>{i.inst}</h2>
+                </header>
+                <div class="items">
+                  <a class="item leaf" href={link(`/kvalitet/#${i.inst.toLowerCase()}`)}>
+                    <span class="grow"><span class="t"><T k="browse.quality" /></span></span>
+                    <span class="m num"><span class="dot" aria-hidden="true" /><T sv={num(i.notes, "sv")} en={num(i.notes, "en")} /></span>
+                  </a>
+                  <p class="grouplabel"><T k="subjects" /></p>
+                  {i.subjects.map((s) => (
+                    <a class="item drill" href={link(s.url)} data-subject={s.url} data-slug={s.slug}>
+                      <span class="grow"><span class="t">{s.title}</span></span>
+                      <span class="m num">{s.count}</span>
+                      <svg class="go" viewBox="0 0 8 14" aria-hidden="true"><path d="m1.5 1.5 5 5.5-5 5.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" /></svg>
+                    </a>
+                  ))}
+                  <p class="grouplabel"><T k="programmes" /></p>
+                  {i.programmes.map((p) => (
+                    <a class="item leaf" href={link(p.url)}>
+                      <span class="code num">{p.code}</span>
+                      <span class="grow"><span class="t">{p.title}</span></span>
+                    </a>
+                  ))}
+                </div>
+              </div>
             ))
           }
-        </div>
-      </section>
+        </section>
 
-      <section class="pane p2" aria-label="Ämnen och program">
-        {
-          institutions.map((i, n) => (
-            <div class="panel" role="tabpanel" id={`panel-${i.inst}`} aria-labelledby={`tab-${i.inst}`} hidden={n !== 0} data-inst={i.inst}>
-              <header class="panehead">
-                <button type="button" class="back" data-back="0" aria-label="Tillbaka till Institutioner"><svg viewBox="0 0 8 14" aria-hidden="true"><path d="M6.5 1.5 1.5 7l5 5.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" /></svg>Institutioner</button>
-                <h2>{i.inst}</h2>
-              </header>
-              <div class="items">
-                <a class="item leaf" href={link(`/kvalitet/#${i.inst.toLowerCase()}`)}>
-                  <span class="grow"><span class="t">Kvalitetsgranskning</span></span>
-                  <span class="m num"><span class="dot" aria-hidden="true" />{sv(i.notes)}</span>
-                </a>
-                <p class="grouplabel">Ämnen</p>
-                {i.subjects.map((s) => (
-                  <a class="item drill" href={link(s.url)} data-subject={s.url} data-slug={s.slug}>
-                    <span class="grow"><span class="t">{s.title}</span></span>
-                    <span class="m num">{s.count}</span>
-                    <svg class="go" viewBox="0 0 8 14" aria-hidden="true"><path d="m1.5 1.5 5 5.5-5 5.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" /></svg>
-                  </a>
-                ))}
-                <p class="grouplabel">Program</p>
-                {i.programmes.map((p) => (
-                  <a class="item leaf" href={link(p.url)}>
-                    <span class="code num">{p.code}</span>
-                    <span class="grow"><span class="t">{p.title}</span></span>
-                  </a>
-                ))}
-              </div>
-            </div>
-          ))
-        }
-      </section>
-
-      <section class="pane p3" aria-label="Kursplaner">
-        <header class="panehead">
-          <button type="button" class="back" data-back="1" aria-label="Tillbaka till Ämnen"><svg viewBox="0 0 8 14" aria-hidden="true"><path d="M6.5 1.5 1.5 7l5 5.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" /></svg>Ämnen</button>
-          <h2 data-subject-title>Kursplaner</h2>
-          <button type="button" class="pill toggle" aria-pressed="true" data-vilande>Vilande</button>
-        </header>
-        <div class="items" data-courses aria-live="polite"><p class="empty">Välj ett ämne för att se dess kursplaner.</p></div>
-      </section>
+        <section class="pane p3" {...attrs({ "aria-label": "courses" })}>
+          <header class="panehead">
+            <button type="button" class="back" data-back="1" {...attrs({ "aria-label": "browse.back.subjects" }, { lang: true })}><svg viewBox="0 0 8 14" aria-hidden="true"><path d="M6.5 1.5 1.5 7l5 5.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" /></svg><T k="subjects" /></button>
+            <h2 data-subject-title><T k="courses" /></h2>
+            <button type="button" class="pill toggle" aria-pressed="true" data-vilande><T k="vilande" /></button>
+          </header>
+          <div class="items" data-courses aria-live="polite"><p class="empty"><T k="browse.pick" /></p></div>
+        </section>
+      </div>
     </div>
-  </div>
 
-    <p class="foot">{sv(plans)} planer i {subjects} ämnen, hämtade från <a href="https://www.du.se/sv/utbildning/" rel="noopener">du.se</a> den {scrapeDate}.</p>
+    <p class="foot"><T sv={say.plansInSubjects(plans, subjects, "sv")} en={say.plansInSubjects(plans, subjects, "en")} /><T k="fetched.from" /><a href="https://www.du.se/sv/utbildning/" rel="noopener">du.se</a><T sv={say.onDate(scrapeDate.sv, "sv")} en={say.onDate(scrapeDate.en, "en")} /></p>
   </main>
 
   <script>

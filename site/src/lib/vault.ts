@@ -11,6 +11,7 @@
 import fs from "node:fs"
 import path from "node:path"
 import matter from "gray-matter"
+import { instName } from "./ui.ts"
 
 export const VAULT_DIR = path.resolve(
   process.env.VAULT_DIR ?? path.join(process.cwd(), "..", "vault-dalarna-university"),
@@ -19,12 +20,8 @@ export const VAULT_DIR = path.resolve(
 export const INSTITUTIONS = ["IIT", "IHV", "IKS", "ISLL"] as const
 export type Inst = (typeof INSTITUTIONS)[number]
 
-export const INSTITUTION_NAMES: Record<Inst, string> = {
-  IIT: "Institutionen för information och teknik",
-  IHV: "Institutionen för hälsa och välfärd",
-  IKS: "Institutionen för kultur och samhälle",
-  ISLL: "Institutionen för språk, litteratur och lärande",
-}
+/** The institutions' Swedish names. Both languages are in lib/ui.ts. */
+export const INSTITUTION_NAMES = Object.fromEntries(INSTITUTIONS.map((i) => [i, instName(i, "sv")])) as Record<Inst, string>
 
 export type Kind =
   | "home"

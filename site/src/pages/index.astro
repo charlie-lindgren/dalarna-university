@@ -3,38 +3,40 @@
 // underneath for when you would rather browse.
 import "../styles/home.css"
 import Page from "../layouts/Page.astro"
-import { link, SITE_NAME } from "../lib/site"
-import { siteData, sv } from "../lib/site-data"
+import T from "../components/T.astro"
+import { link } from "../lib/site"
+import { siteData } from "../lib/site-data"
+import { attrs, instName, say } from "../lib/ui"
 const { institutions, plans, scrapeDate } = siteData()
 ---
 
-<Page title={SITE_NAME} current="sok" brand={false}>
+<Page current="sok" brand={false}>
   <main class="home">
     <header class="intro">
-      <h1 class="title">{SITE_NAME}</h1>
-      <p class="subtitle">Kursplaner och utbildningsplaner</p>
+      <h1 class="title"><T k="site.name" /></h1>
+      <p class="subtitle"><T k="site.sub" /></p>
     </header>
 
     <div class="glass large finder" data-search data-catalogue={link("/katalog.json")} data-base={link("")}>
       <label class="field">
         <svg class="glyph" viewBox="0 0 18 18" aria-hidden="true"><circle cx="7.6" cy="7.6" r="5.1" fill="none" stroke="currentColor" stroke-width="1.7"></circle><path d="m11.6 11.6 4 4" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"></path></svg>
-        <span class="sr">Sök kursplan, program eller ämne</span>
-        <input type="search" role="combobox" aria-expanded="false" aria-controls="hits" aria-autocomplete="list" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" enterkeyhint="go" placeholder="Sök på kurskod eller namn" />
+        <span class="sr"><T k="search.label" /></span>
+        <input type="search" role="combobox" aria-expanded="false" aria-controls="hits" aria-autocomplete="list" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" enterkeyhint="go" {...attrs({ placeholder: "search.placeholder" })} />
         <kbd aria-hidden="true">/</kbd>
       </label>
-      <div class="hits" id="hits" role="listbox" aria-label="Träffar" hidden></div>
+      <div class="hits" id="hits" role="listbox" {...attrs({ "aria-label": "search.hits" })} hidden></div>
       <p class="hitnote" role="status" hidden></p>
     </div>
 
     <section aria-labelledby="home-inst">
-      <h2 class="section-label" id="home-inst">Institutioner</h2>
+      <h2 class="section-label" id="home-inst"><T k="schools" /></h2>
       <div class="glass list">
         {
           institutions.map((i) => (
             <a class="row" href={link(`/bladdra/#${i.inst.toLowerCase()}`)} data-inst={i.inst}>
               <span class="idot" aria-hidden="true" />
-              <span class="iname">{i.name}</span>
-              <span class="imeta num">{sv(i.courses)} kursplaner, {i.programmes.length} program</span>
+              <span class="iname"><T sv={instName(i.inst, "sv")} en={instName(i.inst, "en")} /></span>
+              <span class="imeta num"><T sv={say.holds(i.courses, i.programmes.length, "sv")} en={say.holds(i.courses, i.programmes.length, "en")} /></span>
               <svg class="go" viewBox="0 0 8 14" aria-hidden="true"><path d="m1.5 1.5 5 5.5-5 5.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" /></svg>
             </a>
           ))
@@ -42,7 +44,7 @@ const { institutions, plans, scrapeDate } = siteData()
       </div>
     </section>
 
-    <p class="foot">{sv(plans)} planer, hämtade från <a href="https://www.du.se/sv/utbildning/" rel="noopener">du.se</a> den {scrapeDate}.</p>
+    <p class="foot"><T sv={say.plans(plans, "sv")} en={say.plans(plans, "en")} /><T k="fetched.from" /><a href="https://www.du.se/sv/utbildning/" rel="noopener">du.se</a><T sv={say.onDate(scrapeDate.sv, "sv")} en={say.onDate(scrapeDate.en, "en")} /></p>
   </main>
 
   <script>

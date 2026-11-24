@@ -1,0 +1,54 @@
+---
+// Graf: every institution, subject, programme and course plan as a point, laid out when the
+// site is built. The same structure as Bläddra, seen whole.
+import "../../styles/graph.css"
+import Page from "../../layouts/Page.astro"
+import T from "../../components/T.astro"
+import { link } from "../../lib/site"
+import { INSTITUTIONS } from "../../lib/vault"
+import { attrs, instName } from "../../lib/ui"
+---
+
+<Page title="Graf" titleEn="Graph" current="graf">
+  <main class="graphpage">
+    <h1 class="sr"><T k="graph.h1" /></h1>
+
+    <div class="glass large stage" data-graph data-src={link("/graf/data.json")} data-base={link("")}>
+      <canvas role="img" {...attrs({ "aria-label": "graph.canvas" }, { lang: true })}></canvas>
+
+      <div class="gbar gzoom" role="group" {...attrs({ "aria-label": "graph.zoom" }, { lang: true })}>
+        <button type="button" data-zoom="out" {...attrs({ "aria-label": "graph.zoom.out" }, { lang: true })}><svg viewBox="0 0 14 14" aria-hidden="true"><path d="M3 7h8" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" /></svg></button>
+        <button type="button" data-zoom="in" {...attrs({ "aria-label": "graph.zoom.in" }, { lang: true })}><svg viewBox="0 0 14 14" aria-hidden="true"><path d="M3 7h8M7 3v8" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" /></svg></button>
+        <button type="button" data-zoom="fit" {...attrs({ "aria-label": "graph.zoom.fit" }, { lang: true })}><svg viewBox="0 0 14 14" aria-hidden="true"><path d="M2.5 5.5v-3h3M11.5 5.5v-3h-3M2.5 8.5v3h3M11.5 8.5v3h-3" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" /></svg></button>
+      </div>
+
+      <div class="gbar glegend" role="group" {...attrs({ "aria-label": "graph.show" }, { lang: true })}>
+        {
+          INSTITUTIONS.map((i) => (
+            <button type="button" data-only={i} data-inst={i} aria-pressed="false" {...attrs({ title: [instName(i, "sv"), instName(i, "en")] }, { lang: true })}><span class="idot" aria-hidden="true" />{i}</button>
+          ))
+        }
+        <button type="button" data-vilande aria-pressed="true"><span class="vdot" aria-hidden="true"></span><T k="vilande" /></button>
+      </div>
+      <p class="gbar gkey" aria-hidden="true">
+        <span><i class="k-hub"></i><T k="subject" /></span>
+        <span><i class="k-prog"></i><T k="programme" /></span>
+        <span><i class="k-plan"></i><T k="course" /></span>
+      </p>
+
+      <div class="gcard" data-card hidden>
+        <div>
+          <p class="gcard-title" data-card-title></p>
+          <p class="gcard-sub" data-card-sub></p>
+        </div>
+        <a class="pill tint" data-card-link href="#"><T k="open" /></a>
+      </div>
+      <p class="ghint" data-hint><T k="graph.hint" /></p>
+      <div class="tip" role="tooltip" data-tip></div>
+    </div>
+  </main>
+
+  <script>
+    import "../../scripts/graph"
+  </script>
+</Page>

@@ -22,7 +22,7 @@ for (const b of buttons) {
     }
     store.set("theme", choice === "auto" ? null : choice)
     // One cross-fade of the whole page; glass gradients cannot animate property by property.
-    if (document.startViewTransition && !reduceMotion()) document.startViewTransition(apply)
+    if (document.startViewTransition && !reduceMotion()) document.startViewTransition(apply).ready.catch(() => {})
     else apply()
   })
 }

@@ -1,56 +1,49 @@
-/* Notes that do not yet have a design of their own (programme plans, subject and institution
-   lists, analysis notes): one sheet in the shared shell, the note's text in the serif. */
+/* The vault's own list and analysis notes: one sheet in the shared shell, the note's text in
+   the serif. */
 
 .doc { max-width: 1000px; margin: 0 auto; padding: 0 20px 64px; }
 .doc *, .doc *::before, .doc *::after { box-sizing: border-box; }
-.doc :is(h1, h2, p, dl, dd) { margin: 0; }
+.doc :is(h1, h2, p) { margin: 0; }
 .doc a { color: var(--tint); text-decoration: none; text-underline-offset: 2px; }
 .doc .top { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px 16px; min-height: 46px; padding-top: 16px; }
 .doc .crumbs { display: flex; flex-wrap: wrap; align-items: center; gap: 2px 7px; font-size: 13px; }
 .doc .crumbs a { color: var(--ink-2); }
 .doc .crumbs .sep { color: var(--ink-3); }
-.doc .pill.glass { color: var(--ink); }
-.doc .pill svg.out { width: 11px; height: 11px; color: var(--ink-3); }
 
 .doc .sheet { margin-top: 10px; padding: clamp(22px, 5vw, 52px); -webkit-backdrop-filter: none; backdrop-filter: none; }
-.doc .code { font: 600 15px var(--font); letter-spacing: 0.05em; color: var(--tint); }
-.doc h1 { margin-top: 6px; font: 600 34px/1.1 var(--serif); letter-spacing: -0.02em; text-wrap: balance; }
-.doc .code + h1 { margin-top: 8px; }
-.doc .status { display: inline-flex; align-items: center; gap: 7px; height: 26px; margin-top: 14px; padding: 0 11px; border-radius: 999px; background: var(--fill); font-size: 12px; font-weight: 500; }
-.doc .meta { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 16px 28px; margin-top: 26px; }
-.doc .meta .wide { grid-column: 1 / -1; }
-.doc .meta dt { font-size: 12px; color: var(--ink-2); }
-.doc .meta dd { margin-top: 2px; font-size: 14px; }
+.doc h1 { font: 600 34px/1.1 var(--serif); letter-spacing: -0.02em; text-wrap: balance; }
 
 /* Running text keeps a readable measure; tables and callouts may use the sheet's full width. */
 .doc .prose { margin-top: 28px; font: 400 17px/1.6 var(--serif); overflow-wrap: break-word; }
-.doc .prose > :is(p, ul, ol, blockquote, h2, h3, h4) { max-width: 66ch; }
+.doc .prose > :is(p, ul, ol, blockquote, h2, h3, h4),
+.doc .prose > div[data-l] > :is(p, ul, ol, blockquote, h2, h3, h4) { max-width: 66ch; }
 .doc .prose p { margin: 0 0 0.8em; }
 .doc .prose :is(ul, ol) { margin: 0 0 0.8em; padding-left: 1.3em; }
 .doc .prose li { margin: 0.35em 0; }
 .doc .prose li > p { margin: 0; }
 .doc .prose li::marker { color: var(--ink-3); }
-.doc :is(.prose h2, section > h2, .backlinks h2) { margin: 40px 0 12px; font: 600 22px/1.2 var(--serif); letter-spacing: -0.012em; }
+.doc :is(.prose h2, .backlinks h2) { margin: 40px 0 12px; font: 600 22px/1.2 var(--serif); letter-spacing: -0.012em; }
 .doc .prose :is(h3, h4, h5) { margin: 1.4em 0 0.4em; font: 600 17px/1.3 var(--serif); }
 .doc .prose :is(h1, h2, h3, h4, h5):empty { display: none; }
 .doc .prose blockquote { margin: 0 0 0.8em; color: var(--ink-2); }
 .doc .prose code { font: 0.88em ui-monospace, "SF Mono", Menlo, monospace; background: var(--fill); padding: 1px 5px; border-radius: 5px; }
 .doc .prose strong { font-weight: 600; }
 .doc .unresolved { color: inherit; }
-.doc :is(.prose, .notes) table { display: block; max-width: 100%; overflow-x: auto; border-collapse: collapse; margin: 0 0 0.8em; font: 400 13px/1.4 var(--font); }
-.doc :is(.prose, .notes) :is(th, td) { padding: 7px 14px 7px 0; text-align: left; vertical-align: top; box-shadow: inset 0 -0.5px 0 var(--sep); }
-.doc :is(.prose, .notes) th { font-weight: 600; color: var(--ink-2); white-space: nowrap; }
+.doc .prose table { display: block; max-width: 100%; overflow-x: auto; border-collapse: collapse; margin: 0 0 0.8em; font: 400 13px/1.4 var(--font); }
+.doc .prose :is(th, td) { padding: 7px 14px 7px 0; text-align: left; vertical-align: top; box-shadow: inset 0 -0.5px 0 var(--sep); }
+.doc .prose th { font-weight: 600; color: var(--ink-2); white-space: nowrap; }
 
-/* Callouts from the notes (Obsidian's "> [!type]"), and the plan's own quality notes. */
-.doc :is(.callout, .notes) { margin: 0 0 1em; border-radius: 14px; background: var(--fill); font: 400 14px/1.45 var(--font); }
-.doc .notes { margin-top: 26px; }
-.doc :is(.callout-title, .notes > summary) { display: flex; align-items: center; gap: 10px; min-height: 44px; padding: 11px 16px; font-size: 15px; font-weight: 500; }
-.doc :is(summary.callout-title, .notes > summary) { cursor: pointer; list-style: none; border-radius: inherit; }
-.doc :is(summary.callout-title, .notes > summary)::-webkit-details-marker { display: none; }
+/* Callouts from the notes (Obsidian's "> [!type]"). */
+.doc .callout { margin: 0 0 1em; border-radius: 14px; background: var(--fill); font: 400 14px/1.45 var(--font); }
+.doc .callout-title { display: flex; align-items: center; gap: 10px; min-height: 44px; padding: 11px 16px; font-size: 15px; font-weight: 500; }
+/* The row gets the box's corners by value: `inherit` would take them from the disclosure's
+   inner wrapper, which has none, so the hover fill showed square corners. */
+.doc summary.callout-title { cursor: pointer; list-style: none; border-radius: 14px; }
+.doc summary.callout-title::-webkit-details-marker { display: none; }
 .doc .callout-title-icon { display: flex; color: var(--ink-3); }
 .doc .callout-fold-icon { display: flex; margin-left: auto; color: var(--ink-3); transition: rotate 200ms var(--ease-out); }
 .doc details.callout:not([open]) .callout-fold-icon { rotate: -90deg; }
-.doc .callout-content, .doc .notes > table { padding: 0 16px 14px; }
+.doc .callout-content { padding: 0 16px 14px; }
 .doc .callout-content > :last-child { margin-bottom: 0; }
 .doc a.download-xlsx { display: inline-flex; align-items: center; gap: 7px; height: 30px; margin: 0 0 14px; padding: 0 14px; border-radius: 999px; background: var(--fill);
   font: 500 13px var(--font); color: var(--ink); transition: transform 160ms var(--ease-out); }
