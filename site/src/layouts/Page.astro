@@ -34,6 +34,17 @@ const speculation = JSON.stringify({
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content" />
+    {/* The page's own background, known before any file has loaded. Otherwise a browser that
+        paints a frame while the stylesheet is still on its way (as happens when its cached
+        copy has gone stale) paints its default white, which shows as a flash between pages.
+        The colours are base.css's --bg; the reader's own choice (data-theme) wins over the
+        system's, as in base.css. */}
+    <meta name="color-scheme" content="light dark" />
+    <style is:inline>
+      html { background: #EDEFF4; }
+      @media (prefers-color-scheme: dark) { html:not([data-theme="light"]) { background: #111318; } }
+      html[data-theme="dark"] { background: #111318; }
+    </style>
     <title>{full("sv")}</title>
     <link rel="icon" type="image/svg+xml" href={link("/favicon.svg")} />
     {base.endsWith("/next") && <meta name="robots" content="noindex" />}
