@@ -1,0 +1,131 @@
+---
+// Every note that does not have a design of its own: the subject and institution lists and
+// the analysis notes. They sit in the same shell, on one sheet, with the note's own text set
+// as written. Plans, the home page, the browser and the dashboard have their own pages.
+import "../styles/doc.css"
+import Page from "../layouts/Page.astro"
+import { getVault } from "../lib/vault"
+import { renderMarkdown, withoutH1 } from "../lib/markdown"
+import { link } from "../lib/site"
+
+export function getStaticPaths() {
+  return getVault()
+    .docs.filter((doc) => doc.kind !== "course" && doc.kind !== "programme" && doc.kind !== "home")
+    .map((doc) => ({
+      params: { path: doc.url.replace(/^\/|\/$/g, "") || undefined },
+      props: { file: doc.file },
+    }))
+}
+
+const vault = getVault()
+const doc = vault.byFile.get(Astro.props.file)!
+const isPlan = doc.plan !== null
+const inst = doc.inst?.toLowerCase()
+
+// Where the note sits, as places in the designed pages: the browser for plans and lists,
+// the dashboard for analysis notes.
+const trail: { label: string; href: string }[] =
+  doc.kind === "analysis"
+    ? [{ label: "Kvalitet", href: "/kvalitet/" }, { label: doc.inst!, href: `/kvalitet/#${inst}/${doc.url.split("/")[3]}` }]
+    : doc.kind === "analysisHub"
+      ? [{ label: "Kvalitet", href: `/kvalitet/#${inst}` }]
+      : doc.kind === "institution"
+        ? [{ label: "Bläddra", href: `/bladdra/#${inst}` }]
+        : [{ label: doc.inst!, href: `/bladdra/#${inst}` }]
+const section = doc.kind === "analysis" || doc.kind === "analysisHub" ? "kvalitet" : doc.kind === "programme" ? undefined : "bladdra"
+const heading = isPlan ? `${doc.code} ${doc.title}` : doc.title
+
+const body = isPlan ? null : await renderMarkdown(withoutH1(doc.body), doc)
+const lead = doc.plan?.leadExtra ? await renderMarkdown(doc.plan.leadExtra, doc) : null
+const sv = doc.plan ? await renderMarkdown(doc.plan.sv, doc) : null
+const en = doc.plan?.en ? await renderMarkdown(doc.plan.en, doc) : null
+const facts = (doc.plan?.facts ?? []).filter((f) => !["Programnamn", "Programkod", "Kursnamn"].includes(f.label))
+const backlinks = doc.backlinks.map((f) => vault.byFile.get(f)!).filter((b) => b.kind !== "analysis" && b.kind !== "analysisHub").sort((a, b) => a.title.localeCompare(b.title, "sv"))
+const noteWord = (n: number) => `${n} ${n === 1 ? "kvalitetsnotering" : "kvalitetsnoteringar"}`
+---
+
+<Page title={heading} current={section}>
+  <main class="doc">
+    <div class="top">
+      <nav class="crumbs" aria-label="Brödsmulor">
+        {
+          trail.map((t, i) => (
+            <>
+              {i > 0 && <span class="sep" aria-hidden="true">›</span>}
+              <a href={link(t.href)}>{t.label}</a>
+            </>
+          ))
+        }
+      </nav>
+      {
+        doc.plan?.sourceUrl && (
+          <a class="pill glass" href={doc.plan.sourceUrl} rel="noopener">
+            Öppna på du.se
+            <svg class="out" viewBox="0 0 12 12" aria-hidden="true"><path d="M4.5 2H2v8h8V7.5M7 2h3v3M10 2 5.5 6.5" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" /></svg>
+          </a>
+        )
+      }
+    </div>
+
+    <article class="glass large sheet">
+      <header>
+        {isPlan && <p class="code num">{doc.code}</p>}
+        <h1>{doc.title}</h1>
+        {doc.status !== "active" && isPlan && <p class="status"><span class="dot" />{doc.status === "vilande" ? "Vilande" : "Ej aktiv"}</p>}
+        {
+          facts.length > 0 && (
+            <dl class="meta">
+              {facts.map((f) => (
+                <div class:list={{ wide: f.value.length > 44 }}>
+                  <dt>{f.label}</dt>
+                  <dd>{f.value}</dd>
+                </div>
+              ))}
+            </dl>
+          )
+        }
+      </header>
+
+      {lead && <div class="prose" set:html={lead} />}
+      {
+        doc.findings.length > 0 && (
+          <details class="notes">
+            <summary><span class="dot" aria-hidden="true" />{noteWord(doc.findings.length)}</summary>
+            <table>
+              <thead><tr><th>Område</th><th>Problem</th><th>Detalj</th></tr></thead>
+              <tbody>
+                {doc.findings.map((f) => (
+                  <tr><td>{f.area}</td><td>{f.problem}</td><td>{f.detail}</td></tr>
+                ))}
+              </tbody>
+            </table>
+          </details>
+        )
+      }
+
+      {sv && <div class="prose" data-plan-text="sv" set:html={sv} />}
+      {
+        en && (
+          <section lang="en">
+            <h2>English Version</h2>
+            <div class="prose" data-plan-text="en" set:html={en} />
+          </section>
+        )
+      }
+      {body && <div class="prose" set:html={body} />}
+
+      {
+        backlinks.length > 0 && (
+          <aside class="backlinks">
+            <h2>Länkar hit</h2>
+            <ul>
+              {backlinks.map((b) => (
+                <li><a href={link(b.url)}>{b.code && b.kind !== "subject" ? `${b.code} ${b.title}` : b.title}</a></li>
+              ))}
+            </ul>
+          </aside>
+        )
+      }
+    </article>
+  </main>
+</Page>

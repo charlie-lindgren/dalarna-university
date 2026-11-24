@@ -1,0 +1,281 @@
+/* The plan page, the design Charlie chose as "Reader" (24 November 2026):
+   one sheet in the system serif on the blue house scheme, a section list that follows the
+   reader, quality notes behind disclosures, and three views of the text: Svenska, English
+   or Båda (side by side).
+
+   The view is <html data-view="sv|en|both">, set before first paint. With no script at all
+   the attribute is absent: both languages then show, stacked, and the switch is hidden. */
+
+:root { interpolate-size: allow-keywords; }
+html { scroll-padding-top: 76px; }
+
+.plan { --frame: 1080px; position: relative; padding-bottom: 64px; overflow-x: clip; }
+[data-view="both"] .plan { --frame: 1400px; }
+.plan *, .plan *::before, .plan *::after { box-sizing: border-box; }
+.plan a { color: var(--tint); text-decoration: none; text-underline-offset: 2px; }
+.plan :is(h1, h2, h3, p, ul, dl, dd) { margin: 0; }
+.plan ul { padding: 0; list-style: none; }
+
+/* Breadcrumbs, status, small parts */
+.plan .crumbs { display: flex; flex-wrap: wrap; align-items: center; gap: 2px 7px; font-size: 13px; }
+.plan .crumbs a { color: var(--ink-2); }
+.plan .crumbs .sep { color: var(--ink-3); }
+.plan .status { display: inline-flex; align-items: center; gap: 7px; height: 26px; padding: 0 11px; border-radius: 999px;
+  background: var(--fill); font-size: 12px; font-weight: 500; }
+.plan .dot { width: 7px; height: 7px; border-radius: 50%; flex: none; background: var(--orange); }
+.plan .pill svg.out { width: 11px; height: 11px; color: var(--ink-3); }
+.plan .pill.glass { color: var(--ink); }
+
+/* Plan text as it comes out of the markdown renderer */
+.plan .prose { overflow-wrap: break-word; }
+.plan .prose > :first-child { margin-top: 0; }
+.plan .prose > :last-child { margin-bottom: 0; }
+.plan .prose p { margin: 0 0 0.8em; }
+.plan .prose :is(ul, ol) { margin: 0 0 0.8em; padding-left: 1.3em; list-style: revert; }
+.plan .prose li { margin: 0.35em 0; }
+.plan .prose li > p { margin: 0; }
+.plan .prose li::marker { color: var(--ink-3); }
+.plan .prose :is(h3, h4, h5) { font: 600 15px/1.3 var(--font); margin: 1.3em 0 0.4em; }
+/* The scrape sometimes leaves a heading with no text. Hiding the empty element drops no words. */
+.plan .prose :is(h1, h2, h3, h4, h5):empty { display: none; }
+.plan .prose table { display: block; overflow-x: auto; border-collapse: collapse; font: 400 13px/1.4 var(--font); margin: 0 0 0.8em; }
+.plan .prose :is(th, td) { padding: 6px 12px 6px 0; text-align: left; vertical-align: top; box-shadow: inset 0 -0.5px 0 var(--sep); }
+.plan .prose code { font: 0.92em ui-monospace, "SF Mono", Menlo, monospace; background: var(--fill); padding: 1px 5px; border-radius: 5px; }
+
+/* Disclosure: opens on the drawer curve, closes faster, content fades a beat behind */
+.plan .disc > summary { list-style: none; display: flex; align-items: center; gap: 10px; min-height: 44px; padding: 11px 16px;
+  cursor: pointer; font-size: 15px; font-weight: 500; border-radius: inherit; transition: transform 160ms var(--ease-out); }
+.plan .disc > summary::-webkit-details-marker { display: none; }
+.plan .disc > summary:active { transform: scale(0.985); }
+.plan .disc .chev { width: 11px; height: 11px; flex: none; color: var(--ink-3); rotate: -90deg; }
+.plan .disc[open] > summary .chev { rotate: 0deg; }
+.plan .disc::details-content { overflow: clip; contain: layout; opacity: 0; }
+.plan .disc:not([open])::details-content { block-size: 0; }
+.plan .disc[open]::details-content { opacity: 1; }
+@media (prefers-reduced-motion: no-preference) {
+  .plan .disc .chev { transition: rotate 200ms var(--ease-out); }
+  .plan .disc::details-content { transition: block-size 180ms var(--ease-out), opacity 120ms ease, content-visibility 180ms allow-discrete; }
+  .plan .disc[open]::details-content { transition: block-size 280ms var(--ease-drawer), opacity 200ms ease 70ms, content-visibility 280ms allow-discrete; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .plan .disc::details-content { transition: opacity 150ms ease, content-visibility 150ms allow-discrete; }
+  .plan .disc > summary:active { transform: none; }
+}
+
+/* Quality notes */
+.plan .notelist { display: grid; gap: 12px; font: 400 13px/1.45 var(--font); }
+.plan .notelist li { display: grid; grid-template-columns: 7px minmax(0, 1fr); gap: 10px; }
+.plan .notelist .dot { margin-top: 6px; }
+.plan .note-head { display: flex; flex-wrap: wrap; gap: 0 8px; }
+.plan .note-head > :first-child { font-weight: 600; color: var(--ink); }
+.plan .note-head a { color: var(--ink); }
+.plan .note-problem { color: var(--ink-2); }
+.plan .note-detail { color: var(--ink-2); margin-top: 2px; overflow-wrap: anywhere; }
+
+/* Programmes that include the course */
+.plan .programmes .pcode { flex: 0 0 64px; font-weight: 600; font-size: 13px; }
+.plan .programmes .pname { flex: 1; font-size: 15px; }
+.plan .programmes .go { width: 7px; height: 12px; flex: none; color: var(--ink-3); }
+
+/* Sticky bar: clear until content scrolls under it, then glass.
+   scroll-state queries where the browser has them; wire.ts adds .is-stuck elsewhere. */
+.plan .bar { position: sticky; top: 0; z-index: 5; container-type: scroll-state; container-name: bar; }
+.plan .bar-in { transition: background-color 200ms ease, box-shadow 200ms ease; }
+@container bar scroll-state(stuck: top) {
+  .plan .bar-in { background: color-mix(in srgb, var(--bg) 58%, transparent); box-shadow: 0 14px 28px -24px rgba(0, 0, 0, 0.35);
+    -webkit-backdrop-filter: blur(24px) saturate(180%); backdrop-filter: blur(24px) saturate(180%); }
+}
+.plan .bar.is-stuck .bar-in { background: color-mix(in srgb, var(--bg) 58%, transparent); box-shadow: 0 14px 28px -24px rgba(0, 0, 0, 0.35);
+  -webkit-backdrop-filter: blur(24px) saturate(180%); backdrop-filter: blur(24px) saturate(180%); }
+
+@media (hover: hover) and (pointer: fine) {
+  .plan .prose a:hover, .plan .crumbs a:hover, .plan .note-head a:hover { text-decoration: underline; }
+  .plan .disc > summary:hover { background: var(--hover); }
+}
+@media (prefers-reduced-transparency: reduce) {
+  .plan .bar-in { background: var(--bg) !important; -webkit-backdrop-filter: none !important; backdrop-filter: none !important; }
+}
+
+/* ── Page frame ── */
+.plan .top { max-width: var(--frame); margin: 0 auto; padding: 16px 20px 0; min-height: 46px; display: flex; flex-wrap: wrap;
+  align-items: center; justify-content: space-between; gap: 10px 16px; }
+.plan .top .actions { display: flex; align-items: center; gap: 8px; }
+.plan .frame { max-width: var(--frame); margin: 10px auto 0; padding: 0 20px; display: grid;
+  grid-template-columns: 196px minmax(0, 1fr); gap: 40px; align-items: start; }
+.plan .main { min-width: 0; }
+html:not([data-view="both"]) .plan .main { max-width: 800px; }
+
+/* ── Section list ── */
+.plan .index { position: sticky; top: 14px; max-height: calc(100dvh - 28px); overflow-y: auto; padding: 14px 0; }
+.plan .index .group { font-size: 12px; font-weight: 600; color: var(--ink-2); margin: 0 0 4px 14px; }
+.plan :is(.index, .menu) a { position: relative; display: flex; align-items: center; gap: 8px; border-radius: 8px;
+  font-size: 13px; color: var(--ink-2); transition: transform 160ms var(--ease-out); }
+.plan .index a { padding: 6px 10px 6px 14px; }
+.plan .index a::before { content: ""; position: absolute; left: 3px; top: 7px; bottom: 7px; width: 2px; border-radius: 2px; }
+.plan :is(.index, .menu) a:active { transform: scale(0.97); }
+/* The current section is marked by weight and a bar, not by colour alone. */
+.plan :is(.index, .menu) a.target-current { color: var(--ink); font-weight: 600; }
+.plan .index a.target-current::before { background: var(--tint); }
+.plan :is(.index, .menu) .extra { margin-top: 14px; }
+.plan :is(.index, .menu) .mark { width: 5px; height: 5px; border-radius: 50%; background: var(--orange); flex: none; }
+/* Which title a link shows follows the view. */
+[data-view="sv"] .plan :is(.index, .menu) a:not([data-sv]),
+[data-view="en"] .plan :is(.index, .menu) a:not([data-en]) { display: none; }
+html:not([data-view="en"]) .plan :is(.index, .menu) a[data-sv] .l-en,
+[data-view="en"] .plan :is(.index, .menu) a[data-en] .l-sv { display: none; }
+
+/* ── Toolbar: floats over the sheet, turns to glass once content runs under it ── */
+.plan .bar { top: 10px; }
+.plan .bar-in { display: flex; align-items: center; gap: 14px; margin: 0 -6px; padding: 6px; border-radius: 16px; min-height: 44px; }
+/* The course code and name appear in the toolbar once it has stuck. */
+.plan .context { display: flex; gap: 8px; min-width: 0; font-size: 13px; color: var(--ink-2); opacity: 0; transition: opacity 200ms ease; }
+@container bar scroll-state(stuck: top) {
+  .plan .bar-in { box-shadow: 0 0 0 0.5px var(--stroke), var(--sh-s); }
+  .plan .context { opacity: 1; }
+}
+.plan .bar.is-stuck .bar-in { box-shadow: 0 0 0 0.5px var(--stroke), var(--sh-s); }
+.plan .bar.is-stuck .context { opacity: 1; }
+.plan .context .num { font-weight: 600; color: var(--ink); }
+.plan .context-title { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.plan .sections-button { display: none; margin-left: auto; background: var(--fill); }
+.plan .sections-button svg { width: 11px; height: 11px; color: var(--ink-3); }
+
+/* ── The sheet ── */
+.plan .sheet { position: relative; isolation: isolate; margin-top: 6px; container: sheet / inline-size; }
+/* The glass is its own layer, so the sheet can widen for Båda without stretching the text. */
+.plan .sheet-bg { position: absolute; inset: 0; z-index: -1; transform-origin: left top; -webkit-backdrop-filter: none; backdrop-filter: none; }
+.plan .sheet-in { padding: clamp(22px, 5cqi, 52px); }
+
+.plan .idline { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; }
+.plan .code { font: 600 15px var(--font); letter-spacing: 0.05em; color: var(--tint); }
+.plan .names { display: grid; gap: 6px 40px; margin-top: 8px; }
+.plan .name { text-wrap: balance; }
+.plan .name.sv, [data-view="en"] .plan .name.en { font: 600 34px/1.1 var(--serif); letter-spacing: -0.02em; color: var(--ink); }
+.plan .name.en, [data-view="en"] .plan .name.sv { font: italic 400 17px/1.4 var(--serif); letter-spacing: 0; color: var(--ink-2); }
+[data-view="en"] .plan .name.en { order: -1; }
+.plan .meta { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 16px 28px; margin-top: 26px; }
+.plan .meta .wide { grid-column: 1 / -1; }
+.plan .meta dt { font-size: 12px; color: var(--ink-2); }
+.plan .meta dd { font-size: 14px; margin-top: 2px; }
+
+.plan .notes { margin-top: 26px; border-radius: 14px; background: var(--fill); }
+.plan .notes-body { display: grid; gap: 16px; padding: 4px 16px 16px 37px; }
+.plan .nlabel { font-size: 12px; font-weight: 600; color: var(--ink-2); margin-bottom: 7px; }
+.plan .nlabel a[data-dead] { color: inherit; pointer-events: none; }
+
+/* ── Rows: one per section, both languages in the markup, the view picks what shows ── */
+.plan .row { display: grid; grid-template-columns: minmax(0, 1fr); margin-top: 40px; scroll-margin-top: 72px; outline: none; }
+.plan .h { font: 600 22px/1.2 var(--serif); letter-spacing: -0.012em; }
+.plan .prose { font: 400 17px/1.6 var(--serif); max-width: 66ch; margin-top: 12px; }
+.plan .prose :is(h3, h4, h5) { font: 600 17px/1.3 var(--serif); }
+.plan .missing { font: 400 13px/1.3 var(--font); color: var(--ink-3); padding-top: 7px; }
+.plan .h.sv, .plan .missing.sv { order: 1; }
+.plan .secnotes { order: 2; }
+.plan .prose.sv { order: 3; }
+.plan .h.en, .plan .missing.en { order: 4; margin-top: 28px; }
+.plan .prose.en { order: 5; }
+[data-view="en"] .plan .h.en { order: 1; margin-top: 0; }
+[data-view="sv"] .plan .row > .en, [data-view="en"] .plan .row > .sv,
+[data-view="sv"] .plan .row:not([data-sv]), [data-view="en"] .plan .row:not([data-en]),
+html:not([data-view="both"]) .plan .missing { display: none; }
+/* Side by side when the sheet has the room for two readable columns (about 45 characters
+   each at this size); stacked otherwise. */
+@container sheet (min-width: 920px) {
+  [data-view="both"] .plan .row { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); column-gap: 44px;
+    grid-template-areas: "hsv hen" "notes notes" "sv en"; }
+  [data-view="both"] .plan :is(.h, .missing).sv { grid-area: hsv; }
+  [data-view="both"] .plan :is(.h, .missing).en { grid-area: hen; margin-top: 0; }
+  [data-view="both"] .plan .secnotes { grid-area: notes; }
+  [data-view="both"] .plan .prose.sv { grid-area: sv; }
+  [data-view="both"] .plan .prose.en { grid-area: en; }
+  [data-view="both"] .plan .prose { max-width: none; }
+  [data-view="both"] .plan .names { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); column-gap: 44px; }
+  [data-view="both"] .plan .name { font: 600 28px/1.15 var(--serif); letter-spacing: -0.018em; color: var(--ink); }
+}
+
+/* Notes on one section: a small chip under the heading that opens in place. */
+.plan .secnotes { margin-top: 8px; }
+.plan .secnotes > summary { position: relative; display: inline-flex; width: fit-content; min-height: 0; height: 26px; gap: 7px;
+  padding: 0 9px 0 10px; border-radius: 999px; background: var(--fill); font: 500 12px var(--font); color: var(--ink-2); }
+.plan .secnotes > summary::after { content: ""; position: absolute; inset: -9px -6px; }
+.plan .secnotes .chev { width: 9px; height: 9px; }
+.plan .secnotes-body { margin-top: 8px; padding: 12px 14px; border-radius: 12px; background: var(--fill); }
+
+.plan .programmes { margin-top: 48px; scroll-margin-top: 72px; outline: none; }
+.plan .programmes .list { margin-top: 12px; border-radius: 14px; background: var(--fill); overflow: hidden; }
+.plan .row-link { position: relative; display: flex; align-items: center; gap: 12px; min-height: 44px; padding: 11px 16px; color: var(--ink);
+  transition: background-color 120ms ease, transform 160ms var(--ease-out); }
+.plan .row-link + .row-link::before { content: ""; position: absolute; left: 16px; right: 0; top: 0; height: 0.5px; background: var(--sep); }
+.plan .row-link:active { transform: scale(0.985); }
+
+/* ── Section menu on narrow screens: a popover tied to its button ── */
+.plan .menu { border: 0; padding: 6px; min-width: 232px; max-height: min(70dvh, 520px); overflow-y: auto; border-radius: 16px; color: var(--ink);
+  background: linear-gradient(180deg, var(--glass-top), var(--glass-bottom)); box-shadow: 0 0 0 0.5px var(--stroke), var(--sh-tip);
+  -webkit-backdrop-filter: blur(26px) saturate(190%); backdrop-filter: blur(26px) saturate(190%);
+  opacity: 0; transition: opacity 110ms ease, translate 110ms var(--ease-out), display 110ms, overlay 110ms;
+  transition-behavior: allow-discrete; }
+.plan .menu:popover-open { opacity: 1; transition-duration: 160ms;
+  @starting-style { opacity: 0; } }
+@media (prefers-reduced-motion: no-preference) {
+  .plan .menu { translate: 0 -4px; }
+  .plan .menu:popover-open { translate: 0 0;
+    @starting-style { translate: 0 -4px; } }
+}
+.plan .menu a { min-height: 44px; padding: 0 12px; font-size: 15px; color: var(--ink); }
+.plan .menu a.target-current { background: var(--tint-fill); }
+@supports (position-area: block-end) {
+  .plan .menu { inset: auto; margin: 8px 0 0; position-area: block-end span-inline-start;
+    position-try-fallbacks: flip-block, flip-inline, flip-block flip-inline; }
+}
+@supports not (position-area: block-end) {
+  /* No anchor positioning: a sheet along the bottom edge instead of a menu adrift in the middle. */
+  .plan .menu { position: fixed; inset: auto 12px calc(12px + env(safe-area-inset-bottom)) 12px; width: auto; margin: 0; }
+}
+
+/* Båda needs the width more than it needs the sidebar: on a mid-sized window the section
+   list moves into the toolbar's menu, so two columns still fit. */
+@media (max-width: 1240px) {
+  [data-view="both"] .plan .frame { grid-template-columns: minmax(0, 1fr); }
+  [data-view="both"] .plan .index { display: none; }
+  [data-view="both"] .plan .sections-button { display: inline-flex; }
+}
+@media (max-width: 900px) {
+  .plan .frame { grid-template-columns: minmax(0, 1fr); padding: 0 12px; }
+  .plan .top { padding: 14px 16px 0; }
+  .plan .index, .plan .context { display: none; }
+  .plan .sections-button { display: inline-flex; }
+  .plan .bar { top: 8px; }
+  .plan .bar-in { margin: 0; }
+  .plan .name.sv, [data-view="en"] .plan .name.en { font-size: 28px; }
+}
+@media (max-width: 400px) { .plan .seg button { padding-inline: 11px; } }
+@media (hover: hover) and (pointer: fine) {
+  .plan :is(.index, .menu) a:hover { color: var(--ink); background: var(--hover); }
+  .plan .row-link:hover { background: var(--hover); }
+  .plan .secnotes > summary:hover { background: var(--fill); color: var(--ink); }
+  .plan .nlabel a:hover { text-decoration: underline; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .plan :is(.index, .menu) a:active, .plan .row-link:active { transform: none; }
+  .plan .menu { transition-duration: 100ms; }
+}
+@media (prefers-reduced-transparency: reduce) {
+  .plan .menu { background: var(--card-solid); -webkit-backdrop-filter: none; backdrop-filter: none; }
+}
+
+/* A note in the plan's lead block (the cross-faculty remark on five programmes). */
+.plan .lead { margin-top: 22px; }
+.plan .lead .callout { border-radius: 14px; background: var(--fill); font: 400 14px/1.45 var(--font); }
+.plan .lead .callout-title { display: flex; align-items: center; gap: 10px; padding: 12px 16px 4px; font-weight: 600; }
+.plan .lead .callout-title-icon { display: flex; color: var(--ink-3); }
+.plan .lead .callout-content { padding: 0 16px 12px; color: var(--ink-2); }
+.plan .lead .callout-content > :last-child { margin-bottom: 0; }
+
+/* Before the script has measured the sliding thumb, the chosen segment is drawn directly, so
+   the switch never appears empty. Without script there is no view to choose: it is hidden. */
+html:not([data-view]) .plan .seg[data-view-switch] { display: none; }
+[data-view="sv"] .plan .seg:not(.ready) button[data-value="sv"],
+[data-view="en"] .plan .seg:not(.ready) button[data-value="en"],
+[data-view="both"] .plan .seg:not(.ready) button[data-value="both"] { background: var(--seg-on); color: var(--ink);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), inset 0 0.5px 0 var(--rim-top); }
+.plan .seg:not(.ready) .thumb { opacity: 0; }

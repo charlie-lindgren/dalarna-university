@@ -1,0 +1,21 @@
+---
+// A programme plan. Same page as a course plan, without the language views: programme
+// plans are written in Swedish only.
+import "../../styles/plan.css"
+import Page from "../../layouts/Page.astro"
+import PlanPage from "../../components/PlanPage.astro"
+import { getVault } from "../../lib/vault"
+import { planView } from "../../lib/plan"
+
+export function getStaticPaths() {
+  return getVault()
+    .docs.filter((d) => d.kind === "programme")
+    .map((d) => ({ params: { code: d.url.split("/")[2] }, props: { file: d.file } }))
+}
+
+const view = await planView(getVault().byFile.get(Astro.props.file)!)
+---
+
+<Page title={`${view.code} ${view.title}`}>
+  <PlanPage view={view} />
+</Page>

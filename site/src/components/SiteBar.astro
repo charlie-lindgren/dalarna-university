@@ -1,0 +1,39 @@
+---
+// The bar across the top of every designed page: the site's name, the menu, the appearance
+// switch. The menu is one <nav> at every size: a segmented control here, a tab bar on a phone.
+import ThemeSwitch from "./ThemeSwitch.astro"
+import { link, SITE_NAME } from "../lib/site"
+
+export type Section = "sok" | "bladdra" | "kvalitet"
+interface Props {
+  current?: Section
+  /** The home page prints the name as its own heading, so it leaves it out up here. */
+  brand?: boolean
+}
+const { current, brand = true } = Astro.props
+const items: { id: Section; label: string; href: string }[] = [
+  { id: "sok", label: "Sök", href: "/" },
+  { id: "bladdra", label: "Bläddra", href: "/bladdra/" },
+  { id: "kvalitet", label: "Kvalitet", href: "/kvalitet/" },
+]
+---
+
+<header class="sitebar">
+  <div class="sitebar-start">{brand && <a class="brand" href={link("/")}>{SITE_NAME}</a>}</div>
+  <nav class="sitemenu" aria-label="Huvudmeny">
+    {
+      items.map((i) => (
+        <a href={link(i.href)} data-menu={i.id} aria-current={i.id === current ? "page" : undefined}>
+          {i.id === current && <span class="thumb" aria-hidden="true" />}
+          <span class="mi">
+            {i.id === "sok" && <svg viewBox="0 0 22 22" aria-hidden="true"><circle cx="9.6" cy="9.6" r="6.1" fill="none" stroke="currentColor" stroke-width="1.8" /><path d="m14.3 14.3 4.6 4.6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" /></svg>}
+            {i.id === "bladdra" && <svg viewBox="0 0 22 22" aria-hidden="true"><rect x="2.4" y="3.9" width="17.2" height="14.2" rx="3.4" fill="none" stroke="currentColor" stroke-width="1.8" /><path d="M8.4 4.2v13.6M14 4.2v13.6" fill="none" stroke="currentColor" stroke-width="1.8" /></svg>}
+            {i.id === "kvalitet" && <svg viewBox="0 0 22 22" aria-hidden="true"><path d="M4 18.2V11M9 18.2V4.4M14 18.2v-9M19 18.2v-5.4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" /></svg>}
+            {i.label}
+          </span>
+        </a>
+      ))
+    }
+  </nav>
+  <div class="sitebar-end"><ThemeSwitch /></div>
+</header>

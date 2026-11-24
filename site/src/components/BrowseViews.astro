@@ -1,0 +1,24 @@
+---
+// Bläddra has two views of the same structure: columns and a graph. They are two pages, so
+// this is a pair of links dressed as a segmented control; its thumb slides between them.
+import { link } from "../lib/site"
+interface Props {
+  current: "kolumner" | "graf"
+}
+const { current } = Astro.props
+const views = [
+  { id: "kolumner", label: "Kolumner", href: "/bladdra/" },
+  { id: "graf", label: "Graf", href: "/bladdra/graf/" },
+] as const
+---
+
+<nav class="viewswitch" aria-label="Vy">
+  {
+    views.map((v) => (
+      <a href={link(v.href)} data-view-link={v.id} aria-current={v.id === current ? "page" : undefined}>
+        {v.id === current && <span class="thumb" aria-hidden="true" />}
+        <span class="vl">{v.label}</span>
+      </a>
+    ))
+  }
+</nav>

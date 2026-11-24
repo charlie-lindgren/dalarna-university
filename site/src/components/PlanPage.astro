@@ -1,0 +1,163 @@
+---
+// A plan's page, the design called "Reader": one sheet, a section list that follows the
+// reader, and quality notes behind disclosures. A course plan also gets its text in
+// Svenska, English or Båda (side by side); a programme plan is Swedish only.
+import Crumbs from "./Crumbs.astro"
+import QualityNotes from "./QualityNotes.astro"
+import SectionIndex from "./SectionIndex.astro"
+import { noteCount, type PlanView } from "../lib/plan"
+import { link } from "../lib/site"
+
+interface Props {
+  view: PlanView
+}
+const { view } = Astro.props
+const rowId = (r: PlanView["rows"][number]) => r.sv?.id ?? r.en!.id
+const sectionNotes = view.rows.filter((r) => r.notes.length > 0)
+const word = view.kind === "course" ? "kursplan" : "utbildningsplan"
+---
+
+<main class="plan">
+  <div class="top">
+    <div data-flip><Crumbs doc={view.doc} /></div>
+    <div class="actions" data-flip>
+      {
+        view.sourceUrl && (
+          <a class="pill glass" href={view.sourceUrl} rel="noopener">
+            Öppna på du.se
+            <svg class="out" viewBox="0 0 12 12" aria-hidden="true"><path d="M4.5 2H2v8h8V7.5M7 2h3v3M10 2 5.5 6.5" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" /></svg>
+          </a>
+        )
+      }
+    </div>
+  </div>
+
+  <div class="frame">
+    <nav class="index" aria-label="Innehåll" data-spy data-flip>
+      <p class="group">Innehåll</p>
+      <SectionIndex view={view} />
+    </nav>
+
+    <div class="main">
+      <div class="bar" data-flip>
+        <div class="bar-in">
+          {
+            view.hasEnglish && (
+              <div class="seg" role="group" aria-label="Visa språk" data-view-switch>
+                <span class="thumb" aria-hidden="true" />
+                <button type="button" data-value="sv" aria-pressed="true">Svenska</button>
+                <button type="button" data-value="en" aria-pressed="false" lang="en">English</button>
+                <button type="button" data-value="both" aria-pressed="false">Båda</button>
+              </div>
+            )
+          }
+          <p class="context" aria-hidden="true"><span class="num">{view.code}</span><span class="context-title">{view.title}</span></p>
+          <button type="button" class="pill sections-button" popovertarget="sections-menu">
+            Innehåll
+            <svg viewBox="0 0 12 12" aria-hidden="true"><path d="m2.5 4.5 3.5 3.5 3.5-3.5" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" /></svg>
+          </button>
+          <div id="sections-menu" popover="auto" class="menu">
+            <nav aria-label="Innehåll" data-spy><SectionIndex view={view} /></nav>
+          </div>
+        </div>
+      </div>
+
+      <article class="sheet" data-flip>
+        <div class="glass large sheet-bg" data-flip="box" aria-hidden="true"></div>
+        <div class="sheet-in" data-pagefind-body>
+          <header>
+            <div class="idline">
+              <p class="code num" data-pagefind-weight="10">{view.code}</p>
+              {view.status !== "active" && <span class="status" data-pagefind-ignore><span class="dot" />{view.status === "vilande" ? `Vilande ${word}` : "Ej aktiv"}</span>}
+            </div>
+            <div class="names">
+              <h1 class="name sv">{view.title}</h1>
+              {view.titleEn && <p class="name en" lang="en">{view.titleEn}</p>}
+            </div>
+            <dl class="meta" data-pagefind-ignore>
+              {
+                view.facts.map((f) => (
+                  <div class:list={{ wide: f.value.length > 44 }}>
+                    <dt>{f.label}</dt>
+                    <dd>{f.value}</dd>
+                  </div>
+                ))
+              }
+              </dl>
+              {view.leadHtml && <div class="prose lead" data-pagefind-ignore set:html={view.leadHtml} />}
+            </header>
+
+          {
+            view.notes.length > 0 && (
+              <details class="disc notes" data-pagefind-ignore>
+                <summary>
+                  <svg class="chev" viewBox="0 0 12 12" aria-hidden="true"><path d="m2 4 4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" /></svg>
+                  <span class="dot" aria-hidden="true" />
+                  {noteCount(view.notes.length)}
+                </summary>
+                <div class="notes-body">
+                  {view.generalNotes.length > 0 && (
+                    <div class="ngroup">
+                      <p class="nlabel">Hela {word}en</p>
+                      <QualityNotes notes={view.generalNotes} />
+                    </div>
+                  )}
+                  {sectionNotes.map((r) => (
+                    <div class="ngroup">
+                      <p class="nlabel"><a href={`#${rowId(r)}`} data-jump>{r.sv!.title}</a></p>
+                      <QualityNotes notes={r.notes} />
+                    </div>
+                  ))}
+                </div>
+              </details>
+            )
+          }
+
+          {
+            view.rows.map((r) => (
+              <section class="row" id={rowId(r)} tabindex="-1" data-sv={r.sv ? "" : undefined} data-en={r.en ? "" : undefined}>
+                {r.sv ? <h2 class="h sv" id={`h-sv--${rowId(r)}`} lang={r.sv.lang} data-plan-text="sv">{r.sv.title}</h2> : <p class="missing sv" data-pagefind-ignore>Finns inte i den svenska versionen.</p>}
+                {/* Each heading is followed by its own text, so reading order and search both pair them correctly.
+                    Where they appear on screen is set in plan.css (order, and grid areas for side by side). */}
+                {r.notes.length > 0 && (
+                  <details class="disc secnotes" data-pagefind-ignore>
+                    <summary>
+                      <span class="dot" aria-hidden="true" />
+                      {r.notes.length} {r.notes.length === 1 ? "notering" : "noteringar"}
+                      <svg class="chev" viewBox="0 0 12 12" aria-hidden="true"><path d="m2 4 4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" /></svg>
+                    </summary>
+                    <div class="secnotes-body"><QualityNotes notes={r.notes} /></div>
+                  </details>
+                )}
+                {r.sv && <div class="prose sv" lang={r.sv.lang} data-plan-text="sv" set:html={r.sv.html} />}
+                {r.en ? <h2 class="h en" id={`h-en--${rowId(r)}`} lang="en" data-plan-text="en">{r.en.title}</h2> : view.hasEnglish && <p class="missing en" data-pagefind-ignore>Finns inte i den engelska versionen.</p>}
+                {r.en && <div class="prose en" lang="en" data-plan-text="en" set:html={r.en.html} />}
+              </section>
+            ))
+          }
+
+          {
+            view.programmes.length > 0 && (
+              <section class="programmes" id="program" tabindex="-1" aria-labelledby="program-h" data-pagefind-ignore>
+                <h2 class="h" id="program-h">Ingår i program</h2>
+                <div class="list">
+                  {view.programmes.map((p) => (
+                    <a class="row-link" href={link(p.url)}>
+                      <span class="pcode num">{p.code}</span>
+                      <span class="pname">{p.title}</span>
+                      <svg class="go" viewBox="0 0 8 14" aria-hidden="true"><path d="m1.5 1.5 5 5.5-5 5.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" /></svg>
+                    </a>
+                  ))}
+                </div>
+              </section>
+            )
+          }
+        </div>
+      </article>
+    </div>
+  </div>
+</main>
+
+<script>
+  import "../scripts/plan"
+</script>

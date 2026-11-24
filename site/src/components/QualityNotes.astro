@@ -1,0 +1,26 @@
+---
+// A list of quality notes. The state sits on a small dot, never on coloured text.
+import { link } from "../lib/site"
+import type { Note } from "../lib/plan"
+interface Props {
+  notes: Note[]
+}
+const { notes } = Astro.props
+---
+
+<ul class="notelist">
+  {
+    notes.map((n) => (
+      <li>
+        <span class="dot" aria-hidden="true" />
+        <div>
+          <p class="note-head">
+            <a href={link(n.areaUrl)}>{n.area}</a>
+            <span class="note-problem">{n.problem}</span>
+          </p>
+          <p class="note-detail" set:html={n.detailHtml} />
+        </div>
+      </li>
+    ))
+  }
+</ul>

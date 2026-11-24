@@ -1,0 +1,89 @@
+---
+// Bläddra: the structure of the university, explorable in place. Three columns in one sheet,
+// as in the macOS Finder: institution, then subject, then course plans. On a phone the
+// columns are screens you push into and swipe back from.
+import "../../styles/browse.css"
+import Page from "../../layouts/Page.astro"
+import BrowseViews from "../../components/BrowseViews.astro"
+import { link } from "../../lib/site"
+import { siteData, sv } from "../../lib/site-data"
+const { institutions, plans, subjects, scrapeDate } = siteData()
+---
+
+<Page title="Bläddra" current="bladdra">
+  <main class="browse">
+    <h1 class="sr">Bläddra bland kursplaner och program</h1>
+    <div class="viewrow"><BrowseViews current="kolumner" /></div>
+
+  <div class="glass large browser" data-browser data-catalogue={link("/katalog.json")} data-base={link("")}>
+    <div class="cols">
+      <section class="pane p1" aria-label="Institutioner">
+        <header class="panehead"><h2>Institutioner</h2></header>
+        <div class="items" role="tablist" aria-orientation="vertical" aria-label="Institutioner">
+          {
+            institutions.map((i, n) => (
+              <button type="button" class="item" role="tab" id={`tab-${i.inst}`} aria-controls={`panel-${i.inst}`} aria-selected={n === 0 ? "true" : "false"} tabindex={n === 0 ? 0 : -1} data-inst={i.inst}>
+                <span class="idot" aria-hidden="true" />
+                <span class="grow">
+                  <span class="t">{i.short}</span>
+                  <span class="m num">{sv(i.courses)} kursplaner, {i.programmes.length} program</span>
+                </span>
+                <svg class="go" viewBox="0 0 8 14" aria-hidden="true"><path d="m1.5 1.5 5 5.5-5 5.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" /></svg>
+              </button>
+            ))
+          }
+        </div>
+      </section>
+
+      <section class="pane p2" aria-label="Ämnen och program">
+        {
+          institutions.map((i, n) => (
+            <div class="panel" role="tabpanel" id={`panel-${i.inst}`} aria-labelledby={`tab-${i.inst}`} hidden={n !== 0} data-inst={i.inst}>
+              <header class="panehead">
+                <button type="button" class="back" data-back="0" aria-label="Tillbaka till Institutioner"><svg viewBox="0 0 8 14" aria-hidden="true"><path d="M6.5 1.5 1.5 7l5 5.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" /></svg>Institutioner</button>
+                <h2>{i.inst}</h2>
+              </header>
+              <div class="items">
+                <a class="item leaf" href={link(`/kvalitet/#${i.inst.toLowerCase()}`)}>
+                  <span class="grow"><span class="t">Kvalitetsgranskning</span></span>
+                  <span class="m num"><span class="dot" aria-hidden="true" />{sv(i.notes)}</span>
+                </a>
+                <p class="grouplabel">Ämnen</p>
+                {i.subjects.map((s) => (
+                  <a class="item drill" href={link(s.url)} data-subject={s.url} data-slug={s.slug}>
+                    <span class="grow"><span class="t">{s.title}</span></span>
+                    <span class="m num">{s.count}</span>
+                    <svg class="go" viewBox="0 0 8 14" aria-hidden="true"><path d="m1.5 1.5 5 5.5-5 5.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" /></svg>
+                  </a>
+                ))}
+                <p class="grouplabel">Program</p>
+                {i.programmes.map((p) => (
+                  <a class="item leaf" href={link(p.url)}>
+                    <span class="code num">{p.code}</span>
+                    <span class="grow"><span class="t">{p.title}</span></span>
+                  </a>
+                ))}
+              </div>
+            </div>
+          ))
+        }
+      </section>
+
+      <section class="pane p3" aria-label="Kursplaner">
+        <header class="panehead">
+          <button type="button" class="back" data-back="1" aria-label="Tillbaka till Ämnen"><svg viewBox="0 0 8 14" aria-hidden="true"><path d="M6.5 1.5 1.5 7l5 5.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" /></svg>Ämnen</button>
+          <h2 data-subject-title>Kursplaner</h2>
+          <button type="button" class="pill toggle" aria-pressed="true" data-vilande>Vilande</button>
+        </header>
+        <div class="items" data-courses aria-live="polite"><p class="empty">Välj ett ämne för att se dess kursplaner.</p></div>
+      </section>
+    </div>
+  </div>
+
+    <p class="foot">{sv(plans)} planer i {subjects} ämnen, hämtade från <a href="https://www.du.se/sv/utbildning/" rel="noopener">du.se</a> den {scrapeDate}.</p>
+  </main>
+
+  <script>
+    import "../../scripts/browse"
+  </script>
+</Page>

@@ -1,0 +1,63 @@
+/* Bläddra as a graph: one sheet filled by a canvas, with a few controls floating on it. */
+.graphpage { max-width: none; padding: 16px 20px 20px; }
+.graphpage *, .graphpage *::before, .graphpage *::after { box-sizing: border-box; }
+.graphpage :is(h1, p) { margin: 0; }
+.graphpage .viewrow { display: flex; align-items: center; min-height: 30px; margin-bottom: 12px; }
+.graphpage .stage { position: relative; height: calc(100dvh - 130px); min-height: 420px; overflow: hidden;
+  -webkit-backdrop-filter: none; backdrop-filter: none; }
+/* The canvas owns every gesture on it: drag pans, pinch and wheel zoom. */
+.graphpage canvas { position: absolute; inset: 0; width: 100%; height: 100%; touch-action: none; cursor: grab; outline: none; }
+.graphpage canvas.over { cursor: pointer; }
+.graphpage canvas.dragging { cursor: grabbing; }
+
+/* Controls float on the sheet as small glass groups. */
+.graphpage .gbar { position: absolute; z-index: 2; display: flex; gap: 2px; padding: 3px; border-radius: 999px;
+  background: linear-gradient(180deg, var(--glass-top), var(--glass-bottom)); box-shadow: 0 0 0 0.5px var(--stroke), var(--sh-s);
+  -webkit-backdrop-filter: blur(20px) saturate(180%); backdrop-filter: blur(20px) saturate(180%); }
+.graphpage .gbar button { display: inline-flex; align-items: center; justify-content: center; gap: 6px; height: 28px; min-width: 28px; padding: 0 10px; border: 0; border-radius: 999px;
+  background: none; font: 500 12px var(--font); color: var(--ink-2); cursor: pointer; transition: transform 160ms var(--ease-out), background-color 150ms ease, color 150ms ease; }
+.graphpage .gbar button:active { transform: scale(0.94); }
+.graphpage .gbar button[aria-pressed="true"] { background: var(--tint-fill); color: var(--ink); }
+.graphpage .gzoom { top: 14px; right: 14px; }
+.graphpage .gzoom button { padding: 0; }
+.graphpage .gzoom svg { width: 14px; height: 14px; }
+.graphpage .glegend { left: 14px; bottom: 14px; flex-wrap: wrap; max-width: calc(100% - 28px); }
+.graphpage .glegend .idot { width: 8px; height: 8px; }
+.graphpage .vdot { width: 8px; height: 8px; border-radius: 50%; background: color-mix(in srgb, var(--ink-3) 55%, transparent); }
+.graphpage .glegend [data-vilande][aria-pressed="false"] .vdot { background: none; box-shadow: inset 0 0 0 1.5px var(--ink-3); }
+
+/* What the shapes stand for. Not a control: it only explains. */
+.graphpage .gkey { left: 14px; bottom: 56px; gap: 12px; padding: 0 12px; height: 28px; align-items: center; font: 500 12px var(--font); color: var(--ink-2); pointer-events: none; }
+.graphpage .gkey span { display: inline-flex; align-items: center; gap: 6px; }
+.graphpage .gkey i { flex: none; background: var(--ink-3); }
+.graphpage .k-hub { width: 11px; height: 11px; border-radius: 50%; }
+.graphpage .k-prog { width: 8px; height: 8px; rotate: 45deg; }
+.graphpage .k-plan { width: 6px; height: 6px; border-radius: 50%; }
+
+.graphpage .ghint { position: absolute; right: 16px; bottom: 18px; z-index: 1; font-size: 12px; color: var(--ink-3); pointer-events: none; transition: opacity 300ms ease; }
+.graphpage .ghint.gone { opacity: 0; }
+
+/* What a tapped point is, with a way to open it. Touch only; a mouse click opens the point directly. */
+.graphpage .gcard { position: absolute; z-index: 3; left: 14px; right: 14px; top: 14px; display: flex; align-items: center; justify-content: space-between; gap: 12px; max-width: 460px;
+  padding: 10px 10px 10px 16px; border-radius: 18px; background: linear-gradient(180deg, var(--glass-top), var(--glass-bottom)); box-shadow: 0 0 0 0.5px var(--stroke), var(--sh-tip);
+  -webkit-backdrop-filter: blur(24px) saturate(180%); backdrop-filter: blur(24px) saturate(180%); }
+.graphpage .gcard[hidden] { display: none; }
+.graphpage .gcard-title { font-size: 15px; font-weight: 600; }
+.graphpage .gcard-sub { font-size: 13px; color: var(--ink-2); }
+.graphpage .tip b { font-weight: 600; }
+.graphpage .tip span { display: block; color: var(--ink-2); }
+
+@media (max-width: 700px) {
+  .graphpage { padding: 12px 12px 0; }
+  .graphpage .stage { height: calc(100dvh - 200px - env(safe-area-inset-top, 0px) - env(safe-area-inset-bottom, 0px)); min-height: 360px; }
+  .graphpage .ghint { display: none; }
+  .graphpage .gzoom { display: none; }
+}
+@media (hover: hover) and (pointer: fine) {
+  .graphpage .gbar button:hover { color: var(--ink); background: var(--hover); }
+  .graphpage .gbar button[aria-pressed="true"]:hover { background: var(--tint-fill); }
+}
+@media (prefers-reduced-motion: reduce) { .graphpage .gbar button:active { transform: none; } }
+@media (prefers-reduced-transparency: reduce) {
+  .graphpage :is(.gbar, .gcard) { background: var(--card-solid); -webkit-backdrop-filter: none; backdrop-filter: none; }
+}

@@ -1,0 +1,20 @@
+---
+// The section list of a plan page. Used twice: as the sidebar, and inside the menu on narrow screens.
+// Each link carries both titles; the view (Svenska, English, Båda) decides which one shows.
+import type { PlanView } from "../lib/plan"
+interface Props {
+  view: PlanView
+}
+const { view } = Astro.props
+---
+
+{
+  view.rows.map((r) => (
+    <a href={`#${r.sv?.id ?? r.en!.id}`} data-sv={r.sv ? "" : undefined} data-en={r.en ? "" : undefined}>
+      {r.sv && <span class="l-sv">{r.sv.title}</span>}
+      {r.en && <span class="l-en" lang="en">{r.en.title}</span>}
+      {r.notes.length > 0 && <span class="mark" role="img" aria-label="har kvalitetsnoteringar" />}
+    </a>
+  ))
+}
+{view.programmes.length > 0 && <a class="extra" href="#program" data-sv data-en>Ingår i program</a>}

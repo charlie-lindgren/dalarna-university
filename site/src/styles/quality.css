@@ -1,0 +1,163 @@
+/* Kvalitet: the quality dashboard. A heat table on the left as the map, the chosen cell
+   opened up on the right. Chart text is set in the system sans; headings and prose in the serif. */
+
+.q { max-width: 1340px; margin: 0 auto; padding: 16px 20px 64px; }
+.q *, .q *::before, .q *::after { box-sizing: border-box; }
+.q :is(h1, h2, h3, p, ul, ol) { margin: 0; }
+.q :is(ul, ol) { padding: 0; list-style: none; }
+.q a { color: var(--tint); text-decoration: none; text-underline-offset: 2px; }
+.q .sheet { padding: clamp(20px, 3.4vw, 46px); -webkit-backdrop-filter: none; backdrop-filter: none; }
+
+.q h1 { font: 600 34px/1.1 var(--serif); letter-spacing: -0.02em; }
+.q .lead { margin-top: 10px; max-width: 46em; font: 400 17px/1.5 var(--serif); color: var(--ink-2); text-wrap: pretty; }
+.q .figures { margin-top: 6px; font: 400 17px/1.5 var(--serif); }
+.q .figures b { font-weight: 600; }
+.q h2 { font: 600 22px/1.2 var(--serif); letter-spacing: -0.012em; }
+.q h3 { font: 600 15px/1.3 var(--font); margin: 28px 0 8px; }
+
+/* Map beside detail. The map stays in view while the detail scrolls, so another cell is always one click away. */
+.q .split { display: grid; grid-template-columns: minmax(0, 588px) minmax(0, 1fr); gap: 56px; align-items: start; margin-top: 36px; }
+/* (Only where the window is tall enough to hold the whole table.) */
+@media (min-height: 780px) { .q .map { position: sticky; top: 16px; } }
+.q .maphead { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 12px; }
+.q .maphead .seg button { padding: 4px 12px; font-size: 12px; }
+.q .legend { display: flex; align-items: center; gap: 8px; margin-top: 10px; font-size: 12px; color: var(--ink-2); }
+/* The legend is the same ramp the cells are coloured from (lib/heat.ts). */
+.q .ramp { width: 116px; height: 8px; border-radius: 4px;
+  background: linear-gradient(to right in oklab, light-dark(#E8EBF2, #272B36), light-dark(#0B5BD3, #5AA2FF)); }
+
+/* ── The heat table ── */
+.q .matrix { width: calc(100% + 8px); margin: 12px -4px 0; border-collapse: separate; border-spacing: 4px; table-layout: fixed; }
+.q .matrix .vcol { width: 66px; }
+.q .matrix th { font: 400 13px/1.25 var(--font); text-align: left; }
+.q .matrix thead th { padding-bottom: 2px; font-size: 12px; font-weight: 500; color: var(--ink-2); text-align: center; white-space: nowrap; }
+.q .matrix thead .idot { display: inline-block; width: 7px; height: 7px; margin-right: 5px; vertical-align: 1px; }
+.q .matrix tbody th { padding-right: 8px; color: var(--ink-2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.q .matrix [data-on] > th, .q .matrix thead th[data-on] { color: var(--ink); font-weight: 600; }
+.q .matrix .anyrow th { color: var(--ink); font-weight: 600; }
+.q .matrix .blockrow th { padding: 12px 0 1px; font-size: 12px; font-weight: 600; color: var(--ink-2); }
+.q .cell { display: flex; align-items: center; justify-content: center; height: 30px; border-radius: 7px;
+  font: 600 12px/1 var(--font); font-variant-numeric: tabular-nums; text-decoration: none;
+  background: light-dark(var(--l), var(--d)); color: light-dark(var(--li), var(--di)); }
+.q .cell i { font-style: normal; font-weight: 500; opacity: 0.78; }
+.q a.cell { transition: transform 160ms var(--ease-out); }
+.q a.cell:active { transform: scale(0.94); }
+/* The chosen cell wears a tint ring, set off from its neighbours by a ring of the surface. */
+.q td[aria-selected="true"] .cell { box-shadow: 0 0 0 2px var(--card-solid), 0 0 0 4px var(--tint); }
+.q .caption { margin-top: 12px; max-width: 46em; }
+
+/* ── The detail ── */
+.q .detail { min-width: 0; scroll-margin-top: 12px; }
+.q .picker { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 16px; }
+/* The heading is the dropdown: choosing another check is choosing another heading. */
+.q .titlepick { -webkit-appearance: none; appearance: none; max-width: 100%; margin: 0 0 0 -12px; padding: 6px 38px 7px 12px; border: 0; border-radius: 12px;
+  background: var(--fill) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12'%3E%3Cpath d='m2 4 4 4 4-4' fill='none' stroke='%238a8d97' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") no-repeat right 13px center / 12px;
+  font: 600 22px/1.25 var(--serif); letter-spacing: -0.012em; color: var(--ink); text-overflow: ellipsis; cursor: pointer;
+  transition: transform 160ms var(--ease-out); }
+.q .titlepick:active { transform: scale(0.985); }
+.q .picker label { min-width: 0; max-width: 100%; }
+.q .scope { display: flex; align-items: center; gap: 8px; margin-top: 18px; font-size: 13px; font-weight: 600; }
+.q .sum { margin-top: 4px; font-size: 15px; }
+.q .about { margin-top: 16px; }
+.q .prose { max-width: 40em; font: 400 15px/1.55 var(--serif); overflow-wrap: break-word; }
+.q .prose > :first-child { margin-top: 0; }
+.q .prose > :last-child { margin-bottom: 0; }
+.q .prose p { margin: 0 0 0.75em; }
+.q .prose :is(ul, ol) { margin: 0 0 0.75em; padding-left: 1.3em; list-style: revert; }
+.q .prose li { margin: 0.4em 0; }
+.q .prose li > p { margin: 0; }
+.q .prose strong { font-weight: 600; }
+.q :is(.prose, .pnotes) code { font: 0.9em ui-monospace, "SF Mono", Menlo, monospace; background: var(--fill); padding: 1px 5px; border-radius: 5px; }
+.q .unresolved { color: inherit; }
+.q .more { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 12px; font-size: 13px; color: var(--ink-2); }
+.q .more .pill, .q .showall { height: 26px; padding: 0 11px; font-size: 12px; background: var(--fill); color: var(--ink); }
+.q .showall { margin-top: 10px; }
+.q .one { font-size: 14px; }
+.q .one b { font-weight: 600; }
+.q .empty { font-size: 13px; color: var(--ink-3); padding: 14px 0; }
+
+/* Disclosures: open on the drawer curve, close faster, content fading a beat behind. */
+.q .disc > summary { list-style: none; cursor: pointer; transition: transform 160ms var(--ease-out); }
+.q .disc > summary::-webkit-details-marker { display: none; }
+.q .disc > summary:active { transform: scale(0.985); }
+.q .disc .chev { width: 11px; height: 11px; flex: none; color: var(--ink-3); rotate: -90deg; }
+.q .disc[open] > summary .chev { rotate: 0deg; }
+.q .disc::details-content { overflow: clip; contain: layout; opacity: 0; }
+.q .disc:not([open])::details-content { block-size: 0; }
+.q .disc[open]::details-content { opacity: 1; }
+@media (prefers-reduced-motion: no-preference) {
+  .q .disc .chev { transition: rotate 200ms var(--ease-out); }
+  .q .disc::details-content { transition: block-size 180ms var(--ease-out), opacity 120ms ease, content-visibility 180ms allow-discrete; }
+  .q .disc[open]::details-content { transition: block-size 280ms var(--ease-drawer), opacity 200ms ease 70ms, content-visibility 280ms allow-discrete; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .q .disc::details-content { transition: opacity 150ms ease, content-visibility 150ms allow-discrete; }
+  .q .disc > summary:active, .q a.cell:active, .q .titlepick:active { transform: none; }
+}
+.q .advice { margin-top: 14px; border-radius: 14px; background: var(--fill); }
+.q .advice > summary { display: flex; align-items: center; gap: 10px; min-height: 44px; padding: 11px 16px; border-radius: inherit; font-size: 15px; font-weight: 500; }
+.q .advice > .prose { padding: 2px 18px 16px 37px; }
+
+/* What the notes are about: ranked bars, one hue, the value at the tip. A row is also a filter. */
+.q .probs { display: grid; gap: 2px; }
+.q .prob { width: calc(100% + 16px); margin: 0 -8px; display: grid; grid-template-columns: minmax(120px, 44%) minmax(0, 1fr); align-items: center; gap: 0 14px;
+  min-height: 34px; padding: 4px 8px; border: 0; border-radius: 9px; background: none; font: 400 14px/1.3 var(--font); color: var(--ink); text-align: left; cursor: pointer;
+  transition: transform 160ms var(--ease-out); }
+.q .prob:active { transform: scale(0.985); }
+.q .prob[aria-pressed="true"] { background: var(--tint-fill); }
+.q .track { display: flex; align-items: center; gap: 8px; min-width: 0; }
+.q .bar { flex: none; width: max(2px, calc(var(--w) * (100% - 58px))); height: 12px; border-radius: 0 4px 4px 0; background: var(--blue); }
+.q .val { font-size: 13px; color: var(--ink-2); }
+
+/* Where the notes sit: one bar per group, as long as the group is large, filled as far as it has notes. */
+.q .grouphead { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 4px 16px; margin: 28px 0 6px; }
+.q .grouphead h3 { margin: 0; }
+.q .grouphead .legend { margin: 0; }
+.q .sw { width: 10px; height: 10px; border-radius: 3px; }
+.q .sw.r { margin-left: 8px; }
+.q .sw.a, .q .gbar .a { background: var(--blue); }
+.q .sw.r, .q .gbar .r { background: color-mix(in srgb, var(--ink-3) 46%, transparent); }
+.q .grp > summary { width: calc(100% + 16px); margin: 0 -8px; display: grid; grid-template-columns: 11px minmax(0, 13.5em) minmax(40px, 1fr) auto; align-items: center; gap: 0 10px;
+  min-height: 40px; padding: 6px 8px; border-radius: 10px; font-size: 14px; }
+.q .gt { display: flex; align-items: center; gap: 8px; min-width: 0; }
+.q .gname { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.q .ginst { flex: none; font-size: 12px; color: var(--ink-3); }
+.q .gbar { display: flex; gap: 2px; width: calc(var(--w) * 100%); min-width: 6px; height: 10px; }
+.q .gbar i { min-width: 2px; }
+.q .gbar i:last-child { border-radius: 0 4px 4px 0; }
+.q .gcount { font-size: 13px; color: var(--ink-2); white-space: nowrap; }
+.q .plans { display: grid; gap: 12px; padding: 6px 0 16px 21px; }
+.q .p > a { display: flex; align-items: baseline; gap: 10px; color: var(--ink); }
+.q .p .code { flex: 0 0 66px; font-size: 13px; font-weight: 600; }
+.q .p .pn { font-size: 14px; }
+.q .p .st { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; color: var(--ink-2); white-space: nowrap; }
+.q .pnotes { display: grid; gap: 3px; margin: 3px 0 0 76px; font-size: 13px; line-height: 1.45; color: var(--ink-2); overflow-wrap: anywhere; }
+.q .pnotes b { margin-right: 7px; font-weight: 600; color: var(--ink); }
+.q .tip b { font-weight: 600; }
+.q .tip span { display: block; color: var(--ink-2); }
+
+@media (max-width: 1080px) {
+  .q .split { grid-template-columns: minmax(0, 1fr); gap: 40px; }
+  .q .map { position: static; max-width: 620px; }
+}
+@media (max-width: 560px) {
+  .q { padding: 12px 12px 24px; }
+  .q h1 { font-size: 28px; }
+  .q .titlepick { font-size: 20px; }
+  .q .matrix .vcol { width: 40px; }
+  /* Names wrap, and break inside a long word if they must, so none is cut short. */
+  .q .matrix tbody th { font-size: 12px; white-space: normal; overflow: visible; text-overflow: clip; hyphens: auto; overflow-wrap: anywhere; }
+  .q .cell { height: 34px; font-size: 11px; }
+  .q .cell i { display: none; }
+  .q .matrix thead .idot { display: block; margin: 0 auto 3px; }
+  .q .grp > summary { grid-template-columns: 11px minmax(0, 1fr) auto; }
+  .q .gbar { grid-column: 2 / -1; grid-row: 2; margin-top: 2px; }
+  .q .pnotes { margin-left: 0; }
+  .q .p > a { flex-wrap: wrap; gap: 2px 10px; }
+}
+@media (hover: hover) and (pointer: fine) {
+  .q .prose a:hover, .q .p > a:hover .pn { text-decoration: underline; }
+  .q .disc > summary:hover, .q .prob:not([aria-pressed="true"]):hover { background: var(--hover); }
+  .q .titlepick:hover { background-color: color-mix(in srgb, var(--fill) 100%, var(--hover)); }
+}
+@media (prefers-reduced-motion: reduce) { .q .prob:active { transform: none; } }

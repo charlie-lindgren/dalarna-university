@@ -1,0 +1,157 @@
+/* Charlie's design language: soft Apple materials.
+   Frosted glass over soft colour fields, SF Pro, Apple system colours, quiet motion.
+   Theme: light by default; dark when macOS is dark; data-theme="light" or "dark" on <html> forces one. */
+
+/* ---------- Tokens ---------- */
+:root {
+  color-scheme: light;
+  --bg: #EDEFF4; --card-solid: #FFFFFF;
+  --glass-top: rgba(255,255,255,0.74); --glass-bottom: rgba(255,255,255,0.50);
+  --rim-top: rgba(255,255,255,0.95); --rim-side: rgba(255,255,255,0.22); --rim-bottom: rgba(255,255,255,0.45);
+  --stroke: rgba(24,32,64,0.07);
+  --ink: #1F2024; --ink-2: #5E616A; --ink-3: #6F727C;
+  --sep: rgba(24,32,64,0.08); --fill: rgba(118,124,146,0.14); --hover: rgba(24,32,64,0.035); --open: rgba(0,122,255,0.05);
+  --blue: #007AFF; --orange: #E68600; --green: #248A3D; --red: #D70015; --red-dot: #FF3B30;
+  --tint: #007AFF; --tint-fill: rgba(0,122,255,0.10); --seg-on: rgba(255,255,255,0.95);
+  --sh-s: 0 1px 2px rgba(28,38,80,0.05), 0 6px 18px rgba(28,38,80,0.06);
+  --sh-l: 0 2px 6px rgba(28,38,80,0.04), 0 22px 56px rgba(28,38,80,0.10);
+  --sh-tip: 0 4px 12px rgba(28,38,80,0.10), 0 20px 44px rgba(28,38,80,0.16);
+  --f1: rgba(88,146,255,0.27); --f2: rgba(176,128,255,0.23); --f3: rgba(255,170,120,0.24); --f4: rgba(64,200,190,0.17);
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1); --ease-drawer: cubic-bezier(0.32, 0.72, 0, 1);
+  --font: -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;
+  --font-display: -apple-system, BlinkMacSystemFont, "SF Pro Display", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  color-scheme: dark;
+  --bg: #111318; --card-solid: #1F2128;
+  --glass-top: rgba(62,65,78,0.55); --glass-bottom: rgba(34,36,44,0.42);
+  --rim-top: rgba(255,255,255,0.20); --rim-side: rgba(255,255,255,0.04); --rim-bottom: rgba(255,255,255,0.08);
+  --stroke: rgba(255,255,255,0.055);
+  --ink: #ECEDF1; --ink-2: #A3A6B0; --ink-3: #8A8D97;
+  --sep: rgba(255,255,255,0.075); --fill: rgba(255,255,255,0.085); --hover: rgba(255,255,255,0.04); --open: rgba(10,132,255,0.11);
+  --blue: #0A84FF; --orange: #CC7D10; --green: #30B350; --red: #FF6961; --red-dot: #FF453A;
+  --tint: #0A84FF; --tint-fill: rgba(10,132,255,0.18); --seg-on: rgba(255,255,255,0.15);
+  --sh-s: 0 1px 2px rgba(0,0,0,0.30), 0 8px 22px rgba(0,0,0,0.24);
+  --sh-l: 0 2px 8px rgba(0,0,0,0.26), 0 28px 64px rgba(0,0,0,0.46);
+  --sh-tip: 0 4px 14px rgba(0,0,0,0.40), 0 22px 48px rgba(0,0,0,0.50);
+  --f1: rgba(52,98,230,0.26); --f2: rgba(126,78,226,0.22); --f3: rgba(214,118,64,0.10); --f4: rgba(30,160,154,0.12);
+} }
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #111318; --card-solid: #1F2128;
+  --glass-top: rgba(62,65,78,0.55); --glass-bottom: rgba(34,36,44,0.42);
+  --rim-top: rgba(255,255,255,0.20); --rim-side: rgba(255,255,255,0.04); --rim-bottom: rgba(255,255,255,0.08);
+  --stroke: rgba(255,255,255,0.055);
+  --ink: #ECEDF1; --ink-2: #A3A6B0; --ink-3: #8A8D97;
+  --sep: rgba(255,255,255,0.075); --fill: rgba(255,255,255,0.085); --hover: rgba(255,255,255,0.04); --open: rgba(10,132,255,0.11);
+  --blue: #0A84FF; --orange: #CC7D10; --green: #30B350; --red: #FF6961; --red-dot: #FF453A;
+  --tint: #0A84FF; --tint-fill: rgba(10,132,255,0.18); --seg-on: rgba(255,255,255,0.15);
+  --sh-s: 0 1px 2px rgba(0,0,0,0.30), 0 8px 22px rgba(0,0,0,0.24);
+  --sh-l: 0 2px 8px rgba(0,0,0,0.26), 0 28px 64px rgba(0,0,0,0.46);
+  --sh-tip: 0 4px 14px rgba(0,0,0,0.40), 0 22px 48px rgba(0,0,0,0.50);
+  --f1: rgba(52,98,230,0.26); --f2: rgba(126,78,226,0.22); --f3: rgba(214,118,64,0.10); --f4: rgba(30,160,154,0.12);
+}
+
+/* ---------- Page: the base colour on <html>, colour fields behind everything ---------- */
+html { background: var(--bg); }
+body { margin: 0; background: transparent; color: var(--ink); font: 400 14px/1.43 var(--font);
+  -webkit-font-smoothing: antialiased; letter-spacing: -0.006em; }
+.ambient { position: fixed; inset: 0; z-index: -1; overflow: hidden; pointer-events: none; }
+.ambient i { position: absolute; border-radius: 50%; filter: blur(90px); }
+.ambient i:nth-child(1) { width: 46vw; height: 46vw; left: -10vw; top: -14vw; background: var(--f1); }
+.ambient i:nth-child(2) { width: 40vw; height: 40vw; right: -8vw; top: 4vh; background: var(--f2); }
+.ambient i:nth-child(3) { width: 44vw; height: 36vw; left: 30vw; top: 46vh; background: var(--f3); }
+.ambient i:nth-child(4) { width: 30vw; height: 30vw; left: -6vw; top: 62vh; background: var(--f4); }
+
+/* ---------- Type: tracking follows size ----------
+   Scale: 11, 12, 13, 14 (body), 15 (emphasised rows), 17 (subtitle), 20, 22, 28, 34 px. */
+.title { font: 700 34px/1.12 var(--font-display); letter-spacing: -0.022em; font-optical-sizing: auto; text-wrap: balance; margin: 0; }
+.subtitle { color: var(--ink-2); font-size: 17px; letter-spacing: -0.01em; }
+/* Header: title and subtitle left, actions and appearance top right, status row below. */
+.header { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px 16px; flex-wrap: wrap; }
+.header .actions { display: flex; align-items: center; gap: 8px; padding-top: 6px; }
+.heading { font: 700 24px/1.15 var(--font-display); letter-spacing: -0.02em; text-wrap: balance; margin: 0; }
+.section-label { font-size: 12px; font-weight: 600; color: var(--ink-2); letter-spacing: 0.005em; margin: 18px 0 6px 16px; }
+.caption { font-size: 12px; color: var(--ink-3); letter-spacing: 0.01em; }
+.num { font-variant-numeric: tabular-nums; }
+
+/* ---------- Glass: a translucent surface with a lit rim ---------- */
+.glass { position: relative; background: linear-gradient(180deg, var(--glass-top), var(--glass-bottom));
+  -webkit-backdrop-filter: blur(26px) saturate(190%); backdrop-filter: blur(26px) saturate(190%);
+  border-radius: 18px; box-shadow: 0 0 0 0.5px var(--stroke), var(--sh-s); corner-shape: squircle; }
+/* .large is for the one main card on a page; every other surface keeps the small shadow. */
+.glass.large { border-radius: 26px; box-shadow: 0 0 0 0.5px var(--stroke), var(--sh-l); }
+@supports (corner-shape: squircle) { .glass { border-radius: 28px; } .glass.large { border-radius: 40px; } }
+.glass::after { content: ""; position: absolute; inset: 0; border-radius: inherit; corner-shape: inherit; padding: 1px; pointer-events: none;
+  background: linear-gradient(180deg, var(--rim-top), var(--rim-side) 38%, var(--rim-side) 70%, var(--rim-bottom));
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite: xor;
+  mask: linear-gradient(#000 0 0) content-box exclude, linear-gradient(#000 0 0); }
+
+/* ---------- Inset-grouped list (Settings / Reminders style) ---------- */
+.list { overflow: hidden; }
+.list .row { position: relative; width: 100%; min-height: 44px; display: flex; align-items: center; gap: 12px; padding: 11px 16px;
+  background: none; border: 0; text-align: left; font: inherit; color: inherit; transition: background-color 120ms ease, transform 160ms var(--ease-out); }
+.list .row + .row::before { content: ""; position: absolute; left: 16px; right: 0; top: 0; height: 0.5px; background: var(--sep); }
+button.row { cursor: pointer; } button.row:active { transform: scale(0.985); }
+
+/* ---------- Buttons ---------- */
+.pill { display: inline-flex; align-items: center; gap: 7px; height: 30px; padding: 0 14px; border: 0; border-radius: 999px; cursor: pointer;
+  font: 500 13px var(--font); color: var(--ink); text-decoration: none;
+  transition: transform 160ms var(--ease-out), box-shadow 150ms ease, background-color 150ms ease; }
+.pill.glass { border-radius: 999px; }
+.pill.tint { background: var(--tint-fill); color: var(--tint); }
+.pill:active { transform: scale(0.97); }
+.pill svg { width: 14px; height: 14px; }
+
+/* ---------- Segmented control with a sliding thumb (macOS) ---------- */
+.seg { position: relative; isolation: isolate; display: inline-flex; padding: 2px; border-radius: 10px; background: var(--fill); }
+.seg .thumb { position: absolute; z-index: -1; top: 2px; bottom: 2px; left: 0; width: 0; border-radius: 8px; background: var(--seg-on);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), inset 0 0.5px 0 var(--rim-top); }
+.seg.ready .thumb { transition: transform 280ms var(--ease-drawer), width 280ms var(--ease-drawer); }
+.seg button { border: 0; background: none; padding: 5px 16px; border-radius: 8px; font: 500 13px var(--font); color: var(--ink-2); cursor: pointer;
+  transition: color 150ms ease, transform 160ms var(--ease-out); }
+.seg button[aria-pressed="true"] { color: var(--ink); }
+.seg button:active { transform: scale(0.97); }
+
+/* ---------- Appearance switch: Light / Dark / Match macOS ---------- */
+.theme { display: inline-flex; padding: 2px; border-radius: 999px; background: var(--fill); }
+.theme button { display: grid; place-items: center; width: 30px; height: 26px; border: 0; border-radius: 999px; background: none; color: var(--ink-2);
+  cursor: pointer; transition: background-color 150ms ease, color 150ms ease, transform 160ms var(--ease-out); }
+.theme button svg { width: 15px; height: 15px; }
+.theme button[aria-pressed="true"] { background: var(--seg-on); color: var(--ink); box-shadow: 0 1px 3px rgba(0,0,0,0.12), inset 0 0.5px 0 var(--rim-top); }
+.theme button:active { transform: scale(0.94); }
+/* Theme changes: cross-fade the whole page with document.startViewTransition, never per-property colour transitions
+   (gradients cannot animate, so text lagged behind the glass). Instant without support or with reduced motion. */
+::view-transition-old(root), ::view-transition-new(root) { animation-duration: 200ms; animation-timing-function: ease; }
+
+/* ---------- Tooltip: delay first, then instant; never from nothing ---------- */
+.tip { position: fixed; z-index: 9; pointer-events: none; padding: 10px 12px; border-radius: 14px; font-size: 13px; max-width: 300px;
+  background: linear-gradient(180deg, var(--glass-top), var(--glass-bottom)); -webkit-backdrop-filter: blur(26px) saturate(190%); backdrop-filter: blur(26px) saturate(190%);
+  box-shadow: 0 0 0 0.5px var(--stroke), var(--sh-tip); opacity: 0; transform: scale(0.97); transform-origin: top left;
+  transition: opacity 140ms var(--ease-out), transform 140ms var(--ease-out); }
+.tip.show { opacity: 1; transform: none; } .tip.instant { transition-duration: 0ms; }
+
+/* ---------- Toolbar: clear until content scrolls under it ---------- */
+.toolbar { position: sticky; top: 0; z-index: 5; transition: background-color 200ms ease, box-shadow 200ms ease; }
+.toolbar.stuck { background: color-mix(in srgb, var(--bg) 58%, transparent); -webkit-backdrop-filter: blur(24px) saturate(180%); backdrop-filter: blur(24px) saturate(180%);
+  box-shadow: 0 14px 28px -24px rgba(0,0,0,0.35); }
+
+/* ---------- Focus, hover, accessibility ---------- */
+:focus-visible { outline: 3px solid color-mix(in srgb, var(--tint) 45%, transparent); outline-offset: 2px; border-radius: 8px; }
+@media (hover: hover) and (pointer: fine) {
+  button.row:hover { background: var(--hover); }
+  .pill.glass:hover { box-shadow: 0 0 0 0.5px var(--stroke), var(--sh-l); }
+  .pill.tint:hover { background: color-mix(in srgb, var(--tint) 16%, transparent); }
+  .seg button[aria-pressed="false"]:hover, .theme button[aria-pressed="false"]:hover { color: var(--ink); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .pill:active, button.row:active, .seg button:active, .theme button:active { transform: none; }
+  .seg.ready .thumb { transition: none; } .tip, .tip.show { transform: none; }
+}
+@media (prefers-reduced-transparency: reduce) {
+  .ambient { display: none; }
+  .glass, .tip, .toolbar.stuck { background: var(--card-solid); -webkit-backdrop-filter: none; backdrop-filter: none; }
+}
+@media (prefers-contrast: more) {
+  :root { --sep: rgba(60,60,67,0.36); } .ambient { display: none; } .glass { box-shadow: 0 0 0 1px var(--sep); }
+}

@@ -1,0 +1,51 @@
+---
+// Sök, the landing page: one field, results as you type, and the four institutions
+// underneath for when you would rather browse.
+import "../styles/home.css"
+import Page from "../layouts/Page.astro"
+import { link, SITE_NAME } from "../lib/site"
+import { siteData, sv } from "../lib/site-data"
+const { institutions, plans, scrapeDate } = siteData()
+---
+
+<Page title={SITE_NAME} current="sok" brand={false}>
+  <main class="home">
+    <header class="intro">
+      <h1 class="title">{SITE_NAME}</h1>
+      <p class="subtitle">Kursplaner och utbildningsplaner</p>
+    </header>
+
+    <div class="glass large finder" data-search data-catalogue={link("/katalog.json")} data-base={link("")}>
+      <label class="field">
+        <svg class="glyph" viewBox="0 0 18 18" aria-hidden="true"><circle cx="7.6" cy="7.6" r="5.1" fill="none" stroke="currentColor" stroke-width="1.7"></circle><path d="m11.6 11.6 4 4" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"></path></svg>
+        <span class="sr">Sök kursplan, program eller ämne</span>
+        <input type="search" role="combobox" aria-expanded="false" aria-controls="hits" aria-autocomplete="list" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" enterkeyhint="go" placeholder="Sök på kurskod eller namn" />
+        <kbd aria-hidden="true">/</kbd>
+      </label>
+      <div class="hits" id="hits" role="listbox" aria-label="Träffar" hidden></div>
+      <p class="hitnote" role="status" hidden></p>
+    </div>
+
+    <section aria-labelledby="home-inst">
+      <h2 class="section-label" id="home-inst">Institutioner</h2>
+      <div class="glass list">
+        {
+          institutions.map((i) => (
+            <a class="row" href={link(`/bladdra/#${i.inst.toLowerCase()}`)} data-inst={i.inst}>
+              <span class="idot" aria-hidden="true" />
+              <span class="iname">{i.name}</span>
+              <span class="imeta num">{sv(i.courses)} kursplaner, {i.programmes.length} program</span>
+              <svg class="go" viewBox="0 0 8 14" aria-hidden="true"><path d="m1.5 1.5 5 5.5-5 5.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" /></svg>
+            </a>
+          ))
+        }
+      </div>
+    </section>
+
+    <p class="foot">{sv(plans)} planer, hämtade från <a href="https://www.du.se/sv/utbildning/" rel="noopener">du.se</a> den {scrapeDate}.</p>
+  </main>
+
+  <script>
+    import "../scripts/search"
+  </script>
+</Page>

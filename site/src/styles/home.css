@@ -1,0 +1,60 @@
+/* Sök, the landing page. */
+.home { max-width: 760px; margin: 0 auto; padding: min(9vh, 80px) 20px 64px; }
+.home *, .home *::before, .home *::after { box-sizing: border-box; }
+.home :is(h1, h2, p) { margin: 0; }
+.home a { text-decoration: none; }
+.home .title { font-family: var(--serif); font-weight: 600; letter-spacing: -0.02em; }
+.home .subtitle { margin-top: 4px; }
+
+/* The field and its results are one surface: the card grows as results arrive. */
+.home .finder { margin-top: 26px; border-radius: 22px; overflow: hidden; }
+.home .field { display: flex; align-items: center; gap: 12px; height: 58px; padding: 0 18px; cursor: text; }
+.home .glyph { width: 18px; height: 18px; flex: none; color: var(--ink-3); }
+.home input { flex: 1; min-width: 0; height: 100%; border: 0; outline: 0; background: none; color: var(--ink);
+  font: 400 17px var(--font); letter-spacing: -0.01em; -webkit-appearance: none; appearance: none; }
+.home input::placeholder { color: var(--ink-3); }
+.home input::-webkit-search-cancel-button { -webkit-appearance: none; }
+.home .finder:focus-within { box-shadow: 0 0 0 0.5px var(--stroke), var(--sh-l), 0 0 0 3px color-mix(in srgb, var(--tint) 30%, transparent); }
+.home kbd { flex: none; min-width: 22px; height: 22px; display: grid; place-items: center; border-radius: 6px; background: var(--fill);
+  font: 500 12px var(--font); color: var(--ink-2); }
+.home .finder:focus-within kbd { display: none; }
+
+.home .hits { padding: 0 6px 6px; }
+.home .hits::before { content: ""; display: block; height: 0.5px; margin: 0 12px 6px; background: var(--sep); }
+.home .hit { display: flex; align-items: center; gap: 12px; min-height: 44px; padding: 8px 12px; border-radius: 12px; color: var(--ink); }
+.home .hit[aria-selected="true"] { background: var(--tint-fill); }
+.home .hit .code { flex: 0 0 68px; font-size: 13px; font-weight: 600; }
+.home .hit .code:empty { display: none; }
+.home .hit .name { flex: 1; min-width: 0; font-size: 15px; color: var(--ink-2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.home .hit .name b { font-weight: 600; color: var(--ink); }
+.home .hit .meta { flex: none; display: inline-flex; align-items: center; gap: 7px; font-size: 13px; color: var(--ink-2); }
+.home .hitnote { padding: 2px 18px 14px; font-size: 13px; color: var(--ink-2); }
+/* Hits in the plans' own text: the plan on one line, the words that matched underneath. */
+.home .grouplabel { margin: 10px 12px 4px; font-size: 12px; font-weight: 600; color: var(--ink-2); }
+.home .hit.text { flex-direction: column; align-items: stretch; gap: 2px; padding-block: 9px; }
+.home .hit.text .line { display: flex; align-items: center; gap: 12px; }
+.home .quote { display: block; margin-left: 80px; font-size: 13px; line-height: 1.4; color: var(--ink-2); overflow: hidden; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; line-clamp: 2; }
+.home .quote .where { margin-right: 7px; font-weight: 600; color: var(--ink); }
+/* The matched words are set in weight, not in a highlight colour. */
+.home .quote mark { background: none; color: var(--ink); font-weight: 600; }
+
+.home section { margin-top: 28px; }
+.home .list .row { color: var(--ink); gap: 12px; transition: background-color 120ms ease, transform 160ms var(--ease-out); }
+.home .list .row:active { transform: scale(0.985); }
+.home .iname { flex: 1; min-width: 0; font-size: 15px; }
+.home .imeta { font-size: 13px; color: var(--ink-2); }
+.home .go { width: 7px; height: 12px; flex: none; color: var(--ink-3); }
+.home .foot { margin: 18px 0 0 16px; font-size: 12px; color: var(--ink-3); }
+.home .foot a { color: var(--ink-2); }
+
+@media (max-width: 560px) {
+  .home { padding-top: 22px; }
+  .home .imeta { display: none; }
+  .home .hit .code { flex-basis: 60px; }
+  .home .quote { margin-left: 0; }
+}
+@media (hover: hover) and (pointer: fine) {
+  .home .list .row:hover { background: var(--hover); }
+  .home .foot a:hover { text-decoration: underline; }
+}
+@media (prefers-reduced-motion: reduce) { .home .list .row:active { transform: none; } }

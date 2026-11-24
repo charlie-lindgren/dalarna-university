@@ -1,0 +1,55 @@
+---
+// The designed shell: house tokens, the soft colour fields behind the glass, the menu, and
+// the stored appearance applied before first paint.
+import "../styles/base.css"
+import "../styles/site.css"
+import SiteBar, { type Section } from "../components/SiteBar.astro"
+import { base, link, SITE_NAME } from "../lib/site"
+
+interface Props {
+  title: string
+  /** Which menu item this page belongs under, if any. */
+  current?: Section
+  brand?: boolean
+}
+const { title, current, brand } = Astro.props
+const fullTitle = title === SITE_NAME ? title : `${title} · ${SITE_NAME}`
+// Links the reader hovers are fetched ahead, so the next page is there when they click.
+// Prefetch only (not prerender), and never the downloads.
+const speculation = JSON.stringify({
+  prefetch: [{ where: { and: [{ href_matches: `${base}/*` }, { not: { href_matches: "/*.xlsx" } }, { not: { href_matches: "/*.json" } }] }, eagerness: "moderate" }],
+})
+---
+
+<!doctype html>
+<html lang="sv">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content" />
+    <title>{fullTitle}</title>
+    <link rel="icon" type="image/svg+xml" href={link("/favicon.svg")} />
+    {base.endsWith("/next") && <meta name="robots" content="noindex" />}
+    <!-- The browser's own chrome takes the page colour, per colour scheme. -->
+    <meta name="theme-color" media="(prefers-color-scheme: light)" content="#EDEFF4" data-light="#EDEFF4" data-dark="#111318" />
+    <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#111318" data-light="#EDEFF4" data-dark="#111318" />
+    <script is:inline>
+      try {
+        const t = localStorage.getItem("theme")
+        if (t === "light" || t === "dark") {
+          document.documentElement.dataset.theme = t
+          for (const m of document.querySelectorAll('meta[name="theme-color"]')) m.content = m.dataset[t]
+        }
+      } catch (e) {}
+    </script>
+    <script type="speculationrules" is:inline set:html={speculation} />
+    <slot name="head" />
+  </head>
+  <body>
+    <div class="ambient" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+    <SiteBar current={current} brand={brand} />
+    <slot />
+    <script>
+      import "../scripts/site"
+    </script>
+  </body>
+</html>
