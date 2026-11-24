@@ -10,7 +10,7 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 7dc390e477c4cfab
+scrape_hash: 24c084b83f12d817
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2WA
 up: "[[Franska]]"
 ---
@@ -107,7 +107,7 @@ Efter avslutad delkurs ska den studerande på franska kunna:
 5.Språkdidaktik 1A, 6 högskolepoäng
 
 Delkursen syftar till att ge den studerande en introduktion till språkdidaktik. Delkursen ger en teoretisk grund och kompletterar de övriga delkursernas innehåll som förberedelse för den kommande yrkesrollen.  
-
+Efter avslutad delkurs ska den studerande kunna:
  
  
   - diskutera hur de främmande språkens ställning i skola och samhälle utvecklats historiskt och debatteras idag 

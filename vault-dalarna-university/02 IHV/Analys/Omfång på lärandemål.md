@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (227 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (229 rader)</span></a>
 
-> [!example]- 227 fynd — klicka för att expandera
+> [!example]- 229 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -106,6 +106,8 @@ status: första pass
 > | [GNV367](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV367) | <a class="no-graph" href="02-IHV/Kursplaner/NAV/GNV367">sida</a> | NAV | 2023-09-11 | — | Långt mål | 33 ord: - visa grundläggande kunskap om lärande för hållbar utveckling i grundskolans år… |
 > | [GNV3GV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3GV) | <a class="no-graph" href="02-IHV/Kursplaner/NAV/GNV3GV">sida</a> | NAV | 2025-09-10 | — | Långt mål | 28 ord: - redogöra för grundläggande kunskaper i naturvetenskap, med särskilt fokus på e… |
 > | [GNV3GV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3GV) | <a class="no-graph" href="02-IHV/Kursplaner/NAV/GNV3GV">sida</a> | NAV | 2025-09-10 | — | Långt mål | 34 ord: - reflektera över och problematisera skolans roll i arbetet med lärande för håll… |
+> | [GNV3LR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3LR) | <a class="no-graph" href="02-IHV/Kursplaner/NAV/GNV3LR">sida</a> | NAV | 2026-11-18 | — | Långt mål | 26 ord: - muntligt diskutera och motivera valen i det egna arbetet samt kritiskt granska… |
+> | [GNV3LS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3LS) | <a class="no-graph" href="02-IHV/Kursplaner/NAV/GNV3LS">sida</a> | NAV | 2026-11-18 | — | Långt mål | 26 ord: - muntligt diskutera och motivera valen i det egna arbetet samt kritiskt granska… |
 > | [NV1035](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NV1035) | <a class="no-graph" href="02-IHV/Kursplaner/NAV/NV1035">sida</a> | NAV | 2017-08-24 | — | För många mål | 20 lärandemål (maximum rekommenderat: 12 för 30 hp) |
 > | [NV1036](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NV1036) | <a class="no-graph" href="02-IHV/Kursplaner/NAV/NV1036">sida</a> | NAV | 2017-09-28 | — | För många mål | 14 lärandemål (maximum rekommenderat: 12 för 30 hp) |
 > | [NV1036](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NV1036) | <a class="no-graph" href="02-IHV/Kursplaner/NAV/NV1036">sida</a> | NAV | 2017-09-28 | — | Långt mål | 26 ord: - visa god förtrogenhet med och reflektera över kursplanerna inom SO, NO och tek… |

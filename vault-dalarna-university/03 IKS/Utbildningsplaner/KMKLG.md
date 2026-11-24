@@ -10,7 +10,7 @@ up: "IKS"
 ---
 
 <!-- analys:start -->
-> [!warning]- 14 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
+> [!warning]- 12 kvalitetsnoteringar i denna utbildningsplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
@@ -20,10 +20,8 @@ up: "IKS"
 > | Nedlagda kursreferenser | Programmet listar nedlagd kurs | `Inspelning i studio` → `GLP2QU` (nedlagd 2026-06-25) — wikilink-länk till nedlagd kod |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Introduktion till musik- och ljuddesign` (7,5 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Ljudskapande och ljudsyntes` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Musikproduktion och genrekonventioner` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Musiklivets praktiker` (7,5 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Musikskapande till rörlig bild` (7,5 hp) |
-> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Entreprenörskap för medieproducenter för musik- och ljuddesign` (7,5 hp) |
+> | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Entreprenörskap för medieproducenter för Musik- och ljuddesign` (7,5 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Medieproduktion i praktiken` (7,5 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Medieproduktion som projekt` (7,5 hp) |
 > | Programkurser olänkade | Kursnamnet finns varken aktivt eller nedlagt | `Ljudläggning till rörlig bild` (7,5 hp) |
@@ -121,14 +119,14 @@ Musik- och ljuddesign ges på distans i samarbete mellan Högskolan Dalarna och 
 - [[GLP29V|Musikproduktionsanalys]], 7,5 hp
 - [[LP1080|Audioteknologi II]], 7,5 hp
 - Ljudskapande och ljudsyntes, 7,5 hp
-- Musikproduktion och genrekonventioner, 7,5 hp
-- Musiklivets praktiker, 7,5 hp
+- [[GMN3LP|Musikproduktion och genrekonventioner]], 7,5 hp
+- [[GMN3LN|Musiklivets praktiker]], 7,5 hp
 
 **År 2**
 
 - Musikskapande till rörlig bild, 7,5 hp
 - [[GLP2QU|Inspelning i studio]], 7,5 hp
-- Entreprenörskap för medieproducenter för musik- och ljuddesign, 7,5 hp
+- Entreprenörskap för medieproducenter för Musik- och ljuddesign, 7,5 hp
 - Medieproduktion i praktiken, 7,5 hp
 - Medieproduktion som projekt, 7,5 hp
 - Ljudläggning till rörlig bild, 7,5 hp

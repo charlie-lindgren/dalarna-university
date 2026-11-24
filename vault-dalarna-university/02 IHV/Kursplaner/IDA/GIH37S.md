@@ -9,7 +9,7 @@ amne: "Idrotts- och hälsovetenskap"
 amne_kod: "IDA"
 institution: "IHV"
 tags: [kursplan, IDA, IHV]
-scrape_hash: 69102e24c4c1d23d
+scrape_hash: 465fb946bc3abe84
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIH37S
 up: "[[Idrotts- och hälsovetenskap]]"
 ---
@@ -121,10 +121,19 @@ Kursen består av fyra delkurser.
 1.Hälsopedagogik, 7,5 högskolepoäng
 
 I delkursen praktiseras och diskuteras strategier för promotivt och inkluderande hälsoarbete i skolan. Vidare diskuteras och problematiseras begreppet hälsa, patogena och salutogena perspektiv på hälsa, samt kvalitativ och kvantitativ forskningsmetodik.   
+De teoretiska och praktiska aspekterna av hälsofrämjande arbete belyses liksom   
+folkhälsopolitiska frågeställningar och problem. Ämnet idrott och hälsas roll i   
+relation till den i samhället, nationellt såväl som internationellt, rådande synen på   
+hälsa diskuteras och problematiseras. Hälsofrämjande arbete i skolan, som beaktar   
+social klass, kön, etnicitet, funktionsnedsättning och normer diskuteras utifrån   
+aktuell forskning på området. 
 
 2.Mål- och nätspel, 7,5 högskolepoäng
 
 I delkursen behandlas fördjupad ämneskunskap såväl som ämnesdidaktik och   
+metodik inom olika mål- och nätspel. Mål- och nätspelens kulturella framväxt och   
+deras relation till styrdokument är centrala i delkursen. Vidare behandlas didaktiska, inkluderande och normkritiska perspektiv inom mål- och nätspel. Etablerade modeller   
+inom mål- och nätspel prövas och diskuteras.
 
 3.Arbetsmiljö, ergonomi och näringslära, 7,5 högskolepoäng
 

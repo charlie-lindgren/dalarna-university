@@ -10,7 +10,7 @@ up: "[[IKS]]"
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 > Huvudområde: Ej huvudområde 1
 
-## Kurser (80 st)
+## Kurser (81 st)
 
 - [[APG22X]] — Tematisk fördjupning inom ett utbildningsvetenskapligt område
 - [[APG244]] — Vetenskapsteori och utbildningsvetenskaplig forskning för grundlärare F-3
@@ -86,6 +86,7 @@ up: "[[IKS]]"
 - [[GPG3JD]] — Att leda kollegiala lärprocesser i förskola och skola
 - [[GPG3KA]] — Didaktik och ledarskap för ämneslärare inriktning årskurs 7-9 (inkl 7,5 hp VFU)
 - [[GPG3KB]] — Didaktik och ledarskap för ämneslärare inriktning gymnasieskolan (inkl 7,5 hp VFU)
+- [[GPG3LT]] — Undervisning och lärande genom rollspel - inriktning pedagogiskt arbete
 - [[PG3023]] — Pedagogiskt arbete IIIb: Examensarbete
 - [[PG3031]] — Utbildningsfilosofiska perspektiv
 - [[PG3041]] — Utbildningsvetenskapliga teorier

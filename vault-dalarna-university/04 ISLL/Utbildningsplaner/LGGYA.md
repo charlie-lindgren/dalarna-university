@@ -4,7 +4,7 @@ programnamn: "Ämneslärarprogrammet inriktning gymnasieskolan"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för lärarutbildning 2023-12-20 . Gäller fr.o.m.  HT 2024."
 tags: [utbildningsplan, program, ISLL, tvärfakultet]
-scrape_hash: ea89a10c1e7ddfbe
+scrape_hash: e2cc650dab0185c0
 url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=LGGYA
 up: "ISLL"
 ---
@@ -245,4 +245,16 @@ Ersätter tidigare utbildningsplan LPGYA.
 
 ### Programingångar
 
-ingång bild
+ingång bild  
+ingång engelska  
+ingång franska  
+ingång historia  
+ingång idrott och hälsa  
+ingång kinesiska  
+ingång matematik  
+ingång modersmål: arabiska  
+ingång religion  
+ingång spanska  
+ingång svenska  
+ingång svenska som andraspråk  
+ingång tyska

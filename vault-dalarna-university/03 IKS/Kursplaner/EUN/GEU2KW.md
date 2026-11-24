@@ -8,11 +8,11 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Entreprenörskap och innovationsteknik"
 amne_kod: "EUN"
 institution: "IKS"
-tags: [kursplan, EUN, IKS, vilande]
-scrape_hash: bbe320236b6f9ddb
+tags: [kursplan, EUN, IKS, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: e51a31f5348e4341
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2KW
 up: "[[Entreprenörskap och innovationsteknik]]"
-cssclasses: [vilande]
 ---
 
 <!-- analys:start -->
@@ -118,7 +118,8 @@ The course starts with a review of some of the most fundamental theories of entr
 
 ### Assessment
 
-Written test, 2.5 credits (examines objective 1)
+Written test, 2.5 credits (examines objective 1)  
+Individual written assignment and active participation in the seminar, 5 credits (examines objectives 2, 3)
 
 ### Forms of Study
 

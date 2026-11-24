@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL]
-scrape_hash: aabfd30651d0925e
+scrape_hash: 47f0d827dd74a3f3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN28Q
 up: "[[Engelska]]"
 ---
@@ -19,7 +19,7 @@ up: "[[Engelska]]"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på minst tre moduler. Betygsrapportering:… |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att få betyget VG på hela kursen krävs VG på minst tre moduler. Betygsrapportering: Mo… |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: **Delkurs 1**: Examination sker genom fortlöpande bedömning av aktivt seminariedeltagande samt genom skriftliga inlämnin… |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att den studerande fördjupar sina kunskaper om engelskämnets ämnesteoretiska och didaktiska … |
 > | Omfång på lärandemål | För många mål | 23 lärandemål (maximum rekommenderat: 12 för 30 hp) |
@@ -150,7 +150,11 @@ Som betygsskala används U–VG.
 För att få betyget VG på hela kursen krävs VG på minst tre moduler.
  
 
-Betygsrapportering:
+Betygsrapportering:  
+Modul 1: Introduktion till språkvetenskaplig metod - 7,5 hp  
+Modul 2: Litteratur och teori - 7,5 hp  
+Modul 3: Uppsats - 7,5 hp  
+Modul 4: Engelsk språkdidaktik lll - 7,5 hp
 
 ## Förkunskapskrav
 

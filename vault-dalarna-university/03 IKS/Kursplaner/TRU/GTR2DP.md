@@ -9,7 +9,7 @@ amne: "Turismvetenskap"
 amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
-scrape_hash: 6dff955cf405669b
+scrape_hash: 9f2087f0a77040e2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2DP
 up: "[[Turismvetenskap]]"
 ---
@@ -19,8 +19,8 @@ up: "[[Turismvetenskap]]"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används A–F. Aktivt deltagande i seminarierna G/U… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Aktivt deltagande till seminarierna: 2.5 poäng… |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används A–F. Aktivt deltagande i seminarierna G/U Slutbetyget på kursen sätts efter en samlad bedömning … |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Aktivt deltagande till seminarierna: 2.5 poäng Skriftliga inlämningsuppgifter: 5 poäng… |
 > | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
 <!-- analys:end -->
 
@@ -66,7 +66,8 @@ Syftet med kursen är att bekanta studenterna med kvalitativa forskningsundersö
 
 ## Examinationsformer
 
-Aktivt deltagande till seminarierna: 2.5 poäng
+Aktivt deltagande till seminarierna: 2.5 poäng  
+Skriftliga inlämningsuppgifter: 5 poäng
 
 ## Arbetsformer
 
@@ -77,7 +78,8 @@ Föreläsningar, seminarier, workshops och skriftliga uppgifter.
 Som betygsskala används A–F.
 
 
-Aktivt deltagande i seminarierna G/U
+Aktivt deltagande i seminarierna G/U  
+Slutbetyget på kursen sätts efter en samlad bedömning av examinator.
 
 ## Förkunskapskrav
 
@@ -114,7 +116,8 @@ The aim of the course is to familiarise students with qualitative research inqui
 
 ### Assessment
 
-Active participation in seminars: 2.5 credits
+Active participation in seminars: 2.5 credits  
+Written assignments: 5 credits
 
 ### Forms of Study
 
@@ -125,7 +128,10 @@ Lectures, seminars, workshops, assignments.
 The Swedish grades A–F.
 
 
-Active participation in seminars: Pass/Fail
+Active participation in seminars: Pass/Fail  
+Written assignments: A-F   
+  
+The course grade (7.5 credits) is set by the examiner and is an aggregative judgement based on the results from all assignments.
 
 ### Prerequisites
 

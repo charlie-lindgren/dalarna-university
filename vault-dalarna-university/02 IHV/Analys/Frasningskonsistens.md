@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Frasningskonsistens.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (109 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Frasningskonsistens.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (111 rader)</span></a>
 
-> [!example]- 109 fynd — klicka för att expandera
+> [!example]- 111 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -103,6 +103,8 @@ status: första pass
 > | [MC2017](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MC2017) | <a class="no-graph" href="02-IHV/Kursplaner/MCA/MC2017">sida</a> | MCA | 2012-08-30 | — | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [MC2020](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MC2020) | <a class="no-graph" href="02-IHV/Kursplaner/MCA/MC2020">sida</a> | MCA | 2014-03-20 | — | Avviker från referensformen | Efter avslutad kurs ska den studerande på ett professionellt, systematiskt och självständigt sätt och utifrån en helhets… |
 > | [MC3027](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MC3027) | <a class="no-graph" href="02-IHV/Kursplaner/MCA/MC3027">sida</a> | MCA | 2017-03-13 | — | Avviker från referensformen | Efter avslutad kurs ska den studerande självständigt kunna:… |
+> | [GNV3LR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3LR) | <a class="no-graph" href="02-IHV/Kursplaner/NAV/GNV3LR">sida</a> | NAV | 2026-11-18 | — | Avviker från referensformen | Efter godkänd kurs ska den studerande kunna:… |
+> | [GNV3LS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3LS) | <a class="no-graph" href="02-IHV/Kursplaner/NAV/GNV3LS">sida</a> | NAV | 2026-11-18 | — | Avviker från referensformen | Efter godkänd kurs ska den studerande kunna:… |
 > | [PS1018](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PS1018) | <a class="no-graph" href="02-IHV/Kursplaner/PSA/PS1018">sida</a> | PSA | 2016-03-10 | — | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [GSA2GZ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2GZ) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA2GZ">sida</a> | SAA | 2020-06-17 | 2020-06-23 | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |
 > | [SA1032](https://www.du.se/sv/utbildning/kurser/kursplan/?code=SA1032) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/SA1032">sida</a> | SAA | 2014-10-14 | — | Avviker från referensformen | Efter avslutad kurs ska den studerande kunna:… |

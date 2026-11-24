@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: 7bb3d51c73511437
+scrape_hash: adde120ce0f1b205
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK23M
 up: "[[Informatik]]"
 ---
@@ -23,7 +23,7 @@ up: "[[Informatik]]"
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig tentamen (4,5 hp) och skriftlig redovisning av laborationer (3 hp, betygskala U-G).… |
 > | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Grundläggande programmering` → `MI1001` (nedlagd 2024-11-06); förkunskap nämner nedlagd kurs |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att studenten ska tillägna sig kunskap om principer och metoder för att designa och använda … |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Antal examinationstillfällen är p.g.a. ämnets snabba utveckling begränsade till fem.… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Antal examinationstillfällen är p.g.a. ämnets snabba utveckling begränsade till fem. Kursen kan ej tillgodoräknas i en e… |
 <!-- analys:end -->
 
 # GIK23M
@@ -85,7 +85,9 @@ Resultatet på den skriftliga tentamen styr slutbetyget på kursen.
 
 ## Övrigt
 
-Antal examinationstillfällen är p.g.a. ämnets snabba utveckling begränsade till fem.
+Antal examinationstillfällen är p.g.a. ämnets snabba utveckling begränsade till fem.  
+Kursen kan ej tillgodoräknas i en examen samtidigt som kurser i grundläggande databassystem.   
+Ersätter IK1051.
 
 ## English Version
 

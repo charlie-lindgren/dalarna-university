@@ -9,7 +9,7 @@ amne: "Byggteknik"
 amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
-scrape_hash: e7a13849d29b20ab
+scrape_hash: 5b368fbfbacb122b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2GC
 up: "[[Byggteknik]]"
 ---
@@ -20,7 +20,7 @@ up: "[[Byggteknik]]"
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. Skriftlig tentamen, U-3-4-5. Seminarier, U-G. Skriftlig inlämningsuppgift, U-G.… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig tentamen 3 hp… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig tentamen 3 hp Seminarium 1 hp Skriftlig inlämningsuppgift 1 hp… |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att studenten ska skaffa sig grundläggande kunskaper om BIM (Byggnadsinformationsmo… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
 > | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
@@ -61,7 +61,9 @@ I kursen behandlas BIM från koncept till avveckling för byggnadens/anläggning
 
 ## Examinationsformer
 
-Skriftlig tentamen 3 hp
+Skriftlig tentamen 3 hp  
+Seminarium 1 hp  
+Skriftlig inlämningsuppgift 1 hp
 
 ## Arbetsformer
 

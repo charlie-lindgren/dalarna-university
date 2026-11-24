@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (102 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (112 rader)</span></a>
 
-> [!example]- 102 fynd — klicka för att expandera
+> [!example]- 112 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -87,6 +87,12 @@ status: första pass
 > | [FMI2222](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2222) | <a class="no-graph" href="01-IIT/Kursplaner/MIKRODAT/FMI2222">sida</a> | MIKRODAT | 2019-10-03 | — | För få mål | 0 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
 > | [FMI2223](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2223) | <a class="no-graph" href="01-IIT/Kursplaner/MIKRODAT/FMI2223">sida</a> | MIKRODAT | 2017-10-04 | — | För få mål | 0 lärandemål (minimum rekommenderat: 3 för 7.5 hp) |
 > | [MIKR002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MIKR002) | <a class="no-graph" href="01-IIT/Kursplaner/MIKRODAT/MIKR002">sida</a> | MIKRODAT | 2012-12-04 | — | Långt mål | 26 ord: - värdera olika typer av uppgifter och typer av datainsamling med avseende på di… |
+> | [BMT22B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BMT22B) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/BMT22B">sida</a> | MTA | 2026-11-05 | — | Långt mål | 37 ord: - redogöra för innebörden av begrepp, modeller och teoretiska grunder inom kunsk… |
+> | [BMT22B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BMT22B) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/BMT22B">sida</a> | MTA | 2026-11-05 | — | Långt mål | 31 ord: - redogöra för grundläggande begrepp, modeller och teoretiska grunder inom kunsk… |
+> | [BMT22B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BMT22B) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/BMT22B">sida</a> | MTA | 2026-11-05 | — | Långt mål | 27 ord: - i samband med experimentella undersökningar, bearbeta och utvärdera data och r… |
+> | [BMT22C](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BMT22C) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/BMT22C">sida</a> | MTA | 2026-11-05 | — | Långt mål | 38 ord: - redogöra för grundläggande begrepp, modeller och teoretiska grunder inom kunsk… |
+> | [BMT22D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BMT22D) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/BMT22D">sida</a> | MTA | 2026-11-05 | — | Långt mål | 30 ord: - redogöra för innebörden av begrepp, modeller och teoretiska grunder inom kunsk… |
+> | [BMT22D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BMT22D) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/BMT22D">sida</a> | MTA | 2026-11-05 | — | Långt mål | 29 ord: - redogöra för grundläggande begrepp, modeller och teoretiska grunder inom kunsk… |
 > | [GMT228](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT228) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/GMT228">sida</a> | MTA | 2018-04-05 | — | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [GMT343](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT343) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/GMT343">sida</a> | MTA | 2023-04-04 | — | För många mål | 9 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | [GMT343](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT343) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/GMT343">sida</a> | MTA | 2023-04-04 | — | Långt mål | 32 ord: - redogöra för centrala begrepp inom området produktionsteknik omfattande område… |
@@ -101,6 +107,10 @@ status: första pass
 > | [AEG233](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG233) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/AEG233">sida</a> | MÖY | 2019-06-05 | — | Långt mål | 28 ord: - analysera och diskutera de fysiska processer som styr utbytet av olika typer a… |
 > | [AEG294](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG294) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/AEG294">sida</a> | MÖY | 2023-06-20 | — | För många mål | 6 lärandemål (maximum rekommenderat: 4 för 3 hp) |
 > | [AEG2AL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AL) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/AEG2AL">sida</a> | MÖY | 2024-05-23 | — | Långt mål | 28 ord: - analysera och förklara de fysiska processer som styr utbytet hos olika typer a… |
+> | [AEG2D6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2D6) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/AEG2D6">sida</a> | MÖY | 2026-11-05 | — | Långt mål | 31 ord: - beskriva och jämföra tekniker för elproduktion från solceller, vindkraft, brän… |
+> | [AEG2D6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2D6) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/AEG2D6">sida</a> | MÖY | 2026-11-05 | — | Långt mål | 28 ord: - beskriva och jämföra tekniker för värmeproduktion med solfångare, värmepumpar … |
+> | [AEG2DB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2DB) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/AEG2DB">sida</a> | MÖY | 2026-11-05 | — | Långt mål | 48 ord: - visa väsentligt fördjupade kunskaper och insikter om aktuellt forsknings- och … |
+> | [AEG2DC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2DC) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/AEG2DC">sida</a> | MÖY | 2026-11-05 | — | Långt mål | 41 ord: - visa väsentligt fördjupade kunskaper och insikter om aktuellt forsknings- och … |
 > | [EG3007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3007) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/EG3007">sida</a> | MÖY | 2015-08-27 | — | Långt mål | 27 ord: - analysera och diskutera de fysikaliska processer som styr utbytet av en termis… |
 > | [EG3009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3009) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/EG3009">sida</a> | MÖY | 2015-09-17 | — | Långt mål | 26 ord: - analysera olika metoder som kan användas för att skydda solvärmekretsen för sk… |
 > | [EG3012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3012) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/EG3012">sida</a> | MÖY | 2015-09-17 | — | För många mål | 7 lärandemål (maximum rekommenderat: 6 för 5 hp) |

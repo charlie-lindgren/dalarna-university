@@ -9,14 +9,11 @@ up: "[[IKS]]"
 
 > Forskarutbildningsämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 
-## Kurser (1 st)
-
-- [[FPA0001]] — Vetenskapliga metoder
-
-## Vilande kursplaner (18 st)
+## Vilande kursplaner (19 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
+- [[FPA0001]] — Vetenskapliga metoder
 - [[FPA0002]] — Forskning och pedagogisk praktik - kommunikation, kunskap och samverkan
 - [[FPA0003]] — Akademiskt skrivande och talande  på engelska
 - [[FPA0004]] — Det demokratiska värdegrundsuppdraget i komplexa skolpraktiker

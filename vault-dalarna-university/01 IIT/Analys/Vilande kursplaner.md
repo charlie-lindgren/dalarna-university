@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (101 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Vilande-kursplaner.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (111 rader)</span></a>
 
-> [!example]- 101 fynd — klicka för att expandera
+> [!example]- 111 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Institution | Fastställd | Reviderad | Problem |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -30,6 +30,7 @@ status: första pass
 > | [BY1059](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1059) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/BY1059">sida</a> | BYA | IIT | 2015-03-20 | — | Ingen aktiv kursomgång |
 > | [EG3007](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3007) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/EG3007">sida</a> | MÖY | IIT | 2015-08-27 | — | Ingen aktiv kursomgång |
 > | [EG3015](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3015) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/EG3015">sida</a> | MÖY | IIT | 2015-08-27 | — | Ingen aktiv kursomgång |
+> | [EG3009](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3009) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/EG3009">sida</a> | MÖY | IIT | 2015-09-17 | — | Ingen aktiv kursomgång |
 > | [EG3012](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3012) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/EG3012">sida</a> | MÖY | IIT | 2015-09-17 | — | Ingen aktiv kursomgång |
 > | [BY1061](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BY1061) | <a class="no-graph" href="01-IIT/Kursplaner/BYA/BY1061">sida</a> | BYA | IIT | 2015-11-23 | — | Ingen aktiv kursomgång |
 > | [MA1040](https://www.du.se/sv/utbildning/kurser/kursplan/?code=MA1040) | <a class="no-graph" href="01-IIT/Kursplaner/MAA/MA1040">sida</a> | MAA | IIT | 2016-03-24 | — | Ingen aktiv kursomgång |
@@ -111,10 +112,19 @@ status: första pass
 > | [GIE3JW](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE3JW) | <a class="no-graph" href="01-IIT/Kursplaner/IEA/GIE3JW">sida</a> | IEA | IIT | 2026-04-01 | — | Ingen aktiv kursomgång |
 > | [GMT3JT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JT) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/GMT3JT">sida</a> | MTA | IIT | 2026-04-01 | — | Ingen aktiv kursomgång |
 > | [GMT3JV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3JV) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/GMT3JV">sida</a> | MTA | IIT | 2026-04-01 | — | Ingen aktiv kursomgång |
-> | [BMA228](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BMA228) | <a class="no-graph" href="01-IIT/Kursplaner/MAA/BMA228">sida</a> | MAA | IIT | 2026-05-25 | — | Ingen aktiv kursomgång |
 > | [BMA229](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BMA229) | <a class="no-graph" href="01-IIT/Kursplaner/MAA/BMA229">sida</a> | MAA | IIT | 2026-05-25 | — | Ingen aktiv kursomgång |
 > | [GMT3K5](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3K5) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/GMT3K5">sida</a> | MTA | IIT | 2026-05-25 | — | Ingen aktiv kursomgång |
 > | [GMD2H3](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2H3) | <a class="no-graph" href="01-IIT/Kursplaner/MDI/GMD2H3">sida</a> | MDI | IIT | 2020-06-08 | 2026-10-15 | Ingen aktiv kursomgång |
+> | [BMT22B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BMT22B) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/BMT22B">sida</a> | MTA | IIT | 2026-11-05 | — | Ingen aktiv kursomgång |
+> | [BMT22C](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BMT22C) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/BMT22C">sida</a> | MTA | IIT | 2026-11-05 | — | Ingen aktiv kursomgång |
+> | [BMT22D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BMT22D) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/BMT22D">sida</a> | MTA | IIT | 2026-11-05 | — | Ingen aktiv kursomgång |
+> | [GMT3LJ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT3LJ) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/GMT3LJ">sida</a> | MTA | IIT | 2026-11-05 | — | Ingen aktiv kursomgång |
+> | [AEG2D6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2D6) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/AEG2D6">sida</a> | MÖY | IIT | 2026-11-05 | — | Ingen aktiv kursomgång |
+> | [AEG2D7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2D7) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/AEG2D7">sida</a> | MÖY | IIT | 2026-11-05 | — | Ingen aktiv kursomgång |
+> | [AEG2D9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2D9) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/AEG2D9">sida</a> | MÖY | IIT | 2026-11-05 | — | Ingen aktiv kursomgång |
+> | [AEG2DA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2DA) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/AEG2DA">sida</a> | MÖY | IIT | 2026-11-05 | — | Ingen aktiv kursomgång |
+> | [AEG2DB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2DB) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/AEG2DB">sida</a> | MÖY | IIT | 2026-11-05 | — | Ingen aktiv kursomgång |
+> | [AEG2DC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2DC) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/AEG2DC">sida</a> | MÖY | IIT | 2026-11-05 | — | Ingen aktiv kursomgång |
 
 ## Syfte
 

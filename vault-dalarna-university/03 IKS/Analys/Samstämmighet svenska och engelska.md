@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (574 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (582 rader)</span></a>
 
-> [!example]- 574 fynd — klicka för att expandera
+> [!example]- 582 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -151,6 +151,12 @@ status: första pass
 > | [GHI3LE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LE) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LE">sida</a> | HIA | 2026-10-02 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
 > | [GHI3LF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LF) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LF">sida</a> | HIA | 2026-10-02 | — | Paritetsskillnad | Svenska: 17 mål, engelska: 2 mål (diff 15) |
 > | [GHI3LF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LF) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LF">sida</a> | HIA | 2026-10-02 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | [GHI3LK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LK) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LK">sida</a> | HIA | 2026-10-30 | — | Paritetsskillnad | Svenska: 17 mål, engelska: 2 mål (diff 15) |
+> | [GHI3LK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LK) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LK">sida</a> | HIA | 2026-10-30 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | [GHI3LL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LL) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LL">sida</a> | HIA | 2026-10-30 | — | Paritetsskillnad | Svenska: 15 mål, engelska: 2 mål (diff 13) |
+> | [GHI3LL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LL) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LL">sida</a> | HIA | 2026-10-30 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+> | [GHI3LM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LM) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LM">sida</a> | HIA | 2026-10-30 | — | Paritetsskillnad | Svenska: 11 mål, engelska: 2 mål (diff 9) |
+> | [GHI3LM](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LM) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LM">sida</a> | HIA | 2026-10-30 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
 > | [GHI3LQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LQ) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LQ">sida</a> | HIA | 2026-11-02 | — | Paritetsskillnad | Svenska: 26 mål, engelska: 2 mål (diff 24) |
 > | [GHI3LQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LQ) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LQ">sida</a> | HIA | 2026-11-02 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
 > | [HI1004](https://www.du.se/sv/utbildning/kurser/kursplan/?code=HI1004) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/HI1004">sida</a> | HIA | 2007-01-09 | 2020-07-03 | Paritetsskillnad | Svenska: 3 mål, engelska: 1 mål (diff 2) |
@@ -244,6 +250,7 @@ status: första pass
 > | [GMN3GY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3GY) | <a class="no-graph" href="03-IKS/Kursplaner/MPR/GMN3GY">sida</a> | MPR | 2025-09-26 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
 > | [GMN3JF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3JF) | <a class="no-graph" href="03-IKS/Kursplaner/MPR/GMN3JF">sida</a> | MPR | 2026-02-13 | — | Paritetsskillnad | Svenska: 10 mål, engelska: 0 mål (diff 10) |
 > | [GMN3LA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3LA) | <a class="no-graph" href="03-IKS/Kursplaner/MPR/GMN3LA">sida</a> | MPR | 2026-09-28 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
+> | [GMN3LP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMN3LP) | <a class="no-graph" href="03-IKS/Kursplaner/MPR/GMN3LP">sida</a> | MPR | 2026-11-19 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (4 mål utan punktlista) |
 > | [GNA2RY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA2RY) | <a class="no-graph" href="03-IKS/Kursplaner/NAA/GNA2RY">sida</a> | NAA | 2021-10-29 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 1 mål (diff 5) |
 > | [GNA2RY](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA2RY) | <a class="no-graph" href="03-IKS/Kursplaner/NAA/GNA2RY">sida</a> | NAA | 2021-10-29 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
 > | [GNA3B7](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNA3B7) | <a class="no-graph" href="03-IKS/Kursplaner/NAA/GNA3B7">sida</a> | NAA | 2024-05-17 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 6 mål (diff 1) |
@@ -471,6 +478,7 @@ status: första pass
 > | [GPG3KA](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3KA) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG3KA">sida</a> | PGA | 2026-06-02 | — | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
 > | [GPG3KB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3KB) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG3KB">sida</a> | PGA | 2026-06-02 | — | Paritetsskillnad | Svenska: 7 mål, engelska: 1 mål (diff 6) |
 > | [GPG3KB](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3KB) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG3KB">sida</a> | PGA | 2026-06-02 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | [GPG3LT](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG3LT) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/GPG3LT">sida</a> | PGA | 2026-11-19 | — | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
 > | [PG2043](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PG2043) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/PG2043">sida</a> | PGA | 2012-10-09 | 2013-05-15 | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [PG2048](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PG2048) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/PG2048">sida</a> | PGA | 2013-03-15 | 2014-02-03 | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | [PG3023](https://www.du.se/sv/utbildning/kurser/kursplan/?code=PG3023) | <a class="no-graph" href="03-IKS/Kursplaner/PGA/PG3023">sida</a> | PGA | 2013-03-15 | 2014-02-03 | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |

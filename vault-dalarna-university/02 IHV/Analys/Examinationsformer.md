@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Examinationsformer.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (177 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Examinationsformer.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (179 rader)</span></a>
 
-> [!example]- 177 fynd — klicka för att expandera
+> [!example]- 179 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -191,6 +191,8 @@ status: första pass
 > | [FHV0001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0001) | <a class="no-graph" href="02-IHV/Kursplaner/VÅRDVETS/FHV0001">sida</a> | VÅRDVETS | 2018-01-25 | — | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom seminarier och skriftlig inlämning av en projektportfölj. Projektportföljen omfattar, en redogöre… |
 > | [FHV0002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0002) | <a class="no-graph" href="02-IHV/Kursplaner/VÅRDVETS/FHV0002">sida</a> | VÅRDVETS | 2018-03-28 | 2022-09-28 | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom skriftliga inlämningsuppgifter och presentationer vid seminarier. Som en del av detta kommer koll… |
 > | [FHV0003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0003) | <a class="no-graph" href="02-IHV/Kursplaner/VÅRDVETS/FHV0003">sida</a> | VÅRDVETS | 2018-11-01 | — | Saknar punktlista | Examinationsformer skrivet som löpande text: Examination sker genom skriftliga inlämningsuppgifter, genom att kollegialt granska och ge återkoppling på andra student… |
+> | [FVV222V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FVV222V) | <a class="no-graph" href="02-IHV/Kursplaner/VÅRDVETS/FVV222V">sida</a> | VÅRDVETS | 2026-10-14 | — | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig individuell uppgift Muntlig examination… |
+> | [FVV222X](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FVV222X) | <a class="no-graph" href="02-IHV/Kursplaner/VÅRDVETS/FVV222X">sida</a> | VÅRDVETS | 2026-10-14 | — | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig examinerande uppgift. Muntlig examination.… |
 
 ## Syfte
 

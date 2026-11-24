@@ -10,7 +10,7 @@ amne_kod: "KIA"
 institution: "ISLL"
 tags: [kursplan, KIA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 65558311a4d04902
+scrape_hash: 9cebc344dc37cbf1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2VL
 up: "[[Kinesiska]]"
 ---
@@ -21,7 +21,7 @@ up: "[[Kinesiska]]"
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GKI23D.… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GKI23D. För nätbaserad kurs krävs att den studerande kan kommunicera med ljud och bild via en dator eller motsv… |
 <!-- analys:end -->
 
 # GKI2VL
@@ -83,7 +83,9 @@ Betygsrapportering:
 
 ## Övrigt
 
-Ersätter GKI23D.
+Ersätter GKI23D.  
+
+För nätbaserad kurs krävs att den studerande kan kommunicera med ljud och bild via en dator eller motsvarande.
 
 ## English Version
 

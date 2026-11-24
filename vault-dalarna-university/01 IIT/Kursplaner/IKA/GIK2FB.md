@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: f493b0604bc6e40a
+scrape_hash: 3594ae47e949cb03
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2FB
 up: "[[Informatik]]"
 ---
@@ -19,7 +19,7 @@ up: "[[Informatik]]"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Laboration U-G.… |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Laboration U-G. För att erhålla VG som slutbetyg krävs VG på såväl skriftlig examination r… |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Inlämningsuppgifter (2,5 hp), laborationer (2,5 hp) och skriftlig tentamen (2,5 hp).… |
 > | Omfång på lärandemål | För många mål | 11 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
 > | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
@@ -95,7 +95,8 @@ Föreläsningar, workshops, laborationer och inlämningsuppgifter
 Som betygsskala används U–VG.
 
 
-Laboration U-G.
+Laboration U-G.  
+För att erhålla VG som slutbetyg krävs VG på såväl skriftlig examination resp. VG i momentet inlämningsuppgift. Utöver detta krävs ett G i laborationsmomentet.
 
 ## Förkunskapskrav
 

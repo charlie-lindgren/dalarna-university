@@ -9,7 +9,7 @@ amne: "Matematikdidaktik"
 amne_kod: "MDI"
 institution: "IIT"
 tags: [kursplan, MDI, IIT]
-scrape_hash: cd8a029636271445
+scrape_hash: 74da75743533275d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMD2TV
 up: "[[Matematikdidaktik]]"
 ---
@@ -138,7 +138,62 @@ Efter avslutad delkurs ska den studerande kunna:
 
 ## Innehåll
 
-Kursen består av fyra delkurser.
+Kursen består av fyra delkurser.  
+
+### Delkurser
+
+1.Matematikdidaktik II, 7,5 högskolepoäng
+
+Delkursen är en fördjupning i matematikdidaktik som
+vetenskapsområde och undervisningspraktik. I delkursen kontextualiseras
+matematikundervisning och matematiklärande i ett större sammanhang, exempelvis
+utifrån uppgiftskonstruktion, bedömning och elevperspektiv. I delkursen behandlas
+teorier om undervisning och bedömning i matematik med fokus på årskurs 7-9 och
+gymnasiet. Tyngdpunkten ligger på planering för undervisning och utvärdering av
+undervisning samt bedömning av elevers visade förmågor och kunskaper. Delkursen
+behandlar även olika aspekter på vetenskaplighet samt innebörden av
+undervisning på vetenskaplig grund. Fokus ligger på de matematiska begrepp med
+tillhörande representationsformer som är relevanta för årskurs 7–9 och
+gymnasiet.
+2.Matematikens historia för lärare, 7,5 högskolepoäng
+
+Delkursen belyser matematikens historia i stora
+drag, med särskild tonvikt på olika talsystem, symboler och räkneoperationer
+genom historien. Exempel ges från olika tider och kulturer, bland annat inom
+fornafrikansk, sumerisk, babylonisk och fornegyptisk matematik, mayaindianernas
+matematik samt fornkinesisk matematik. Olika typer av matematiska uppgifter
+samt deras dåtida lösningsmetoder provas och diskuteras. Likheter och
+skillnader mellan dessa och nutidens strategier granskas och belyses. Exempel
+ges på såväl kvinnliga som manliga matematiker genom tiderna, vilken matematik
+de arbetat med samt vilken betydelse deras arbete har haft på den fortsatta
+utvecklingen av matematiken. I delkursen ingår även att fördjupa sig i ett
+specifikt matematiskt område eller begrepp och undersöka hur utvecklingen av
+detta skett genom tiderna. I delkursen behandlas dessutom hur lärare utifrån
+skolans styrdokument kan planera, genomföra, utvärdera och utveckla
+undervisning i matematik via matematikens historia. I ett metaperspektiv görs
+jämförelser mellan elevers och mänsklighetens matematiska utveckling.
+3.Statistik och sannolikhetslära, 7,5 högskolepoäng
+
+I delkursen behandlas
+statistikens och sannolikhetsberäkningarnas roll i matematik samt hur
+statistiska undersökningar kan utformas, genomföras samt utgå från skolans
+värdegrund och uppdrag. Delkursen behandlar beskrivande statistik med
+diagram, statistiska mått och samband såsom regression och korrelation,
+sannolikhetslära med studier av oberoende händelser och betingade sannolikheter,
+slumpvariabler, diskreta sannolikhetsfördelningar samt några approximationer.
+Vidare studeras kontinuerliga sannolikhetsfördelningar, speciellt normalfördelningen
+och statistisk inferens där konfidensintervall för andelar respektive väntevärden
+beräknas. Principen för hypotesprövningar klargörs och tillämpningar som leder
+fram till bl.a. chi-två-test studeras. I delkursen används kalkylprogram för
+tillämpningar och beräkningar på statistiska material.  
+
+4.Envariabelanalys, 7,5 högskolepoäng
+
+I delkursen behandlas funktioner och samband såsom
+elementära funktioner med inverser, gränsvärden, kontinuitet och derivata.
+Tillika behandlar delkursen deriveringsregler, integraler, integrationsmetoder,
+tillämpningar av derivata och integraler samt serieutvecklingar. I behandlingen
+av delkursens innehåll kommer digitala verktyg att vara en viktig del.
 
 ## Examinationsformer
 

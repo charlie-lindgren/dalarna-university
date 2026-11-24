@@ -33,10 +33,13 @@ up: "[[IIT]]"
 - [[GMT3K6]] — Forskningsmetodik för ingenjörer
 - [[MT1033]] — CNC-teknik
 
-## Vilande kursplaner (14 st)
+## Vilande kursplaner (18 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
+- [[BMT22B]] — Basfysik 1:1
+- [[BMT22C]] — Basfysik 1:2
+- [[BMT22D]] — Basfysik 2
 - [[GMT228]] — Produktutvecklingsmetoder
 - [[GMT25Z]] — Examensarbete Högskoleingenjör Maskinteknik
 - [[GMT2QF]] — Finita element metoden i praktiken
@@ -47,6 +50,7 @@ up: "[[IIT]]"
 - [[GMT3JV]] — Assisterande robotik
 - [[GMT3JY]] — Tillverkning
 - [[GMT3K5]] — Examensarbete i assisterande teknik med inriktning mot maskinteknik
+- [[GMT3LJ]] — Produktutveckling
 - [[MT1060]] — Hållfasthetslära
 - [[MT1068]] — Introduktion till produktutveckling
 - [[MT1074]] — Maskinelement

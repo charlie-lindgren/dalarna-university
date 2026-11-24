@@ -1,0 +1,160 @@
+---
+kurskod: GHI3LM
+kursnamn: "Historia III, med examensarbete för kandidatexamen"
+course_name: "History III, including Bachelor‘s Degree Thesis"
+hp: 30 högskolepoäng
+niva: "Grundnivå"
+huvudomrade: "Historia 1"
+amne: "Historia"
+amne_kod: "HIA"
+institution: "IKS"
+tags: [kursplan, HIA, IKS, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: e15f46a3d7838f16
+url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LM
+up: "[[Historia]]"
+---
+
+<!-- analys:start -->
+> [!warning]- 3 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+>
+> | Område | Problem | Detalj |
+> | --- | --- | --- |
+> | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Målet med kursen är att den studerande fördjupar sina kunskaper om historieämnets utveckling, samt dess teori- och metod… |
+> | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 11 mål, engelska: 2 mål (diff 9) |
+> | Samstämmighet svenska och engelska | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
+<!-- analys:end -->
+
+# GHI3LM
+
+[Kursplan på du.se →](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LM)
+
+**Kursnamn:** Historia III, med examensarbete för kandidatexamen
+**Course Name:** History III, including Bachelor‘s Degree Thesis
+
+- **Poäng:** 30 högskolepoäng
+- **Nivå:** Grundnivå
+- **Kursen kan ingå i följande huvudområde(n):** Historia 1
+- **Ämnestillhörighet:** Historia (HIA)
+- **Fastställd:** Fastställd 2026-10-30 . Kursplanen gäller fr.o.m. 2026-10-30.
+
+## Lärandemål
+
+Målet med kursen är att den studerande fördjupar sina kunskaper om historieämnets utveckling, samt dess teori- och metodanvändning. Kursen avslutas med att den studerande planerar och genomför ett självständigt arbete som redovisas i form av en vetenskaplig uppsats (examensarbete).
+
+### Delkurser
+
+1.Teori och metod i historieämnet, 7,5 högskolepoäng
+
+Efter godkänd delkurs ska studenten kunna:
+ 
+ 
+  - urskilja och använda kunskap om historieämnets utveckling 
+  - diskutera och kommunicera ämnets vetenskapliga grundvalar 
+  - självständigt använda fördjupade kunskaper om teori- och metodanvändning inom historieämnet 
+  - förstå vad som utmärker god forskningsetik inom historieämnet 
+  - aktivt använda sina fördjupade kunskaper om arkivmaterial och olika källmaterials möjligheter och begränsningar.
+
+2.Individuell läskurs, 7,5 högskolepoäng
+
+Efter godkänd delkurs ska studenten kunna:
+
+  - självständigt samla in och presentera relevant forskning i anslutning till en tänkbar historisk undersökning
+
+  - med analytisk skärpa kunna presentera tydliga och metodologiskt samt teoretiskt förankrade kunskaper inom ett historiskt problem- eller temaområde.
+
+3.Examensarbete, 15 högskolepoäng
+
+Efter godkänd delkurs ska studenten kunna:
+
+  - självständigt formulera ett vetenskapligt relevant och tydligt definierat problem
+
+  - självständig använda teori och metod samt visa etisk medvetenhet samt i fråga om olika källmaterials möjligheter och begränsningar
+
+  - med stöd i välgrundade vetenskapliga överväganden samt med analytisk förmåga, genomföra och presentera en undersökning med vedertagen akribi och koppling till aktuellt forskningsområde
+
+  - kritiskt granska och diskutera andra studenters vetenskapliga arbeten.
+
+## Innehåll
+
+Kursen består av tre delkurser.
+
+### Delkurser
+
+1.Teori och metod i historieämnet, 7,5 högskolepoäng
+
+Delkursen innehåller studier av historieämnets arkivmaterial och teori- och metodanvändning. I kursen behandlas även grundläggande forskningsetiska frågor samt digitaliseringens betydelse för historieämnets utveckling.
+
+2.Individuell läskurs, 7,5 högskolepoäng
+
+Delkursen innehåller fördjupade studier i anslutning till de ämnen som valts för arbetet. Vid sidan av de rena ämneskunskaperna och förmågan att självständigt ringa in och sätta sig in i ett etablerat forskningsläge läggs stor vikt vid frågor om teori- och metodanvändning.
+
+3.Examensarbete, 15 högskolepoäng
+
+Delkursen innehåller självständigt uppsatsskrivande inklusive handledning, enskilt eller i grupp. Forskningsuppgiften planeras och redovisas i form av en vetenskaplig uppsats (examensarbete).
+
+## Examinationsformer
+
+- Aktivt deltagande i seminarier
+
+  - Examensarbete
+
+  - Skriftliga inlämningsuppgifter
+
+  - Muntlig tentamen
+
+  - skriftlig salstentamen
+
+## Betyg
+
+Som betygsskala på hel kurs används U–VG.
+
+För att erhålla betyget Väl Godkänt på hela kursen krävs Väl Godkänt på delkurs 3 (Examensarbetet)
+
+Betyg rapporteras enligt följande:
+
+  - Teori och metod i historieämnet - 7,5 hp | U–G
+  - Individuell läskurs - 7,5 hp | U–G
+  - Examensarbete - 15 hp | U–VG
+
+## Förkunskapskrav
+
+- Historia I 30 hp, Historia II 22,5 hp inklusive examensarbete 7,5 hp eller uppsats 7,5 hp
+
+## Övrigt
+
+Överlappar GHI362.
+
+För nätbaserad kurs krävs att den studerande har möjlighet att kommunicera med ljud och bild via en dator eller motsvarande.
+
+Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
+
+Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Högskolan Dalarna på grund av funktionsnedsättning, har examinator rätt att anpassa examinationen. Examinator avgör utifrån kursplanens mål om examinationen kan anpassas i enlighet med beslutet/rekommendationen.
+
+## English Version
+
+### Learning Outcomes
+
+### Modules
+
+1.Theory and Method in the Subject of History, 7.5 Credits2.Individual Reading Course, 7.5 Credits3.Bachelor‘s Thesis, 15 Credits
+
+### Course Content
+
+### Modules
+
+1.Theory and Method in the Subject of History, 7.5 Credits2.Individual Reading Course, 7.5 Credits3.Bachelor‘s Thesis, 15 Credits
+
+### Grades
+
+The grading scale used for the final course grade is U–VG.
+
+Grades are reported as follows:
+
+  - Theory and Metod in History - 7.5 Credits | U–G
+  - Individual Theme Course - 7.5 Credits | U–G
+  - Thesis - 15 Credits | U–VG
+
+### Prerequisites
+
+- History I 30 credits, History II 22.5 credits including thesis 7.5 credits or essay 7.5 credits

@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: 3b61a6666ea2a02a
+scrape_hash: 3af4e3d62df5d411
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2PF
 up: "[[Informatik]]"
 ---
@@ -19,7 +19,7 @@ up: "[[Informatik]]"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Skriftlig tentamen 1,5hp U-VG, seminarier 3hp U-G, laborationer 3hp U-G.… |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Skriftlig tentamen 1,5hp U-VG, seminarier 3hp U-G, laborationer 3hp U-G. För att uppnå VG … |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig tentamen 1,5 hp, seminarier 3 hp och laborationer 3 hp.… |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet är att studenterna förvärvar fördjupade kunskaper och färdigheter inom IT-arkitektur som omfattar… |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen kan ges på engelska… |
@@ -86,7 +86,8 @@ Föreläsningar, obligatoriska seminarier och laborationer.
 Som betygsskala används U–VG.
 
 
-Skriftlig tentamen 1,5hp U-VG, seminarier 3hp U-G, laborationer 3hp U-G.
+Skriftlig tentamen 1,5hp U-VG, seminarier 3hp U-G, laborationer 3hp U-G.   
+För att uppnå VG som övergripande betyg för kursen måste resultatet av den skriftliga tentamen vara VG.
 
 ## Förkunskapskrav
 

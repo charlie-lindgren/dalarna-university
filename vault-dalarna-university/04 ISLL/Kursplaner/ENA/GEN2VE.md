@@ -8,8 +8,8 @@ huvudomrade: "Engelska 1"
 amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
-tags: [kursplan, ENA, ISLL, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, ENA, ISLL, stray]
+
 scrape_hash: 619f325ab5fae107
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN2VE
 up: "[[Engelska]]"

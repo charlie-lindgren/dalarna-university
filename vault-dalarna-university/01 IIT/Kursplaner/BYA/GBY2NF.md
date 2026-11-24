@@ -9,7 +9,7 @@ amne: "Byggteknik"
 amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
-scrape_hash: 71a2d927ae1321d0
+scrape_hash: 1d375ac636839b77
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2NF
 up: "[[Byggteknik]]"
 ---
@@ -123,7 +123,9 @@ Review of the concepts of force and moment. Calculation of loads and load countd
 
 ### Assessment
 
-Written examination 3 credits
+Written examination 3 credits   
+Assignments 2 credits   
+The grade is dependent on the written exam.
 
 ### Forms of Study
 
@@ -134,7 +136,9 @@ Lectures and papers
 The Swedish grades U, 3, 4, 5.
 
 
-Written examination (5/4/3/fail)
+Written examination (5/4/3/fail)  
+Assignments (pass/fail)  
+The grade is decided by the written exam.
 
 ### Prerequisites
 

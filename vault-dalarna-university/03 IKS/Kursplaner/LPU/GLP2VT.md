@@ -10,7 +10,7 @@ amne_kod: "LPU"
 institution: "IKS"
 tags: [kursplan, LPU, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: f78d1d1ed5434495
+scrape_hash: 8a0c1b6769a3cfef
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GLP2VT
 up: "[[Ljud- och musikproduktion]]"
 ---
@@ -20,7 +20,7 @@ up: "[[Ljud- och musikproduktion]]"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Betygsrapportering: Modul 1: Musikproduktion (4,5 hp) För att få betyget _Väl godkänd_ på … |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Betygsrapportering: Modul 1: Musikproduktion (4,5 hp) Modul 2: Verksamhetsanalys (1,5 hp) … |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras med gestaltande och skriftliga inlämningsuppgifter samt genom aktivt deltagande i seminarier.… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Inspelning i studio` → `GLP29X` (nedlagd 2026-06-25); förkunskap nämner nedlagd kurs |
@@ -74,6 +74,9 @@ Som betygsskala används U–VG.
 Betygsrapportering:
 
 Modul 1: Musikproduktion (4,5 hp)  
+Modul 2:
+Verksamhetsanalys (1,5 hp)  
+Modul 3: Producentroller (1,5 hp)
 
 För att få betyget _Väl godkänd_ på hela kursen krävs betyget _Väl godkänd_ på moment 1.
 

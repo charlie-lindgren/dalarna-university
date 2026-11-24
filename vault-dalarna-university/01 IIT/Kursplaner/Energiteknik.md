@@ -10,7 +10,7 @@ up: "[[IIT]]"
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
 > Huvudområde: Solenergiteknik 1
 
-## Kurser (42 st)
+## Kurser (41 st)
 
 - [[AEG225]] — Solenergins ekonomi
 - [[AEG22R]] — Tillämpad solenergiteknik
@@ -34,7 +34,6 @@ up: "[[IIT]]"
 - [[AEG2C5]] — Hållbara värmesystem
 - [[EG1012]] — Strömningslära
 - [[EG2004]] — Examensarbete för högskoleingenjörsexamen i energiteknik
-- [[EG3009]] — Design av solvärmesystem
 - [[EG3014]] — Utformning av solenergibyggnader
 - [[EG3019]] — Livscykelanalys och livscykelkostnadsanalys
 - [[EG3020]] — Examensarbete för magisterexamen i Energiteknik med fokus på energieffektivisering inom byggd miljö
@@ -55,14 +54,21 @@ up: "[[IIT]]"
 - [[GEG3K8]] — Ellära
 - [[GEG3K9]] — Styr- och reglerteknik
 
-## Vilande kursplaner (15 st)
+## Vilande kursplaner (22 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
 - [[AEG233]] — Solel
 - [[AEG26X]] — Design av PV- och hybridsystem
+- [[AEG2D6]] — Energisystem och elektrifiering
+- [[AEG2D7]] — Elektriska lagringssystem och tjänster inom grön omställning
+- [[AEG2D9]] — Samhällets gröna energiomställning
+- [[AEG2DA]] — Grön omställning av urbana energisystem
+- [[AEG2DB]] — Examensarbete för masterexamen i solenergiteknik med inriktning grön omställning
+- [[AEG2DC]] — Examensarbete för masterexamen i solenergiteknik
 - [[BEG222]] — Grundläggande forskningsmetodik
 - [[EG3007]] — Solvärme
+- [[EG3009]] — Design av solvärmesystem
 - [[EG3012]] — Hållbara energisystem
 - [[EG3015]] — Solstrålning och solgeometri
 - [[EG3017]] — Solenergiteknikpraktik

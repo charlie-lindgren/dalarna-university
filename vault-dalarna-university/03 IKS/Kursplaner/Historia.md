@@ -10,7 +10,7 @@ up: "[[IKS]]"
 > Ämne vid Institutionen för kultur och samhälle, Högskolan Dalarna.
 > Huvudområde: Historia 1
 
-## Kurser (26 st)
+## Kurser (33 st)
 
 - [[AHI23V]] — Examensarbete i historia för ämneslärarexamen, inriktning grundskolans årskurs 7-9
 - [[AHI23W]] — Examensarbete i historia för ämneslärarexamen, inriktning gymnasieskolan
@@ -38,8 +38,15 @@ up: "[[IKS]]"
 - [[GHI378]] — Historia II med didaktisk inriktning för grundskolans årskurs 7-9
 - [[GHI3CP]] — Undervisning och lärande genom rollspel – inriktning historiedidaktik
 - [[GHI3JX]] — Historia III med didaktisk inriktning för utökad behörighet mot gymnasieskolan
+- [[GHI3LB]] — Historia I
+- [[GHI3LC]] — Historia II
+- [[GHI3LD]] — Historia II med didaktisk inriktning för gymnasieskolan
+- [[GHI3LE]] — Historia II med didaktisk inriktning för grundskolans årskurs 7-9
+- [[GHI3LK]] — Historia I med didaktisk inriktning
+- [[GHI3LL]] — Historia III med didaktisk inriktning för gymnasieskolan
+- [[GHI3LQ]] — Samhällsorienterande ämnen, årskurs 4-6
 
-## Vilande kursplaner (43 st)
+## Vilande kursplaner (39 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -61,12 +68,8 @@ up: "[[IKS]]"
 - [[GHI32G]] — Historia II med didaktisk inriktning
 - [[GHI37M]] — De nationella minoriteternas samhällshistoria
 - [[GHI38Q]] — Global miljöhistoria
-- [[GHI3LB]] — Historia I
-- [[GHI3LC]] — Historia II
-- [[GHI3LD]] — Historia II med didaktisk inriktning för gymnasieskolan
-- [[GHI3LE]] — Historia II med didaktisk inriktning för grundskolans årskurs 7-9
 - [[GHI3LF]] — Historia III med didaktisk inriktning för utökad behörighet mot gymnasieskolan
-- [[GHI3LQ]] — Samhällsorienterande ämnen, årskurs 4-6
+- [[GHI3LM]] — Historia III, med examensarbete för kandidatexamen
 - [[HI1004]] — Introduktion till svensk kultur och samhälle
 - [[HI1006]] — Globala rörelser för social rättvisa
 - [[HI1008]] — Historiedidaktik I

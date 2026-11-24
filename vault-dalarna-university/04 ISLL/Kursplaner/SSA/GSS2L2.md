@@ -10,7 +10,7 @@ amne_kod: "SSA"
 institution: "ISLL"
 tags: [kursplan, SSA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 682c6902cf685a9e
+scrape_hash: 67d09290aa1bbcae
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2L2
 up: "[[Svenska som andraspråk]]"
 ---
@@ -167,7 +167,10 @@ lärande.
 
 ## Examinationsformer
 
-**Delkurs 1** examineras kontinuerligt genom aktivt deltagande på seminarierna, skriftliga inlämningsuppgifter samt en muntlig presentation. Delkursen avslutas med en skriftlig hemtentamen.
+**Delkurs 1** examineras kontinuerligt genom aktivt deltagande på seminarierna, skriftliga inlämningsuppgifter samt en muntlig presentation. Delkursen avslutas med en skriftlig hemtentamen.  
+**Delkurs 2** examineras kontinuerligt genom aktivt deltagande på seminarierna samt genom skriftliga inlämningsuppgifter. Delkursen avslutas med en muntlig och en skriftlig tentamen.  
+**Delkurs 3** examineras kontinuerligt genom aktivt deltagande på seminarierna samt genom skriftliga inlämningsuppgifter. Delkursen avslutas med en muntlig och en skriftlig tentamen.  
+**Delkurs 4** examineras kontinuerligt genom aktivt deltagande på seminarierna samt genom skriftliga inlämningsuppgifter. Delkursen avslutas med en muntlig och en skriftlig tentamen.
 
 ## Arbetsformer
 

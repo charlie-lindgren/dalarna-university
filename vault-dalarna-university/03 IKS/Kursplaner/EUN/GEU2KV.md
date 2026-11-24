@@ -10,7 +10,7 @@ amne_kod: "EUN"
 institution: "IKS"
 tags: [kursplan, EUN, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 3a9728ee0020862e
+scrape_hash: 94a36b2e13941ce3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2KV
 up: "[[Entreprenörskap och innovationsteknik]]"
 ---
@@ -88,7 +88,11 @@ För betyget Väl godkänd på kursen krävs betyget Väl Godkänd på skriftlig
 
 ## Övrigt
 
-Den som antagits till och registrerats på kursen har rätt att erhålla undervisning och/eller handledning under den tid som angavs för kurstillfället som den sökande blivit antagen till.
+Den som antagits till och registrerats på kursen har rätt att erhålla undervisning och/eller handledning under den tid som angavs för kurstillfället som den sökande blivit antagen till.   
+  
+Eventuella restuppgifter och kompletteringar på seminarieuppgifter måste vara inlämnade senast vid de tidpunkter som anges i studiehandledningen.   
+  
+Ersätter EU1032.
 
 ## English Version
 

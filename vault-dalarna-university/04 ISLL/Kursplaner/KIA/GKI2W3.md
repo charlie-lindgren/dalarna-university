@@ -8,8 +8,8 @@ huvudomrade: "Kinesiska 1"
 amne: "Kinesiska"
 amne_kod: "KIA"
 institution: "ISLL"
-tags: [kursplan, KIA, ISLL]
-scrape_hash: 7908222d310995a7
+tags: [kursplan, KIA, ISLL, forskarutbildning]
+scrape_hash: d948311f28fd2bb4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GKI2W3
 up: "[[Kinesiska]]"
 ---
@@ -115,7 +115,52 @@ Syftet med delkursen är att den studerande befäster och fördjupar sina språk
 
 ## Innehåll
 
-Kursen består av fyra obligatoriska delkurser:
+Kursen består av fyra obligatoriska delkurser:  
+Delkurs 1. Muntlig språkfärdighet 1, 7,5 hp  
+Delkurs 2. Skriftlig språkfärdighet 1, 7,5 hp  
+Delkurs 3. Kinesisk kultur, 4,5 hp  
+Delkurs 4. Kinesiska tecken, 4,5 hp  
+   
+De studerande läser sedan en av de två didaktiska delkurserna:  
+Delkurs 5. Språkdidaktik 1A, 6 hp  
+Delkurs 6. Språkdidaktik 1B, 6 hp  
+De studerande som läser **kinesiska som sitt första ämne** OCH de
+studerande som har läst **ett annat ämne än språk som första ämne** ska läsa
+delkurs 5, Språkdidaktik 1A.   
+De studerande som har läst **ett annat språk som första ämne** ska läsa
+delkurs 6, Språkdidaktik 1B.
+
+ 
+
+### Delkurser
+
+1.Muntlig språkfärdighet 1, 7,5 högskolepoäng
+
+Delkursen omfattar en genomgång av
+den kinesiska fonetikens huvuddrag samt praktiska uttalsövningar. I delkursen
+ingår också varierade övningar i att förstå det kinesiska talspråket och att
+kommunicera muntligt kring vardagliga situationer. Delkursen ger verktyg för att planera och
+genomföra strukturerade muntliga presentationer. Som förberedelse för
+yrkesrollen får den studerande också skriftligt reflektera kring fonetik och
+uttalsinlärning utifrån ett didaktiskt perspektiv.
+2.Skriftlig språkfärdighet 1, 7,5 högskolepoäng
+
+Delkursen består av en grundläggande
+översikt av den kinesiska grammatikens byggstenar, genom studium av dialoger och
+andra enklare texter. Dessutom innehåller delkursen övningar för att utveckla läs- och skrivkunskaper.
+3.Kinesisk kultur, 4,5 högskolepoäng
+
+Delkursen innehåller studier av kinesisk kultur och kinesiska traditioner. Dessa studier möjliggör förståelse för sociala normer och grundläggande värderingar i Kina samt för olika kulturer, både i det moderna och det traditionella kinesiska samhället. Delkursen introducerar och innehåller övningar i presentationsteknik och muntliga presentationer i relevanta ämnen.
+4.Kinesiska tecken, 4,5 högskolepoäng
+
+Delkursen består av grundläggande studier av det kinesiska teckensystemet, inklusive övningar i att tyda och analysera kinesiska tecken, skriva tecken för hand samt läsning av digitaliserade tecken i olika typsnitt. Dessutom ger delkursen träning i att använda kinesiska ordböcker, tryckta och webbaserade.
+5.Språkdidaktik 1A, 6 högskolepoäng
+
+Delkursen utgör en introduktion till språkdidaktik och till de centrala frågor som rör språkundervisningens innehåll och utformning i relation till elevers olika förutsättningar för språkinlärning och skolans styrdokument. De främmande språkens roll och utveckling i svensk skola behandlas i en historisk tillbakablick. Centrala inslag är dels ett grundläggande studium av teorier kring språklärande, dels diskussioner kring språkdidaktiska frågeställningar. Genom att också studera aktuella styrdokument i form av läroplan, kurs- och ämnesplan för de moderna språken behandlas relationen mellan teorierna och skolämnets innehåll. På så sätt kopplas de övriga delkursernas innehåll till det framtida yrket och den konkreta undervisningssituationen liksom till de krav som ställs på språkläraren i skolan.
+
+6.Språkdidaktik 1B, 6 högskolepoäng
+
+Delkursen innebär ett fördjupat studium av språkdidaktiska teorier knutna till olika aspekter av språkinlärning och språkundervisning och en diskussion av dessa teoriers relevans för språkundervisningen. Den studerande jämför olika teorier och modeller om språkinlärning och får inblick i nationell och internationell forskning om flerspråkighet. Genom praktiska övningar uppövas den studerandes vetenskapliga förhållningssätt samt förmåga att självständigt värdera olika teorier. Den studerande fördjupar sig i skolans styrdokument och olika teorier om bedömning och tränar på att använda olika bedömningsmodeller som används inom språkundervisning. Genom praktiska övningar uppövas förmågan att undervisa om kulturella företeelser och att tillämpa teoretiska kunskaper om kulturens roll i språkundervisningen.
 
 ## Examinationsformer
 

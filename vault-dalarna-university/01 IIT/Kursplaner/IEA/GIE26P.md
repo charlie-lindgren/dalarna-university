@@ -10,7 +10,7 @@ amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 00db39f0ccf09993
+scrape_hash: f990f2641142cc9a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26P
 up: "[[Industriell ekonomi]]"
 ---
@@ -21,7 +21,7 @@ up: "[[Industriell ekonomi]]"
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. På den skriftliga tentamen ges betyget U-3-4-5. På inlämningsuppgifterna ges betyget… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig tentamen, 4hp… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig tentamen, 4hp Individuella inlämningsuppgifter, 3,5hp… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Kursen kan inte ingå i en examen samtidigt som kurserna Industriell ekonomi med kalkylering.… |
 <!-- analys:end -->
@@ -71,7 +71,8 @@ Kursen behandlar översiktligt begrepp och modeller inom kalkylering, investerin
 
 ## Examinationsformer
 
-Skriftlig tentamen, 4hp
+Skriftlig tentamen, 4hp  
+Individuella inlämningsuppgifter, 3,5hp
 
 ## Arbetsformer
 

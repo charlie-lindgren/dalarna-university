@@ -10,7 +10,7 @@ amne_kod: "PGA"
 institution: "IKS"
 tags: [kursplan, PGA, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 79208d9f0e79d49e
+scrape_hash: 844710a275456063
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPG2VW
 up: "[[Pedagogiskt arbete]]"
 ---
@@ -31,7 +31,7 @@ up: "[[Pedagogiskt arbete]]"
 > | Omfång på lärandemål | Långt mål | 31 ord: - visa förmåga att självständigt planera, genomföra, utvärdera och utveckla unde… |
 > | Omfång på lärandemål | Långt mål | 27 ord: - visa förmåga att självständigt och kritiskt analysera, diskutera och reflekter… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 13 mål, engelska: 12 mål (diff 1) |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Nätbaserad kurs, innehåller obligatoriska campusträffar.… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Nätbaserad kurs, innehåller obligatoriska campusträffar. Student som underkänts i mål knutna till kursens verksamhetsför… |
 <!-- analys:end -->
 
 # GPG2VW
@@ -117,7 +117,9 @@ För betyget Väl godkänd på kursen krävs Väl godkänd på delkurs 2, 10 hp 
 
 ## Övrigt
 
-Nätbaserad kurs, innehåller obligatoriska campusträffar.
+Nätbaserad kurs, innehåller obligatoriska campusträffar.  
+  
+Student som underkänts i mål knutna till kursens verksamhetsförlagda utbildning har rätt att genomgå ytterligare en VFU-period, dock inte fler än två sammanlagt.
 
 ## English Version
 

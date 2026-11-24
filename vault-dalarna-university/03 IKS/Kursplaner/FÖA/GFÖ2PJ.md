@@ -9,7 +9,7 @@ amne: "Företagsekonomi"
 amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
-scrape_hash: 1a2a306e0b7dabe4
+scrape_hash: 2be579d8fcd9e91d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ2PJ
 up: "[[Företagsekonomi]]"
 ---
@@ -77,7 +77,10 @@ För godkänt betyg på kursen krävs betyget Godkänd på samtliga delmoment. F
 
 ## Övrigt
 
-Bedömningar av respektive prestation sker endast under den tidsperiod som framgår av presenterad studiehandledning.
+Bedömningar av respektive prestation sker endast under den tidsperiod som framgår av presenterad studiehandledning.  
+Studenterna ska kunna redogöra för sina respektive insatser i gruppuppgifterna.  
+  
+Kan ej tillgodoräkans i examen tillsammans med FÖ1008, FÖ1009, FÖ1033, FÖ1043 och/eller FÖ1056, FÖ1069 samt GFÖ2BC.
 
 ## English Version
 

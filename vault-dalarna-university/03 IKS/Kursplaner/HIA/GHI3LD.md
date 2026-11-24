@@ -8,8 +8,8 @@ huvudomrade: "Historia 1"
 amne: "Historia"
 amne_kod: "HIA"
 institution: "IKS"
-tags: [kursplan, HIA, IKS, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, HIA, IKS, stray]
+
 scrape_hash: 58cceac2aa1e6773
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LD
 up: "[[Historia]]"

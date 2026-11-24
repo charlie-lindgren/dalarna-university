@@ -9,7 +9,7 @@ amne: "Industriell ekonomi"
 amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
-scrape_hash: ebbfb67de2719721
+scrape_hash: c037228867ef60f3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE2RF
 up: "[[Industriell ekonomi]]"
 ---
@@ -67,7 +67,8 @@ Efter genomgången kurs ska studenten kunna:
 
 ## Innehåll
 
-Kursen omfattar två centrala delar. Den första delen innefattar att tillämpa ett vetenskapligt metodarbete inom ramen för ett självständigt projektarbete, i vilket studenten med ett vetenskapligt förhållningssätt skall framställa en skriftlig rapport.
+Kursen omfattar två centrala delar. Den första delen innefattar att tillämpa ett vetenskapligt metodarbete inom ramen för ett självständigt projektarbete, i vilket studenten med ett vetenskapligt förhållningssätt skall framställa en skriftlig rapport.   
+I detta projektarbete skall studenten tillämpa kunskaper som inhämtats från tidigare kurser i industriell ekonomi på ett problem som identifieras och löses via en empirisk undersökning. Undersökningen skall genomföras via medvetna val av relevanta teorier och modeller. Den andra delen i kursen innefattar en muntlig presentation av den skriftliga rapporten, samt opponering på andras rapporter.
 
 ## Examinationsformer
 

@@ -8,7 +8,7 @@ amne: "Mikrodataanalys"
 amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
-scrape_hash: dbe1217713e3a7db
+scrape_hash: a23738add7aad32f
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI2MD
 up: "[[Mikrodataanalys]]"
 ---
@@ -144,7 +144,9 @@ Lectures, lessons, group project work, assignments and compulsory seminar.
 
 The Swedish grades U–VG.
 
-Individual oral and written presentation of assignments and group presentation at a seminar U - VG
+Individual oral and written presentation of assignments and group presentation at a seminar U - VG  
+  
+Exam U - G
 
 ### Prerequisites
 

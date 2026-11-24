@@ -9,7 +9,7 @@ amne: "Industriell ekonomi"
 amne_kod: "IEA"
 institution: "IIT"
 tags: [kursplan, IEA, IIT]
-scrape_hash: 94a0ea77e9610639
+scrape_hash: b3720f87d9a36cd0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIE26M
 up: "[[Industriell ekonomi]]"
 ---
@@ -19,8 +19,8 @@ up: "[[Industriell ekonomi]]"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. På den skriftliga tentamen ges betyget U-3-4-5.… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig tentamen, 4hp… |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. På den skriftliga tentamen ges betyget U-3-4-5. På inlämningsuppgifterna ges betyget… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig tentamen, 4hp Individuella inlämningsuppgifter, 3,5hp… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter IE1061.… |
 <!-- analys:end -->
@@ -66,7 +66,8 @@ grundläggande motivations-, grupputvecklings- och ledarskapsteorier utgör cent
 
 ## Examinationsformer
 
-Skriftlig tentamen, 4hp
+Skriftlig tentamen, 4hp  
+Individuella inlämningsuppgifter, 3,5hp
 
 ## Arbetsformer
 
@@ -77,7 +78,9 @@ Föreläsningar samt handledning av inlämningsuppgifter och övningar.
 Som betygsskala används U, 3, 4, 5.
 
 
-På den skriftliga tentamen ges betyget U-3-4-5.
+På den skriftliga tentamen ges betyget U-3-4-5.  
+På inlämningsuppgifterna ges betyget U-G.  
+Den skriftliga tentamen styr slutbetyget på kursen.
 
 ## Förkunskapskrav
 

@@ -8,11 +8,11 @@ huvudomrade: "Franska 1"
 amne: "Franska"
 amne_kod: "FRA"
 institution: "ISLL"
-tags: [kursplan, FRA, ISLL, vilande]
-scrape_hash: b85076cdc50f2a18
+tags: [kursplan, FRA, ISLL, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: 609dadee135f2708
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3D2
 up: "[[Franska]]"
-cssclasses: [vilande]
 ---
 
 <!-- analys:start -->
@@ -108,6 +108,7 @@ Efter godkänd delkurs ska den studerande på franska kunna:
 4.Franskspråkig litteratur I: Från 1900 till idag, 5,5 högskolepoäng
 
 Delkursen syftar till att utveckla kunskaper om modern franskspråkig litteratur.  
+Efter godkänd delkurs ska den studerande på franska kunna:
 
   - läsa och tolka ett urval litterära texter
 

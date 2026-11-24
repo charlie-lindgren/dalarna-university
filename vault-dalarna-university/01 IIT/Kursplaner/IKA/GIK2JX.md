@@ -9,7 +9,7 @@ amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
 tags: [kursplan, IKA, IIT]
-scrape_hash: 0856680ed33d37f2
+scrape_hash: ada8a3b592e17f40
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2JX
 up: "[[Informatik]]"
 ---
@@ -22,7 +22,7 @@ up: "[[Informatik]]"
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Seminarier U-G. Slutbetyget baseras på sammanvägning av de examinerande momenten.… |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Seminarier 1,5 hp, inlämningsuppgifter 4 hp och skriftlig tentamen 2 hp.… |
 > | Omfång på lärandemål | För många mål | 12 lärandemål (maximum rekommenderat: 8 för 7.5 hp) |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Undervisning kan ske på engelska.… |
+> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Undervisning kan ske på engelska. Ersätter Introduktion till Geografiska Informations System (GIS), IK1056.… |
 <!-- analys:end -->
 
 # GIK2JX
@@ -103,7 +103,8 @@ Slutbetyget baseras på sammanvägning av de examinerande momenten.
 
 ## Övrigt
 
-Undervisning kan ske på engelska.
+Undervisning kan ske på engelska.  
+Ersätter Introduktion till Geografiska Informations System (GIS), IK1056.
 
 ## English Version
 

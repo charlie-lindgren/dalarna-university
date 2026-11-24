@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Bloom-taxonomi.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (23 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Bloom-taxonomi.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (25 rader)</span></a>
 
-> [!example]- 23 fynd — klicka för att expandera
+> [!example]- 25 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -26,6 +26,8 @@ status: första pass
 > | [AEG2AP](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AP) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/AEG2AP">sida</a> | MÖY | 2024-12-12 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [2,1,1,0,0,0] |
 > | [AEG2AQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2AQ) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/AEG2AQ">sida</a> | MÖY | 2024-12-12 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,3,0,0,0,0] |
 > | [AEG2B6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2B6) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/AEG2B6">sida</a> | MÖY | 2024-12-12 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [2,1,2,0,0,0] |
+> | [AEG2D6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2D6) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/AEG2D6">sida</a> | MÖY | 2026-11-05 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [5,2,0,0,0,0] |
+> | [AEG2D9](https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG2D9) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/AEG2D9">sida</a> | MÖY | 2026-11-05 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [2,3,0,0,0,0] |
 > | [EG3015](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3015) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/EG3015">sida</a> | MÖY | 2015-08-27 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [2,2,1,0,0,0] |
 > | [EG3019](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3019) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/EG3019">sida</a> | MÖY | 2017-04-27 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [1,2,2,0,0,0] |
 > | [EG3020](https://www.du.se/sv/utbildning/kurser/kursplan/?code=EG3020) | <a class="no-graph" href="01-IIT/Kursplaner/MÖY/EG3020">sida</a> | MÖY | 2017-12-14 | — | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [6,0,0,0,0,0] |

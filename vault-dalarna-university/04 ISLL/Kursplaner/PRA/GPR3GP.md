@@ -9,7 +9,7 @@ amne: "Portugisiska"
 amne_kod: "PRA"
 institution: "ISLL"
 tags: [kursplan, PRA, ISLL]
-scrape_hash: 5824a65b277bce50
+scrape_hash: b8c195d6ee8ac7e9
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPR3GP
 up: "[[Portugisiska]]"
 ---
@@ -63,6 +63,7 @@ Efter avslutad delkurs ska studenten kunna:
 Efter avslutad delkurs ska studenten kunna:
 
   - visa insikt i det portugisiska språkets fonetik och fonologi genom att uttala  
+språket på ett korrekt sätt med avseende på språkljud och prosodi samt visa medvetenhet om dess olika språkvarieteter
 
   - analysera och redogöra för innehållet i talad portugisiska, inom olika genrer och från olika språkvarieteter
 

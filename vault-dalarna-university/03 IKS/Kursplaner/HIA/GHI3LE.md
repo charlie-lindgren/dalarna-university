@@ -8,9 +8,8 @@ huvudomrade: "Historia 1"
 amne: "Historia"
 amne_kod: "HIA"
 institution: "IKS"
-tags: [kursplan, HIA, IKS, stray, vilande]
-cssclasses: [vilande]
-scrape_hash: 7cc6f5d667016830
+tags: [kursplan, HIA, IKS]
+scrape_hash: 150a7d130c63973d
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LE
 up: "[[Historia]]"
 ---
@@ -120,7 +119,10 @@ Delkursen fördjupar teoretiska grunder i historiedidaktik. De didaktiska studie
 
 4.De nationella minoriteternas samhällshistoria, 7,5 högskolepoäng
 
-Delkursen behandlar de nationella minoriteternas samhällshistoria i Sverige. Fokus
+Delkursen behandlar de nationella minoriteternas samhällshistoria i Sverige. Fokus  
+ligger på relationen mellan statsmakten, majoritetssamhället och de nationella  
+minoriteterna. Därutöver diskuteras centrala begrepp och historiebruk kopplade till  
+de nationella minoriteternas historia. I delkursen ingår även att bearbeta primärkällor och utifrån dessa skapa undervisningsmaterial.
 
 ## Examinationsformer
 

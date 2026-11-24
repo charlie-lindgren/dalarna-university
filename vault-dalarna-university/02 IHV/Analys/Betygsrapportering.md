@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Betygsrapportering.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (51 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Betygsrapportering.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (52 rader)</span></a>
 
-> [!example]- 51 fynd — klicka för att expandera
+> [!example]- 52 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -47,7 +47,6 @@ status: första pass
 > | [NV1027](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NV1027) | <a class="no-graph" href="02-IHV/Kursplaner/NAV/NV1027">sida</a> | NAV | 2013-03-15 | 2014-02-12 | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används A–F.… |
 > | [NV3001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NV3001) | <a class="no-graph" href="02-IHV/Kursplaner/NAV/NV3001">sida</a> | NAV | 2016-03-03 | — | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
 > | [ASA27E](https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASA27E) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/ASA27E">sida</a> | SAA | 2021-11-09 | — | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
-> | [GSA2NC](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2NC) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA2NC">sida</a> | SAA | 2021-03-09 | — | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Betygsmoduler:… |
 > | [GSA2RE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2RE) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA2RE">sida</a> | SAA | 2021-09-07 | — | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Betygsrapportering: Modul 1: Seminarier, inlämningsuppgifter, skriftlig tentamen - 7,5 hp… |
 > | [GSA2SD](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2SD) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA2SD">sida</a> | SAA | 2021-12-08 | — | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Betygsrapportering: Modul 1: Seminarier, skriftliga inlämningsuppgifter, hemtentamen - 7,5… |
 > | [GSA2SE](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2SE) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA2SE">sida</a> | SAA | 2021-12-08 | — | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Betygsrapportering: Modul 1: Seminarier, skriftliga inlämningsuppgifter, hemtentamen - 7,5… |
@@ -65,6 +64,8 @@ status: första pass
 > | [FHV0002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0002) | <a class="no-graph" href="02-IHV/Kursplaner/VÅRDVETS/FHV0002">sida</a> | VÅRDVETS | 2018-03-28 | 2022-09-28 | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G. För betyget godkänd på kursen krävs Godkänt på alla momenten.… |
 > | [FHV0003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0003) | <a class="no-graph" href="02-IHV/Kursplaner/VÅRDVETS/FHV0003">sida</a> | VÅRDVETS | 2018-11-01 | — | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G. För betyget godkänd på kursen krävs Godkänt på alla momenten… |
 > | [FVV222H](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FVV222H) | <a class="no-graph" href="02-IHV/Kursplaner/VÅRDVETS/FVV222H">sida</a> | VÅRDVETS | 2022-04-28 | 2023-01-19 | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G. För betyget godkänd på kursen krävs Godkänt på alla momenten listade nedan. Betygsrapporter… |
+> | [FVV222V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FVV222V) | <a class="no-graph" href="02-IHV/Kursplaner/VÅRDVETS/FVV222V">sida</a> | VÅRDVETS | 2026-10-14 | — | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G. För godkänt betyg på kursen måste doktoranden vara godkänd på samtliga examinerande moment.… |
+> | [FVV222X](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FVV222X) | <a class="no-graph" href="02-IHV/Kursplaner/VÅRDVETS/FVV222X">sida</a> | VÅRDVETS | 2026-10-14 | — | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G. För godkänt betyg på kursen måste doktoranden vara godkänd på samtliga examinerande moment.… |
 
 ## Syfte
 

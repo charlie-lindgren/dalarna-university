@@ -10,7 +10,7 @@ amne_kod: "PEE"
 institution: "IKS"
 tags: [kursplan, PEE, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: f609f7006e1460f8
+scrape_hash: 34d3252652d7e353
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2R6
 up: "[[Personal och arbetsliv]]"
 ---
@@ -21,7 +21,7 @@ up: "[[Personal och arbetsliv]]"
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För betyget väl godkänd på kursen krävs betyget VG på både skriftlig tentamen samt skriftl… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig tentamen, 3,5 hp… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig tentamen, 3,5 hp Skriftlig inlämningsuppgift, 4 hp… |
 > | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Organisation - roller och intressenter` → `GPA356` (nedlagd 2026-02-11); förkunskap nämner nedlagd kurs |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att utveckla studentens ämneskunskap om organisationsförändringar som innefattar personalned… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
@@ -69,7 +69,8 @@ Kursen fokuserar på kompetensförsörjning med avseende på förändrings- och 
 
 ## Examinationsformer
 
-Skriftlig tentamen, 3,5 hp
+Skriftlig tentamen, 3,5 hp  
+Skriftlig inlämningsuppgift, 4 hp
 
 ## Arbetsformer
 
@@ -83,7 +84,9 @@ För betyget
 väl godkänd på kursen krävs betyget VG på
 både skriftlig tentamen samt skriftlig inlämningsuppgift.
 
-Betygsrapportering:
+Betygsrapportering:  
+Modul 1: Skriftlig tentamen - 3,5 hp  
+Modul 2: Skriftlig inlämningsuppgift - 4 hp
 
 ## Förkunskapskrav
 

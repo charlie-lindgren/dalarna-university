@@ -9,7 +9,7 @@ amne: "Engelska"
 amne_kod: "ENA"
 institution: "ISLL"
 tags: [kursplan, ENA, ISLL, forskarutbildning]
-scrape_hash: 16567513ce218dbe
+scrape_hash: bd7f5e8813c11196
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEN3DK
 up: "[[Engelska]]"
 ---
@@ -86,7 +86,21 @@ Efter godkänd delkurs ska studenten kunna:
 
 ## Innehåll
 
-Kursen består av tre delkurser.
+Kursen består av tre delkurser.  
+
+### Delkurser
+
+1.Engelska: Kandidatexamensarbete i litteratur, 15 högskolepoäng
+
+Delkursen inleds med en genomgång av den litteraturvetenskapliga forskningsprocessen, inbegripet ämnesval, problemställning, metod- och teorianknytning, litteratursökning, disposition och själva skrivhantverket. Studenten genomför sedan en självständig litteraturvetenskaplig studie inom ett väl avgränsat problemområde med direkt anknytning till engelskspråkig litteratur. Studien presenteras i form av en självständigt författad uppsats om ca 20-25 sidor (6500-7500 ord). Dessutom innehåller delkursen övning i att muntligen presentera och försvara egna resultat och argument samt kritiskt granska andras arbeten.
+
+2.Engelska: Introduktion till litteraturkritikens teorier och metoder, 7,5 högskolepoäng
+
+Delkursen introducerar ett urval av representativa litteraturteorier och tillhörande metodologier för litteraturkritik från 1900-talets början till idag. Delkursen behandlar olika teoribildningar, nyckelbegrepp och tillhörande metoder för vetenskaplig analys av litterära texter. Tonvikt ligger på den praktiska metodologiska tillämpningen av dessa litteraturteorier på ett urval av engelskspråkiga litterära texter. Delkursen syftar också till att ge studenterna den grund i litteraturteori och metodologi för litteraturkritik som krävs för att skriva ett kandidatexamensarbete i litteratur.
+
+3.Den samtida Bildungsromanen på engelska, 7,5 högskolepoäng
+
+I delkursen studeras den senaste utvecklingen av Bildungsromanen på engelska och hur denna har omdefinierats under 1900-talets senaste decennier och början av 2000-talet. Ett urval verk analyseras utifrån perspektiven kön, etnicitet och åldrande för att fördjupa medvetenheten om hur dessa texter kritiskt utmanar traditionella definitioner av Bildungsromanen. Aspekter av den nuvarande socio-historiska kontexten betonas i analysen, som kvinnornas mer framträdande plats i samhället, transkulturella utbyten och den åldrande befolkningen, vilka är avgörande för individens utveckling och sociala integration.
 
 ## Examinationsformer
 

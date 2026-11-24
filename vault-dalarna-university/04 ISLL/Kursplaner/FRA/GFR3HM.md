@@ -8,8 +8,8 @@ huvudomrade: "Franska 1"
 amne: "Franska"
 amne_kod: "FRA"
 institution: "ISLL"
-tags: [kursplan, FRA, ISLL]
-scrape_hash: 45baee6964fff2eb
+tags: [kursplan, FRA, ISLL, forskarutbildning]
+scrape_hash: 670616a435a51888
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3HM
 up: "[[Franska]]"
 ---
@@ -103,6 +103,7 @@ Efter godkänd delkurs ska den studerande på franska kunna:
 4.Franskspråkig litteratur I: Från 1900 till idag, 5 högskolepoäng
 
 Delkursen syftar till att utveckla kunskaper om modern franskspråkig litteratur.  
+Efter godkänd delkurs ska den studerande på franska kunna:
 
   - läsa och tolka ett urval litterära texter
 
@@ -384,8 +385,16 @@ On completion of the module, students will be able to:
 ### Course Content
 
 The course consists of four obligatory modules:  
+Module 1. Oral Language Proficiency, 5 credits  
+Module 2. Written Language Proficiency I, 7.5 credits  
+Module 3. Culture and Society, 5 credits  
+Module 4. French Literature I: From 1900 to Today, 5 credits
 
 Students then choose one of the four modules that focus on language learning and teaching:  
+Module 5. Language Learning and Teaching 1A, 7.5 credits  
+Module 6. Language Learning and Teaching 1B, 7.5 credits  
+Module 7. Language Learning and Teaching 2A, 7.5 credits  
+Module 8. Language Learning and Teaching 2B, 7.5 credits
 
 The modules Language Learning and Teaching 1 and Language Learning and Teaching 2 can be taken in any order. They are normally offered once a year.
 

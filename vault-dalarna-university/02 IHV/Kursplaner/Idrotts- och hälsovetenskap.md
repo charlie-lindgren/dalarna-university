@@ -10,15 +10,21 @@ up: "[[IHV]]"
 > Ämne vid Institutionen för hälsa och välfärd, Högskolan Dalarna.
 > Huvudområde: Ej huvudområde 1
 
-## Kurser (49 st)
+## Kurser (55 st)
 
 - [[AIH237]] — Examensarbete i idrott och hälsa för ämneslärarexamen inriktning grundskolans årskurs 7-9
 - [[AIH24T]] — Examensarbete i idrott och hälsa för ämneslärarexamen inriktning gymnasieskolan
 - [[GIH2A6]] — Idrottspsykologi
 - [[GIH2LP]] — Tränarskap, idrott, friluftsliv och hälsa i samhället
 - [[GIH2WU]] — Fotbollstränare - inriktning senior- och elitförberedande ungdomsverksamhet
+- [[GIH2ZA]] — Vinterfriluftsliv genom skidor och skridskor (VAL)
+- [[GIH2ZC]] — Humanbiologi 1 (VAL)
+- [[GIH2ZD]] — Simning (VAL)
+- [[GIH2ZE]] — Bedömning och betygssättning i idrott och hälsa (VAL)
 - [[GIH32Z]] — Verksamhetsförlagt projekt inom tränarskap
 - [[GIH335]] — Entreprenörskap inom idrott och hälsa
+- [[GIH34S]] — Lek, dans samt mål- och nätspel (VAL)
+- [[GIH34U]] — Dans, gymnastik och friidrott (VAL)
 - [[GIH35T]] — Fördjupning inom idrottsvetenskap
 - [[GIH35U]] — Idrottsvetenskaplig metod
 - [[GIH35W]] — Examensarbete för kandidatexamen i idrotts- och hälsovetenskap
@@ -62,7 +68,7 @@ up: "[[IHV]]"
 - [[GIH3L2]] — Sportjournalistik och PR
 - [[GIH3L3]] — Idrottsmedicin
 
-## Vilande kursplaner (109 st)
+## Vilande kursplaner (103 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
@@ -99,19 +105,13 @@ up: "[[IHV]]"
 - [[GIH2WY]] — Friluftsliv i närmiljön: orientering, vandring, paddling (VAL)
 - [[GIH2X3]] — Träningslära för tävlingsinriktad idrott
 - [[GIH2XY]] — Idrottsvetenskaplig uppsats
-- [[GIH2ZA]] — Vinterfriluftsliv genom skidor och skridskor (VAL)
 - [[GIH2ZB]] — Hälsopedagogik (VAL)
-- [[GIH2ZC]] — Humanbiologi 1 (VAL)
-- [[GIH2ZD]] — Simning (VAL)
-- [[GIH2ZE]] — Bedömning och betygssättning i idrott och hälsa (VAL)
 - [[GIH334]] — Sportjournalistik
 - [[GIH33J]] — Grundläggande fysiologi och tillämpad idrottsfysiologi (Klättring)
 - [[GIH33K]] — Funktionell anatomi (Klättring)
 - [[GIH33P]] — Biomekanik (Klättring)
 - [[GIH34D]] — Kvalitativ och kvantitativ vetenskaplig metod
-- [[GIH34S]] — Lek, dans samt mål- och nätspel (VAL)
 - [[GIH34T]] — Humanbiologi 2 (VAL)
-- [[GIH34U]] — Dans, gymnastik och friidrott (VAL)
 - [[GIH34V]] — Arbetsmiljö, ergonomi och näringslära (VAL)
 - [[GIH35B]] — Examensarbete för kandidatexamen i idrotts- och hälsovetenskap
 - [[GIH35P]] — Träningslära: styrkelyft för öppen klass och veteraner

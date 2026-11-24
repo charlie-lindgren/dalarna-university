@@ -8,11 +8,11 @@ huvudomrade: "Informatik 1"
 amne: "Informatik"
 amne_kod: "IKA"
 institution: "IIT"
-tags: [kursplan, IKA, IIT, vilande]
-scrape_hash: fafdf18dbefe2342
+tags: [kursplan, IKA, IIT, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: 18619952522712f2
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIK2QZ
 up: "[[Informatik]]"
-cssclasses: [vilande]
 ---
 
 <!-- analys:start -->
@@ -21,7 +21,7 @@ cssclasses: [vilande]
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Inlämningsuppgifter (4 hp)… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Inlämningsuppgifter (4 hp) Seminarier (3 hp) Muntlig examination (0,5 hp)… |
 > | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
 <!-- analys:end -->
 
@@ -84,7 +84,9 @@ Kursen behandlar skapande, utvärdering och presentation av artefakter inom visu
 
 ## Examinationsformer
 
-Inlämningsuppgifter (4 hp)
+Inlämningsuppgifter (4 hp)  
+Seminarier (3 hp)  
+Muntlig examination (0,5 hp)
 
 ## Arbetsformer
 
@@ -133,7 +135,9 @@ The course covers the creation, evaluation and presentation of artifacts within 
 
 ### Assessment
 
-Assignments (4 credits)
+Assignments (4 credits)  
+Seminars (3 credits)  
+Oral presentation (0.5 credits)
 
 ### Forms of Study
 

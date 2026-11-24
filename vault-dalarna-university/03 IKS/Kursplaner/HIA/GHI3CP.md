@@ -8,9 +8,8 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Historia"
 amne_kod: "HIA"
 institution: "IKS"
-tags: [kursplan, HIA, IKS, stray]
-
-scrape_hash: a1aebbd7df423de9
+tags: [kursplan, HIA, IKS]
+scrape_hash: 357f5c7f7c06a687
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3CP
 up: "[[Historia]]"
 ---
@@ -67,6 +66,7 @@ Denna kurs vänder sig till lärare på grund- och gymnasieskolor. Den behandlar
 Som betygsskala på hel kurs används U–VG.
 
 Betyg rapporteras enligt följande:  
+• Undervisning och lärande genom rollspel - inriktning historiedidaktik - 7,5 hp | U–VG
 
 Betyg rapporteras enligt följande:
 

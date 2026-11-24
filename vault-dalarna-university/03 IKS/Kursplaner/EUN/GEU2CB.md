@@ -10,7 +10,7 @@ amne_kod: "EUN"
 institution: "IKS"
 tags: [kursplan, EUN, IKS, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 5a8e40f6dab2d5aa
+scrape_hash: c03f75edadf7feae
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2CB
 up: "[[Entreprenörskap och innovationsteknik]]"
 ---
@@ -21,7 +21,7 @@ up: "[[Entreprenörskap och innovationsteknik]]"
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. På de olika delmomenten kan något av följande betyg erhållas: Reflektionsprotokoll och akt… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Reflektionsprotokoll, 2,5 hp (examinerar mål 1, 2)… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Reflektionsprotokoll, 2,5 hp (examinerar mål 1, 2) Individuell skriftlig inlämningsuppgift, 3,5 hp (examinerar mål 3, 4 … |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
 <!-- analys:end -->
@@ -86,7 +86,9 @@ faktorer som påverkar gruppdynamiken.
 
 ## Examinationsformer
 
-Reflektionsprotokoll, 2,5 hp (examinerar mål 1, 2)
+Reflektionsprotokoll, 2,5 hp (examinerar mål 1, 2)   
+Individuell skriftlig inlämningsuppgift, 3,5 hp (examinerar mål 3, 4 och 6)  
+Aktivt deltagande i obligatoriska övningar, 1,5 hp (examinerar mål 5)
 
 ## Arbetsformer
 

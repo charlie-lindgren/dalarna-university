@@ -8,9 +8,8 @@ huvudomrade: "Solenergiteknik 1"
 amne: "Energiteknik"
 amne_kod: "MÖY"
 institution: "IIT"
-tags: [kursplan, MÖY, IIT, stray]
-
-scrape_hash: e64ac2fef3459ad4
+tags: [kursplan, MÖY, IIT]
+scrape_hash: f3b7502e00bebac6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AEG22R
 up: "[[Energiteknik]]"
 ---
@@ -125,7 +124,8 @@ Lectures, compulsory seminars, compulsory laboratory work with written reports, 
 
 The Swedish grades U–VG.
 
-Oral presentations and group reports for the project, U-G.
+Oral presentations and group reports for the project, U-G.  
+The overall grade is based on the individual assignments and the indidual report.
 
 ### Prerequisites
 

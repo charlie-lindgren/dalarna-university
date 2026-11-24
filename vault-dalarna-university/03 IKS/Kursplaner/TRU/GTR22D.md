@@ -9,7 +9,7 @@ amne: "Turismvetenskap"
 amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
-scrape_hash: b3d26aa5f8915b7c
+scrape_hash: dc2426142a492dc1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR22D
 up: "[[Turismvetenskap]]"
 ---
@@ -20,7 +20,7 @@ up: "[[Turismvetenskap]]"
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används A–F. Det slutliga betyget fastställs av examinator genom vägning av resultaten, baserat på resul… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig uppgift. (Mål 2, 3, 4, 5, 6, 7, 8) (4,5 hp)… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig uppgift. (Mål 2, 3, 4, 5, 6, 7, 8) (4,5 hp) Aktivt deltagande i seminarier och uppgift som redovisas skriftlig… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Antalet examinationstillfällen är högst 5 av varje modul.… |
 <!-- analys:end -->
@@ -70,7 +70,8 @@ Kursen introducerar studenterna till grundläggande forskningsförmågor. Med hj
 
 ## Examinationsformer
 
-Skriftlig uppgift. (Mål 2, 3, 4, 5, 6, 7, 8) (4,5 hp)
+Skriftlig uppgift. (Mål 2, 3, 4, 5, 6, 7, 8) (4,5 hp)  
+Aktivt deltagande i seminarier och uppgift som redovisas skriftligt och muntligt. (Mål 1, 4, 5, 6) (3 hp)
 
 ## Arbetsformer
 

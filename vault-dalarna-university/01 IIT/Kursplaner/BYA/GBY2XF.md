@@ -9,7 +9,7 @@ amne: "Byggteknik"
 amne_kod: "BYA"
 institution: "IIT"
 tags: [kursplan, BYA, IIT]
-scrape_hash: b0920b3716ea0814
+scrape_hash: bd312cfc76e16983
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GBY2XF
 up: "[[Byggteknik]]"
 ---
@@ -21,7 +21,7 @@ up: "[[Byggteknik]]"
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. Projektuppgift U-VG Laboaration U-G Slutbetyget på kursen sätts efter en sammanvägni… |
 > | Betygsskalor | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig salstentamen 1, 1,5 hp… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig salstentamen 1, 1,5 hp Skriftlig salstentamen 2, 1,5 hp Skriftlig och muntlig redovisning av projektuppgift 4 … |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att studenten ska skaffa sig kunskaper i husbyggnadsteknik, speciellt beträffande u… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Överlappar GBY24K och GBY2RW… |
@@ -66,7 +66,10 @@ Ett husbyggnadsprojekt skall genomföras där studenten arbetar fram de tekniska
 
 ## Examinationsformer
 
-Skriftlig salstentamen 1, 1,5 hp
+Skriftlig salstentamen 1, 1,5 hp  
+Skriftlig salstentamen 2, 1,5 hp  
+Skriftlig och muntlig redovisning av projektuppgift 4 hp  
+Laboration 0,5 hp
 
 ## Arbetsformer
 

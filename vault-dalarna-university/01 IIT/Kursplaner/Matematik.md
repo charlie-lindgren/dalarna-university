@@ -9,8 +9,9 @@ up: "[[IIT]]"
 
 > Ämne vid Institutionen för information och teknik, Högskolan Dalarna.
 
-## Kurser (7 st)
+## Kurser (8 st)
 
+- [[BMA228]] — Basmatematik 1
 - [[GMA28W]] — Linjär algebra
 - [[GMA2EY]] — Byggmatematik
 - [[GMA2ZS]] — Analys i en variabel
@@ -19,11 +20,10 @@ up: "[[IIT]]"
 - [[MA0011]] — Matematik 3c
 - [[MA0013]] — Matematik 4
 
-## Vilande kursplaner (4 st)
+## Vilande kursplaner (3 st)
 
 > Kursplaner utan aktiv kursomgång. De hör till ämnet men saknar planerad start.
 
-- [[BMA228]] — Basmatematik 1
 - [[BMA229]] — Basmatematik 2
 - [[MA1040]] — Matematik för tekniker
 - [[MA1042]] — Flervariabelanalys

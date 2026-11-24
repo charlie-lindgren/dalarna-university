@@ -9,7 +9,7 @@ amne: "Mikrodataanalys"
 amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
-scrape_hash: ce3c58a26432c4d1
+scrape_hash: c610c5b9158212bc
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI23K
 up: "[[Mikrodataanalys]]"
 ---
@@ -118,7 +118,8 @@ Lectures, labs, project work, and seminars.
 
 The Swedish grades U–VG.
 
-Laboratory reports, U-G.
+Laboratory reports, U-G.  
+The final grade for the course is based on an overall assessment by the examiner.
 
 ### Prerequisites
 

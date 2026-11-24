@@ -10,7 +10,7 @@ amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: c5780d9a406773aa
+scrape_hash: a6c0d036f74b0ad1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3D3
 up: "[[Franska]]"
 ---
@@ -181,6 +181,10 @@ Efter godkänd delkurs ska den studerande kunna:
 ## Innehåll
 
 Kursen består av fyra obligatoriska delkurser:  
+Delkurs 1. Skriftlig språkfärdighet II, 7,5 hp  
+Delkurs 2. Introduktion till lingvistik och akademiskt skrivande, 5,5 hp  
+Delkurs 3. Muntlig franska, 5,5 hp  
+Delkurs 4. Franskspråkig litteratur II: Fram till 1900, 5,5 hp
 
 De studerande läser sedan en av de fyra didaktiska delkurserna:  
 Delkurs 5. Språkdidaktik 1A, 6 hp  

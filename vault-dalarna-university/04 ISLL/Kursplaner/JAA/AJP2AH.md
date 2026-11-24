@@ -8,8 +8,8 @@ huvudomrade: "Interkulturella litteraturstudier 1"
 amne: "Japanska"
 amne_kod: "JAA"
 institution: "ISLL"
-tags: [kursplan, JAA, ISLL, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, JAA, ISLL, stray]
+
 scrape_hash: 67679f9f58901347
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AJP2AH
 up: "[[Japanska]]"

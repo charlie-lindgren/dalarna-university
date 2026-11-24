@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="01-IIT/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (165 rader)</span></a>
+<a class="download-xlsx" href="01-IIT/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (168 rader)</span></a>
 
-> [!example]- 165 fynd — klicka för att expandera
+> [!example]- 168 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -140,6 +140,9 @@ status: första pass
 > | [FMI2223](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2223) | <a class="no-graph" href="01-IIT/Kursplaner/MIKRODAT/FMI2223">sida</a> | MIKRODAT | 2017-10-04 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
 > | [FMI2224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2224) | <a class="no-graph" href="01-IIT/Kursplaner/MIKRODAT/FMI2224">sida</a> | MIKRODAT | 2019-10-29 | — | Paritetsskillnad | Svenska: 8 mål, engelska: 1 mål (diff 7) |
 > | [FMI2224](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FMI2224) | <a class="no-graph" href="01-IIT/Kursplaner/MIKRODAT/FMI2224">sida</a> | MIKRODAT | 2019-10-29 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
+> | [BMT22B](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BMT22B) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/BMT22B">sida</a> | MTA | 2026-11-05 | — | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+> | [BMT22C](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BMT22C) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/BMT22C">sida</a> | MTA | 2026-11-05 | — | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
+> | [BMT22D](https://www.du.se/sv/utbildning/kurser/kursplan/?code=BMT22D) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/BMT22D">sida</a> | MTA | 2026-11-05 | — | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
 > | [GMT2WL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT2WL) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/GMT2WL">sida</a> | MTA | 2022-06-08 | — | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
 > | [GMT34A](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34A) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/GMT34A">sida</a> | MTA | 2023-04-04 | — | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
 > | [GMT34K](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMT34K) | <a class="no-graph" href="01-IIT/Kursplaner/MTA/GMT34K">sida</a> | MTA | 2023-05-30 | — | Paritetsskillnad | Svenska: 5 mål, engelska: 0 mål (diff 5) |

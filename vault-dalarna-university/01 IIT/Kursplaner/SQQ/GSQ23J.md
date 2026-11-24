@@ -10,7 +10,7 @@ amne_kod: "SQQ"
 institution: "IIT"
 tags: [kursplan, SQQ, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 195613c4563b4804
+scrape_hash: 8a99cdc94af4dedc
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ23J
 up: "[[Samhällsbyggnadsteknik]]"
 ---
@@ -21,7 +21,7 @@ up: "[[Samhällsbyggnadsteknik]]"
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Slutbetyget på kursen sätts efter en samlad bedömning av examinator.… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Litteraturseminarium inklusive inlämningstext 2,5 hp… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Litteraturseminarium inklusive inlämningstext 2,5 hp Skriftlig och muntlig redovisning av övningar och projektarbete, 5 … |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att studenten skall tillämpa och fördjupa kunskaper och tekniker i databashantering… |
 > | Omfång på lärandemål | Långt mål | 30 ord: - Beskriva och analysera den demografiska utvecklingen i Sverige samt vilken bet… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
@@ -70,7 +70,8 @@ Kursen behandlar befolknings- och sociala förändringars påverkan på samhäll
 
 ## Examinationsformer
 
-Litteraturseminarium inklusive inlämningstext 2,5 hp
+Litteraturseminarium inklusive inlämningstext 2,5 hp  
+Skriftlig och muntlig redovisning av övningar och projektarbete, 5 hp
 
 ## Arbetsformer
 

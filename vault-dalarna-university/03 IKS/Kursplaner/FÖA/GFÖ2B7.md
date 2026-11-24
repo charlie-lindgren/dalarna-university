@@ -9,7 +9,7 @@ amne: "Företagsekonomi"
 amne_kod: "FÖA"
 institution: "IKS"
 tags: [kursplan, FÖA, IKS]
-scrape_hash: 67028e0f3c4c498a
+scrape_hash: 1f99e4b2423d80d9
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFÖ2B7
 up: "[[Företagsekonomi]]"
 ---
@@ -57,7 +57,10 @@ Kursen inleds med en genomgång av olika vetenskapliga skolbildningar. Även pri
 
 ## Examinationsformer
 
-Delmoment 1 (examinerar mål 1, 2): Skriftlig individuell inlämningsuppgift, 1,5 hp
+Delmoment 1 (examinerar mål 1, 2): Skriftlig individuell inlämningsuppgift, 1,5 hp  
+Delmoment 2 (examinerar mål 3): Inlämning av skriftlig gruppuppgift samt seminarium med muntlig presentation, 2 hp  
+Delmoment 3 (examinerar mål 4, 5, 7): Inlämning av skriftlig gruppuppgift samt genomförande av muntlig presentation, 3,5 hp   
+Delmoment 4 (examinerar mål 6): individuell kritisk opposition vid slutseminarium för forskningsplanen, 0,5 hp
 
 ## Arbetsformer
 
@@ -82,6 +85,8 @@ För godkänt betyg på kursen krävs betyget G på samtliga delmoment. För bet
 
 Bedömningar av respektive prestation sker endast under
 den tidsperiod som framgår av presenterad studiehandledning.  
+  
+Studenterna ska kunna redogöra för sina insatser i gruppuppgifterna.   
  
 
 Ersätter FÖ2022.

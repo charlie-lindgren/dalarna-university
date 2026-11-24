@@ -9,7 +9,7 @@ amne: "Mikrodataanalys"
 amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
-scrape_hash: 675276b7b94efb2c
+scrape_hash: e18e0c4b2fe98d37
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=AMI23G
 up: "[[Mikrodataanalys]]"
 ---
@@ -20,7 +20,7 @@ up: "[[Mikrodataanalys]]"
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Projektarbete U - VG Laborationer, seminarier och skriftlig reflektioner U-G. Slutbetyget … |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Projektarbete som rapporteras skriftligt och presenteras muntligt 3 hp,… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Projektarbete som rapporteras skriftligt och presenteras muntligt 3 hp, Laborationer 3 hp, Seminarier och skriftliga ref… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kursen ska studenten kunna:… |
 > | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
 <!-- analys:end -->
@@ -59,7 +59,9 @@ Slutligen diskuteras deep learning med tonvikt på de grundläggande principerna
 
 ## Examinationsformer
 
-Projektarbete som rapporteras skriftligt och presenteras muntligt 3 hp,
+Projektarbete som rapporteras skriftligt och presenteras muntligt 3 hp,   
+Laborationer 3 hp,  
+Seminarier och skriftliga reflektioner 1,5 hp.
 
 ## Arbetsformer
 

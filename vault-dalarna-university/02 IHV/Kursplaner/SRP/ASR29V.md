@@ -9,7 +9,7 @@ amne: "Sexuell, reproduktiv och perinatal hälsa"
 amne_kod: "SRP"
 institution: "IHV"
 tags: [kursplan, SRP, IHV]
-scrape_hash: d33b781971a75b0c
+scrape_hash: e8d3260bca098408
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ASR29V
 up: "[[Sexuell, reproduktiv och perinatal hälsa]]"
 ---
@@ -153,7 +153,16 @@ The course includes application, deepening and integration of clinical and theor
 The grading scale used for the final course grade is U–G.
 
 
-Score is reported as:
+Score is reported as:  
+ 
+ 
+  - Clinical education, 8.5 credits. 
+  - Seminar, 0.5 credits.
+
+Grades are reported as follows:
+
+  - Clinical practice - 8.5 Credits | U–G
+  - Seminar - 0.5 Credits | U–G
 
 ### Prerequisites
 

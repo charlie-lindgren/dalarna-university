@@ -8,11 +8,11 @@ huvudomrade: "Ej huvudområde 1"
 amne: "Entreprenörskap och innovationsteknik"
 amne_kod: "EUN"
 institution: "IKS"
-tags: [kursplan, EUN, IKS, vilande]
-scrape_hash: cd00bf4e3028bfa1
+tags: [kursplan, EUN, IKS, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: 9dfdbf3eb96d3aa6
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GEU2QY
 up: "[[Entreprenörskap och innovationsteknik]]"
-cssclasses: [vilande]
 ---
 
 <!-- analys:start -->
@@ -21,7 +21,7 @@ cssclasses: [vilande]
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. På de olika delmomenten kan något av följande betyg erhållas: Skriftlig reflektion och akt… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig reflektion, 1,5 hp… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftlig reflektion, 1,5 hp Inlämningsuppgift, 2,5 hp Aktivt deltagande i obligatoriska övningar, 1 hp… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
 <!-- analys:end -->
@@ -82,7 +82,10 @@ och hur man kan leda utveckling. Vidare fokuserar kursen på att reflektera
 
 ## Examinationsformer
 
-Skriftlig reflektion, 1,5 hp
+Skriftlig reflektion, 1,5 hp   
+Inlämningsuppgift, 2,5 hp   
+
+Aktivt deltagande i obligatoriska övningar, 1 hp
 
 ## Arbetsformer
 

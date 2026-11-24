@@ -8,12 +8,13 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (5 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (6 rader)</span></a>
 
-> [!example]- 5 fynd — klicka för att expandera
+> [!example]- 6 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
+> | [GNV3LS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3LS) | <a class="no-graph" href="02-IHV/Kursplaner/NAV/GNV3LS">sida</a> | NAV | 2026-11-18 | — | Felstavning | `högskole` (sv) |
 > | [GSA3L4](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L4) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L4">sida</a> | SAA | 2026-09-07 | — | Felstavning | `bedömmande` (sv) |
 > | [GSA3L6](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3L6) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3L6">sida</a> | SAA | 2026-09-07 | — | Felstavning | `bedömmande` (sv) |
 > | [GSA3LH](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA3LH) | <a class="no-graph" href="02-IHV/Kursplaner/SAA/GSA3LH">sida</a> | SAA | 2026-10-12 | — | Felstavning | `biståndshandläggningssituationer` (sv) |

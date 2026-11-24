@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (426 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Omfång-på-lärandemål.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (431 rader)</span></a>
 
-> [!example]- 426 fynd — klicka för att expandera
+> [!example]- 431 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -98,6 +98,11 @@ status: första pass
 > | [GHI3LF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LF) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LF">sida</a> | HIA | 2026-10-02 | — | För många mål | 17 lärandemål (maximum rekommenderat: 12 för 30 hp) |
 > | [GHI3LF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LF) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LF">sida</a> | HIA | 2026-10-02 | — | Långt mål | 28 ord: - diskutera och analysera ungdomars roll och aktivitet i fråga om formandet av k… |
 > | [GHI3LF](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LF) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LF">sida</a> | HIA | 2026-10-02 | — | Långt mål | 26 ord: - diskutera och analysera hur lärare, med stöd i historiedidaktisk teori, kan om… |
+> | [GHI3LK](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LK) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LK">sida</a> | HIA | 2026-10-30 | — | För många mål | 17 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | [GHI3LL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LL) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LL">sida</a> | HIA | 2026-10-30 | — | För många mål | 15 lärandemål (maximum rekommenderat: 12 för 30 hp) |
+> | [GHI3LL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LL) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LL">sida</a> | HIA | 2026-10-30 | — | Långt mål | 28 ord: - diskutera och analysera ungdomars roll och aktivitet i fråga om formandet av k… |
+> | [GHI3LL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LL) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LL">sida</a> | HIA | 2026-10-30 | — | Långt mål | 29 ord: - analysera och redogöra för hur forskare sett på hur historien, samhället, situ… |
+> | [GHI3LL](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LL) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LL">sida</a> | HIA | 2026-10-30 | — | Långt mål | 26 ord: - diskutera och analysera hur lärare, med stöd i historiedidaktisk teori, kan om… |
 > | [GHI3LQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LQ) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LQ">sida</a> | HIA | 2026-11-02 | — | För många mål | 26 lärandemål (maximum rekommenderat: 12 för 30 hp) |
 > | [GHI3LQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LQ) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LQ">sida</a> | HIA | 2026-11-02 | — | Långt mål | 29 ord: - redogöra för naturlandskapets förändringar och för människors utnyttjande av r… |
 > | [GHI3LQ](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GHI3LQ) | <a class="no-graph" href="03-IKS/Kursplaner/HIA/GHI3LQ">sida</a> | HIA | 2026-11-02 | — | Långt mål | 27 ord: - med utgångspunkt i praktikens didaktiska villkor och utifrån ett hållbarhetspe… |

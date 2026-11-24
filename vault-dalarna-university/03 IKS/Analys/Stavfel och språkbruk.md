@@ -8,12 +8,15 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="03-IKS/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (0 rader)</span></a>
+<a class="download-xlsx" href="03-IKS/Analys/Stavfel-och-språkbruk.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (3 rader)</span></a>
 
-> [!example]- 0 fynd — klicka för att expandera
+> [!example]- 3 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
+> | [RV1038](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1038) | <a class="no-graph" href="03-IKS/Kursplaner/RVA/RV1038">sida</a> | RVA | 2009-05-13 | — | Felstavning | `associationsrättsdelen` (sv) |
+> | [RV1038](https://www.du.se/sv/utbildning/kurser/kursplan/?code=RV1038) | <a class="no-graph" href="03-IKS/Kursplaner/RVA/RV1038">sida</a> | RVA | 2009-05-13 | — | Felstavning | `obeståndsdelen` (sv) |
+> | [TR1028](https://www.du.se/sv/utbildning/kurser/kursplan/?code=TR1028) | <a class="no-graph" href="03-IKS/Kursplaner/TRU/TR1028">sida</a> | TRU | 2015-12-07 | — | Felstavning (en) | `assignement` (en) |
 
 ## Syfte
 

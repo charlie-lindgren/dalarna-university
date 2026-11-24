@@ -9,7 +9,7 @@ amne: "Tyska"
 amne_kod: "TYA"
 institution: "ISLL"
 tags: [kursplan, TYA, ISLL]
-scrape_hash: 6de537c7b4d60857
+scrape_hash: e5d0ed7c06b1db65
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2SU
 up: "[[Tyska]]"
 ---
@@ -111,7 +111,10 @@ The Swedish grades U–VG.
 
 To achieve the grade of VG for the whole course, students must achieve VG in at least 4.5 credits.
 
-Reporting of grades:
+Reporting of grades:  
+Module 1: Basic grammar - 1.5 cr  
+Module 2: German Grammar I - 3 cr  
+Module 3: German Grammar II - 3 cr
 
 ### Prerequisites
 

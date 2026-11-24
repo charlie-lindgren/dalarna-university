@@ -9,7 +9,7 @@ amne: "Personal och arbetsliv"
 amne_kod: "PEE"
 institution: "IKS"
 tags: [kursplan, PEE, IKS]
-scrape_hash: 580cae027d2feea5
+scrape_hash: c573c1f1a38ecdb3
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GPA2NY
 up: "[[Personal och arbetsliv]]"
 ---
@@ -19,8 +19,8 @@ up: "[[Personal och arbetsliv]]"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. På de olika delarna kan något av följande betyg erhållas:… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Salstentamen, 4 hp… |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. På de olika delarna kan något av följande betyg erhållas: Salstentamen: U, G, VG Skriftlig… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Salstentamen, 4 hp Skriftlig inlämningsuppgift och seminarium, 3,5 hp… |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Det övergripande målet med kursen är att behandla generella teorier inom strategiområdet. Speciellt kommer kopplingen me… |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 6 mål, engelska: 0 mål (diff 6) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GPA269.… |
@@ -66,11 +66,13 @@ Efter avslutad kurs ska studenten kunna:
 
 ## Innehåll
 
-Kursen utgår från generella strategiska begrepp och teoribildningar och presenterar modeller för intern och extern organisationsanalys avseende omvärldsvillkor och kärnkompetenser. Därefter introduceras begreppet Strategisk HRM och grunderna för denna begrepps- och teorikombination utreds och analyseras. Kursen behandlar därefter teorier kring strategi- och personalarbete på internationell nivå, speciellt avseende funktioner hos internationella koncerner och de specifika förutsättningar för personalarbete som koncernstrukturen skapar.
+Kursen utgår från generella strategiska begrepp och teoribildningar och presenterar modeller för intern och extern organisationsanalys avseende omvärldsvillkor och kärnkompetenser. Därefter introduceras begreppet Strategisk HRM och grunderna för denna begrepps- och teorikombination utreds och analyseras. Kursen behandlar därefter teorier kring strategi- och personalarbete på internationell nivå, speciellt avseende funktioner hos internationella koncerner och de specifika förutsättningar för personalarbete som koncernstrukturen skapar.   
+De viktigaste trenderna inom internationellt personalarbete, både teoretiskt och praktiskt berörs också samt problem och hinder - t ex olika kultur- och ledarskapstraditioner – avseende möjligheterna till organisationsutveckling i praktiken.
 
 ## Examinationsformer
 
-Salstentamen, 4 hp
+Salstentamen, 4 hp   
+Skriftlig inlämningsuppgift och seminarium, 3,5 hp
 
 ## Arbetsformer
 
@@ -80,7 +82,10 @@ Föreläsningar, seminarier och grupparbete.
 
 Som betygsskala används U–VG.
 
-På de olika delarna kan något av följande betyg erhållas:
+På de olika delarna kan något av följande betyg erhållas:  
+Salstentamen: U, G, VG  
+Skriftlig inlämningsuppgift: U, G.  
+För godkänt betyg på kursen krävs betyget G på båda delarna. För betyget väl godkänd på kursen krävs betyget VG på den skriftliga salstentamen.
 
 ## Förkunskapskrav
 

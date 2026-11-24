@@ -9,7 +9,7 @@ amne: "Turismvetenskap"
 amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
-scrape_hash: 18f837b24ac09f98
+scrape_hash: a3b25c475f43f3f4
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=ATR26B
 up: "[[Turismvetenskap]]"
 ---
@@ -19,7 +19,7 @@ up: "[[Turismvetenskap]]"
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används A–F. Seminarier, U-G.… |
+> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används A–F. Seminarier, U-G. Slutbetyget på kursen sätts efter en samlad bedömning av examinator.… |
 > | Bloom-taxonomi | Låg verbnivå för avancerad kurs | Avancerad kurs utan analysera/värdera/skapa-verb; fördelning [4,1,1,0,0,0] |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Skriftliga inlämningsuppgifter 5 hp Seminarier 2,5 hp… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs ska studenten kunna:… |
@@ -73,7 +73,8 @@ Föreläsningar, audiovisuellt material, seminarier och workshops samt diskussio
 Som betygsskala används A–F.
 
 
-Seminarier, U-G.
+Seminarier, U-G.  
+Slutbetyget på kursen sätts efter en samlad bedömning av examinator.
 
 ## Förkunskapskrav
 
@@ -104,7 +105,8 @@ Sustainability and resilience in the context of the United Nations Sustainabilit
 
 ### Assessment
 
-Written assignments, 5 credits
+Written assignments, 5 credits   
+Seminars 2.5 credits
 
 ### Forms of Study
 
@@ -114,7 +116,8 @@ Lectures, audiovisual material, seminars and workshops and discussion forums.
 
 The Swedish grades A–F.
 
-Seminars, U-G.
+Seminars, U-G.  
+The final grade for the course is given after an overall assesmnet that is made by the examiner.
 
 ### Prerequisites
 

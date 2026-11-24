@@ -10,17 +10,16 @@ amne_kod: "SAA"
 institution: "IHV"
 tags: [kursplan, SAA, IHV, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: f5aacbd0848ccb69
+scrape_hash: 915dcfba42adffa7
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSA2NC
 up: "[[Socialt arbete]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 6 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 5 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. Betygsmoduler:… |
 > | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Seminarier, skriftliga inlämningsuppgifter och individuellt skriven rapport.… |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': **Moment 1. Campusförlagd utbildning, 5 högskolepoäng**… |
 > | Omfång på lärandemål | För många mål | 14 lärandemål (maximum rekommenderat: 10 för 15 hp) |
@@ -100,7 +99,13 @@ Efter avslutat moment ska den studerande kunna:
 
 ## Innehåll
 
-**Moment 1. Campusförlagd utbildning, 5 högskolepoäng**
+**Moment 1. Campusförlagd utbildning, 5 högskolepoäng**  
+  
+Detta moment utgör en introduktion i organisationsteori och behandlar även frågor om grupprocesser och samverkan mellan olika organisationer. Särskilt fokus ligger på den offentliga sektorns och det sociala arbetets organisering. Hållbar utveckling, jämställdhet och internationalisering beaktas i kursens innehåll.  
+  
+**Moment 2. Verksamhetsförlagd utbildning, 10 högskolepoäng**  
+  
+I momentet behandlas organisatoriska aspekter av det sociala arbetets praktik. I detta moment ges också möjlighet att självständigt utföra enklare uppgifter inom praktiskt socialt arbete.
 
 ## Examinationsformer
 
@@ -115,7 +120,10 @@ Föreläsningar, obligatoriska seminarier och verksamhetsförlagd utbildning.
 Som betygsskala används U–VG.
 
 
-Betygsmoduler:
+Betygsmoduler:  
+
+  - Campusförlagt moment: seminarier, inlämningsuppgifter, rapport, 5 hp, U - VG
+  - Verksamhetsförlagt moment, 10 hp, U - G.
 
 ## Förkunskapskrav
 

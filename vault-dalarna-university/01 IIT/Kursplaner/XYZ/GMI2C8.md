@@ -9,7 +9,7 @@ amne: "Mikrodataanalys"
 amne_kod: "XYZ"
 institution: "IIT"
 tags: [kursplan, XYZ, IIT]
-scrape_hash: 6580e1fae8696816
+scrape_hash: dceaa3df93e1f14b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GMI2C8
 up: "[[Mikrodataanalys]]"
 ---
@@ -20,7 +20,7 @@ up: "[[Mikrodataanalys]]"
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–VG. För att erhålla VG som slutbetyg på kursen krävs att bedömningskriterier för VG uppfylls s… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom följande delar:… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Kursen examineras genom följande delar: · Redovisning av projektidé samt projektbeskrivning (0,5 hp) · Mittperiodsredovi… |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Examensarbetet är det avslutande tillfället för studenten att tillämpa grundläggande kunskaper och ytterligare fördjupa … |
 > | Samstämmighet svenska och engelska | Paritetsskillnad | Svenska: 9 mål, engelska: 0 mål (diff 9) |
 > | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Examensarbetet är ett självständigt arbete, men kan med fördel utföras i grupper om två studenter, gärna i samarbete i f… |
@@ -71,11 +71,17 @@ _Värderingsförmåga och förhållningssätt_
 
 ## Innehåll
 
-Arbetet inleds med att formulera mål för projektet och ta fram en projektplan. Därefter följer arbetet med att genom bl.a. litteraturstudier beskriva bakgrund, samla in data t.ex. genom experiment eller intervjuer, och avslutningsvis genomföra en detaljerad analys och värdering av resultatet. Studenterna tränas att tänka i modeller, att göra medvetna och explicita förenklingar, samt samla in och analysera relevant information.
+Arbetet inleds med att formulera mål för projektet och ta fram en projektplan. Därefter följer arbetet med att genom bl.a. litteraturstudier beskriva bakgrund, samla in data t.ex. genom experiment eller intervjuer, och avslutningsvis genomföra en detaljerad analys och värdering av resultatet. Studenterna tränas att tänka i modeller, att göra medvetna och explicita förenklingar, samt samla in och analysera relevant information.  
+  
+Handledning under examensarbetet sköts gemensamt av företaget (när så är tillämpligt) och lärare vid högskolan genom regelbundna träffar. Vid handledningstillfällen ges studenterna möjlighet att diskutera olika sätt att avgränsa och beskriva problem, välja teoretiska utgångspunkter, strategier och olika datainsamlings- och dataanalysmetoder. Studenten dokumenterar examensarbetet i form av en rapport som är författad i enlighet med goda vetenskapliga principer. Avslutningsvis ska studenten dels presentera det egna arbetet, dels opponera på ett annat arbete.
 
 ## Examinationsformer
 
-Kursen examineras genom följande delar:
+Kursen examineras genom följande delar:  
+  
+· Redovisning av projektidé samt projektbeskrivning (0,5 hp)  
+· Mittperiodsredovisning, inklusive skrivet oppositionsprotokoll på ett annat examensarbete (0,5hp)  
+· Skriftlig rapport, muntlig redovisning, opposition på ett annat examensarbete, inkl. skrivet oppositionsprotokoll, samt deltagande vid övriga ordinarie redovisningar (14 hp).
 
 ## Arbetsformer
 

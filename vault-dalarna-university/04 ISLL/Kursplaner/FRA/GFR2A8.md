@@ -9,7 +9,7 @@ amne: "Franska"
 amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL, forskarutbildning]
-scrape_hash: 52951d3ee20c2b97
+scrape_hash: 9dcea39ce34d5bea
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR2A8
 up: "[[Franska]]"
 ---
@@ -121,7 +121,8 @@ Continuous assessment through written assignments and a written final exam.
 
 ### Forms of Study
 
-The teaching is conducted both in lecture form, and through seminars. Teaching
+The teaching is conducted both in lecture form, and through seminars. Teaching   
+ takes place in French and/or Swedish.
 
 ### Grades
 

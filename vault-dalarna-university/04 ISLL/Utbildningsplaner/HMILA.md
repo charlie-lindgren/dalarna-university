@@ -4,7 +4,7 @@ programnamn: "Masterprogram i interkulturella litteraturstudier"
 institution: "ISLL"
 faststalld: "Fastställd av prefekt för institutionen för språk, litteratur och lärande 2023-09-11 . Gäller fr.o.m.  HT 2023."
 tags: [utbildningsplan, program, ISLL]
-scrape_hash: 0e8219219d854c50
+scrape_hash: 440a99a859e91fc7
 url: https://www.du.se/sv/utbildning/Program/utbildningsplan/?code=HMILA
 up: "ISLL"
 ---
@@ -227,4 +227,7 @@ Programmet erbjuder möjlighet att genomföra praktik som ligger till grund för
 
 ### Programingångar
 
-allmän inriktning
+allmän inriktning  
+inriktning engelskspråkig litteratur  
+inriktning franskspråkig litteratur  
+inriktning tyskspråkig litteratur

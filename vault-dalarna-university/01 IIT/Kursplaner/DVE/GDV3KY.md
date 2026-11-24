@@ -8,22 +8,19 @@ huvudomrade: "Datavetenskaper 1"
 amne: "Datavetenskaper"
 amne_kod: "DVE"
 institution: "IIT"
-tags: [kursplan, DVE, IIT, stray]
-
-scrape_hash: f18bde6c8ea24860
+tags: [kursplan, DVE, IIT]
+scrape_hash: 3179e4a8d4f40eee
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDV3KY
 up: "[[Datavetenskaper]]"
 ---
 
 <!-- analys:start -->
-> [!warning]- 4 kvalitetsnoteringar i denna kursplan — klicka för att expandera
+> [!warning]- 2 kvalitetsnoteringar i denna kursplan — klicka för att expandera
 >
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
-> | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U–G.… |
 > | Introfras | Prosa/rubrik före frasning | Lärandemål inleds inte med 'Efter ...': Kursens övergripande mål är att introducera studenten till cybersäkerhetstrender, hotbilder vid IT-användning mot person… |
 > | Omfång på lärandemål | Långt mål | 26 ord: - Analysera säkerhetsbehov inom ett hemma- eller medelstort företagsnätverk och … |
-> | Övrigt | Saknar standardfras om pedagogiskt stöd | Saknar standardfras om pedagogiskt stöd: Ersätter GIK2V4. När kursen ges som webbaserad online-kurs ges den i Windowsmiljö. Andra operativsystem accepteras men i… |
 <!-- analys:end -->
 
 # GDV3KY
@@ -82,13 +79,14 @@ Avslutande nyckelbegrepp är lagstiftning, etik- och moralbegrepp inom cybersäk
 
   - Inlämningsuppgift
 
-## Arbetsformer
-
-Föreläsningar och övningsuppgifter.
-
 ## Betyg
 
-Som betygsskala används U–G.
+Som betygsskala på hel kurs används U–G.
+
+Betyg rapporteras enligt följande:
+
+  - Laborationsredovisningar - 4 hp | U–G
+  - Inlämningsuppgift med tillhörande muntlig redovisning - 3,5 hp | U–G
 
 ## Förkunskapskrav
 
@@ -99,6 +97,10 @@ Som betygsskala används U–G.
 Ersätter GIK2V4.
 
 När kursen ges som webbaserad online-kurs ges den i Windowsmiljö. Andra operativsystem accepteras men ingen support ges på dem. Internet-uppkoppling om minst 2Mbit/s krävs för studierna. Vidare krävs en webbkamera och ett headset eller en mikrofon. Samtliga aktiviteter som utförs via Cisco Packet Tracer, förutsätter att studenten har den senaste versionen av Cisco Packet Tracer installerad på sin dator.
+
+Kursen kan inte ingå i en examen tillsammans med andra kurser med motsvarande innehåll.
+
+Om studenten har ett beslut/rekommendation om riktat pedagogiskt stöd från Högskolan Dalarna på grund av funktionsnedsättning, har examinator rätt att anpassa examinationen. Examinator avgör utifrån kursplanens mål om examinationen kan anpassas i enlighet med beslutet/rekommendationen.
 
 ## English Version
 
@@ -140,13 +142,14 @@ Furthermore, the course sheds light on the principles of the CIA triad and its c
 
   - Assignment (3.5 credits)
 
-### Forms of Study
-
-Lectures and exercises.
-
 ### Grades
 
-The Swedish grades U–G.
+The grading scale used for the final course grade is U–G.
+
+Grades are reported as follows:
+
+  - Laboratory reports - 4 Credits | U–G
+  - Assignment with accompanying oral presentation - 3.5 Credits | U–G
 
 ### Prerequisites
 

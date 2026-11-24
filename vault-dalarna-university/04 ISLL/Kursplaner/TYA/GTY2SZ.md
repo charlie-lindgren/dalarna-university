@@ -8,8 +8,8 @@ huvudomrade: "Tyska 1"
 amne: "Tyska"
 amne_kod: "TYA"
 institution: "ISLL"
-tags: [kursplan, TYA, ISLL]
-scrape_hash: d3eca0dc0b7b52bd
+tags: [kursplan, TYA, ISLL, forskarutbildning]
+scrape_hash: 0cea12e71d881b91
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTY2SZ
 up: "[[Tyska]]"
 ---
@@ -114,7 +114,9 @@ The Swedish grades U–VG.
 
 To achieve the grade of VG for the whole course, students must achieve VG in all 5 credits.
 
-Reporting of grades:
+Reporting of grades:  
+Module 1: Oral Language Proficiency - 2 cr  
+Module 2: Culture Studies - 3 cr
 
 ### Prerequisites
 

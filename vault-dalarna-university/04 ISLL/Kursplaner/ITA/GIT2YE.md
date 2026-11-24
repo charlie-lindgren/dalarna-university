@@ -8,11 +8,11 @@ huvudomrade: "Italienska 1"
 amne: "Italienska"
 amne_kod: "ITA"
 institution: "ISLL"
-tags: [kursplan, ITA, ISLL, vilande]
-scrape_hash: 55b60bb787981e80
+tags: [kursplan, ITA, ISLL, stray, vilande]
+cssclasses: [vilande]
+scrape_hash: fee578ff9139d75b
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GIT2YE
 up: "[[Italienska]]"
-cssclasses: [vilande]
 ---
 
 <!-- analys:start -->
@@ -116,6 +116,11 @@ Obligatory seminars in which students must participate actively and interact wi
 The Swedish grades U–VG.
 
 To achieve the grade of VG for the whole course, students must achieve VG in both modules.
+  
+Reporting of grades:
+
+  - Active Participation in Seminars - 3 cr
+  - Written Assignments - 4.5 cr
 
 ### Prerequisites
 

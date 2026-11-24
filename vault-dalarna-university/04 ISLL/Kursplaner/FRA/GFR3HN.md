@@ -9,7 +9,7 @@ amne: "Franska"
 amne_kod: "FRA"
 institution: "ISLL"
 tags: [kursplan, FRA, ISLL]
-scrape_hash: 89ec195d111f79bb
+scrape_hash: cd2376e22e5d8cd1
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GFR3HN
 up: "[[Franska]]"
 ---
@@ -180,6 +180,10 @@ Efter godkänd delkurs ska den studerande kunna:
 ## Innehåll
 
 Kursen består av fyra obligatoriska delkurser:  
+Delkurs 1. Skriftlig språkfärdighet II, 7,5 hp  
+Delkurs 2. Introduktion till lingvistik och akademiskt skrivande, 5 hp  
+Delkurs 3. Muntlig franska, 5 hp  
+Delkurs 4. Franskspråkig litteratur II: Fram till 1900, 5 hp
 
 De studerande läser sedan en av de fyra didaktiska delkurserna:  
 Delkurs 5. Språkdidaktik 1A, 7,5 hp  
@@ -379,6 +383,10 @@ On completion of the module, students will be able to:
 ### Course Content
 
 The course consists of four obligatory modules:  
+Module 1. Written Language Proficiency II, 7.5 credits  
+Module 2. Introduction to Linguistics and Academic Writing, 5 credits  
+Module 3. Spoken French, 5 credits  
+Module 4. French Literature II: Up to 1900, 5 credits
 
 Students then choose one of the four modules that focus on language learning and teaching:  
 Module 5. Language Learning and Teaching 1A, 7.5 credits  

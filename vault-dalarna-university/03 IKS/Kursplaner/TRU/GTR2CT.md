@@ -9,7 +9,7 @@ amne: "Turismvetenskap"
 amne_kod: "TRU"
 institution: "IKS"
 tags: [kursplan, TRU, IKS]
-scrape_hash: 4369e6dfed690916
+scrape_hash: fefc222a5646f8c0
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GTR2CT
 up: "[[Turismvetenskap]]"
 ---
@@ -20,7 +20,7 @@ up: "[[Turismvetenskap]]"
 > | Område | Problem | Detalj |
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används A–F. Slutbetyget på kursen sätts efter en samlad bedömning av examinator.… |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Tentamen (6 hp) examinerar mål 1, 2, 3, 5, 8.… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Tentamen (6 hp) examinerar mål 1, 2, 3, 5, 8. Skriftlig inlämning (6 hp) examinerar mål 1-7 Muntlig presentation vid sem… |
 > | Frasningskonsistens | Avviker från referensformen | Efter avslutad kurs skall studenten kunna:… |
 > | Övrigt | Sektion saknas | Ingen Övrigt-sektion i kursplanen |
 <!-- analys:end -->
@@ -72,7 +72,9 @@ Genom att använda hållbarhetsbegreppet som utgångspunkt kommer kursen fokuser
 
 ## Examinationsformer
 
-Tentamen (6 hp) examinerar mål 1, 2, 3, 5, 8.
+Tentamen (6 hp) examinerar mål 1, 2, 3, 5, 8.  
+Skriftlig inlämning (6 hp) examinerar mål 1-7   
+Muntlig presentation vid seminarier och workshops (3 hp) examinerar mål 3, 5, 6, 7, 8.
 
 ## Arbetsformer
 

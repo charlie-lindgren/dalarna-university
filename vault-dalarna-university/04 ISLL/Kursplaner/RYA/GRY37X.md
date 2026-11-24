@@ -8,8 +8,8 @@ huvudomrade: "Ryska 1"
 amne: "Ryska"
 amne_kod: "RYA"
 institution: "ISLL"
-tags: [kursplan, RYA, ISLL, stray, vilande]
-cssclasses: [vilande]
+tags: [kursplan, RYA, ISLL, stray]
+
 scrape_hash: 33c51648faf7e4c9
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GRY37X
 up: "[[Ryska]]"

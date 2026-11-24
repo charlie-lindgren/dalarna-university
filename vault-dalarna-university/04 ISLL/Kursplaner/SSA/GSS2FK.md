@@ -8,8 +8,8 @@ huvudomrade: "Svenska som andraspråk 1"
 amne: "Svenska som andraspråk"
 amne_kod: "SSA"
 institution: "ISLL"
-tags: [kursplan, SSA, ISLL]
-scrape_hash: 10ac105cdfcaa743
+tags: [kursplan, SSA, ISLL, forskarutbildning]
+scrape_hash: d2d6b28b5b2aba60
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSS2FK
 up: "[[Svenska som andraspråk]]"
 ---
@@ -155,7 +155,11 @@ Som betygsskala används U–VG.
 
 För att få betyget VG på hela kursen krävs VG i minst tre av delkurserna.
 
-Betygsrapportering:
+Betygsrapportering:  
+Del 1: Flerspråkighet och andraspråksutveckling - 7,5 hp  
+Del 2: Svenska språkets struktur i ett andraspråksperspektiv - 7,5 hp  
+Del 3: Skriftspråksutveckling i ett flerspråkigt perspektiv - 7,5 hp  
+Del 4: Sociolingvistik i ett flerspråkigt perspektiv - 7,5 hp
 
 ## Förkunskapskrav
 

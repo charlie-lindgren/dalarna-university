@@ -9,7 +9,7 @@ amne: "Datateknik"
 amne_kod: "DTA"
 institution: "IIT"
 tags: [kursplan, DTA, IIT]
-scrape_hash: 28a46634662d6d29
+scrape_hash: 417d336e6401c05a
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GDT2JM
 up: "[[Datateknik]]"
 ---
@@ -67,7 +67,10 @@ Efter avslutad kurs skall studenten kunna:
 
 Kursen introducerar arkitekturer, modeller, protokoll och nätverkselement som ansluter användare, enheter, applikationer och data via Internet och över moderna datanätverk. Principerna för Ip-adressering och grunderna för 
 Ethernet-koncept, medier och grundläggande konfigurering av nätverksenheter introduceras för att skapa en 
-grund för god förståelse för begreppet datakommunikation. Kursen ger även en grundläggande introduktion till metoder för att testa nätverksförbindelser och lämpliga verktyg för detta. Vidare ger kursen grunderna i nätverkssäkerhet där vanligt förekommande hot belyses samt olika metoder vi kan tillämpa för att möta upp mot dessa hot och stärka skyddet för såväl infrastruktur, kommunikationsenheter samt data/information.
+grund för god förståelse för begreppet datakommunikation. Kursen ger även en grundläggande introduktion till metoder för att testa nätverksförbindelser och lämpliga verktyg för detta. Vidare ger kursen grunderna i nätverkssäkerhet där vanligt förekommande hot belyses samt olika metoder vi kan tillämpa för att möta upp mot dessa hot och stärka skyddet för såväl infrastruktur, kommunikationsenheter samt data/information.   
+  
+Kursen innehåller löpande praktiska moment för att hantera och 
+konfigurera kommunikationsutrustning i form av routrar och switchar.
 
 ## Examinationsformer
 

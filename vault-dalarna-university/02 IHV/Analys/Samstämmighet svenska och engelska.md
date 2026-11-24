@@ -8,9 +8,9 @@ status: första pass
 
 ## Problematiska kursplaner
 
-<a class="download-xlsx" href="02-IHV/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (263 rader)</span></a>
+<a class="download-xlsx" href="02-IHV/Analys/Samstämmighet-svenska-och-engelska.xlsx" download><svg class="download-xlsx-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg><span>Ladda ner som Excel-fil (268 rader)</span></a>
 
-> [!example]- 263 fynd — klicka för att expandera
+> [!example]- 268 fynd — klicka för att expandera
 >
 > | Kursplan | Sida | Ämne | Fastställd | Reviderad | Problem | Detalj |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -183,6 +183,9 @@ status: första pass
 > | [GNV367](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV367) | <a class="no-graph" href="02-IHV/Kursplaner/NAV/GNV367">sida</a> | NAV | 2023-09-11 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (2 mål utan punktlista) |
 > | [GNV3GU](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3GU) | <a class="no-graph" href="02-IHV/Kursplaner/NAV/GNV3GU">sida</a> | NAV | 2025-09-10 | — | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
 > | [GNV3GV](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3GV) | <a class="no-graph" href="02-IHV/Kursplaner/NAV/GNV3GV">sida</a> | NAV | 2025-09-10 | — | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
+> | [GNV3LR](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3LR) | <a class="no-graph" href="02-IHV/Kursplaner/NAV/GNV3LR">sida</a> | NAV | 2026-11-18 | — | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
+> | [GNV3LS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3LS) | <a class="no-graph" href="02-IHV/Kursplaner/NAV/GNV3LS">sida</a> | NAV | 2026-11-18 | — | Paritetsskillnad | Svenska: 7 mål, engelska: 1 mål (diff 6) |
+> | [GNV3LS](https://www.du.se/sv/utbildning/kurser/kursplan/?code=GNV3LS) | <a class="no-graph" href="02-IHV/Kursplaner/NAV/GNV3LS">sida</a> | NAV | 2026-11-18 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (1 mål utan punktlista) |
 > | [NV1035](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NV1035) | <a class="no-graph" href="02-IHV/Kursplaner/NAV/NV1035">sida</a> | NAV | 2017-08-24 | — | Paritetsskillnad | Svenska: 20 mål, engelska: 0 mål (diff 20) |
 > | [NV1036](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NV1036) | <a class="no-graph" href="02-IHV/Kursplaner/NAV/NV1036">sida</a> | NAV | 2017-09-28 | — | Paritetsskillnad | Svenska: 14 mål, engelska: 0 mål (diff 14) |
 > | [NV3001](https://www.du.se/sv/utbildning/kurser/kursplan/?code=NV3001) | <a class="no-graph" href="02-IHV/Kursplaner/NAV/NV3001">sida</a> | NAV | 2016-03-03 | — | Paritetsskillnad | Svenska: 4 mål, engelska: 0 mål (diff 4) |
@@ -277,6 +280,8 @@ status: första pass
 > | [FHV0002](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0002) | <a class="no-graph" href="02-IHV/Kursplaner/VÅRDVETS/FHV0002">sida</a> | VÅRDVETS | 2018-03-28 | 2022-09-28 | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (4 mål utan punktlista) |
 > | [FHV0003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0003) | <a class="no-graph" href="02-IHV/Kursplaner/VÅRDVETS/FHV0003">sida</a> | VÅRDVETS | 2018-11-01 | — | Saknar punktlista (sv) | Lärandemål skrivet som löpande text (4 mål utan punktlista) |
 > | [FHV0003](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FHV0003) | <a class="no-graph" href="02-IHV/Kursplaner/VÅRDVETS/FHV0003">sida</a> | VÅRDVETS | 2018-11-01 | — | Saknar punktlista (en) | Learning Outcomes skrivet som löpande text (4 mål utan punktlista) |
+> | [FVV222V](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FVV222V) | <a class="no-graph" href="02-IHV/Kursplaner/VÅRDVETS/FVV222V">sida</a> | VÅRDVETS | 2026-10-14 | — | Paritetsskillnad | Svenska: 8 mål, engelska: 0 mål (diff 8) |
+> | [FVV222X](https://www.du.se/sv/utbildning/kurser/kursplan/?code=FVV222X) | <a class="no-graph" href="02-IHV/Kursplaner/VÅRDVETS/FVV222X">sida</a> | VÅRDVETS | 2026-10-14 | — | Paritetsskillnad | Svenska: 7 mål, engelska: 0 mål (diff 7) |
 
 ## Syfte
 

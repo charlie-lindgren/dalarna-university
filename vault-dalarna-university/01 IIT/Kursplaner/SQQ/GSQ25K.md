@@ -10,7 +10,7 @@ amne_kod: "SQQ"
 institution: "IIT"
 tags: [kursplan, SQQ, IIT, stray, vilande]
 cssclasses: [vilande]
-scrape_hash: 8992a431b93ca629
+scrape_hash: 0dee6f3786b56d81
 url: https://www.du.se/sv/utbildning/kurser/kursplan/?code=GSQ25K
 up: "[[Samhällsbyggnadsteknik]]"
 ---
@@ -22,7 +22,7 @@ up: "[[Samhällsbyggnadsteknik]]"
 > | --- | --- | --- |
 > | Betygsrapportering | Saknar punktlista | Betyg skrivet utan punktlista: Som betygsskala används U, 3, 4, 5. För projektarbetet är betygsskalan U,G,VG. Slutbetyget på kursen sätts efter en saml… |
 > | Betygsskalor | Inkonsekvent delskalor | Inkonsekvent delskalor: kursnivå U,3,4,5 men VG nämns i delmoment |
-> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Projektarbete inklusive presentationer i ord och bild, seminarier och GIS-analyser, 5 hp… |
+> | Examinationsformer | Saknar punktlista | Examinationsformer skrivet som löpande text: Projektarbete inklusive presentationer i ord och bild, seminarier och GIS-analyser, 5 hp Tentamen, 2,5 hp… |
 > | Frasningskonsistens | Avviker från referensformen | Efter genomgången kurs ska studenten kunna:… |
 > | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Regional planering` → `GSQ25H` (nedlagd 2025-12-08); förkunskap nämner nedlagd kurs |
 > | Förkunskapskrav | Refererar bekräftat nedlagd kurs | `Transportplanering` → `GMI22F` (nedlagd 2024-11-06); förkunskap nämner nedlagd kurs |
@@ -59,7 +59,8 @@ Kursen ger en överblick över städer som företeelse i ett historiskt utveckli
 
 ## Examinationsformer
 
-Projektarbete inklusive presentationer i ord och bild, seminarier och GIS-analyser, 5 hp
+Projektarbete inklusive presentationer i ord och bild, seminarier och GIS-analyser, 5 hp  
+Tentamen, 2,5 hp
 
 ## Arbetsformer
 

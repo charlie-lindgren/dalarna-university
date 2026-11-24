@@ -27,7 +27,7 @@ tags: [MOC, institution, IHV]
 - [[Idrotts- och hälsovetenskap]] (158 kurser)
 - [[Kemi]] (1 kurser)
 - [[Medicinsk vetenskap]] (26 kurser)
-- [[Naturvetenskap]] (10 kurser)
+- [[Naturvetenskap]] (12 kurser)
 - [[Omvårdnad]] (70 kurser)
 - [[Psykologi]] (1 kurser)
 - [[Sexuell, reproduktiv och perinatal hälsa]] (53 kurser)
@@ -37,7 +37,7 @@ tags: [MOC, institution, IHV]
 ## Forskarutbildningsämnen
 
 - [[Forskarämne Pedagogiskt arbete]] (19 kurser)
-- [[Forskarämne Vårdvetenskap]] (4 kurser)
+- [[Forskarämne Vårdvetenskap]] (6 kurser)
 
 ## Kvalitetsanalys
 
